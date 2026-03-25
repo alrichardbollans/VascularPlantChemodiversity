@@ -6,7 +6,8 @@ The finalised lists of compound occurrences and diversity are given in `outputs`
 
 To cite this dataset, please use the associated Zenodo archive:
 
-` `
+`Richard-Bollans, Adam. ‘VascularPlantChemodiversity’. Zenodo, 2026. https://doi.org/10.5281/zenodo.19224646.
+`
 
 
 
