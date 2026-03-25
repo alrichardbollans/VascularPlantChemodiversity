@@ -1,0 +1,62 @@
+,C_ID,CAS ID,example_compound_name,Molecular formula,Mw,Organism,knapsack_search_term,Source
+0,C00004565,520-18-3,Kaempferol,C15H10O6,286.04773805,Ophioglossum petiolatum,Ophioglossum,KNApSAcK
+1,C00004632,1486-70-0,3-O-Methylquercetin,C16H12O7,316.05830274,Ophioglossum petiolatum,Ophioglossum,KNApSAcK
+2,C00005374,522-12-3,Quercetin 3-O-alpha-L-rhamnoside,C21H20O11,448.10056148,Ophioglossum petiolatum,Ophioglossum,KNApSAcK
+3,C00042107,143724-75-8,"3,5,7,3',4'-Pentahydroxy-8-prenylflavone",C20H18O7,370.10525293,Ophioglossum petiolatum,Ophioglossum,KNApSAcK
+4,C00042634,850754-70-0,Isoophioglonin 7-O-beta-D-glucopyranoside,C22H20O12,476.09547611,Ophioglossum petiolatum,Ophioglossum,KNApSAcK
+5,C00042806,850894-18-7,Ophioglonin,C16H10O7,314.04265268,Ophioglossum petiolatum,Ophioglossum,KNApSAcK
+6,C00042807,850754-67-5,Ophioglonin 7-O-beta-D-glucopyranoside,C22H20O12,476.09547611,Ophioglossum petiolatum,Ophioglossum,KNApSAcK
+7,C00042808,850754-69-7,Ophioglonol 4'-O-beta-D-glucopyranoside,C22H22O12,478.11112617,Ophioglossum petiolatum,Ophioglossum,KNApSAcK
+8,C00042809,850754-68-6,Ophioglonol prenyl ether,C21H20O7,384.12090299,Ophioglossum petiolatum,Ophioglossum,KNApSAcK
+0,C00004737,571-71-1,Ternatin,C19H18O8,374.10016755,Sceptridium ternatum,Sceptridium,KNApSAcK
+0,C00001205,110-15-6,Succinic acid,C4H6O4,118.02660868,Osmunda japonica,Osmunda,KNApSAcK
+1,C00003667,13408-56-5,Ponasterone A,C27H44O6,464.31378914,Osmunda japonica,Osmunda,KNApSAcK
+2,C00005135,69292-77-9,Asiaticalin,C21H20O11,448.10056148,Osmunda asiatica,Osmunda,KNApSAcK
+3,C00048033,54826-92-5,Osmundalactone,C6H8O3,128.04734412,Osmunda japonica,Osmunda,KNApSAcK
+4,C00048034,54835-71-1,Osmundalin,C12H18O8,290.10016755,Osmunda japonica,Osmunda,KNApSAcK
+5,C00057432,54656-51-8,Sherry lactone,C6H10O3,130.06299419,Osmunda japonica,Osmunda,KNApSAcK
+0,C00013426,50868-48-9,Ugonin C,C21H20O6,368.12598837,Helminthostachys zeylanica,Helminthostachys,KNApSAcK
+1,C00014180,651304-84-6,Ugonin E,C20H20O5,340.13107375,Helminthostachys zeylanica,Helminthostachys,KNApSAcK
+2,C00048213,651304-96-0,Ugonin J,C25H26O6,422.17293856,Helminthostachys zeylanica,Helminthostachys,KNApSAcK
+3,C00048214,651304-98-2,Ugonin K,C26H28O6,436.18858863,Helminthostachys zeylanica,Helminthostachys,KNApSAcK
+4,C00048215,651305-00-9,Ugonin L,C26H28O6,436.18858863,Helminthostachys zeylanica,Helminthostachys,KNApSAcK
+5,C00048216,1173928-62-5,Ugonin M,C25H24O7,436.15220312,Helminthostachys zeylanica,Helminthostachys,KNApSAcK
+6,C00048217,1173928-63-6,Ugonin N,C25H26O7,438.16785319,Helminthostachys zeylanica,Helminthostachys,KNApSAcK
+7,C00048218,1173928-64-7,Ugonin O,C25H24O7,436.15220312,Helminthostachys zeylanica,Helminthostachys,KNApSAcK
+8,C00048219,1173928-65-8,Ugonin P,C25H26O6,422.17293856,Helminthostachys zeylanica,Helminthostachys,KNApSAcK
+9,C00048220,1173928-66-9,Ugonin Q,C25H26O7,438.16785319,Helminthostachys zeylanica,Helminthostachys,KNApSAcK
+10,C00048221,1173928-67-0,Ugonin R,C25H28O7,440.18350325,Helminthostachys zeylanica,Helminthostachys,KNApSAcK
+11,C00048222,1173928-68-1,Ugonin S,C25H26O6,422.17293856,Helminthostachys zeylanica,Helminthostachys,KNApSAcK
+12,C00048223,1173928-69-2,Ugonin T,C20H18O5,338.11542369,Helminthostachys zeylanica,Helminthostachys,KNApSAcK
+0,C00015027,676565-22-3,Exophillic acid,C38H56O12,704.37717725,Exophiala pisciphila MF6720,Ophiala,KNApSAcK
+1,C00016282,172703-87-6,Exophilin A,C30H56O10,576.38734801,Exophiala pisciphila NI10102,Ophiala,KNApSAcK
+2,C00023609,25161-91-5,Loline,C8H14N2O,154.11061308,Epichloe coenophiala e4163,Ophiala,KNApSAcK
+3,C00023609,25161-91-5,Loline,C8H14N2O,154.11061308,Epichloe coenophiala e19,Ophiala,KNApSAcK
+4,C00023611,4914-36-7,N-Acetylloline,C10H16N2O2,196.12117777,Epichloe coenophiala e4163,Ophiala,KNApSAcK
+5,C00023611,4914-36-7,N-Acetylloline,C10H16N2O2,196.12117777,Epichloe coenophiala e19,Ophiala,KNApSAcK
+6,C00023612,22143-50-6,N-Methylloline,C9H16N2O,168.12626315,Epichloe coenophiala e19,Ophiala,KNApSAcK
+7,C00023612,22143-50-6,N-Methylloline,C9H16N2O,168.12626315,Epichloe coenophiala e4163,Ophiala,KNApSAcK
+8,C00028055,223130-61-8,Circumdatin C,C17H13N3O3,307.0956913,Exophiala sp.,Ophiala,KNApSAcK
+9,C00028793,21416-14-8,Pancracine,C16H17NO4,287.11575804,Rhodophiala bifida,Ophiala,KNApSAcK
+10,C00048657,326597-48-2,Circumdatin G,C17H13N3O3,307.0956913,Exophiala sp.,Ophiala,KNApSAcK
+11,C00051744,,exo-1-Acetamido-pyrrolizidine,C9H16N2O,168.12626315,Epichloe coenophiala e4163,Ophiala,KNApSAcK
+12,C00051744,,exo-1-Acetamido-pyrrolizidine,C9H16N2O,168.12626315,Epichloe coenophiala e19,Ophiala,KNApSAcK
+13,C00051745,,exo-1-Amino-pyrrolizidine,C7H14N2,126.11569846,Epichloe coenophiala e19,Ophiala,KNApSAcK
+14,C00051745,,exo-1-Amino-pyrrolizidine,C7H14N2,126.11569846,Epichloe coenophiala e4163,Ophiala,KNApSAcK
+15,C00051756,,N-Acetylnorloline,C9H14N2O2,182.10552771,Epichloe coenophiala e19,Ophiala,KNApSAcK
+16,C00051756,,N-Acetylnorloline,C9H14N2O2,182.10552771,Epichloe coenophiala e4309,Ophiala,KNApSAcK
+17,C00051756,,N-Acetylnorloline,C9H14N2O2,182.10552771,Epichloe coenophiala e4163,Ophiala,KNApSAcK
+18,C00051757,,N-Formylloline,C9H14N2O2,182.10552771,Epichloe coenophiala e4309,Ophiala,KNApSAcK
+0,C00000615,501-16-6,Caffeic acid,C9H8O4,180.04225874,Blechnum orientale,Blechnum,KNApSAcK
+1,C00000623,146805-53-0,(-)-Blechnic acid,C18H14O8,358.06886743,Blechnum orientale,Blechnum,KNApSAcK
+2,C00002724,327-97-9,3-O-Caffeoylquinic acid,C16H18O9,354.09508217,Blechnum orientale,Blechnum,KNApSAcK
+3,C00003175,6754-20-7,(-)-Polygodial,C15H22O2,234.16197995,Blechnum fluviatile,Blechnum,KNApSAcK
+4,C00003651,3604-87-3,Ecdysone,C27H44O6,464.31378914,Blechnum minus,Blechnum,KNApSAcK
+5,C00006610,1151-98-0,Apigeninidin,C15H11O4,255.06573384,Blechnum procerum,Blechnum,KNApSAcK
+6,C00006620,19045-96-6,Gesnerin,C21H21O9,417.11855727,Blechnum procerum,Blechnum,KNApSAcK
+7,C00006621,53948-06-4,Apigeninidin 7-glucoside,C21H21O9,417.11855727,Blechnum procerum,Blechnum,KNApSAcK
+8,C00006622,53948-04-2,"Apigeninidin 5,7-diglucoside",C27H31O14,579.1713807,Blechnum procerum,Blechnum,KNApSAcK
+9,C00006623,13089-93-5,Luteolinidin 5-glucoside,C21H21O10,433.11347189,Blechnum procerum,Blechnum,KNApSAcK
+10,C00006624,53948-05-3,Luteolinidin 7-glucoside,C21H21O10,433.11347189,Blechnum procerum,Blechnum,KNApSAcK
+11,C00006626,53947-98-1,"Luteolinidin 5,7-diglucoside",C27H31O15,595.16629532,Blechnum procerum,Blechnum,KNApSAcK
+12,C00014756,347861-61-4,Luteolinidin 5-(3-glucoside-2-acetylglucoside),C29H33O16,637.17686001,Blechnum novae-zelandiae,Blechnum,KNApSAcK

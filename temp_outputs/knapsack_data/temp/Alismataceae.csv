@@ -1,0 +1,563 @@
+,C_ID,CAS ID,example_compound_name,Molecular formula,Mw,Organism,knapsack_search_term,Source
+0,C00028171,133401-12-4,Dercitamide,C21H18N4OS,374.12013196,Oceanapia sagittaria,Sagittaria,KNApSAcK
+1,C00028952,185543-92-4,Sagitol,C21H18N4O2S,390.11504658,Oceanapia sagittaria,Sagittaria,KNApSAcK
+2,C00041813,116965-48-1,Sagittine A,C20H30O2,302.2245802,Sagittaria sagittifolia,Sagittaria,KNApSAcK
+3,C00041814,878157-94-9,Sagittine B,C25H40O5,420.28757439,Sagittaria sagittifolia,Sagittaria,KNApSAcK
+4,C00041815,878157-96-1,Sagittine C,C27H42O6,462.29813907,Sagittaria sagittifolia,Sagittaria,KNApSAcK
+5,C00041816,878157-98-3,Sagittine D,C27H42O6,462.29813907,Sagittaria sagittifolia,Sagittaria,KNApSAcK
+6,C00041817,878158-00-0,Sagittine E,C29H44O7,504.30870376,Sagittaria sagittifolia,Sagittaria,KNApSAcK
+7,C00041818,878158-01-1,Sagittine F,C29H44O7,504.30870376,Sagittaria sagittifolia,Sagittaria,KNApSAcK
+8,C00041819,878158-02-2,Sagittine G,C20H32O3,320.23514489,Sagittaria sagittifolia,Sagittaria,KNApSAcK
+9,C00060477,1808014-11-0,"[(1S,4aR,4bS,7S,10aR)-7-Ethenyl-1,2,3,4,4a,4b,5,6,7,8,10,10a-dodecahydro-1,4a,7-trimethyl-1-phenanthrenyl]methyl alpha-L-arabinofuranoside",C25H40O5,420.28757439,Sagittaria latifolia,Sagittaria,KNApSAcK
+10,C00060478,1808014-12-1,"[(1S,4aR,4bS,7S,10aR)-7-Ethenyl-1,2,3,4,4a,4b,5,6,7,8,10,10a-dodecahydro-1,4a,7-trimethyl-1-phenanthrenyl]methyl alpha-L-arabinofuranoside, 5-acetate",C27H42O6,462.29813907,Sagittaria latifolia,Sagittaria,KNApSAcK
+0,C00020349,87701-68-6,Alismoxide,C15H26O2,238.19328007,Alisma plantago-aquatica,Alisma,KNApSAcK
+1,C00020349,87701-68-6,Alismoxide,C15H26O2,238.19328007,Alisma orientalis (SAM) JUZEP,Alisma,KNApSAcK
+2,C00020395,87827-55-2,Alismol,C15H24O,220.18271539,Alisma orientalis (SAM) JUZEP,Alisma,KNApSAcK
+3,C00020395,87827-55-2,Alismol,C15H24O,220.18271539,Alisma plantago-aquatica,Alisma,KNApSAcK
+4,C00029660,944260-03-1,Alismorientol A,C15H28O4,272.19875938,Alisma orientalis (SAM.) JUZEP,Alisma,KNApSAcK
+5,C00029661,944260-04-2,Alismorientol B,C15H26O3,254.1881947,Alisma orientalis (SAM.) JUZEP,Alisma,KNApSAcK
+6,C00029662,19885-10-0,Alisol A,C30H50O5,490.36582471,Alisma plantago-aquatica var.orientalis,Alisma,KNApSAcK
+7,C00029662,19885-10-0,Alisol A,C30H50O5,490.36582471,Alisma orientalis,Alisma,KNApSAcK
+8,C00029663,18649-93-9,Alisol B,C30H48O4,472.35526002,Alisma plantago-aquatica var.orientalis,Alisma,KNApSAcK
+9,C00029663,18649-93-9,Alisol B,C30H48O4,472.35526002,Alisma orientalis,Alisma,KNApSAcK
+10,C00033525,142808-08-0,"13beta,17beta-Epoxyalisol A",C30H50O6,506.36073933,Alisma orientale,Alisma,KNApSAcK
+11,C00033547,155521-46-3,25-Anhydroalisol A,C30H48O4,472.35526002,Alisma orientale,Alisma,KNApSAcK
+12,C00033624,26575-95-1,Alisol B 23-acetate,C32H50O5,514.36582471,Alisma orientale,Alisma,KNApSAcK
+13,C00033625,155301-58-9,Alisol E 23-acetate,C32H52O6,532.37638939,Alisma orientale,Alisma,KNApSAcK
+14,C00033626,928148-51-0,Alisol O,C32H48O5,512.35017464,Alisma orientale,Alisma,KNApSAcK
+15,C00033627,1005191-19-4,Alisol P,C30H48O7,520.34000389,Alisma orientale,Alisma,KNApSAcK
+16,C00033628,1005191-17-2,Alisolide,C26H36O4,412.26135964,Alisma orientale,Alisma,KNApSAcK
+17,C00037585,612057-32-6,Orientalol E,C15H26O3,254.1881947,Alisma orientale,Alisma,KNApSAcK
+18,C00037585,612057-32-6,Orientalol E,C15H26O3,254.1881947,Alisma orientalis (SAM) JUZEP,Alisma,KNApSAcK
+19,C00037586,462106-99-6,Orientalol F,C15H26O2,238.19328007,Alisma orientale,Alisma,KNApSAcK
+20,C00037586,462106-99-6,Orientalol F,C15H26O2,238.19328007,Alisma orientalis (SAM) JUZEP,Alisma,KNApSAcK
+0,C00045296,401819-65-6,Echinodolide A,C20H30O3,318.21949482,Echinodorus macrophyllus,Echinodorus,KNApSAcK
+1,C00045297,401819-66-7,Echinodolide B,C20H30O3,318.21949482,Echinodorus macrophyllus,Echinodorus,KNApSAcK
+2,C00046662,262296-22-0,Chapecoderin A,C20H30O4,334.21440945,Echinodorus macrophyllus,Echinodorus,KNApSAcK
+3,C00046663,262296-23-1,Chapecoderin B,C20H30O4,334.21440945,Echinodorus macrophyllus,Echinodorus,KNApSAcK
+4,C00046664,262296-24-2,Chapecoderin C,C20H28O3,316.20384476,Echinodorus macrophyllus,Echinodorus,KNApSAcK
+5,C00046730,310433-44-4,Echinophyllin C,C20H29NO3,331.2147438,Echinodorus macrophyllus,Echinodorus,KNApSAcK
+6,C00046731,310433-45-5,Echinophyllin D,C28H37NO4,451.27225868,Echinodorus macrophyllus,Echinodorus,KNApSAcK
+7,C00046732,310433-47-7,Echinophyllin E,C34H46N2O6,578.33558722,Echinodorus macrophyllus,Echinodorus,KNApSAcK
+8,C00046733,310433-49-9,Echinophyllin F,C20H29NO3,331.2147438,Echinodorus macrophyllus,Echinodorus,KNApSAcK
+0,C00000152,7400-08-0,p-Coumaric acid,C9H8O3,164.04734412,Epimedium sagittatum,Sagitta,KNApSAcK
+1,C00000152,7400-08-0,p-Coumaric acid,C9H8O3,164.04734412,Gynerium sagittatum,Sagitta,KNApSAcK
+2,C00000170,140-10-3,Cinnamate,C9H8O2,148.0524295,Gynerium sagittatum,Sagitta,KNApSAcK
+3,C00000674,491-70-3,"5,7,3',4'-Tetrahydroxyflavone",C15H10O6,286.04773805,Epimedium sagittatum,Sagitta,KNApSAcK
+4,C00000674,491-70-3,"5,7,3',4'-Tetrahydroxyflavone",C15H10O6,286.04773805,Genista sagittalis,Sagitta,KNApSAcK
+5,C00000682,2955-23-9,Olivil,C20H24O7,376.15220312,Epimedium sagittatum,Sagitta,KNApSAcK
+6,C00000982,480-41-1,Naringenin,C15H12O5,272.06847349,Gynerium sagittatum,Sagitta,KNApSAcK
+7,C00002014,494-15-5,(+)-Ammodendrine,C12H20N2O,208.15756328,Genista sagittalis,Sagitta,KNApSAcK
+8,C00002101,315-22-0,Monocrotaline,C16H23NO6,325.15253747,Crotalaria sagittalis,Sagitta,KNApSAcK
+9,C00002207,486-89-5,(-)-Anagyrine,C15H20N2O,244.15756328,Genista sagittalis,Sagitta,KNApSAcK
+10,C00002216,486-86-2,(-)-N-Methylcytisine,C12H16N2O,204.12626315,Genista sagittalis,Sagitta,KNApSAcK
+11,C00002510,491-80-5,Biochanin A,C16H12O5,284.06847349,Gynerium sagittatum,Sagitta,KNApSAcK
+12,C00002520,30368-42-4,Dalbergioidin,C15H12O6,288.06338812,Gynerium sagittatum,Sagitta,KNApSAcK
+13,C00002524,32898-79-6,Ferreirin,C16H14O6,302.07903818,Gynerium sagittatum,Sagitta,KNApSAcK
+14,C00002526,446-72-0,Genistein,C15H10O5,270.05282343,Genista sagittalis,Sagitta,KNApSAcK
+15,C00002724,327-97-9,3-O-Caffeoylquinic acid,C16H18O9,354.09508217,Epimedium sagittatum,Sagitta,KNApSAcK
+16,C00002743,1135-24-6,Ferulic acid,C10H10O4,194.05790881,Gynerium sagittatum,Sagitta,KNApSAcK
+17,C00002751,14534-61-3,"3,4-Dicaffeoylquinic acid",C25H24O12,516.12677623,Pluchea sagittalis,Sagitta,KNApSAcK
+18,C00003417,546-97-4,Columbin,C20H22O6,358.14163844,Tinospora sagittata,Sagitta,KNApSAcK
+19,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Ligularia sagitta,Sagitta,KNApSAcK
+20,C00003801,32272-23-4,Isopratol,C16H12O4,268.07355887,Gynerium sagittatum,Sagitta,KNApSAcK
+21,C00003817,520-36-5,Apigenin,C15H10O5,270.05282343,Epimedium sagittatum,Sagitta,KNApSAcK
+22,C00004461,32769-00-9,Tricin 5-O-beta-D-glucopyranoside,C23H24O12,492.12677623,Gynerium sagittatum,Sagitta,KNApSAcK
+23,C00004565,520-18-3,Kaempferol,C15H10O6,286.04773805,Epimedium sagittatum,Sagitta,KNApSAcK
+24,C00004594,111864-35-8,"3,5,6,4'-Tetrahydroxy-7-methoxyflavone",C16H12O7,316.05830274,Balsamorhiza sagittata,Sagitta,KNApSAcK
+25,C00004631,117-39-5,Quercetin,C15H10O7,302.04265268,Epimedium sagittatum,Sagitta,KNApSAcK
+26,C00004689,3153-83-1,Spinacetin,C17H14O8,346.06886743,Balsamorhiza sagittata,Sagitta,KNApSAcK
+27,C00004694,17313-52-9,Centaureidin,C18H16O8,360.08451749,Pluchea sagittalis,Sagitta,KNApSAcK
+28,C00004789,61451-85-2,"5,7,3',4'-Tetrahydroxy-3,6,8-trimethoxyflavone",C18H16O9,376.07943211,Pluchea sagittalis,Sagitta,KNApSAcK
+29,C00005140,482-39-3,Afzelin,C21H20O10,432.10564686,Epimedium sagittatum,Sagitta,KNApSAcK
+30,C00005242,124704-85-4,Sagittatin A,C32H38O18,710.20581441,Epimedium sagittatum,Sagitta,KNApSAcK
+31,C00005372,482-36-0,Hyperin,C21H20O12,464.09547611,Epimedium sagittatum,Sagitta,KNApSAcK
+32,C00005374,522-12-3,Quercetin 3-O-alpha-L-rhamnoside,C21H20O11,448.10056148,Epimedium sagittatum,Sagitta,KNApSAcK
+33,C00005807,113558-14-8,Ikarisoside F,C31H36O14,632.21050586,Epimedium sagittatum,Sagitta,KNApSAcK
+34,C00005813,39049-19-9,Epimedoside E,C37H46O19,794.26332929,Epimedium sagittatum,Sagitta,KNApSAcK
+35,C00005815,118544-18-6,Diphylloside B,C38H48O19,808.27897935,Epimedium sagittatum,Sagitta,KNApSAcK
+36,C00005818,113558-15-9,Icariside II,C27H30O10,514.18389718,Epimedium sagittatum,Sagitta,KNApSAcK
+37,C00005819,56725-99-6,Icariside I,C27H30O11,530.1788118,Epimedium sagittatum,Sagitta,KNApSAcK
+38,C00005820,118525-36-3,Sagittatoside B,C32H38O14,646.22615592,Epimedium sagittatum,Sagitta,KNApSAcK
+39,C00005821,118525-35-2,Sagittatoside A,C33H40O15,676.23672061,Epimedium sagittatum,Sagitta,KNApSAcK
+40,C00005824,489-32-7,Icariin,C33H40O15,676.23672061,Epimedium sagittatum,Sagitta,KNApSAcK
+41,C00005826,110623-73-9,Epimedin B,C38H48O19,808.27897935,Epimedium sagittatum,Sagitta,KNApSAcK
+42,C00005828,110623-72-8,Epimedin A,C39H50O20,838.28954404,Epimedium sagittatum,Sagitta,KNApSAcK
+43,C00005829,140147-77-9,Hexandraside F,C39H50O20,838.28954404,Epimedium sagittatum,Sagitta,KNApSAcK
+44,C00005830,110642-44-9,Epimedin C,C39H50O19,822.29462942,Epimedium sagittatum,Sagitta,KNApSAcK
+45,C00005833,108195-76-2,Icaritin 3-rhamnoside,C27H32O11,532.19446187,Epimedium sagittatum,Sagitta,KNApSAcK
+46,C00005921,124723-15-5,Sagittain B,C34H40O19,752.2163791,Epimedium sagittatum,Sagitta,KNApSAcK
+47,C00006054,118525-37-4,Sagittatoside C,C35H42O16,718.2472853,Epimedium sagittatum,Sagitta,KNApSAcK
+48,C00009452,4569-98-6,5-O-Methylgenistein,C16H12O5,284.06847349,Genista sagittalis,Sagitta,KNApSAcK
+49,C00009553,66152-07-6,Dihydrobiochanin A,C16H14O5,286.08412356,Gynerium sagittatum,Sagitta,KNApSAcK
+50,C00013329,520-32-1,Tricin,C17H14O7,330.0739528,Gynerium sagittatum,Sagitta,KNApSAcK
+51,C00013407,174286-25-0,Yinyanghuo D,C20H18O5,338.11542369,Epimedium sagittatum,Sagitta,KNApSAcK
+52,C00013409,174286-24-9,Yinyanghuo B,C25H26O6,422.17293856,Epimedium sagittatum,Sagitta,KNApSAcK
+53,C00013431,149182-47-8,Yinyanghuo C,C20H16O5,336.09977362,Epimedium sagittatum,Sagitta,KNApSAcK
+54,C00013436,174286-26-1,Yinyanghuo E,C20H16O6,352.09468824,Epimedium sagittatum,Sagitta,KNApSAcK
+55,C00013456,174391-72-1,Yinyanghuo A,C25H24O6,420.1572885,Epimedium sagittatum,Sagitta,KNApSAcK
+56,C00013739,221455-13-6,Kaempferol 3-O-alpha-L-rhamnopyranosyl-(1->2)-alpha-L-rhamnopyranoside,C27H30O14,578.16355567,Epimedium sagittatum,Sagitta,KNApSAcK
+57,C00015684,108906-52-1,"7-Hydroxy-2,3,4,6-tetramethoxy-9.10-dihydrophenanthrene 7-O-glucoside",C24H30O10,478.18389718,Epimedium sagittatum,Sagitta,KNApSAcK
+58,C00020344,20979-50-4,"7,4'-Dimethoxyflavone",C17H14O4,282.08920894,Gynerium sagittatum,Sagitta,KNApSAcK
+59,C00020879,92356-90-6,8-Acetylpumilin,C22H24O8,416.14711774,Balsamorhiza sagittata,Sagitta,KNApSAcK
+60,C00022100,99274-94-9,"8,12,19-Trihydroxygeranylnerol",C20H34O4,338.24570957,Balsamorhiza sagittata,Sagitta,KNApSAcK
+61,C00025252,483-14-7,(-)-Tetrahydropalmatine,C21H25NO4,355.17835829,Parabaena sagittata Miers,Sagitta,KNApSAcK
+62,C00025255,102828-06-8,(-)-Thaicanine,C21H25NO5,371.17327292,Parabaena sagittata Miers,Sagitta,KNApSAcK
+63,C00025337,102828-07-9,O-Methylthaicanine,C22H27NO5,385.18892298,Parabaena sagittata Miers,Sagitta,KNApSAcK
+64,C00025347,18446-73-6,Tembetarine,C20H26NO4,344.18618333,Parabaena sagittata Miers,Sagitta,KNApSAcK
+65,C00026048,17369-30-1,Stepharanine,C19H18NO4,324.12358307,Tinospora sagittata,Sagitta,KNApSAcK
+66,C00028171,133401-12-4,Dercitamide,C21H18N4OS,374.12013196,Oceanapia sagittaria,Sagitta,KNApSAcK
+67,C00028952,185543-92-4,Sagitol,C21H18N4O2S,390.11504658,Oceanapia sagittaria,Sagitta,KNApSAcK
+68,C00029409,99274-85-8,"17,18-Epoxy-8-O-acetyl pumilin",C22H24O9,432.14203237,Balsamorhiza sagittata,Sagitta,KNApSAcK
+69,C00029468,18997-54-1,2-Phenylethyl beta-D-glucopyranoside,C14H20O6,284.12598837,Epimedium sagittatum,Sagitta,KNApSAcK
+70,C00029633,7372-30-7,Acetylursolic acid,C32H50O4,498.37091008,Ligularia sagitta,Sagitta,KNApSAcK
+71,C00030506,108906-51-0,Icariside B2,C19H30O8,386.19406794,Epimedium sagittatum,Sagitta,KNApSAcK
+72,C00031878,135743-09-8,Icariside H1,C18H26O9,386.15768243,Epimedium sagittatum,Sagitta,KNApSAcK
+73,C00034423,79-10-7,2-Propenoic acid,C3H4O2,72.02112937,Gynerium sagittatum,Sagitta,KNApSAcK
+74,C00034479,942158-39-6,Dihydrocajanin,C16H14O6,302.07903818,Gynerium sagittatum,Sagitta,KNApSAcK
+75,C00034728,60303-28-8,Selgin,C16H12O7,316.05830274,Epimedium sagittatum,Sagitta,KNApSAcK
+76,C00034743,102-94-3,Z-Cinnamic acid,C9H8O2,148.0524295,Gynerium sagittatum,Sagitta,KNApSAcK
+77,C00041813,116965-48-1,Sagittine A,C20H30O2,302.2245802,Sagittaria sagittifolia,Sagitta,KNApSAcK
+78,C00041814,878157-94-9,Sagittine B,C25H40O5,420.28757439,Sagittaria sagittifolia,Sagitta,KNApSAcK
+79,C00041815,878157-96-1,Sagittine C,C27H42O6,462.29813907,Sagittaria sagittifolia,Sagitta,KNApSAcK
+80,C00041816,878157-98-3,Sagittine D,C27H42O6,462.29813907,Sagittaria sagittifolia,Sagitta,KNApSAcK
+81,C00041817,878158-00-0,Sagittine E,C29H44O7,504.30870376,Sagittaria sagittifolia,Sagitta,KNApSAcK
+82,C00041818,878158-01-1,Sagittine F,C29H44O7,504.30870376,Sagittaria sagittifolia,Sagitta,KNApSAcK
+83,C00041819,878158-02-2,Sagittine G,C20H32O3,320.23514489,Sagittaria sagittifolia,Sagitta,KNApSAcK
+84,C00050505,4031-55-4,"(3R,4R,6S)-3,6-Dihydroxy-1-menthene",C10H18O2,170.13067982,Ligularia sagitta,Sagitta,KNApSAcK
+85,C00050523,69618-93-5,(+)-Farformolide B,C17H26O5,310.17802394,Ligularia sagitta,Sagitta,KNApSAcK
+86,C00050738,587833-66-7,"6beta-(2'-Methylbutanoyloxy)-10beta-hydroxy-8alpha-methoxyeremophil-7(11)-en-12,8beta-olide",C21H32O6,380.21988875,Ligularia sagitta,Sagitta,KNApSAcK
+87,C00050739,587833-65-6,"6beta-(2'-Methylbutanoyloxy)-10beta-hydroxy-8beta-methoxyeremophil-7(11)-en-12,8alpha-olide",C21H32O6,380.21988875,Ligularia sagitta,Sagitta,KNApSAcK
+88,C00050805,135743-06-5,Icariol A1,C21H26O8,406.16276781,Epimedium sagittatum,Sagitta,KNApSAcK
+89,C00050807,117596-83-5,Icariside B6,C19H32O7,372.21480338,Epimedium sagittatum,Sagitta,KNApSAcK
+90,C00050808,135743-08-7,Icariside D3,C15H20O7,312.12090299,Epimedium sagittatum,Sagitta,KNApSAcK
+91,C00050809,135774-83-3,Icariside E6,C27H38O12,554.23632668,Epimedium sagittatum,Sagitta,KNApSAcK
+92,C00050810,135743-07-6,Icariside E7,C29H38O13,594.2312413,Epimedium sagittatum,Sagitta,KNApSAcK
+93,C00050890,471-54-5,Isocolumbin,C20H22O6,358.14163844,Tinospora sagittata,Sagitta,KNApSAcK
+94,C00060477,1808014-11-0,"[(1S,4aR,4bS,7S,10aR)-7-Ethenyl-1,2,3,4,4a,4b,5,6,7,8,10,10a-dodecahydro-1,4a,7-trimethyl-1-phenanthrenyl]methyl alpha-L-arabinofuranoside",C25H40O5,420.28757439,Sagittaria latifolia,Sagitta,KNApSAcK
+95,C00060478,1808014-12-1,"[(1S,4aR,4bS,7S,10aR)-7-Ethenyl-1,2,3,4,4a,4b,5,6,7,8,10,10a-dodecahydro-1,4a,7-trimethyl-1-phenanthrenyl]methyl alpha-L-arabinofuranoside, 5-acetate",C27H42O6,462.29813907,Sagittaria latifolia,Sagitta,KNApSAcK
+0,C00000962,967-30-6,Fisetinidol-4beta-ol,C15H14O6,290.07903818,Neorautanenia amboensis,Rautanenia,KNApSAcK
+1,C00002526,446-72-0,Genistein,C15H10O5,270.05282343,Neorautanenia amboensis,Rautanenia,KNApSAcK
+2,C00002537,509-96-6,12a-Hydroxyrotenone,C23H22O7,410.13655306,Neorautanenia mitis,Rautanenia,KNApSAcK
+3,C00002537,509-96-6,12a-Hydroxyrotenone,C23H22O7,410.13655306,Neorautanenia amboensis,Rautanenia,KNApSAcK
+4,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Neorautanenia amboensis,Rautanenia,KNApSAcK
+5,C00002569,4436-62-7,Rotenonone,C23H18O7,406.10525293,Neorautanenia amboensis,Rautanenia,KNApSAcK
+6,C00008062,82358-46-1,Neoraufuracin,C22H26O9,434.15768243,Neorautanenia amboensis,Rautanenia,KNApSAcK
+7,C00008063,82358-50-7,Ambofuracin,C27H32O12,548.18937649,Neorautanenia amboensis,Rautanenia,KNApSAcK
+8,C00009000,1166-05-8,"Fisetinidol-4beta-ol 7,3',4'-trimethyl ether",C18H20O6,332.12598837,Neorautanenia amboensis,Rautanenia,KNApSAcK
+9,C00009001,77292-34-3,"Fisetinidol-4beta-ol 3,4,7,3',4'-pentamethyl ether",C20H24O6,360.1572885,Neorautanenia amboensis,Rautanenia,KNApSAcK
+10,C00009436,1242-81-5,Dehydroneotenone,C19H12O6,336.06338812,Neorautanenia amboensis,Rautanenia,KNApSAcK
+11,C00009436,1242-81-5,Dehydroneotenone,C19H12O6,336.06338812,Neorautanenia pseudopachyrrhiza,Rautanenia,KNApSAcK
+12,C00009436,1242-81-5,Dehydroneotenone,C19H12O6,336.06338812,Neorautanenia mitis,Rautanenia,KNApSAcK
+13,C00009436,1242-81-5,Dehydroneotenone,C19H12O6,336.06338812,Neorautanenia edulis,Rautanenia,KNApSAcK
+14,C00009547,76165-16-7,Neoraunone,C19H16O5,324.09977362,Neorautanenia amboensis,Rautanenia,KNApSAcK
+15,C00009548,10091-02-8,Neotenone,C19H14O6,338.07903818,Neorautanenia edulis,Rautanenia,KNApSAcK
+16,C00009548,10091-02-8,Neotenone,C19H14O6,338.07903818,Neorautanenia pseudopachyrrhiza,Rautanenia,KNApSAcK
+17,C00009548,10091-02-8,Neotenone,C19H14O6,338.07903818,Neorautanenia mitis,Rautanenia,KNApSAcK
+18,C00009548,10091-02-8,Neotenone,C19H14O6,338.07903818,Neorautanenia amboensis,Rautanenia,KNApSAcK
+19,C00009549,20848-57-1,Nepseudin,C20H18O6,354.11033831,Neorautanenia pseudopachyrrhiza,Rautanenia,KNApSAcK
+20,C00009550,76165-17-8,Ambonone,C20H18O6,354.11033831,Neorautanenia amboensis,Rautanenia,KNApSAcK
+21,C00009568,10065-28-8,Dolineone,C19H12O6,336.06338812,Neorautanenia pseudopachyrrhiza,Rautanenia,KNApSAcK
+22,C00009568,10065-28-8,Dolineone,C19H12O6,336.06338812,Neorautanenia mitis,Rautanenia,KNApSAcK
+23,C00009582,28617-71-2,12a-Hydroxydolineone,C19H12O7,352.05830274,Neorautanenia mitis,Rautanenia,KNApSAcK
+24,C00009582,28617-71-2,12a-Hydroxydolineone,C19H12O7,352.05830274,Neorautanenia amboensis,Rautanenia,KNApSAcK
+25,C00009583,54534-96-2,12a-Methoxydolineone,C20H14O7,366.0739528,Neorautanenia amboensis,Rautanenia,KNApSAcK
+26,C00009584,66322-32-5,12a-Hydroxyerosone,C20H16O7,368.08960287,Neorautanenia amboensis,Rautanenia,KNApSAcK
+27,C00009585,61419-05-4,Neobanone,C21H18O7,382.10525293,Neorautanenia amboensis,Rautanenia,KNApSAcK
+28,C00009588,,12a-Hydroxyisomillettone,C22H18O7,394.10525293,Neorautanenia amboensis,Rautanenia,KNApSAcK
+29,C00009589,54534-95-1,12a-Methoxyrotenone,C24H24O7,424.15220312,Neorautanenia amboensis,Rautanenia,KNApSAcK
+30,C00009598,28570-72-1,Dehydrodolineone,C19H10O6,334.04773805,Neorautanenia amboensis,Rautanenia,KNApSAcK
+31,C00009602,3466-09-9,Dehydrorotenone,C23H20O6,392.12598837,Neorautanenia amboensis,Rautanenia,KNApSAcK
+32,C00009621,30461-92-8,2-Hydroxyhomopterocarpin,C17H14O6,314.07903818,Neorautanenia edulis,Rautanenia,KNApSAcK
+33,C00009629,30461-93-9,2-Methoxypterocarpin,C18H16O6,328.09468824,Neorautanenia edulis,Rautanenia,KNApSAcK
+34,C00009630,2694-70-4,4-Methoxypterocarpin,C18H16O6,328.09468824,Neorautanenia ficifolia,Rautanenia,KNApSAcK
+35,C00009637,53766-53-3,Neodunol,C17H12O4,280.07355887,Neorautanenia edulis,Rautanenia,KNApSAcK
+36,C00009637,53766-53-3,Neodunol,C17H12O4,280.07355887,Neorautanenia amboensis,Rautanenia,KNApSAcK
+37,C00009638,13401-64-4,Neodulin,C18H12O5,308.06847349,Neorautanenia edulis,Rautanenia,KNApSAcK
+38,C00009639,53766-52-2,Neorautenol,C20H18O4,322.12050906,Neorautanenia edulis,Rautanenia,KNApSAcK
+39,C00009641,76165-15-6,Ambonane,C19H16O5,324.09977362,Neorautanenia amboensis,Rautanenia,KNApSAcK
+40,C00009642,53802-77-0,Calopocarpin,C20H20O4,324.13615913,Neorautanenia edulis,Rautanenia,KNApSAcK
+41,C00009646,10338-03-1,Ficinin,C19H14O6,338.07903818,Neorautanenia ficifolia,Rautanenia,KNApSAcK
+42,C00009649,65418-33-9,Neorautenane,C21H18O5,350.11542369,Neorautanenia amboensis,Rautanenia,KNApSAcK
+43,C00009651,33909-74-9,Edunol,C21H20O5,352.13107375,Neorautanenia edulis,Rautanenia,KNApSAcK
+44,C00009652,36284-97-6,Neorautane,C21H20O5,352.13107375,Neorautanenia edulis,Rautanenia,KNApSAcK
+45,C00009653,76165-14-5,Edulenanol,C21H20O5,352.13107375,Neorautanenia amboensis,Rautanenia,KNApSAcK
+46,C00009655,63343-94-2,Edudiol,C21H22O5,354.14672381,Neorautanenia amboensis,Rautanenia,KNApSAcK
+47,C00009655,63343-94-2,Edudiol,C21H22O5,354.14672381,Neorautanenia edulis,Rautanenia,KNApSAcK
+48,C00009656,76175-39-8,Neorautenanol,C21H18O6,366.11033831,Neorautanenia amboensis,Rautanenia,KNApSAcK
+49,C00009657,53734-77-3,Edulenane,C22H22O5,366.14672381,Neorautanenia amboensis,Rautanenia,KNApSAcK
+50,C00009658,76165-13-4,Neorautanol,C21H20O6,368.12598837,Neorautanenia amboensis,Rautanenia,KNApSAcK
+51,C00009659,37706-55-1,Edulenol,C22H24O5,368.16237388,Neorautanenia amboensis,Rautanenia,KNApSAcK
+52,C00009659,37706-55-1,Edulenol,C22H24O5,368.16237388,Neorautanenia edulis,Rautanenia,KNApSAcK
+53,C00009660,37706-59-5,Edulane,C22H24O5,368.16237388,Neorautanenia amboensis,Rautanenia,KNApSAcK
+54,C00009660,37706-59-5,Edulane,C22H24O5,368.16237388,Neorautanenia edulis,Rautanenia,KNApSAcK
+55,C00009662,63343-93-1,Neorautanin,C22H22O6,382.14163844,Neorautanenia edulis,Rautanenia,KNApSAcK
+56,C00009663,63343-95-3,Neoraucarpanol,C22H22O6,382.14163844,Neorautanenia amboensis,Rautanenia,KNApSAcK
+57,C00009664,26992-37-0,Folitenol,C25H26O4,390.18310932,Neorautanenia ficifolia,Rautanenia,KNApSAcK
+58,C00009665,26992-36-9,Folinin,C25H26O4,390.18310932,Neorautanenia ficifolia,Rautanenia,KNApSAcK
+59,C00009668,26992-38-1,Ficifolinol,C25H28O4,392.19875938,Neorautanenia ficifolia,Rautanenia,KNApSAcK
+60,C00009670,63343-92-0,Neoraucarpan,C23H24O6,396.1572885,Neorautanenia edulis,Rautanenia,KNApSAcK
+61,C00009682,61419-04-3,Neobanol,C18H12O6,324.06338812,Neorautanenia amboensis,Rautanenia,KNApSAcK
+62,C00009703,53766-54-4,Neorauteen,C17H10O4,278.05790881,Neorautanenia edulis,Rautanenia,KNApSAcK
+63,C00009704,238-67-5,Neoduleen,C18H10O5,306.05282343,Neorautanenia edulis,Rautanenia,KNApSAcK
+64,C00009731,53734-74-0,Neorauflavane,C21H22O5,354.14672381,Neorautanenia edulis,Rautanenia,KNApSAcK
+65,C00009740,63838-66-4,Ambanol,C19H16O6,340.09468824,Neorautanenia amboensis,Rautanenia,KNApSAcK
+66,C00009756,53734-75-1,Neorauflavene,C21H20O5,352.13107375,Neorautanenia edulis,Rautanenia,KNApSAcK
+67,C00009783,10091-01-7,Pachyrrhizin,C19H12O6,336.06338812,Neorautanenia pseudopachyrrhiza,Rautanenia,KNApSAcK
+68,C00009783,10091-01-7,Pachyrrhizin,C19H12O6,336.06338812,Neorautanenia edulis,Rautanenia,KNApSAcK
+69,C00009783,10091-01-7,Pachyrrhizin,C19H12O6,336.06338812,Neorautanenia amboensis,Rautanenia,KNApSAcK
+70,C00009784,10338-02-0,Neofolin,C20H14O7,366.0739528,Neorautanenia ficifolia,Rautanenia,KNApSAcK
+71,C00009808,53734-76-2,Neoraufurane,C20H18O5,338.11542369,Neorautanenia edulis,Rautanenia,KNApSAcK
+72,C00009809,76869-00-6,Ambofuranol,C21H22O5,354.14672381,Neorautanenia amboensis,Rautanenia,KNApSAcK
+73,C00010154,108069-01-8,Daidzein 7-O-glucoside-4'-O-apioside,C26H28O13,548.15299098,Neorautanenia amboensis,Rautanenia,KNApSAcK
+74,C00010155,108044-04-8,Daidzein 7-O-apiosyl-(1->6)-glucoside,C26H28O13,548.15299098,Neorautanenia amboensis,Rautanenia,KNApSAcK
+75,C00010163,108044-05-9,Genistein 7-O-apiosyl-(1->6)-glucoside,C26H28O14,564.14790561,Neorautanenia amboensis,Rautanenia,KNApSAcK
+76,C00010165,108069-00-7,Genistein 7-O-glucoside-4'-O-apioside,C26H28O14,564.14790561,Neorautanenia amboensis,Rautanenia,KNApSAcK
+0,C00000149,6750-60-3,Espatulenol,C15H24O,220.18271539,Wollastonia biflora,Astonia,KNApSAcK
+1,C00003072,14259-45-1,Asperuloside,C18H22O11,414.11621155,Wollastonia biflora,Astonia,KNApSAcK
+2,C00004638,2068-02-2,"Quercetin 3,7-dimethyl ether",C17H14O7,330.0739528,Wallastonia bifora,Astonia,KNApSAcK
+3,C00010679,18842-99-4,Scandoside,C16H22O11,390.11621155,Wollastonia biflora,Astonia,KNApSAcK
+4,C00026665,5594-43-4,Alstomicine,C20H26N2O2,326.19942809,Astonia macrophylla,Astonia,KNApSAcK
+5,C00031723,59219-65-7,Darutoside,C26H44O8,484.30361838,Wollastonia biflora,Astonia,KNApSAcK
+6,C00036635,118292-15-2,6-O-Acetylscandoside,C18H24O12,432.12677623,Wollastonia biflora,Astonia,KNApSAcK
+7,C00040111,335150-88-4,Pubeside B,C26H44O8,484.30361838,Wollastonia biflora,Astonia,KNApSAcK
+0,C00001874,3621-38-3,Jatrorrhizine,C20H20NO4,338.13923313,Michelia spp.,Michelia,KNApSAcK
+1,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium michelianum,Michelia,KNApSAcK
+2,C00002631,21453-69-0,(+)-Lirioresinol B,C22H26O8,418.16276781,Michelia fuscata,Michelia,KNApSAcK
+3,C00002631,21453-69-0,(+)-Lirioresinol B,C22H26O8,418.16276781,Michelia sphaerantha,Michelia,KNApSAcK
+4,C00003139,489-86-1,Guaiol,C15H26O,222.19836545,Michelia champaca,Michelia,KNApSAcK
+5,C00003327,66392-96-9,Michelenolide,C15H20O4,264.13615913,Michelia compressa,Michelia,KNApSAcK
+6,C00003328,68370-47-8,Micheliolide,C15H20O3,248.1412445,Michelia compressa,Michelia,KNApSAcK
+7,C00003345,20554-84-1,Parthenolide,C15H20O3,248.1412445,Michelia yunnanensis,Michelia,KNApSAcK
+8,C00003345,20554-84-1,Parthenolide,C15H20O3,248.1412445,Michelia lanuginosa,Michelia,KNApSAcK
+9,C00003345,20554-84-1,Parthenolide,C15H20O3,248.1412445,Michelia champaca,Michelia,KNApSAcK
+10,C00003363,4290-13-5,Santamarin,C15H20O3,248.1412445,Michelia compressa,Michelia,KNApSAcK
+11,C00011031,35997-96-7,(-)-Pinocampheol,C10H18O,154.1357652,Michelia champaca,Michelia,KNApSAcK
+12,C00011739,112078-76-9,(-)-Bisparthenolidine,C30H43NO6,513.30903811,Michelia rajaniana,Michelia,KNApSAcK
+13,C00011875,114076-68-5,(+)-Paramicholide,C17H24O6,324.1572885,Michelia rajaniana,Michelia,KNApSAcK
+14,C00011875,114076-68-5,(+)-Paramicholide,C17H24O6,324.1572885,Michelia baillonii,Michelia,KNApSAcK
+15,C00012095,2513-76-0,"11beta,13-Dihydroparthenolide",C15H22O3,250.15689457,Michelia compressa,Michelia,KNApSAcK
+16,C00012102,31025-59-9,Lanuginolide,C17H24O5,308.16237388,Michelia compressa,Michelia,KNApSAcK
+17,C00012102,31025-59-9,Lanuginolide,C17H24O5,308.16237388,Michelia lanuginosa,Michelia,KNApSAcK
+18,C00012107,114076-73-2,9alpha-Hydroxydihydroparthenolide,C15H22O4,266.15180919,Michelia baillonii,Michelia,KNApSAcK
+19,C00012111,1140769-72-1,2alpha-Hydroxydihydroparthenolide,C15H22O4,266.15180919,Michelia baillonii,Michelia,KNApSAcK
+20,C00012223,119766-96-0,(+)-N-Acetylparthenolidine,C17H25NO4,307.17835829,Michelia rajaniana,Michelia,KNApSAcK
+21,C00013040,28254-53-7,(+)-Reynosin,C15H20O3,248.1412445,Michelia yunnanensis,Michelia,KNApSAcK
+22,C00013041,32223-12-4,"11betaH,13-Dihydroreynosin",C15H22O3,250.15689457,Michelia compressa,Michelia,KNApSAcK
+23,C00020472,82461-08-3,Michefuscalide,C17H22O5,306.14672381,Michelia fuscata,Michelia,KNApSAcK
+24,C00020723,68421-48-7,Compressanolide,C15H22O3,250.15689457,Michelia compressa,Michelia,KNApSAcK
+25,C00025258,3175-89-1,Micheline A,C18H17NO3,295.12084342,Michelia compressa var.formosana,Michelia,KNApSAcK
+26,C00025258,3175-89-1,Micheline A,C18H17NO3,295.12084342,Michelia champaca,Michelia,KNApSAcK
+27,C00025258,3175-89-1,Micheline A,C18H17NO3,295.12084342,Michelia alba,Michelia,KNApSAcK
+28,C00025319,23740-25-2,Lanuginosine,C18H11NO4,305.06880785,Michelia lanuginosa Wall.,Michelia,KNApSAcK
+29,C00027444,3175-84-6,(-)-Michelalbine,C17H15NO3,281.10519335,Michelia alba,Michelia,KNApSAcK
+0,C00000152,7400-08-0,p-Coumaric acid,C9H8O3,164.04734412,Plantago major,Plantago,KNApSAcK
+1,C00000152,7400-08-0,p-Coumaric acid,C9H8O3,164.04734412,Plantago media,Plantago,KNApSAcK
+2,C00000206,69-72-7,Salicylic acid,C7H6O3,138.03169406,Plantago major,Plantago,KNApSAcK
+3,C00000207,65-85-0,Benzoic acid,C7H6O2,122.03677944,Plantago lanceolata,Plantago,KNApSAcK
+4,C00000320,24512-63-8,Geniposide,C17H24O10,388.13694699,Plantago bellardii,Plantago,KNApSAcK
+5,C00000353,6789-80-6,cis-3-Hexenal,C6H10O,98.07316494,Plantago lanceolata,Plantago,KNApSAcK
+6,C00000357,66-25-1,Hexanal,C6H12O,100.08881501,Plantago lanceolata,Plantago,KNApSAcK
+7,C00000615,501-16-6,Caffeic acid,C9H8O4,180.04225874,Plantago major,Plantago,KNApSAcK
+8,C00000615,501-16-6,Caffeic acid,C9H8O4,180.04225874,Plantago media,Plantago,KNApSAcK
+9,C00000615,501-16-6,Caffeic acid,C9H8O4,180.04225874,Plantago lanceolata,Plantago,KNApSAcK
+10,C00000619,97-53-0,Eugenol,C10H12O2,164.08372963,Plantago lanceolata,Plantago,KNApSAcK
+11,C00000674,491-70-3,"5,7,3',4'-Tetrahydroxyflavone",C15H10O6,286.04773805,Plantago argentea,Plantago,KNApSAcK
+12,C00000674,491-70-3,"5,7,3',4'-Tetrahydroxyflavone",C15H10O6,286.04773805,Plantago maritima,Plantago,KNApSAcK
+13,C00000674,491-70-3,"5,7,3',4'-Tetrahydroxyflavone",C15H10O6,286.04773805,Plantago major,Plantago,KNApSAcK
+14,C00000674,491-70-3,"5,7,3',4'-Tetrahydroxyflavone",C15H10O6,286.04773805,Plantago holosteum,Plantago,KNApSAcK
+15,C00000856,99-96-7,4-hydroxybenzoic acid,C7H6O3,138.03169406,Plantago media,Plantago,KNApSAcK
+16,C00000856,99-96-7,4-hydroxybenzoic acid,C7H6O3,138.03169406,Plantago lanceolata,Plantago,KNApSAcK
+17,C00001017,578-74-5,Apigenin 7-O-beta-D-glucopyranoside,C21H20O10,432.10564686,Plantago argentea,Plantago,KNApSAcK
+18,C00001017,578-74-5,Apigenin 7-O-beta-D-glucopyranoside,C21H20O10,432.10564686,Plantago lanceolata,Plantago,KNApSAcK
+19,C00001017,578-74-5,Apigenin 7-O-beta-D-glucopyranoside,C21H20O10,432.10564686,Plantago holosteum,Plantago,KNApSAcK
+20,C00001017,578-74-5,Apigenin 7-O-beta-D-glucopyranoside,C21H20O10,432.10564686,Plantago maritima,Plantago,KNApSAcK
+21,C00001022,491-67-8,Baicalein,C15H10O5,270.05282343,Plantago major,Plantago,KNApSAcK
+22,C00001024,21967-41-9,Baicalin,C21H18O11,446.08491142,Plantago major,Plantago,KNApSAcK
+23,C00001144,470-57-5,Planteose,C18H32O16,504.16903498,Plantago spp.,Plantago,KNApSAcK
+24,C00001145,512-69-6,Raffinose,C18H32O16,504.16903498,Plantago asiatica,Plantago,KNApSAcK
+25,C00001150,470-55-3,Stachyose,C24H42O21,666.22185841,Plantago asiatica,Plantago,KNApSAcK
+26,C00001151,57-50-1,D-Sucrose,C12H22O11,342.11621155,Plantago asiatica,Plantago,KNApSAcK
+27,C00001151,57-50-1,D-Sucrose,C12H22O11,342.11621155,Plantago lanceolata,Plantago,KNApSAcK
+28,C00001173,50-70-4,Sorbitol,C6H14O6,182.07903818,Plantago subspathulata,Plantago,KNApSAcK
+29,C00001173,50-70-4,Sorbitol,C6H14O6,182.07903818,Plantago cretica,Plantago,KNApSAcK
+30,C00001183,110-17-8,Fumaric acid,C4H4O4,116.01095862,Plantago major,Plantago,KNApSAcK
+31,C00001189,503-74-2,3-Methylbutanoic acid,C5H10O2,102.06807956,Plantago lanceolata,Plantago,KNApSAcK
+32,C00001218,142-62-1,Caproic acid,C6H12O2,116.08372963,Plantago lanceolata,Plantago,KNApSAcK
+33,C00001228,544-63-8,Myristic acid,C14H28O2,228.20893014,Plantago major,Plantago,KNApSAcK
+34,C00001228,544-63-8,Myristic acid,C14H28O2,228.20893014,Plantago lanceolata,Plantago,KNApSAcK
+35,C00001357,59-92-7,"3,4-Dihydroxyphenylalanine",C9H11NO4,197.06880785,Plantago major,Plantago,KNApSAcK
+36,C00001408,51-61-6,Dopamine,C8H11NO2,153.0789786,Plantago major,Plantago,KNApSAcK
+37,C00001424,51-41-2,Noradrenaline,C8H11NO3,169.07389323,Plantago major,Plantago,KNApSAcK
+38,C00001435,51-67-2,Tyramine,C8H11NO,137.08406398,Plantago major,Plantago,KNApSAcK
+39,C00001962,35471-10-4,Arenaine,C11H17N3O,207.13716219,Plantago arenaria,Plantago,KNApSAcK
+40,C00001964,18070-40-1,Boschniakine,C10H11NO,161.08406398,Plantago sempervirens,Plantago,KNApSAcK
+41,C00002648,490-79-9,Gentisic acid,C7H6O4,154.02660868,Plantago major,Plantago,KNApSAcK
+42,C00002668,99-50-3,"3,4-Dihydroxybenzoic acid",C7H6O4,154.02660868,Plantago media,Plantago,KNApSAcK
+43,C00002668,99-50-3,"3,4-Dihydroxybenzoic acid",C7H6O4,154.02660868,Plantago lanceolata,Plantago,KNApSAcK
+44,C00002674,530-57-4,Syringic acid,C9H10O5,198.05282343,Plantago media,Plantago,KNApSAcK
+45,C00002674,530-57-4,Syringic acid,C9H10O5,198.05282343,Plantago lanceolata,Plantago,KNApSAcK
+46,C00002674,530-57-4,Syringic acid,C9H10O5,198.05282343,Plantago major,Plantago,KNApSAcK
+47,C00002682,121-34-6,Vanillic acid,C8H8O4,168.04225874,Plantago major,Plantago,KNApSAcK
+48,C00002682,121-34-6,Vanillic acid,C8H8O4,168.04225874,Plantago media,Plantago,KNApSAcK
+49,C00002682,121-34-6,Vanillic acid,C8H8O4,168.04225874,Plantago lanceolata,Plantago,KNApSAcK
+50,C00002683,5463-22-9,Vanillin,C8H8O3,152.04734412,Plantago lanceolata,Plantago,KNApSAcK
+51,C00002724,327-97-9,3-O-Caffeoylquinic acid,C16H18O9,354.09508217,Plantago bellardi,Plantago,KNApSAcK
+52,C00002724,327-97-9,3-O-Caffeoylquinic acid,C16H18O9,354.09508217,Plantago cretica,Plantago,KNApSAcK
+53,C00002724,327-97-9,3-O-Caffeoylquinic acid,C16H18O9,354.09508217,Plantago major,Plantago,KNApSAcK
+54,C00002738,82854-37-3,Echinacoside,C35H46O20,786.25824391,Plantago maritima,Plantago,KNApSAcK
+55,C00002743,1135-24-6,Ferulic acid,C10H10O4,194.05790881,Plantago lanceolata,Plantago,KNApSAcK
+56,C00002743,1135-24-6,Ferulic acid,C10H10O4,194.05790881,Plantago major,Plantago,KNApSAcK
+57,C00002743,1135-24-6,Ferulic acid,C10H10O4,194.05790881,Plantago media,Plantago,KNApSAcK
+58,C00002750,132278-04-7,Hellicoside,C29H36O17,656.19524973,Plantago asiatica,Plantago,KNApSAcK
+59,C00002767,104777-68-6,Plantamajoside,C29H36O16,640.20033511,Plantago webbii,Plantago,KNApSAcK
+60,C00002767,104777-68-6,Plantamajoside,C29H36O16,640.20033511,Plantago ovata,Plantago,KNApSAcK
+61,C00002767,104777-68-6,Plantamajoside,C29H36O16,640.20033511,Plantago arborescens,Plantago,KNApSAcK
+62,C00002767,104777-68-6,Plantamajoside,C29H36O16,640.20033511,Plantago media,Plantago,KNApSAcK
+63,C00002767,104777-68-6,Plantamajoside,C29H36O16,640.20033511,Plantago major,Plantago,KNApSAcK
+64,C00002767,104777-68-6,Plantamajoside,C29H36O16,640.20033511,Plantago asiatica,Plantago,KNApSAcK
+65,C00002783,61276-17-3,Acteoside,C29H36O15,624.20542048,Plantago arenaria,Plantago,KNApSAcK
+66,C00002783,61276-17-3,Acteoside,C29H36O15,624.20542048,Plantago arborescens,Plantago,KNApSAcK
+67,C00002783,61276-17-3,Acteoside,C29H36O15,624.20542048,Plantago altissima,Plantago,KNApSAcK
+68,C00002783,61276-17-3,Acteoside,C29H36O15,624.20542048,Plantago alpina,Plantago,KNApSAcK
+69,C00002783,61276-17-3,Acteoside,C29H36O15,624.20542048,Plantago afra,Plantago,KNApSAcK
+70,C00002783,61276-17-3,Acteoside,C29H36O15,624.20542048,Plantago bellardii,Plantago,KNApSAcK
+71,C00002783,61276-17-3,Acteoside,C29H36O15,624.20542048,Plantago major,Plantago,KNApSAcK
+72,C00002783,61276-17-3,Acteoside,C29H36O15,624.20542048,Plantago lanceolata,Plantago,KNApSAcK
+73,C00002783,61276-17-3,Acteoside,C29H36O15,624.20542048,Plantago lagopus,Plantago,KNApSAcK
+74,C00002783,61276-17-3,Acteoside,C29H36O15,624.20542048,Plantago hookeriana,Plantago,KNApSAcK
+75,C00002783,61276-17-3,Acteoside,C29H36O15,624.20542048,Plantago cretica,Plantago,KNApSAcK
+76,C00002783,61276-17-3,Acteoside,C29H36O15,624.20542048,Plantago bellardi,Plantago,KNApSAcK
+77,C00002783,61276-17-3,Acteoside,C29H36O15,624.20542048,Plantago webbii,Plantago,KNApSAcK
+78,C00002783,61276-17-3,Acteoside,C29H36O15,624.20542048,Plantago uniflora,Plantago,KNApSAcK
+79,C00002783,61276-17-3,Acteoside,C29H36O15,624.20542048,Plantago subulata,Plantago,KNApSAcK
+80,C00002783,61276-17-3,Acteoside,C29H36O15,624.20542048,Plantago australis,Plantago,KNApSAcK
+81,C00002783,61276-17-3,Acteoside,C29H36O15,624.20542048,Plantago asiatica,Plantago,KNApSAcK
+82,C00002783,61276-17-3,Acteoside,C29H36O15,624.20542048,Plantago sempervirens,Plantago,KNApSAcK
+83,C00002783,61276-17-3,Acteoside,C29H36O15,624.20542048,Plantago raoulii,Plantago,KNApSAcK
+84,C00002783,61276-17-3,Acteoside,C29H36O15,624.20542048,Plantago patagonica,Plantago,KNApSAcK
+85,C00002783,61276-17-3,Acteoside,C29H36O15,624.20542048,Plantago ovata,Plantago,KNApSAcK
+86,C00002783,61276-17-3,Acteoside,C29H36O15,624.20542048,Plantago nivalis,Plantago,KNApSAcK
+87,C00002783,61276-17-3,Acteoside,C29H36O15,624.20542048,Plantago myosuros,Plantago,KNApSAcK
+88,C00002783,61276-17-3,Acteoside,C29H36O15,624.20542048,Plantago lundborgii,Plantago,KNApSAcK
+89,C00002783,61276-17-3,Acteoside,C29H36O15,624.20542048,Plantago subspathulata,Plantago,KNApSAcK
+90,C00002783,61276-17-3,Acteoside,C29H36O15,624.20542048,Plantago stauntonii,Plantago,KNApSAcK
+91,C00003072,14259-45-1,Asperuloside,C18H22O11,414.11621155,Plantago bellardi,Plantago,KNApSAcK
+92,C00003072,14259-45-1,Asperuloside,C18H22O11,414.11621155,Plantago cretica,Plantago,KNApSAcK
+93,C00003072,14259-45-1,Asperuloside,C18H22O11,414.11621155,Plantago ovata,Plantago,KNApSAcK
+94,C00003072,14259-45-1,Asperuloside,C18H22O11,414.11621155,Plantago altissima,Plantago,KNApSAcK
+95,C00003072,14259-45-1,Asperuloside,C18H22O11,414.11621155,Plantago lagopus,Plantago,KNApSAcK
+96,C00003072,14259-45-1,Asperuloside,C18H22O11,414.11621155,Plantago lanceolata,Plantago,KNApSAcK
+97,C00003072,14259-45-1,Asperuloside,C18H22O11,414.11621155,Plantago major,Plantago,KNApSAcK
+98,C00003073,479-98-1,Aucubin,C15H22O9,346.1263823,Plantago subulata,Plantago,KNApSAcK
+99,C00003073,479-98-1,Aucubin,C15H22O9,346.1263823,Plantago afra,Plantago,KNApSAcK
+100,C00003073,479-98-1,Aucubin,C15H22O9,346.1263823,Plantago lundborgii,Plantago,KNApSAcK
+101,C00003073,479-98-1,Aucubin,C15H22O9,346.1263823,Plantago lanceolata,Plantago,KNApSAcK
+102,C00003073,479-98-1,Aucubin,C15H22O9,346.1263823,Plantago lagopus,Plantago,KNApSAcK
+103,C00003073,479-98-1,Aucubin,C15H22O9,346.1263823,Plantago hookeriana,Plantago,KNApSAcK
+104,C00003073,479-98-1,Aucubin,C15H22O9,346.1263823,Plantago media,Plantago,KNApSAcK
+105,C00003073,479-98-1,Aucubin,C15H22O9,346.1263823,Plantago maritima,Plantago,KNApSAcK
+106,C00003073,479-98-1,Aucubin,C15H22O9,346.1263823,Plantago major,Plantago,KNApSAcK
+107,C00003073,479-98-1,Aucubin,C15H22O9,346.1263823,Plantago webbii,Plantago,KNApSAcK
+108,C00003073,479-98-1,Aucubin,C15H22O9,346.1263823,Plantago uniflora,Plantago,KNApSAcK
+109,C00003073,479-98-1,Aucubin,C15H22O9,346.1263823,Plantago stauntonii,Plantago,KNApSAcK
+110,C00003073,479-98-1,Aucubin,C15H22O9,346.1263823,Plantago sempervirens,Plantago,KNApSAcK
+111,C00003073,479-98-1,Aucubin,C15H22O9,346.1263823,Plantago rhodosperma,Plantago,KNApSAcK
+112,C00003073,479-98-1,Aucubin,C15H22O9,346.1263823,Plantago raoulii,Plantago,KNApSAcK
+113,C00003073,479-98-1,Aucubin,C15H22O9,346.1263823,Plantago patagonica,Plantago,KNApSAcK
+114,C00003073,479-98-1,Aucubin,C15H22O9,346.1263823,Plantago ovata,Plantago,KNApSAcK
+115,C00003073,479-98-1,Aucubin,C15H22O9,346.1263823,Plantago myosuros,Plantago,KNApSAcK
+116,C00003073,479-98-1,Aucubin,C15H22O9,346.1263823,Plantago depressa,Plantago,KNApSAcK
+117,C00003073,479-98-1,Aucubin,C15H22O9,346.1263823,Plantago cretica,Plantago,KNApSAcK
+118,C00003073,479-98-1,Aucubin,C15H22O9,346.1263823,Plantago coronopus,Plantago,KNApSAcK
+119,C00003073,479-98-1,Aucubin,C15H22O9,346.1263823,Plantago cornuti,Plantago,KNApSAcK
+120,C00003073,479-98-1,Aucubin,C15H22O9,346.1263823,Plantago bellardi,Plantago,KNApSAcK
+121,C00003073,479-98-1,Aucubin,C15H22O9,346.1263823,Plantago australis,Plantago,KNApSAcK
+122,C00003073,479-98-1,Aucubin,C15H22O9,346.1263823,Plantago atrata,Plantago,KNApSAcK
+123,C00003073,479-98-1,Aucubin,C15H22O9,346.1263823,Plantago asiatica,Plantago,KNApSAcK
+124,C00003073,479-98-1,Aucubin,C15H22O9,346.1263823,Plantago argentea,Plantago,KNApSAcK
+125,C00003073,479-98-1,Aucubin,C15H22O9,346.1263823,Plantago arborescens,Plantago,KNApSAcK
+126,C00003073,479-98-1,Aucubin,C15H22O9,346.1263823,Plantago amplexicaulis,Plantago,KNApSAcK
+127,C00003073,479-98-1,Aucubin,C15H22O9,346.1263823,Plantago altissima,Plantago,KNApSAcK
+128,C00003073,479-98-1,Aucubin,C15H22O9,346.1263823,Plantago alpina,Plantago,KNApSAcK
+129,C00003075,2415-24-9,Catalpol,C15H22O10,362.12129692,Plantago lagopus,Plantago,KNApSAcK
+130,C00003075,2415-24-9,Catalpol,C15H22O10,362.12129692,Plantago hookeriana,Plantago,KNApSAcK
+131,C00003075,2415-24-9,Catalpol,C15H22O10,362.12129692,Plantago media,Plantago,KNApSAcK
+132,C00003075,2415-24-9,Catalpol,C15H22O10,362.12129692,Plantago cornuti,Plantago,KNApSAcK
+133,C00003075,2415-24-9,Catalpol,C15H22O10,362.12129692,Plantago uniflora,Plantago,KNApSAcK
+134,C00003075,2415-24-9,Catalpol,C15H22O10,362.12129692,Plantago atrata,Plantago,KNApSAcK
+135,C00003075,2415-24-9,Catalpol,C15H22O10,362.12129692,Plantago spp.,Plantago,KNApSAcK
+136,C00003075,2415-24-9,Catalpol,C15H22O10,362.12129692,Plantago patagonica,Plantago,KNApSAcK
+137,C00003075,2415-24-9,Catalpol,C15H22O10,362.12129692,Plantago ovata,Plantago,KNApSAcK
+138,C00003075,2415-24-9,Catalpol,C15H22O10,362.12129692,Plantago argentea,Plantago,KNApSAcK
+139,C00003075,2415-24-9,Catalpol,C15H22O10,362.12129692,Plantago amplexicaulis,Plantago,KNApSAcK
+140,C00003075,2415-24-9,Catalpol,C15H22O10,362.12129692,Plantago altissima,Plantago,KNApSAcK
+141,C00003075,2415-24-9,Catalpol,C15H22O10,362.12129692,Plantago lanceolata,Plantago,KNApSAcK
+142,C00003075,2415-24-9,Catalpol,C15H22O10,362.12129692,Plantago lundborgii,Plantago,KNApSAcK
+143,C00003075,2415-24-9,Catalpol,C15H22O10,362.12129692,Plantago major,Plantago,KNApSAcK
+144,C00003075,2415-24-9,Catalpol,C15H22O10,362.12129692,Plantago nivalis,Plantago,KNApSAcK
+145,C00003674,83-48-7,beta-Stigmasterol,C29H48O,412.37051615,Plantago major,Plantago,KNApSAcK
+146,C00003674,83-48-7,beta-Stigmasterol,C29H48O,412.37051615,Plantago asiatica,Plantago,KNApSAcK
+147,C00003817,520-36-5,Apigenin,C15H10O5,270.05282343,Plantago argentea,Plantago,KNApSAcK
+148,C00003817,520-36-5,Apigenin,C15H10O5,270.05282343,Plantago major,Plantago,KNApSAcK
+149,C00003817,520-36-5,Apigenin,C15H10O5,270.05282343,Plantago maritima,Plantago,KNApSAcK
+150,C00003817,520-36-5,Apigenin,C15H10O5,270.05282343,Plantago holosteum,Plantago,KNApSAcK
+151,C00004220,26046-94-6,Plantaginin,C21H20O11,448.10056148,Plantago major,Plantago,KNApSAcK
+152,C00004231,17680-84-1,Hispidulin 7-O-beta-glucoside,C22H22O11,462.11621155,Plantago asiatica,Plantago,KNApSAcK
+153,C00004231,17680-84-1,Hispidulin 7-O-beta-glucoside,C22H22O11,462.11621155,Plantago major,Plantago,KNApSAcK
+154,C00004266,5373-11-5,Cinaroside,C21H20O11,448.10056148,Plantago major,Plantago,KNApSAcK
+155,C00004266,5373-11-5,Cinaroside,C21H20O11,448.10056148,Plantago holosteum,Plantago,KNApSAcK
+156,C00004266,5373-11-5,Cinaroside,C21H20O11,448.10056148,Plantago argentea,Plantago,KNApSAcK
+157,C00004266,5373-11-5,Cinaroside,C21H20O11,448.10056148,Plantago maritima,Plantago,KNApSAcK
+158,C00004268,29741-10-4,Luteolin 7-O-beta-D-glucuronide,C21H18O12,462.07982604,Plantago major,Plantago,KNApSAcK
+159,C00004388,56226-97-2,6-Hydroxyluteolin 7-glucuronide,C21H18O13,478.07474066,Plantago maritima,Plantago,KNApSAcK
+160,C00004400,569-90-4,Nepetin-7-glucoside,C22H22O12,478.11112617,Plantago major,Plantago,KNApSAcK
+161,C00004533,548-83-4,Galangin,C15H10O5,270.05282343,Plantago major,Plantago,KNApSAcK
+162,C00004631,117-39-5,Quercetin,C15H10O7,302.04265268,Plantago maritima,Plantago,KNApSAcK
+163,C00004631,117-39-5,Quercetin,C15H10O7,302.04265268,Plantago holosteum,Plantago,KNApSAcK
+164,C00004631,117-39-5,Quercetin,C15H10O7,302.04265268,Plantago argentea,Plantago,KNApSAcK
+165,C00005413,153-18-4,Quercetin 3-rutinoside,C27H30O16,610.15338491,Plantago holosteum,Plantago,KNApSAcK
+166,C00005413,153-18-4,Quercetin 3-rutinoside,C27H30O16,610.15338491,Plantago argentea,Plantago,KNApSAcK
+167,C00005413,153-18-4,Quercetin 3-rutinoside,C27H30O16,610.15338491,Plantago bellardii,Plantago,KNApSAcK
+168,C00005413,153-18-4,Quercetin 3-rutinoside,C27H30O16,610.15338491,Plantago maritima,Plantago,KNApSAcK
+169,C00005500,29028-02-2,Azaleatin 3-rhamnoside,C22H22O11,462.11621155,Plantago spp.,Plantago,KNApSAcK
+170,C00007452,22372-29-8,Sucrose 6-phosphate,C12H23O14P,422.08254194,Plantago lanceolata,Plantago,KNApSAcK
+171,C00007535,122-78-1,Benzeneacetaldehyde,C8H8O,120.05751488,Plantago lanceolata,Plantago,KNApSAcK
+172,C00008343,78708-33-5,Plantagoside,C21H22O12,466.11112617,Plantago major,Plantago,KNApSAcK
+173,C00008343,78708-33-5,Plantagoside,C21H22O12,466.11112617,Plantago asiatica,Plantago,KNApSAcK
+174,C00010496,62133-72-6,Bartsioside,C15H22O8,330.13146768,Plantago subulata,Plantago,KNApSAcK
+175,C00010496,62133-72-6,Bartsioside,C15H22O8,330.13146768,Plantago afra,Plantago,KNApSAcK
+176,C00010496,62133-72-6,Bartsioside,C15H22O8,330.13146768,Plantago webbii,Plantago,KNApSAcK
+177,C00010496,62133-72-6,Bartsioside,C15H22O8,330.13146768,Plantago arborescens,Plantago,KNApSAcK
+178,C00010496,62133-72-6,Bartsioside,C15H22O8,330.13146768,Plantago arenaria,Plantago,KNApSAcK
+179,C00010496,62133-72-6,Bartsioside,C15H22O8,330.13146768,Plantago sempervirens,Plantago,KNApSAcK
+180,C00010509,58514-30-0,Ixoroside,C16H24O9,360.14203237,Plantago major,Plantago,KNApSAcK
+181,C00010510,1399-49-1,Globularin,C24H28O11,492.16316174,Plantago altissima,Plantago,KNApSAcK
+182,C00010510,1399-49-1,Globularin,C24H28O11,492.16316174,Plantago lanceolata,Plantago,KNApSAcK
+183,C00010556,54835-76-6,Gardoside,C16H22O10,374.12129692,Plantago stauntonii,Plantago,KNApSAcK
+184,C00010556,54835-76-6,Gardoside,C16H22O10,374.12129692,Plantago raoulii,Plantago,KNApSAcK
+185,C00010556,54835-76-6,Gardoside,C16H22O10,374.12129692,Plantago ovata,Plantago,KNApSAcK
+186,C00010556,54835-76-6,Gardoside,C16H22O10,374.12129692,Plantago arborescens,Plantago,KNApSAcK
+187,C00010556,54835-76-6,Gardoside,C16H22O10,374.12129692,Plantago altissima,Plantago,KNApSAcK
+188,C00010556,54835-76-6,Gardoside,C16H22O10,374.12129692,Plantago major,Plantago,KNApSAcK
+189,C00010556,54835-76-6,Gardoside,C16H22O10,374.12129692,Plantago alpina,Plantago,KNApSAcK
+190,C00010556,54835-76-6,Gardoside,C16H22O10,374.12129692,Plantago atrata,Plantago,KNApSAcK
+191,C00010556,54835-76-6,Gardoside,C16H22O10,374.12129692,Plantago nivalis,Plantago,KNApSAcK
+192,C00010556,54835-76-6,Gardoside,C16H22O10,374.12129692,Plantago webbii,Plantago,KNApSAcK
+193,C00010564,27741-01-1,Geniposidic acid,C16H22O10,374.12129692,Plantago asiatica,Plantago,KNApSAcK
+194,C00010564,27741-01-1,Geniposidic acid,C16H22O10,374.12129692,Plantago raoulii,Plantago,KNApSAcK
+195,C00010564,27741-01-1,Geniposidic acid,C16H22O10,374.12129692,Plantago major,Plantago,KNApSAcK
+196,C00010564,27741-01-1,Geniposidic acid,C16H22O10,374.12129692,Plantago lundborgii,Plantago,KNApSAcK
+197,C00010564,27741-01-1,Geniposidic acid,C16H22O10,374.12129692,Plantago bellardi,Plantago,KNApSAcK
+198,C00010564,27741-01-1,Geniposidic acid,C16H22O10,374.12129692,Plantago alpina,Plantago,KNApSAcK
+199,C00010595,139687-24-4,Caryoptoside,C17H26O11,406.14751167,Plantago sempervirens,Plantago,KNApSAcK
+200,C00010619,20633-72-1,Monomelittoside,C15H22O10,362.12129692,Plantago subulata,Plantago,KNApSAcK
+201,C00010619,20633-72-1,Monomelittoside,C15H22O10,362.12129692,Plantago media,Plantago,KNApSAcK
+202,C00010619,20633-72-1,Monomelittoside,C15H22O10,362.12129692,Plantago major,Plantago,KNApSAcK
+203,C00010619,20633-72-1,Monomelittoside,C15H22O10,362.12129692,Plantago alpina,Plantago,KNApSAcK
+204,C00010620,133024-10-9,10-Acetylmonomelittoside,C17H24O11,404.13186161,Plantago major,Plantago,KNApSAcK
+205,C00010620,133024-10-9,10-Acetylmonomelittoside,C17H24O11,404.13186161,Plantago media,Plantago,KNApSAcK
+206,C00010621,19467-03-9,Melittoside,C21H32O15,524.17412036,Plantago alpina,Plantago,KNApSAcK
+207,C00010621,19467-03-9,Melittoside,C21H32O15,524.17412036,Plantago major,Plantago,KNApSAcK
+208,C00010621,19467-03-9,Melittoside,C21H32O15,524.17412036,Plantago subulata,Plantago,KNApSAcK
+209,C00010621,19467-03-9,Melittoside,C21H32O15,524.17412036,Plantago media,Plantago,KNApSAcK
+210,C00010621,19467-03-9,Melittoside,C21H32O15,524.17412036,Plantago maritima,Plantago,KNApSAcK
+211,C00010626,81720-08-3,Rehmannioside D,C27H42O20,686.22694379,Plantago major,Plantago,KNApSAcK
+212,C00010626,81720-08-3,Rehmannioside D,C27H42O20,686.22694379,Plantago maritima,Plantago,KNApSAcK
+213,C00010629,82451-22-7,Mussaenosidic acid,C16H24O10,376.13694699,Plantago sempervirens,Plantago,KNApSAcK
+214,C00010629,82451-22-7,Mussaenosidic acid,C16H24O10,376.13694699,Plantago webbii,Plantago,KNApSAcK
+215,C00010629,82451-22-7,Mussaenosidic acid,C16H24O10,376.13694699,Plantago alpina,Plantago,KNApSAcK
+216,C00010629,82451-22-7,Mussaenosidic acid,C16H24O10,376.13694699,Plantago nivalis,Plantago,KNApSAcK
+217,C00010629,82451-22-7,Mussaenosidic acid,C16H24O10,376.13694699,Plantago arborescens,Plantago,KNApSAcK
+218,C00010694,72396-01-1,Yuheinoside,C16H24O9,360.14203237,Plantago sempervirens,Plantago,KNApSAcK
+219,C00010694,72396-01-1,Yuheinoside,C16H24O9,360.14203237,Plantago major,Plantago,KNApSAcK
+220,C00010694,72396-01-1,Yuheinoside,C16H24O9,360.14203237,Plantago webbii,Plantago,KNApSAcK
+221,C00010694,72396-01-1,Yuheinoside,C16H24O9,360.14203237,Plantago afra,Plantago,KNApSAcK
+222,C00010694,72396-01-1,Yuheinoside,C16H24O9,360.14203237,Plantago arenaria,Plantago,KNApSAcK
+223,C00010694,72396-01-1,Yuheinoside,C16H24O9,360.14203237,Plantago coronopus,Plantago,KNApSAcK
+224,C00010694,72396-01-1,Yuheinoside,C16H24O9,360.14203237,Plantago lagopus,Plantago,KNApSAcK
+225,C00013855,420825-83-8,Quercetin 3-rutinoside-3'-apioside,C32H38O20,742.19564366,Plantago ovata,Plantago,KNApSAcK
+226,C00013855,420825-83-8,Quercetin 3-rutinoside-3'-apioside,C32H38O20,742.19564366,Plantago psyllium,Plantago,KNApSAcK
+227,C00019064,508-02-1,Oleanolic acid,C30H48O3,456.3603454,Plantago asiatica,Plantago,KNApSAcK
+228,C00019064,508-02-1,Oleanolic acid,C30H48O3,456.3603454,Plantago major,Plantago,KNApSAcK
+229,C00019064,508-02-1,Oleanolic acid,C30H48O3,456.3603454,Plantago depressa,Plantago,KNApSAcK
+230,C00019144,5989-02-6,(-)-Loliolide,C11H16O3,196.10994438,Plantago major,Plantago,KNApSAcK
+231,C00019144,5989-02-6,(-)-Loliolide,C11H16O3,196.10994438,Plantago lanceolata,Plantago,KNApSAcK
+232,C00020349,87701-68-6,Alismoxide,C15H26O2,238.19328007,Alisma plantago-aquatica,Plantago,KNApSAcK
+233,C00020395,87827-55-2,Alismol,C15H24O,220.18271539,Alisma plantago-aquatica,Plantago,KNApSAcK
+234,C00029341,25152-84-5,"(2E,4E)-Deca-2,4-dienal",C10H16O,152.12011513,Plantago lanceolata,Plantago,KNApSAcK
+235,C00029423,3391-86-4,1-Octen-3-ol,C8H16O,128.12011513,Plantago lanceolata,Plantago,KNApSAcK
+236,C00029461,116-53-0,2-Methylbutanoic acid,C5H10O2,102.06807956,Plantago lanceolata,Plantago,KNApSAcK
+237,C00029515,501-94-0,2-(4-Hydroxyphenyl)ethanol,C8H10O2,138.06807956,Plantago lanceolata,Plantago,KNApSAcK
+238,C00029601,82509-41-9,8-Epiloganic acid,C16H24O10,376.13694699,Plantago webbii,Plantago,KNApSAcK
+239,C00029601,82509-41-9,8-Epiloganic acid,C16H24O10,376.13694699,Plantago alpina,Plantago,KNApSAcK
+240,C00029601,82509-41-9,8-Epiloganic acid,C16H24O10,376.13694699,Plantago altissima,Plantago,KNApSAcK
+241,C00029601,82509-41-9,8-Epiloganic acid,C16H24O10,376.13694699,Plantago arborescens,Plantago,KNApSAcK
+242,C00029601,82509-41-9,8-Epiloganic acid,C16H24O10,376.13694699,Plantago atrata,Plantago,KNApSAcK
+243,C00029601,82509-41-9,8-Epiloganic acid,C16H24O10,376.13694699,Plantago hookeriana,Plantago,KNApSAcK
+244,C00029601,82509-41-9,8-Epiloganic acid,C16H24O10,376.13694699,Plantago lundborgii,Plantago,KNApSAcK
+245,C00029601,82509-41-9,8-Epiloganic acid,C16H24O10,376.13694699,Plantago ovata,Plantago,KNApSAcK
+246,C00029601,82509-41-9,8-Epiloganic acid,C16H24O10,376.13694699,Plantago raoulii,Plantago,KNApSAcK
+247,C00029601,82509-41-9,8-Epiloganic acid,C16H24O10,376.13694699,Plantago stauntonii,Plantago,KNApSAcK
+248,C00029633,7372-30-7,Acetylursolic acid,C32H50O4,498.37091008,Plantago depressa,Plantago,KNApSAcK
+249,C00029633,7372-30-7,Acetylursolic acid,C32H50O4,498.37091008,Plantago major,Plantago,KNApSAcK
+250,C00029633,7372-30-7,Acetylursolic acid,C32H50O4,498.37091008,Plantago asiatica,Plantago,KNApSAcK
+251,C00029662,19885-10-0,Alisol A,C30H50O5,490.36582471,Alisma plantago-aquatica var.orientalis,Plantago,KNApSAcK
+252,C00029663,18649-93-9,Alisol B,C30H48O4,472.35526002,Alisma plantago-aquatica var.orientalis,Plantago,KNApSAcK
+253,C00029961,621-82-9,Cinnamic acid,C9H8O2,148.0524295,Plantago major,Plantago,KNApSAcK
+254,C00030094,52613-28-2,6alpha-Hydroxygeniposide,C17H24O11,404.13186161,Plantago major,Plantago,KNApSAcK
+255,C00030516,61303-13-7,Isoacteoside,C29H36O15,624.20542048,Plantago asiatica,Plantago,KNApSAcK
+256,C00030657,83529-62-8,Leucosceptoside A,C30H38O15,638.22107055,Plantago asiatica,Plantago,KNApSAcK
+257,C00030657,83529-62-8,Leucosceptoside A,C30H38O15,638.22107055,Plantago lanceolata,Plantago,KNApSAcK
+258,C00030807,906-33-2,5-Caffeoylquinic acid,C16H18O9,354.09508217,Plantago major,Plantago,KNApSAcK
+259,C00030828,124-19-6,Nonadienal,C9H18O,142.1357652,Plantago lanceolata,Plantago,KNApSAcK
+260,C00030829,112-05-0,Nonanoic acid,C9H18O2,158.13067982,Plantago lanceolata,Plantago,KNApSAcK
+261,C00031052,147331-98-4,Plantainoside D,C29H36O16,640.20033511,Plantago asiatica,Plantago,KNApSAcK
+262,C00031052,147331-98-4,Plantainoside D,C29H36O16,640.20033511,Plantago hostifolia,Plantago,KNApSAcK
+263,C00031052,147331-98-4,Plantainoside D,C29H36O16,640.20033511,Plantago lanceolata,Plantago,KNApSAcK
+264,C00031274,10338-51-9,Rhodioloside,C14H20O7,300.12090299,Plantago australis,Plantago,KNApSAcK
+265,C00031274,10338-51-9,Rhodioloside,C14H20O7,300.12090299,Plantago coronopus,Plantago,KNApSAcK
+266,C00032594,146714-07-0,10-Benzoylcatalpol,C22H26O11,466.14751167,Plantago major,Plantago,KNApSAcK
+267,C00032701,180028-16-4,Alpinoside,C18H24O11,416.13186161,Plantago alpina,Plantago,KNApSAcK
+268,C00033187,55785-60-9,Melampyroside,C22H26O10,450.15259705,Plantago major,Plantago,KNApSAcK
+269,C00033312,136083-85-7,Plantainoside B,C23H26O11,478.14751167,Plantago asiatica,Plantago,KNApSAcK
+270,C00034452,100-52-7,Benzaldehyde,C7H6O,106.04186481,Plantago lanceolata,Plantago,KNApSAcK
+271,C00034553,94410-22-7,Isomartynoside,C31H40O15,652.23672061,Plantago asiatica,Plantago,KNApSAcK
+272,C00034597,67884-12-2,Martynoside,C31H40O15,652.23672061,Plantago lanceolata,Plantago,KNApSAcK
+273,C00034797,325798-51-4,Arborescosidic acid,C16H22O10,374.12129692,Plantago atrata,Plantago,KNApSAcK
+274,C00034797,325798-51-4,Arborescosidic acid,C16H22O10,374.12129692,Plantago subulata,Plantago,KNApSAcK
+275,C00034797,325798-51-4,Arborescosidic acid,C16H22O10,374.12129692,Plantago stauntonii,Plantago,KNApSAcK
+276,C00034797,325798-51-4,Arborescosidic acid,C16H22O10,374.12129692,Plantago maritima,Plantago,KNApSAcK
+277,C00035495,589-98-0,3-Octanol,C8H18O,130.1357652,Plantago lanceolata,Plantago,KNApSAcK
+278,C00035857,111-65-9,Octane,C8H18,114.14085057,Plantago lanceolata,Plantago,KNApSAcK
+279,C00036395,259753-11-2,10-Acetoxymajoroside,C19H26O12,446.1424263,Plantago cornuti,Plantago,KNApSAcK
+280,C00036395,259753-11-2,10-Acetoxymajoroside,C19H26O12,446.1424263,Plantago major,Plantago,KNApSAcK
+281,C00036396,134140-01-5,10-Acetylaucubin,C17H24O10,388.13694699,Plantago subulata,Plantago,KNApSAcK
+282,C00036398,259753-12-3,10-Hydroxymajoroside,C17H24O11,404.13186161,Plantago major,Plantago,KNApSAcK
+283,C00036398,259753-12-3,10-Hydroxymajoroside,C17H24O11,404.13186161,Plantago cornuti,Plantago,KNApSAcK
+284,C00036513,82426-96-8,"3,4-Dihydroaucubin",C15H24O9,348.14203237,Plantago subulata,Plantago,KNApSAcK
+285,C00036616,82535-77-1,6-Epiaucubin,C15H22O9,346.1263823,Plantago subulata,Plantago,KNApSAcK
+286,C00036641,78392-84-4,6'-O-Glucosylaucubin,C21H32O14,508.17920573,Plantago asiatica,Plantago,KNApSAcK
+287,C00036663,88668-99-9,8-epi-Deoxyloganic acid,C16H24O9,360.14203237,Plantago webbii,Plantago,KNApSAcK
+288,C00036740,326859-09-0,Arborescoside,C17H24O10,388.13694699,Plantago webbii,Plantago,KNApSAcK
+289,C00036740,326859-09-0,Arborescoside,C17H24O10,388.13694699,Plantago ovata,Plantago,KNApSAcK
+290,C00036740,326859-09-0,Arborescoside,C17H24O10,388.13694699,Plantago arborescens,Plantago,KNApSAcK
+291,C00036871,95519-12-3,Campneoside I,C30H38O16,654.21598517,Plantago depressa,Plantago,KNApSAcK
+292,C00037035,326606-58-0,Deoxymelittoside,C21H32O14,508.17920573,Plantago subulata,Plantago,KNApSAcK
+293,C00037036,180028-17-5,Desacetylhookerioside,C22H32O15,536.17412036,Plantago subulata,Plantago,KNApSAcK
+294,C00037036,180028-17-5,Desacetylhookerioside,C22H32O15,536.17412036,Plantago altissima,Plantago,KNApSAcK
+295,C00037464,134140-02-6,Majoroside,C17H24O10,388.13694699,Plantago major,Plantago,KNApSAcK
+296,C00037464,134140-02-6,Majoroside,C17H24O10,388.13694699,Plantago cornuti,Plantago,KNApSAcK
+297,C00037568,169830-93-7,O-Acetylgeniposidic acid,C18H24O11,416.13186161,Plantago alpina,Plantago,KNApSAcK
+298,C00037656,207984-32-5,Plantalloside,C29H36O16,640.20033511,Plantago myosuros,Plantago,KNApSAcK
+299,C00048958,123-86-4,Butyl acetate,C6H12O2,116.08372963,Plantago lanceolata,Plantago,KNApSAcK
+300,C00050421,2628-17-3,4-Vinylphenol,C8H8O,120.05751488,Plantago lanceolata,Plantago,KNApSAcK
+301,C00051191,10247-53-7,Lagerstremine,C26H31NO5,437.22022311,Plantago psyllium,Plantago,KNApSAcK
+302,C00051213,117895-00-8,Lavandulifolioside,C34H44O19,756.24767923,Plantago lanceolata,Plantago,KNApSAcK
+303,C00055202,21857-97-6,Boschniakinic acid,C10H11NO2,177.0789786,Plantago psyllium,Plantago,KNApSAcK
+304,C00058684,136083-86-8,Plantainoside C,C30H38O15,638.22107055,Plantago asiatica,Plantago,KNApSAcK
+305,C00063824,136029-89-5,Plantainoside F,C31H40O16,668.23163523,Plantago asiatica,Plantago,KNApSAcK
+306,C00063825,136083-88-0,Plantainoside E,C31H40O16,668.23163523,Plantago asiatica,Plantago,KNApSAcK
+307,C00063826,136172-59-3,Plantainoside A,C23H26O11,478.14751167,Plantago asiatica,Plantago,KNApSAcK
+308,C00064275,31511-92-9,Luteolin 7-diglucoside,C27H30O16,610.15338491,Plantago major,Plantago,KNApSAcK
+0,C00003673,481-18-5,Spinasterol,C29H48O,412.37051615,Vallisneria spiralis,Vallisneria,KNApSAcK

@@ -1,0 +1,366 @@
+,C_ID,CAS ID,example_compound_name,Molecular formula,Mw,Organism,knapsack_search_term,Source
+0,C00000601,607-80-7,(+)-Sesamin,C20H18O6,354.11033831,Sesamum radiatum,Sesamum,KNApSAcK
+1,C00000601,607-80-7,(+)-Sesamin,C20H18O6,354.11033831,Sesamum angustifolium,Sesamum,KNApSAcK
+2,C00000601,607-80-7,(+)-Sesamin,C20H18O6,354.11033831,Sesamum latifolium,Sesamum,KNApSAcK
+3,C00000601,607-80-7,(+)-Sesamin,C20H18O6,354.11033831,Sesamum indicum,Sesamum,KNApSAcK
+4,C00000601,607-80-7,(+)-Sesamin,C20H18O6,354.11033831,Sesamum alatum,Sesamum,KNApSAcK
+5,C00000601,607-80-7,(+)-Sesamin,C20H18O6,354.11033831,Sesamum angolense,Sesamum,KNApSAcK
+6,C00000638,52151-92-5,(+)-Piperitol,C20H20O6,356.12598837,Sesamum indicum,Sesamum,KNApSAcK
+7,C00000639,526-07-8,(+)-Sesamolin,C20H18O7,370.10525293,Sesamum indicum,Sesamum,KNApSAcK
+8,C00000639,526-07-8,(+)-Sesamolin,C20H18O7,370.10525293,Sesamum angolrnse,Sesamum,KNApSAcK
+9,C00000639,526-07-8,(+)-Sesamolin,C20H18O7,370.10525293,Sesamum radiatum,Sesamum,KNApSAcK
+10,C00000639,526-07-8,(+)-Sesamolin,C20H18O7,370.10525293,Sesamum alatum,Sesamum,KNApSAcK
+11,C00000639,526-07-8,(+)-Sesamolin,C20H18O7,370.10525293,Sesamum angolense,Sesamum,KNApSAcK
+12,C00000639,526-07-8,(+)-Sesamolin,C20H18O7,370.10525293,Sesamum angustifolium,Sesamum,KNApSAcK
+13,C00001148,58985-23-2,Sesamose,C24H42O21,666.22185841,Sesamum indicum,Sesamum,KNApSAcK
+14,C00001232,112-80-1,Oleic acid,C18H34O2,282.25588033,Sesamum orientale,Sesamum,KNApSAcK
+15,C00001232,112-80-1,Oleic acid,C18H34O2,282.25588033,Sesamum indicum,Sesamum,KNApSAcK
+16,C00001348,372-75-8,L-Citrulline,C6H13N3O3,175.0956913,Sesamum indicum,Sesamum,KNApSAcK
+17,C00001400,306-60-5,Agmatine,C5H14N4,130.12184648,Sesamum indicum,Sesamum,KNApSAcK
+18,C00001404,6851-51-0,N-Carbamoylputrescine,C5H13N3O,131.10586206,Sesamum indicum,Sesamum,KNApSAcK
+19,C00002626,100016-94-2,Sesamolinol,C20H20O7,372.12090299,Sesamum indicum,Sesamum,KNApSAcK
+20,C00002648,490-79-9,Gentisic acid,C7H6O4,154.02660868,Sesamum indicum,Sesamum,KNApSAcK
+21,C00002673,533-31-3,Sesamol,C7H6O3,138.03169406,Sesamum indicum,Sesamum,KNApSAcK
+22,C00003886,22384-63-0,6-Hydroxyluteolin 6-methyl ether,C16H12O7,316.05830274,Sesamum indicum,Sesamum,KNApSAcK
+23,C00004403,22860-72-6,Pedalitin 6-O-beta-glucopyranoside,C22H22O12,478.11112617,Sesamum indicum,Sesamum,KNApSAcK
+24,C00007190,487-36-5,(+)-Pinoresinol,C20H22O6,358.14163844,Sesamum indicum,Sesamum,KNApSAcK
+25,C00010685,117479-87-5,Sesamoside,C17H24O12,420.12677623,Sesamum angolense,Sesamum,KNApSAcK
+26,C00036037,638199-38-9,Anthrasesamone A,C20H18O3,306.12559444,Sesamum indicum,Sesamum,KNApSAcK
+27,C00036038,638199-39-0,Anthrasesamone B,C20H18O4,322.12050906,Sesamum indicum,Sesamum,KNApSAcK
+28,C00036039,638199-40-3,Anthrasesamone C,C20H17ClO4,356.08153674,Sesamum indicum,Sesamum,KNApSAcK
+29,C00036871,95519-12-3,Campneoside I,C30H38O16,654.21598517,Sesamum indicum,Sesamum,KNApSAcK
+30,C00036899,275817-14-6,Chlorosesamone,C15H13ClO4,292.05023661,Sesamum indicum,Sesamum,KNApSAcK
+31,C00054477,923013-90-5,Anthrasesamone D,C20H18O5,338.11542369,Sesamum indicum,Sesamum,KNApSAcK
+32,C00054478,923013-91-6,Anthrasesamone E,C20H18O4,322.12050906,Sesamum indicum,Sesamum,KNApSAcK
+33,C00054479,1072796-85-0,Anthrasesamone F,C20H18O5,338.11542369,Sesamum indicum,Sesamum,KNApSAcK
+34,C00056290,4966-05-6,"2-Geranyl-1,4-naphthoquinone",C20H22O2,294.16197995,Sesamum indicum,Sesamum,KNApSAcK
+35,C00056462,111261-12-2,"2,3-Epoxysesamone",C15H14O5,274.08412356,Sesamum indicum,Sesamum,KNApSAcK
+36,C00057044,138812-87-0,Samin,C13H14O5,250.08412356,Sesamum sp.,Sesamum,KNApSAcK
+37,C00057650,914253-78-4,Saminol,C13H14O6,266.07903818,Sesamum indicum,Sesamum,KNApSAcK
+38,C00058818,157469-83-5,(+)-Sesaminol triglucoside,C38H48O22,856.26372322,Sesamum radiatum,Sesamum,KNApSAcK
+39,C00058818,157469-83-5,(+)-Sesaminol triglucoside,C38H48O22,856.26372322,Sesamum indicum,Sesamum,KNApSAcK
+40,C00058819,,(+)-7'-episesantalin,C21H20O7,384.12090299,Sesamum radiatum,Sesamum,KNApSAcK
+41,C00058820,,(+)-Sesangolin,C21H20O7,384.12090299,Sesamum angolense,Sesamum,KNApSAcK
+42,C00058820,,(+)-Sesangolin,C21H20O7,384.12090299,Sesamum angustifolium,Sesamum,KNApSAcK
+43,C00058820,,(+)-Sesangolin,C21H20O7,384.12090299,Sesamum radiatum,Sesamum,KNApSAcK
+44,C00058821,28115-67-5,Pluviatilol,C20H20O6,356.12598837,Sesamum alatum,Sesamum,KNApSAcK
+45,C00058822,,(+)-Alatumin,C22H24O7,400.15220312,Sesamum alatum,Sesamum,KNApSAcK
+46,C00058823,,(+)-2-Episesalatin,C22H24O7,400.15220312,Sesamum alatum,Sesamum,KNApSAcK
+0,C00004075,145194-17-8,"Isoetin 5,7-dimethyl ether",C17H14O7,330.0739528,Pedalium murex,Pedalium,KNApSAcK
+1,C00004232,31105-76-7,Hispidulin-7-O-beta-D-glucuronide,C22H20O12,476.09547611,Pedalium murex,Pedalium,KNApSAcK
+2,C00004358,35110-20-4,Luteolin 4'-methyl ether 7-glucuronide,C22H20O12,476.09547611,Pedalium murex,Pedalium,KNApSAcK
+0,C00000615,501-16-6,Caffeic acid,C9H8O4,180.04225874,Uncaria sinensis,Uncaria,KNApSAcK
+1,C00000947,154-23-4,(+)-Catechin,C15H14O6,290.07903818,Uncaria gambir,Uncaria,KNApSAcK
+2,C00000947,154-23-4,(+)-Catechin,C15H14O6,290.07903818,Uncaria lanosa,Uncaria,KNApSAcK
+3,C00000956,490-46-0,(-)-Epicatechin,C15H14O6,290.07903818,Uncaria rhynchophylla,Uncaria,KNApSAcK
+4,C00000956,490-46-0,(-)-Epicatechin,C15H14O6,290.07903818,Uncaria elliptica,Uncaria,KNApSAcK
+5,C00000956,490-46-0,(-)-Epicatechin,C15H14O6,290.07903818,Uncaria tomentosa,Uncaria,KNApSAcK
+6,C00000956,490-46-0,(-)-Epicatechin,C15H14O6,290.07903818,Uncaria gambir,Uncaria,KNApSAcK
+7,C00000957,35323-91-2,(+)-Epicatechin,C15H14O6,290.07903818,Uncaria gambir,Uncaria,KNApSAcK
+8,C00001429,50-67-9,5-Hydroxytryptamine,C10H12N2O,176.09496302,Uncaria rhynchophylla,Uncaria,KNApSAcK
+9,C00001434,61-54-1,Tryptamine,C10H12N2,160.1000484,Uncaria rhynchophylla,Uncaria,KNApSAcK
+10,C00001678,483-04-5,Ajmalicine,C21H24N2O3,352.17869265,Uncaria orientalis,Uncaria,KNApSAcK
+11,C00001678,483-04-5,Ajmalicine,C21H24N2O3,352.17869265,Uncaria elliptica,Uncaria,KNApSAcK
+12,C00001678,483-04-5,Ajmalicine,C21H24N2O3,352.17869265,Uncaria africana,Uncaria,KNApSAcK
+13,C00001736,486-84-0,1-Methyl-beta-carboline,C12H10N2,182.08439833,Uncaria canescens Korth,Uncaria,KNApSAcK
+14,C00001736,486-84-0,1-Methyl-beta-carboline,C12H10N2,182.08439833,Uncaria attenuata Korth,Uncaria,KNApSAcK
+15,C00001736,486-84-0,1-Methyl-beta-carboline,C12H10N2,182.08439833,Uncaria orientalis Guill.,Uncaria,KNApSAcK
+16,C00001752,509-80-8,Mitraphylline,C21H24N2O4,368.17360727,Uncaria elliptica,Uncaria,KNApSAcK
+17,C00001752,509-80-8,Mitraphylline,C21H24N2O4,368.17360727,Uncaria veluntina,Uncaria,KNApSAcK
+18,C00001752,509-80-8,Mitraphylline,C21H24N2O4,368.17360727,Uncaria tomentosa,Uncaria,KNApSAcK
+19,C00001752,509-80-8,Mitraphylline,C21H24N2O4,368.17360727,Uncaria sessilifructus,Uncaria,KNApSAcK
+20,C00001752,509-80-8,Mitraphylline,C21H24N2O4,368.17360727,Uncaria scandens,Uncaria,KNApSAcK
+21,C00001752,509-80-8,Mitraphylline,C21H24N2O4,368.17360727,Uncaria orientalis,Uncaria,KNApSAcK
+22,C00001752,509-80-8,Mitraphylline,C21H24N2O4,368.17360727,Uncaria longiflora,Uncaria,KNApSAcK
+23,C00001752,509-80-8,Mitraphylline,C21H24N2O4,368.17360727,Uncaria lanosa,Uncaria,KNApSAcK
+24,C00001752,509-80-8,Mitraphylline,C21H24N2O4,368.17360727,Uncaria lancifolia,Uncaria,KNApSAcK
+25,C00001752,509-80-8,Mitraphylline,C21H24N2O4,368.17360727,Uncaria laevigata,Uncaria,KNApSAcK
+26,C00001752,509-80-8,Mitraphylline,C21H24N2O4,368.17360727,Uncaria kawakamii,Uncaria,KNApSAcK
+27,C00001752,509-80-8,Mitraphylline,C21H24N2O4,368.17360727,Uncaria homomalla,Uncaria,KNApSAcK
+28,C00001752,509-80-8,Mitraphylline,C21H24N2O4,368.17360727,Uncaria hirsuta,Uncaria,KNApSAcK
+29,C00001752,509-80-8,Mitraphylline,C21H24N2O4,368.17360727,Uncaria guianensis,Uncaria,KNApSAcK
+30,C00001752,509-80-8,Mitraphylline,C21H24N2O4,368.17360727,Uncaria gambir,Uncaria,KNApSAcK
+31,C00001752,509-80-8,Mitraphylline,C21H24N2O4,368.17360727,Uncaria callophylla,Uncaria,KNApSAcK
+32,C00001752,509-80-8,Mitraphylline,C21H24N2O4,368.17360727,Uncaria attenuata,Uncaria,KNApSAcK
+33,C00001752,509-80-8,Mitraphylline,C21H24N2O4,368.17360727,Uncaria africana,Uncaria,KNApSAcK
+34,C00001764,76-66-4,Rhynchophylline,C22H28N2O4,384.2049074,Uncaria callophylla,Uncaria,KNApSAcK
+35,C00001764,76-66-4,Rhynchophylline,C22H28N2O4,384.2049074,Uncaria tomentosa,Uncaria,KNApSAcK
+36,C00001764,76-66-4,Rhynchophylline,C22H28N2O4,384.2049074,Uncaria sinensis,Uncaria,KNApSAcK
+37,C00001764,76-66-4,Rhynchophylline,C22H28N2O4,384.2049074,Uncaria sessilifructus,Uncaria,KNApSAcK
+38,C00001764,76-66-4,Rhynchophylline,C22H28N2O4,384.2049074,Uncaria rhynchophylla,Uncaria,KNApSAcK
+39,C00001764,76-66-4,Rhynchophylline,C22H28N2O4,384.2049074,Uncaria macrophylla,Uncaria,KNApSAcK
+40,C00001764,76-66-4,Rhynchophylline,C22H28N2O4,384.2049074,Uncaria longiflora,Uncaria,KNApSAcK
+41,C00001764,76-66-4,Rhynchophylline,C22H28N2O4,384.2049074,Uncaria lancifolia,Uncaria,KNApSAcK
+42,C00001764,76-66-4,Rhynchophylline,C22H28N2O4,384.2049074,Uncaria hirsuta,Uncaria,KNApSAcK
+43,C00001764,76-66-4,Rhynchophylline,C22H28N2O4,384.2049074,Uncaria guianensis,Uncaria,KNApSAcK
+44,C00001764,76-66-4,Rhynchophylline,C22H28N2O4,384.2049074,Uncaria elliptica,Uncaria,KNApSAcK
+45,C00001764,76-66-4,Rhynchophylline,C22H28N2O4,384.2049074,Uncaria acida,Uncaria,KNApSAcK
+46,C00001764,76-66-4,Rhynchophylline,C22H28N2O4,384.2049074,Uncaria africana,Uncaria,KNApSAcK
+47,C00001764,76-66-4,Rhynchophylline,C22H28N2O4,384.2049074,Uncaria cordata,Uncaria,KNApSAcK
+48,C00001764,76-66-4,Rhynchophylline,C22H28N2O4,384.2049074,Uncaria attenuata,Uncaria,KNApSAcK
+49,C00001764,76-66-4,Rhynchophylline,C22H28N2O4,384.2049074,Uncaria borneensis,Uncaria,KNApSAcK
+50,C00001765,27932-46-3,Roxburghine B,C31H32N4O2,492.25252629,Uncaria gambir,Uncaria,KNApSAcK
+51,C00002499,92-61-5,Scopoletin,C10H8O4,192.04225874,Uncaria sinensis,Uncaria,KNApSAcK
+52,C00002644,120-80-9,Catechol,C6H6O2,110.03677944,Uncaria gambir,Uncaria,KNApSAcK
+53,C00002647,149-91-7,Gallic acid,C7H6O5,170.0215233,Uncaria gambir,Uncaria,KNApSAcK
+54,C00002913,85081-24-9,Cinchonain Ia,C24H20O9,452.11073224,Uncaria rhynchophylla,Uncaria,KNApSAcK
+55,C00002913,85081-24-9,Cinchonain Ia,C24H20O9,452.11073224,Uncaria gambir,Uncaria,KNApSAcK
+56,C00002924,76236-89-0,Gambiriin C,C30H26O11,562.14751167,Uncaria gambir,Uncaria,KNApSAcK
+57,C00005137,23627-87-4,Kaempferol 3-O-galactoside,C21H20O11,448.10056148,Uncaria rhynchophylla,Uncaria,KNApSAcK
+58,C00005372,482-36-0,Hyperin,C21H20O12,464.09547611,Uncaria hirsuta,Uncaria,KNApSAcK
+59,C00005372,482-36-0,Hyperin,C21H20O12,464.09547611,Uncaria rhynchophyllus,Uncaria,KNApSAcK
+60,C00005413,153-18-4,Quercetin 3-rutinoside,C27H30O16,610.15338491,Uncaria elliptica,Uncaria,KNApSAcK
+61,C00005413,153-18-4,Quercetin 3-rutinoside,C27H30O16,610.15338491,Uncaria hirsuta,Uncaria,KNApSAcK
+62,C00008928,76250-49-2,Gambiriin A1,C30H28O12,580.15807636,Uncaria gambir,Uncaria,KNApSAcK
+63,C00008929,76236-92-5,Gambiriin A3,C30H28O12,580.15807636,Uncaria gambir,Uncaria,KNApSAcK
+64,C00008932,76250-47-0,Gambiriin B1,C30H26O11,562.14751167,Uncaria gambir,Uncaria,KNApSAcK
+65,C00008933,76236-90-3,Gambiriin B3,C30H26O11,562.14751167,Uncaria gambir,Uncaria,KNApSAcK
+66,C00009071,23567-23-9,Procyanidin B3,C30H26O12,578.1424263,Uncaria gambir,Uncaria,KNApSAcK
+67,C00009075,20315-25-7,Procyanidin B1,C30H26O12,578.1424263,Uncaria gambir,Uncaria,KNApSAcK
+68,C00009075,20315-25-7,Procyanidin B1,C30H26O12,578.1424263,Uncaria sinensis,Uncaria,KNApSAcK
+69,C00025133,87960-33-6,14alpha-Hydroxy-3-isorauniticine,C21H24N2O4,368.17360727,Uncaria attenuata Korth.,Uncaria,KNApSAcK
+70,C00025134,114030-58-9,14beta-Hydroxy-3-isorauniticine,C21H24N2O4,368.17360727,Uncaria elliptica R.Br.ex G.Don.,Uncaria,KNApSAcK
+71,C00025137,25532-46-1,19-Epi-3-isoajmalicine,C21H24N2O3,352.17869265,Uncaria elliptica R.Br.ex G.Don.,Uncaria,KNApSAcK
+72,C00025138,25532-45-0,19-Epiajmalicine,C21H24N2O3,352.17869265,Uncaria elliptica R.Br.ex G.Don.,Uncaria,KNApSAcK
+73,C00025141,54483-84-0,3alpha-Dihydrocadambine,C27H34N2O10,546.22134532,Uncaria rhynchophylla Miq.,Uncaria,KNApSAcK
+74,C00025141,54483-84-0,3alpha-Dihydrocadambine,C27H34N2O10,546.22134532,Uncaria sinensis,Uncaria,KNApSAcK
+75,C00025145,483-03-4,3-Isoajmalicine,C21H24N2O3,352.17869265,Uncaria elliptica R.Br.ex G.Don.,Uncaria,KNApSAcK
+76,C00025145,483-03-4,3-Isoajmalicine,C21H24N2O3,352.17869265,Uncaria attenuata Korth.,Uncaria,KNApSAcK
+77,C00025146,6870-40-2,3-Isorauniticine,C21H24N2O3,352.17869265,Uncaria elliptica R.Br.ex G.Don.,Uncaria,KNApSAcK
+78,C00025147,88335-34-6,3-Isorauniticine pseudoindoxyl,C21H24N2O4,368.17360727,Uncaria elliptica R.Br.ex G.Don.,Uncaria,KNApSAcK
+79,C00025151,88335-35-7,Akuammigine pseudoindoxyl,C21H24N2O4,368.17360727,Uncaria elliptica R.Br.ex G.Don.,Uncaria,KNApSAcK
+80,C00025154,40041-95-0,Angustoline,C20H17N3O2,331.13207681,Uncaria rhynchophylla,Uncaria,KNApSAcK
+81,C00025157,54422-49-0,Cadambine,C27H32N2O10,544.20569526,Uncaria rhynchophylla,Uncaria,KNApSAcK
+82,C00025162,630-94-4,Corynoxeine,C22H26N2O4,382.18925733,Uncaria rhynchophylla,Uncaria,KNApSAcK
+83,C00025163,6877-32-3,Corynoxine,C22H28N2O4,384.2049074,Uncaria macrophylla Wall.,Uncaria,KNApSAcK
+84,C00025164,17391-18-3,Corynoxine B,C22H28N2O4,384.2049074,Uncaria macrophylla Wall.,Uncaria,KNApSAcK
+85,C00025166,50439-68-4,Dihydrocorynantheine,C22H28N2O3,368.20999277,Uncaria calophylla,Uncaria,KNApSAcK
+86,C00025166,50439-68-4,Dihydrocorynantheine,C22H28N2O3,368.20999277,Uncaria macrophylla Wall.,Uncaria,KNApSAcK
+87,C00025174,35467-43-7,Hirsuteine,C22H26N2O3,366.19434271,Uncaria rhynchophylla Miq.,Uncaria,KNApSAcK
+88,C00025175,7729-23-9,Hirsutine,C22H28N2O3,368.20999277,Uncaria rhynchophylla Miq.,Uncaria,KNApSAcK
+89,C00025181,4963-01-3,Isomitraphylline,C21H24N2O4,368.17360727,Uncaria lancifolia,Uncaria,KNApSAcK
+90,C00025181,4963-01-3,Isomitraphylline,C21H24N2O4,368.17360727,Uncaria veluntina,Uncaria,KNApSAcK
+91,C00025181,4963-01-3,Isomitraphylline,C21H24N2O4,368.17360727,Uncaria tomentosa,Uncaria,KNApSAcK
+92,C00025181,4963-01-3,Isomitraphylline,C21H24N2O4,368.17360727,Uncaria sessilifructus,Uncaria,KNApSAcK
+93,C00025181,4963-01-3,Isomitraphylline,C21H24N2O4,368.17360727,Uncaria scandens,Uncaria,KNApSAcK
+94,C00025181,4963-01-3,Isomitraphylline,C21H24N2O4,368.17360727,Uncaria orientalis,Uncaria,KNApSAcK
+95,C00025181,4963-01-3,Isomitraphylline,C21H24N2O4,368.17360727,Uncaria longiflora,Uncaria,KNApSAcK
+96,C00025181,4963-01-3,Isomitraphylline,C21H24N2O4,368.17360727,Uncaria lanosa,Uncaria,KNApSAcK
+97,C00025181,4963-01-3,Isomitraphylline,C21H24N2O4,368.17360727,Uncaria laevigata,Uncaria,KNApSAcK
+98,C00025181,4963-01-3,Isomitraphylline,C21H24N2O4,368.17360727,Uncaria homomalla Miq.,Uncaria,KNApSAcK
+99,C00025181,4963-01-3,Isomitraphylline,C21H24N2O4,368.17360727,Uncaria hirsuta,Uncaria,KNApSAcK
+100,C00025181,4963-01-3,Isomitraphylline,C21H24N2O4,368.17360727,Uncaria guianensis,Uncaria,KNApSAcK
+101,C00025181,4963-01-3,Isomitraphylline,C21H24N2O4,368.17360727,Uncaria elliptica R.Br.ex G.Don.,Uncaria,KNApSAcK
+102,C00025181,4963-01-3,Isomitraphylline,C21H24N2O4,368.17360727,Uncaria elliptica,Uncaria,KNApSAcK
+103,C00025181,4963-01-3,Isomitraphylline,C21H24N2O4,368.17360727,Uncaria callophylla,Uncaria,KNApSAcK
+104,C00025181,4963-01-3,Isomitraphylline,C21H24N2O4,368.17360727,Uncaria africana,Uncaria,KNApSAcK
+105,C00025184,39032-62-7,Isorhynchophylline,C22H28N2O4,384.2049074,Uncaria sinensis,Uncaria,KNApSAcK
+106,C00025184,39032-62-7,Isorhynchophylline,C22H28N2O4,384.2049074,Uncaria sessilifructus,Uncaria,KNApSAcK
+107,C00025184,39032-62-7,Isorhynchophylline,C22H28N2O4,384.2049074,Uncaria rhynchophyllus,Uncaria,KNApSAcK
+108,C00025184,39032-62-7,Isorhynchophylline,C22H28N2O4,384.2049074,Uncaria rhynchophylla,Uncaria,KNApSAcK
+109,C00025184,39032-62-7,Isorhynchophylline,C22H28N2O4,384.2049074,Uncaria macrophylla Wall.,Uncaria,KNApSAcK
+110,C00025184,39032-62-7,Isorhynchophylline,C22H28N2O4,384.2049074,Uncaria longiflora,Uncaria,KNApSAcK
+111,C00025184,39032-62-7,Isorhynchophylline,C22H28N2O4,384.2049074,Uncaria guianensis,Uncaria,KNApSAcK
+112,C00025184,39032-62-7,Isorhynchophylline,C22H28N2O4,384.2049074,Uncaria elliptica,Uncaria,KNApSAcK
+113,C00025184,39032-62-7,Isorhynchophylline,C22H28N2O4,384.2049074,Uncaria cordata,Uncaria,KNApSAcK
+114,C00025184,39032-62-7,Isorhynchophylline,C22H28N2O4,384.2049074,Uncaria callophylla,Uncaria,KNApSAcK
+115,C00025184,39032-62-7,Isorhynchophylline,C22H28N2O4,384.2049074,Uncaria borneensis,Uncaria,KNApSAcK
+116,C00025184,39032-62-7,Isorhynchophylline,C22H28N2O4,384.2049074,Uncaria attenuata,Uncaria,KNApSAcK
+117,C00025184,39032-62-7,Isorhynchophylline,C22H28N2O4,384.2049074,Uncaria africana,Uncaria,KNApSAcK
+118,C00025184,39032-62-7,Isorhynchophylline,C22H28N2O4,384.2049074,Uncaria acida,Uncaria,KNApSAcK
+119,C00025184,39032-62-7,Isorhynchophylline,C22H28N2O4,384.2049074,Uncaria tomentosa,Uncaria,KNApSAcK
+120,C00025202,5299-09-2,Rauniticine,C21H24N2O3,352.17869265,Uncaria attenuata Korth.,Uncaria,KNApSAcK
+121,C00025202,5299-09-2,Rauniticine,C21H24N2O3,352.17869265,Uncaria lanosa,Uncaria,KNApSAcK
+122,C00025202,5299-09-2,Rauniticine,C21H24N2O3,352.17869265,Uncaria elliptica R.Br.ex G.Don.,Uncaria,KNApSAcK
+123,C00025203,17507-91-4,Rauniticine oxindole A,C21H24N2O4,368.17360727,Uncaria elliptica R.Br.ex G.Don.,Uncaria,KNApSAcK
+124,C00025204,88375-63-7,Rauniticine pseudoindoxyl,C21H24N2O4,368.17360727,Uncaria elliptica R.Br.ex G.Don.,Uncaria,KNApSAcK
+125,C00025214,6474-90-4,Tetrahydroalstonine,C21H24N2O3,352.17869265,Uncaria attenuata Korth.,Uncaria,KNApSAcK
+126,C00025214,6474-90-4,Tetrahydroalstonine,C21H24N2O3,352.17869265,Uncaria elliptica R.Br.ex G.Don.,Uncaria,KNApSAcK
+127,C00025215,41590-28-7,Tetrahydroalstonine N-oxide,C21H24N2O4,368.17360727,Uncaria elliptica R.Br.ex G.Don.,Uncaria,KNApSAcK
+128,C00025217,6899-73-6,Uncarine A,C21H24N2O4,368.17360727,Uncaria elliptica R.Br.ex G.Don.,Uncaria,KNApSAcK
+129,C00025217,6899-73-6,Uncarine A,C21H24N2O4,368.17360727,Uncaria sinensis,Uncaria,KNApSAcK
+130,C00025218,6883-35-8,Uncarine B,C21H24N2O4,368.17360727,Uncaria elliptica R.Br.ex G.Don.,Uncaria,KNApSAcK
+131,C00025218,6883-35-8,Uncarine B,C21H24N2O4,368.17360727,Uncaria sessilifructus,Uncaria,KNApSAcK
+132,C00025218,6883-35-8,Uncarine B,C21H24N2O4,368.17360727,Uncaria orientalis,Uncaria,KNApSAcK
+133,C00025218,6883-35-8,Uncarine B,C21H24N2O4,368.17360727,Uncaria laevigata,Uncaria,KNApSAcK
+134,C00025218,6883-35-8,Uncarine B,C21H24N2O4,368.17360727,Uncaria hirsuta,Uncaria,KNApSAcK
+135,C00025218,6883-35-8,Uncarine B,C21H24N2O4,368.17360727,Uncaria gambir,Uncaria,KNApSAcK
+136,C00025218,6883-35-8,Uncarine B,C21H24N2O4,368.17360727,Uncaria attenuata Korth.,Uncaria,KNApSAcK
+137,C00025219,5629-60-7,Uncarine C,C21H24N2O4,368.17360727,Uncaria guianesis,Uncaria,KNApSAcK
+138,C00025219,5629-60-7,Uncarine C,C21H24N2O4,368.17360727,Uncaria tomentosa,Uncaria,KNApSAcK
+139,C00025219,5629-60-7,Uncarine C,C21H24N2O4,368.17360727,Uncaria homomalla Miq.,Uncaria,KNApSAcK
+140,C00025219,5629-60-7,Uncarine C,C21H24N2O4,368.17360727,Uncaria ferrea,Uncaria,KNApSAcK
+141,C00025220,4697-68-1,Speciophylline,C21H24N2O4,368.17360727,Uncaria ferrea,Uncaria,KNApSAcK
+142,C00025220,4697-68-1,Speciophylline,C21H24N2O4,368.17360727,Uncaria attenuata,Uncaria,KNApSAcK
+143,C00025220,4697-68-1,Speciophylline,C21H24N2O4,368.17360727,Uncaria guianensis,Uncaria,KNApSAcK
+144,C00025220,4697-68-1,Speciophylline,C21H24N2O4,368.17360727,Uncaria homomalla Miq.,Uncaria,KNApSAcK
+145,C00025220,4697-68-1,Speciophylline,C21H24N2O4,368.17360727,Uncaria laevigata,Uncaria,KNApSAcK
+146,C00025220,4697-68-1,Speciophylline,C21H24N2O4,368.17360727,Uncaria lanosa,Uncaria,KNApSAcK
+147,C00025220,4697-68-1,Speciophylline,C21H24N2O4,368.17360727,Uncaria longiflora,Uncaria,KNApSAcK
+148,C00025220,4697-68-1,Speciophylline,C21H24N2O4,368.17360727,Uncaria orientalis,Uncaria,KNApSAcK
+149,C00025220,4697-68-1,Speciophylline,C21H24N2O4,368.17360727,Uncaria scandens,Uncaria,KNApSAcK
+150,C00025220,4697-68-1,Speciophylline,C21H24N2O4,368.17360727,Uncaria sinensis,Uncaria,KNApSAcK
+151,C00025220,4697-68-1,Speciophylline,C21H24N2O4,368.17360727,Uncaria tomentosa,Uncaria,KNApSAcK
+152,C00025220,4697-68-1,Speciophylline,C21H24N2O4,368.17360727,Uncaria veluntina,Uncaria,KNApSAcK
+153,C00025221,5171-37-9,Isopteropodine,C21H24N2O4,368.17360727,Uncaria sinensis,Uncaria,KNApSAcK
+154,C00025221,5171-37-9,Isopteropodine,C21H24N2O4,368.17360727,Uncaria orientalis,Uncaria,KNApSAcK
+155,C00025221,5171-37-9,Isopteropodine,C21H24N2O4,368.17360727,Uncaria ferrea,Uncaria,KNApSAcK
+156,C00025221,5171-37-9,Isopteropodine,C21H24N2O4,368.17360727,Uncaria tomentosa,Uncaria,KNApSAcK
+157,C00025221,5171-37-9,Isopteropodine,C21H24N2O4,368.17360727,Uncaria veluntina,Uncaria,KNApSAcK
+158,C00025221,5171-37-9,Isopteropodine,C21H24N2O4,368.17360727,Uncaria guianensis,Uncaria,KNApSAcK
+159,C00025221,5171-37-9,Isopteropodine,C21H24N2O4,368.17360727,Uncaria guianesis,Uncaria,KNApSAcK
+160,C00025221,5171-37-9,Isopteropodine,C21H24N2O4,368.17360727,Uncaria homomalla Miq.,Uncaria,KNApSAcK
+161,C00025221,5171-37-9,Isopteropodine,C21H24N2O4,368.17360727,Uncaria laevigata,Uncaria,KNApSAcK
+162,C00025221,5171-37-9,Isopteropodine,C21H24N2O4,368.17360727,Uncaria lanosa,Uncaria,KNApSAcK
+163,C00025221,5171-37-9,Isopteropodine,C21H24N2O4,368.17360727,Uncaria longiflora,Uncaria,KNApSAcK
+164,C00025221,5171-37-9,Isopteropodine,C21H24N2O4,368.17360727,Uncaria rhynchophyllus,Uncaria,KNApSAcK
+165,C00025221,5171-37-9,Isopteropodine,C21H24N2O4,368.17360727,Uncaria scandens,Uncaria,KNApSAcK
+166,C00025222,14019-66-0,Uncarine F,C21H24N2O4,368.17360727,Uncaria homomalla Miq.,Uncaria,KNApSAcK
+167,C00025222,14019-66-0,Uncarine F,C21H24N2O4,368.17360727,Uncaria veluntina,Uncaria,KNApSAcK
+168,C00025222,14019-66-0,Uncarine F,C21H24N2O4,368.17360727,Uncaria sinensis,Uncaria,KNApSAcK
+169,C00025222,14019-66-0,Uncarine F,C21H24N2O4,368.17360727,Uncaria sessilifructus,Uncaria,KNApSAcK
+170,C00025222,14019-66-0,Uncarine F,C21H24N2O4,368.17360727,Uncaria scandens,Uncaria,KNApSAcK
+171,C00025222,14019-66-0,Uncarine F,C21H24N2O4,368.17360727,Uncaria orientalis,Uncaria,KNApSAcK
+172,C00025222,14019-66-0,Uncarine F,C21H24N2O4,368.17360727,Uncaria longiflora,Uncaria,KNApSAcK
+173,C00025222,14019-66-0,Uncarine F,C21H24N2O4,368.17360727,Uncaria lanosa,Uncaria,KNApSAcK
+174,C00026074,5523-37-5,Vallesiachotamine,C21H22N2O3,350.16304258,Uncaria rhynchophylla,Uncaria,KNApSAcK
+175,C00029633,7372-30-7,Acetylursolic acid,C32H50O4,498.37091008,Uncaria tomentosa,Uncaria,KNApSAcK
+176,C00030340,76250-48-1,Gambiriin A2,C30H28O12,580.15807636,Uncaria gambir,Uncaria,KNApSAcK
+177,C00030341,76236-91-4,Gambiriin B2,C30H26O11,562.14751167,Uncaria gambir,Uncaria,KNApSAcK
+178,C00030536,51920-98-0,Isomitraphylline N-oxide,C21H24N2O5,384.16852189,Uncaria tomentosa,Uncaria,KNApSAcK
+179,C00030696,56021-85-3,Lyaloside,C27H30N2O9,526.19513057,Uncaria tomentosa,Uncaria,KNApSAcK
+180,C00031433,206256-62-4,Uncarinic acid A,C40H56O7,648.40260414,Uncaria rhynchophylla,Uncaria,KNApSAcK
+181,C00031434,238748-74-8,Uncarinic acid B,C40H56O7,648.40260414,Uncaria rhynchophylla,Uncaria,KNApSAcK
+182,C00031895,51014-29-0,Isocorynoxeine,C22H26N2O4,382.18925733,Uncaria borneensis,Uncaria,KNApSAcK
+183,C00031895,51014-29-0,Isocorynoxeine,C22H26N2O4,382.18925733,Uncaria longiflora,Uncaria,KNApSAcK
+184,C00031895,51014-29-0,Isocorynoxeine,C22H26N2O4,382.18925733,Uncaria attenuata,Uncaria,KNApSAcK
+185,C00031895,51014-29-0,Isocorynoxeine,C22H26N2O4,382.18925733,Uncaria lanosa,Uncaria,KNApSAcK
+186,C00031895,51014-29-0,Isocorynoxeine,C22H26N2O4,382.18925733,Uncaria sinensis,Uncaria,KNApSAcK
+187,C00031895,51014-29-0,Isocorynoxeine,C22H26N2O4,382.18925733,Uncaria rhynchophyllus,Uncaria,KNApSAcK
+188,C00031895,51014-29-0,Isocorynoxeine,C22H26N2O4,382.18925733,Uncaria rhynchophylla,Uncaria,KNApSAcK
+189,C00032210,23141-25-5,Strictosamide,C26H30N2O8,498.20021595,Uncaria rhynchophylla,Uncaria,KNApSAcK
+190,C00032658,34371-47-6,5(S)-5-Carboxystrictosidine,C28H34N2O11,574.21625994,Uncaria tomentosa,Uncaria,KNApSAcK
+191,C00036651,22487-36-1,7-Deoxyloganic acid,C16H24O9,360.14203237,Uncaria tomentosa,Uncaria,KNApSAcK
+192,C00038175,1034586-58-7,"18,19-Dehydrocorynoxinic acid",C21H24N2O4,368.17360727,Uncaria rhynchophylla,Uncaria,KNApSAcK
+193,C00038176,1034586-56-5,"18,19-Dehydrocorynoxinic acid B",C21H24N2O4,368.17360727,Uncaria rhynchophylla,Uncaria,KNApSAcK
+194,C00045110,503301-94-8,Tomentoside A,C47H76O17,912.508251,Uncaria tomentosa,Uncaria,KNApSAcK
+195,C00045111,503302-08-7,Tomentoside B,C47H76O17,912.508251,Uncaria tomentosa,Uncaria,KNApSAcK
+196,C00045134,23141-27-7,Vincosamide,C26H30N2O8,498.20021595,Uncaria rhynchophylla,Uncaria,KNApSAcK
+197,C00047118,277751-59-4,Uncarinic acid C,C40H56O7,648.40260414,Uncaria rhynchophylla,Uncaria,KNApSAcK
+198,C00047119,277751-60-7,Uncarinic acid D,C40H56O7,648.40260414,Uncaria rhynchophylla,Uncaria,KNApSAcK
+199,C00047120,277751-61-8,Uncarinic acid E,C39H54O6,618.39203946,Uncaria rhynchophylla,Uncaria,KNApSAcK
+200,C00050532,40217-50-3,Angustidine,C19H15N3O,301.12151212,Uncaria rhynchophylla,Uncaria,KNApSAcK
+201,C00050688,62014-69-1,3beta-Isodihydrocadambine,C27H34N2O10,546.22134532,Uncaria sinensis,Uncaria,KNApSAcK
+202,C00050688,62014-69-1,3beta-Isodihydrocadambine,C27H34N2O10,546.22134532,Uncaria rhynchophyllus,Uncaria,KNApSAcK
+203,C00050933,142934-41-6,Isogambirine,C22H28N2O4,384.2049074,Uncaria callophylla,Uncaria,KNApSAcK
+204,C00050958,152887-08-6,Isomitraphyllic acid,C20H22N2O4,354.15795721,Uncaria sinensis,Uncaria,KNApSAcK
+205,C00050984,13897-74-0,Isopteropodic acid,C20H22N2O4,354.15795721,Uncaria sinensis,Uncaria,KNApSAcK
+206,C00050989,144525-05-3,Isorhynchophyllic acid,C21H26N2O4,370.18925733,Uncaria sinensis,Uncaria,KNApSAcK
+207,C00050990,6859-01-4,Isorhyncophylline,C22H28N2O4,384.2049074,Uncaria macrophylla,Uncaria,KNApSAcK
+208,C00050990,6859-01-4,Isorhyncophylline,C22H28N2O4,384.2049074,Uncaria rhynchophyllus,Uncaria,KNApSAcK
+209,C00050990,6859-01-4,Isorhyncophylline,C22H28N2O4,384.2049074,Uncaria sinensis,Uncaria,KNApSAcK
+210,C00051617,10126-00-8,Mitraphyllic acid,C20H22N2O4,354.15795721,Uncaria sinensis,Uncaria,KNApSAcK
+211,C00051985,608-07-1,5-Methoxytryptamine,C11H14N2O,190.11061308,Uncaria rhynchophylla,Uncaria,KNApSAcK
+212,C00052006,73-31-4,Melatonin,C13H16N2O2,232.12117777,Uncaria rhynchophylla,Uncaria,KNApSAcK
+0,C00037971,534584-64-0,Umbilicaxanthoside A,C25H28O11,504.16316174,Umbilicaria proboscidea (L.) Schrader,Proboscidea,KNApSAcK
+1,C00037972,534584-93-5,Umbilicaxanthoside B,C36H46O16,734.27858542,Umbilicaria proboscidea (L.) Schrader,Proboscidea,KNApSAcK
+0,C00000615,501-16-6,Caffeic acid,C9H8O4,180.04225874,Harpagophytum procumbens,Harpagophytum,KNApSAcK
+1,C00002783,61276-17-3,Acteoside,C29H36O15,624.20542048,Harpagophytum procumbens,Harpagophytum,KNApSAcK
+2,C00003083,19210-12-9,Harpagoside,C24H30O11,494.1788118,Harpagophytum procumbens,Harpagophytum,KNApSAcK
+3,C00003426,514-62-5,(+)-Ferruginol,C20H30O,286.22966558,Harpagophytum procumbens,Harpagophytum,KNApSAcK
+4,C00010569,6926-08-5,Harpagide,C15H24O10,364.13694699,Harpagophytum prucumbens D.C.,Harpagophytum,KNApSAcK
+5,C00010666,87686-78-0,Procumboside,C15H22O10,362.12129692,Harpagophytum procumbens,Harpagophytum,KNApSAcK
+6,C00024025,87686-74-6,8-O-(p-Coumaroyl)-harpagide,C24H30O12,510.17372642,Harpagophytum procumbens DC,Harpagophytum,KNApSAcK
+7,C00024026,87686-76-8,6'-O-(p-Coumaroyl)-procumbide,C24H28O12,508.15807636,Harpagophytum procumbens DC.(Pendialiaceae),Harpagophytum,KNApSAcK
+8,C00029961,621-82-9,Cinnamic acid,C9H8O2,148.0524295,Harpagophytum procumbens,Harpagophytum,KNApSAcK
+9,C00030516,61303-13-7,Isoacteoside,C29H36O15,624.20542048,Harpagophytum procumbens,Harpagophytum,KNApSAcK
+10,C00034975,70206-27-8,8-Cinnamoylmyoporoside,C24H30O10,478.18389718,Harpagophytum prucumbens D.C.,Harpagophytum,KNApSAcK
+11,C00035027,221010-22-6,6-O-alpha-D-Galactopyranosylharpagoside,C30H40O16,656.23163523,Harpagophytum prucumbens D.C.,Harpagophytum,KNApSAcK
+12,C00035034,221003-20-9,8-Feruloylharpagide,C25H32O13,540.18429111,Harpagophytum procumbens,Harpagophytum,KNApSAcK
+13,C00035034,221003-20-9,8-Feruloylharpagide,C25H32O13,540.18429111,Harpagophytum prucumbens D.C.,Harpagophytum,KNApSAcK
+14,C00035109,906563-60-8,6''-O-alpha-D-galactopyranosyl harpagoside,C30H40O16,656.23163523,Harpagophytum prucumbens D.C.,Harpagophytum,KNApSAcK
+15,C00035110,906563-59-5,Harprocumbide B,C24H28O12,508.15807636,Harpagophytum prucumbens D.C.,Harpagophytum,KNApSAcK
+16,C00035150,20486-27-5,Procumbide,C15H22O10,362.12129692,Harpagophytum prucumbens D.C.,Harpagophytum,KNApSAcK
+17,C00035150,20486-27-5,Procumbide,C15H22O10,362.12129692,Harpagophytum procumbens (Burchell) DC.,Harpagophytum,KNApSAcK
+0,C00000170,140-10-3,Cinnamate,C9H8O2,148.0524295,Strobilanthes crispus,Strobilanthes,KNApSAcK
+1,C00000258,530-55-2,"2,6-Dimethoxy-1,4-benzoquinone",C8H8O4,168.04225874,Strobilanthes formosanus,Strobilanthes,KNApSAcK
+2,C00000615,501-16-6,Caffeic acid,C9H8O4,180.04225874,Strobilanthes crispus,Strobilanthes,KNApSAcK
+3,C00000619,97-53-0,Eugenol,C10H12O2,164.08372963,Strobilanthes crispus,Strobilanthes,KNApSAcK
+4,C00000674,491-70-3,"5,7,3',4'-Tetrahydroxyflavone",C15H10O6,286.04773805,Strobilanthes crispus,Strobilanthes,KNApSAcK
+5,C00000947,154-23-4,(+)-Catechin,C15H14O6,290.07903818,Strobilanthes crispus,Strobilanthes,KNApSAcK
+6,C00000956,490-46-0,(-)-Epicatechin,C15H14O6,290.07903818,Strobilanthes crispus,Strobilanthes,KNApSAcK
+7,C00000982,480-41-1,Naringenin,C15H12O5,272.06847349,Strobilanthes crispus,Strobilanthes,KNApSAcK
+8,C00001071,529-44-2,Myricetin,C15H10O8,318.0375673,Strobilanthes crispus,Strobilanthes,KNApSAcK
+9,C00001265,629-62-9,n-Pentadecane,C15H32,212.25040102,Strobilanthes crispus,Strobilanthes,KNApSAcK
+10,C00002200,13220-57-0,Tryptanthrin,C15H8N2O2,248.05857751,Strobilanthes cusia,Strobilanthes,KNApSAcK
+11,C00002647,149-91-7,Gallic acid,C7H6O5,170.0215233,Strobilanthes crispus,Strobilanthes,KNApSAcK
+12,C00002664,108-95-2,Phenol,C6H6O,94.04186481,Strobilanthes crispus,Strobilanthes,KNApSAcK
+13,C00002674,530-57-4,Syringic acid,C9H10O5,198.05282343,Strobilanthes crispus,Strobilanthes,KNApSAcK
+14,C00002682,121-34-6,Vanillic acid,C8H8O4,168.04225874,Strobilanthes crispus,Strobilanthes,KNApSAcK
+15,C00002724,327-97-9,3-O-Caffeoylquinic acid,C16H18O9,354.09508217,Strobilanthes crispus,Strobilanthes,KNApSAcK
+16,C00002743,1135-24-6,Ferulic acid,C10H10O4,194.05790881,Strobilanthes crispus,Strobilanthes,KNApSAcK
+17,C00002783,61276-17-3,Acteoside,C29H36O15,624.20542048,Strobilanthes cusia BREMEK,Strobilanthes,KNApSAcK
+18,C00002783,61276-17-3,Acteoside,C29H36O15,624.20542048,Strobilanthes crispus,Strobilanthes,KNApSAcK
+19,C00003028,507-70-0,Borneol,C10H18O,154.1357652,Strobilanthes auriculatus,Strobilanthes,KNApSAcK
+20,C00003045,1195-79-5,Fenchone,C10H16O,152.12011513,Strobilanthes ixiocephala,Strobilanthes,KNApSAcK
+21,C00003106,523-47-7,beta-Cadinene,C15H24,204.18780077,Strobilanthes ixiocephala,Strobilanthes,KNApSAcK
+22,C00003110,87-44-5,beta-Caryophyllene,C15H24,204.18780077,Strobilanthes ixiocephala,Strobilanthes,KNApSAcK
+23,C00003161,577-27-5,Ledol,C15H26O,222.19836545,Strobilanthes crispus,Strobilanthes,KNApSAcK
+24,C00003467,150-86-7,Phytol,C20H40O,296.3079159,Strobilanthes crispus,Strobilanthes,KNApSAcK
+25,C00003674,83-48-7,beta-Stigmasterol,C29H48O,412.37051615,Strobilanthes japonicus,Strobilanthes,KNApSAcK
+26,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Strobilanthes cusia,Strobilanthes,KNApSAcK
+27,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Strobilanthes formosanus,Strobilanthes,KNApSAcK
+28,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Strobilanthes formosanus,Strobilanthes,KNApSAcK
+29,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Strobilanthes cusia BREMEK,Strobilanthes,KNApSAcK
+30,C00003758,127-22-0,Taraxerol,C30H50O,426.38616622,Strobilanthes callosus,Strobilanthes,KNApSAcK
+31,C00003817,520-36-5,Apigenin,C15H10O5,270.05282343,Strobilanthes crispus,Strobilanthes,KNApSAcK
+32,C00004144,29741-09-1,Apigenin 7-O-beta-D-glucuronide,C21H18O11,446.08491142,Strobilanthes crispus,Strobilanthes,KNApSAcK
+33,C00004146,53538-13-9,Apigenin-7-O-beta-D-glucuronide methyl ester,C22H20O11,460.10056148,Strobilanthes crispus,Strobilanthes,KNApSAcK
+34,C00004565,520-18-3,Kaempferol,C15H10O6,286.04773805,Strobilanthes crispus,Strobilanthes,KNApSAcK
+35,C00005413,153-18-4,Quercetin 3-rutinoside,C27H30O16,610.15338491,Strobilanthes crispus,Strobilanthes,KNApSAcK
+36,C00019220,1617-70-5,Lupenone,C30H48O,424.37051615,Strobilanthes cusia,Strobilanthes,KNApSAcK
+37,C00020065,481-34-5,(-)-alpha-Cadinol,C15H26O,222.19836545,Strobilanthes crispus,Strobilanthes,KNApSAcK
+38,C00020066,5937-11-1,epi-alpha-Cadinol,C15H26O,222.19836545,Strobilanthes ixiocephala,Strobilanthes,KNApSAcK
+39,C00030100,112-30-1,1-Decanol,C10H22O,158.16706532,Strobilanthes crispus,Strobilanthes,KNApSAcK
+40,C00030165,112-95-8,Eicosane,C20H42,282.32865134,Strobilanthes crispus,Strobilanthes,KNApSAcK
+41,C00030345,39029-41-9,gamma-Cadinene,C15H24,204.18780077,Strobilanthes ixiocephala,Strobilanthes,KNApSAcK
+42,C00030471,593-49-7,Heptacosane,C27H56,380.43820179,Strobilanthes crispus,Strobilanthes,KNApSAcK
+43,C00030472,629-78-7,Heptadecane,C17H36,240.28170115,Strobilanthes crispus,Strobilanthes,KNApSAcK
+44,C00030516,61303-13-7,Isoacteoside,C29H36O15,624.20542048,Strobilanthes crispus,Strobilanthes,KNApSAcK
+45,C00030541,505-32-8,Isophytol,C20H40O,296.3079159,Strobilanthes crispus,Strobilanthes,KNApSAcK
+46,C00030758,112-12-9,2-Undecanone,C11H22O,170.16706532,Strobilanthes crispus,Strobilanthes,KNApSAcK
+47,C00032308,124-25-4,Tetradecanal,C14H28O,212.21401552,Strobilanthes crispus,Strobilanthes,KNApSAcK
+48,C00033568,16290-50-9,"4'-Hydroxy-5,7-dimethoxyflavone",C17H14O5,298.08412356,Strobilanthes japonicus,Strobilanthes,KNApSAcK
+49,C00033568,16290-50-9,"4'-Hydroxy-5,7-dimethoxyflavone",C17H14O5,298.08412356,Strobilanthes formosanus,Strobilanthes,KNApSAcK
+50,C00033687,117477-59-5,Calceolarioside E,C28H34O15,610.18977042,Strobilanthes crispus,Strobilanthes,KNApSAcK
+51,C00033958,135463-05-7,Isonuomioside A,C28H34O15,610.18977042,Strobilanthes crispus,Strobilanthes,KNApSAcK
+52,C00034553,94410-22-7,Isomartynoside,C31H40O15,652.23672061,Strobilanthes cusia,Strobilanthes,KNApSAcK
+53,C00034563,120406-34-0,Jionoside D,C30H38O15,638.22107055,Strobilanthes cusia,Strobilanthes,KNApSAcK
+54,C00034597,67884-12-2,Martynoside,C31H40O15,652.23672061,Strobilanthes cusia,Strobilanthes,KNApSAcK
+55,C00034614,630-02-4,Octacosane,C28H58,394.45385185,Strobilanthes crispus,Strobilanthes,KNApSAcK
+56,C00035801,14575-74-7,alpha-Fenchol,C10H18O,154.1357652,Strobilanthes ixiocephala,Strobilanthes,KNApSAcK
+57,C00041424,915396-12-2,Cephalandole C,C23H24N2O9,472.14818038,Strobilanthes cusia,Strobilanthes,KNApSAcK
+58,C00047703,191481-00-2,Alangilignoside C,C28H38O13,582.2312413,Strobilanthes cusia,Strobilanthes,KNApSAcK
+59,C00048432,124-76-5,Isoborneol,C10H18O,154.1357652,Strobilanthes auriculatus,Strobilanthes,KNApSAcK
+60,C00050824,482-89-3,Indigo,C16H10N2O2,262.07422758,Strobilanthes cusia,Strobilanthes,KNApSAcK
+61,C00052277,13851-11-1,Fenchyl acetate,C12H20O2,196.14632988,Strobilanthes ixiocephala,Strobilanthes,KNApSAcK
+62,C00052719,491-36-1,4(3H)-Quinazolinone,C8H6N2O,146.04801283,Strobilanthes cusia,Strobilanthes,KNApSAcK
+63,C00053569,646-30-0,n-Nonadecanoic acid,C19H38O2,298.28718046,Strobilanthes crispus,Strobilanthes,KNApSAcK
+64,C00063316,90-15-3,1-Hydroxynaphthalene,C10H8O,144.05751488,Strobilanthes crispus,Strobilanthes,KNApSAcK
+65,C00063649,110282-44-5,Strobilanthin,C22H22O9,430.1263823,Strobilanthes japonicus,Strobilanthes,KNApSAcK
+66,C00063683,117-84-0,Di-n-octyl phthalate,C24H38O4,390.2770097,Strobilanthes crispus,Strobilanthes,KNApSAcK
+67,C00063705,120693-47-2,Crassifolioside,C35H46O19,770.26332929,Strobilanthes crispus,Strobilanthes,KNApSAcK
+68,C00063980,1639040-74-6,Strobilanthoside A,C45H44N2O17,884.263998,Strobilanthes cusia,Strobilanthes,KNApSAcK
+69,C00063981,1639040-75-7,Strobilanthoside B,C45H44N2O17,884.263998,Strobilanthes cusia,Strobilanthes,KNApSAcK
+70,C00063982,1639040-76-8,Strobilanthoside C,C18H21NO8,379.12671666,Strobilanthes cusia,Strobilanthes,KNApSAcK
+71,C00064005,17071-54-4,Hexyl octyl ether,C14H30O,214.22966558,Strobilanthes crispus,Strobilanthes,KNApSAcK
+72,C00064298,35599-77-0,Tridecyl iodide,C13H27I,310.11574386,Strobilanthes crispus,Strobilanthes,KNApSAcK
+73,C00064474,662108-99-8,Ixiocephol,C15H26O,222.19836545,Strobilanthes ixiocephala,Strobilanthes,KNApSAcK
+74,C00064542,82001-38-5,Glaucogenin C,C21H28O5,360.193674,Strobilanthes cusia,Strobilanthes,KNApSAcK
+75,C00064581,86-96-4,"2,4(1H,3H)-Quinazolinedione",C8H6N2O2,162.04292745,Strobilanthes cusia,Strobilanthes,KNApSAcK
+76,C00064648,97399-96-7,Cynatratoside A,C28H40O8,504.27231825,Strobilanthes cusia,Strobilanthes,KNApSAcK
+0,C00001071,529-44-2,Myricetin,C15H10O8,318.0375673,Medicago murex,Murex,KNApSAcK
+1,C00004075,145194-17-8,"Isoetin 5,7-dimethyl ether",C17H14O7,330.0739528,Pedalium murex,Murex,KNApSAcK
+2,C00004232,31105-76-7,Hispidulin-7-O-beta-D-glucuronide,C22H20O12,476.09547611,Pedalium murex,Murex,KNApSAcK
+3,C00004358,35110-20-4,Luteolin 4'-methyl ether 7-glucuronide,C22H20O12,476.09547611,Pedalium murex,Murex,KNApSAcK
+0,C00002729,583-17-5,2-Hydroxycinnamic acid,C9H8O3,164.04734412,Martynia annua,Martynia,KNApSAcK

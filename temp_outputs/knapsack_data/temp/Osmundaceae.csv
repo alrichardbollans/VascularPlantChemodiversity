@@ -1,0 +1,93 @@
+,C_ID,CAS ID,example_compound_name,Molecular formula,Mw,Organism,knapsack_search_term,Source
+0,C00001205,110-15-6,Succinic acid,C4H6O4,118.02660868,Osmunda japonica,Osmunda,KNApSAcK
+1,C00003667,13408-56-5,Ponasterone A,C27H44O6,464.31378914,Osmunda japonica,Osmunda,KNApSAcK
+2,C00005135,69292-77-9,Asiaticalin,C21H20O11,448.10056148,Osmunda asiatica,Osmunda,KNApSAcK
+3,C00048033,54826-92-5,Osmundalactone,C6H8O3,128.04734412,Osmunda japonica,Osmunda,KNApSAcK
+4,C00048034,54835-71-1,Osmundalin,C12H18O8,290.10016755,Osmunda japonica,Osmunda,KNApSAcK
+5,C00057432,54656-51-8,Sherry lactone,C6H10O3,130.06299419,Osmunda japonica,Osmunda,KNApSAcK
+0,C00003654,5289-74-7,20-Hydroxyecdysone,C27H44O7,480.30870376,Plenasium banksiaefolium,Plenasium,KNApSAcK
+1,C00003667,13408-56-5,Ponasterone A,C27H44O6,464.31378914,Plenasium banksiaefolium,Plenasium,KNApSAcK
+0,C00000615,501-16-6,Caffeic acid,C9H8O4,180.04225874,Struthiopteris amabilis,Struthiopteris,KNApSAcK
+1,C00000615,501-16-6,Caffeic acid,C9H8O4,180.04225874,Struthiopteris niponica,Struthiopteris,KNApSAcK
+2,C00000623,146805-53-0,(-)-Blechnic acid,C18H14O8,358.06886743,Struthiopteris amabilis,Struthiopteris,KNApSAcK
+3,C00000623,146805-53-0,(-)-Blechnic acid,C18H14O8,358.06886743,Struthiopteris niponica,Struthiopteris,KNApSAcK
+4,C00000624,146713-96-4,(-)-Brainic acid,C25H22O12,514.11112617,Struthiopteris niponica,Struthiopteris,KNApSAcK
+5,C00000624,146713-96-4,(-)-Brainic acid,C25H22O12,514.11112617,Struthiopteris amabilis,Struthiopteris,KNApSAcK
+6,C00002724,327-97-9,3-O-Caffeoylquinic acid,C16H18O9,354.09508217,Matteuccia struthiopteris,Struthiopteris,KNApSAcK
+7,C00003667,13408-56-5,Ponasterone A,C27H44O6,464.31378914,Matteuccia struthiopteris,Struthiopteris,KNApSAcK
+8,C00003670,18089-44-6,Pterosterone,C27H44O7,480.30870376,Matteuccia struthiopteris,Struthiopteris,KNApSAcK
+9,C00005145,70427-13-3,Kaempferol 7-alpha-L-arabinoside,C20H18O10,418.0899968,Matteuccia struthiopteris,Struthiopteris,KNApSAcK
+0,C00000015,13744-18-8,Gibberellin A15,C20H26O4,330.18310932,Anemia phyllitidis,Anemia,KNApSAcK
+1,C00000019,6980-44-5,Gibberellin A19,C20H26O6,362.17293856,Anemia phyllitidis,Anemia,KNApSAcK
+2,C00000020,19143-87-4,Gibberellin A20,C19H24O5,332.16237388,Anemia phyllitidis,Anemia,KNApSAcK
+3,C00000025,28535-69-5,Gibberellin A25,C20H26O6,362.17293856,Anemia phyllitidis,Anemia,KNApSAcK
+4,C00000045,55812-47-0,Gibberellin A45,C19H24O5,332.16237388,Anemia mexicana,Anemia,KNApSAcK
+5,C00000061,81826-98-4,Gibberellin A61,C19H24O5,332.16237388,Anemia mexicana,Anemia,KNApSAcK
+6,C00003403,34327-25-8,Antheridic acid,C20H24O6,360.1572885,Anemia phyllitidis,Anemia,KNApSAcK
+7,C00003403,34327-25-8,Antheridic acid,C20H24O6,360.1572885,Anemia hirsuta,Anemia,KNApSAcK
+8,C00007869,,Gibberellin A104,C19H22O5,330.14672381,Anemia mexicana,Anemia,KNApSAcK
+9,C00007870,,Gibberellin A107,C19H22O5,330.14672381,Anemia phyllitidis,Anemia,KNApSAcK
+0,C00001238,57-11-4,Octadecanoic acid,C18H36O2,284.27153039,Asplenium laciniatum,Asplenium,KNApSAcK
+1,C00002962,4773-96-0,Aphloiol,C19H18O11,422.08491142,Asplenium montanum Willd.,Asplenium,KNApSAcK
+2,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Asplenium laciniatum,Asplenium,KNApSAcK
+3,C00005132,5041-67-8,Juglanin,C20H18O10,418.0899968,Asplenium trichomanes-ramosum,Asplenium,KNApSAcK
+4,C00005139,31159-41-8,Isoastragalin,C21H20O11,448.10056148,Asplenium filix-foemina,Asplenium,KNApSAcK
+5,C00005162,110352-79-9,Kaempferol 3-vicianoside,C26H28O15,580.14282023,Asplenium nidus,Asplenium,KNApSAcK
+6,C00005181,99883-42-8,Kaempferol 3-glucoside-7-galactoside,C27H30O16,610.15338491,Asplenium bulbiferum,Asplenium,KNApSAcK
+7,C00005182,25615-14-9,"Kaempferol 3,7-di-O-glucoside",C27H30O16,610.15338491,Asplenium bulbiferum,Asplenium,KNApSAcK
+8,C00005184,2392-95-2,Kaempferol 3-glucoside-7-rhamnoside,C27H30O15,594.15847029,Asplenium trichomanes-ramosum,Asplenium,KNApSAcK
+9,C00005184,2392-95-2,Kaempferol 3-glucoside-7-rhamnoside,C27H30O15,594.15847029,Asplenium bulbiferum,Asplenium,KNApSAcK
+10,C00005186,71801-95-1,Kaempferol 3-rhamnoside-7-alpha-L-arabionopyranoside,C26H28O14,564.14790561,Asplenium trichomanes,Asplenium,KNApSAcK
+11,C00005188,64323-49-5,Kaempferol 3-rhamnoside-7-glucoside,C27H30O15,594.15847029,Asplenium kaulfussii,Asplenium,KNApSAcK
+12,C00005188,64323-49-5,Kaempferol 3-rhamnoside-7-glucoside,C27H30O15,594.15847029,Asplenium bulbiferum,Asplenium,KNApSAcK
+13,C00005189,482-38-2,Kaempferitrin,C27H30O14,578.16355567,Asplenium trichomanes,Asplenium,KNApSAcK
+14,C00005189,482-38-2,Kaempferitrin,C27H30O14,578.16355567,Asplenium bulbiferum,Asplenium,KNApSAcK
+15,C00005230,93098-79-4,Kaempferol 3-sophoroside-7-rhamnoside,C33H40O20,756.21129372,Asplenium kaulfussii,Asplenium,KNApSAcK
+16,C00005232,75848-04-3,Kaempferol 3-laminaribioside-7-rhamnoside,C33H40O20,756.21129372,Asplenium scolopendrium,Asplenium,KNApSAcK
+17,C00005246,132923-22-9,Kaempferol 3-sophoroside-4'-glucoside,C33H40O21,772.20620834,Asplenium septentrionale,Asplenium,KNApSAcK
+18,C00005257,,Kaempferol 3-sophorotrioside-7-glucoside,C39H50O26,934.25903177,Asplenium septentrionale,Asplenium,KNApSAcK
+19,C00005263,106900-15-6,"Kaempferol 3-gentiobioside-7,4'-diglucoside",C39H50O26,934.25903177,Asplenium nidus,Asplenium,KNApSAcK
+20,C00005264,13454-27-8,Isokaempferide 7-glucoside,C22H22O11,462.11621155,Asplenium marinum,Asplenium,KNApSAcK
+21,C00005291,89764-19-2,"Kaempferide 3,7-diglucoside",C28H32O16,624.16903498,Asplenium bulbiferum,Asplenium,KNApSAcK
+22,C00005292,93078-66-1,Kaempferide 3-glucoside-7-rhamnoside,C28H32O15,608.17412036,Asplenium bulbiferum,Asplenium,KNApSAcK
+23,C00005294,89764-20-5,Kaempferide 3-rhamnoside-7-glucoside,C28H32O15,608.17412036,Asplenium bulbiferum,Asplenium,KNApSAcK
+24,C00005295,111128-11-1,"Kaempferide 3,7-dirhamnoside",C28H32O14,592.17920573,Asplenium bulbiferum,Asplenium,KNApSAcK
+25,C00005298,41756-09-6,Ermanin 7-glucoside,C23H24O11,476.13186161,Asplenium platyneuron,Asplenium,KNApSAcK
+26,C00005298,41756-09-6,Ermanin 7-glucoside,C23H24O11,476.13186161,Asplenium marinum,Asplenium,KNApSAcK
+27,C00005428,18016-58-5,Quercetin 3-O-beta-D-glucopyranosyl-7-O-alpha-L-rhamnopyranoside,C27H30O16,610.15338491,Asplenium trichomanes-ramosum,Asplenium,KNApSAcK
+28,C00005430,165673-60-9,Quercetin 3-rhamnoside-7-alpha-L-arabinopyranoside,C26H28O15,580.14282023,Asplenium trichomanes-ramosum,Asplenium,KNApSAcK
+29,C00005489,53987-23-8,Quercetin 3-methyl ether 5-glucoside,C22H22O12,478.11112617,Asplenium trichomanes-ramosum,Asplenium,KNApSAcK
+30,C00005771,137196-20-4,"Mearnsetin 3,7-dirhamnoside",C28H32O16,624.16903498,Asplenium antiquum,Asplenium,KNApSAcK
+31,C00005895,128700-30-1,Kaempferol 3-(2''-caffeylglucoside)-7-rhamnoside,C36H36O18,756.19016435,Asplenium scolopendrium,Asplenium,KNApSAcK
+32,C00005917,128700-29-8,Kaempferol 3-(2''-caffeyllaminaribioside)-7-rhamnoside,C42H46O23,918.24298778,Asplenium scolopendrium,Asplenium,KNApSAcK
+33,C00005923,131989-73-6,Kaempferol 3-rhamnoside-7-[6'''-ferulyglucosyl-(1->3)-rhamnoside],C43H48O22,916.26372322,Asplenium prolongatum,Asplenium,KNApSAcK
+34,C00005932,107286-94-2,Kaempferide 3-rhamnoside-7-(6''-succinylglucoside),C32H36O18,708.19016435,Asplenium bulbiferum,Asplenium,KNApSAcK
+35,C00006066,75759-58-9,Kaempferol 3-(6''-sulfatogetiobioside),C27H30O19S,690.11019951,Asplenium fontanum,Asplenium,KNApSAcK
+36,C00006068,86203-13-6,Quercetin 3-(3''-sulfatoglucoside),C21H20O15S,544.0522907,Asplenium septentrionale,Asplenium,KNApSAcK
+37,C00006348,150697-53-3,"3,6,8-Tri-C-xylosylapigenin",C30H34O17,666.17959966,Asplenium viviparum,Asplenium,KNApSAcK
+38,C00006352,145204-84-8,"6,8-Di-C-rhamnopyranosylluteolin",C27H30O14,578.16355567,Asplenium viviparum,Asplenium,KNApSAcK
+39,C00008031,3260-50-2,Bracteatin,C15H10O7,302.04265268,Asplenium kaulfussii,Asplenium,KNApSAcK
+40,C00013762,288626-57-3,Kaempferol 3-gentiobioside-4'-glucoside,C33H40O21,772.20620834,Asplenium incisum,Asplenium,KNApSAcK
+41,C00041015,24699-16-9,Isomangiferin,C19H18O11,422.08491142,Asplenium montanum Willd.,Asplenium,KNApSAcK
+0,C00002724,327-97-9,3-O-Caffeoylquinic acid,C16H18O9,354.09508217,Polypodium vulgare,Polypodium,KNApSAcK
+1,C00003583,33650-66-7,Osladin,C45H74O17,886.49260094,Polypodium niponicum,Polypodium,KNApSAcK
+2,C00003583,33650-66-7,Osladin,C45H74O17,886.49260094,Polypodium vulgare,Polypodium,KNApSAcK
+3,C00003651,3604-87-3,Ecdysone,C27H44O6,464.31378914,Polypodium virginianum,Polypodium,KNApSAcK
+4,C00003651,3604-87-3,Ecdysone,C27H44O6,464.31378914,Polypodium vulgare,Polypodium,KNApSAcK
+5,C00003654,5289-74-7,20-Hydroxyecdysone,C27H44O7,480.30870376,Polypodium virginianum,Polypodium,KNApSAcK
+6,C00003665,1912-66-9,Pollinastanol,C28H48O,400.37051615,Polypodium niponicum,Polypodium,KNApSAcK
+7,C00003666,18069-14-2,Polypodine B,C27H44O8,496.30361838,Polypodium vulgare,Polypodium,KNApSAcK
+8,C00003748,58193-25-2,Hopane-29-acetate,C32H54O2,470.41238097,Polypodium juglandifolium,Polypodium,KNApSAcK
+9,C00008836,114590-44-2,Afzelechin 7-O-beta-D-apiofuranoside,C20H22O9,406.1263823,Polypodium glycyrrhiza,Polypodium,KNApSAcK
+10,C00008849,81905-13-7,Catechin 7-O-apiofuranoside,C20H22O10,422.12129692,Polypodium vulgare,Polypodium,KNApSAcK
+11,C00008850,29289-02-9,Polydine,C20H22O10,422.12129692,Polypodium vulgare,Polypodium,KNApSAcK
+12,C00050663,1259-94-5,24-Methylenecycloartanyl acetate,C33H54O2,482.41238097,Polypodium niponicum,Polypodium,KNApSAcK
+13,C00051443,6915-15-7,Malic acid,C4H6O5,134.0215233,Polypodium cuspidatum,Polypodium,KNApSAcK
+14,C00051443,6915-15-7,Malic acid,C4H6O5,134.0215233,Polypodium vulgare,Polypodium,KNApSAcK
+15,C00051661,72247-03-1,Multiflor-7-ene,C30H50,410.39125159,Polypodium niponicum,Polypodium,KNApSAcK
+16,C00051662,63543-59-9,Multiflor-8-ene,C30H50,410.39125159,Polypodium niponicum,Polypodium,KNApSAcK
+17,C00051663,88206-86-4,Multiflor-9(11)-ene,C39H50,518.39125159,Polypodium niponicum,Polypodium,KNApSAcK
+18,C00056920,119784-25-7,Polypodoside A,C45H72O17,884.47695088,Polypodium glycyrrhiza,Polypodium,KNApSAcK
+19,C00056923,120015-16-9,Polypodoside B,C39H62O13,738.41904207,Polypodium glycyrrhiza,Polypodium,KNApSAcK
+20,C00056924,120015-17-0,Polypodoside C,C40H64O13,752.43469213,Polypodium glycyrrhiza,Polypodium,KNApSAcK
+21,C00057350,33285-16-4,Polypodosaponin,C39H62O13,738.41904207,Polypodium vulgare,Polypodium,KNApSAcK

@@ -1,0 +1,57 @@
+,C_ID,CAS ID,example_compound_name,Molecular formula,Mw,Organism,knapsack_search_term,Source
+0,C00001934,36101-39-0,Carolinianine,C16H24N2O2,276.18377802,Lycopodium carolinianum var. affine,Olinia,KNApSAcK
+1,C00001935,6880-84-8,Cernuine,C16H26N2O,262.20451347,Lycopodium carolinianum,Olinia,KNApSAcK
+2,C00001943,6871-55-2,Lycocernuine,C16H26N2O2,278.19942809,Lycopodium carolinianum,Olinia,KNApSAcK
+3,C00001946,52485-00-4,Lycoflexine,C17H25NO2,275.18852905,Lycopodium carolinianum,Olinia,KNApSAcK
+4,C00002374,7084-24-4,Cyanidin 3-O-glucoside,C21H21O11.Cl,484.07723923,Molinia spp.,Olinia,KNApSAcK
+5,C00002376,18719-76-1,Antirrhinin,C27H31O15.Cl,630.13514803,Molinia spp.,Olinia,KNApSAcK
+6,C00003246,29307-03-7,Deoxyelephantopin,C19H20O6,344.12598837,Elephantopus carolinianus,Olinia,KNApSAcK
+7,C00005998,88064-46-4,Quercetin 3-(3'''-benzoylsophoroside)-7-rhamnoside,C40H44O22,876.23242309,Delphinium carolinianum,Olinia,KNApSAcK
+8,C00006681,6906-39-4,Oxycoccicyanin,C22H23O11.Cl,498.09288929,Molinia spp.,Olinia,KNApSAcK
+9,C00006698,6906-38-3,Myrtillin,C21H21O12.Cl,500.07215385,Molinia spp.,Olinia,KNApSAcK
+10,C00006796,94977-38-5,Cyanidin 3-(6''-malonylglucoside),C24H23O14,535.10878045,Molinia spp.,Olinia,KNApSAcK
+11,C00006799,180129-50-4,"Cyanidin 3-(3'',6''-dimalonylglucoside)",C27H25O17,621.10917438,Molinia spp.,Olinia,KNApSAcK
+12,C00006860,122856-11-5,Peonidin 3-(6''-malonylglucoside),C25H25O14,549.12443051,Molinia spp.,Olinia,KNApSAcK
+13,C00006877,122856-09-1,Delphinidin 3-(6''-malonylglucoside),C24H23O15,551.10369507,Molinia spp.,Olinia,KNApSAcK
+14,C00027863,34331-32-3,Anhydrolycocernuine,C16H24N2O,260.1888634,Lycopodium carolinianum var. affine,Olinia,KNApSAcK
+15,C00028194,15216-33-8,Dihydrodeoxycernuine,C16H28N2,248.22524891,Lycopodium carolinianum var. affine,Olinia,KNApSAcK
+16,C00037018,77996-00-0,Delcaroline,C25H41NO8,483.28321729,Delphinium carolinianum,Olinia,KNApSAcK
+17,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Fraxinus caroliniana,Olinia,KNApSAcK
+18,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Salix caroliniana,Olinia,KNApSAcK
+0,C00000609,7770-78-7,Arctigenin,C21H24O6,372.1572885,Onopordum acanthium,Canthium,KNApSAcK
+1,C00000615,501-16-6,Caffeic acid,C9H8O4,180.04225874,Onopordum acanthium,Canthium,KNApSAcK
+2,C00000960,552-58-9,Eriodictyol,C15H12O6,288.06338812,Onopordum acanthium,Canthium,KNApSAcK
+3,C00001029,491-71-4,Chrysoeriol,C16H12O6,300.06338812,Onopordum acanthium,Canthium,KNApSAcK
+4,C00001205,110-15-6,Succinic acid,C4H6O4,118.02660868,Onopordum acanthium,Canthium,KNApSAcK
+5,C00001995,26195-90-4,Canthiumine,C33H36N4O4,552.27365567,Canthium euryoides,Canthium,KNApSAcK
+6,C00002707,530-14-3,Picein,C14H18O7,298.10525293,Canthium berberidifolium,Canthium,KNApSAcK
+7,C00002724,327-97-9,3-O-Caffeoylquinic acid,C16H18O9,354.09508217,Onopordum acanthium,Canthium,KNApSAcK
+8,C00003341,19889-00-0,Onopordopicrin,C19H24O6,348.1572885,Onopordum acanthium,Canthium,KNApSAcK
+9,C00003817,520-36-5,Apigenin,C15H10O5,270.05282343,Onopordum acanthium,Canthium,KNApSAcK
+10,C00003907,5916-04-1,Onopordin,C16H12O7,316.05830274,Onopordum acanthium,Canthium,KNApSAcK
+11,C00004156,552-57-8,Apigenin-7-O-beta-D-rutinoside,C27H30O14,578.16355567,Onopordum acanthium,Canthium,KNApSAcK
+12,C00004266,5373-11-5,Cinaroside,C21H20O11,448.10056148,Onopordum acanthium,Canthium,KNApSAcK
+13,C00005373,482-35-9,Hirsutrin,C21H20O12,464.09547611,Onopordum acanthium,Canthium,KNApSAcK
+14,C00005374,522-12-3,Quercetin 3-O-alpha-L-rhamnoside,C21H20O11,448.10056148,Onopordum acanthium,Canthium,KNApSAcK
+15,C00007190,487-36-5,(+)-Pinoresinol,C20H22O6,358.14163844,Onopordum acanthium,Canthium,KNApSAcK
+16,C00007298,62-49-7,Choline,C5H14NO1,104.10753908,Onopordum acanthium,Canthium,KNApSAcK
+17,C00010564,27741-01-1,Geniposidic acid,C16H22O10,374.12129692,Canthium berberidifolium,Canthium,KNApSAcK
+18,C00010688,76679-60-2,Shazhiside methyl ester gentiobioside,C23H36O16,568.20033511,Canthium subcordatum,Canthium,KNApSAcK
+19,C00013885,351217-48-6,Quercetin 3-rutinoside-7-(6''-benzoylglucoside),C40H44O22,876.23242309,Canthium dicoccum,Canthium,KNApSAcK
+20,C00019793,117842-09-8,Hymexelsin,C21H26O13,486.13734092,Canthium berberidifolium,Canthium,KNApSAcK
+21,C00031877,115009-57-9,Icariside F2,C18H26O10,402.15259705,Canthium berberidifolium,Canthium,KNApSAcK
+22,C00033999,41653-73-0,Koaburaside,C14H20O9,332.11073224,Canthium berberidifolium,Canthium,KNApSAcK
+23,C00036875,491613-70-8,Canthoside A,C19H26O12,446.1424263,Canthium berberidifolium,Canthium,KNApSAcK
+24,C00036876,491613-78-6,Canthoside B,C19H28O13,464.15299098,Canthium berberidifolium,Canthium,KNApSAcK
+25,C00036877,137319-13-2,Canthoside C,C18H26O12,434.1424263,Canthium berberidifolium,Canthium,KNApSAcK
+26,C00036878,491614-89-2,Canthoside D,C18H26O12,434.1424263,Canthium berberidifolium,Canthium,KNApSAcK
+0,C00000136,470-82-6,"1,8-Cineol",C10H18O,154.1357652,Eucalyptus sideroxylon,Sideroxylon,KNApSAcK
+1,C00000805,80-56-8,alpha-Pinene,C10H16,136.12520051,Eucalyptus sideroxylon,Sideroxylon,KNApSAcK
+2,C00000823,138-86-3,Limonene,C10H16,136.12520051,Eucalyptus sideroxylon,Sideroxylon,KNApSAcK
+3,C00000958,989-51-5,epi-Gallocatechin 3-O-gallate,C22H18O11,458.08491142,Sideroxylon inerme L.,Sideroxylon,KNApSAcK
+4,C00002896,27208-80-6,(E)-Piceid,C20H22O8,390.13146768,Eucalyptus sideroxylon,Sideroxylon,KNApSAcK
+5,C00002903,501-36-0,Resveratrol,C14H12O3,228.07864425,Eucalyptus sideroxylon,Sideroxylon,KNApSAcK
+6,C00002904,155-58-8,Rhaponticin,C21H24O9,420.14203237,Eucalyptus sideroxylon,Sideroxylon,KNApSAcK
+7,C00003989,3122-87-0,Sideroxylin,C18H16O5,312.09977362,Eucalyptus sideroxylon,Sideroxylon,KNApSAcK
+8,C00008672,572-31-6,Dihydrokaempferol-3-O-alpha-L-rhamnopyranoside,C21H22O10,434.12129692,Eucalyptus sideroxylon,Sideroxylon,KNApSAcK
+9,C00009075,20315-25-7,Procyanidin B1,C30H26O12,578.1424263,Sideroxylon inerme L.,Sideroxylon,KNApSAcK

@@ -1,0 +1,86 @@
+,C_ID,CAS ID,example_compound_name,Molecular formula,Mw,Organism,knapsack_search_term,Source
+0,C00000614,458-35-5,Coniferyl alcohol,C10H12O3,180.07864425,Hedyotis lawsoniae,Hedyotis,KNApSAcK
+1,C00000683,97465-79-7,Hedyotol C,C31H36O11,584.22576199,Hedyotis lawsoniae,Hedyotis,KNApSAcK
+2,C00001059,38953-85-4,Isovitexin,C21H20O10,432.10564686,Hedyotis dichotoma,Hedyotis,KNApSAcK
+3,C00002499,92-61-5,Scopoletin,C10H8O4,192.04225874,Hedyotis capitellata,Hedyotis,KNApSAcK
+4,C00002591,18423-69-3,Cubebin,C20H20O6,356.12598837,Hedyotis chrysotricha,Hedyotis,KNApSAcK
+5,C00002814,24094-45-9,Digiferrugineol,C15H10O4,254.05790881,Hedyotis capitellata,Hedyotis,KNApSAcK
+6,C00002862,117-02-2,Rubiadin,C15H10O4,254.05790881,Hedyotis capitellata,Hedyotis,KNApSAcK
+7,C00003674,83-48-7,beta-Stigmasterol,C29H48O,412.37051615,Hedyotis corymbosa,Hedyotis,KNApSAcK
+8,C00003758,127-22-0,Taraxerol,C30H50O,426.38616622,Hedyotis acutangula,Hedyotis,KNApSAcK
+9,C00004565,520-18-3,Kaempferol,C15H10O6,286.04773805,Hedyotis herbacea,Hedyotis,KNApSAcK
+10,C00005169,17650-84-9,Kaempferol 3-rutinoside,C27H30O15,594.15847029,Hedyotis herbacea,Hedyotis,KNApSAcK
+11,C00007204,548-29-8,Isolariciresinol,C20H24O6,360.1572885,Hedyotis chrysotricha,Hedyotis,KNApSAcK
+12,C00013784,284677-05-0,Kaempferol 3-(6''-(E)-feruloylglucosyl)-(1->2)-galactoside,C37H38O19,786.20072904,Hedyotis diffusa,Hedyotis,KNApSAcK
+13,C00024110,151214-01-6,"3beta,24-Dihydroxyurs-12-en-28-oic acid",C30H48O4,472.35526002,Hedyotis lawsoniae (DC.) WIGHT et ARN.,Hedyotis,KNApSAcK
+14,C00024118,143839-02-5,"2alpha,3beta,24-Trihydroxyurs-12-en-28-oic acid",C30H48O5,488.35017464,Hedyotis lawsoniae (DC.) WIGHT et ARN.,Hedyotis,KNApSAcK
+15,C00026542,200884-09-9,(+)-Chrysotricine,C21H26N2O2,338.19942809,Hedyotis chrysotricha,Hedyotis,KNApSAcK
+16,C00026547,204001-20-7,Capitelline,C20H24N2O2,324.18377802,Hedyotis capitellata,Hedyotis,KNApSAcK
+17,C00026946,259821-80-2,(-)-Isocyclocapitelline,C20H24N2O2,324.18377802,Hedyotis capitellata,Hedyotis,KNApSAcK
+18,C00026947,259821-81-3,Cyclocapitelline,C20H24N2O2,324.18377802,Hedyotis capitellata,Hedyotis,KNApSAcK
+19,C00026948,257905-17-2,Hedyocapitelline,C22H30N2O2,354.23072822,Hedyotis capitellata var.molis,Hedyotis,KNApSAcK
+20,C00026949,257905-18-3,Hedyocapitine,C20H18N2O,302.14191321,Hedyotis capitellata var.molis,Hedyotis,KNApSAcK
+21,C00029633,7372-30-7,Acetylursolic acid,C32H50O4,498.37091008,Hedyotis dichotoma,Hedyotis,KNApSAcK
+22,C00029633,7372-30-7,Acetylursolic acid,C32H50O4,498.37091008,Hedyotis herbacea,Hedyotis,KNApSAcK
+23,C00029749,25368-11-0,Asperulosidic acid,C18H24O12,432.12677623,Hedyotis hedyotidea,Hedyotis,KNApSAcK
+24,C00030092,18843-01-1,Deacetyl asperuloside,C16H20O10,372.10564686,Hedyotis hedyotidea,Hedyotis,KNApSAcK
+25,C00031591,6170-06-5,2-Hydroxy-1-methoxyanthraquinone,C15H10O4,254.05790881,Hedyotis capitellata,Hedyotis,KNApSAcK
+26,C00031601,10383-63-8,"1,3-Dihydroxy-2-methoxyanthraquinone",C15H10O5,270.05282343,Hedyotis capitellata,Hedyotis,KNApSAcK
+27,C00035553,861664-61-1,Capitellataquinone A,C20H18O6,354.11033831,Hedyotis capitellata,Hedyotis,KNApSAcK
+28,C00035554,861664-62-2,Capitellataquinone B,C20H18O7,370.10525293,Hedyotis capitellata,Hedyotis,KNApSAcK
+29,C00035555,861664-63-3,Capitellataquinone C,C20H18O5,338.11542369,Hedyotis capitellata,Hedyotis,KNApSAcK
+30,C00035556,861664-64-4,Capitellataquinone D,C20H18O4,322.12050906,Hedyotis capitellata,Hedyotis,KNApSAcK
+31,C00039429,259821-82-4,Isochrysotricine,C21H26N2O2,338.19942809,Hedyotis capitellata,Hedyotis,KNApSAcK
+32,C00044189,132284-01-6,Guaiacin D,C52H82O21,1042.53485968,Hedyotis nudicaulis,Hedyotis,KNApSAcK
+33,C00044269,211815-97-3,Nudicaucin A,C46H72O17,896.47695088,Hedyotis nudicaulis,Hedyotis,KNApSAcK
+34,C00044270,211557-36-7,Nudicaucin B,C47H76O17,912.508251,Hedyotis nudicaulis,Hedyotis,KNApSAcK
+35,C00044271,211815-98-4,Ilekudinoside A,C53H86O21,1058.56615981,Hedyotis nudicaulis,Hedyotis,KNApSAcK
+36,C00046043,5532-41-2,Sorghumol,C30H50O,426.38616622,Hedyotis acutangula,Hedyotis,KNApSAcK
+37,C00049144,210109-13-0,Deacetylasperulosidic acid ethyl ester,C18H26O11,418.14751167,Hedyotis hedyotidea,Hedyotis,KNApSAcK
+38,C00049175,210109-25-4,Hedyotoside,C17H22O10,386.12129692,Hedyotis hedyotidea,Hedyotis,KNApSAcK
+39,C00049916,184652-25-3,"1,4-Dihydroxy-2,3-dimethoxyanthraquinone",C16H12O6,300.06338812,Hedyotis dichotoma,Hedyotis,KNApSAcK
+40,C00049934,184652-26-4,"2,3-Dimethoxy-9-hydroxy-1,4-anthraquinone",C16H12O5,284.06847349,Hedyotis dichotoma,Hedyotis,KNApSAcK
+41,C00050538,73706-32-8,Auricularine,C33H42N4,494.34094737,Hedyotis auricularia,Hedyotis,KNApSAcK
+0,C00034204,942061-17-8,Russelioside E,C57H86O21,1106.56615981,Caralluma russeliana,Russelia,KNApSAcK
+1,C00034665,942061-18-9,Russelioside F,C50H74O17,946.49260094,Caralluma russeliana,Russelia,KNApSAcK
+2,C00034666,942061-19-0,Russelioside G,C43H62O14,802.41395669,Caralluma russeliana,Russelia,KNApSAcK
+3,C00034667,461052-96-0,Russelioside H,C55H88O21,1084.58180988,Caralluma russeliana,Russelia,KNApSAcK
+4,C00046881,297156-97-9,Russelioside A,C34H56O12,656.37717725,Caralluma russeliana,Russelia,KNApSAcK
+5,C00046882,297156-91-3,Russelioside B,C40H66O17,818.43000068,Caralluma russeliana,Russelia,KNApSAcK
+6,C00046883,297156-98-0,Russelioside C,C34H56O12,656.37717725,Caralluma russeliana,Russelia,KNApSAcK
+7,C00046884,297156-99-1,Russelioside D,C40H66O17,818.43000068,Caralluma russeliana,Russelia,KNApSAcK
+0,C00000938,27200-12-0,Ampelopsin,C15H12O8,320.05321736,Heuchera villosa,Heuchera,KNApSAcK
+1,C00005134,60933-78-0,Kaempferol 3-xyloside,C20H18O10,418.0899968,Heuchera micrantha,Heuchera,KNApSAcK
+2,C00005134,60933-78-0,Kaempferol 3-xyloside,C20H18O10,418.0899968,Heuchera villosa,Heuchera,KNApSAcK
+3,C00005140,482-39-3,Afzelin,C21H20O10,432.10564686,Heuchera spp.,Heuchera,KNApSAcK
+4,C00005149,16290-07-6,Kaempferol 7-O-beta-D-glucopyranoside,C21H20O11,448.10056148,Heuchera micrantha,Heuchera,KNApSAcK
+5,C00005180,61032-88-0,Kaempferol 3-glucoside-7-xyloside,C26H28O15,580.14282023,Heuchera micrantha,Heuchera,KNApSAcK
+6,C00005182,25615-14-9,"Kaempferol 3,7-di-O-glucoside",C27H30O16,610.15338491,Heuchera micrantha,Heuchera,KNApSAcK
+7,C00005370,6743-88-0,Reynoutrin,C20H18O11,434.08491142,Heuchera spp.,Heuchera,KNApSAcK
+8,C00005427,6892-74-6,"Quercetin 3,7-O-beta-diglucopyranoside",C27H30O17,626.14829954,Heuchera micrantha,Heuchera,KNApSAcK
+9,C00005555,,Isorhamnetin 3-glucoside-7-xyloside,C27H30O16,610.15338491,Heuchera micrantha,Heuchera,KNApSAcK
+10,C00005727,102849-44-5,Myricetin 3-xyloside,C20H18O12,450.07982604,Heuchera villosa,Heuchera,KNApSAcK
+11,C00005727,102849-44-5,Myricetin 3-xyloside,C20H18O12,450.07982604,Heuchera micrantha,Heuchera,KNApSAcK
+12,C00005729,19833-12-6,Isomyricitrin,C21H20O13,480.09039073,Heuchera spp.,Heuchera,KNApSAcK
+13,C00005730,17912-87-7,Myricitrin,C21H20O12,464.09547611,Heuchera spp.,Heuchera,KNApSAcK
+14,C00005761,39986-90-8,Laricitrin 3-glucoside,C22H22O13,494.10604079,Heuchera villosa,Heuchera,KNApSAcK
+15,C00005761,39986-90-8,Laricitrin 3-glucoside,C22H22O13,494.10604079,Heuchera micrantha,Heuchera,KNApSAcK
+16,C00005777,40039-49-4,Syringetin 3-glucoside,C23H24O13,508.12169086,Heuchera micrantha,Heuchera,KNApSAcK
+17,C00005777,40039-49-4,Syringetin 3-glucoside,C23H24O13,508.12169086,Heuchera cylindrica,Heuchera,KNApSAcK
+18,C00005847,56317-05-6,Kaempferol 3-(6''-galloylglucoside),C28H24O15,600.1115201,Heuchera spp.,Heuchera,KNApSAcK
+19,C00005958,56316-75-7,Quercetin 3-(6''-galloylglucoside),C28H24O16,616.10643472,Heuchera spp.,Heuchera,KNApSAcK
+20,C00006040,56317-07-8,Myricetin 3-(6''-galloylglucoside),C28H24O17,632.10134934,Heuchera spp.,Heuchera,KNApSAcK
+0,C00001906,130-86-9,Protopine,C20H19NO5,353.12632273,Oldenlandia biflora,Oldenlandia,KNApSAcK
+1,C00003072,14259-45-1,Asperuloside,C18H22O11,414.11621155,Oldenlandia corymbosa,Oldenlandia,KNApSAcK
+2,C00003072,14259-45-1,Asperuloside,C18H22O11,414.11621155,Oldenlandia diffusa,Oldenlandia,KNApSAcK
+3,C00003558,77-52-1,Ursolic acid,C30H48O3,456.3603454,Oldenlandia diffusa,Oldenlandia,KNApSAcK
+4,C00003674,83-48-7,beta-Stigmasterol,C29H48O,412.37051615,Oldenlandia diffusa,Oldenlandia,KNApSAcK
+5,C00005157,31512-06-8,Panasenoside,C27H30O16,610.15338491,Oldenlandia diffusa,Oldenlandia,KNApSAcK
+6,C00005413,153-18-4,Quercetin 3-rutinoside,C27H30O16,610.15338491,Oldenlandia corymbosa,Oldenlandia,KNApSAcK
+7,C00019064,508-02-1,Oleanolic acid,C30H48O3,456.3603454,Oldenlandia diffusa,Oldenlandia,KNApSAcK
+8,C00029633,7372-30-7,Acetylursolic acid,C32H50O4,498.37091008,Oldenlandia diffusa,Oldenlandia,KNApSAcK
+9,C00029749,25368-11-0,Asperulosidic acid,C18H24O12,432.12677623,Oldenlandia corymbosa,Oldenlandia,KNApSAcK
+10,C00030092,18843-01-1,Deacetyl asperuloside,C16H20O10,372.10564686,Oldenlandia corymbosa,Oldenlandia,KNApSAcK
+11,C00030094,52613-28-2,6alpha-Hydroxygeniposide,C17H24O11,404.13186161,Oldenlandia corymbosa,Oldenlandia,KNApSAcK
+12,C00050081,914955-43-4,E-6-O-p-coumaroyl scandoside methyl ester 10-O-methyl methyl ether,C27H32O13,564.18429111,Oldenlandia diffusa,Oldenlandia,KNApSAcK
+0,C00001448,534-67-8,Lotaustralin,C11H19NO6,261.12123735,Haloragis erecta,Haloragis,KNApSAcK

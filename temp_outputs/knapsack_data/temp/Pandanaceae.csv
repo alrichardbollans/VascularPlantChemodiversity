@@ -1,0 +1,110 @@
+,C_ID,CAS ID,example_compound_name,Molecular formula,Mw,Organism,knapsack_search_term,Source
+0,C00000640,526-06-7,(+)-Eudesmin,C22H26O6,386.17293856,Pandanus odoratissimus,Pandanus,KNApSAcK
+1,C00000643,36150-23-9,Kobusin,C21H22O6,370.14163844,Pandanus odoratissimus,Pandanus,KNApSAcK
+2,C00000856,99-96-7,4-hydroxybenzoic acid,C7H6O3,138.03169406,Pandanus odorus,Pandanus,KNApSAcK
+3,C00000911,502-65-8,Lycopene,C40H56,536.43820179,Pandanus tectorius,Pandanus,KNApSAcK
+4,C00000919,7235-40-7,beta-Carotene,C40H56,536.43820179,Pandanus tectorius,Pandanus,KNApSAcK
+5,C00000920,472-70-8,beta-Cryptoxanthin,C40H56O,552.43311641,Pandanus tectorius,Pandanus,KNApSAcK
+6,C00000931,144-68-3,Zeaxanthin,C40H56O2,568.42803103,Pandanus tectorius,Pandanus,KNApSAcK
+7,C00001228,544-63-8,Myristic acid,C14H28O2,228.20893014,Pandanus conoideus Lam,Pandanus,KNApSAcK
+8,C00001232,112-80-1,Oleic acid,C18H34O2,282.25588033,Pandanus conoideus Lam,Pandanus,KNApSAcK
+9,C00001238,57-11-4,Octadecanoic acid,C18H36O2,284.27153039,Pandanus conoideus Lam,Pandanus,KNApSAcK
+10,C00001337,56-12-2,GABA,C4H9NO2,103.06332854,Pandanus amaryllifolius,Pandanus,KNApSAcK
+11,C00003765,7488-99-5,alpha-Carotene,C40H56,536.43820179,Pandanus tectorius,Pandanus,KNApSAcK
+12,C00003776,127-40-2,Lutein,C40H56O2,568.42803103,Pandanus tectorius,Pandanus,KNApSAcK
+13,C00007190,487-36-5,(+)-Pinoresinol,C20H22O6,358.14163844,Pandanus odoratissimus,Pandanus,KNApSAcK
+14,C00007423,1002-84-2,Pentadecanoic acid,C15H30O2,242.2245802,Pandanus conoideus Lam,Pandanus,KNApSAcK
+15,C00010868,5989-27-5,(+)-Limonene,C10H16,136.12520051,Pandanus tectorius,Pandanus,KNApSAcK
+16,C00031437,68-26-8,Retinol,C20H30O,286.22966558,Pandanus tectorius,Pandanus,KNApSAcK
+17,C00033283,303008-80-2,Pandamarilactonine A,C18H23NO4,317.16270823,Pandanus amaryllifolius,Pandanus,KNApSAcK
+18,C00033284,303008-81-3,Pandamarilactonine B,C18H23NO4,317.16270823,Pandanus amaryllifolius,Pandanus,KNApSAcK
+19,C00033285,477332-25-5,Pandamarilactonine C,C18H23NO4,317.16270823,Pandanus amaryllifolius,Pandanus,KNApSAcK
+20,C00033286,477332-26-6,Pandamarilactonine D,C18H23NO4,317.16270823,Pandanus amaryllifolius,Pandanus,KNApSAcK
+21,C00043218,657389-58-7,6E-Pandanamine,C18H23NO4,317.16270823,Pandanus amaryllifolius,Pandanus,KNApSAcK
+22,C00043221,302914-53-0,6Z-Pandanamine,C18H23NO4,317.16270823,Pandanus amaryllifolius,Pandanus,KNApSAcK
+23,C00046210,367941-40-0,Norpandamarilactonine A,C9H13NO2,167.09462867,Pandanus amaryllifolius,Pandanus,KNApSAcK
+24,C00046211,367941-41-1,Norpandamarilactonine B,C9H13NO2,167.09462867,Pandanus amaryllifolius,Pandanus,KNApSAcK
+25,C00047629,1186098-00-9,"(E,E)-Pandanamine",C18H23NO4,317.16270823,Pandanus amaryllifolius,Pandanus,KNApSAcK
+26,C00052714,18386-37-3,4-hydroxy-4-methylglutamate,C6H11NO5,177.06372247,Pandanus amaryllifolius,Pandanus,KNApSAcK
+27,C00053526,3025-96-5,N-acetyl-GABA,C6H11NO3,145.07389323,Pandanus amaryllifolius,Pandanus,KNApSAcK
+28,C00053529,1813538-61-2,N-acetylnorpandamarilactonine A,C11H15NO3,209.10519335,Pandanus amaryllifolius,Pandanus,KNApSAcK
+29,C00053530,1813538-64-5,N-acetylnorpandamarilactonine B,C11H15NO3,209.10519335,Pandanus amaryllifolius,Pandanus,KNApSAcK
+30,C00053626,1814904-62-5,Pandalactonine,C18H21NO5,331.14197279,Pandanus amaryllifolius,Pandanus,KNApSAcK
+31,C00053627,1814904-37-4,Pandalizine A,C9H11NO,149.08406398,Pandanus amaryllifolius,Pandanus,KNApSAcK
+32,C00053628,1814904-42-1,Pandalizine B,C10H15NO2,181.11027873,Pandanus amaryllifolius,Pandanus,KNApSAcK
+33,C00053629,1814904-51-2,Pandamarilactone 2,C18H23NO4,317.16270823,Pandanus amaryllifolius,Pandanus,KNApSAcK
+34,C00053630,1814904-56-7,Pandamarilactone 3,C18H24N2O3,316.17869265,Pandanus amaryllifolius,Pandanus,KNApSAcK
+35,C00053631,1814904-47-6,Pandanmenyamine,C11H15NO3,209.10519335,Pandanus amaryllifolius,Pandanus,KNApSAcK
+36,C00056545,117176-70-2,Hostmaniane,C13H18O5,254.11542369,Pandanus odoratissimus,Pandanus,KNApSAcK
+37,C00056687,1231900-72-3,Dubiusamine A,C18H31NO4,325.22530849,Pandanus dubius,Pandanus,KNApSAcK
+38,C00056688,1231900-74-5,Dubiusamine B,C18H27NO4,321.19400836,Pandanus amaryllifolius,Pandanus,KNApSAcK
+39,C00056969,1242146-20-8,Pandamarilactonine E,C18H29NO4,323.20965842,Pandanus amaryllifolius,Pandanus,KNApSAcK
+40,C00056970,1242146-21-9,Pandamarilactonine F,C18H29NO4,323.20965842,Pandanus amaryllifolius,Pandanus,KNApSAcK
+41,C00056971,1242146-22-0,Pandamarilactonine F N-oxide,C18H29NO5,339.20457304,Pandanus amaryllifolius,Pandanus,KNApSAcK
+42,C00056972,1242146-23-1,Pandamarilactonine G,C13H21NO3,239.15214354,Pandanus amaryllifolius,Pandanus,KNApSAcK
+43,C00056973,1245411-33-9,Pandamarilactonine H,C16H23NO4,293.16270823,Pandanus amaryllifolius,Pandanus,KNApSAcK
+44,C00057104,152606-63-8,Pandamarilactone 1,C18H23NO4,317.16270823,Pandanus amaryllifolius,Pandanus,KNApSAcK
+45,C00057105,152606-64-9,Pandamarilactone 31,C19H25NO4,331.17835829,Pandanus amaryllifolius,Pandanus,KNApSAcK
+46,C00057106,152606-65-0,Pandamarilactone 32,C18H21NO3,299.15214354,Pandanus amaryllifolius,Pandanus,KNApSAcK
+47,C00057194,189179-33-7,Pandamarilactam 3x,C13H17NO3,235.12084342,Pandanus amaryllifolius,Pandanus,KNApSAcK
+48,C00057195,189179-35-9,Pandamarilactam 3y,C13H17NO3,235.12084342,Pandanus amaryllifolius,Pandanus,KNApSAcK
+0,C00001425,104-14-3,Octopamine,C8H11NO2,153.0789786,Coryphantha macromeris var. runyonii,Corypha,KNApSAcK
+1,C00022871,97169-07-8,"(3R,3'R,6'S)-beta,epsilon-Carotene-3,3'-diol",C40H56O2,568.42803103,Coryphaena hippurus,Corypha,KNApSAcK
+2,C00022873,89673-72-3,"(3R,3'S,6'S)-beta,epsilon-Carotene-3,3'-diol",C40H56O2,568.42803103,Coryphaena hippurus,Corypha,KNApSAcK
+3,C00022882,71697-13-7,Tunaxanthin C,C40H56O2,568.42803103,Coryphaena hippurus,Corypha,KNApSAcK
+4,C00022885,72274-50-1,Tunaxanthin B,C40H56O2,568.42803103,Coryphaena hippurus,Corypha,KNApSAcK
+5,C00022887,71697-14-8,Tunaxanthin A,C40H56O2,568.42803103,Coryphaena hippurus,Corypha,KNApSAcK
+6,C00022997,,"(3'R,6S,6'S)-3'-Hydroxy-epsilon,epsilon-Caroten-3-one",C40H54O2,566.41238097,Coryphaena hippurus,Corypha,KNApSAcK
+7,C00023049,97169-05-6,"(6S,6'S)-epsilon,epsilon-Carotene-3,3'-dione",C40H52O2,564.3967309,Coryphaena hippurus,Corypha,KNApSAcK
+0,C00001015,1617-53-4,Amentoflavone,C30H18O10,538.0899968,Garcinia hombroniana,Hombronia,KNApSAcK
+1,C00001059,38953-85-4,Isovitexin,C21H20O10,432.10564686,Garcinia hombroniana,Hombronia,KNApSAcK
+2,C00001110,3681-93-4,Vitexin,C21H20O10,432.10564686,Garcinia hombroniana,Hombronia,KNApSAcK
+3,C00002950,2752-65-0,Gambogic acid,C38H44O8,628.30361838,Garcinia hombroniana,Hombronia,KNApSAcK
+4,C00002963,6147-11-1,Mangostin,C24H26O6,410.17293856,Garcinia hombroniana,Hombronia,KNApSAcK
+5,C00002968,3542-72-1,"1,3,6,7-Tetrahydroxyxanthone",C13H8O6,260.03208799,Garcinia hombroniana,Hombronia,KNApSAcK
+6,C00002991,78824-30-3,Garcinol,C38H50O6,602.36073933,Garcinia hombroniana,Hombronia,KNApSAcK
+7,C00003023,52617-32-0,Xanthochymol,C38H50O6,602.36073933,Garcinia hombroniana,Hombronia,KNApSAcK
+8,C00006432,27542-37-6,Talbotaflavone,C30H20O10,540.10564686,Garcinia hombroniana,Hombronia,KNApSAcK
+9,C00006437,29082-55-1,Fukugiside,C36H30O16,718.15338491,Garcinia hombroniana,Hombronia,KNApSAcK
+10,C00033898,147782-04-5,Guttiferone E,C38H50O6,602.36073933,Garcinia hombroniana,Hombronia,KNApSAcK
+11,C00034855,147687-34-1,Guttiferone A,C38H50O6,602.36073933,Garcinia hombroniana,Hombronia,KNApSAcK
+12,C00042528,313947-63-6,Garcihombronane B,C31H50O5,502.36582471,Garcinia hombroniana,Hombronia,KNApSAcK
+13,C00042529,313947-62-5,Garcihombronane C,C31H48O4,484.35526002,Garcinia hombroniana,Hombronia,KNApSAcK
+14,C00042530,313947-64-7,"(25R)-3beta-Hydroxy-23-oxo-9,16-lanostadien-26-oic acid",C30H46O4,470.33960996,Garcinia hombroniana,Hombronia,KNApSAcK
+15,C00042531,313947-65-8,Garcihombronane E,C30H46O4,470.33960996,Garcinia hombroniana,Hombronia,KNApSAcK
+16,C00042532,863889-33-2,Garcihombronane F,C30H46O4,470.33960996,Garcinia hombroniana,Hombronia,KNApSAcK
+17,C00042533,863889-34-3,Garcihombronane G,C30H46O4,470.33960996,Garcinia hombroniana,Hombronia,KNApSAcK
+18,C00042534,86388939-8,Garcihombronane J,C31H48O4,484.35526002,Garcinia hombroniana,Hombronia,KNApSAcK
+19,C00053206,863889-37-6,Garcihombronane I,C30H48O4,472.35526002,Garcinia hombroniana,Hombronia,KNApSAcK
+20,C00055747,24390-51-0,Bronianone,C43H58O6,670.42333958,Garcinia hombroniana,Hombronia,KNApSAcK
+21,C00055865,1417886-69-1,Garcihombronone A,C15H8O6,284.03208799,Garcinia hombroniana,Hombronia,KNApSAcK
+22,C00055866,1417886-72-6,Garcihombronone B,C23H24O7,412.15220312,Garcinia hombroniana,Hombronia,KNApSAcK
+23,C00055867,1417886-74-8,Garcihombronone C,C15H12O7,304.05830274,Garcinia hombroniana,Hombronia,KNApSAcK
+24,C00055868,1417886-76-0,Garcihombronone D,C15H12O7,304.05830274,Garcinia hombroniana,Hombronia,KNApSAcK
+0,C00003890,18085-97-7,Jaceosidin,C17H14O7,330.0739528,Tillandsia utriculata,Tillandsia,KNApSAcK
+1,C00004607,14787-34-9,"5-Hydroxy-3,6,7,4'-tetramethoxyflavone",C19H18O7,358.10525293,Tillandsia utriculata,Tillandsia,KNApSAcK
+2,C00004712,479-90-3,Artemetin,C20H20O8,388.11581762,Tillandsia purpurea,Tillandsia,KNApSAcK
+3,C00004828,63296-16-2,"5,7,4'-Trihydroxy-3,6,3',5'-tetramethoxyflavone",C19H18O9,390.09508217,Tillandsia usneoides,Tillandsia,KNApSAcK
+4,C00005639,19833-27-3,Patuletin 3-O-beta-D-glucoside,C22H22O13,494.10604079,Tillandsia bulbosa,Tillandsia,KNApSAcK
+5,C00005791,67963-64-8,"6-Hydroxymyricetin 6,3',5'-trimethyl ether 3-glucoside",C24H26O14,538.13225554,Tillandsia fasciculata,Tillandsia,KNApSAcK
+6,C00005791,67963-64-8,"6-Hydroxymyricetin 6,3',5'-trimethyl ether 3-glucoside",C24H26O14,538.13225554,Tillandsia usneoides,Tillandsia,KNApSAcK
+7,C00005792,67963-63-7,"6-Hydroxymyricetin 3,6,3',5'-tetramethyl ether 7-glucoside",C25H28O14,552.14790561,Tillandsia usneoides,Tillandsia,KNApSAcK
+8,C00006688,132-37-6,"Peonidin-3,5-diglucoside",C28H33O16,625.17686001,Tillandsia spp.,Tillandsia,KNApSAcK
+9,C00013371,,"5,5'-Dihydroxy-3,7,3',4'-tetramethoxyflavone",C19H18O8,374.10016755,Tillandsia usneoides,Tillandsia,KNApSAcK
+10,C00013595,41365-32-6,Cirsilineol,C18H16O7,344.08960287,Tillandsia utriculata,Tillandsia,KNApSAcK
+11,C00045816,511-61-5,Cyclolaudenol,C31H52O,440.40181628,Tillandsia fasciculata,Tillandsia,KNApSAcK
+12,C00045817,2315-13-1,Cyclolaudenone,C31H50O,438.38616622,Tillandsia fasciculata,Tillandsia,KNApSAcK
+13,C00046463,352670-62-3,Tillandsinone,C33H54O,466.41746634,Tillandsia fasciculata,Tillandsia,KNApSAcK
+0,C00004705,479-91-4,Casticin,C19H18O8,374.10016755,Bromelia pinguin,Bromelia,KNApSAcK
+1,C00006668,64963-54-8,"Cyanidin 3,3'-diglucoside",C27H31O16,611.16120995,Bromeliaceae,Bromelia,KNApSAcK
+0,C00002161,522-06-5,Flindersiamine,C14H11NO5,273.06372247,Teclea verdoorniana,Doornia,KNApSAcK
+1,C00002177,484-08-2,Kokusaginine,C14H13NO4,259.08445791,Teclea verdoorniana,Doornia,KNApSAcK
+2,C00002198,83-95-4,Skimmianine,C14H13NO4,259.08445791,Teclea verdoorniana,Doornia,KNApSAcK
+3,C00024251,477-82-7,Evoxanthine,C16H13NO4,283.08445791,Telea verdoorniana,Doornia,KNApSAcK
+4,C00026434,26949-99-5,Halfordinine,C15H15NO5,289.0950226,Teclea verdoorniana,Doornia,KNApSAcK
+5,C00026463,77145-74-5,(-)-Montrifoline,C18H21NO6,347.13688741,Teclea verdoorniana,Doornia,KNApSAcK
+6,C00026490,82202-84-4,Tecleaverdine,C18H19NO6,345.12123735,Teclea verdoorniana,Doornia,KNApSAcK
+7,C00026491,65847-03-2,Tecleaverdoornine,C18H17NO5,327.11067266,Teclea verdoorniana,Doornia,KNApSAcK
+8,C00026492,82202-82-2,Tecleine,C13H9NO5,259.04807241,Teclea verdoorniana,Doornia,KNApSAcK
+9,C00034719,55950-37-3,Tecleanone,C17H19NO4,301.1314081,Teclea verdoorniana,Doornia,KNApSAcK
+10,C00052416,24966-05-0,Tecleanthine,C17H15NO5,313.0950226,Teclea verdoorniana,Doornia,KNApSAcK

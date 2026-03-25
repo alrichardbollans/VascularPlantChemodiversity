@@ -1,0 +1,328 @@
+,C_ID,CAS ID,example_compound_name,Molecular formula,Mw,Organism,knapsack_search_term,Source
+0,C00001955,3279-74-1,Sauroxine,C17H26N2O,274.20451347,Lycopodium saururus,Saururus,KNApSAcK
+1,C00001956,116-28-9,Selagine,C15H18N2O,242.14191321,Lycopodium saururus,Saururus,KNApSAcK
+2,C00002623,83377-13-3,Saucernetin,C22H28O5,372.193674,Saururus chinensis,Saururus,KNApSAcK
+3,C00002623,83377-13-3,Saucernetin,C22H28O5,372.193674,Saururus cernuus,Saururus,KNApSAcK
+4,C00002633,19950-55-1,(+)-Veraguensin,C22H28O5,372.193674,Saururus cernuus,Saururus,KNApSAcK
+5,C00002773,18607-93-7,"1-Allyl-2-methoxy-4,5-methylene-dioxybenzene",C11H12O3,192.07864425,Saururus chinensis,Saururus,KNApSAcK
+6,C00005372,482-36-0,Hyperin,C21H20O12,464.09547611,Saururus chinensis,Saururus,KNApSAcK
+7,C00005373,482-35-9,Hirsutrin,C21H20O12,464.09547611,Saururus chinensis,Saururus,KNApSAcK
+8,C00007213,528-64-3,(-)-Galbacin,C20H20O5,340.13107375,Saururus chinensis,Saururus,KNApSAcK
+9,C00007213,528-64-3,(-)-Galbacin,C20H20O5,340.13107375,Saururus cernuus,Saururus,KNApSAcK
+10,C00025374,52998-88-6,Acetylfawcettiine,C20H31NO4,349.22530849,Lycopodium saururus,Saururus,KNApSAcK
+11,C00025378,466-62-6,Clavolonine,C16H25NO2,263.18852905,Lycopodium saururus,Saururus,KNApSAcK
+12,C00025382,23768-74-3,Dihydrolycopodine,C16H27NO,249.20926449,Lycopodium saururus,Saururus,KNApSAcK
+13,C00025383,6899-87-2,Fawcettiine,C18H29NO3,307.2147438,Lycopodium saururus,Saururus,KNApSAcK
+14,C00025389,6900-92-1,Lycodoline,C16H25NO2,263.18852905,Lycopodium saururus,Saururus,KNApSAcK
+15,C00027864,18834-79-2,Anhydrolycodoline,C16H23NO,245.17796436,Lycopodium saururus,Saururus,KNApSAcK
+16,C00032491,68143-83-9,Virolin,C21H26O5,358.17802394,Saururus chinensis,Saururus,KNApSAcK
+17,C00033135,110269-53-9,Machilin D,C20H24O5,344.16237388,Saururus chinensis,Saururus,KNApSAcK
+18,C00033361,373360-09-9,Saucerneol A,C32H40O8,552.27231825,Saururus chinensis,Saururus,KNApSAcK
+19,C00033362,373360-10-2,Saucerneol B,C31H36O8,536.24101813,Saururus chinensis,Saururus,KNApSAcK
+20,C00033363,373360-11-3,Saucerneol C,C30H36O8,524.24101813,Saururus chinensis,Saururus,KNApSAcK
+21,C00034969,289497-19-4,Sauriol A,C20H26O6,362.17293856,Saururus cernuus L.,Saururus,KNApSAcK
+22,C00034970,289497-20-7,Sauriol B,C21H28O6,376.18858863,Saururus cernuus L.,Saururus,KNApSAcK
+23,C00036136,88497-87-4,Manassantin A,C42H52O11,732.3509625,Saururus cernuus,Saururus,KNApSAcK
+24,C00036136,88497-87-4,Manassantin A,C42H52O11,732.3509625,Saururus chinensis,Saururus,KNApSAcK
+25,C00036137,88497-88-5,Manassantin B,C41H48O11,716.31966238,Saururus cernuus,Saururus,KNApSAcK
+26,C00036137,88497-88-5,Manassantin B,C41H48O11,716.31966238,Saururus chinensis,Saururus,KNApSAcK
+27,C00036209,630096-17-2,Saucerneol D,C31H36O8,536.24101813,Saururus chinensis,Saururus,KNApSAcK
+28,C00036210,630096-18-3,Saucerneol E,C30H34O8,522.22536806,Saururus chinensis,Saururus,KNApSAcK
+29,C00040225,1061273-57-1,Saucerneol F,C30H32O8,520.209718,Saururus chinensis,Saururus,KNApSAcK
+30,C00040226,1061273-58-2,Saucerneol G,C20H20O6,356.12598837,Saururus chinensis,Saururus,KNApSAcK
+31,C00040227,1061273-60-6,Saucerneol H,C20H22O6,358.14163844,Saururus chinensis,Saururus,KNApSAcK
+32,C00040228,1061273-62-8,Saucerneol I,C20H22O7,374.13655306,Saururus chinensis,Saururus,KNApSAcK
+33,C00040237,777855-51-3,Sauroine,C16H25NO3,279.18344367,Huperzia saururus,Saururus,KNApSAcK
+34,C00046382,389573-12-0,Saururin A,C20H22O6,358.14163844,Saururus chinensis,Saururus,KNApSAcK
+35,C00046568,281655-25-2,1'-epi-Sauchinone,C20H20O6,356.12598837,Saururus chinensis,Saururus,KNApSAcK
+36,C00046906,26430-34-2,Sauchinone A,C20H20O6,356.12598837,Saururus chinensis,Saururus,KNApSAcK
+37,C00053773,177931-17-8,Sauchinone,C20H20O6,356.12598837,Saururus chinensis,Saururus,KNApSAcK
+0,C00000113,771-50-6,Indole-3-carboxylic acid,C9H7NO2,161.04767848,Houttuynia cordata,Houttuynia,KNApSAcK
+1,C00000149,6750-60-3,Espatulenol,C15H24O,220.18271539,Houttuynia cordata,Houttuynia,KNApSAcK
+2,C00000156,499-75-2,Carvacrol,C10H14O,150.10446507,Houttuynia cordata,Houttuynia,KNApSAcK
+3,C00000156,499-75-2,Carvacrol,C10H14O,150.10446507,Houttuynia emeiensis,Houttuynia,KNApSAcK
+4,C00000184,2867-05-2,alpha-Thujene,C10H16,136.12520051,Houttuynia cordata,Houttuynia,KNApSAcK
+5,C00000209,98-92-0,Nicotinamide,C6H6N2O,122.04801283,Houttuynia cordata,Houttuynia,KNApSAcK
+6,C00000353,6789-80-6,cis-3-Hexenal,C6H10O,98.07316494,Houttuynia cordata,Houttuynia,KNApSAcK
+7,C00000357,66-25-1,Hexanal,C6H12O,100.08881501,Houttuynia cordata,Houttuynia,KNApSAcK
+8,C00000601,607-80-7,(+)-Sesamin,C20H18O6,354.11033831,Houttuynia cordata,Houttuynia,KNApSAcK
+9,C00000674,491-70-3,"5,7,3',4'-Tetrahydroxyflavone",C15H10O6,286.04773805,Houttuynia cordata,Houttuynia,KNApSAcK
+10,C00000750,103-82-2,Phenylacetic acid,C8H8O2,136.0524295,Houttuynia cordata,Houttuynia,KNApSAcK
+11,C00000805,80-56-8,alpha-Pinene,C10H16,136.12520051,Houttuynia emeiensis,Houttuynia,KNApSAcK
+12,C00000805,80-56-8,alpha-Pinene,C10H16,136.12520051,Houttuynia cordata Thunb.,Houttuynia,KNApSAcK
+13,C00000816,127-91-3,beta-Pinene,C10H16,136.12520051,Houttuynia cordata,Houttuynia,KNApSAcK
+14,C00000816,127-91-3,beta-Pinene,C10H16,136.12520051,Houttuynia emeiensis,Houttuynia,KNApSAcK
+15,C00000816,127-91-3,beta-Pinene,C10H16,136.12520051,Houttuynia cordata Thunb.,Houttuynia,KNApSAcK
+16,C00000823,138-86-3,Limonene,C10H16,136.12520051,Houttuynia cordata,Houttuynia,KNApSAcK
+17,C00000830,15537-55-0,cis-Sabinene hydrate,C10H18O,154.1357652,Houttuynia cordata,Houttuynia,KNApSAcK
+18,C00000839,13466-78-9,3-Carene,C10H16,136.12520051,Houttuynia cordata Thunb.,Houttuynia,KNApSAcK
+19,C00000843,3338-55-4,cis-beta-Ocimene,C10H16,136.12520051,Houttuynia cordata,Houttuynia,KNApSAcK
+20,C00000843,3338-55-4,cis-beta-Ocimene,C10H16,136.12520051,Houttuynia emeiensis,Houttuynia,KNApSAcK
+21,C00000853,123-35-3,beta-Myrcene,C10H16,136.12520051,Houttuynia emeiensis,Houttuynia,KNApSAcK
+22,C00000853,123-35-3,beta-Myrcene,C10H16,136.12520051,Houttuynia cordata,Houttuynia,KNApSAcK
+23,C00000853,123-35-3,beta-Myrcene,C10H16,136.12520051,Houttuynia cordata Thunb.,Houttuynia,KNApSAcK
+24,C00000856,99-96-7,4-hydroxybenzoic acid,C7H6O3,138.03169406,Houttuynia cordata,Houttuynia,KNApSAcK
+25,C00000861,586-62-9,alpha-Terpinolene,C10H16,136.12520051,Houttuynia cordata Thunb.,Houttuynia,KNApSAcK
+26,C00000862,3779-61-1,trans-beta-Ocimene,C10H16,136.12520051,Houttuynia emeiensis,Houttuynia,KNApSAcK
+27,C00000862,3779-61-1,trans-beta-Ocimene,C10H16,136.12520051,Houttuynia cordata,Houttuynia,KNApSAcK
+28,C00001176,64-19-7,Acetic acid,C2H4O2,60.02112937,Houttuynia cordata,Houttuynia,KNApSAcK
+29,C00001213,334-48-5,Capric acid,C10H20O2,172.14632988,Houttuynia cordata,Houttuynia,KNApSAcK
+30,C00001213,334-48-5,Capric acid,C10H20O2,172.14632988,Houttuynia emeiensis,Houttuynia,KNApSAcK
+31,C00001224,60-33-3,Linoleic acid,C18H32O2,280.24023027,Houttuynia cordata,Houttuynia,KNApSAcK
+32,C00001228,544-63-8,Myristic acid,C14H28O2,228.20893014,Houttuynia cordata,Houttuynia,KNApSAcK
+33,C00001228,544-63-8,Myristic acid,C14H28O2,228.20893014,Houttuynia emeiensis,Houttuynia,KNApSAcK
+34,C00001233,57-10-3,Palmitic acid,C16H32O2,256.24023027,Houttuynia cordata Thunb.,Houttuynia,KNApSAcK
+35,C00001238,57-11-4,Octadecanoic acid,C18H36O2,284.27153039,Houttuynia cordata,Houttuynia,KNApSAcK
+36,C00001246,3658-80-8,Dimethyl trisulfide,C2H6S3,125.96316238,Houttuynia cordata,Houttuynia,KNApSAcK
+37,C00001260,630-03-5,Nonacosane,C29H60,408.46950191,Houttuynia cordata,Houttuynia,KNApSAcK
+38,C00001756,29700-20-7,Perlolyrin,C16H12N2O2,264.08987764,Houttuynia cordata,Houttuynia,KNApSAcK
+39,C00001869,3019-51-0,(S)-Isoboldine,C19H21NO4,327.14705817,Houttuynia cordata,Houttuynia,KNApSAcK
+40,C00002471,305-01-1,Aesculetin,C9H6O4,178.02660868,Houttuynia cordata,Houttuynia,KNApSAcK
+41,C00002656,123-31-9,"1,4-Benzenediol",C6H6O2,110.03677944,Houttuynia cordata,Houttuynia,KNApSAcK
+42,C00002668,99-50-3,"3,4-Dihydroxybenzoic acid",C7H6O4,154.02660868,Houttuynia cordata,Houttuynia,KNApSAcK
+43,C00002683,5463-22-9,Vanillin,C8H8O3,152.04734412,Houttuynia cordata,Houttuynia,KNApSAcK
+44,C00002724,327-97-9,3-O-Caffeoylquinic acid,C16H18O9,354.09508217,Houttuynia cordata,Houttuynia,KNApSAcK
+45,C00003028,507-70-0,Borneol,C10H18O,154.1357652,Houttuynia cordata,Houttuynia,KNApSAcK
+46,C00003029,79-92-5,Camphene,C10H16,136.12520051,Houttuynia cordata Thunb.,Houttuynia,KNApSAcK
+47,C00003040,99-87-6,p-Cymene,C10H14,134.10955045,Houttuynia cordata,Houttuynia,KNApSAcK
+48,C00003046,105-87-3,Geranyl acetate,C12H20O2,196.14632988,Houttuynia emeiensis,Houttuynia,KNApSAcK
+49,C00003046,105-87-3,Geranyl acetate,C12H20O2,196.14632988,Houttuynia cordata,Houttuynia,KNApSAcK
+50,C00003047,78-70-6,(+-)-Linalool,C10H18O,154.1357652,Houttuynia cordata,Houttuynia,KNApSAcK
+51,C00003051,99-83-2,alpha-Phellandrene,C10H16,136.12520051,Houttuynia cordata Thunb.,Houttuynia,KNApSAcK
+52,C00003060,99-86-5,alpha-Terpinene,C10H16,136.12520051,Houttuynia emeiensis,Houttuynia,KNApSAcK
+53,C00003060,99-86-5,alpha-Terpinene,C10H16,136.12520051,Houttuynia cordata,Houttuynia,KNApSAcK
+54,C00003061,99-85-4,gamma-Terpinene,C10H16,136.12520051,Houttuynia cordata,Houttuynia,KNApSAcK
+55,C00003061,99-85-4,gamma-Terpinene,C10H16,136.12520051,Houttuynia emeiensis,Houttuynia,KNApSAcK
+56,C00003110,87-44-5,beta-Caryophyllene,C15H24,204.18780077,Houttuynia cordata,Houttuynia,KNApSAcK
+57,C00003110,87-44-5,beta-Caryophyllene,C15H24,204.18780077,Houttuynia emeiensis,Houttuynia,KNApSAcK
+58,C00003130,502-61-4,alpha-Farnesene,C15H24,204.18780077,Houttuynia emeiensis,Houttuynia,KNApSAcK
+59,C00003130,502-61-4,alpha-Farnesene,C15H24,204.18780077,Houttuynia cordata,Houttuynia,KNApSAcK
+60,C00003131,18794-84-8,E-beta-farnesene,C15H24,204.18780077,Houttuynia emeiensis,Houttuynia,KNApSAcK
+61,C00003131,18794-84-8,E-beta-farnesene,C15H24,204.18780077,Houttuynia cordata,Houttuynia,KNApSAcK
+62,C00003147,6753-98-6,alpha-Caryophyllene (obsol.),C15H24,204.18780077,Houttuynia cordata,Houttuynia,KNApSAcK
+63,C00003186,17066-67-0,beta-Eudesmene,C15H24,204.18780077,Houttuynia cordata,Houttuynia,KNApSAcK
+64,C00003467,150-86-7,Phytol,C20H40O,296.3079159,Houttuynia cordata,Houttuynia,KNApSAcK
+65,C00003486,11017-56-4,(+)-Strigol,C19H22O6,346.14163844,Houttuynia cordata,Houttuynia,KNApSAcK
+66,C00003817,520-36-5,Apigenin,C15H10O5,270.05282343,Houttuynia cordata,Houttuynia,KNApSAcK
+67,C00003834,529-53-3,Scutellarein,C15H10O6,286.04773805,Houttuynia cordata,Houttuynia,KNApSAcK
+68,C00004631,117-39-5,Quercetin,C15H10O7,302.04265268,Houttuynia cordata,Houttuynia,KNApSAcK
+69,C00005140,482-39-3,Afzelin,C21H20O10,432.10564686,Houttuynia cordata,Houttuynia,KNApSAcK
+70,C00005372,482-36-0,Hyperin,C21H20O12,464.09547611,Houttuynia cordata,Houttuynia,KNApSAcK
+71,C00005373,482-35-9,Hirsutrin,C21H20O12,464.09547611,Houttuynia cordata,Houttuynia,KNApSAcK
+72,C00005374,522-12-3,Quercetin 3-O-alpha-L-rhamnoside,C21H20O11,448.10056148,Houttuynia cordata,Houttuynia,KNApSAcK
+73,C00005383,22007-72-3,Quercetin 7-rhamnoside,C21H20O11,448.10056148,Houttuynia cordata,Houttuynia,KNApSAcK
+74,C00005413,153-18-4,Quercetin 3-rutinoside,C27H30O16,610.15338491,Houttuynia cordata,Houttuynia,KNApSAcK
+75,C00007444,58-61-7,Adenosine,C10H13N5O4,267.09675394,Houttuynia cordata,Houttuynia,KNApSAcK
+76,C00007453,33880-83-0,beta-Elemene,C15H24,204.18780077,Houttuynia cordata,Houttuynia,KNApSAcK
+77,C00007636,483-76-1,delta-Cadinene,C15H24,204.18780077,Houttuynia cordata,Houttuynia,KNApSAcK
+78,C00007758,16837-52-8,"Matrine, N-oxide",C15H24N2O2,264.18377802,Houttuynia cordata,Houttuynia,KNApSAcK
+79,C00010344,539-52-6,Perillene,C10H14O,150.10446507,Houttuynia cordata,Houttuynia,KNApSAcK
+80,C00010344,539-52-6,Perillene,C10H14O,150.10446507,Houttuynia emeiensis,Houttuynia,KNApSAcK
+81,C00010866,1076-56-8,3-Methoxy-p-cymene,C11H16O,164.12011513,Houttuynia cordata,Houttuynia,KNApSAcK
+82,C00010868,5989-27-5,(+)-Limonene,C10H16,136.12520051,Houttuynia emeiensis,Houttuynia,KNApSAcK
+83,C00010868,5989-27-5,(+)-Limonene,C10H16,136.12520051,Houttuynia cordata,Houttuynia,KNApSAcK
+84,C00010872,555-10-2,beta-Phellandrene,C10H16,136.12520051,Houttuynia cordata,Houttuynia,KNApSAcK
+85,C00010927,20126-76-5,(-)-4-Terpineol,C10H18O,154.1357652,Houttuynia cordata,Houttuynia,KNApSAcK
+86,C00011024,464-45-9,(-)-Borneol,C10H18O,154.1357652,Houttuynia cordata,Houttuynia,KNApSAcK
+87,C00011045,20296-50-8,(-)-Carene(-)-3-Carene,C10H16,136.12520051,Houttuynia cordata,Houttuynia,KNApSAcK
+88,C00011720,23986-74-5,(-)-Germacrene D,C15H24,204.18780077,Houttuynia cordata,Houttuynia,KNApSAcK
+89,C00012425,24703-35-3,(+)-Bicyclogermacrene,C15H24,204.18780077,Houttuynia cordata,Houttuynia,KNApSAcK
+90,C00012483,1139-30-6,(-)-beta-Caryophyllene epoxide,C15H24O,220.18271539,Houttuynia cordata,Houttuynia,KNApSAcK
+91,C00018099,139-85-5,"3,4-Dihydroxybenzaldehyde",C7H6O3,138.03169406,Houttuynia cordata,Houttuynia,KNApSAcK
+92,C00019674,58-96-8,Uridine,C9H12N2O6,244.06953613,Houttuynia cordata,Houttuynia,KNApSAcK
+93,C00021229,25246-27-9,allo-Aromadendrene,C15H24,204.18780077,Houttuynia cordata,Houttuynia,KNApSAcK
+94,C00021230,489-39-4,(+)-Aromadendrene,C15H24,204.18780077,Houttuynia cordata,Houttuynia,KNApSAcK
+95,C00021834,56633-28-4,alpha-Panasinsene,C15H24,204.18780077,Houttuynia cordata,Houttuynia,KNApSAcK
+96,C00025231,6871-21-2,Asimilobine,C17H17NO2,267.12592879,Houttuynia cordata,Houttuynia,KNApSAcK
+97,C00025675,2169-44-0,(+)-N-Methyllaurotetanine,C20H23NO4,341.16270823,Houttuynia cordata,Houttuynia,KNApSAcK
+98,C00025788,55610-02-1,Cepharadione B,C19H15NO4,321.10010798,Houttuynia cordata,Houttuynia,KNApSAcK
+99,C00025791,53948-09-7,Aristolactam BII,C17H13NO3,279.08954329,Houttuynia cordata,Houttuynia,KNApSAcK
+100,C00025962,23599-69-1,Norisoboldine,C18H19NO4,313.1314081,Houttuynia cordata,Houttuynia,KNApSAcK
+101,C00025991,3153-55-7,N-Methylasimilobine,C18H19NO2,281.14157886,Houttuynia cordata,Houttuynia,KNApSAcK
+102,C00027121,53948-07-5,Aristolactam AII,C16H11NO3,265.07389323,Houttuynia cordata,Houttuynia,KNApSAcK
+103,C00027141,82644-81-3,Dioxodehydroasimilobine,C17H11NO4,293.06880785,Houttuynia cordata,Houttuynia,KNApSAcK
+104,C00027409,128-76-7,Laurotetanine,C19H21NO4,327.14705817,Houttuynia cordata,Houttuynia,KNApSAcK
+105,C00027434,57576-41-7,Norcepharadione B,C18H13NO4,307.08445791,Houttuynia cordata,Houttuynia,KNApSAcK
+106,C00027441,4846-19-9,N-Nornuciferine,C18H19NO2,281.14157886,Houttuynia cordata,Houttuynia,KNApSAcK
+107,C00027470,112501-42-5,Piperolactam A,C16H11NO3,265.07389323,Houttuynia cordata,Houttuynia,KNApSAcK
+108,C00029335,13877-91-3,(E)-beta-Ocimene,C10H16,136.12520051,Houttuynia cordata,Houttuynia,KNApSAcK
+109,C00029339,40716-66-3,"(6E)-3,7,11-Trimethyl-1,6,10-dodecatrien-3-ol",C15H26O,222.19836545,Houttuynia cordata,Houttuynia,KNApSAcK
+110,C00029339,40716-66-3,"(6E)-3,7,11-Trimethyl-1,6,10-dodecatrien-3-ol",C15H26O,222.19836545,Houttuynia emeiensis,Houttuynia,KNApSAcK
+111,C00029344,41453-56-9,(Z)-2-Nonen-1-ol,C9H18O,142.1357652,Houttuynia emeiensis,Houttuynia,KNApSAcK
+112,C00029344,41453-56-9,(Z)-2-Nonen-1-ol,C9H18O,142.1357652,Houttuynia cordata,Houttuynia,KNApSAcK
+113,C00029352,7299-40-3,cis-beta-Terpineol,C10H18O,154.1357652,Houttuynia sp.,Houttuynia,KNApSAcK
+114,C00029452,554-61-0,2-Carene,C10H16,136.12520051,Houttuynia cordata,Houttuynia,KNApSAcK
+115,C00029452,554-61-0,2-Carene,C10H16,136.12520051,Houttuynia emeiensis,Houttuynia,KNApSAcK
+116,C00029453,1120-06-5,2-Decanol,C10H22O,158.16706532,Houttuynia emeiensis,Houttuynia,KNApSAcK
+117,C00029453,1120-06-5,2-Decanol,C10H22O,158.16706532,Houttuynia cordata,Houttuynia,KNApSAcK
+118,C00029455,6175-49-1,2-Dodecanone,C12H24O,184.18271539,Houttuynia cordata,Houttuynia,KNApSAcK
+119,C00029455,6175-49-1,2-Dodecanone,C12H24O,184.18271539,Houttuynia emeiensis,Houttuynia,KNApSAcK
+120,C00029456,98-00-0,Furfuryl alcohol,C5H6O2,98.03677944,Houttuynia cordata,Houttuynia,KNApSAcK
+121,C00029463,821-55-6,2-Nonanone,C9H18O,142.1357652,Houttuynia cordata,Houttuynia,KNApSAcK
+122,C00029506,71138-64-2,3-Methylene-undecane,C12H24,168.18780077,Houttuynia cordata,Houttuynia,KNApSAcK
+123,C00029506,71138-64-2,3-Methylene-undecane,C12H24,168.18780077,Houttuynia emeiensis,Houttuynia,KNApSAcK
+124,C00029517,19487-09-3,"4,4,6,6-Tetramethyl-bicyclo[3.1.0]hex-2-ene",C10H16,136.12520051,Houttuynia cordata,Houttuynia,KNApSAcK
+125,C00029517,19487-09-3,"4,4,6,6-Tetramethyl-bicyclo[3.1.0]hex-2-ene",C10H16,136.12520051,Houttuynia emeiensis,Houttuynia,KNApSAcK
+126,C00029524,29050-33-7,4-Carene,C10H16,136.12520051,Houttuynia cordata,Houttuynia,KNApSAcK
+127,C00029524,29050-33-7,4-Carene,C10H16,136.12520051,Houttuynia emeiensis,Houttuynia,KNApSAcK
+128,C00029544,562-74-3,4-Terpineol,C10H18O,154.1357652,Houttuynia cordata,Houttuynia,KNApSAcK
+129,C00029544,562-74-3,4-Terpineol,C10H18O,154.1357652,Houttuynia emeiensis,Houttuynia,KNApSAcK
+130,C00029545,26215-90-7,4-Tridecanone,C13H26O,198.19836545,Houttuynia cordata,Houttuynia,KNApSAcK
+131,C00029545,26215-90-7,4-Tridecanone,C13H26O,198.19836545,Houttuynia emeiensis,Houttuynia,KNApSAcK
+132,C00029547,67-47-0,5-Hydroxymethyl-2-furaldehyde,C6H6O3,126.03169406,Houttuynia cordata,Houttuynia,KNApSAcK
+133,C00029590,3613-30-7,"7-Methoxy-3,7-dimethyl-octanal",C11H22O2,186.16197995,Houttuynia cordata,Houttuynia,KNApSAcK
+134,C00029590,3613-30-7,"7-Methoxy-3,7-dimethyl-octanal",C11H22O2,186.16197995,Houttuynia emeiensis,Houttuynia,KNApSAcK
+135,C00029593,2034-74-4,3beta-Hydroxystigmast-5-en-7-one,C29H48O2,428.36543078,Houttuynia cordata,Houttuynia,KNApSAcK
+136,C00029668,859924-72-4,alpha-Cyclogeraniol acetate,C13H22O2,210.16197995,Houttuynia cordata,Houttuynia,KNApSAcK
+137,C00029668,859924-72-4,alpha-Cyclogeraniol acetate,C13H22O2,210.16197995,Houttuynia emeiensis,Houttuynia,KNApSAcK
+138,C00029672,473-13-2,(-)-alpha-Selinene,C15H24,204.18780077,Houttuynia cordata,Houttuynia,KNApSAcK
+139,C00029674,98-55-5,alpha-Terpineol,C10H18O,154.1357652,Houttuynia emeiensis,Houttuynia,KNApSAcK
+140,C00029674,98-55-5,alpha-Terpineol,C10H18O,154.1357652,Houttuynia cordata,Houttuynia,KNApSAcK
+141,C00029821,1058-61-3,Sitostenone,C29H48O,412.37051615,Houttuynia cordata,Houttuynia,KNApSAcK
+142,C00029828,635-65-4,Bilirubin,C33H36N4O6,584.26348491,Houttuynia cordata,Houttuynia,KNApSAcK
+143,C00029834,23526-45-6,(+)-Blumenol A,C13H20O3,224.1412445,Houttuynia cordata,Houttuynia,KNApSAcK
+144,C00029844,76-49-3,Borneol acetate,C12H20O2,196.14632988,Houttuynia emeiensis,Houttuynia,KNApSAcK
+145,C00029844,76-49-3,Borneol acetate,C12H20O2,196.14632988,Houttuynia cordata Thunb.,Houttuynia,KNApSAcK
+146,C00030099,112-31-2,Decanal,C10H20O,156.15141526,Houttuynia emeiensis,Houttuynia,KNApSAcK
+147,C00030099,112-31-2,Decanal,C10H20O,156.15141526,Houttuynia cordata,Houttuynia,KNApSAcK
+148,C00030100,112-30-1,1-Decanol,C10H22O,158.16706532,Houttuynia emeiensis,Houttuynia,KNApSAcK
+149,C00030100,112-30-1,1-Decanol,C10H22O,158.16706532,Houttuynia cordata,Houttuynia,KNApSAcK
+150,C00030151,5908-87-2,Docosanoic acid ethyl ester,C24H48O2,368.36543078,Houttuynia cordata,Houttuynia,KNApSAcK
+151,C00030152,112-53-8,1-Dodecanol,C12H26O,186.19836545,Houttuynia emeiensis,Houttuynia,KNApSAcK
+152,C00030152,112-53-8,1-Dodecanol,C12H26O,186.19836545,Houttuynia cordata,Houttuynia,KNApSAcK
+153,C00030153,25378-22-7,Dodecene,C12H24,168.18780077,Houttuynia emeiensis,Houttuynia,KNApSAcK
+154,C00030153,25378-22-7,Dodecene,C12H24,168.18780077,Houttuynia cordata,Houttuynia,KNApSAcK
+155,C00030224,28267-29-0,Ethyl tridecanoate,C15H30O2,242.2245802,Houttuynia cordata,Houttuynia,KNApSAcK
+156,C00030224,28267-29-0,Ethyl tridecanoate,C15H30O2,242.2245802,Houttuynia emeiensis,Houttuynia,KNApSAcK
+157,C00030331,98-01-1,Furfural,C5H4O2,96.02112937,Houttuynia cordata,Houttuynia,KNApSAcK
+158,C00030472,629-78-7,Heptadecane,C17H36,240.28170115,Houttuynia cordata,Houttuynia,KNApSAcK
+159,C00030478,630-01-3,Hexacosane,C26H54,366.42255172,Houttuynia cordata,Houttuynia,KNApSAcK
+160,C00030480,502-69-2,"6,10,14-Trimethyl-2-pentadecanone",C18H36O,268.27661577,Houttuynia cordata,Houttuynia,KNApSAcK
+161,C00030644,112-54-9,Lauraldehyde,C12H24O,184.18271539,Houttuynia cordata,Houttuynia,KNApSAcK
+162,C00030644,112-54-9,Lauraldehyde,C12H24O,184.18271539,Houttuynia emeiensis,Houttuynia,KNApSAcK
+163,C00030751,99-76-3,Methylparaben,C8H8O3,152.04734412,Houttuynia cordata,Houttuynia,KNApSAcK
+164,C00030758,112-12-9,2-Undecanone,C11H22O,170.16706532,Houttuynia cordata Thunb.,Houttuynia,KNApSAcK
+165,C00030758,112-12-9,2-Undecanone,C11H22O,170.16706532,Houttuynia emeiensis,Houttuynia,KNApSAcK
+166,C00030758,112-12-9,2-Undecanone,C11H22O,170.16706532,Houttuynia cordata,Houttuynia,KNApSAcK
+167,C00030810,18675-33-7,Neodihydrocarveol,C10H18O,154.1357652,Houttuynia emeiensis,Houttuynia,KNApSAcK
+168,C00030810,18675-33-7,Neodihydrocarveol,C10H18O,154.1357652,Houttuynia cordata,Houttuynia,KNApSAcK
+169,C00030828,124-19-6,Nonadienal,C9H18O,142.1357652,Houttuynia cordata,Houttuynia,KNApSAcK
+170,C00030830,143-08-8,Nonanol,C9H20O,144.15141526,Houttuynia emeiensis,Houttuynia,KNApSAcK
+171,C00030830,143-08-8,Nonanol,C9H20O,144.15141526,Houttuynia cordata,Houttuynia,KNApSAcK
+172,C00030879,593-45-3,n-Octadecane,C18H38,254.29735121,Houttuynia cordata,Houttuynia,KNApSAcK
+173,C00031258,3387-41-5,4(10)-Thujene,C10H16,136.12520051,Houttuynia cordata,Houttuynia,KNApSAcK
+174,C00031394,23670-94-2,"Stigmast-4-en-3,6-dione",C29H46O2,426.34978071,Houttuynia cordata,Houttuynia,KNApSAcK
+175,C00032308,124-25-4,Tetradecanal,C14H28O,212.21401552,Houttuynia emeiensis,Houttuynia,KNApSAcK
+176,C00032308,124-25-4,Tetradecanal,C14H28O,212.21401552,Houttuynia cordata,Houttuynia,KNApSAcK
+177,C00032377,1686-15-3,trans-Pinocarvyl acetate,C12H18O2,194.13067982,Houttuynia emeiensis,Houttuynia,KNApSAcK
+178,C00032377,1686-15-3,trans-Pinocarvyl acetate,C12H18O2,194.13067982,Houttuynia cordata,Houttuynia,KNApSAcK
+179,C00032409,638-67-5,n-Tridecane,C23H48,324.37560153,Houttuynia cordata,Houttuynia,KNApSAcK
+180,C00032442,112-44-7,Undecanal,C11H22O,170.16706532,Houttuynia cordata,Houttuynia,KNApSAcK
+181,C00032442,112-44-7,Undecanal,C11H22O,170.16706532,Houttuynia emeiensis,Houttuynia,KNApSAcK
+182,C00033500,151716-18-6,5-Deoxystrigol,C19H22O5,330.14672381,Houttuynia cordata,Houttuynia,KNApSAcK
+183,C00034614,630-02-4,Octacosane,C28H58,394.45385185,Houttuynia cordata,Houttuynia,KNApSAcK
+184,C00034760,693-54-9,2-Decanone,C10H20O,156.15141526,Houttuynia cordata,Houttuynia,KNApSAcK
+185,C00034989,27400-72-2,(E)-Ocimene,C10H16,136.12520051,Houttuynia cordata,Houttuynia,KNApSAcK
+186,C00035138,141-12-8,Neryl acetate,C12H20O2,196.14632988,Houttuynia cordata,Houttuynia,KNApSAcK
+187,C00035480,505-57-7,(2E)-Hex-2-enal,C6H10O,98.07316494,Houttuynia cordata,Houttuynia,KNApSAcK
+188,C00035560,629-73-2,1-Hexadecene,C16H32,224.25040102,Houttuynia cordata,Houttuynia,KNApSAcK
+189,C00035690,110-42-9,Methyl caprate,C11H22O2,186.16197995,Houttuynia cordata,Houttuynia,KNApSAcK
+190,C00035822,5392-40-5,Citral,C10H16O,152.12011513,Houttuynia cordata,Houttuynia,KNApSAcK
+191,C00036136,88497-87-4,Manassantin A,C42H52O11,732.3509625,Houttuynia cordata,Houttuynia,KNApSAcK
+192,C00036137,88497-88-5,Manassantin B,C41H48O11,716.31966238,Houttuynia cordata,Houttuynia,KNApSAcK
+193,C00036262,2345-28-0,2-Pentadecanone,C15H30O,226.22966558,Houttuynia cordata,Houttuynia,KNApSAcK
+194,C00036263,593-08-8,2-Tridecanone,C13H26O,198.19836545,Houttuynia cordata,Houttuynia,KNApSAcK
+195,C00036271,515-13-9,(-)-beta-Elemene,C15H24,204.18780077,Houttuynia cordata,Houttuynia,KNApSAcK
+196,C00036386,150-78-7,"1,4-Dimethoxybenzene",C8H10O2,138.06807956,Houttuynia cordata,Houttuynia,KNApSAcK
+197,C00036546,544-12-7,3-Hexen-1-ol,C6H12O,100.08881501,Houttuynia cordata,Houttuynia,KNApSAcK
+198,C00041127,22149-69-5,"Stigmastan 3,6-dione",C29H48O2,428.36543078,Houttuynia cordata,Houttuynia,KNApSAcK
+199,C00042269,275-51-4,Azulene,C10H8,128.06260026,Houttuynia cordata,Houttuynia,KNApSAcK
+200,C00042277,55-21-0,Benzamide,C7H7NO,121.05276385,Houttuynia cordata,Houttuynia,KNApSAcK
+201,C00042278,432-25-7,beta-Cyclocitral,C10H16O,152.12011513,Houttuynia cordata,Houttuynia,KNApSAcK
+202,C00048263,90973-78-7,"2,6-Dimethyl-1,3,5,7-octatetraene",C10H14,134.10955045,Houttuynia cordata,Houttuynia,KNApSAcK
+203,C00048310,673-84-7,"2,6-Dimethyl-2,4,6-octatriene",C10H16,136.12520051,Houttuynia cordata,Houttuynia,KNApSAcK
+204,C00048486,7216-56-0,Neo-allo-ocimene,C10H16,136.12520051,Houttuynia cordata,Houttuynia,KNApSAcK
+205,C00052447,5655-61-8,"(1S-endo)-1,7,7-Trimethyl-bicyclo[2.2.1]heptan-2-ol, acetate",C12H20O2,196.14632988,Houttuynia cordata,Houttuynia,KNApSAcK
+206,C00052489,151716-20-0,(+)-Strigone,C19H20O6,344.12598837,Houttuynia cordata,Houttuynia,KNApSAcK
+207,C00052504,64142-78-5,8-Hydroxylinalool,C10H18O2,170.13067982,Houttuynia cordata,Houttuynia,KNApSAcK
+208,C00052578,38738-60-2,1-Methyl-3-(1-methyl-ethenyl)cyclohexene,C10H16,136.12520051,Houttuynia cordata,Houttuynia,KNApSAcK
+209,C00052804,69842-11-1,alpha-Cyclogeranyl acetate,C12H20O2,196.14632988,Houttuynia cordata,Houttuynia,KNApSAcK
+210,C00052907,112-17-4,1-Decyl acetate,C12H24O2,200.17763001,Houttuynia cordata,Houttuynia,KNApSAcK
+211,C00052971,143636-48-0,beta-Sabinene,C10H16,136.12520051,Houttuynia cordata,Houttuynia,KNApSAcK
+212,C00053122,6874-36-8,cis-ocimene,C10H18,138.14085057,Houttuynia cordata,Houttuynia,KNApSAcK
+213,C00053185,623-17-6,2-Furan methyl acetate,C7H8O3,140.04734412,Houttuynia cordata,Houttuynia,KNApSAcK
+214,C00053325,2101869-24-1,Houttuycorine,C16H14N2O3,282.10044233,Houttuynia cordata,Houttuynia,KNApSAcK
+215,C00053326,2101869-22-9,Houttuynamide B,C15H15NO3,257.10519335,Houttuynia cordata,Houttuynia,KNApSAcK
+216,C00053523,2043031-19-0,N-(2-Glucosidyl-2-phenylethyl)benzamide,C21H25NO7,403.16310216,Houttuynia cordata,Houttuynia,KNApSAcK
+217,C00053616,27003-74-3,Orientaline,C19H23NO4,329.16270823,Houttuynia cordata,Houttuynia,KNApSAcK
+218,C00053790,1011730-11-2,Sorgomol,C19H22O6,346.14163844,Houttuynia cordata,Houttuynia,KNApSAcK
+219,C00053823,7320-37-8,Tetradecyloxirane,C16H32O,240.24531564,Houttuynia cordata,Houttuynia,KNApSAcK
+220,C00053856,17699-16-0,trans-Sabinene hydrate,C10H18O,154.1357652,Houttuynia cordata,Houttuynia,KNApSAcK
+221,C00053871,1731-86-8,Methyl undecanoate,C12H24O2,200.17763001,Houttuynia cordata,Houttuynia,KNApSAcK
+222,C00053938,149682-95-1,7-Chloro-6-demethylcepharadione B,C18H12ClNO4,341.04548559,Houttuynia cordata,Houttuynia,KNApSAcK
+223,C00053990,1186309-88-5,"N-(3,4-Dihydroxybenzoyl)tyramine",C15H15NO4,273.10010798,Houttuynia cordata,Houttuynia,KNApSAcK
+224,C00054673,149682-93-9,"3,5-Didecanoylpyridine",C25H41NO2,387.31372956,Houttuynia cordata,Houttuynia,KNApSAcK
+225,C00054674,149682-94-0,5-Decanoyl-2-nonylpyridine,C24H41NO,359.31881494,Houttuynia cordata,Houttuynia,KNApSAcK
+226,C00055138,158528-01-9,"1-[1,4-Dihydro-4-nonyl-5-(1-oxodecyl)-3-pyridinyl]-1-dodecanone",C36H65NO2,543.50153033,Houttuynia cordata,Houttuynia,KNApSAcK
+227,C00055139,158528-00-8,"1,1'-(1,4-Dihydro-4-nonyl-3,5-pyridinediyl)bis[1-decanone]",C34H61NO2,515.4702302,Houttuynia cordata,Houttuynia,KNApSAcK
+228,C00055140,158528-02-0,"1,1'-(1,4-Dihydro-4-nonyl-3,5-pyridinediyl)bis[1-dodecanone]",C38H69NO2,571.53283045,Houttuynia cordata,Houttuynia,KNApSAcK
+229,C00055640,1653-30-1,2-Undecanol,C11H24O,172.18271539,Houttuynia cordata,Houttuynia,KNApSAcK
+230,C00056647,1208863-80-2,Houttuynoside A,C21H22O11,450.11621155,Houttuynia cordata,Houttuynia,KNApSAcK
+231,C00057381,38975-39-2,3-Oxodecanal,C10H18O2,170.13067982,Houttuynia cordata,Houttuynia,KNApSAcK
+232,C00057447,56505-80-7,3-Oxododecanal,C12H22O2,198.16197995,Houttuynia cordata,Houttuynia,KNApSAcK
+233,C00057519,72738-01-3,3-Nonyl-1H-pyrazole,C12H22N2,194.17829872,Houttuynia cordata,Houttuynia,KNApSAcK
+234,C00058966,103272-78-2,"2,6-Dimethyl-3,5,7-octatrien-2-ol",C10H16O,152.12011513,Houttuynia cordata,Houttuynia,KNApSAcK
+235,C00058981,103827-22-1,"2-Isopropenyl-4a,8-dimethyl-1,2,3,4,4a,5,6,7-octahydronaphthalene",C15H24,204.18780077,Houttuynia cordata,Houttuynia,KNApSAcK
+236,C00059400,120-12-7,Anthracene,C14H10,178.07825032,Houttuynia cordata,Houttuynia,KNApSAcK
+237,C00059826,13925-00-3,2-Ethylpyrazine,C6H8N2,108.06874827,Houttuynia cordata,Houttuynia,KNApSAcK
+238,C00059854,1405-16-9,Patchoulene,C15H24,204.18780077,Houttuynia cordata,Houttuynia,KNApSAcK
+239,C00060076,152537-83-2,"1,1',1''-(1,3,5-Benzenetriyl)tris[1-decanone]",C36H60O3,540.45424578,Houttuynia cordata,Houttuynia,KNApSAcK
+240,C00060423,17851-53-5,Butyl isobutyl phthalate,C16H22O4,278.15180919,Houttuynia cordata,Houttuynia,KNApSAcK
+241,C00060513,18281-04-4,Ethyl nonadecanoate,C21H42O2,326.31848058,Houttuynia cordata,Houttuynia,KNApSAcK
+242,C00060668,20032-42-2,"2,5-Dimethoxyresorcinol",C8H10O4,170.05790881,Houttuynia cordata,Houttuynia,KNApSAcK
+243,C00060949,2306-91-4,Isoamyl decanoate,C15H30O2,242.2245802,Houttuynia cordata,Houttuynia,KNApSAcK
+244,C00061079,25155-15-1,Cymene,C10H14,134.10955045,Houttuynia cordata,Houttuynia,KNApSAcK
+245,C00061140,2623-50-9,"5,8-Dimethylquinoline",C11H11N,157.08914936,Houttuynia cordata,Houttuynia,KNApSAcK
+246,C00061183,26887-71-8,"1,2,3,3a,4,5-Hexahydro-1,1,4,4-tetramethyl-2,3b-methano-3bH-cyclopenta[1,3]cyclopropa[1,2]benzene",C15H22,202.1721507,Houttuynia cordata,Houttuynia,KNApSAcK
+247,C00061232,28039-99-8,n-Hexadecenoic acid,C16H30O2,254.2245802,Houttuynia cordata,Houttuynia,KNApSAcK
+248,C00061301,292-64-8,Cyclooctane,C8H16,112.12520051,Houttuynia cordata,Houttuynia,KNApSAcK
+249,C00061313,295-65-8,Cyclohexadecane,C16H32,224.25040102,Houttuynia cordata,Houttuynia,KNApSAcK
+250,C00061491,3387-65-3,5'-Deoxy-5'-methylsulfinyladenosine,C11H15N5O4S,313.08447473,Houttuynia cordata,Houttuynia,KNApSAcK
+251,C00061750,4170-90-5,"2,4,6-Trimethylbenzenemethanol",C10H14O,150.10446507,Houttuynia cordata,Houttuynia,KNApSAcK
+252,C00061806,4443-58-7,4-Cyclohexyleicosane,C26H52,364.40690166,Houttuynia cordata,Houttuynia,KNApSAcK
+253,C00061850,4676-46-4,"8-(3,4-Dimethoxyphenyl)-7,8-dihydro-6,7-dimethylnaphtho[2,3-d]-1,3-dioxol-5(6H)-one",C21H22O5,354.14672381,Houttuynia cordata,Houttuynia,KNApSAcK
+254,C00061958,499134-59-7,Isoaromadendrene epoxide,C15H24O,220.18271539,Houttuynia cordata,Houttuynia,KNApSAcK
+255,C00061978,504-24-5,4-Pyridinamine,C5H6N2,94.05309821,Houttuynia cordata,Houttuynia,KNApSAcK
+256,C00061980,504-57-4,10-Nonadecanone,C19H38O,282.29226583,Houttuynia cordata,Houttuynia,KNApSAcK
+257,C00062142,542-78-9,Malonaldehyde,C3H4O2,72.02112937,Houttuynia cordata,Houttuynia,KNApSAcK
+258,C00062178,550348-25-9,4-[2-Formyl-5-(methoxymethyl)-1H-pyrrol-1-yl]butanoic acid,C11H15NO4,225.10010798,Houttuynia cordata,Houttuynia,KNApSAcK
+259,C00062236,56554-90-6,13-Octadecenal,C18H34O,266.26096571,Houttuynia cordata,Houttuynia,KNApSAcK
+260,C00062237,56606-79-2,1-Decen-3-one,C10H18O,154.1357652,Houttuynia cordata,Houttuynia,KNApSAcK
+261,C00062298,58206-95-4,1-Methyl-1-[(1S)-4-methyl-3-cyclohexen-1-yl]ethyl acetate,C12H20O2,196.14632988,Houttuynia cordata,Houttuynia,KNApSAcK
+262,C00062340,591-49-1,alpha-Methylcyclohexene,C7H12,96.09390038,Houttuynia cordata,Houttuynia,KNApSAcK
+263,C00062523,629-74-3,1-Hexadecyne,C16H30,222.23475096,Houttuynia cordata,Houttuynia,KNApSAcK
+264,C00062718,69651-95-2,"(1S,2S,4R)-1,3,3-Trimethyl-bicyclo[2.2.1]heptan-2-ol, acetate",C12H20O2,196.14632988,Houttuynia cordata,Houttuynia,KNApSAcK
+265,C00062788,7206-21-5,trans-5-Octadecene,C18H36,252.28170115,Houttuynia cordata,Houttuynia,KNApSAcK
+266,C00062843,73741-62-5,"3,6,6-Trimethyl-cyclohex-2-enol",C9H16O,140.12011513,Houttuynia cordata,Houttuynia,KNApSAcK
+267,C00062870,74630-46-9,(2E)-9-Methyl-2-undecene,C12H24,168.18780077,Houttuynia cordata,Houttuynia,KNApSAcK
+268,C00062933,765-03-7,1-Dodecyne,C12H22,166.1721507,Houttuynia cordata,Houttuynia,KNApSAcK
+269,C00063138,850147-91-0,"(1aR,4S,4aR,7R,7aR,7bS)-Decahydro-1,1,4,7-tetramethyl-1H-cycloprop[e]azulene",C15H26,206.20345083,Houttuynia cordata,Houttuynia,KNApSAcK
+270,C00063226,86853-03-4,5-Methyl-3-(1-methylethenyl)cyclohexene,C10H16,136.12520051,Houttuynia cordata,Houttuynia,KNApSAcK
+271,C00063360,913188-52-0,"9-Bromo-1-nonanol, phenylcarbamate",C16H24BrNO2,341.09904192,Houttuynia cordata,Houttuynia,KNApSAcK
+0,C00000136,470-82-6,"1,8-Cineol",C10H18O,154.1357652,Anemopsis californica,Anemopsis,KNApSAcK
+1,C00000155,89-83-8,m-Thymol,C10H14O,150.10446507,Anemopsis californica,Anemopsis,KNApSAcK
+2,C00000805,80-56-8,alpha-Pinene,C10H16,136.12520051,Anemopsis californica,Anemopsis,KNApSAcK
+3,C00002713,104-46-1,Anethole,C10H12O,148.08881501,Anemopsis californica,Anemopsis,KNApSAcK
+4,C00002739,487-11-6,Elemicin,C12H16O3,208.10994438,Anemopsis californica,Anemopsis,KNApSAcK
+5,C00002741,93-15-2,Methyleugenol,C11H14O2,178.09937969,Anemopsis californica,Anemopsis,KNApSAcK
+0,C00005299,52208-77-2,"Kaempferol 7,4'-dimethyl ether 3-glucoside",C23H24O11,476.13186161,Gymnotheca involucrata,Gymnotheca,KNApSAcK
+0,C00000015,13744-18-8,Gibberellin A15,C20H26O4,330.18310932,Anemia phyllitidis,Anemia,KNApSAcK
+1,C00000019,6980-44-5,Gibberellin A19,C20H26O6,362.17293856,Anemia phyllitidis,Anemia,KNApSAcK
+2,C00000020,19143-87-4,Gibberellin A20,C19H24O5,332.16237388,Anemia phyllitidis,Anemia,KNApSAcK
+3,C00000025,28535-69-5,Gibberellin A25,C20H26O6,362.17293856,Anemia phyllitidis,Anemia,KNApSAcK
+4,C00000045,55812-47-0,Gibberellin A45,C19H24O5,332.16237388,Anemia mexicana,Anemia,KNApSAcK
+5,C00000061,81826-98-4,Gibberellin A61,C19H24O5,332.16237388,Anemia mexicana,Anemia,KNApSAcK
+6,C00003403,34327-25-8,Antheridic acid,C20H24O6,360.1572885,Anemia phyllitidis,Anemia,KNApSAcK
+7,C00003403,34327-25-8,Antheridic acid,C20H24O6,360.1572885,Anemia hirsuta,Anemia,KNApSAcK
+8,C00007869,,Gibberellin A104,C19H22O5,330.14672381,Anemia mexicana,Anemia,KNApSAcK
+9,C00007870,,Gibberellin A107,C19H22O5,330.14672381,Anemia phyllitidis,Anemia,KNApSAcK

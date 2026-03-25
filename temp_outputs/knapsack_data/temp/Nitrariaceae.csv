@@ -1,0 +1,522 @@
+,C_ID,CAS ID,example_compound_name,Molecular formula,Mw,Organism,knapsack_search_term,Source
+0,C00002060,49620-06-6,Nitramine,C10H19NO,169.14666424,Nitraria schoberi,Nitraria,KNApSAcK
+1,C00002149,495-59-0,Deoxyvasicine,C11H12N2,172.1000484,Nitraria schoberi,Nitraria,KNApSAcK
+2,C00002149,495-59-0,Deoxyvasicine,C11H12N2,172.1000484,Nitraria komarovii,Nitraria,KNApSAcK
+3,C00002150,530-53-0,Deoxyvasicinone,C11H10N2O,186.07931296,Nitraria schoberi,Nitraria,KNApSAcK
+4,C00002202,486-64-6,Vasicinone,C11H10N2O2,202.07422758,Nitraria sibirica,Nitraria,KNApSAcK
+5,C00002202,486-64-6,Vasicinone,C11H10N2O2,202.07422758,Nitraria schoberi,Nitraria,KNApSAcK
+6,C00002202,486-64-6,Vasicinone,C11H10N2O2,202.07422758,Nitraria komarovii,Nitraria,KNApSAcK
+7,C00005538,53584-69-3,Isorhamnetin 3-O-robinobioside,C28H32O16,624.16903498,Nitraria retusa,Nitraria,KNApSAcK
+8,C00005565,,Isorhamnetin 3-xylosylrhamnosyl-(1->6)-galactoside,C33H40O20,756.21129372,Nitraria retusa,Nitraria,KNApSAcK
+9,C00005566,168136-44-5,Isorhamnetin 3-galactosyl-(1->4)-rhamnosyl-(1->6)-galactoside,C34H42O21,786.22185841,Nitraria retusa,Nitraria,KNApSAcK
+10,C00013821,223920-19-2,"Kaempferol 3,5-dimethyl ether 7-glucoside",C23H24O11,476.13186161,Nitraria tangutorum,Nitraria,KNApSAcK
+11,C00026250,36101-54-9,Peganol,C11H12N2O,188.09496302,Nitraria schoberi,Nitraria,KNApSAcK
+12,C00026250,36101-54-9,Peganol,C11H12N2O,188.09496302,Nitraria komarovii,Nitraria,KNApSAcK
+13,C00026342,57912-26-2,N-Hydroxynitraramine,C15H24N2O2,264.18377802,Nitraria schoberi L.,Nitraria,KNApSAcK
+14,C00026343,57912-25-1,Nitraramine,C15H24N2O,248.1888634,Nitraria schoberi L.,Nitraria,KNApSAcK
+15,C00026343,57912-25-1,Nitraramine,C15H24N2O,248.1888634,Nitraria billardieri,Nitraria,KNApSAcK
+16,C00026483,709612-22-6,Sibiridine,C15H13N2,221.10787343,Nitraria sibirica,Nitraria,KNApSAcK
+17,C00026483,709612-22-6,Sibiridine,C15H13N2,221.10787343,Nitraria schoberi,Nitraria,KNApSAcK
+18,C00026683,224426-78-2,(+/-)-Tangutorine,C20H24N2O,308.1888634,Nitraria tangutorum,Nitraria,KNApSAcK
+19,C00027708,181378-30-3,Epinitraramine,C15H24N2O,248.1888634,Nitraria billardieri,Nitraria,KNApSAcK
+20,C00028692,20069-03-8,Nitrarine,C20H25N3,307.20484782,Nitraria schoberi L.,Nitraria,KNApSAcK
+21,C00028692,20069-03-8,Nitrarine,C20H25N3,307.20484782,Nitraria billardieri,Nitraria,KNApSAcK
+22,C00028974,63653-27-0,Schoberine,C15H26N2,234.20959884,Nitraria billardieri,Nitraria,KNApSAcK
+23,C00052379,170712-17-1,Peganine N-oxide,C11H12N2O2,204.08987764,Nitraria komarovii,Nitraria,KNApSAcK
+0,C00000010,118-34-3,Syringin,C17H24O9,372.14203237,Peganum harmala,Peganum,KNApSAcK
+1,C00001570,357-70-0,Galantamine,C17H21NO3,287.15214354,Peganum harmala,Peganum,KNApSAcK
+2,C00001735,304-21-2,Harmaline,C13H14N2O,214.11061308,Peganum harmala,Peganum,KNApSAcK
+3,C00001736,486-84-0,1-Methyl-beta-carboline,C12H10N2,182.08439833,Peganum harmala L.,Peganum,KNApSAcK
+4,C00001737,442-51-3,Harmine,C13H12N2O,212.09496302,Peganum harmala,Peganum,KNApSAcK
+5,C00001737,442-51-3,Harmine,C13H12N2O,212.09496302,Peganum nigellastrum,Peganum,KNApSAcK
+6,C00001774,17019-01-1,Tetrahydroharmine,C13H16N2O,216.12626315,Peganum harmala,Peganum,KNApSAcK
+7,C00002149,495-59-0,Deoxyvasicine,C11H12N2,172.1000484,Peganum nigellastrum,Peganum,KNApSAcK
+8,C00002149,495-59-0,Deoxyvasicine,C11H12N2,172.1000484,Peganum harmala,Peganum,KNApSAcK
+9,C00002149,495-59-0,Deoxyvasicine,C11H12N2,172.1000484,Peganum multisectum,Peganum,KNApSAcK
+10,C00002150,530-53-0,Deoxyvasicinone,C11H10N2O,186.07931296,Peganum nigellastrum,Peganum,KNApSAcK
+11,C00002150,530-53-0,Deoxyvasicinone,C11H10N2O,186.07931296,Peganum harmala,Peganum,KNApSAcK
+12,C00002150,530-53-0,Deoxyvasicinone,C11H10N2O,186.07931296,Peganum multisectum,Peganum,KNApSAcK
+13,C00002191,6159-55-3,Peganine,C11H12N2O,188.09496302,Peganum nigellastrum,Peganum,KNApSAcK
+14,C00002191,6159-55-3,Peganine,C11H12N2O,188.09496302,Peganum harmala,Peganum,KNApSAcK
+15,C00002202,486-64-6,Vasicinone,C11H10N2O2,202.07422758,Peganum harmala,Peganum,KNApSAcK
+16,C00002202,486-64-6,Vasicinone,C11H10N2O2,202.07422758,Peganum multisectum,Peganum,KNApSAcK
+17,C00002202,486-64-6,Vasicinone,C11H10N2O2,202.07422758,Peganum nigellastrum,Peganum,KNApSAcK
+18,C00002456,13164-03-9,Chalepensin,C16H14O3,254.09429431,Psilopeganum sinense,Peganum,KNApSAcK
+19,C00002727,531-29-3,Coniferin,C16H22O8,342.13146768,Peganum harmala,Peganum,KNApSAcK
+20,C00003657,79-63-0,Lanosterol,C30H50O,426.38616622,Peganum harmala,Peganum,KNApSAcK
+21,C00004213,109517-74-0,Acacetin 7-rhamnosyl-(1->4'')[glucosyl-(1->6'')(6'''-acetylsophoroside)],C42H54O25,958.29541728,Peganum harmala,Peganum,KNApSAcK
+22,C00011181,77208-28-7,Acacetin 7-O-alpha-L-rhamnopyranoside,C22H22O9,430.1263823,Peganum harmala,Peganum,KNApSAcK
+23,C00011182,188342-30-5,Acacetin 7-O-[6''-O-glucosyl-2''-O-(3'''-acetylrhamnosyl)glucoside,C36H44O20,796.24259385,Peganum harmala,Peganum,KNApSAcK
+24,C00011183,188342-32-7,Acacetin 7-O-[2'''-O-rhamnosyl-2''-O-glucosylglucoside,C34H42O19,754.23202916,Peganum harmala,Peganum,KNApSAcK
+25,C00011184,188342-34-9,2'''-O-Rhamnosyl-2''-O-glucosylcytisoside,C34H42O19,754.23202916,Peganum harmala,Peganum,KNApSAcK
+26,C00013628,183964-93-4,Acacetin 7-rhamnosyl-(1->2)-glucosyl-(1->2)-glucosyl-(1->2)-glucoside,C40H52O24,916.28485259,Peganum harmala,Peganum,KNApSAcK
+27,C00026240,42405-57-2,Deoxypeganidine,C14H16N2O,228.12626315,Peganum harmala L.,Peganum,KNApSAcK
+28,C00026241,53416-72-1,Dipegine,C22H20N4O,356.16371129,Peganum harmala L.,Peganum,KNApSAcK
+29,C00026247,244616-84-0,Luotonin E,C19H13N3O2,315.10077668,Peganum nigellastrum,Peganum,KNApSAcK
+30,C00026248,31431-93-3,Pegamine,C11H12N2O2,204.08987764,Peganum nigellastrum,Peganum,KNApSAcK
+31,C00026248,31431-93-3,Pegamine,C11H12N2O2,204.08987764,Peganum harmala L.,Peganum,KNApSAcK
+32,C00026249,28463-17-4,Peganidine,C14H16N2O2,244.12117777,Peganum harmala L.,Peganum,KNApSAcK
+33,C00026250,36101-54-9,Peganol,C11H12N2O,188.09496302,Peganum harmala L.,Peganum,KNApSAcK
+34,C00026383,146535-51-5,3-(1H-Indol-3-yl)quinoline,C17H12N2,244.1000484,Peganum nigellastrum,Peganum,KNApSAcK
+35,C00026384,107915-36-6,3-(4-Hydroxyphenyl)quinoline,C15H11NO,221.08406398,Peganum nigellastrum,Peganum,KNApSAcK
+36,C00026385,1666-96-2,3-Phenylquinoline,C15H11N,205.08914936,Peganum nigellastrum,Peganum,KNApSAcK
+37,C00026454,244616-85-1,Luotonin F,C18H11N3O2,301.08512662,Peganum nigellastrum,Peganum,KNApSAcK
+38,C00033402,115124-95-3,Syringinoside,C23H34O14,534.1948558,Peganum harmala,Peganum,KNApSAcK
+39,C00037052,277749-31-2,Dihydroconiferyl ferulate,C20H22O6,358.14163844,Peganum nigellastrum,Peganum,KNApSAcK
+40,C00037056,277749-30-1,Dihydrosinapyl ferulate,C21H24O7,388.15220312,Peganum nigellastrum,Peganum,KNApSAcK
+41,C00037438,261948-33-8,Luotonin C,C16H12N2O2,264.08987764,Peganum nigellastrum,Peganum,KNApSAcK
+42,C00037439,261948-34-9,Luotonin D,C17H14N2O2,278.10552771,Peganum nigellastrum,Peganum,KNApSAcK
+43,C00042574,487-03-6,Harmol,C12H10N2O,198.07931296,Peganum harmala,Peganum,KNApSAcK
+44,C00048048,42719-32-4,Pedunculoside,C36H58O10,650.40299807,Peganum harmala,Peganum,KNApSAcK
+45,C00051910,89-52-1,N-Acetyl-anthranilic acid,C9H9NO3,179.05824316,Peganum harmala,Peganum,KNApSAcK
+46,C00052267,360555-88-0,Dipeginol,C22H20N4O2,372.15862591,Peganum harmala,Peganum,KNApSAcK
+47,C00052309,109794-97-0,Harmalidine,C16H18N2O,254.14191321,Peganum harmala L.,Peganum,KNApSAcK
+48,C00052310,525-57-5,Harmalol,C12H12N2O,200.09496302,Peganum harmala L.,Peganum,KNApSAcK
+49,C00052398,91-63-4,2-Methylquinoline,C10H9N,143.07349929,Peganum harmala,Peganum,KNApSAcK
+50,C00052693,82464-35-5,"3-Oxotirucalla-7,24-dien-21-oic acid",C30H46O3,454.34469533,Peganum nigellastrum,Peganum,KNApSAcK
+51,C00052693,82464-35-5,"3-Oxotirucalla-7,24-dien-21-oic acid",C30H46O3,454.34469533,Peganum harmala,Peganum,KNApSAcK
+52,C00063680,116988-01-3,Harmalanine,C16H14N2O2,266.10552771,Peganum harmala,Peganum,KNApSAcK
+53,C00063963,1620517-85-2,Peganumine A,C29H30N4O3,482.23179085,Peganum harmala,Peganum,KNApSAcK
+54,C00064108,1962990-17-5,Pegaharmine A,C24H22N4O3,414.1691906,Peganum harmala,Peganum,KNApSAcK
+55,C00064109,1962990-18-6,Pegaharmine B,C26H28N4O5,476.20597003,Peganum harmala,Peganum,KNApSAcK
+56,C00064110,1962990-19-7,Pegaharmine C,C16H16N2O2,268.12117777,Peganum harmala,Peganum,KNApSAcK
+57,C00064111,1962990-20-0,Pegaharmine D,C30H34N4O7,562.24274947,Peganum harmala,Peganum,KNApSAcK
+58,C00064141,205989-12-4,Luotonin A,C18H11N3O,285.090212,Peganum nigellastrum,Peganum,KNApSAcK
+59,C00064142,205989-13-5,Luotonin B,C18H11N3O2,301.08512662,Peganum nigellastrum,Peganum,KNApSAcK
+60,C00064148,2089046-75-1,Peganumal A,C12H13NO3S,251.06161402,Peganum harmala,Peganum,KNApSAcK
+61,C00064149,2089046-76-2,Peganumal B,C13H15NO3S,265.07726408,Peganum harmala,Peganum,KNApSAcK
+62,C00064150,2089046-77-3,Pegaharmine F,C17H18N2O4,314.12665708,Peganum harmala,Peganum,KNApSAcK
+63,C00064151,2089046-78-4,Pegaharmine G,C21H17N3O,327.13716219,Peganum harmala,Peganum,KNApSAcK
+64,C00064152,2089046-79-5,Pegaharmine H,C17H16N2O3,296.11609239,Peganum harmala,Peganum,KNApSAcK
+65,C00064153,2089046-80-8,Pegaharmine I,C13H14N2O2,230.10552771,Peganum harmala,Peganum,KNApSAcK
+66,C00064154,2089046-81-9,Pegaharmine J,C13H12N2O2,228.08987764,Peganum harmala,Peganum,KNApSAcK
+67,C00064416,57498-79-0,Harmic acid methyl ester,C14H12N2O3,256.08479226,Peganum harmala,Peganum,KNApSAcK
+68,C00064527,7556-47-0,6-Methoxyindoline,C9H11NO,149.08406398,Peganum harmala,Peganum,KNApSAcK
+0,C00000010,118-34-3,Syringin,C17H24O9,372.14203237,Peganum harmala,Harmala,KNApSAcK
+1,C00001570,357-70-0,Galantamine,C17H21NO3,287.15214354,Peganum harmala,Harmala,KNApSAcK
+2,C00001735,304-21-2,Harmaline,C13H14N2O,214.11061308,Perganum harmala,Harmala,KNApSAcK
+3,C00001735,304-21-2,Harmaline,C13H14N2O,214.11061308,Peganum harmala,Harmala,KNApSAcK
+4,C00001736,486-84-0,1-Methyl-beta-carboline,C12H10N2,182.08439833,Peganum harmala L.,Harmala,KNApSAcK
+5,C00001737,442-51-3,Harmine,C13H12N2O,212.09496302,Perganum harmala,Harmala,KNApSAcK
+6,C00001737,442-51-3,Harmine,C13H12N2O,212.09496302,Peganum harmala,Harmala,KNApSAcK
+7,C00001774,17019-01-1,Tetrahydroharmine,C13H16N2O,216.12626315,Peganum harmala,Harmala,KNApSAcK
+8,C00002149,495-59-0,Deoxyvasicine,C11H12N2,172.1000484,Peganum harmala,Harmala,KNApSAcK
+9,C00002150,530-53-0,Deoxyvasicinone,C11H10N2O,186.07931296,Peganum harmala,Harmala,KNApSAcK
+10,C00002191,6159-55-3,Peganine,C11H12N2O,188.09496302,Peganum harmala,Harmala,KNApSAcK
+11,C00002202,486-64-6,Vasicinone,C11H10N2O2,202.07422758,Peganum harmala,Harmala,KNApSAcK
+12,C00002727,531-29-3,Coniferin,C16H22O8,342.13146768,Peganum harmala,Harmala,KNApSAcK
+13,C00003657,79-63-0,Lanosterol,C30H50O,426.38616622,Peganum harmala,Harmala,KNApSAcK
+14,C00004213,109517-74-0,Acacetin 7-rhamnosyl-(1->4'')[glucosyl-(1->6'')(6'''-acetylsophoroside)],C42H54O25,958.29541728,Peganum harmala,Harmala,KNApSAcK
+15,C00011181,77208-28-7,Acacetin 7-O-alpha-L-rhamnopyranoside,C22H22O9,430.1263823,Peganum harmala,Harmala,KNApSAcK
+16,C00011182,188342-30-5,Acacetin 7-O-[6''-O-glucosyl-2''-O-(3'''-acetylrhamnosyl)glucoside,C36H44O20,796.24259385,Peganum harmala,Harmala,KNApSAcK
+17,C00011183,188342-32-7,Acacetin 7-O-[2'''-O-rhamnosyl-2''-O-glucosylglucoside,C34H42O19,754.23202916,Peganum harmala,Harmala,KNApSAcK
+18,C00011184,188342-34-9,2'''-O-Rhamnosyl-2''-O-glucosylcytisoside,C34H42O19,754.23202916,Peganum harmala,Harmala,KNApSAcK
+19,C00013628,183964-93-4,Acacetin 7-rhamnosyl-(1->2)-glucosyl-(1->2)-glucosyl-(1->2)-glucoside,C40H52O24,916.28485259,Peganum harmala,Harmala,KNApSAcK
+20,C00026240,42405-57-2,Deoxypeganidine,C14H16N2O,228.12626315,Peganum harmala L.,Harmala,KNApSAcK
+21,C00026241,53416-72-1,Dipegine,C22H20N4O,356.16371129,Peganum harmala L.,Harmala,KNApSAcK
+22,C00026248,31431-93-3,Pegamine,C11H12N2O2,204.08987764,Peganum harmala L.,Harmala,KNApSAcK
+23,C00026249,28463-17-4,Peganidine,C14H16N2O2,244.12117777,Peganum harmala L.,Harmala,KNApSAcK
+24,C00026250,36101-54-9,Peganol,C11H12N2O,188.09496302,Peganum harmala L.,Harmala,KNApSAcK
+25,C00026950,3589-72-8,Isoharmine,C13H12N2O,212.09496302,Perganum harmala,Harmala,KNApSAcK
+26,C00033402,115124-95-3,Syringinoside,C23H34O14,534.1948558,Peganum harmala,Harmala,KNApSAcK
+27,C00042574,487-03-6,Harmol,C12H10N2O,198.07931296,Peganum harmala,Harmala,KNApSAcK
+28,C00048048,42719-32-4,Pedunculoside,C36H58O10,650.40299807,Peganum harmala,Harmala,KNApSAcK
+29,C00051813,,Dihydro-beta-carboline,C12H12N2,184.1000484,Perganum harmala,Harmala,KNApSAcK
+30,C00051910,89-52-1,N-Acetyl-anthranilic acid,C9H9NO3,179.05824316,Peganum harmala,Harmala,KNApSAcK
+31,C00052267,360555-88-0,Dipeginol,C22H20N4O2,372.15862591,Peganum harmala,Harmala,KNApSAcK
+32,C00052309,109794-97-0,Harmalidine,C16H18N2O,254.14191321,Peganum harmala L.,Harmala,KNApSAcK
+33,C00052310,525-57-5,Harmalol,C12H12N2O,200.09496302,Peganum harmala L.,Harmala,KNApSAcK
+34,C00052398,91-63-4,2-Methylquinoline,C10H9N,143.07349929,Peganum harmala,Harmala,KNApSAcK
+35,C00052693,82464-35-5,"3-Oxotirucalla-7,24-dien-21-oic acid",C30H46O3,454.34469533,Peganum harmala,Harmala,KNApSAcK
+36,C00063680,116988-01-3,Harmalanine,C16H14N2O2,266.10552771,Peganum harmala,Harmala,KNApSAcK
+37,C00063963,1620517-85-2,Peganumine A,C29H30N4O3,482.23179085,Peganum harmala,Harmala,KNApSAcK
+38,C00064108,1962990-17-5,Pegaharmine A,C24H22N4O3,414.1691906,Peganum harmala,Harmala,KNApSAcK
+39,C00064109,1962990-18-6,Pegaharmine B,C26H28N4O5,476.20597003,Peganum harmala,Harmala,KNApSAcK
+40,C00064110,1962990-19-7,Pegaharmine C,C16H16N2O2,268.12117777,Peganum harmala,Harmala,KNApSAcK
+41,C00064111,1962990-20-0,Pegaharmine D,C30H34N4O7,562.24274947,Peganum harmala,Harmala,KNApSAcK
+42,C00064148,2089046-75-1,Peganumal A,C12H13NO3S,251.06161402,Peganum harmala,Harmala,KNApSAcK
+43,C00064149,2089046-76-2,Peganumal B,C13H15NO3S,265.07726408,Peganum harmala,Harmala,KNApSAcK
+44,C00064150,2089046-77-3,Pegaharmine F,C17H18N2O4,314.12665708,Peganum harmala,Harmala,KNApSAcK
+45,C00064151,2089046-78-4,Pegaharmine G,C21H17N3O,327.13716219,Peganum harmala,Harmala,KNApSAcK
+46,C00064152,2089046-79-5,Pegaharmine H,C17H16N2O3,296.11609239,Peganum harmala,Harmala,KNApSAcK
+47,C00064153,2089046-80-8,Pegaharmine I,C13H14N2O2,230.10552771,Peganum harmala,Harmala,KNApSAcK
+48,C00064154,2089046-81-9,Pegaharmine J,C13H12N2O2,228.08987764,Peganum harmala,Harmala,KNApSAcK
+49,C00064416,57498-79-0,Harmic acid methyl ester,C14H12N2O3,256.08479226,Peganum harmala,Harmala,KNApSAcK
+50,C00064527,7556-47-0,6-Methoxyindoline,C9H11NO,149.08406398,Peganum harmala,Harmala,KNApSAcK
+0,C00001736,486-84-0,1-Methyl-beta-carboline,C12H10N2,182.08439833,Zygophyllum fabago,Zygophyllum,KNApSAcK
+1,C00001737,442-51-3,Harmine,C13H12N2O,212.09496302,Zygophyllum fabago L.,Zygophyllum,KNApSAcK
+2,C00004631,117-39-5,Quercetin,C15H10O7,302.04265268,Zygophyllum album,Zygophyllum,KNApSAcK
+3,C00004635,480-19-3,Isorhamnetin,C16H12O7,316.05830274,Zygophyllum album,Zygophyllum,KNApSAcK
+4,C00006007,145204-82-6,Isorhamnetin 3-[6''-(2-(E)-butenoyl)-glucoside],C26H26O13,546.13734092,Zygophyllum simplex,Zygophyllum,KNApSAcK
+5,C00006736,53925-28-3,Malvidin 3-rhamnoside,C23H25O11,477.13968664,Zygophyllum album,Zygophyllum,KNApSAcK
+6,C00013926,183552-43-4,Isorhamnetin 3-(4''-sulfatorutinoside),C28H32O19S,704.12584957,Zygophyllum dumosum,Zygophyllum,KNApSAcK
+7,C00031613,870467-23-5,Atriplicosaponin A,C41H66O13,766.4503422,Zygophyllum atriplicoides,Zygophyllum,KNApSAcK
+8,C00031614,870467-24-6,Atriplicosaponin B,C42H70O14S,830.44862768,Zygophyllum atriplicoides,Zygophyllum,KNApSAcK
+9,C00032555,1064121-31-8,Zygophyloside O,C35H54O12S,698.33359792,Zygophyllum fabago L.,Zygophyllum,KNApSAcK
+10,C00032556,1064121-34-1,Zygophyloside P,C41H61O17S,857.36294625,Zygophyllum fabago L.,Zygophyllum,KNApSAcK
+11,C00038036,339164-21-5,Zygophyloside N,C47H76O16,896.51333638,Zygophyllum gaetulum,Zygophyllum,KNApSAcK
+12,C00041758,84873-15-4,p-Hydroxyphenethyl trans-ferulate,C18H18O5,314.11542369,Zygophyllum album,Zygophyllum,KNApSAcK
+13,C00044390,212068-01-4,Zygophyloside J,C41H62O16,810.40378593,Zygophyllum decumbens,Zygophyllum,KNApSAcK
+14,C00044391,212055-71-5,Zygophyloside K,C42H66O15,810.44017144,Zygophyllum decumbens,Zygophyllum,KNApSAcK
+15,C00044391,212055-71-5,Zygophyloside K,C42H66O15,810.44017144,Zygophyllum album,Zygophyllum,KNApSAcK
+16,C00049847,199794-95-1,Zygophyloside L,C53H86O21,1058.56615981,Zygophyllum gaetulum,Zygophyllum,KNApSAcK
+17,C00049848,199795-00-1,Zygophyloside M,C41H66O12,750.45542757,Zygophyllum gaetulum,Zygophyllum,KNApSAcK
+18,C00053916,171980-77-1,zygophyloside F,C42H66O17S,874.40207141,Zygophyllum album,Zygophyllum,KNApSAcK
+19,C00053917,188554-59-8,zygophyloside G,C42H66O18S,890.39698604,Zygophyllum album,Zygophyllum,KNApSAcK
+0,C00003111,469-61-4,alpha-Cedrene,C15H24,204.18780077,Osyris tenuifolia,Osyris,KNApSAcK
+1,C00003181,511-59-1,beta-Santalene,C15H24,204.18780077,Osyris tenuifolia,Osyris,KNApSAcK
+2,C00007242,495-61-4,beta-Bisabolene,C15H24,204.18780077,Osyris tenuifolia,Osyris,KNApSAcK
+3,C00007632,,(E)-alpha-Bisabolene,C15H24,204.18780077,Osyris tenuifolia,Osyris,KNApSAcK
+4,C00011617,4176-17-4,(R)-(-)-alpha-Curcumene,C15H22,202.1721507,Osyris tenuifolia,Osyris,KNApSAcK
+5,C00011638,10067-29-5,(-)-(E)-Lanceol,C15H24O,220.18271539,Osyris tenuifolia,Osyris,KNApSAcK
+6,C00021580,28477-64-7,beta-Acoradiene,C15H24,204.18780077,Osyris tenuifolia,Osyris,KNApSAcK
+7,C00021850,512-61-8,alpha-Santalene,C15H24,204.18780077,Osyris tenuifolia,Osyris,KNApSAcK
+8,C00021903,13474-59-4,trans-alpha-Bergamotene,C15H24,204.18780077,Osyris tenuifolia,Osyris,KNApSAcK
+9,C00021904,15438-94-5,trans-beta-Bergamotene,C15H24,204.18780077,Osyris tenuifolia,Osyris,KNApSAcK
+10,C00029970,18252-46-5,cis-alpha-Bergamotene,C15H24,204.18780077,Osyris tenuifolia,Osyris,KNApSAcK
+11,C00030346,28976-68-3,gamma-Curcumene,C15H24,204.18780077,Osyris tenuifolia,Osyris,KNApSAcK
+12,C00035098,78148-59-1,epi-alpha-Bisabolol,C15H26O,222.19836545,Osyris tenuifolia,Osyris,KNApSAcK
+13,C00035245,761441-49-0,ar-Tenuifolene,C15H20,200.15650064,Osyris tenuifolia,Osyris,KNApSAcK
+14,C00035439,10067-28-4,cis-Lanceol,C15H24O,220.18271539,Osyris tenuifolia,Osyris,KNApSAcK
+15,C00035440,29837-07-8,cis-alpha-Bisabolene,C15H24,204.18780077,Osyris tenuifolia,Osyris,KNApSAcK
+16,C00035441,13062-00-5,(Z)-gamma-Bisabolene,C15H24,204.18780077,Osyris tenuifolia,Osyris,KNApSAcK
+17,C00035570,168099-27-2,Cyclosantalal,C15H24O,220.18271539,Osyris tenuifolia,Osyris,KNApSAcK
+18,C00035606,25532-78-9,epi-beta-Santalene,C15H24,204.18780077,Osyris tenuifolia,Osyris,KNApSAcK
+19,C00035608,168252-33-3,epi-Cyclosantalal,C15H24O,220.18271539,Osyris tenuifolia,Osyris,KNApSAcK
+20,C00035673,761441-53-6,Lanceoloxide,C15H24O,220.18271539,Osyris tenuifolia,Osyris,KNApSAcK
+21,C00035764,761441-51-4,Tenuifolene,C15H22,202.1721507,Osyris tenuifolia,Osyris,KNApSAcK
+0,C00001583,2181-76-2,Betanidin,C18H16N2O8,388.0906655,Mesembryanthemum edule,Mesembryanthemum,KNApSAcK
+1,C00001584,7659-95-2,Betanin,C24H26N2O13,550.14348893,Mesembryanthemum spp.,Mesembryanthemum,KNApSAcK
+2,C00001593,15121-53-6,Isobetanin,C24H26N2O13,550.14348893,Mesembryanthemum edule,Mesembryanthemum,KNApSAcK
+3,C00001593,15121-53-6,Isobetanin,C24H26N2O13,550.14348893,Mesembryanthemum conspicuum,Mesembryanthemum,KNApSAcK
+4,C00001748,80287-15-6,Mesembrenone,C17H21NO3,287.15214354,Mesembryanthemum expansum,Mesembryanthemum,KNApSAcK
+5,C00001748,80287-15-6,Mesembrenone,C17H21NO3,287.15214354,Mesembryanthemum tortuosum,Mesembryanthemum,KNApSAcK
+6,C00001748,80287-15-6,Mesembrenone,C17H21NO3,287.15214354,Mesembryanthemum anatomicum,Mesembryanthemum,KNApSAcK
+7,C00001749,24880-43-1,(-)-Mesembrine,C17H23NO3,289.16779361,Mesembryanthemum expansum,Mesembryanthemum,KNApSAcK
+8,C00001749,24880-43-1,(-)-Mesembrine,C17H23NO3,289.16779361,Mesembryanthemum tortuosum,Mesembryanthemum,KNApSAcK
+9,C00001749,24880-43-1,(-)-Mesembrine,C17H23NO3,289.16779361,Mesembryanthemum anatomicum,Mesembryanthemum,KNApSAcK
+10,C00001750,23544-42-5,Mesembrinol,C17H25NO3,291.18344367,Mesembryanthemum anatomicum,Mesembryanthemum,KNApSAcK
+11,C00001750,23544-42-5,Mesembrinol,C17H25NO3,291.18344367,Mesembryanthemum tortuosum,Mesembryanthemum,KNApSAcK
+12,C00001750,23544-42-5,Mesembrinol,C17H25NO3,291.18344367,Mesembryanthemum expansum,Mesembryanthemum,KNApSAcK
+13,C00039749,253351-27-8,Mesembryanthin,C44H50O25,978.26411715,Mesembryanthemum crystallinum L.,Mesembryanthemum,KNApSAcK
+0,C00001408,51-61-6,Dopamine,C8H11NO2,153.0789786,Berberis thunbergii,Berberis,KNApSAcK
+1,C00001408,51-61-6,Dopamine,C8H11NO2,153.0789786,Berberis vulgaris,Berberis,KNApSAcK
+2,C00001408,51-61-6,Dopamine,C8H11NO2,153.0789786,Berberis wilsoniae,Berberis,KNApSAcK
+3,C00001408,51-61-6,Dopamine,C8H11NO2,153.0789786,Berberis amurensis,Berberis,KNApSAcK
+4,C00001408,51-61-6,Dopamine,C8H11NO2,153.0789786,Berberis aquifolium,Berberis,KNApSAcK
+5,C00001408,51-61-6,Dopamine,C8H11NO2,153.0789786,Berberis aristata,Berberis,KNApSAcK
+6,C00001435,51-67-2,Tyramine,C8H11NO,137.08406398,Berberis vulgaris,Berberis,KNApSAcK
+7,C00001435,51-67-2,Tyramine,C8H11NO,137.08406398,Berberis wilsoniae,Berberis,KNApSAcK
+8,C00001435,51-67-2,Tyramine,C8H11NO,137.08406398,Berberis amurensis,Berberis,KNApSAcK
+9,C00001435,51-67-2,Tyramine,C8H11NO,137.08406398,Berberis aquifolium,Berberis,KNApSAcK
+10,C00001435,51-67-2,Tyramine,C8H11NO,137.08406398,Berberis aristata,Berberis,KNApSAcK
+11,C00001435,51-67-2,Tyramine,C8H11NO,137.08406398,Berberis thunbergii,Berberis,KNApSAcK
+12,C00001799,485-91-6,Allocryptopine,C21H23NO5,369.15762285,Berberis densiflora,Berberis,KNApSAcK
+13,C00001810,524-20-9,Armepavine,C19H23NO3,313.16779361,Berberis integerrima,Berberis,KNApSAcK
+14,C00001810,524-20-9,Armepavine,C19H23NO3,313.16779361,Berberis turcomanica,Berberis,KNApSAcK
+15,C00001811,519-53-9,Aromoline,C36H38N2O6,594.27298696,Berberis vulgaris,Berberis,KNApSAcK
+16,C00001811,519-53-9,Aromoline,C36H38N2O6,594.27298696,Berberis waziristanica,Berberis,KNApSAcK
+17,C00001811,519-53-9,Aromoline,C36H38N2O6,594.27298696,Berberis crataegina,Berberis,KNApSAcK
+18,C00001811,519-53-9,Aromoline,C36H38N2O6,594.27298696,Berberis turcomanica,Berberis,KNApSAcK
+19,C00001817,478-61-5,Berbamine,C37H40N2O6,608.28863702,Berberis amurensis,Berberis,KNApSAcK
+20,C00001817,478-61-5,Berbamine,C37H40N2O6,608.28863702,Berberis brandisiana,Berberis,KNApSAcK
+21,C00001817,478-61-5,Berbamine,C37H40N2O6,608.28863702,Berberis candidula,Berberis,KNApSAcK
+22,C00001817,478-61-5,Berbamine,C37H40N2O6,608.28863702,Berberis diaphana,Berberis,KNApSAcK
+23,C00001817,478-61-5,Berbamine,C37H40N2O6,608.28863702,Berberis vulgaris,Berberis,KNApSAcK
+24,C00001817,478-61-5,Berbamine,C37H40N2O6,608.28863702,Berberis dubia,Berberis,KNApSAcK
+25,C00001817,478-61-5,Berbamine,C37H40N2O6,608.28863702,Berberis glauca,Berberis,KNApSAcK
+26,C00001817,478-61-5,Berbamine,C37H40N2O6,608.28863702,Berberis heterobotrys,Berberis,KNApSAcK
+27,C00001817,478-61-5,Berbamine,C37H40N2O6,608.28863702,Berberis libanotica,Berberis,KNApSAcK
+28,C00001817,478-61-5,Berbamine,C37H40N2O6,608.28863702,Berberis oblonga,Berberis,KNApSAcK
+29,C00001817,478-61-5,Berbamine,C37H40N2O6,608.28863702,Berberis poirettii,Berberis,KNApSAcK
+30,C00001817,478-61-5,Berbamine,C37H40N2O6,608.28863702,Berberis potaninii,Berberis,KNApSAcK
+31,C00001817,478-61-5,Berbamine,C37H40N2O6,608.28863702,Berberis sibirica,Berberis,KNApSAcK
+32,C00001817,478-61-5,Berbamine,C37H40N2O6,608.28863702,Berberis thunbergii,Berberis,KNApSAcK
+33,C00001817,478-61-5,Berbamine,C37H40N2O6,608.28863702,Berberis aristata,Berberis,KNApSAcK
+34,C00001817,478-61-5,Berbamine,C37H40N2O6,608.28863702,Berberis turcomanica,Berberis,KNApSAcK
+35,C00001817,478-61-5,Berbamine,C37H40N2O6,608.28863702,Berberis aemulans,Berberis,KNApSAcK
+36,C00001818,2435-73-6,Berberastine,C20H18NO5,352.11849769,Berberis laurina,Berberis,KNApSAcK
+37,C00001819,2086-83-1,Berberine,C20H18NO4,336.12358307,Berberis spp.,Berberis,KNApSAcK
+38,C00001819,2086-83-1,Berberine,C20H18NO4,336.12358307,Berberis wilsoniae,Berberis,KNApSAcK
+39,C00001819,2086-83-1,Berberine,C20H18NO4,336.12358307,Berberis aquifolium,Berberis,KNApSAcK
+40,C00001819,2086-83-1,Berberine,C20H18NO4,336.12358307,Berberis aristata,Berberis,KNApSAcK
+41,C00001819,2086-83-1,Berberine,C20H18NO4,336.12358307,Berberis brandisiana,Berberis,KNApSAcK
+42,C00001819,2086-83-1,Berberine,C20H18NO4,336.12358307,Berberis candidula,Berberis,KNApSAcK
+43,C00001819,2086-83-1,Berberine,C20H18NO4,336.12358307,Berberis croatica,Berberis,KNApSAcK
+44,C00001819,2086-83-1,Berberine,C20H18NO4,336.12358307,Berberis darwinii,Berberis,KNApSAcK
+45,C00001819,2086-83-1,Berberine,C20H18NO4,336.12358307,Berberis densiflora,Berberis,KNApSAcK
+46,C00001819,2086-83-1,Berberine,C20H18NO4,336.12358307,Berberis diaphana,Berberis,KNApSAcK
+47,C00001819,2086-83-1,Berberine,C20H18NO4,336.12358307,Berberis dubia,Berberis,KNApSAcK
+48,C00001819,2086-83-1,Berberine,C20H18NO4,336.12358307,Berberis heterobotrys,Berberis,KNApSAcK
+49,C00001819,2086-83-1,Berberine,C20H18NO4,336.12358307,Berberis iliensis,Berberis,KNApSAcK
+50,C00001819,2086-83-1,Berberine,C20H18NO4,336.12358307,Berberis integerrima,Berberis,KNApSAcK
+51,C00001819,2086-83-1,Berberine,C20H18NO4,336.12358307,Berberis julianae,Berberis,KNApSAcK
+52,C00001819,2086-83-1,Berberine,C20H18NO4,336.12358307,Berberis potaninii,Berberis,KNApSAcK
+53,C00001819,2086-83-1,Berberine,C20H18NO4,336.12358307,Berberis pseudanubalata,Berberis,KNApSAcK
+54,C00001819,2086-83-1,Berberine,C20H18NO4,336.12358307,Berberis rigidifolia,Berberis,KNApSAcK
+55,C00001819,2086-83-1,Berberine,C20H18NO4,336.12358307,Berberis stenophylla,Berberis,KNApSAcK
+56,C00001819,2086-83-1,Berberine,C20H18NO4,336.12358307,Berberis thunbergii,Berberis,KNApSAcK
+57,C00001819,2086-83-1,Berberine,C20H18NO4,336.12358307,Berberis turcomanica,Berberis,KNApSAcK
+58,C00001819,2086-83-1,Berberine,C20H18NO4,336.12358307,Berberis vulgaris,Berberis,KNApSAcK
+59,C00001819,2086-83-1,Berberine,C20H18NO4,336.12358307,Berberis wilsonae,Berberis,KNApSAcK
+60,C00001819,2086-83-1,Berberine,C20H18NO4,336.12358307,Berberis aemulans,Berberis,KNApSAcK
+61,C00001819,2086-83-1,Berberine,C20H18NO4,336.12358307,Berberis pruinosa,Berberis,KNApSAcK
+62,C00001819,2086-83-1,Berberine,C20H18NO4,336.12358307,Berberis numularis,Berberis,KNApSAcK
+63,C00001819,2086-83-1,Berberine,C20H18NO4,336.12358307,Berberis nervosa,Berberis,KNApSAcK
+64,C00001819,2086-83-1,Berberine,C20H18NO4,336.12358307,Berberis oblonga,Berberis,KNApSAcK
+65,C00001819,2086-83-1,Berberine,C20H18NO4,336.12358307,Berberis poirettii,Berberis,KNApSAcK
+66,C00001826,77793-42-1,Calafatimine,C38H40N2O7,636.28355165,Berberis buxifolia,Berberis,KNApSAcK
+67,C00001827,522-97-4,Tetrahydroberberine,C20H21NO4,339.14705817,Berberis wilsoniae,Berberis,KNApSAcK
+68,C00001827,522-97-4,Tetrahydroberberine,C20H21NO4,339.14705817,Berberis aquifolium,Berberis,KNApSAcK
+69,C00001827,522-97-4,Tetrahydroberberine,C20H21NO4,339.14705817,Berberis aristata,Berberis,KNApSAcK
+70,C00001827,522-97-4,Tetrahydroberberine,C20H21NO4,339.14705817,Berberis thunbergii,Berberis,KNApSAcK
+71,C00001827,522-97-4,Tetrahydroberberine,C20H21NO4,339.14705817,Berberis vulgaris,Berberis,KNApSAcK
+72,C00001842,479-39-0,Cularine,C20H23NO4,341.16270823,Berberis valdiviana,Berberis,KNApSAcK
+73,C00001845,524-17-4,Dauricine,C38H44N2O6,624.31993715,Berberis poiretii,Berberis,KNApSAcK
+74,C00001861,475-81-0,Glaucine,C21H25NO4,355.17835829,Berberis turcomanica,Berberis,KNApSAcK
+75,C00001861,475-81-0,Glaucine,C21H25NO4,355.17835829,Berberis densiflora,Berberis,KNApSAcK
+76,C00001861,475-81-0,Glaucine,C21H25NO4,355.17835829,Berberis integerrima,Berberis,KNApSAcK
+77,C00001861,475-81-0,Glaucine,C21H25NO4,355.17835829,Berberis numularis,Berberis,KNApSAcK
+78,C00001861,475-81-0,Glaucine,C21H25NO4,355.17835829,Berberis oblonga,Berberis,KNApSAcK
+79,C00001869,3019-51-0,(S)-Isoboldine,C19H21NO4,327.14705817,Berberis brandisiana,Berberis,KNApSAcK
+80,C00001872,475-67-2,Isocorydine,C20H23NO4,341.16270823,Berberis oblonga,Berberis,KNApSAcK
+81,C00001872,475-67-2,Isocorydine,C20H23NO4,341.16270823,Berberis vulgaris,Berberis,KNApSAcK
+82,C00001872,475-67-2,Isocorydine,C20H23NO4,341.16270823,Berberis densiflora,Berberis,KNApSAcK
+83,C00001872,475-67-2,Isocorydine,C20H23NO4,341.16270823,Berberis heterobotrys,Berberis,KNApSAcK
+84,C00001874,3621-38-3,Jatrorrhizine,C20H20NO4,338.13923313,Berberis julianae,Berberis,KNApSAcK
+85,C00001874,3621-38-3,Jatrorrhizine,C20H20NO4,338.13923313,Berberis turcomanica,Berberis,KNApSAcK
+86,C00001874,3621-38-3,Jatrorrhizine,C20H20NO4,338.13923313,Berberis vulgaris,Berberis,KNApSAcK
+87,C00001874,3621-38-3,Jatrorrhizine,C20H20NO4,338.13923313,Berberis spp.,Berberis,KNApSAcK
+88,C00001874,3621-38-3,Jatrorrhizine,C20H20NO4,338.13923313,Berberis dubia,Berberis,KNApSAcK
+89,C00001874,3621-38-3,Jatrorrhizine,C20H20NO4,338.13923313,Berberis heterobotrys,Berberis,KNApSAcK
+90,C00001874,3621-38-3,Jatrorrhizine,C20H20NO4,338.13923313,Berberis poiretii,Berberis,KNApSAcK
+91,C00001874,3621-38-3,Jatrorrhizine,C20H20NO4,338.13923313,Berberis poirettii,Berberis,KNApSAcK
+92,C00001874,3621-38-3,Jatrorrhizine,C20H20NO4,338.13923313,Berberis potaninii,Berberis,KNApSAcK
+93,C00001874,3621-38-3,Jatrorrhizine,C20H20NO4,338.13923313,Berberis pruinosa,Berberis,KNApSAcK
+94,C00001874,3621-38-3,Jatrorrhizine,C20H20NO4,338.13923313,Berberis aemulans,Berberis,KNApSAcK
+95,C00001874,3621-38-3,Jatrorrhizine,C20H20NO4,338.13923313,Berberis amurensis,Berberis,KNApSAcK
+96,C00001874,3621-38-3,Jatrorrhizine,C20H20NO4,338.13923313,Berberis cratagina,Berberis,KNApSAcK
+97,C00001874,3621-38-3,Jatrorrhizine,C20H20NO4,338.13923313,Berberis diaphana,Berberis,KNApSAcK
+98,C00001874,3621-38-3,Jatrorrhizine,C20H20NO4,338.13923313,Berberis thunbergii,Berberis,KNApSAcK
+99,C00001885,2141-09-5,Magnoflorine,C20H24NO4,342.17053326,Berberis iliensis,Berberis,KNApSAcK
+100,C00001885,2141-09-5,Magnoflorine,C20H24NO4,342.17053326,Berberis amurensis,Berberis,KNApSAcK
+101,C00001885,2141-09-5,Magnoflorine,C20H24NO4,342.17053326,Berberis crataegina,Berberis,KNApSAcK
+102,C00001885,2141-09-5,Magnoflorine,C20H24NO4,342.17053326,Berberis vulgaris,Berberis,KNApSAcK
+103,C00001885,2141-09-5,Magnoflorine,C20H24NO4,342.17053326,Berberis thunbergii,Berberis,KNApSAcK
+104,C00001885,2141-09-5,Magnoflorine,C20H24NO4,342.17053326,Berberis numularis,Berberis,KNApSAcK
+105,C00001885,2141-09-5,Magnoflorine,C20H24NO4,342.17053326,Berberis kawakamii,Berberis,KNApSAcK
+106,C00001885,2141-09-5,Magnoflorine,C20H24NO4,342.17053326,Berberis integerrima,Berberis,KNApSAcK
+107,C00001888,5096-71-9,(+)-O-Methylthalicberine,C38H42N2O6,622.30428709,Berberis laurina,Berberis,KNApSAcK
+108,C00001895,1263-80-5,Obaberine,C38H42N2O6,622.30428709,Berberis tschonoskiana,Berberis,KNApSAcK
+109,C00001895,1263-80-5,Obaberine,C38H42N2O6,622.30428709,Berberis heterobotrys,Berberis,KNApSAcK
+110,C00001895,1263-80-5,Obaberine,C38H42N2O6,622.30428709,Berberis baluchistanica,Berberis,KNApSAcK
+111,C00001895,1263-80-5,Obaberine,C38H42N2O6,622.30428709,Berberis vulgaris,Berberis,KNApSAcK
+112,C00001895,1263-80-5,Obaberine,C38H42N2O6,622.30428709,Berberis spp.,Berberis,KNApSAcK
+113,C00001897,548-40-3,Oxyacanthine,C37H40N2O6,608.28863702,Berberis vulgaris,Berberis,KNApSAcK
+114,C00001897,548-40-3,Oxyacanthine,C37H40N2O6,608.28863702,Berberis heterobotrys,Berberis,KNApSAcK
+115,C00001897,548-40-3,Oxyacanthine,C37H40N2O6,608.28863702,Berberis integerrima,Berberis,KNApSAcK
+116,C00001897,548-40-3,Oxyacanthine,C37H40N2O6,608.28863702,Berberis numularis,Berberis,KNApSAcK
+117,C00001897,548-40-3,Oxyacanthine,C37H40N2O6,608.28863702,Berberis oblonga,Berberis,KNApSAcK
+118,C00001897,548-40-3,Oxyacanthine,C37H40N2O6,608.28863702,Berberis poirettii,Berberis,KNApSAcK
+119,C00001897,548-40-3,Oxyacanthine,C37H40N2O6,608.28863702,Berberis pseudanubalata,Berberis,KNApSAcK
+120,C00001897,548-40-3,Oxyacanthine,C37H40N2O6,608.28863702,Berberis sibirica,Berberis,KNApSAcK
+121,C00001897,548-40-3,Oxyacanthine,C37H40N2O6,608.28863702,Berberis turcomanica,Berberis,KNApSAcK
+122,C00001897,548-40-3,Oxyacanthine,C37H40N2O6,608.28863702,Berberis densiflora,Berberis,KNApSAcK
+123,C00001897,548-40-3,Oxyacanthine,C37H40N2O6,608.28863702,Berberis crataegina,Berberis,KNApSAcK
+124,C00001897,548-40-3,Oxyacanthine,C37H40N2O6,608.28863702,Berberis candidula,Berberis,KNApSAcK
+125,C00001897,548-40-3,Oxyacanthine,C37H40N2O6,608.28863702,Berberis baluchistanica,Berberis,KNApSAcK
+126,C00001897,548-40-3,Oxyacanthine,C37H40N2O6,608.28863702,Berberis amurensis,Berberis,KNApSAcK
+127,C00001897,548-40-3,Oxyacanthine,C37H40N2O6,608.28863702,Berberis aemulans,Berberis,KNApSAcK
+128,C00001898,3486-67-7,Palmatine,C21H22NO4,352.1548832,Berberis aemulans,Berberis,KNApSAcK
+129,C00001898,3486-67-7,Palmatine,C21H22NO4,352.1548832,Berberis crataegina,Berberis,KNApSAcK
+130,C00001898,3486-67-7,Palmatine,C21H22NO4,352.1548832,Berberis poirettii,Berberis,KNApSAcK
+131,C00001898,3486-67-7,Palmatine,C21H22NO4,352.1548832,Berberis pruinosa,Berberis,KNApSAcK
+132,C00001898,3486-67-7,Palmatine,C21H22NO4,352.1548832,Berberis pseudanubalata,Berberis,KNApSAcK
+133,C00001898,3486-67-7,Palmatine,C21H22NO4,352.1548832,Berberis turcomanica,Berberis,KNApSAcK
+134,C00001898,3486-67-7,Palmatine,C21H22NO4,352.1548832,Berberis vulgaris,Berberis,KNApSAcK
+135,C00001898,3486-67-7,Palmatine,C21H22NO4,352.1548832,Berberis brandisiana,Berberis,KNApSAcK
+136,C00001905,2128-60-1,Pronuciferine,C19H21NO3,311.15214354,Berberis sibirica,Berberis,KNApSAcK
+137,C00001905,2128-60-1,Pronuciferine,C19H21NO3,311.15214354,Berberis coletioides,Berberis,KNApSAcK
+138,C00001910,485-19-8,(+)-Reticuline,C19H23NO4,329.16270823,Berberis integerrima,Berberis,KNApSAcK
+139,C00001910,485-19-8,(+)-Reticuline,C19H23NO4,329.16270823,Berberis aquifolium,Berberis,KNApSAcK
+140,C00001910,485-19-8,(+)-Reticuline,C19H23NO4,329.16270823,Berberis aristata,Berberis,KNApSAcK
+141,C00001910,485-19-8,(+)-Reticuline,C19H23NO4,329.16270823,Berberis brandisiana,Berberis,KNApSAcK
+142,C00001910,485-19-8,(+)-Reticuline,C19H23NO4,329.16270823,Berberis chilensis,Berberis,KNApSAcK
+143,C00001910,485-19-8,(+)-Reticuline,C19H23NO4,329.16270823,Berberis heterobotrys,Berberis,KNApSAcK
+144,C00001910,485-19-8,(+)-Reticuline,C19H23NO4,329.16270823,Berberis thunbergii,Berberis,KNApSAcK
+145,C00001910,485-19-8,(+)-Reticuline,C19H23NO4,329.16270823,Berberis vulgaris,Berberis,KNApSAcK
+146,C00001910,485-19-8,(+)-Reticuline,C19H23NO4,329.16270823,Berberis wilsoniae,Berberis,KNApSAcK
+147,C00001913,73609-04-8,Rugosinone,C19H15NO6,353.08993722,Berberis valdiviana,Berberis,KNApSAcK
+148,C00002397,97218-06-9,Eriobofuran,C14H12O4,244.07355887,Berberis koreana,Berberis,KNApSAcK
+149,C00002631,21453-69-0,(+)-Lirioresinol B,C22H26O8,418.16276781,Berberis darwinii,Berberis,KNApSAcK
+150,C00002631,21453-69-0,(+)-Lirioresinol B,C22H26O8,418.16276781,Berberis chilensis,Berberis,KNApSAcK
+151,C00002980,3687-28-3,Aucuparin,C14H14O3,230.09429431,Berberis koreana,Berberis,KNApSAcK
+152,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Berberis pseudanubalata,Berberis,KNApSAcK
+153,C00003763,465-42-9,Capsanthin,C40H56O3,584.42294565,Berberis spp.,Berberis,KNApSAcK
+154,C00003772,512-29-8,Flavoxanthin,C40H56O3,584.42294565,Berberis spp.,Berberis,KNApSAcK
+155,C00006681,6906-39-4,Oxycoccicyanin,C22H23O11.Cl,498.09288929,Berberis spp.,Berberis,KNApSAcK
+156,C00006692,39824-85-6,Peonidin 3-rutinoside-5-glucoside,C34H43O20,771.23476882,Berberis buxifolia,Berberis,KNApSAcK
+157,C00006708,15674-58-5,Tulipanin,C27H31O16.Cl,646.13006266,Berberis spp.,Berberis,KNApSAcK
+158,C00006722,6988-81-4,Petunidin 3-glucoside,C22H23O12.Cl,514.08780391,Berberis buxifolia,Berberis,KNApSAcK
+159,C00006722,6988-81-4,Petunidin 3-glucoside,C22H23O12.Cl,514.08780391,Berberis fortunei,Berberis,KNApSAcK
+160,C00006726,39814-18-1,Petunidin 3-gentiobioside,C28H33O17,641.17177463,Berberis darwinii,Berberis,KNApSAcK
+161,C00006726,39814-18-1,Petunidin 3-gentiobioside,C28H33O17,641.17177463,Berberis buxifolia,Berberis,KNApSAcK
+162,C00006727,39824-84-5,Petunidin 3-rutinoside,C28H33O16,625.17686001,Berberis buxifolia,Berberis,KNApSAcK
+163,C00006727,39824-84-5,Petunidin 3-rutinoside,C28H33O16,625.17686001,Berberis darwinii,Berberis,KNApSAcK
+164,C00006732,40508-95-0,Petunidin 3-rutinoside-5-glucoside,C34H43O21,787.22968344,Berberis buxifolia,Berberis,KNApSAcK
+165,C00006735,7228-78-6,Oenin,C23H25O12,493.13460127,Berberis spp.,Berberis,KNApSAcK
+166,C00006740,39824-82-3,Malvidin 3-rutinoside,C29H35O16,639.19251007,Berberis buxifolia,Berberis,KNApSAcK
+167,C00006740,39824-82-3,Malvidin 3-rutinoside,C29H35O16,639.19251007,Berberis fortunei,Berberis,KNApSAcK
+168,C00006740,39824-82-3,Malvidin 3-rutinoside,C29H35O16,639.19251007,Berberis thenocissus,Berberis,KNApSAcK
+169,C00014003,,"8-Prenylkaempferol 4'-methyl ether 3-[4'''-,6'''-diacetylglucosyl-(1->3)-4''-acetylrhamnoside]",C39H46O18,802.26841467,Berberis dictyota,Berberis,KNApSAcK
+170,C00019308,474-58-8,3-O-beta-D-Glucopyranosyl sitosterol,C35H60O6,576.43898965,Berberis pseudanubalata,Berberis,KNApSAcK
+171,C00024667,3621-36-1,Columbamine,C20H20NO4,338.13923313,Berberis turcomanica,Berberis,KNApSAcK
+172,C00024667,3621-36-1,Columbamine,C20H20NO4,338.13923313,Berberis poirettii,Berberis,KNApSAcK
+173,C00024667,3621-36-1,Columbamine,C20H20NO4,338.13923313,Berberis oblonga,Berberis,KNApSAcK
+174,C00024667,3621-36-1,Columbamine,C20H20NO4,338.13923313,Berberis vulgaris L.,Berberis,KNApSAcK
+175,C00024667,3621-36-1,Columbamine,C20H20NO4,338.13923313,Berberis crataegina,Berberis,KNApSAcK
+176,C00024667,3621-36-1,Columbamine,C20H20NO4,338.13923313,Berberis aemulans,Berberis,KNApSAcK
+177,C00024667,3621-36-1,Columbamine,C20H20NO4,338.13923313,Berberis pruinosa,Berberis,KNApSAcK
+178,C00024766,74909-04-9,"(+/_)-3,4-Dihydrolinaresine",C19H17NO6,355.10558728,Berberis valdiviana,Berberis,KNApSAcK
+179,C00025243,5876-16-4,(-)-Norargemonine,C20H23NO4,341.16270823,Berberis buxifolia Lam.,Berberis,KNApSAcK
+180,C00025262,485-18-7,Berbamunine,C36H40N2O6,596.28863702,Berberis amurensis,Berberis,KNApSAcK
+181,C00025262,485-18-7,Berbamunine,C36H40N2O6,596.28863702,Berberis vulgaris,Berberis,KNApSAcK
+182,C00025266,477-57-6,(+)-Isotetrandrine,C38H42N2O6,622.30428709,Berberis aemulans,Berberis,KNApSAcK
+183,C00025266,477-57-6,(+)-Isotetrandrine,C38H42N2O6,622.30428709,Berberis vulgaris ssp.australis,Berberis,KNApSAcK
+184,C00025266,477-57-6,(+)-Isotetrandrine,C38H42N2O6,622.30428709,Berberis vulgaris,Berberis,KNApSAcK
+185,C00025266,477-57-6,(+)-Isotetrandrine,C38H42N2O6,622.30428709,Berberis thunbergii,Berberis,KNApSAcK
+186,C00025266,477-57-6,(+)-Isotetrandrine,C38H42N2O6,622.30428709,Berberis sibirica,Berberis,KNApSAcK
+187,C00025266,477-57-6,(+)-Isotetrandrine,C38H42N2O6,622.30428709,Berberis poirettii,Berberis,KNApSAcK
+188,C00025266,477-57-6,(+)-Isotetrandrine,C38H42N2O6,622.30428709,Berberis japonica,Berberis,KNApSAcK
+189,C00025266,477-57-6,(+)-Isotetrandrine,C38H42N2O6,622.30428709,Berberis glauca,Berberis,KNApSAcK
+190,C00025266,477-57-6,(+)-Isotetrandrine,C38H42N2O6,622.30428709,Berberis crataegina,Berberis,KNApSAcK
+191,C00025266,477-57-6,(+)-Isotetrandrine,C38H42N2O6,622.30428709,Berberis candidula,Berberis,KNApSAcK
+192,C00025266,477-57-6,(+)-Isotetrandrine,C38H42N2O6,622.30428709,Berberis brandisiana,Berberis,KNApSAcK
+193,C00025268,3423-07-2,(+)-N-Methylcoclaurine,C18H21NO3,299.15214354,Berberis aquifolium,Berberis,KNApSAcK
+194,C00025268,3423-07-2,(+)-N-Methylcoclaurine,C18H21NO3,299.15214354,Berberis aristata,Berberis,KNApSAcK
+195,C00025268,3423-07-2,(+)-N-Methylcoclaurine,C18H21NO3,299.15214354,Berberis thunbergii,Berberis,KNApSAcK
+196,C00025268,3423-07-2,(+)-N-Methylcoclaurine,C18H21NO3,299.15214354,Berberis vulgaris,Berberis,KNApSAcK
+197,C00025268,3423-07-2,(+)-N-Methylcoclaurine,C18H21NO3,299.15214354,Berberis wilsoniae,Berberis,KNApSAcK
+198,C00025268,3423-07-2,(+)-N-Methylcoclaurine,C18H21NO3,299.15214354,Berberis amurensis,Berberis,KNApSAcK
+199,C00025342,19716-66-6,Pseudopalmatine,C21H22NO4,352.1548832,Berberis candidula,Berberis,KNApSAcK
+200,C00025342,19716-66-6,Pseudopalmatine,C21H22NO4,352.1548832,Berberis amurensis,Berberis,KNApSAcK
+201,C00025606,70553-76-3,Daurisoline,C37H42N2O6,610.30428709,Berberis poiretii,Berberis,KNApSAcK
+202,C00025632,483-34-1,(-)-Isocorypalmine,C20H23NO4,341.16270823,Berberis wilsoniae,Berberis,KNApSAcK
+203,C00025632,483-34-1,(-)-Isocorypalmine,C20H23NO4,341.16270823,Berberis aquifolium,Berberis,KNApSAcK
+204,C00025632,483-34-1,(-)-Isocorypalmine,C20H23NO4,341.16270823,Berberis aristata,Berberis,KNApSAcK
+205,C00025632,483-34-1,(-)-Isocorypalmine,C20H23NO4,341.16270823,Berberis thunbergii,Berberis,KNApSAcK
+206,C00025632,483-34-1,(-)-Isocorypalmine,C20H23NO4,341.16270823,Berberis vulgaris,Berberis,KNApSAcK
+207,C00025812,486-39-5,Coclaurine,C17H19NO3,285.13649348,Berberis thunbergii,Berberis,KNApSAcK
+208,C00025812,486-39-5,Coclaurine,C17H19NO3,285.13649348,Berberis amurensis,Berberis,KNApSAcK
+209,C00025812,486-39-5,Coclaurine,C17H19NO3,285.13649348,Berberis aristata,Berberis,KNApSAcK
+210,C00025812,486-39-5,Coclaurine,C17H19NO3,285.13649348,Berberis vulgaris,Berberis,KNApSAcK
+211,C00025812,486-39-5,Coclaurine,C17H19NO3,285.13649348,Berberis wilsoniae,Berberis,KNApSAcK
+212,C00025812,486-39-5,Coclaurine,C17H19NO3,285.13649348,Berberis aquifolium,Berberis,KNApSAcK
+213,C00025827,476-69-7,Corydine,C20H23NO4,341.16270823,Berberis turcomanica,Berberis,KNApSAcK
+214,C00025981,479-37-8,(+)-Obamegine,C36H38N2O6,594.27298696,Berberis tschonoskiana,Berberis,KNApSAcK
+215,C00025981,479-37-8,(+)-Obamegine,C36H38N2O6,594.27298696,Berberis vulgaris,Berberis,KNApSAcK
+216,C00025997,549-21-3,Berlambine,C20H17NO5,351.11067266,Berberis lycium Royle,Berberis,KNApSAcK
+217,C00025997,549-21-3,Berlambine,C20H17NO5,351.11067266,Berberis empetrifolia Lam.,Berberis,KNApSAcK
+218,C00025997,549-21-3,Berlambine,C20H17NO5,351.11067266,Berberis turcomanica,Berberis,KNApSAcK
+219,C00025997,549-21-3,Berlambine,C20H17NO5,351.11067266,Berberis vulgaris,Berberis,KNApSAcK
+220,C00025997,549-21-3,Berlambine,C20H17NO5,351.11067266,Berberis lambertii,Berberis,KNApSAcK
+221,C00026019,84435-36-9,Punjabine,C35H32N2O7,592.22095139,Berberis lycium,Berberis,KNApSAcK
+222,C00026064,21796-15-6,Thalifoline,C11H13NO3,207.08954329,Berberis vulgaris,Berberis,KNApSAcK
+223,C00026064,21796-15-6,Thalifoline,C11H13NO3,207.08954329,Berberis brandisiana,Berberis,KNApSAcK
+224,C00026092,6451-73-6,l-Scoulerine,C19H21NO4,327.14705817,Berberis aristata,Berberis,KNApSAcK
+225,C00026092,6451-73-6,l-Scoulerine,C19H21NO4,327.14705817,Berberis aquifolium,Berberis,KNApSAcK
+226,C00026092,6451-73-6,l-Scoulerine,C19H21NO4,327.14705817,Berberis thunbergii,Berberis,KNApSAcK
+227,C00026092,6451-73-6,l-Scoulerine,C19H21NO4,327.14705817,Berberis vulgaris,Berberis,KNApSAcK
+228,C00026092,6451-73-6,l-Scoulerine,C19H21NO4,327.14705817,Berberis wilsoniae,Berberis,KNApSAcK
+229,C00026111,17388-19-1,Berberrubine,C19H16NO4,322.10793301,Berberis valdiviana,Berberis,KNApSAcK
+230,C00026111,17388-19-1,Berberrubine,C19H16NO4,322.10793301,Berberis darwinii,Berberis,KNApSAcK
+231,C00026111,17388-19-1,Berberrubine,C19H16NO4,322.10793301,Berberis amurensis,Berberis,KNApSAcK
+232,C00026111,17388-19-1,Berberrubine,C19H16NO4,322.10793301,Berberis actinacantha,Berberis,KNApSAcK
+233,C00026111,17388-19-1,Berberrubine,C19H16NO4,322.10793301,Berberis vulgaris,Berberis,KNApSAcK
+234,C00026111,17388-19-1,Berberrubine,C19H16NO4,322.10793301,Berberis turcomanica,Berberis,KNApSAcK
+235,C00026111,17388-19-1,Berberrubine,C19H16NO4,322.10793301,Berberis iliensis,Berberis,KNApSAcK
+236,C00026122,83218-34-2,Dehydrocheilanthifoline,C21H18NO4,348.12358307,Berberis cordata,Berberis,KNApSAcK
+237,C00026133,80908-02-7,Karachine,C26H27NO5,433.18892298,Berberis aristata,Berberis,KNApSAcK
+238,C00026133,80908-02-7,Karachine,C26H27NO5,433.18892298,Berberis asiatica DC.,Berberis,KNApSAcK
+239,C00027151,6514-05-2,N-Methylcorydaldine,C12H15NO3,221.10519335,Berberis empetrifolia,Berberis,KNApSAcK
+240,C00027238,5083-88-5,Thalicmidine,C20H23NO4,341.16270823,Berberis integerrima,Berberis,KNApSAcK
+241,C00027238,5083-88-5,Thalicmidine,C20H23NO4,341.16270823,Berberis densiflora,Berberis,KNApSAcK
+242,C00027238,5083-88-5,Thalicmidine,C20H23NO4,341.16270823,Berberis heterobotrys,Berberis,KNApSAcK
+243,C00027238,5083-88-5,Thalicmidine,C20H23NO4,341.16270823,Berberis oblonga,Berberis,KNApSAcK
+244,C00027238,5083-88-5,Thalicmidine,C20H23NO4,341.16270823,Berberis numularis,Berberis,KNApSAcK
+245,C00027238,5083-88-5,Thalicmidine,C20H23NO4,341.16270823,Berberis vulgaris,Berberis,KNApSAcK
+246,C00027238,5083-88-5,Thalicmidine,C20H23NO4,341.16270823,Berberis turcomanica,Berberis,KNApSAcK
+247,C00027302,55085-44-4,Baluchistanamine,C37H38N2O8,638.26281621,Berberis vulgaris,Berberis,KNApSAcK
+248,C00027302,55085-44-4,Baluchistanamine,C37H38N2O8,638.26281621,Berberis baluchistanica,Berberis,KNApSAcK
+249,C00027323,71700-15-7,Chilenine,C20H17NO7,383.10050191,Berberis vulgaris,Berberis,KNApSAcK
+250,C00027343,19716-71-3,Densiberine,C21H24NO4,354.17053326,Berberis densiflora,Berberis,KNApSAcK
+251,C00027451,16620-96-5,O-Methylcorypalline,C12H17NO2,207.12592879,Berberis densiflora,Berberis,KNApSAcK
+252,C00027467,61-25-6,Papavarine,C20H21NO4,339.14705817,Berberis turcomanica,Berberis,KNApSAcK
+253,C00027485,221001-23-6,Tejedine,C38H40N2O9,668.27338089,Berberis vulgaris,Berberis,KNApSAcK
+254,C00027498,16637-56-2,Turcomanidine,C18H17NO4,311.11575804,Berberis turcomanica,Berberis,KNApSAcK
+255,C00027499,60372-11-4,Turcomanine,C17H15NO4,297.10010798,Berberis turcomanica,Berberis,KNApSAcK
+256,C00027521,169626-12-4,Bargustanine,C29H34N2O7,522.23660146,Berberis vulgaris,Berberis,KNApSAcK
+257,C00027523,169626-38-4,Bernumicine,C20H25NO4,343.17835829,Berberis nummularia,Berberis,KNApSAcK
+258,C00027523,169626-38-4,Bernumicine,C20H25NO4,343.17835829,Berberis numularis,Berberis,KNApSAcK
+259,C00027524,169134-46-7,Bernumine,C19H21NO4,327.14705817,Berberis nummularia,Berberis,KNApSAcK
+260,C00027524,169134-46-7,Bernumine,C19H21NO4,327.14705817,Berberis numularis,Berberis,KNApSAcK
+261,C00027547,177481-46-8,Ilicifoline,C42H40N2O10,732.26829551,Berberis ilicifolia,Berberis,KNApSAcK
+262,C00027548,91790-53-3,Intebrimine,C20H25NO4,343.17835829,Berberis integerrima,Berberis,KNApSAcK
+263,C00027549,169238-46-4,Intebrinine,C19H21NO4,327.14705817,Berberis integerrima,Berberis,KNApSAcK
+264,C00027579,19879-44-8,O-Methylisothalicberine,C38H42N2O6,622.30428709,Berberis glauca,Berberis,KNApSAcK
+265,C00027597,114613-04-6,trans-N-Methylcorypalmine,C21H25NO5,371.17327292,Berberis iliensis,Berberis,KNApSAcK
+266,C00027676,123880-31-9,12-O-Demethyllauberine,C36H38N2O6,594.27298696,Berberis chilensis,Berberis,KNApSAcK
+267,C00027932,35611-57-5,Berbidine,C23H28N2O5,412.19982202,Berberis brandisiana,Berberis,KNApSAcK
+268,C00028041,122127-75-7,Chenabinol methyl ether,C38H44N2O7,640.31485177,Berberis brandisiana,Berberis,KNApSAcK
+269,C00028144,141290-70-2,Dehydropuntarenine,C21H17NO6,379.10558728,Berberis actinacantha,Berberis,KNApSAcK
+270,C00028146,141290-71-3,Dehydrosaulatine,C22H21NO6,395.13688741,Berberis actinacantha,Berberis,KNApSAcK
+271,C00028257,26137-40-6,Espinine,C36H40N2O6,596.28863702,Berberis chilensis,Berberis,KNApSAcK
+272,C00028257,26137-40-6,Espinine,C36H40N2O6,596.28863702,Berberis laurina Billb.,Berberis,KNApSAcK
+273,C00028445,120834-89-1,Lambertine,C20H20NO4,338.13923313,Berberis laurina Billb.,Berberis,KNApSAcK
+274,C00028445,120834-89-1,Lambertine,C20H20NO4,338.13923313,Berberis lambertii,Berberis,KNApSAcK
+275,C00028445,120834-89-1,Lambertine,C20H20NO4,338.13923313,Berberis vulgaris,Berberis,KNApSAcK
+276,C00028790,36506-69-1,Pakistanine,C37H40N2O6,608.28863702,Berberis empetrifolia,Berberis,KNApSAcK
+277,C00028790,36506-69-1,Pakistanine,C37H40N2O6,608.28863702,Berberis baluchistanica,Berberis,KNApSAcK
+278,C00028790,36506-69-1,Pakistanine,C37H40N2O6,608.28863702,Berberis waziristanica,Berberis,KNApSAcK
+279,C00028806,84423-06-3,Patagonine,C37H40N2O6,608.28863702,Berberis empetrifolia,Berberis,KNApSAcK
+280,C00029236,96497-83-5,Waziristanine,C37H40N2O6,608.28863702,Berberis waziristanica,Berberis,KNApSAcK
+281,C00034613,22672-77-1,(S)-Norcoclaurine,C16H17NO3,271.12084342,Berberis wilsoniae,Berberis,KNApSAcK
+282,C00034613,22672-77-1,(S)-Norcoclaurine,C16H17NO3,271.12084342,Berberis vulgaris,Berberis,KNApSAcK
+283,C00034613,22672-77-1,(S)-Norcoclaurine,C16H17NO3,271.12084342,Berberis thunbergii,Berberis,KNApSAcK
+284,C00034613,22672-77-1,(S)-Norcoclaurine,C16H17NO3,271.12084342,Berberis aristata,Berberis,KNApSAcK
+285,C00034613,22672-77-1,(S)-Norcoclaurine,C16H17NO3,271.12084342,Berberis aquifolium,Berberis,KNApSAcK
+286,C00034613,22672-77-1,(S)-Norcoclaurine,C16H17NO3,271.12084342,Berberis amurensis,Berberis,KNApSAcK
+287,C00041208,93780-78-0,(+)-Thaligrisine,C37H42N2O6,610.30428709,Berberis vulgaris ssp.australis,Berberis,KNApSAcK
+288,C00041265,64326-17-6,"3,5-Dimethoxybiphenyl",C14H14O2,214.09937969,Berberis koreana,Berberis,KNApSAcK
+289,C00041273,55814-99-8,3-Hydroxy-5-methoxybiphenyl,C13H12O2,200.08372963,Berberis koreana,Berberis,KNApSAcK
+290,C00047752,1189131-96-1,Berbekorin A,C24H26O8,442.16276781,Berberis koreana,Berberis,KNApSAcK
+291,C00047843,161748-48-7,delta-Cotonefuran,C15H14O5,274.08412356,Berberis koreana,Berberis,KNApSAcK
+292,C00047862,161748-49-8,epsilon-Cotonefuran,C15H14O6,290.07903818,Berberis koreana,Berberis,KNApSAcK
+293,C00047992,50816-75-6,Methoxyaucuparin,C15H16O3,244.10994438,Berberis koreana,Berberis,KNApSAcK
+294,C00051850,7339-87-9,4-Hydroxyphenylacetaldehyde,C8H8O2,136.0524295,Berberis vulgaris,Berberis,KNApSAcK
+295,C00051850,7339-87-9,4-Hydroxyphenylacetaldehyde,C8H8O2,136.0524295,Berberis aristata,Berberis,KNApSAcK
+296,C00051850,7339-87-9,4-Hydroxyphenylacetaldehyde,C8H8O2,136.0524295,Berberis aquifolium,Berberis,KNApSAcK
+297,C00051850,7339-87-9,4-Hydroxyphenylacetaldehyde,C8H8O2,136.0524295,Berberis amurensis,Berberis,KNApSAcK
+298,C00051850,7339-87-9,4-Hydroxyphenylacetaldehyde,C8H8O2,136.0524295,Berberis wilsoniae,Berberis,KNApSAcK
+299,C00051850,7339-87-9,4-Hydroxyphenylacetaldehyde,C8H8O2,136.0524295,Berberis thunbergii,Berberis,KNApSAcK
+300,C00051851,622-54-8,4-Hydroxyphenylpyruvate,C9H7O4-,179.03443371,Berberis thunbergii,Berberis,KNApSAcK
+301,C00051851,622-54-8,4-Hydroxyphenylpyruvate,C9H7O4-,179.03443371,Berberis aristata,Berberis,KNApSAcK
+302,C00051851,622-54-8,4-Hydroxyphenylpyruvate,C9H7O4-,179.03443371,Berberis aquifolium,Berberis,KNApSAcK
+303,C00051851,622-54-8,4-Hydroxyphenylpyruvate,C9H7O4-,179.03443371,Berberis amurensis,Berberis,KNApSAcK
+304,C00051851,622-54-8,4-Hydroxyphenylpyruvate,C9H7O4-,179.03443371,Berberis vulgaris,Berberis,KNApSAcK
+305,C00051851,622-54-8,4-Hydroxyphenylpyruvate,C9H7O4-,179.03443371,Berberis wilsoniae,Berberis,KNApSAcK
+306,C00051977,,3'-Hydroxy-7-O-methylcoclaurine,C18H21NO4,315.14705817,Berberis vulgaris,Berberis,KNApSAcK
+307,C00051977,,3'-Hydroxy-7-O-methylcoclaurine,C18H21NO4,315.14705817,Berberis aristata,Berberis,KNApSAcK
+308,C00051977,,3'-Hydroxy-7-O-methylcoclaurine,C18H21NO4,315.14705817,Berberis aquifolium,Berberis,KNApSAcK
+309,C00051977,,3'-Hydroxy-7-O-methylcoclaurine,C18H21NO4,315.14705817,Berberis wilsoniae,Berberis,KNApSAcK
+310,C00051977,,3'-Hydroxy-7-O-methylcoclaurine,C18H21NO4,315.14705817,Berberis thunbergii,Berberis,KNApSAcK
+311,C00052036,5707-55-1,"3,4-Dihydroxyphenylacetaldehyde",C8H8O3,152.04734412,Berberis regeliana,Berberis,KNApSAcK
+312,C00058303,167817-66-5,(-)-berbervirine,C21H21NO7,399.13180203,Berberis virgetorum,Berberis,KNApSAcK
+313,C00058360,169626-39-5,Amurenine,C20H24NO3,326.17561864,Berberis ammurensis,Berberis,KNApSAcK
+314,C00058379,169238-48-6,Berpodine,C40H38N2O13,754.23738932,Berberis heteropoda,Berberis,KNApSAcK
+315,C00058454,57621-03-1,Densinine,C14H19NO4,265.1314081,Berberis densiflora,Berberis,KNApSAcK
+316,C00058519,169238-47-5,Intebrine,C20H19NO7,385.11615197,Berberis integerrima,Berberis,KNApSAcK
+317,C00058616,6275-29-2,N-Acetylhomoveratrylamine,C12H17NO3,223.12084342,Berberis sibirica,Berberis,KNApSAcK
+318,C00058633,198704-40-4,Nummularine,C19H23NO4,329.16270823,Berberis nummularia,Berberis,KNApSAcK
+319,C00058780,169626-34-0,Turcberine,C23H30N2O4,398.22055746,Berberis tucomanica,Berberis,KNApSAcK
+320,C00058781,66113-64-2,Turconidine,C23H30N2O4,398.22055746,Berberis tucomanica,Berberis,KNApSAcK

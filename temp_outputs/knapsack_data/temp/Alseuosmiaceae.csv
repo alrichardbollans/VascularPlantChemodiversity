@@ -1,0 +1,38 @@
+,C_ID,CAS ID,example_compound_name,Molecular formula,Mw,Organism,knapsack_search_term,Source
+0,C00000320,24512-63-8,Geniposide,C17H24O10,388.13694699,Randia spinosa,Randia,KNApSAcK
+1,C00003081,24512-62-7,Gardenoside,C17H24O11,404.13186161,Randia spinosa,Randia,KNApSAcK
+2,C00003097,27530-67-2,6beta-Hydroxygeniposide,C17H24O11,404.13186161,Randia spinosa,Randia,KNApSAcK
+3,C00007345,499-37-6,5-Methylsulfinylpentyl glucosinolate,C13H25NO10S3,451.06405822,Lesquerella mirandiana,Randia,KNApSAcK
+4,C00010555,,10-Dehydrogardenoside,C17H22O11,402.11621155,Randia canthioides,Randia,KNApSAcK
+5,C00010582,58514-31-1,Ixoside,C16H20O11,388.10056148,Randia dumetorum,Randia,KNApSAcK
+6,C00010669,82345-53-7,Randioside,C16H20O10,372.10564686,Randia canthioides,Randia,KNApSAcK
+7,C00030094,52613-28-2,6alpha-Hydroxygeniposide,C17H24O11,404.13186161,Randia spinosa,Randia,KNApSAcK
+8,C00031802,54712-59-3,Galioside,C17H24O11,404.13186161,Randia spinosa,Randia,KNApSAcK
+9,C00033110,243635-66-7,Ilekudinoside E,C47H76O18,928.50316563,Randia formosa,Randia,KNApSAcK
+10,C00037296,147235-21-0,Ilekudinoside D,C41H66O14,782.44525682,Randia formosa,Randia,KNApSAcK
+11,C00037718,28468-35-1,Randiasaponin I,C41H61O14,777.40613166,Randia formosa,Randia,KNApSAcK
+12,C00037719,284684-43-1,Randiasaponin II,C41H66O14,782.44525682,Randia formosa,Randia,KNApSAcK
+13,C00037720,55965-02-1,Latifoloside A,C47H76O17,912.508251,Randia formosa,Randia,KNApSAcK
+14,C00037721,55965-03-2,Latifoloside B,C47H76O17,912.508251,Randia formosa,Randia,KNApSAcK
+15,C00037722,284685-29-6,Randiasaponin VI,C41H66O14,782.44525682,Randia formosa,Randia,KNApSAcK
+16,C00037723,284685-31-0,Randiasaponin VII,C42H68O15,812.4558215,Randia formosa,Randia,KNApSAcK
+0,C00003543,75303-44-5,Pittoside A,C41H68O14,784.46090688,Pittosporum nilghrense,Pittosporum,KNApSAcK
+1,C00010874,99-84-3,beta-Terpinen,C10H16,136.12520051,Pittosporum tenuifolium,Pittosporum,KNApSAcK
+2,C00011705,126654-58-8,Pittosporanoside B1,C28H44O7,492.30870376,Pittosporum tobira,Pittosporum,KNApSAcK
+3,C00011706,126654-59-9,Pittosporanoside B2,C28H44O7,492.30870376,Pittosporum tobira,Pittosporum,KNApSAcK
+4,C00011707,126654-60-2,Pittosporanoside B3,C28H44O7,492.30870376,Pittosporum tobira,Pittosporum,KNApSAcK
+5,C00011736,115526-27-7,Pittosporatobiraside A,C26H38O5,430.27192432,Pittosporum tobira,Pittosporum,KNApSAcK
+6,C00011737,127610-67-7,Pittosporatobiraside B,C26H38O5,430.27192432,Pittosporum tobira,Pittosporum,KNApSAcK
+7,C00021218,104472-69-7,Pittosporanoside A1,C28H44O7,492.30870376,Pittosporum tobira,Pittosporum,KNApSAcK
+8,C00021219,104472-70-0,Pittosporanoside A2,C28H44O7,492.30870376,Pittosporum tobira,Pittosporum,KNApSAcK
+9,C00023171,,"5',6'-Epoxy-3'-hydroxy-3-methoxy-4,6-didehydro-5',6'-dihydro-4,6-cyclo-5,6-seco-beta,beta-caroten-5-one",C41H56O4,612.41786028,Pittosporum tobira,Pittosporum,KNApSAcK
+10,C00023172,,"5',8'-Epoxy-3'-hydroxy-3-methoxy-4,6-didehydro-5',8'-dihydro-4,6-cyclo-5,6-seco-beta,beta-caroten-5-one",C41H56O4,612.41786028,Pittosporum tobira,Pittosporum,KNApSAcK
+11,C00034619,934712-35-3,Pancherin A,C25H40O6,436.28248901,Pittosporum pancheri,Pittosporum,KNApSAcK
+12,C00034620,934712-42-2,Pancherin B,C25H40O6,436.28248901,Pittosporum pancheri,Pittosporum,KNApSAcK
+13,C00040029,174390-05-7,Pittosporumxanthin A3,C69H104O6,1028.78329105,Pittosporum tobira,Pittosporum,KNApSAcK
+14,C00040030,174390-06-8,Pittosporumxanthin A4,C69H104O6,1028.78329105,Pittosporum tobira,Pittosporum,KNApSAcK
+15,C00040031,174232-45-2,Pittosporumxanthin B1,C69H104O5,1012.78837643,Pittosporum tobira,Pittosporum,KNApSAcK
+16,C00040032,174390-03-5,Pittosporumxanthin B2,C69H104O5,1012.78837643,Pittosporum tobira,Pittosporum,KNApSAcK
+17,C00040033,174232-46-3,Pittosporumxanthin C1,C69H104O6,1028.78329105,Pittosporum tobira,Pittosporum,KNApSAcK
+18,C00040034,174390-04-6,Pittosporumxanthin C2,C69H104O6,1028.78329105,Pittosporum tobira,Pittosporum,KNApSAcK
+19,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Pittosporum tobira,Pittosporum,KNApSAcK

@@ -1,0 +1,883 @@
+,C_ID,CAS ID,example_compound_name,Molecular formula,Mw,Organism,knapsack_search_term,Source
+0,C00000149,6750-60-3,Espatulenol,C15H24O,220.18271539,Aristolochia yunnanensis,Aristolochia,KNApSAcK
+1,C00000149,6750-60-3,Espatulenol,C15H24O,220.18271539,Aristolochia trilobata,Aristolochia,KNApSAcK
+2,C00000152,7400-08-0,p-Coumaric acid,C9H8O3,164.04734412,Aristolochia manshuriensis,Aristolochia,KNApSAcK
+3,C00000587,81446-29-9,(-)-Pinoresinol,C20H22O6,358.14163844,Aristolochia elegans,Aristolochia,KNApSAcK
+4,C00000601,607-80-7,(+)-Sesamin,C20H18O6,354.11033831,Aristolochia pubescens,Aristolochia,KNApSAcK
+5,C00000601,607-80-7,(+)-Sesamin,C20H18O6,354.11033831,Aristolochia flos-avis,Aristolochia,KNApSAcK
+6,C00000640,526-06-7,(+)-Eudesmin,C22H26O6,386.17293856,Aristolochia pubescens,Aristolochia,KNApSAcK
+7,C00000640,526-06-7,(+)-Eudesmin,C22H26O6,386.17293856,Aristolochia elegans,Aristolochia,KNApSAcK
+8,C00000640,526-06-7,(+)-Eudesmin,C22H26O6,386.17293856,Aristolochia flos-avis,Aristolochia,KNApSAcK
+9,C00000647,487-39-8,Phillygenin,C21H24O6,372.1572885,Aristolochia flos-avis,Aristolochia,KNApSAcK
+10,C00000816,127-91-3,beta-Pinene,C10H16,136.12520051,Aristolochia trilobata,Aristolochia,KNApSAcK
+11,C00000823,138-86-3,Limonene,C10H16,136.12520051,Aristolochia trilobata,Aristolochia,KNApSAcK
+12,C00000843,3338-55-4,cis-beta-Ocimene,C10H16,136.12520051,Aristolochia trilobata,Aristolochia,KNApSAcK
+13,C00000853,123-35-3,beta-Myrcene,C10H16,136.12520051,Aristolochia trilobata,Aristolochia,KNApSAcK
+14,C00000856,99-96-7,4-hydroxybenzoic acid,C7H6O3,138.03169406,Aristolochia manshuriensis,Aristolochia,KNApSAcK
+15,C00000856,99-96-7,4-hydroxybenzoic acid,C7H6O3,138.03169406,Aristolochia elegans,Aristolochia,KNApSAcK
+16,C00001122,492-62-6,alpha-D-Glucose,C6H12O6,180.06338812,Aristolochia pubescens,Aristolochia,KNApSAcK
+17,C00001168,10284-63-6,D-Pinitol,C7H14O6,194.07903818,Aristolochia,Aristolochia,KNApSAcK
+18,C00001172,523-92-2,Sequoyitol,C7H14O6,194.07903818,Aristolochia debilis,Aristolochia,KNApSAcK
+19,C00001408,51-61-6,Dopamine,C8H11NO2,153.0789786,Aristolochia gigantea,Aristolochia,KNApSAcK
+20,C00001435,51-67-2,Tyramine,C8H11NO,137.08406398,Aristolochia gigantea,Aristolochia,KNApSAcK
+21,C00001526,313-67-7,aristolochic acid,C17H11NO7,341.05355171,Aristolochia cinnabarina,Aristolochia,KNApSAcK
+22,C00001526,313-67-7,aristolochic acid,C17H11NO7,341.05355171,Aristolochia tubiflora,Aristolochia,KNApSAcK
+23,C00001526,313-67-7,aristolochic acid,C17H11NO7,341.05355171,Aristolochia pubescens,Aristolochia,KNApSAcK
+24,C00001526,313-67-7,aristolochic acid,C17H11NO7,341.05355171,Aristolochia ponticum,Aristolochia,KNApSAcK
+25,C00001526,313-67-7,aristolochic acid,C17H11NO7,341.05355171,Aristolochia mollissima,Aristolochia,KNApSAcK
+26,C00001526,313-67-7,aristolochic acid,C17H11NO7,341.05355171,Aristolochia maurorum,Aristolochia,KNApSAcK
+27,C00001526,313-67-7,aristolochic acid,C17H11NO7,341.05355171,Aristolochia manshuriensis,Aristolochia,KNApSAcK
+28,C00001526,313-67-7,aristolochic acid,C17H11NO7,341.05355171,Aristolochia manchuriensis,Aristolochia,KNApSAcK
+29,C00001526,313-67-7,aristolochic acid,C17H11NO7,341.05355171,Aristolochia longa,Aristolochia,KNApSAcK
+30,C00001526,313-67-7,aristolochic acid,C17H11NO7,341.05355171,Aristolochia kunmingensis,Aristolochia,KNApSAcK
+31,C00001526,313-67-7,aristolochic acid,C17H11NO7,341.05355171,Aristolochia kaempferi,Aristolochia,KNApSAcK
+32,C00001526,313-67-7,aristolochic acid,C17H11NO7,341.05355171,Aristolochia indica,Aristolochia,KNApSAcK
+33,C00001526,313-67-7,aristolochic acid,C17H11NO7,341.05355171,Aristolochia elegans,Aristolochia,KNApSAcK
+34,C00001526,313-67-7,aristolochic acid,C17H11NO7,341.05355171,Aristolochia debilis,Aristolochia,KNApSAcK
+35,C00001526,313-67-7,aristolochic acid,C17H11NO7,341.05355171,Aristolochia clematitis,Aristolochia,KNApSAcK
+36,C00001526,313-67-7,aristolochic acid,C17H11NO7,341.05355171,Aristolochia,Aristolochia,KNApSAcK
+37,C00001526,313-67-7,aristolochic acid,C17H11NO7,341.05355171,Aristolochia clematis,Aristolochia,KNApSAcK
+38,C00001526,313-67-7,aristolochic acid,C17H11NO7,341.05355171,Aristolochia cinnarbarina,Aristolochia,KNApSAcK
+39,C00001862,6808-72-6,Glaziovine,C18H19NO3,297.13649348,Aristolochia chilensis,Aristolochia,KNApSAcK
+40,C00001885,2141-09-5,Magnoflorine,C20H24NO4,342.17053326,Aristolochia sipho,Aristolochia,KNApSAcK
+41,C00001885,2141-09-5,Magnoflorine,C20H24NO4,342.17053326,Aristolochia clematitis,Aristolochia,KNApSAcK
+42,C00001885,2141-09-5,Magnoflorine,C20H24NO4,342.17053326,Aristolochia contorta,Aristolochia,KNApSAcK
+43,C00001885,2141-09-5,Magnoflorine,C20H24NO4,342.17053326,Aristolochia debilis,Aristolochia,KNApSAcK
+44,C00001885,2141-09-5,Magnoflorine,C20H24NO4,342.17053326,Aristolochia elegans,Aristolochia,KNApSAcK
+45,C00001885,2141-09-5,Magnoflorine,C20H24NO4,342.17053326,Aristolochia fangchi,Aristolochia,KNApSAcK
+46,C00001885,2141-09-5,Magnoflorine,C20H24NO4,342.17053326,Aristolochia gigantea,Aristolochia,KNApSAcK
+47,C00001885,2141-09-5,Magnoflorine,C20H24NO4,342.17053326,Aristolochia heterophylla,Aristolochia,KNApSAcK
+48,C00001885,2141-09-5,Magnoflorine,C20H24NO4,342.17053326,Aristolochia manshuriensis,Aristolochia,KNApSAcK
+49,C00001885,2141-09-5,Magnoflorine,C20H24NO4,342.17053326,Aristolochia moupinensis,Aristolochia,KNApSAcK
+50,C00001885,2141-09-5,Magnoflorine,C20H24NO4,342.17053326,Aristolochia thunbergii,Aristolochia,KNApSAcK
+51,C00001885,2141-09-5,Magnoflorine,C20H24NO4,342.17053326,Aristolochia triangularis,Aristolochia,KNApSAcK
+52,C00001910,485-19-8,(+)-Reticuline,C19H23NO4,329.16270823,Aristolochia gigantea,Aristolochia,KNApSAcK
+53,C00001915,27740-96-1,(-)-Salsolinol,C10H13NO2,179.09462867,Aristolochia arcuata,Aristolochia,KNApSAcK
+54,C00001919,518-34-3,(+)-Tetrandrine,C38H42N2O6,622.30428709,Aristolochia heterophylla,Aristolochia,KNApSAcK
+55,C00001919,518-34-3,(+)-Tetrandrine,C38H42N2O6,622.30428709,Aristolochia debilis,Aristolochia,KNApSAcK
+56,C00002124,87340-27-0,Triangularine,C18H25NO5,335.17327292,Aristolochia triangularis,Aristolochia,KNApSAcK
+57,C00002591,18423-69-3,Cubebin,C20H20O6,356.12598837,Aristolochia triangularis,Aristolochia,KNApSAcK
+58,C00002591,18423-69-3,Cubebin,C20H20O6,356.12598837,Aristolochia lagesiana,Aristolochia,KNApSAcK
+59,C00002591,18423-69-3,Cubebin,C20H20O6,356.12598837,Aristolochia pubescens,Aristolochia,KNApSAcK
+60,C00002599,24563-03-9,Dihydrocubebin,C20H22O6,358.14163844,Aristolochia pubescens,Aristolochia,KNApSAcK
+61,C00002605,61891-31-4,(+)-Galbacin,C20H20O5,340.13107375,Aristolochia triangularis,Aristolochia,KNApSAcK
+62,C00002608,26543-89-5,Hinokinin,C20H18O6,354.11033831,Aristolochia elegans,Aristolochia,KNApSAcK
+63,C00002608,26543-89-5,Hinokinin,C20H18O6,354.11033831,Aristolochia chamissonis,Aristolochia,KNApSAcK
+64,C00002608,26543-89-5,Hinokinin,C20H18O6,354.11033831,Aristolochia triangularis,Aristolochia,KNApSAcK
+65,C00002608,26543-89-5,Hinokinin,C20H18O6,354.11033831,Aristolochia pubescens,Aristolochia,KNApSAcK
+66,C00002608,26543-89-5,Hinokinin,C20H18O6,354.11033831,Aristolochia indica,Aristolochia,KNApSAcK
+67,C00002608,26543-89-5,Hinokinin,C20H18O6,354.11033831,Aristolochia cymbifera,Aristolochia,KNApSAcK
+68,C00002611,51020-86-1,(-)-Licarin A,C20H22O4,326.15180919,Aristolochia taliscana,Aristolochia,KNApSAcK
+69,C00002611,51020-86-1,(-)-Licarin A,C20H22O4,326.15180919,Aristolochia pubescens,Aristolochia,KNApSAcK
+70,C00002611,51020-86-1,(-)-Licarin A,C20H22O4,326.15180919,Aristolochia maxima,Aristolochia,KNApSAcK
+71,C00002674,530-57-4,Syringic acid,C9H10O5,198.05282343,Aristolochia heterophylla Hemsl,Aristolochia,KNApSAcK
+72,C00002682,121-34-6,Vanillic acid,C8H8O4,168.04225874,Aristolochia heterophylla,Aristolochia,KNApSAcK
+73,C00002682,121-34-6,Vanillic acid,C8H8O4,168.04225874,Aristolochia manshuriensis,Aristolochia,KNApSAcK
+74,C00002682,121-34-6,Vanillic acid,C8H8O4,168.04225874,Aristolochia pubescens,Aristolochia,KNApSAcK
+75,C00002683,5463-22-9,Vanillin,C8H8O3,152.04734412,Aristolochia pubescens,Aristolochia,KNApSAcK
+76,C00002683,5463-22-9,Vanillin,C8H8O3,152.04734412,Aristolochia heterophylla Hemsl,Aristolochia,KNApSAcK
+77,C00002743,1135-24-6,Ferulic acid,C10H10O4,194.05790881,Aristolochia heterophylla Hemsl,Aristolochia,KNApSAcK
+78,C00002743,1135-24-6,Ferulic acid,C10H10O4,194.05790881,Aristolochia manshuriensis,Aristolochia,KNApSAcK
+79,C00002776,530-59-6,Sinapic acid,C11H12O5,224.06847349,Aristolochia clematis,Aristolochia,KNApSAcK
+80,C00002794,86533-36-0,Aristolindiquinone,C12H10O4,218.05790881,Aristolochia indica,Aristolochia,KNApSAcK
+81,C00002843,41621-32-3,Morindaparvin A,C15H8O4,252.04225874,Aristolochia heterophylla Hemsl,Aristolochia,KNApSAcK
+82,C00002990,112936-00-2,Flossonol,C13H16O3,220.10994438,Aristolochia flos-avis,Aristolochia,KNApSAcK
+83,C00003028,507-70-0,Borneol,C10H18O,154.1357652,Aristolochia trilobata,Aristolochia,KNApSAcK
+84,C00003028,507-70-0,Borneol,C10H18O,154.1357652,Aristolochia heterophylla,Aristolochia,KNApSAcK
+85,C00003029,79-92-5,Camphene,C10H16,136.12520051,Aristolochia trilobata,Aristolochia,KNApSAcK
+86,C00003040,99-87-6,p-Cymene,C10H14,134.10955045,Aristolochia trilobata,Aristolochia,KNApSAcK
+87,C00003047,78-70-6,(+-)-Linalool,C10H18O,154.1357652,Aristolochia trilobata,Aristolochia,KNApSAcK
+88,C00003110,87-44-5,beta-Caryophyllene,C15H24,204.18780077,Aristolochia trilobata,Aristolochia,KNApSAcK
+89,C00003161,577-27-5,Ledol,C15H26O,222.19836545,Aristolochia indica,Aristolochia,KNApSAcK
+90,C00003563,14835-43-9,Asparagoside A,C33H54O8,578.3818687,Smilax aristolochiaefolia,Aristolochia,KNApSAcK
+91,C00003584,19057-61-5,Parillin,C51H84O22,1048.54542437,Smilax aristolochiaefolia,Aristolochia,KNApSAcK
+92,C00003589,24333-07-1,Sarsaparilloside,C57H96O28,1228.60881249,Smilax aristolochiaefolia,Aristolochia,KNApSAcK
+93,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Aristolochia heterophylla Hemsl,Aristolochia,KNApSAcK
+94,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Aristolochia elegans,Aristolochia,KNApSAcK
+95,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Aristolochia pubescens,Aristolochia,KNApSAcK
+96,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Aristolochia manshuriensis,Aristolochia,KNApSAcK
+97,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Aristolochia kaempferi,Aristolochia,KNApSAcK
+98,C00003674,83-48-7,beta-Stigmasterol,C29H48O,412.37051615,Aristolochia mollissima,Aristolochia,KNApSAcK
+99,C00003674,83-48-7,beta-Stigmasterol,C29H48O,412.37051615,Aristolochia heterophylla Hemsl,Aristolochia,KNApSAcK
+100,C00003674,83-48-7,beta-Stigmasterol,C29H48O,412.37051615,Aristolochia manshuriensis,Aristolochia,KNApSAcK
+101,C00005149,16290-07-6,Kaempferol 7-O-beta-D-glucopyranoside,C21H20O11,448.10056148,Aristolochia foveolata,Aristolochia,KNApSAcK
+102,C00005169,17650-84-9,Kaempferol 3-rutinoside,C27H30O15,594.15847029,Aristolochia kaempferi,Aristolochia,KNApSAcK
+103,C00005413,153-18-4,Quercetin 3-rutinoside,C27H30O16,610.15338491,Aristolochia kaempferi,Aristolochia,KNApSAcK
+104,C00005538,53584-69-3,Isorhamnetin 3-O-robinobioside,C28H32O16,624.16903498,Aristolochia heterophylla Hemsl,Aristolochia,KNApSAcK
+105,C00005548,604-80-8,Isorhamnetin 3-O-rutinoside,C28H32O16,624.16903498,Aristolochia foveolata,Aristolochia,KNApSAcK
+106,C00007195,68296-27-5,(+)-Fargesin,C21H22O6,370.14163844,Aristolochia cymbifera,Aristolochia,KNApSAcK
+107,C00007195,68296-27-5,(+)-Fargesin,C21H22O6,370.14163844,Aristolochia albida,Aristolochia,KNApSAcK
+108,C00007213,528-64-3,(-)-Galbacin,C20H20O5,340.13107375,Aristolochia triangularis,Aristolochia,KNApSAcK
+109,C00007253,562-28-7,ent-Kaurene,C20H32,272.25040102,Aristolochia triangularis,Aristolochia,KNApSAcK
+110,C00007453,33880-83-0,beta-Elemene,C15H24,204.18780077,Aristolochia trilobata,Aristolochia,KNApSAcK
+111,C00007468,97-59-6,Allantoin,C4H6N4O3,158.04399009,Aristolochia heterophylla Hemsl,Aristolochia,KNApSAcK
+112,C00007468,97-59-6,Allantoin,C4H6N4O3,158.04399009,Aristolochia pubescens,Aristolochia,KNApSAcK
+113,C00007636,483-76-1,delta-Cadinene,C15H24,204.18780077,Aristolochia trilobata,Aristolochia,KNApSAcK
+114,C00011038,90128-93-1,"(1alpha,5alpha,6alpha)-2,6-dimethylbicyclo[3.1.1]hept-2-ene-6-methanol",C10H16O,152.12011513,Aristolochia longa,Aristolochia,KNApSAcK
+115,C00011039,90024-30-9,"(1alpha,5alpha,6alpha)-(-)-2,6-dimethylbicyclo[3.1.1]hept-2-ene-6-methanol acetate",C12H18O2,194.13067982,Aristolochia longa,Aristolochia,KNApSAcK
+116,C00011067,508-32-7,Teresantanane,C10H16,136.12520051,Aristolochia trilobata,Aristolochia,KNApSAcK
+117,C00011720,23986-74-5,(-)-Germacrene D,C15H24,204.18780077,Aristolochia trilobata,Aristolochia,KNApSAcK
+118,C00011727,6790-85-8,Aristolactone,C15H20O2,232.14632988,Aristolochia serpentaria,Aristolochia,KNApSAcK
+119,C00011727,6790-85-8,Aristolactone,C15H20O2,232.14632988,Aristolochia cucurbitafolia,Aristolochia,KNApSAcK
+120,C00011727,6790-85-8,Aristolactone,C15H20O2,232.14632988,Aristolochia heterophylla Hemsl,Aristolochia,KNApSAcK
+121,C00011727,6790-85-8,Aristolactone,C15H20O2,232.14632988,Aristolochia reticulata,Aristolochia,KNApSAcK
+122,C00012170,125514-73-0,Melampolide,C15H20O2,232.14632988,Aristolochia yunnanensis,Aristolochia,KNApSAcK
+123,C00012425,24703-35-3,(+)-Bicyclogermacrene,C15H24,204.18780077,Aristolochia trilobata,Aristolochia,KNApSAcK
+124,C00012431,11268-36-5,(+)-Isobicyclogermacrenal,C15H22O,218.16706532,Aristolochia yunnanensis,Aristolochia,KNApSAcK
+125,C00012431,11268-36-5,(+)-Isobicyclogermacrenal,C15H22O,218.16706532,Aristolochia mollissima,Aristolochia,KNApSAcK
+126,C00012431,11268-36-5,(+)-Isobicyclogermacrenal,C15H22O,218.16706532,Aristolochia manshuriensis,Aristolochia,KNApSAcK
+127,C00012469,128232-71-3,Manshurolide,C15H20O2,232.14632988,Aristolochia heterophylla Hemsl,Aristolochia,KNApSAcK
+128,C00012469,128232-71-3,Manshurolide,C15H20O2,232.14632988,Aristolochia mollissima,Aristolochia,KNApSAcK
+129,C00012469,128232-71-3,Manshurolide,C15H20O2,232.14632988,Aristolochia manshuriensis,Aristolochia,KNApSAcK
+130,C00012469,128232-71-3,Manshurolide,C15H20O2,232.14632988,Aristolochia cucurbitafolia,Aristolochia,KNApSAcK
+131,C00012492,24173-71-5,(-)-Kobusone,C14H22O2,222.16197995,Aristolochia pubescens,Aristolochia,KNApSAcK
+132,C00012716,29868-52-8,"5beta,10alpha-Eudesma-4(14),11-diene",C15H24,204.18780077,Aristolochia indica,Aristolochia,KNApSAcK
+133,C00014534,329201-17-4,"4''',5,5'',7''-Tetrahydroxy-3'',3''',4'-trimethoxy-6-O-alpha,7- beta-flavone-chalcone",C33H24O11,596.13186161,Aristolochia ridicula,Aristolochia,KNApSAcK
+134,C00014535,329201-19-6,"4',5,5'',7''-Tetrahydroxy-3',3'',4'''-trimethoxy-6-O-alpha,7-beta-flavone-chalcone",C33H24O11,596.13186161,Aristolochia ridicula,Aristolochia,KNApSAcK
+135,C00014536,329201-21-0,"3''',5,5'',7''-Tetrahydroxy-3'',4',4'''-trimethoxy-6-O-alpha,7-beta-flavone-chalcone",C33H24O11,596.13186161,Aristolochia ridicula,Aristolochia,KNApSAcK
+136,C00014537,329201-23-2,"4',5,5'',7''-Tetrahydroxy-3',3'',4'''-trimethoxy-6-O-beta,7-alpha-flavone-chalcone",C33H24O11,596.13186161,Aristolochia ridicula,Aristolochia,KNApSAcK
+137,C00014541,329191-73-3,"(4''',5'',7-Trihydroxy-4',5,7''-trimethoxy-3,6''-bi-flavone)-3'''-O-4'''-(5,5'',7''-trihydroxy-3',3'',4'-trimethoxy-6-O-beta,7-alpha-flavone-chalcone)",C66H46O21,1174.25315854,Aristolochia ridicula,Aristolochia,KNApSAcK
+138,C00016976,26620-71-3,(-)-Aristolochene,C15H24,204.18780077,Aristolochia indica,Aristolochia,KNApSAcK
+139,C00017468,26808-51-5,Debilon,C15H22O2,234.16197995,Aristolochia debilis,Aristolochia,KNApSAcK
+140,C00017469,94271-19-9,1(10)-Aristolen-12-al,C15H22O,218.16706532,Aristolochia debilis,Aristolochia,KNApSAcK
+141,C00017474,25274-27-5,Aristolone,C15H22O,218.16706532,Aristolochia debilis,Aristolochia,KNApSAcK
+142,C00019064,508-02-1,Oleanolic acid,C30H48O3,456.3603454,Aristolochia manshuriensis,Aristolochia,KNApSAcK
+143,C00019308,474-58-8,3-O-beta-D-Glucopyranosyl sitosterol,C35H60O6,576.43898965,Aristolochia kaempferi,Aristolochia,KNApSAcK
+144,C00019308,474-58-8,3-O-beta-D-Glucopyranosyl sitosterol,C35H60O6,576.43898965,Aristolochia heterophylla,Aristolochia,KNApSAcK
+145,C00020065,481-34-5,(-)-alpha-Cadinol,C15H26O,222.19836545,Aristolochia trilobata,Aristolochia,KNApSAcK
+146,C00021213,489-41-8,(-)-Globulol,C15H26O,222.19836545,Aristolochia trilobata,Aristolochia,KNApSAcK
+147,C00021217,552-02-3,Viridiflorol,C15H26O,222.19836545,Aristolochia trilobata,Aristolochia,KNApSAcK
+148,C00021229,25246-27-9,allo-Aromadendrene,C15H24,204.18780077,Aristolochia trilobata,Aristolochia,KNApSAcK
+149,C00021230,489-39-4,(+)-Aromadendrene,C15H24,204.18780077,Aristolochia trilobata,Aristolochia,KNApSAcK
+150,C00021236,88395-46-4,Isosparthulenol,C15H24O,220.18271539,Aristolochia trilobata,Aristolochia,KNApSAcK
+151,C00021671,475-80-9,Aristolochic acid II,C16H9NO6,311.04298703,Aristolochia heterophylla Hemsl,Aristolochia,KNApSAcK
+152,C00021671,475-80-9,Aristolochic acid II,C16H9NO6,311.04298703,Aristolochia auricularia,Aristolochia,KNApSAcK
+153,C00021671,475-80-9,Aristolochic acid II,C16H9NO6,311.04298703,Aristolochia cinnabarina,Aristolochia,KNApSAcK
+154,C00021671,475-80-9,Aristolochic acid II,C16H9NO6,311.04298703,Aristolochia ponticum,Aristolochia,KNApSAcK
+155,C00021671,475-80-9,Aristolochic acid II,C16H9NO6,311.04298703,Aristolochia debilis,Aristolochia,KNApSAcK
+156,C00021671,475-80-9,Aristolochic acid II,C16H9NO6,311.04298703,Aristolochia tubiflora,Aristolochia,KNApSAcK
+157,C00021671,475-80-9,Aristolochic acid II,C16H9NO6,311.04298703,Aristolochia manchuriensis,Aristolochia,KNApSAcK
+158,C00021671,475-80-9,Aristolochic acid II,C16H9NO6,311.04298703,Aristolochia manshuriensis,Aristolochia,KNApSAcK
+159,C00021671,475-80-9,Aristolochic acid II,C16H9NO6,311.04298703,Aristolochia mollissima,Aristolochia,KNApSAcK
+160,C00021673,81451-90-3,Aristololactam III,C17H11NO4,293.06880785,Aristolochia ponticum,Aristolochia,KNApSAcK
+161,C00021674,74683-16-2,Nectandrin B,C20H24O5,344.16237388,Aristolochia ponticum,Aristolochia,KNApSAcK
+162,C00021675,134306-18-6,7-Methoxyaristolochic acid II,C17H11NO7,341.05355171,Aristolochia ponticum,Aristolochia,KNApSAcK
+163,C00021676,133462-30-3,9-Methoxyaristolactam I,C18H13NO5,323.07937253,Aristolochia manshuriensis,Aristolochia,KNApSAcK
+164,C00021676,133462-30-3,9-Methoxyaristolactam I,C18H13NO5,323.07937253,Aristolochia auricularia,Aristolochia,KNApSAcK
+165,C00021676,133462-30-3,9-Methoxyaristolactam I,C18H13NO5,323.07937253,Aristolochia ponticum,Aristolochia,KNApSAcK
+166,C00021676,133462-30-3,9-Methoxyaristolactam I,C18H13NO5,323.07937253,Aristolochia mollissima,Aristolochia,KNApSAcK
+167,C00021676,133462-30-3,9-Methoxyaristolactam I,C18H13NO5,323.07937253,Aristolochia heterophylla Hemsl,Aristolochia,KNApSAcK
+168,C00021871,26620-70-2,Ishwarane,C15H24,204.18780077,Aristolochia indica,Aristolochia,KNApSAcK
+169,C00021872,28957-57-5,Ishwarol,C15H24O,220.18271539,Aristolochia indica,Aristolochia,KNApSAcK
+170,C00021873,22471-56-3,Ishwarone,C15H22O,218.16706532,Aristolochia indica,Aristolochia,KNApSAcK
+171,C00021874,41756-76-7,3-Oxoishwarane,C15H22O,218.16706532,Aristolochia debilis,Aristolochia,KNApSAcK
+172,C00021875,22471-59-6,Isoishwarone,C15H22O,218.16706532,Aristolochia indica,Aristolochia,KNApSAcK
+173,C00021876,74912-09-7,"7,12-Seco-12-ishwaranol",C15H26O,222.19836545,Aristolochia indica,Aristolochia,KNApSAcK
+174,C00022405,117073-99-1,(ent)-6-beta-Hydroxycopalic acid,C20H32O3,320.23514489,Aristolochia cymbifera,Aristolochia,KNApSAcK
+175,C00023154,5892-54-6,Crocetine dimethyl ester,C22H28O4,356.19875938,Aristolochia cymbifera,Aristolochia,KNApSAcK
+176,C00023341,117101-04-9,ent-14-Labden-8beta-ol,C20H36O,292.27661577,Aristolochia cymbifera,Aristolochia,KNApSAcK
+177,C00025268,3423-07-2,(+)-N-Methylcoclaurine,C18H21NO3,299.15214354,Aristolochia gigantea,Aristolochia,KNApSAcK
+178,C00025324,80510-09-4,N-cis-Feruloyltyramine,C18H19NO4,313.1314081,Aristolochia heterophylla Hemsl,Aristolochia,KNApSAcK
+179,C00025324,80510-09-4,N-cis-Feruloyltyramine,C18H19NO4,313.1314081,Aristolochia elegans,Aristolochia,KNApSAcK
+180,C00025334,66648-43-9,N-trans-Feruloyltyramine,C18H19NO4,313.1314081,Aristolochia pubescens,Aristolochia,KNApSAcK
+181,C00025334,66648-43-9,N-trans-Feruloyltyramine,C18H19NO4,313.1314081,Aristolochia elegans,Aristolochia,KNApSAcK
+182,C00025334,66648-43-9,N-trans-Feruloyltyramine,C18H19NO4,313.1314081,Aristolochia heterophylla Hemsl,Aristolochia,KNApSAcK
+183,C00025602,436-05-5,(-)-Curine,C36H38N2O6,594.27298696,Aristolochia indica L.,Aristolochia,KNApSAcK
+184,C00025602,436-05-5,(-)-Curine,C36H38N2O6,594.27298696,Aristolochia debilis,Aristolochia,KNApSAcK
+185,C00025602,436-05-5,(-)-Curine,C36H38N2O6,594.27298696,Aristolochia clematis L.,Aristolochia,KNApSAcK
+186,C00025602,436-05-5,(-)-Curine,C36H38N2O6,594.27298696,Aristolochia argentina Gris.,Aristolochia,KNApSAcK
+187,C00025602,436-05-5,(-)-Curine,C36H38N2O6,594.27298696,Aristolochia silpho,Aristolochia,KNApSAcK
+188,C00025602,436-05-5,(-)-Curine,C36H38N2O6,594.27298696,Aristolochia rotunda,Aristolochia,KNApSAcK
+189,C00025655,517-56-6,(+)-Corytuberine,C19H21NO4,327.14705817,Aristolochia gigantea,Aristolochia,KNApSAcK
+190,C00025787,55610-01-0,Cepharadione A,C18H11NO4,305.06880785,Aristolochia foveolata,Aristolochia,KNApSAcK
+191,C00025787,55610-01-0,Cepharadione A,C18H11NO4,305.06880785,Aristolochia triangularis,Aristolochia,KNApSAcK
+192,C00025787,55610-01-0,Cepharadione A,C18H11NO4,305.06880785,Aristolochia mollissima,Aristolochia,KNApSAcK
+193,C00025787,55610-01-0,Cepharadione A,C18H11NO4,305.06880785,Aristolochia heterophylla Hemsl,Aristolochia,KNApSAcK
+194,C00025791,53948-09-7,Aristolactam BII,C17H13NO3,279.08954329,Aristolochia triangularis,Aristolochia,KNApSAcK
+195,C00025791,53948-09-7,Aristolactam BII,C17H13NO3,279.08954329,Aristolochia heterophylla Hemsl,Aristolochia,KNApSAcK
+196,C00025812,486-39-5,Coclaurine,C17H19NO3,285.13649348,Aristolochia gigantea,Aristolochia,KNApSAcK
+197,C00025935,15444-20-9,Lysicamine,C18H13NO3,291.08954329,Aristolochia elegans,Aristolochia,KNApSAcK
+198,C00025935,15444-20-9,Lysicamine,C18H13NO3,291.08954329,Aristolochia contorta,Aristolochia,KNApSAcK
+199,C00025982,60008-01-7,Oblongine,C19H24NO3,314.17561864,Aristolochia triangularis,Aristolochia,KNApSAcK
+200,C00026064,21796-15-6,Thalifoline,C11H13NO3,207.08954329,Aristolochia elegans,Aristolochia,KNApSAcK
+201,C00027121,53948-07-5,Aristolactam AII,C16H11NO3,265.07389323,Aristolochia triangularis,Aristolochia,KNApSAcK
+202,C00027121,53948-07-5,Aristolactam AII,C16H11NO3,265.07389323,Aristolochia mollissima,Aristolochia,KNApSAcK
+203,C00027121,53948-07-5,Aristolactam AII,C16H11NO3,265.07389323,Aristolochia foveolata,Aristolochia,KNApSAcK
+204,C00027121,53948-07-5,Aristolactam AII,C16H11NO3,265.07389323,Aristolochia heterophylla Hemsl,Aristolochia,KNApSAcK
+205,C00027121,53948-07-5,Aristolactam AII,C16H11NO3,265.07389323,Aristolochia elegans,Aristolochia,KNApSAcK
+206,C00027121,53948-07-5,Aristolactam AII,C16H11NO3,265.07389323,Aristolochia manshuriensis,Aristolochia,KNApSAcK
+207,C00027122,97399-91-2,Aristolactam AIIIa,C16H11NO4,281.06880785,Aristolochia triangularis,Aristolochia,KNApSAcK
+208,C00027122,97399-91-2,Aristolactam AIIIa,C16H11NO4,281.06880785,Aristolochia elegans,Aristolochia,KNApSAcK
+209,C00027122,97399-91-2,Aristolactam AIIIa,C16H11NO4,281.06880785,Aristolochia heterophylla Hemsl,Aristolochia,KNApSAcK
+210,C00027122,97399-91-2,Aristolactam AIIIa,C16H11NO4,281.06880785,Aristolochia mollissima,Aristolochia,KNApSAcK
+211,C00027123,213530-43-9,Aristolactam C N-beta-D-glucoside,C22H19NO9,441.10598121,Aristolochia elegans,Aristolochia,KNApSAcK
+212,C00027123,213530-43-9,Aristolactam C N-beta-D-glucoside,C22H19NO9,441.10598121,Aristolochia mollissima,Aristolochia,KNApSAcK
+213,C00027123,213530-43-9,Aristolactam C N-beta-D-glucoside,C22H19NO9,441.10598121,Aristolochia heterophylla Hemsl,Aristolochia,KNApSAcK
+214,C00027124,710319-83-8,Aristolactam E,C17H13NO5,311.07937253,Aristolochia elegans,Aristolochia,KNApSAcK
+215,C00027125,17413-38-6,Aristolochic acid IVa,C17H11NO8,357.04846634,Aristolochia manchuriensis,Aristolochia,KNApSAcK
+216,C00027125,17413-38-6,Aristolochic acid IVa,C17H11NO8,357.04846634,Aristolochia mollissima,Aristolochia,KNApSAcK
+217,C00027125,17413-38-6,Aristolochic acid IVa,C17H11NO8,357.04846634,Aristolochia debilis,Aristolochia,KNApSAcK
+218,C00027125,17413-38-6,Aristolochic acid IVa,C17H11NO8,357.04846634,Aristolochia triangularis,Aristolochia,KNApSAcK
+219,C00027125,17413-38-6,Aristolochic acid IVa,C17H11NO8,357.04846634,Aristolochia elegans,Aristolochia,KNApSAcK
+220,C00027125,17413-38-6,Aristolochic acid IVa,C17H11NO8,357.04846634,Aristolochia heterophylla Hemsl,Aristolochia,KNApSAcK
+221,C00027125,17413-38-6,Aristolochic acid IVa,C17H11NO8,357.04846634,Aristolochia kaempferi,Aristolochia,KNApSAcK
+222,C00027126,309973-78-2,Aristolochic acid Ia methyl ester,C17H11NO7,341.05355171,Aristolochia kaempferi,Aristolochia,KNApSAcK
+223,C00027126,309973-78-2,Aristolochic acid Ia methyl ester,C17H11NO7,341.05355171,Aristolochia elegans,Aristolochia,KNApSAcK
+224,C00027127,84014-70-0,Aristoloside,C23H21NO13,519.10128977,Aristolochia elegans,Aristolochia,KNApSAcK
+225,C00027127,84014-70-0,Aristoloside,C23H21NO13,519.10128977,Aristolochia manshuriensis,Aristolochia,KNApSAcK
+226,C00027128,710319-85-0,Aristoquinoline A,C27H29NO7,479.19440229,Aristolochia elegans,Aristolochia,KNApSAcK
+227,C00027129,710319-86-1,Aristoquinoline B,C27H29NO7,479.19440229,Aristolochia elegans,Aristolochia,KNApSAcK
+228,C00027130,710319-87-2,Aristoquinoline C,C26H27NO7,465.17875222,Aristolochia elegans,Aristolochia,KNApSAcK
+229,C00027136,493-49-2,Corydaldine,C11H13NO3,207.08954329,Aristolochia elegans,Aristolochia,KNApSAcK
+230,C00027141,82644-81-3,Dioxodehydroasimilobine,C17H11NO4,293.06880785,Aristolochia liukiuensis,Aristolochia,KNApSAcK
+231,C00027141,82644-81-3,Dioxodehydroasimilobine,C17H11NO4,293.06880785,Aristolochia heterophylla Hemsl,Aristolochia,KNApSAcK
+232,C00027141,82644-81-3,Dioxodehydroasimilobine,C17H11NO4,293.06880785,Aristolochia mollissima,Aristolochia,KNApSAcK
+233,C00027141,82644-81-3,Dioxodehydroasimilobine,C17H11NO4,293.06880785,Aristolochia contorta,Aristolochia,KNApSAcK
+234,C00027141,82644-81-3,Dioxodehydroasimilobine,C17H11NO4,293.06880785,Aristolochia elegans,Aristolochia,KNApSAcK
+235,C00027141,82644-81-3,Dioxodehydroasimilobine,C17H11NO4,293.06880785,Aristolochia triangularis,Aristolochia,KNApSAcK
+236,C00027145,83375-15-9,Isomoschatoline,C18H13NO4,307.08445791,Aristolochia elegans,Aristolochia,KNApSAcK
+237,C00027151,6514-05-2,N-Methylcorydaldine,C12H15NO3,221.10519335,Aristolochia elegans,Aristolochia,KNApSAcK
+238,C00027155,157669-72-2,Northalifoline,C10H11NO3,193.07389323,Aristolochia elegans,Aristolochia,KNApSAcK
+239,C00027156,103188-44-9,N-trans-Cinnamoyltyramine,C17H17NO2,267.12592879,Aristolochia elegans,Aristolochia,KNApSAcK
+240,C00027283,106283-30-1,Aristolactam CII,C18H15NO4,309.10010798,Aristolochia triangularis,Aristolochia,KNApSAcK
+241,C00027285,85814-30-8,Aristolactam Ia,C16H9NO4,279.05315778,Aristolochia triangularis,Aristolochia,KNApSAcK
+242,C00027286,17413-41-1,Aristolactam I N-beta-glucoside,C23H21NO9,455.12163128,Aristolochia clematitis,Aristolochia,KNApSAcK
+243,C00027286,17413-41-1,Aristolactam I N-beta-glucoside,C23H21NO9,455.12163128,Aristolochia contorta,Aristolochia,KNApSAcK
+244,C00027286,17413-41-1,Aristolactam I N-beta-glucoside,C23H21NO9,455.12163128,Aristolochia heterophylla Hemsl,Aristolochia,KNApSAcK
+245,C00027286,17413-41-1,Aristolactam I N-beta-glucoside,C23H21NO9,455.12163128,Aristolochia pubescens,Aristolochia,KNApSAcK
+246,C00027286,17413-41-1,Aristolactam I N-beta-glucoside,C23H21NO9,455.12163128,Aristolochia mollissima,Aristolochia,KNApSAcK
+247,C00027287,217310-16-2,Aristoliukine A,C17H13NO5,311.07937253,Aristolochia kaempferi,Aristolochia,KNApSAcK
+248,C00027287,217310-16-2,Aristoliukine A,C17H13NO5,311.07937253,Aristolochia mollissima,Aristolochia,KNApSAcK
+249,C00027288,217310-32-2,Aristoliukine B,C17H11NO5,309.06372247,Aristolochia mollissima,Aristolochia,KNApSAcK
+250,C00027288,217310-32-2,Aristoliukine B,C17H11NO5,309.06372247,Aristolochia kaempferi,Aristolochia,KNApSAcK
+251,C00027289,310396-77-1,Aristoliukine C,C18H13NO5,323.07937253,Aristolochia kaempferi,Aristolochia,KNApSAcK
+252,C00027290,4849-91-6,Aristolochic acid III methyl ester,C18H13NO7,355.06920178,Aristolochia curcurbitifolia,Aristolochia,KNApSAcK
+253,C00027291,184955-22-4,Aristoloterpenate I,C32H31NO8,557.20496697,Aristolochia heterophylla Hemsl,Aristolochia,KNApSAcK
+254,C00027291,184955-22-4,Aristoloterpenate I,C32H31NO8,557.20496697,Aristolochia mollissima,Aristolochia,KNApSAcK
+255,C00027292,222412-32-0,Aristoloterpenate III,C32H31NO8,557.20496697,Aristolochia heterophylla Hemsl,Aristolochia,KNApSAcK
+256,C00027292,222412-32-0,Aristoloterpenate III,C32H31NO8,557.20496697,Aristolochia mollissima,Aristolochia,KNApSAcK
+257,C00027293,221148-60-3,Aristophyllide A,C32H31NO8,557.20496697,Aristolochia heterophylla,Aristolochia,KNApSAcK
+258,C00027293,221148-60-3,Aristophyllide A,C32H31NO8,557.20496697,Aristolochia mollissima,Aristolochia,KNApSAcK
+259,C00027294,221148-61-4,Aristophyllide B,C32H31NO8,557.20496697,Aristolochia heterophylla,Aristolochia,KNApSAcK
+260,C00027295,221148-62-5,Aristophyllide C,C31H29NO7,527.19440229,Aristolochia heterophylla,Aristolochia,KNApSAcK
+261,C00027296,221148-63-6,Aristophyllide D,C31H29NO7,527.19440229,Aristolochia heterophylla,Aristolochia,KNApSAcK
+262,C00027320,293314-08-6,Cepharanone C,C17H11NO5,309.06372247,Aristolochia curcurbitifolia,Aristolochia,KNApSAcK
+263,C00027326,196086-14-3,Constrictosine,C17H13NO3,279.08954329,Aristolochia constricta,Aristolochia,KNApSAcK
+264,C00027380,330847-76-2,Iseluxine,C9H9NO3,179.05824316,Aristolochia elegans,Aristolochia,KNApSAcK
+265,C00027418,111129-11-4,N-cis-Coumaroyltyramine,C17H17NO3,283.12084342,Aristolochia mollissima,Aristolochia,KNApSAcK
+266,C00027470,112501-42-5,Piperolactam A,C16H11NO3,265.07389323,Aristolochia heterophylla Hemsl,Aristolochia,KNApSAcK
+267,C00027515,13395-02-3,Aristolactam I,C17H11NO4,293.06880785,Aristolochia ponticum,Aristolochia,KNApSAcK
+268,C00027515,13395-02-3,Aristolactam I,C17H11NO4,293.06880785,Aristolochia auricularia,Aristolochia,KNApSAcK
+269,C00027515,13395-02-3,Aristolactam I,C17H11NO4,293.06880785,Aristolochia chilensis,Aristolochia,KNApSAcK
+270,C00027515,13395-02-3,Aristolactam I,C17H11NO4,293.06880785,Aristolochia tubiflora,Aristolochia,KNApSAcK
+271,C00027515,13395-02-3,Aristolactam I,C17H11NO4,293.06880785,Aristolochia heterophylla Hemsl,Aristolochia,KNApSAcK
+272,C00027518,7267-92-7,Aristolochic acid III,C17H11NO7,341.05355171,Aristolochia debilis,Aristolochia,KNApSAcK
+273,C00027518,7267-92-7,Aristolochic acid III,C17H11NO7,341.05355171,Aristolochia auricularia,Aristolochia,KNApSAcK
+274,C00027518,7267-92-7,Aristolochic acid III,C17H11NO7,341.05355171,Aristolochia cinnabarina,Aristolochia,KNApSAcK
+275,C00027519,4849-90-5,Aristolochic acid IIIa,C16H9NO7,327.03790165,Aristolochia kaempferi,Aristolochia,KNApSAcK
+276,C00027519,4849-90-5,Aristolochic acid IIIa,C16H9NO7,327.03790165,Aristolochia debilis,Aristolochia,KNApSAcK
+277,C00027519,4849-90-5,Aristolochic acid IIIa,C16H9NO7,327.03790165,Aristolochia heterophylla Hemsl,Aristolochia,KNApSAcK
+278,C00027519,4849-90-5,Aristolochic acid IIIa,C16H9NO7,327.03790165,Aristolochia manchuriensis,Aristolochia,KNApSAcK
+279,C00027519,4849-90-5,Aristolochic acid IIIa,C16H9NO7,327.03790165,Aristolochia tubiflora,Aristolochia,KNApSAcK
+280,C00027520,79185-75-4,7-Hydroxyaristolochate A,C17H11NO8,357.04846634,Aristolochia pubescens,Aristolochia,KNApSAcK
+281,C00027520,79185-75-4,7-Hydroxyaristolochate A,C17H11NO8,357.04846634,Aristolochia debilis,Aristolochia,KNApSAcK
+282,C00027520,79185-75-4,7-Hydroxyaristolochate A,C17H11NO8,357.04846634,Aristolochia tubiflora,Aristolochia,KNApSAcK
+283,C00027520,79185-75-4,7-Hydroxyaristolochate A,C17H11NO8,357.04846634,Aristolochia heterophylla,Aristolochia,KNApSAcK
+284,C00027520,79185-75-4,7-Hydroxyaristolochate A,C17H11NO8,357.04846634,Aristolochia curcurbitifolia,Aristolochia,KNApSAcK
+285,C00027520,79185-75-4,7-Hydroxyaristolochate A,C17H11NO8,357.04846634,Aristolochia foveolata,Aristolochia,KNApSAcK
+286,C00027569,123715-09-3,N-Formylnornantenine,C20H19NO5,353.12632273,Aristolochia brevipes,Aristolochia,KNApSAcK
+287,C00027598,81451-87-8,Tuberosinone,C17H9NO5,307.04807241,Aristolochia tuberosa,Aristolochia,KNApSAcK
+288,C00027598,81451-87-8,Tuberosinone,C17H9NO5,307.04807241,Aristolochia cinnabarina,Aristolochia,KNApSAcK
+289,C00027612,126589-93-3,(-)-Temuconine,C37H42N2O6,610.30428709,Aristolochia elegans,Aristolochia,KNApSAcK
+290,C00027790,133485-40-2,9-Methoxyaristolactam II,C17H11NO4,293.06880785,Aristolochia auricularia,Aristolochia,KNApSAcK
+291,C00027791,133462-31-4,9-Methoxyaristolactam IV,C19H15NO6,353.08993722,Aristolochia auricularia,Aristolochia,KNApSAcK
+292,C00028021,139163-25-0,Cepharanone A N-beta-D-glucoside,C22H19NO8,425.11106659,Aristolochia heterophylla Hemsl,Aristolochia,KNApSAcK
+293,C00029146,197006-51-2,Triangularine A,C17H11NO5,309.06372247,Aristolochia triangularis,Aristolochia,KNApSAcK
+294,C00029147,197006-83-0,Triangularine B,C29H31NO15,633.16936933,Aristolochia triangularis,Aristolochia,KNApSAcK
+295,C00029151,81451-88-9,Tuberosinone N-beta-D-glucoside,C23H19NO10,469.10089584,Aristolochia cinnabarina,Aristolochia,KNApSAcK
+296,C00029151,81451-88-9,Tuberosinone N-beta-D-glucoside,C23H19NO10,469.10089584,Aristolochia tuberosa,Aristolochia,KNApSAcK
+297,C00029580,1569-60-4,6-Methyl-5-hepten-2-ol,C8H16O,128.12011513,Aristolochia trilobata,Aristolochia,KNApSAcK
+298,C00029674,98-55-5,alpha-Terpineol,C10H18O,154.1357652,Aristolochia trilobata,Aristolochia,KNApSAcK
+299,C00029821,1058-61-3,Sitostenone,C29H48O,412.37051615,Aristolochia mollissima,Aristolochia,KNApSAcK
+300,C00029844,76-49-3,Borneol acetate,C12H20O2,196.14632988,Aristolochia trilobata,Aristolochia,KNApSAcK
+301,C00030751,99-76-3,Methylparaben,C8H8O3,152.04734412,Aristolochia elegans,Aristolochia,KNApSAcK
+302,C00030751,99-76-3,Methylparaben,C8H8O3,152.04734412,Aristolochia heterophylla Hemsl,Aristolochia,KNApSAcK
+303,C00030768,3943-74-6,Methyl vanillate,C9H10O4,182.05790881,Aristolochia heterophylla Hemsl,Aristolochia,KNApSAcK
+304,C00030768,3943-74-6,Methyl vanillate,C9H10O4,182.05790881,Aristolochia manshuriensis,Aristolochia,KNApSAcK
+305,C00030768,3943-74-6,Methyl vanillate,C9H10O4,182.05790881,Aristolochia foveolata,Aristolochia,KNApSAcK
+306,C00031089,2150-43-8,Methyl protocatechuate,C8H8O4,168.04225874,Aristolochia heterophylla,Aristolochia,KNApSAcK
+307,C00031394,23670-94-2,"Stigmast-4-en-3,6-dione",C29H46O2,426.34978071,Aristolochia heterophylla Hemsl,Aristolochia,KNApSAcK
+308,C00031608,70051-37-5,"Aromadendrane-4beta,10beta-diol",C15H26O2,238.19328007,Aristolochia heterophylla,Aristolochia,KNApSAcK
+309,C00032576,90147-12-9,"1,10-Epoxylepidozenal",C15H22O2,234.16197995,Aristolochia heterophylla Hemsl,Aristolochia,KNApSAcK
+310,C00032724,214132-44-2,Aristofolin B,C17H12O6,312.06338812,Aristolochia heterophylla Hemsl,Aristolochia,KNApSAcK
+311,C00032725,97399-89-8,Aristolactam IIIa,C16H9NO4,279.05315778,Aristolochia heterophylla Hemsl,Aristolochia,KNApSAcK
+312,C00032726,35142-05-3,Aristolic acid,C17H12O5,296.06847349,Aristolochia heterophylla Hemsl,Aristolochia,KNApSAcK
+313,C00032727,205241-14-1,Aristolide A,C17H12O5,296.06847349,Aristolochia heterophylla Hemsl,Aristolochia,KNApSAcK
+314,C00032728,205241-15-2,Aristolide B,C16H10O4,266.05790881,Aristolochia heterophylla Hemsl,Aristolochia,KNApSAcK
+315,C00032729,205746-58-3,Aristolochate C,C16H9NO7,327.03790165,Aristolochia pubescens,Aristolochia,KNApSAcK
+316,C00032729,205746-58-3,Aristolochate C,C16H9NO7,327.03790165,Aristolochia heterophylla Hemsl,Aristolochia,KNApSAcK
+317,C00032729,205746-58-3,Aristolochate C,C16H9NO7,327.03790165,Aristolochia foveolata,Aristolochia,KNApSAcK
+318,C00032730,10190-99-5,Aristolochate I,C17H11NO7,341.05355171,Aristolochia pubescens,Aristolochia,KNApSAcK
+319,C00032730,10190-99-5,Aristolochate I,C17H11NO7,341.05355171,Aristolochia kaempferi,Aristolochia,KNApSAcK
+320,C00032730,10190-99-5,Aristolochate I,C17H11NO7,341.05355171,Aristolochia heterophylla Hemsl,Aristolochia,KNApSAcK
+321,C00032730,10190-99-5,Aristolochate I,C17H11NO7,341.05355171,Aristolochia foveolata,Aristolochia,KNApSAcK
+322,C00032731,94213-68-0,Aristolochate II,C16H9NO6,311.04298703,Aristolochia pubescens,Aristolochia,KNApSAcK
+323,C00032731,94213-68-0,Aristolochate II,C16H9NO6,311.04298703,Aristolochia kaempferi,Aristolochia,KNApSAcK
+324,C00032731,94213-68-0,Aristolochate II,C16H9NO6,311.04298703,Aristolochia heterophylla Hemsl,Aristolochia,KNApSAcK
+325,C00032732,3580-54-9,Aristolochic acid II methyl ester,C17H11NO6,325.05863709,Aristolochia manshuriensis,Aristolochia,KNApSAcK
+326,C00032732,3580-54-9,Aristolochic acid II methyl ester,C17H11NO6,325.05863709,Aristolochia heterophylla Hemsl,Aristolochia,KNApSAcK
+327,C00032733,222403-62-5,Aristoloterpenate II,C31H29NO7,527.19440229,Aristolochia heterophylla Hemsl,Aristolochia,KNApSAcK
+328,C00032734,222403-63-6,Aristoloterpenate IV,C31H29NO7,527.19440229,Aristolochia heterophylla Hemsl,Aristolochia,KNApSAcK
+329,C00032766,205746-57-2,Aristolochate IVa,C17H11NO8,357.04846634,Aristolochia pubescens,Aristolochia,KNApSAcK
+330,C00032766,205746-57-2,Aristolochate IVa,C17H11NO8,357.04846634,Aristolochia heterophylla Hemsl,Aristolochia,KNApSAcK
+331,C00032864,536-60-7,Cumin alcohol,C10H14O,150.10446507,Aristolochia heterophylla Hemsl,Aristolochia,KNApSAcK
+332,C00033138,205371-29-5,Madolin A,C15H22O2,234.16197995,Aristolochia cucurbitafolia,Aristolochia,KNApSAcK
+333,C00033138,205371-29-5,Madolin A,C15H22O2,234.16197995,Aristolochia heterophylla Hemsl,Aristolochia,KNApSAcK
+334,C00033138,205371-29-5,Madolin A,C15H22O2,234.16197995,Aristolochia mollissima,Aristolochia,KNApSAcK
+335,C00033139,205239-54-9,Madolin B,C15H22O3,250.15689457,Aristolochia heterophylla Hemsl,Aristolochia,KNApSAcK
+336,C00033139,205239-54-9,Madolin B,C15H22O3,250.15689457,Aristolochia cucurbitafolia,Aristolochia,KNApSAcK
+337,C00033139,205239-54-9,Madolin B,C15H22O3,250.15689457,Aristolochia mollissima,Aristolochia,KNApSAcK
+338,C00033140,205239-61-8,Madolin E,C15H20O2,232.14632988,Aristolochia cucurbitafolia,Aristolochia,KNApSAcK
+339,C00033140,205239-61-8,Madolin E,C15H20O2,232.14632988,Aristolochia heterophylla Hemsl,Aristolochia,KNApSAcK
+340,C00033141,217481-21-5,Madolin F,C14H20O2,220.14632988,Aristolochia heterophylla Hemsl,Aristolochia,KNApSAcK
+341,C00033142,217481-22-6,Madolin G,C17H24O4,292.16745925,Aristolochia heterophylla Hemsl,Aristolochia,KNApSAcK
+342,C00033143,217481-24-8,Madolin H,C17H24O3,276.17254463,Aristolochia mollissima,Aristolochia,KNApSAcK
+343,C00033143,217481-24-8,Madolin H,C17H24O3,276.17254463,Aristolochia heterophylla Hemsl,Aristolochia,KNApSAcK
+344,C00033144,265319-48-0,Madolin I,C15H18O3,246.12559444,Aristolochia heterophylla Hemsl,Aristolochia,KNApSAcK
+345,C00033145,265319-49-1,Madolin J,C15H20O2,232.14632988,Aristolochia heterophylla Hemsl,Aristolochia,KNApSAcK
+346,C00033146,265319-50-4,Madolin K,C15H22O2,234.16197995,Aristolochia mollissima,Aristolochia,KNApSAcK
+347,C00033146,265319-50-4,Madolin K,C15H22O2,234.16197995,Aristolochia heterophylla Hemsl,Aristolochia,KNApSAcK
+348,C00033147,265319-51-5,Madolin L,C16H24O2,248.17763001,Aristolochia heterophylla Hemsl,Aristolochia,KNApSAcK
+349,C00033148,265319-52-6,Madolin M,C16H24O2,248.17763001,Aristolochia heterophylla Hemsl,Aristolochia,KNApSAcK
+350,C00033148,265319-52-6,Madolin M,C16H24O2,248.17763001,Aristolochia mollissima,Aristolochia,KNApSAcK
+351,C00033191,35142-06-4,Methyl aristolate,C18H14O5,310.08412356,Aristolochia heterophylla Hemsl,Aristolochia,KNApSAcK
+352,C00033192,1169-60-4,Methyl aristolochate,C18H13NO7,355.06920178,Aristolochia heterophylla Hemsl,Aristolochia,KNApSAcK
+353,C00033193,6702-50-7,Methyl isovanillate,C9H10O4,182.05790881,Aristolochia heterophylla Hemsl,Aristolochia,KNApSAcK
+354,C00033470,104613-44-7,Versicolactone B,C15H22O3,250.15689457,Aristolochia versicolar,Aristolochia,KNApSAcK
+355,C00033470,104613-44-7,Versicolactone B,C15H22O3,250.15689457,Aristolochia heterophylla Hemsl,Aristolochia,KNApSAcK
+356,C00033470,104613-44-7,Versicolactone B,C15H22O3,250.15689457,Aristolochia mollissima,Aristolochia,KNApSAcK
+357,C00033471,103963-36-6,Versicolactone C,C15H22O4,266.15180919,Aristolochia heterophylla Hemsl,Aristolochia,KNApSAcK
+358,C00033471,103963-36-6,Versicolactone C,C15H22O4,266.15180919,Aristolochia versicolar,Aristolochia,KNApSAcK
+359,C00033472,126770-37-4,Versicolactone D,C30H42O3,450.31339521,Aristolochia heterophylla Hemsl,Aristolochia,KNApSAcK
+360,C00033472,126770-37-4,Versicolactone D,C30H42O3,450.31339521,Aristolochia versicolar,Aristolochia,KNApSAcK
+361,C00034085,20375-37-5,N-p-Coumaroyltyramine,C17H17NO3,283.12084342,Aristolochia manshuriensis,Aristolochia,KNApSAcK
+362,C00034199,329201-15-2,Ridiculuflavone C,C33H24O11,596.13186161,Aristolochia ridicula,Aristolochia,KNApSAcK
+363,C00034200,1109222-02-7,Ridiculuflavone D,C31H20O11,568.10056148,Aristolochia ridicula,Aristolochia,KNApSAcK
+364,C00034201,1109222-04-9,Ridiculuflavonylchalcone C,C66H48O22,1192.26372322,Aristolochia ridicula,Aristolochia,KNApSAcK
+365,C00034356,58311-20-9,(-)-Kusunokinin,C21H22O6,370.14163844,Aristolochia pubescens,Aristolochia,KNApSAcK
+366,C00034613,22672-77-1,(S)-Norcoclaurine,C16H17NO3,271.12084342,Aristolochia gigantea,Aristolochia,KNApSAcK
+367,C00036281,55056-91-2,(-)-Isocorydine,C20H23NO4,341.16270823,Aristolochia pubescens,Aristolochia,KNApSAcK
+368,C00036761,80311-26-8,Aristolactam IIIa N-beta-glucoside,C22H19NO9,441.10598121,Aristolochia pubescens,Aristolochia,KNApSAcK
+369,C00036762,1398-05-6,Aristolin,C37H43NO8,629.29886736,Aristolochia elegans,Aristolochia,KNApSAcK
+370,C00036762,1398-05-6,Aristolin,C37H43NO8,629.29886736,Aristolochia pubescens,Aristolochia,KNApSAcK
+371,C00036847,40456-51-7,Bursehernin,C21H22O6,370.14163844,Aristolochia pubescens,Aristolochia,KNApSAcK
+372,C00036931,20257-75-4,Copalic acid,C20H32O2,304.24023027,Aristolochia esperanzae,Aristolochia,KNApSAcK
+373,C00036931,20257-75-4,Copalic acid,C20H32O2,304.24023027,Aristolochia galeata,Aristolochia,KNApSAcK
+374,C00037102,14696-33-4,ent-Kaur-15-en-17-ol,C20H32O,288.24531564,Aristolochia elegans,Aristolochia,KNApSAcK
+375,C00037102,14696-33-4,ent-Kaur-15-en-17-ol,C20H32O,288.24531564,Aristolochia pubescens,Aristolochia,KNApSAcK
+376,C00037102,14696-33-4,ent-Kaur-15-en-17-ol,C20H32O,288.24531564,Aristolochia triangularis,Aristolochia,KNApSAcK
+377,C00040734,221466-42-8,(-)-2beta-Hydroxykolavelool,C20H34O2,306.25588033,Aristolochia chamissonis Duch.,Aristolochia,KNApSAcK
+378,C00040743,221465-54-9,(+)-(4->2)-abeo-Kolavelool-3-oic acid,C20H32O3,320.23514489,Aristolochia chamissonis Duch.,Aristolochia,KNApSAcK
+379,C00040744,221466-43-9,(+)-13-epi-2alpha-Hydroxykolavelool,C20H34O2,306.25588033,Aristolochia chamissonis Duch.,Aristolochia,KNApSAcK
+380,C00040878,214132-42-0,Aristofolin A,C23H22O11,474.11621155,Aristolochia kaempferi,Aristolochia,KNApSAcK
+381,C00042413,17110-88-2,Copalic acid methyl ester,C21H34O2,318.25588033,Aristolochia esperanzae,Aristolochia,KNApSAcK
+382,C00044530,310396-78-2,Aristofolin E,C17H12O4,280.07355887,Aristolochia manshuriensis,Aristolochia,KNApSAcK
+383,C00044531,17448-02-1,Aristolochic acid IVa methyl ester,C19H15NO8,385.07976646,Aristolochia manshuriensis,Aristolochia,KNApSAcK
+384,C00044532,578715-13-6,Aristomanoside,C31H41NO15,667.24761965,Aristolochia manshuriensis,Aristolochia,KNApSAcK
+385,C00044698,18142-17-1,Dehydrooxoperezinone,C15H14O4,258.08920894,Aristolochia manshuriensis,Aristolochia,KNApSAcK
+386,C00044699,70195-23-2,Demethylaristofolin E,C16H10O4,266.05790881,Aristolochia manshuriensis,Aristolochia,KNApSAcK
+387,C00044700,174581-72-7,Demethylsonodione,C19H17NO5,339.11067266,Aristolochia manshuriensis,Aristolochia,KNApSAcK
+388,C00045652,477199-87-4,Aristelegin A,C21H20O7,384.12090299,Aristolochia elegans,Aristolochia,KNApSAcK
+389,C00045653,476687-29-3,Aristelegin B,C22H28O6,388.18858863,Aristolochia elegans,Aristolochia,KNApSAcK
+390,C00045654,477199-88-5,Aristelegin C,C21H24O6,372.1572885,Aristolochia elegans,Aristolochia,KNApSAcK
+391,C00045655,477199-82-9,Aristelegone A,C12H14O2,190.09937969,Aristolochia elegans,Aristolochia,KNApSAcK
+392,C00045656,477199-83-0,Aristelegone B,C13H16O3,220.10994438,Aristolochia elegans,Aristolochia,KNApSAcK
+393,C00045657,477199-84-1,Aristelegone C,C12H14O3,206.09429431,Aristolochia elegans,Aristolochia,KNApSAcK
+394,C00045658,477199-85-2,Aristelegone D,C13H18O3,222.12559444,Aristolochia elegans,Aristolochia,KNApSAcK
+395,C00045659,101110-74-1,Aristogin A,C16H14O5,286.08412356,Aristolochia elegans,Aristolochia,KNApSAcK
+396,C00045660,135303-87-6,Aristogin B,C16H14O5,286.08412356,Aristolochia elegans,Aristolochia,KNApSAcK
+397,C00045661,477199-86-3,Aristogin D,C16H14O6,302.07903818,Aristolochia elegans,Aristolochia,KNApSAcK
+398,C00045662,113275-15-3,Aristogin E,C16H16O5,288.09977362,Aristolochia elegans,Aristolochia,KNApSAcK
+399,C00046110,327185-01-3,Madolin W,C15H22O2,234.16197995,Aristolochia mollissima,Aristolochia,KNApSAcK
+400,C00047010,5566-15-4,Aristogin C,C17H16O6,316.09468824,Aristolochia elegans,Aristolochia,KNApSAcK
+401,C00047011,5522-73-6,Aristophyll A,C34H38N4O4,566.28930573,Aristolochia elegans,Aristolochia,KNApSAcK
+402,C00047012,40176-56-5,Aristophyll B,C34H36N4O4,564.27365567,Aristolochia elegans,Aristolochia,KNApSAcK
+403,C00049866,41756-45-0,(-)-ent-Kaur-16-en-19-ol,C22H34O2,330.25588033,Aristolochia triangularis,Aristolochia,KNApSAcK
+404,C00050151,205239-56-1,Madolin C,C14H22O,206.16706532,Aristolochia cucurbitafolia,Aristolochia,KNApSAcK
+405,C00050152,205239-58-3,Madolin D,C17H22O4,290.15180919,Aristolochia cucurbitafolia,Aristolochia,KNApSAcK
+406,C00050745,1266104-28-2,6-Methoxy-aristolactam,C17H13NO4,295.08445791,Aristolochia mollissima,Aristolochia,KNApSAcK
+407,C00051134,1573-40-6,Kaurene,C20H34,274.26605108,Aristolochia triangularis,Aristolochia,KNApSAcK
+408,C00051419,327184-98-5,Madolin R,C15H22O2,234.16197995,Aristolochia mollissima,Aristolochia,KNApSAcK
+409,C00051420,327184-99-6,Madolin S,C16H24O2,248.17763001,Aristolochia mollissima,Aristolochia,KNApSAcK
+410,C00051421,327185-00-2,Madolin U,C15H20O3,248.1412445,Aristolochia mollissima,Aristolochia,KNApSAcK
+411,C00051422,327185-02-4,Madolin X,C15H20O3,248.1412445,Aristolochia mollissima,Aristolochia,KNApSAcK
+412,C00051850,7339-87-9,4-Hydroxyphenylacetaldehyde,C8H8O2,136.0524295,Aristolochia gigantea,Aristolochia,KNApSAcK
+413,C00051851,622-54-8,4-Hydroxyphenylpyruvate,C9H7O4-,179.03443371,Aristolochia gigantea,Aristolochia,KNApSAcK
+414,C00051977,,3'-Hydroxy-7-O-methylcoclaurine,C18H21NO4,315.14705817,Aristolochia gigantea,Aristolochia,KNApSAcK
+415,C00055566,272777-78-3,(+)-Kolavelool,C20H34O,290.26096571,Aristolochia galeata,Aristolochia,KNApSAcK
+416,C00055636,900151-76-0,2-oxopopulifolic acid,C20H32O3,320.23514489,Aristolochia galeata,Aristolochia,KNApSAcK
+417,C00055636,900151-76-0,2-oxopopulifolic acid,C20H32O3,320.23514489,Aristolochia cymbifera,Aristolochia,KNApSAcK
+418,C00055636,900151-76-0,2-oxopopulifolic acid,C20H32O3,320.23514489,Aristolochia brasilienses,Aristolochia,KNApSAcK
+419,C00055716,611211-57-5,aristoloin I,C37H43NO8,629.29886736,Aristolochia elegans,Aristolochia,KNApSAcK
+420,C00055717,611211-59-7,aristoloin II,C36H41NO7,599.28830267,Aristolochia pubescens,Aristolochia,KNApSAcK
+421,C00055798,25466-49-3,Dihydrokolavenol,C20H36O,292.27661577,Aristolochia galeata,Aristolochia,KNApSAcK
+422,C00055799,23534-52-3,Dihydrokolavenol acetate,C22H38O2,334.28718046,Aristolochia galeata,Aristolochia,KNApSAcK
+423,C00055812,35020-38-7,ent-17-Hydroxy-kaur-15-en-19-oic acid,C20H30O3,318.21949482,Aristolochia rodriguesii,Aristolochia,KNApSAcK
+424,C00055813,16836-31-0,"ent-Kauran-16beta,17-diol",C20H34O2,306.25588033,Aristolochia elegans,Aristolochia,KNApSAcK
+425,C00055813,16836-31-0,"ent-Kauran-16beta,17-diol",C20H34O2,306.25588033,Aristolochia triangularis,Aristolochia,KNApSAcK
+426,C00055813,16836-31-0,"ent-Kauran-16beta,17-diol",C20H34O2,306.25588033,Aristolochia pubescens,Aristolochia,KNApSAcK
+427,C00055837,144939-40-2,Epipopulifolic acid,C20H34O2,306.25588033,Aristolochia cymbifera,Aristolochia,KNApSAcK
+428,C00059124,108766-27-4,Aristolochic acid VIa,C17H11NO8,357.04846634,Aristolochia debilis,Aristolochia,KNApSAcK
+429,C00059125,108779-46-0,Aristolochic acid Va,C17H11NO8,357.04846634,Aristolochia debilis,Aristolochia,KNApSAcK
+430,C00060157,15918-62-4,Aristolochic acid IV,C18H13NO8,371.0641164,Aristolochia debilis,Aristolochia,KNApSAcK
+431,C00061160,265319-47-9,Aristololactam C IV,C18H15NO5,325.0950226,Aristolochia heterophylla,Aristolochia,KNApSAcK
+432,C00061161,265319-53-7,22-(Feruloyloxy)docosanoic acid methyl ester,C33H54O6,546.39203946,Aristolochia heterophylla,Aristolochia,KNApSAcK
+433,C00061255,28398-06-3,1(10)-Aristolen-2-one,C15H22O,218.16706532,Aristolochia debilis,Aristolochia,KNApSAcK
+434,C00061689,38965-71-8,Aristolochic acid Ia,C16H9NO7,327.03790165,Aristolochia debilis,Aristolochia,KNApSAcK
+435,C00062416,60824-10-4,Picrorhizin,C20H28O14,492.14790561,Aristolochia heterophylla,Aristolochia,KNApSAcK
+436,C00063023,79185-74-3,Aristolochic acid VII,C18H13NO8,371.0641164,Aristolochia debilis,Aristolochia,KNApSAcK
+437,C00063451,94271-18-8,"(1S,1aR,7R,7aR,7bR)-1a,2,3,5,6,7,7a,7b-Octahydro-1,7,7a-trimethyl-1H-cyclopropa[a]naphthalene-1-carboxaldehyde",C15H22O,218.16706532,Aristolochia debilis,Aristolochia,KNApSAcK
+438,C00063452,94271-20-2,"[1aR-(1aalpha,4alpha,7alpha,7aalpha,7balpha)]-1,1a,4,5,6,7,7a,7b-Octahydro-4-hydroxy-1,1,7,7a-tetramethyl-2H-cyclopropa[a]naphthalen-2-one",C15H22O2,234.16197995,Aristolochia debilis,Aristolochia,KNApSAcK
+0,C00000136,470-82-6,"1,8-Cineol",C10H18O,154.1357652,Asarum heterotropoides var.mandsuricum,Asarum,KNApSAcK
+1,C00000136,470-82-6,"1,8-Cineol",C10H18O,154.1357652,Asarum sieboldii,Asarum,KNApSAcK
+2,C00000156,499-75-2,Carvacrol,C10H14O,150.10446507,Asarum sieboldii,Asarum,KNApSAcK
+3,C00000508,38451-63-7,Asatone,C24H32O8,448.209718,Asarum taitonense,Asarum,KNApSAcK
+4,C00000594,52665-70-0,Isoasatone,C24H32O8,448.209718,Asarum taitonense,Asarum,KNApSAcK
+5,C00000601,607-80-7,(+)-Sesamin,C20H18O6,354.11033831,Asarum maximum,Asarum,KNApSAcK
+6,C00000601,607-80-7,(+)-Sesamin,C20H18O6,354.11033831,Asiasarum sp.,Asarum,KNApSAcK
+7,C00000601,607-80-7,(+)-Sesamin,C20H18O6,354.11033831,Asarum heterotropoides var. mandshuricum,Asarum,KNApSAcK
+8,C00000601,607-80-7,(+)-Sesamin,C20H18O6,354.11033831,Asiasarum sieboldii,Asarum,KNApSAcK
+9,C00000619,97-53-0,Eugenol,C10H12O2,164.08372963,Asarum forbesii,Asarum,KNApSAcK
+10,C00000619,97-53-0,Eugenol,C10H12O2,164.08372963,Asarum sieboldii,Asarum,KNApSAcK
+11,C00000805,80-56-8,alpha-Pinene,C10H16,136.12520051,Asarum sieboldii,Asarum,KNApSAcK
+12,C00000805,80-56-8,alpha-Pinene,C10H16,136.12520051,Asarum heterotropoides var.mandshuricum,Asarum,KNApSAcK
+13,C00000839,13466-78-9,3-Carene,C10H16,136.12520051,Asarum heterotropoides,Asarum,KNApSAcK
+14,C00000853,123-35-3,beta-Myrcene,C10H16,136.12520051,Asarum sieboldii,Asarum,KNApSAcK
+15,C00000853,123-35-3,beta-Myrcene,C10H16,136.12520051,Asarum heteropoides var.mandshuricum,Asarum,KNApSAcK
+16,C00000861,586-62-9,alpha-Terpinolene,C10H16,136.12520051,Asarum sieboldii,Asarum,KNApSAcK
+17,C00000861,586-62-9,alpha-Terpinolene,C10H16,136.12520051,Asarum heterotropoides var.mandshuricum,Asarum,KNApSAcK
+18,C00001259,91-20-3,Naphthalene,C10H8,128.06260026,Asarum sieboldii,Asarum,KNApSAcK
+19,C00001526,313-67-7,aristolochic acid,C17H11NO7,341.05355171,Asarum canadense,Asarum,KNApSAcK
+20,C00002715,5273-86-9,beta-Asarone,C12H16O3,208.10994438,Asarum europaeum,Asarum,KNApSAcK
+21,C00002740,140-67-0,Estragol,C10H12O,148.08881501,Asarum sieboldii,Asarum,KNApSAcK
+22,C00002740,140-67-0,Estragol,C10H12O,148.08881501,Asarum heterotropoides var.mandsuricum,Asarum,KNApSAcK
+23,C00002741,93-15-2,Methyleugenol,C11H14O2,178.09937969,Asarum sieboldii,Asarum,KNApSAcK
+24,C00002760,6379-72-2,Methylisoeugenol,C11H14O2,178.09937969,Asarum europaeum,Asarum,KNApSAcK
+25,C00002762,607-91-0,Myristicin,C11H12O3,192.07864425,Asarum heteropoides var.mandshuricum,Asarum,KNApSAcK
+26,C00002762,607-91-0,Myristicin,C11H12O3,192.07864425,Asarum sieboldii,Asarum,KNApSAcK
+27,C00002771,94-59-7,Safrole,C10H10O2,162.06807956,Asarum sieboldii,Asarum,KNApSAcK
+28,C00002771,94-59-7,Safrole,C10H10O2,162.06807956,Asarum forbesii,Asarum,KNApSAcK
+29,C00002771,94-59-7,Safrole,C10H10O2,162.06807956,Asarum heterotropoides var.mandshuricum,Asarum,KNApSAcK
+30,C00002773,18607-93-7,"1-Allyl-2-methoxy-4,5-methylene-dioxybenzene",C11H12O3,192.07864425,Asarum caulescens,Asarum,KNApSAcK
+31,C00002773,18607-93-7,"1-Allyl-2-methoxy-4,5-methylene-dioxybenzene",C11H12O3,192.07864425,Asiasarum heterotropoides,Asarum,KNApSAcK
+32,C00002773,18607-93-7,"1-Allyl-2-methoxy-4,5-methylene-dioxybenzene",C11H12O3,192.07864425,Asarum sieboldii,Asarum,KNApSAcK
+33,C00002773,18607-93-7,"1-Allyl-2-methoxy-4,5-methylene-dioxybenzene",C11H12O3,192.07864425,Asarum maximum,Asarum,KNApSAcK
+34,C00002773,18607-93-7,"1-Allyl-2-methoxy-4,5-methylene-dioxybenzene",C11H12O3,192.07864425,Asarum heterotropoides var.mandsuricum,Asarum,KNApSAcK
+35,C00002773,18607-93-7,"1-Allyl-2-methoxy-4,5-methylene-dioxybenzene",C11H12O3,192.07864425,Asarum forbesii,Asarum,KNApSAcK
+36,C00002776,530-59-6,Sinapic acid,C11H12O5,224.06847349,Asarum europaeum,Asarum,KNApSAcK
+37,C00003040,99-87-6,p-Cymene,C10H14,134.10955045,Asarum sieboldii,Asarum,KNApSAcK
+38,C00003040,99-87-6,p-Cymene,C10H14,134.10955045,Asarum heterotropoides var.mandsuricum,Asarum,KNApSAcK
+39,C00007193,,(+)-Xanthoxylol,C20H20O6,356.12598837,Asarum heterotropoides var. mandshuricum,Asarum,KNApSAcK
+40,C00010866,1076-56-8,3-Methoxy-p-cymene,C11H16O,164.12011513,Asarum sieboldii,Asarum,KNApSAcK
+41,C00010868,5989-27-5,(+)-Limonene,C10H16,136.12520051,Asarum heterotropoides var.mandshuricum,Asarum,KNApSAcK
+42,C00010868,5989-27-5,(+)-Limonene,C10H16,136.12520051,Asarum sieboldii,Asarum,KNApSAcK
+43,C00011013,503-93-5,"2,6,6-Trimethyl-2,4-cycloheptadien-1-one",C10H14O,150.10446507,Asiasarum sieboldii,Asarum,KNApSAcK
+44,C00011050,131896-45-2,(+-)-Asarinol A,C10H14O2,166.09937969,Asiasarum sp.,Asarum,KNApSAcK
+45,C00011516,69010-38-4,Caulolactone B,C15H22O2,234.16197995,Asarum caulescens,Asarum,KNApSAcK
+46,C00011517,68984-94-1,Caulolactone A,C15H22O2,234.16197995,Asarum caulescens,Asarum,KNApSAcK
+47,C00011970,58580-60-2,(+)-Aoifuranone,C15H18O2,230.13067982,Asarum caulescens,Asarum,KNApSAcK
+48,C00012354,58511-21-0,Furanocaulesone A,C15H18O2,230.13067982,Asarum caulescens,Asarum,KNApSAcK
+49,C00012355,58535-46-9,Furanocaulesone B,C15H18O2,230.13067982,Asarum caulescens,Asarum,KNApSAcK
+50,C00012356,58511-22-1,Furanocaulesone C,C15H18O2,230.13067982,Asarum caulescens,Asarum,KNApSAcK
+51,C00012378,63426-84-6,Cauleslactone,C15H20O2,232.14632988,Asarum caulescens,Asarum,KNApSAcK
+52,C00012762,54707-47-0,"4(14),7(11)-Eudesmadien-8-one",C15H22O,218.16706532,Asarum caulescens,Asarum,KNApSAcK
+53,C00014504,6198-23-8,"Chalconaringenin 2',4'-di-O-glucoside",C27H32O15,596.17412036,Asarum macranthum,Asarum,KNApSAcK
+54,C00014504,6198-23-8,"Chalconaringenin 2',4'-di-O-glucoside",C27H32O15,596.17412036,Asarum canadense,Asarum,KNApSAcK
+55,C00014505,329272-53-9,Chalconaringenin 2'-O-glucoside 4'-O-gentobioside,C33H42O20,758.22694379,Asarum canadense,Asarum,KNApSAcK
+56,C00014664,,"4,6,4'-Trihydroxyaurone 4,6-di-O-glucoside",C27H30O15,594.15847029,Asarum longirhizomatosum,Asarum,KNApSAcK
+57,C00020393,54750-42-4,4-Hydroxy-beta-bulnesene,C15H24O,220.18271539,Asarum caulescens,Asarum,KNApSAcK
+58,C00029544,562-74-3,4-Terpineol,C10H18O,154.1357652,Asarum sieboldii,Asarum,KNApSAcK
+59,C00029674,98-55-5,alpha-Terpineol,C10H18O,154.1357652,Asarum sieboldii,Asarum,KNApSAcK
+60,C00029674,98-55-5,alpha-Terpineol,C10H18O,154.1357652,Asarum heterotropoides var.mandshuricum,Asarum,KNApSAcK
+61,C00031258,3387-41-5,4(10)-Thujene,C10H16,136.12520051,Asarum heterotropoides var.mandshuricum,Asarum,KNApSAcK
+62,C00031258,3387-41-5,4(10)-Thujene,C10H16,136.12520051,Asarum sieboldii,Asarum,KNApSAcK
+63,C00035530,133-05-1,Asarinin,C20H18O6,354.11033831,Asarum heterotropoides Fr.var.mandshuricum Kitag.,Asarum,KNApSAcK
+64,C00051119,18607-90-4,Kakuol,C10H10O4,194.05790881,Asarum sieboldii,Asarum,KNApSAcK
+65,C00051119,18607-90-4,Kakuol,C10H10O4,194.05790881,Asarum forbesii,Asarum,KNApSAcK
+66,C00051119,18607-90-4,Kakuol,C10H10O4,194.05790881,Asarum heterotropoides var.mandshuricum,Asarum,KNApSAcK
+0,C00000509,71332-97-3,Heterotropatrione,C36H48O12,672.314577,Heterotropa talai M,Heterotropa,KNApSAcK
+1,C00000510,71358-32-2,Isoheterotropatrione,C36H48O12,672.314577,Heterotropa talai M,Heterotropa,KNApSAcK
+2,C00005575,157201-73-5,Isorhamnetin 3-glucosyl-(1->6)-galactoside-7-glucoside,C34H42O22,802.21677303,Heterotropa aspera,Heterotropa,KNApSAcK
+3,C00011673,79421-85-5,Heterocurvistone,C15H24O2,236.17763001,Heterotropa curvistigma,Heterotropa,KNApSAcK
+0,C00000601,607-80-7,(+)-Sesamin,C20H18O6,354.11033831,Asiasarum sp.,Asiasarum,KNApSAcK
+1,C00000601,607-80-7,(+)-Sesamin,C20H18O6,354.11033831,Asiasarum sieboldii,Asiasarum,KNApSAcK
+2,C00002773,18607-93-7,"1-Allyl-2-methoxy-4,5-methylene-dioxybenzene",C11H12O3,192.07864425,Asiasarum heterotropoides,Asiasarum,KNApSAcK
+3,C00011013,503-93-5,"2,6,6-Trimethyl-2,4-cycloheptadien-1-one",C10H14O,150.10446507,Asiasarum sieboldii,Asiasarum,KNApSAcK
+4,C00011050,131896-45-2,(+-)-Asarinol A,C10H14O2,166.09937969,Asiasarum sp.,Asiasarum,KNApSAcK
+0,C00000206,69-72-7,Salicylic acid,C7H6O3,138.03169406,Menispermum dauricum,Menispermum,KNApSAcK
+1,C00001174,488-76-6,(-)-Viburnitol,C6H12O5,164.06847349,Menispermum canadense,Menispermum,KNApSAcK
+2,C00001817,478-61-5,Berbamine,C37H40N2O6,608.28863702,Menispermum dauricum,Menispermum,KNApSAcK
+3,C00001845,524-17-4,Dauricine,C38H44N2O6,624.31993715,Menispermum dauricum,Menispermum,KNApSAcK
+4,C00001845,524-17-4,Dauricine,C38H44N2O6,624.31993715,Menispermum canadense L.,Menispermum,KNApSAcK
+5,C00001845,524-17-4,Dauricine,C38H44N2O6,624.31993715,Menispermum canadense,Menispermum,KNApSAcK
+6,C00001918,115-53-7,Cucoline,C19H23NO4,329.16270823,Menispermum dahyricum,Menispermum,KNApSAcK
+7,C00001918,115-53-7,Cucoline,C19H23NO4,329.16270823,Menispermum dauricum DC.,Menispermum,KNApSAcK
+8,C00001919,518-34-3,(+)-Tetrandrine,C38H42N2O6,622.30428709,Menispermum dauricum DC.,Menispermum,KNApSAcK
+9,C00002310,18145-26-1,Acutumidine,C18H22ClNO6,383.11356515,Menispermum dauricum,Menispermum,KNApSAcK
+10,C00003486,11017-56-4,(+)-Strigol,C19H22O6,346.14163844,Menispermum dauricum,Menispermum,KNApSAcK
+11,C00025272,2810-21-1,(+)-Stepharine,C18H19NO3,297.13649348,Menispermum dauricum DC.,Menispermum,KNApSAcK
+12,C00025606,70553-76-3,Daurisoline,C37H42N2O6,610.30428709,Menispermum dauricum DC.,Menispermum,KNApSAcK
+13,C00025616,21446-35-5,"(-)-N,N'-Dimethyllindoldhamine",C36H40N2O6,596.28863702,Menispermum dauricum DC.,Menispermum,KNApSAcK
+14,C00025733,100009-83-4,"2,3-Dihydromenisporphine",C19H17NO4,323.11575804,Menispermum dauricum DC.,Menispermum,KNApSAcK
+15,C00025765,17088-50-5,Acutumine,C19H24ClNO6,397.12921522,Menispermum dauricum DC.,Menispermum,KNApSAcK
+16,C00025766,23512-32-5,Acutuminine,C19H24ClNO5,381.13430059,Menispermum dauricum DC.,Menispermum,KNApSAcK
+17,C00025773,96681-50-4,Bianfugecine,C18H13NO3,291.08954329,Menispermum dauricum DC.,Menispermum,KNApSAcK
+18,C00025774,96681-51-5,Bianfugedine,C18H11NO4,305.06880785,Menispermum dauricum DC.,Menispermum,KNApSAcK
+19,C00025775,88142-60-3,Bianfugenine,C20H17NO5,351.11067266,Menispermum dauricum DC.,Menispermum,KNApSAcK
+20,C00025829,450-14-6,Corypalline,C11H15NO2,193.11027873,Menispermum dauricum DC.,Menispermum,KNApSAcK
+21,C00025836,30984-80-6,Dauricinoline,C37H42N2O6,610.30428709,Menispermum dauricum DC.,Menispermum,KNApSAcK
+22,C00025837,29550-42-3,Dauricoline,C36H40N2O6,596.28863702,Menispermum dauricum DC.,Menispermum,KNApSAcK
+23,C00025838,155416-25-4,Dauricoside,C24H29NO9,475.18423153,Menispermum dauricum DC.,Menispermum,KNApSAcK
+24,C00025839,2831-75-6,Daurinoline,C37H42N2O6,610.30428709,Menispermum canadense L.,Menispermum,KNApSAcK
+25,C00025839,2831-75-6,Daurinoline,C37H42N2O6,610.30428709,Menispermum dauricum DC.,Menispermum,KNApSAcK
+26,C00025840,100009-82-3,Dauriporphinoline,C19H15NO5,337.0950226,Menispermum dauricum DC.,Menispermum,KNApSAcK
+27,C00025939,25342-82-9,(+)-Menisperine,C21H26NO4,356.18618333,Menispermum dauricum,Menispermum,KNApSAcK
+28,C00025940,83287-02-9,Menisporphine,C19H15NO4,321.10010798,Menispermum dauricum DC.,Menispermum,KNApSAcK
+29,C00025947,73487-06-6,"N,N-Dimethyllindcarpine",C20H24NO4,342.17053326,Menispermum canadense L.,Menispermum,KNApSAcK
+30,C00026062,125617-79-0,Thalflavine,C12H13NO4,235.08445791,Menispermum dauricum DC.,Menispermum,KNApSAcK
+31,C00026064,21796-15-6,Thalifoline,C11H13NO3,207.08954329,Menispermum dauricum,Menispermum,KNApSAcK
+32,C00026087,483-44-3,Cheilanthifoline,C19H19NO4,325.1314081,Menispermum dauricum DC.,Menispermum,KNApSAcK
+33,C00026094,16562-13-3,Stepholidine,C19H21NO4,327.14705817,Menispermum dauricum DC.,Menispermum,KNApSAcK
+34,C00026122,83218-34-2,Dehydrocheilanthifoline,C21H18NO4,348.12358307,Menispermum canadense Linn.,Menispermum,KNApSAcK
+35,C00026138,14028-97-8,N-Methyllindcarpine,C19H21NO4,327.14705817,Menispermum canadense L.,Menispermum,KNApSAcK
+36,C00027151,6514-05-2,N-Methylcorydaldine,C12H15NO3,221.10519335,Menispermum dauricum,Menispermum,KNApSAcK
+37,C00027155,157669-72-2,Northalifoline,C10H11NO3,193.07389323,Menispermum dauricum,Menispermum,KNApSAcK
+38,C00027334,345640-99-5,Dauricumidine,C18H22ClNO6,383.11356515,Menispermum dauricum,Menispermum,KNApSAcK
+39,C00027335,345641-00-1,Dauricumine,C19H24ClNO6,397.12921522,Menispermum dauricum,Menispermum,KNApSAcK
+40,C00027336,356047-64-8,Daurioxoisoporphine A,C26H22N2O4,426.15795721,Menispermum dauricum,Menispermum,KNApSAcK
+41,C00027337,356047-65-9,Daurioxoisoporphine B,C19H16N2O4,336.11100701,Menispermum dauricum,Menispermum,KNApSAcK
+42,C00027338,356047-66-0,Daurioxoisoporphine C,C19H16N2O3,320.11609239,Menispermum dauricum,Menispermum,KNApSAcK
+43,C00027339,356047-67-1,Daurioxoisoporphine D,C18H13NO4,307.08445791,Menispermum dauricum,Menispermum,KNApSAcK
+44,C00027340,219794-33-9,Dechloroacutumine,C19H25NO6,363.16818754,Menispermum dauricum,Menispermum,KNApSAcK
+45,C00035573,873078-37-6,Dechlorodauricumine,C19H25NO6,363.16818754,Menispermum dauricum,Menispermum,KNApSAcK
+0,C00000919,7235-40-7,beta-Carotene,C40H56,536.43820179,Ceramium rubrum,Ceramium,KNApSAcK
+1,C00000920,472-70-8,beta-Cryptoxanthin,C40H56O,552.43311641,Ceramium rubrum,Ceramium,KNApSAcK
+2,C00003765,7488-99-5,alpha-Carotene,C40H56,536.43820179,Ceramium rubrum,Ceramium,KNApSAcK
+3,C00003770,24480-38-4,alpha-Cryptoxanthin,C40H56O,552.43311641,Ceramium rubrum,Ceramium,KNApSAcK
+4,C00003773,3351-86-8,Fucoxanthin,C42H58O6,658.42333958,Ceramium rubrum,Ceramium,KNApSAcK
+5,C00003776,127-40-2,Lutein,C40H56O2,568.42803103,Ceramium rubrum,Ceramium,KNApSAcK
+6,C00022837,127514-19-6,"(3'R,6'S)-beta,epsilon-Caroten-3'-ol",C40H56O,552.43311641,Ceramium rubrum,Ceramium,KNApSAcK
+0,C00000125,4356-52-9,Glucobrassicin,C16H20N2O9S2,448.06102171,Gynandropsis trichopus,Trichopus,KNApSAcK
+1,C00000126,5187-84-8,Neoglucobrassicin,C17H22N2O10S2,478.0715864,Gynandropsis trichopus,Trichopus,KNApSAcK
+0,C00000149,6750-60-3,Espatulenol,C15H24O,220.18271539,Litsea cubeba,Cubeba,KNApSAcK
+1,C00000358,111-27-3,Hexan-1-ol,C6H14O,102.10446507,Litsea cubeba,Cubeba,KNApSAcK
+2,C00000619,97-53-0,Eugenol,C10H12O2,164.08372963,Litsea cubeba,Cubeba,KNApSAcK
+3,C00000659,40957-99-1,Medioresinol,C21H24O7,388.15220312,Piper cubeba,Cubeba,KNApSAcK
+4,C00000726,81861-74-7,Magnosalin,C24H32O6,416.21988875,Piper cubeba,Cubeba,KNApSAcK
+5,C00000750,103-82-2,Phenylacetic acid,C8H8O2,136.0524295,Litsea cubeba,Cubeba,KNApSAcK
+6,C00000805,80-56-8,alpha-Pinene,C10H16,136.12520051,Litsea cubeba,Cubeba,KNApSAcK
+7,C00000816,127-91-3,beta-Pinene,C10H16,136.12520051,Litsea cubeba,Cubeba,KNApSAcK
+8,C00000823,138-86-3,Limonene,C10H16,136.12520051,Litsea cubeba,Cubeba,KNApSAcK
+9,C00000843,3338-55-4,cis-beta-Ocimene,C10H16,136.12520051,Litsea cubeba,Cubeba,KNApSAcK
+10,C00000844,106-22-9,Citronellol,C10H20O,156.15141526,Litsea cubeba,Cubeba,KNApSAcK
+11,C00000845,106-24-1,(E)-geraniol,C10H18O,154.1357652,Litsea cubeba,Cubeba,KNApSAcK
+12,C00000853,123-35-3,beta-Myrcene,C10H16,136.12520051,Litsea cubeba,Cubeba,KNApSAcK
+13,C00000855,106-25-2,beta-Nerol,C10H18O,154.1357652,Litsea cubeba,Cubeba,KNApSAcK
+14,C00000862,3779-61-1,trans-beta-Ocimene,C10H16,136.12520051,Litsea cubeba,Cubeba,KNApSAcK
+15,C00001176,64-19-7,Acetic acid,C2H4O2,60.02112937,Litsea cubeba,Cubeba,KNApSAcK
+16,C00001189,503-74-2,3-Methylbutanoic acid,C5H10O2,102.06807956,Litsea cubeba,Cubeba,KNApSAcK
+17,C00001308,141-78-6,Ethyl acetate,C4H8O2,88.0524295,Litsea cubeba,Cubeba,KNApSAcK
+18,C00001822,476-70-0,(+)-Boldine,C19H21NO4,327.14705817,Litsea cubeba,Cubeba,KNApSAcK
+19,C00001862,6808-72-6,Glaziovine,C18H19NO3,297.13649348,Litsea cubeba,Cubeba,KNApSAcK
+20,C00001869,3019-51-0,(S)-Isoboldine,C19H21NO4,327.14705817,Litsea cubeba,Cubeba,KNApSAcK
+21,C00001872,475-67-2,Isocorydine,C20H23NO4,341.16270823,Litsea cubeba,Cubeba,KNApSAcK
+22,C00001910,485-19-8,(+)-Reticuline,C19H23NO4,329.16270823,Litsea cubeba,Cubeba,KNApSAcK
+23,C00002591,18423-69-3,Cubebin,C20H20O6,356.12598837,Piper cubeba,Cubeba,KNApSAcK
+24,C00002598,40456-50-6,(-)-Deoxypodorhizone,C22H24O7,400.15220312,Piper cubeba,Cubeba,KNApSAcK
+25,C00002599,24563-03-9,Dihydrocubebin,C20H22O6,358.14163844,Piper cubeba,Cubeba,KNApSAcK
+26,C00002608,26543-89-5,Hinokinin,C20H18O6,354.11033831,Piper cubeba,Cubeba,KNApSAcK
+27,C00002663,60-12-8,2-Phenylethanol,C8H10O,122.07316494,Litsea cubeba,Cubeba,KNApSAcK
+28,C00002683,5463-22-9,Vanillin,C8H8O3,152.04734412,Litsea cubeba,Cubeba,KNApSAcK
+29,C00003035,141-27-5,trans-Citral,C10H16O,152.12011513,Litsea cubeba,Cubeba,KNApSAcK
+30,C00003035,141-27-5,trans-Citral,C10H16O,152.12011513,Piper cubeba,Cubeba,KNApSAcK
+31,C00003036,106-26-3,cis-Citral,C10H16O,152.12011513,Litsea cubeba,Cubeba,KNApSAcK
+32,C00003036,106-26-3,cis-Citral,C10H16O,152.12011513,Piper cubeba,Cubeba,KNApSAcK
+33,C00003040,99-87-6,p-Cymene,C10H14,134.10955045,Litsea cubeba,Cubeba,KNApSAcK
+34,C00003043,7705-14-8,Dipentene,C10H16,136.12520051,Piper cubeba,Cubeba,KNApSAcK
+35,C00003047,78-70-6,(+-)-Linalool,C10H18O,154.1357652,Litsea cubeba,Cubeba,KNApSAcK
+36,C00003051,99-83-2,alpha-Phellandrene,C10H16,136.12520051,Litsea cubeba,Cubeba,KNApSAcK
+37,C00003110,87-44-5,beta-Caryophyllene,C15H24,204.18780077,Litsea cubeba,Cubeba,KNApSAcK
+38,C00003120,17699-14-8,alpha-Cubebene,C15H24,204.18780077,Piper cubeba,Cubeba,KNApSAcK
+39,C00003121,13744-15-5,beta-Cubebene,C15H24,204.18780077,Piper cubeba,Cubeba,KNApSAcK
+40,C00003130,502-61-4,alpha-Farnesene,C15H24,204.18780077,Litsea cubeba,Cubeba,KNApSAcK
+41,C00003131,18794-84-8,E-beta-farnesene,C15H24,204.18780077,Litsea cubeba,Cubeba,KNApSAcK
+42,C00003147,6753-98-6,alpha-Caryophyllene (obsol.),C15H24,204.18780077,Litsea cubeba,Cubeba,KNApSAcK
+43,C00007242,495-61-4,beta-Bisabolene,C15H24,204.18780077,Litsea cubeba,Cubeba,KNApSAcK
+44,C00007453,33880-83-0,beta-Elemene,C15H24,204.18780077,Litsea cubeba,Cubeba,KNApSAcK
+45,C00007535,122-78-1,Benzeneacetaldehyde,C8H8O,120.05751488,Litsea cubeba,Cubeba,KNApSAcK
+46,C00007630,20307-83-9,beta-Sesquiphellandrene,C15H24,204.18780077,Litsea cubeba,Cubeba,KNApSAcK
+47,C00010825,470-67-7,"1,4-Cineole",C10H18O,154.1357652,Piper cubeba,Cubeba,KNApSAcK
+48,C00011720,23986-74-5,(-)-Germacrene D,C15H24,204.18780077,Litsea cubeba,Cubeba,KNApSAcK
+49,C00011971,32531-56-9,Bicycloelemene,C15H24,204.18780077,Litsea cubeba,Cubeba,KNApSAcK
+50,C00012425,24703-35-3,(+)-Bicyclogermacrene,C15H24,204.18780077,Litsea cubeba,Cubeba,KNApSAcK
+51,C00019417,139906-75-5,Oblongin,C16H10O6,298.04773805,Litsea cubeba,Cubeba,KNApSAcK
+52,C00019560,64-17-5,Ethanol,C2H6O,46.04186481,Litsea cubeba,Cubeba,KNApSAcK
+53,C00020130,24268-39-1,gamma-Muurolene,C15H24,204.18780077,Litsea cubeba,Cubeba,KNApSAcK
+54,C00020136,54324-03-7,Bicyclosesquiphellandrene,C15H24,204.18780077,Piper cubeba,Cubeba,KNApSAcK
+55,C00020145,19912-67-5,1-Epicubenol,C15H26O,222.19836545,Piper cubeba,Cubeba,KNApSAcK
+56,C00025675,2169-44-0,(+)-N-Methyllaurotetanine,C20H23NO4,341.16270823,Litsea cubeba,Cubeba,KNApSAcK
+57,C00025931,60755-81-9,Liriotulipiferine,C19H21NO4,327.14705817,Litsea cubeba,Cubeba,KNApSAcK
+58,C00025937,6801-40-7,Magnocurarine,C19H24NO3,314.17561864,Litsea cubeba,Cubeba,KNApSAcK
+59,C00025982,60008-01-7,Oblongine,C19H24NO3,314.17561864,Litsea cubeba,Cubeba,KNApSAcK
+60,C00026138,14028-97-8,N-Methyllindcarpine,C19H21NO4,327.14705817,Litsea cubeba,Cubeba,KNApSAcK
+61,C00027170,6872-88-4,Xanthoplanine,C21H26NO4,356.18618333,Litsea cubeba,Cubeba,KNApSAcK
+62,C00027409,128-76-7,Laurotetanine,C19H21NO4,327.14705817,Litsea cubeba,Cubeba,KNApSAcK
+63,C00027433,5890-18-6,Laurolitsine,C18H19NO4,313.1314081,Litsea cubeba,Cubeba,KNApSAcK
+64,C00027438,475-70-7,Norisocorydine,C19H21NO4,327.14705817,Litsea cubeba,Cubeba,KNApSAcK
+65,C00027551,70560-83-7,Isodomesticine,C19H19NO4,325.1314081,Litsea cubeba,Cubeba,KNApSAcK
+66,C00027559,172924-22-0,Litcubine,C19H22NO4,328.1548832,Litsea cubeba,Cubeba,KNApSAcK
+67,C00027559,172924-22-0,Litcubine,C19H22NO4,328.1548832,Lisea cubeba,Cubeba,KNApSAcK
+68,C00027560,172924-24-2,Litcubinine,C18H20NO4,314.13923313,Litsea cubeba,Cubeba,KNApSAcK
+69,C00027560,172924-24-2,Litcubinine,C18H20NO4,314.13923313,Lisea cubeba,Cubeba,KNApSAcK
+70,C00027601,152230-58-5,(-)-8-O-Methyloblongine,C20H26NO3,328.1912687,Litsea cubeba,Cubeba,KNApSAcK
+71,C00028482,137031-56-2,Litebamine,C20H21NO4,339.14705817,Litsea cubeba,Cubeba,KNApSAcK
+72,C00029461,116-53-0,2-Methylbutanoic acid,C5H10O2,102.06807956,Litsea cubeba,Cubeba,KNApSAcK
+73,C00030165,112-95-8,Eicosane,C20H42,282.32865134,Litsea cubeba,Cubeba,KNApSAcK
+74,C00030470,629-94-7,Heneicosane,C21H44,296.3443014,Litsea cubeba,Cubeba,KNApSAcK
+75,C00030472,629-78-7,Heptadecane,C17H36,240.28170115,Litsea cubeba,Cubeba,KNApSAcK
+76,C00030827,629-92-5,Nonadecane,C19H40,268.31300128,Litsea cubeba,Cubeba,KNApSAcK
+77,C00030958,629-99-2,n-Pentacosane,C25H52,352.40690166,Litsea cubeba,Cubeba,KNApSAcK
+78,C00031258,3387-41-5,4(10)-Thujene,C10H16,136.12520051,Litsea cubeba,Cubeba,KNApSAcK
+79,C00032307,646-31-1,Tetracosane,C24H50,338.39125159,Litsea cubeba,Cubeba,KNApSAcK
+80,C00032409,638-67-5,n-Tridecane,C23H48,324.37560153,Litsea cubeba,Cubeba,KNApSAcK
+81,C00033734,21284-22-0,Cubenol,C15H26O,222.19836545,Piper cubeba,Cubeba,KNApSAcK
+82,C00034880,111-71-7,Heptanal,C7H14O,114.10446507,Litsea cubeba,Cubeba,KNApSAcK
+83,C00035592,629-97-0,Docosane,C22H46,310.35995147,Litsea cubeba,Cubeba,KNApSAcK
+84,C00035822,5392-40-5,Citral,C10H16O,152.12011513,Litsea cubeba,Cubeba,KNApSAcK
+85,C00035823,106-23-0,Citronellal,C10H18O,154.1357652,Litsea cubeba,Cubeba,KNApSAcK
+86,C00036322,113532-12-0,(+)-Zeylenol,C21H20O7,384.12090299,Piper cubeba,Cubeba,KNApSAcK
+87,C00041984,86992-94-1,(-)-Clusin,C22H26O7,402.16785319,Piper cubeba,Cubeba,KNApSAcK
+88,C00041985,96238-92-5,(-)-Cubebinin,C24H32O8,448.209718,Piper cubeba,Cubeba,KNApSAcK
+89,C00041986,73149-51-6,(-)-Dihydroclusin,C22H28O7,404.18350325,Piper cubeba,Cubeba,KNApSAcK
+90,C00042219,2883-98-9,alpha-Asarone,C12H16O3,208.10994438,Piper cubeba,Cubeba,KNApSAcK
+91,C00042499,93395-17-6,Ethoxyclusin,C24H30O7,430.19915331,Piper cubeba,Cubeba,KNApSAcK
+92,C00048329,18252-44-3,beta-Copaene,C15H24,204.18780077,Litsea cubeba,Cubeba,KNApSAcK
+93,C00050420,28664-35-9,"4,5-Dimethyl-3-hydroxy-2(5H)-furanone",C6H8O3,128.04734412,Litsea cubeba,Cubeba,KNApSAcK
+94,C00050424,513-86-0,3-hydroxy-2-Butanone,C4H8O2,88.0524295,Litsea cubeba,Cubeba,KNApSAcK
+95,C00050468,123-51-3,Isoamyl alcohol,C5H12O,88.08881501,Litsea cubeba,Cubeba,KNApSAcK
+96,C00050619,84897-03-2,"(8R,8'R,9'S)-5-Methoxyclusin",C23H28O8,432.17841787,Piper cubeba,Cubeba,KNApSAcK
+97,C00052460,152230-57-4,(-)-Oblongine,C19H24NO3,314.17561864,Litsea cubeba,Cubeba,KNApSAcK
+98,C00052504,64142-78-5,8-Hydroxylinalool,C10H18O2,170.13067982,Litsea cubeba,Cubeba,KNApSAcK
+99,C00052671,13741-21-4,"3,7-Dimethyl-1,5-octadiene-3,7-diol",C10H18O2,170.13067982,Litsea cubeba,Cubeba,KNApSAcK
+100,C00053324,20053-88-7,Hotrienol,C10H16O,152.12011513,Litsea cubeba,Cubeba,KNApSAcK
+101,C00053842,134454-31-2,"trans-4,5-epoxy-(2E)-dec-2-enal",C10H16O2,168.11502975,Litsea cubeba,Cubeba,KNApSAcK
+102,C00054897,112448-63-2,Dehydrotrichostin,C21H20O7,384.12090299,Piper cubeba,Cubeba,KNApSAcK
+103,C00055160,93395-16-5,Cordigerin,C24H30O8,446.19406794,Piper cubeba,Cubeba,KNApSAcK
+104,C00055161,101751-71-7,Cubebinone,C23H26O8,430.16276781,Piper cubeba,Cubeba,KNApSAcK
+105,C00056346,101751-72-8,Isoyatein,C22H24O7,400.15220312,Piper cubeba,Cubeba,KNApSAcK
+106,C00056481,112448-60-9,Hemiariensin,C22H24O7,400.15220312,Piper cubeba,Cubeba,KNApSAcK
+107,C00056610,1198362-81-0,N-Methoxycarbonyllaurotetanine,C21H23NO6,385.15253747,Litsea cubeba,Cubeba,KNApSAcK
+108,C00056611,1198362-82-1,N-Methoxycarbonylnorglaucine,C22H25NO6,399.16818754,Litsea cubeba,Cubeba,KNApSAcK
+109,C00056755,1258948-11-6,Litseacubebic acid,C9H14O3,170.09429431,Litsea cubeba,Cubeba,KNApSAcK
+110,C00057030,134476-89-4,Piperenol A,C21H20O7,384.12090299,Piper cubeba,Cubeba,KNApSAcK
+111,C00057031,134476-91-8,Piperenol B,C21H20O7,384.12090299,Piper cubeba,Cubeba,KNApSAcK
+112,C00057032,134476-92-9,Piperenol A triacetate,C27H26O10,510.15259705,Piper cubeba,Cubeba,KNApSAcK
+113,C00058438,138663-70-4,Cubebaol,C10H20O2,172.14632988,Litsea cubeba,Cubeba,KNApSAcK
+0,C00007213,528-64-3,(-)-Galbacin,C20H20O5,340.13107375,Holostylis reniformis,Holostylis,KNApSAcK
+1,C00034748,887501-31-7,(-)-8'-epi-Aristoligol,C22H28O5,372.193674,Holostylis reniformis,Holostylis,KNApSAcK
+2,C00034749,114029-72-0,(-)-Aristoligone,C22H26O5,370.17802394,Holostylis reniformis,Holostylis,KNApSAcK
+3,C00034750,111188-75-1,(-)-Aristotetralone,C21H22O5,354.14672381,Holostylis reniformis,Holostylis,KNApSAcK
+4,C00034751,887501-29-3,(-)-Cagayanone A,C20H18O5,338.11542369,Holostylis reniformis,Holostylis,KNApSAcK
+5,C00034752,887501-30-6,(-)-Cagayanone B,C20H18O5,338.11542369,Holostylis reniformis,Holostylis,KNApSAcK
+6,C00034753,887501-32-8,(-)-Cyclogalgravin,C22H26O4,354.18310932,Holostylis reniformis,Holostylis,KNApSAcK
+7,C00034919,117047-77-5,Wulignan A2,C20H22O5,342.14672381,Holostylis reniformis,Holostylis,KNApSAcK
+0,C00000891,650-69-1,beta-Citraurin,C30H40O2,432.30283052,Passiflora edulis,Passiflora,KNApSAcK
+1,C00000905,13920-14-4,"15,15'-cis-Phytoene",C40H64,544.50080204,Passiflora edulis,Passiflora,KNApSAcK
+2,C00000909,2361-24-2,Prolycopene,C40H56,536.43820179,Passiflora edulis,Passiflora,KNApSAcK
+3,C00000911,502-65-8,Lycopene,C40H56,536.43820179,Passiflora edulis,Passiflora,KNApSAcK
+4,C00000912,502-64-7,Neurosporene,C40H58,538.45385185,Passiflora edulis,Passiflora,KNApSAcK
+5,C00000913,27664-65-9,15-cis-Phytofluene,C40H62,542.48515198,Passiflora edulis,Passiflora,KNApSAcK
+6,C00000919,7235-40-7,beta-Carotene,C40H56,536.43820179,Passiflora edulis,Passiflora,KNApSAcK
+7,C00000920,472-70-8,beta-Cryptoxanthin,C40H56O,552.43311641,Passiflora edulis,Passiflora,KNApSAcK
+8,C00000926,472-93-5,gamma-Carotene,C40H56,536.43820179,Passiflora edulis,Passiflora,KNApSAcK
+9,C00001016,5128-44-9,"5-Hydroxy-7,4'-dimethoxyflavone",C17H14O5,298.08412356,Passiflora foetida,Passiflora,KNApSAcK
+10,C00001055,4261-42-1,Isoorientin,C21H20O11,448.10056148,Passiflora spp.,Passiflora,KNApSAcK
+11,C00001059,38953-85-4,Isovitexin,C21H20O10,432.10564686,Passiflora spp.,Passiflora,KNApSAcK
+12,C00001059,38953-85-4,Isovitexin,C21H20O10,432.10564686,Passiflora serratodigitata,Passiflora,KNApSAcK
+13,C00001078,28608-75-5,Orientin,C21H20O11,448.10056148,Passiflora incarnata,Passiflora,KNApSAcK
+14,C00001078,28608-75-5,Orientin,C21H20O11,448.10056148,Passiflora serratodigitata,Passiflora,KNApSAcK
+15,C00001110,3681-93-4,Vitexin,C21H20O10,432.10564686,Passiflora serratodigitata,Passiflora,KNApSAcK
+16,C00001312,69925-34-4,"(Z)-3,5-Hexadienyl butyrate",C10H16O2,168.11502975,Passiflora edulis,Passiflora,KNApSAcK
+17,C00001424,51-41-2,Noradrenaline,C8H11NO3,169.07389323,Passiflora quadrangularis,Passiflora,KNApSAcK
+18,C00001437,29883-15-6,Amygdalin,C20H27NO11,457.15841071,Passiflora edulis Sims,Passiflora,KNApSAcK
+19,C00001441,88824-26-4,Deidaclin,C12H17NO6,271.10558728,Passiflora foetida,Passiflora,KNApSAcK
+20,C00001441,88824-26-4,Deidaclin,C12H17NO6,271.10558728,Passiflora coriacea,Passiflora,KNApSAcK
+21,C00001446,554-35-8,Linamarin,C10H17NO6,247.10558728,Passiflora pendens MacDougal,Passiflora,KNApSAcK
+22,C00001446,554-35-8,Linamarin,C10H17NO6,247.10558728,Passiflora adenopoda DC.,Passiflora,KNApSAcK
+23,C00001446,554-35-8,Linamarin,C10H17NO6,247.10558728,Passiflora foetida L.,Passiflora,KNApSAcK
+24,C00001446,554-35-8,Linamarin,C10H17NO6,247.10558728,Passiflora warmingii,Passiflora,KNApSAcK
+25,C00001446,554-35-8,Linamarin,C10H17NO6,247.10558728,Passiflora lutea L.,Passiflora,KNApSAcK
+26,C00001446,554-35-8,Linamarin,C10H17NO6,247.10558728,Passiflora spp.,Passiflora,KNApSAcK
+27,C00001446,554-35-8,Linamarin,C10H17NO6,247.10558728,Passiflora morifolia Mast.,Passiflora,KNApSAcK
+28,C00001447,72229-40-4,Linustatin,C16H27NO11,409.15841071,Passiflora spp.,Passiflora,KNApSAcK
+29,C00001448,534-67-8,Lotaustralin,C11H19NO6,261.12123735,Passiflora pendens MacDougal,Passiflora,KNApSAcK
+30,C00001448,534-67-8,Lotaustralin,C11H19NO6,261.12123735,Passiflora adenopoda DC.,Passiflora,KNApSAcK
+31,C00001448,534-67-8,Lotaustralin,C11H19NO6,261.12123735,Passiflora lutea L.,Passiflora,KNApSAcK
+32,C00001448,534-67-8,Lotaustralin,C11H19NO6,261.12123735,Passiflora morifolia Mast.,Passiflora,KNApSAcK
+33,C00001448,534-67-8,Lotaustralin,C11H19NO6,261.12123735,Passiflora spp.,Passiflora,KNApSAcK
+34,C00001450,72229-42-6,Neolinustatin,C17H29NO11,423.17406078,Passiflora spp.,Passiflora,KNApSAcK
+35,C00001454,99-18-3,Prunasin,C14H17NO6,295.10558728,Passiflora spp.,Passiflora,KNApSAcK
+36,C00001454,99-18-3,Prunasin,C14H17NO6,295.10558728,Passiflora edulis,Passiflora,KNApSAcK
+37,C00001454,99-18-3,Prunasin,C14H17NO6,295.10558728,Passiflora edulis Sims,Passiflora,KNApSAcK
+38,C00001459,66575-40-4,Volkenin,C12H17NO7,287.10050191,Passiflora discophora Jorg & Law.,Passiflora,KNApSAcK
+39,C00001459,66575-40-4,Volkenin,C12H17NO7,287.10050191,Passiflora coriacea Juss.,Passiflora,KNApSAcK
+40,C00001459,66575-40-4,Volkenin,C12H17NO7,287.10050191,Passiflora foetida L.,Passiflora,KNApSAcK
+41,C00001459,66575-40-4,Volkenin,C12H17NO7,287.10050191,Passiflora tetrandra Banks & Sol.ex.DC.,Passiflora,KNApSAcK
+42,C00001735,304-21-2,Harmaline,C13H14N2O,214.11061308,Passiflora incarnata,Passiflora,KNApSAcK
+43,C00001736,486-84-0,1-Methyl-beta-carboline,C12H10N2,182.08439833,Passiflora incarnata,Passiflora,KNApSAcK
+44,C00001736,486-84-0,1-Methyl-beta-carboline,C12H10N2,182.08439833,Passiflora spp.,Passiflora,KNApSAcK
+45,C00001737,442-51-3,Harmine,C13H12N2O,212.09496302,Passiflora edulis,Passiflora,KNApSAcK
+46,C00001737,442-51-3,Harmine,C13H12N2O,212.09496302,Passiflora incarnata,Passiflora,KNApSAcK
+47,C00002374,7084-24-4,Cyanidin 3-O-glucoside,C21H21O11.Cl,484.07723923,Passiflora edulis,Passiflora,KNApSAcK
+48,C00002374,7084-24-4,Cyanidin 3-O-glucoside,C21H21O11.Cl,484.07723923,Passiflora suberosa,Passiflora,KNApSAcK
+49,C00002384,16727-30-3,Malvin,C29H35O17,655.1874247,Passiflora quadrangularis,Passiflora,KNApSAcK
+50,C00002644,120-80-9,Catechol,C6H6O2,110.03677944,Passiflora caerulea,Passiflora,KNApSAcK
+51,C00002647,149-91-7,Gallic acid,C7H6O5,170.0215233,Passiflora caerulea,Passiflora,KNApSAcK
+52,C00003760,640-03-9,Antheraxanthin,C40H56O3,584.42294565,Passiflora edulis,Passiflora,KNApSAcK
+53,C00003779,515-06-0,Mutatochrome,C40H56O,552.43311641,Passiflora edulis,Passiflora,KNApSAcK
+54,C00003780,14660-91-4,Neoxanthin,C40H56O4,600.41786028,Passiflora edulis,Passiflora,KNApSAcK
+55,C00003787,126-29-4,Violaxanthin,C40H56O4,600.41786028,Passiflora edulis,Passiflora,KNApSAcK
+56,C00003794,480-40-0,Chrysin,C15H10O4,254.05790881,Passiflora caerulea,Passiflora,KNApSAcK
+57,C00003794,480-40-0,Chrysin,C15H10O4,254.05790881,Passiflora serratodigitata,Passiflora,KNApSAcK
+58,C00003914,90745-22-5,Tricetin 4'-methyl ether,C16H12O7,316.05830274,Passiflora palmeri,Passiflora,KNApSAcK
+59,C00004631,117-39-5,Quercetin,C15H10O7,302.04265268,Passifloraceae,Passiflora,KNApSAcK
+60,C00004635,480-19-3,Isorhamnetin,C16H12O7,316.05830274,Passiflora palmeri,Passiflora,KNApSAcK
+61,C00004642,552-54-5,"Quercetin 7,3'-dimethyl ether",C17H14O7,330.0739528,Passiflora palmeri,Passiflora,KNApSAcK
+62,C00006079,38642-54-5,Isomollupentin,C20H18O9,402.09508217,Passiflora platyloba,Passiflora,KNApSAcK
+63,C00006105,132368-05-9,6-C-Chinovopyranosylluteolin,C21H20O10,432.10564686,Passiflora edulis,Passiflora,KNApSAcK
+64,C00006106,132368-06-0,6-C-Fucopyranosylluteolin,C21H20O10,432.10564686,Passiflora edulis,Passiflora,KNApSAcK
+65,C00006121,15822-81-8,8-C-beta-D-Glucopyranosyldiosmetin,C22H22O11,462.11621155,Passiflora coactilis,Passiflora,KNApSAcK
+66,C00006122,6980-41-2,Isoswertiajaponin,C22H22O11,462.11621155,Passiflora sexflora,Passiflora,KNApSAcK
+67,C00006201,38950-95-7,Orientin 4'-glucoside,C27H30O16,610.15338491,Passiflora coactilis,Passiflora,KNApSAcK
+68,C00006205,38950-96-8,Isoorientin 4'-O-glucoside,C27H30O16,610.15338491,Passiflora pavonis,Passiflora,KNApSAcK
+69,C00006208,50980-94-4,Isoorientin 2''-O-rhamnoside,C27H30O15,594.15847029,Passiflora biflora,Passiflora,KNApSAcK
+70,C00006210,55196-48-0,Isoorientin 2''-O-glucopyranoside,C27H30O16,610.15338491,Passiflora incarnata,Passiflora,KNApSAcK
+71,C00006216,38950-94-6,Vitexin 4'-O-glucoside,C27H30O15,594.15847029,Passiflora coactilis,Passiflora,KNApSAcK
+72,C00006223,60767-80-8,Meloside A,C27H30O15,594.15847029,Passiflora incarnata,Passiflora,KNApSAcK
+73,C00006224,20310-89-8,Saponarin,C27H30O15,594.15847029,Passiflora incarnata,Passiflora,KNApSAcK
+74,C00006236,40788-84-9,Isoviolanthin,C27H30O14,578.16355567,Passiflora sexflora,Passiflora,KNApSAcK
+75,C00006262,87440-82-2,Swertiajaponin 4'-O-rhamnoside,C28H32O15,608.17412036,Passiflora biflora,Passiflora,KNApSAcK
+76,C00006267,68027-86-1,Flavocummelin,C28H32O14,592.17920573,Passiflora biflora,Passiflora,KNApSAcK
+77,C00006281,87454-40-8,Scoparin 2''-O-rhamnoside,C28H32O15,608.17412036,Passiflora coactilis,Passiflora,KNApSAcK
+78,C00006312,87454-41-9,Orientin 4'-O-glucoside-2''-O-rhamnoside,C33H40O20,756.21129372,Passiflora coactilis,Passiflora,KNApSAcK
+79,C00006319,87440-81-1,Vitexin 4'-O-glucoside-2''-O-rhamnoside,C33H40O19,740.2163791,Passiflora coactilis,Passiflora,KNApSAcK
+80,C00006376,"10576-86-0,11044-10-3",Vitexin 2''-O-xyloside,C26H28O14,564.14790561,Passiflora spp.,Passiflora,KNApSAcK
+81,C00006378,53609-37-3,Isovitexin 2''-O-xyloside,C26H28O14,564.14790561,Passiflora spp.,Passiflora,KNApSAcK
+82,C00006630,18466-51-8,Callistephin,C21H21O10,433.11347189,Passiflora suberosa,Passiflora,KNApSAcK
+83,C00006630,18466-51-8,Callistephin,C21H21O10,433.11347189,Passiflora edulis,Passiflora,KNApSAcK
+84,C00006698,6906-38-3,Myrtillin,C21H21O12.Cl,500.07215385,Passiflora suberosa,Passiflora,KNApSAcK
+85,C00006709,17670-06-3,Delphin,C27H31O17,627.15612457,Passiflora quadrangularis,Passiflora,KNApSAcK
+86,C00006722,6988-81-4,Petunidin 3-glucoside,C22H23O12.Cl,514.08780391,Passiflora suberosa,Passiflora,KNApSAcK
+87,C00006728,25846-73-5,Petunin,C28H33O17,641.17177463,Passiflora quadrangularis,Passiflora,KNApSAcK
+88,C00006735,7228-78-6,Oenin,C23H25O12,493.13460127,Passiflora quadrangularis,Passiflora,KNApSAcK
+89,C00006755,165070-68-8,Pelargonidin 3-(6''-malonylglucoside),C24H23O13,519.11386582,Passiflora suberosa,Passiflora,KNApSAcK
+90,C00006796,94977-38-5,Cyanidin 3-(6''-malonylglucoside),C24H23O14,535.10878045,Passiflora suberosa,Passiflora,KNApSAcK
+91,C00006796,94977-38-5,Cyanidin 3-(6''-malonylglucoside),C24H23O14,535.10878045,Passiflora edulis,Passiflora,KNApSAcK
+92,C00006877,122856-09-1,Delphinidin 3-(6''-malonylglucoside),C24H23O15,551.10369507,Passiflora suberosa,Passiflora,KNApSAcK
+93,C00006895,122856-10-4,Petunidin 3-(6''-malonylglucoside),C25H25O15,565.11934513,Passiflora suberosa,Passiflora,KNApSAcK
+94,C00008026,120-05-8,Sulfuretin,C15H10O5,270.05282343,Passiflora sexflora,Passiflora,KNApSAcK
+95,C00010196,7758-73-8,Serratin,C15H10O4,254.05790881,Passiflora serratodigitata,Passiflora,KNApSAcK
+96,C00010197,83161-47-1,Serratin 7-O-glucoside,C21H20O9,416.11073224,Passiflora serratodigitata,Passiflora,KNApSAcK
+97,C00014032,,"Isovitexin 7,2''-Di-O-galactoside",C33H40O20,756.21129372,Passiflora platyloba,Passiflora,KNApSAcK
+98,C00023663,641-38-3,Alternariol,C14H10O5,258.05282343,Passiflora spp.,Passiflora,KNApSAcK
+99,C00026537,244-63-3,Norharman,C11H8N2,168.06874827,Passiflora incarnata L.,Passiflora,KNApSAcK
+100,C00029834,23526-45-6,(+)-Blumenol A,C13H20O3,224.1412445,Passiflora edulis,Passiflora,KNApSAcK
+101,C00034206,99-19-4,(2S)-Sambunigrin,C14H17NO6,295.10558728,Passiflora edulis,Passiflora,KNApSAcK
+102,C00036265,82829-54-7,"(1S,4R)-passicapsin",C18H27NO10,417.16349609,Passiflora citrina MacDougal,Passiflora,KNApSAcK
+103,C00036265,82829-54-7,"(1S,4R)-passicapsin",C18H27NO10,417.16349609,Passiflora capsularis L.,Passiflora,KNApSAcK
+104,C00036330,133161-56-5,"(1R,2R,3R,4R)-Suberin A",C12H17NO8,303.09541653,Passiflora suberosa L.,Passiflora,KNApSAcK
+105,C00036332,110115-55-4,"(1R,4S)-Taraktophyllin",C12H17NO7,287.10050191,Passiflora herbertiana Ker-Gawl.,Passiflora,KNApSAcK
+106,C00036332,110115-55-4,"(1R,4S)-Taraktophyllin",C12H17NO7,287.10050191,Passiflora coriacea Juss.,Passiflora,KNApSAcK
+107,C00036332,110115-55-4,"(1R,4S)-Taraktophyllin",C12H17NO7,287.10050191,Passiflora suberosa L.,Passiflora,KNApSAcK
+108,C00036332,110115-55-4,"(1R,4S)-Taraktophyllin",C12H17NO7,287.10050191,Passiflora capsularis L.,Passiflora,KNApSAcK
+109,C00036332,110115-55-4,"(1R,4S)-Taraktophyllin",C12H17NO7,287.10050191,Passiflora murucuja L.,Passiflora,KNApSAcK
+110,C00036338,34323-07-4,"(1S,4S)-Tetraphyllin B",C12H17NO7,287.10050191,Passiflora foetida L.,Passiflora,KNApSAcK
+111,C00036338,34323-07-4,"(1S,4S)-Tetraphyllin B",C12H17NO7,287.10050191,Passiflora coriacea Juss.,Passiflora,KNApSAcK
+112,C00036338,34323-07-4,"(1S,4S)-Tetraphyllin B",C12H17NO7,287.10050191,Passiflora tetrandra Banks & Sol.ex.DC.,Passiflora,KNApSAcK
+113,C00036338,34323-07-4,"(1S,4S)-Tetraphyllin B",C12H17NO7,287.10050191,Passiflora discophora Jorg & Law.,Passiflora,KNApSAcK
+114,C00036340,261949-42-2,"(2E)-2,6-Dimethyl-2,5-heptadienoic acid",C9H14O2,154.09937969,Passiflora quadrangularis,Passiflora,KNApSAcK
+115,C00036341,261949-43-3,"(2E)-2,6-Dimethyl-2,5-heptadienoic acid beta-D-glucopyranosyl ester",C15H24O7,316.15220312,Passiflora quadrangularis,Passiflora,KNApSAcK
+116,C00036344,261949-44-4,"(3E)-3,7-Dimethyl-3-octene-1,2,6,7-tetrol",C10H20O4,204.13615913,Passiflora quadrangularis,Passiflora,KNApSAcK
+117,C00036357,34323-06-3,(S)-Tetraphyllin A,C12H17NO6,271.10558728,Passiflora suberosa L.,Passiflora,KNApSAcK
+118,C00036357,34323-06-3,(S)-Tetraphyllin A,C12H17NO6,271.10558728,Passiflora coriacea Juss.,Passiflora,KNApSAcK
+119,C00036357,34323-06-3,(S)-Tetraphyllin A,C12H17NO6,271.10558728,Passiflora foetida L.,Passiflora,KNApSAcK
+120,C00036357,34323-06-3,(S)-Tetraphyllin A,C12H17NO6,271.10558728,Passiflora herbertiana Ker-Gawl.,Passiflora,KNApSAcK
+121,C00036357,34323-06-3,(S)-Tetraphyllin A,C12H17NO6,271.10558728,Passiflora tetrandra Banks & Sol.ex.DC.,Passiflora,KNApSAcK
+122,C00036464,121063-56-7,Furaneol beta-D-glucopyranoside,C12H18O8,290.10016755,Passiflora quadrangularis,Passiflora,KNApSAcK
+123,C00037599,348615-73-6,Passifloricin A,C26H48O5,440.35017464,Passiflora foetida,Passiflora,KNApSAcK
+124,C00037600,442197-85-5,Passiguatemalin,C12H19NO8,305.11106659,Passiflora guatemalensis Wats.,Passiflora,KNApSAcK
+125,C00038904,239794-22-0,Cyclotricuspidoside B,C43H72O17,860.47695088,Passiflora edulis,Passiflora,KNApSAcK
+126,C00038905,239794-23-1,Cyclotricuspidoside C,C43H72O17,860.47695088,Passiflora edulis,Passiflora,KNApSAcK
+127,C00042574,487-03-6,Harmol,C12H10N2O,198.07931296,Passiflora incarnata,Passiflora,KNApSAcK
+128,C00046689,292167-34-1,Cyclopassifloic acid A,C31H52O7,536.37130401,Passiflora edulis,Passiflora,KNApSAcK
+129,C00046690,292167-35-2,Cyclopassifloic acid B,C31H52O6,520.37638939,Passiflora edulis,Passiflora,KNApSAcK
+130,C00046691,292167-36-3,Cyclopassifloic acid C,C31H52O7,536.37130401,Passiflora edulis,Passiflora,KNApSAcK
+131,C00046692,292167-37-4,Cyclopassifloic acid D,C30H48O6,504.34508927,Passiflora edulis,Passiflora,KNApSAcK
+132,C00046693,301540-74-9,Cyclopassifloic acid E,C31H52O8,552.36621864,Passiflora edulis,Passiflora,KNApSAcK
+133,C00046694,301540-76-1,Cyclopassifloic acid F,C31H52O7,536.37130401,Passiflora edulis,Passiflora,KNApSAcK
+134,C00046695,301540-77-2,Cyclopassifloic acid G,C31H52O7,536.37130401,Passiflora edulis,Passiflora,KNApSAcK
+135,C00046696,292167-38-5,Cyclopassifloside I,C37H62O12,698.42412745,Passiflora edulis,Passiflora,KNApSAcK
+136,C00046697,292167-39-6,Cyclopassifloside II,C37H62O11,682.42921282,Passiflora edulis,Passiflora,KNApSAcK
+137,C00046698,292167-40-9,Cyclopassifloside III,C43H72O16,844.48203625,Passiflora edulis,Passiflora,KNApSAcK
+138,C00046699,292167-41-0,Cyclopassifloside IV,C37H62O12,698.42412745,Passiflora edulis,Passiflora,KNApSAcK
+139,C00046700,301644-33-7,Cyclopassifloside IX,C43H72O17,860.47695088,Passiflora edulis,Passiflora,KNApSAcK
+140,C00046701,292167-42-1,Cyclopassifloside V,C43H72O17,860.47695088,Passiflora edulis,Passiflora,KNApSAcK
+141,C00046702,292167-43-2,Cyclopassifloside VI,C36H58O11,666.3979127,Passiflora edulis,Passiflora,KNApSAcK
+142,C00046703,301540-80-7,Cyclopassifloside VII,C37H62O13,714.41904207,Passiflora edulis,Passiflora,KNApSAcK
+143,C00046704,301540-81-8,Cyclopassifloside VIII,C37H62O12,698.42412745,Passiflora edulis,Passiflora,KNApSAcK
+144,C00046705,301540-82-9,Cyclopassifloside X,C37H62O12,698.42412745,Passiflora edulis,Passiflora,KNApSAcK
+145,C00046706,301644-34-8,Cyclopassifloside XI,C43H72O17,860.47695088,Passiflora edulis,Passiflora,KNApSAcK
+146,C00051813,,Dihydro-beta-carboline,C12H12N2,184.1000484,Passiflora incarnata,Passiflora,KNApSAcK
+147,C00052310,525-57-5,Harmalol,C12H12N2O,200.09496302,Passiflora incarnata,Passiflora,KNApSAcK
+148,C00053951,136954-25-1,3-Acetylmercaptohexyl acetate.,C10H18O3S,218.09766517,Passiflora edulis,Passiflora,KNApSAcK
+149,C00054579,148031-67-8,Benzyl beta-vicianoside,C18H26O10,402.15259705,Passiflora edulis,Passiflora,KNApSAcK
+150,C00054693,239794-27-5,Cyclotricuspidogenin B,C31H52O7,536.37130401,Passiflora edulis,Passiflora,KNApSAcK
+151,C00054694,239794-30-0,Cyclotricuspidogenin C,C31H52O7,536.37130401,Passiflora edulis,Passiflora,KNApSAcK
+152,C00054883,1130942-01-6,4-Acetyl-3-hydroxy-6-methyl-2H-pyran-2-one,C8H8O4,168.04225874,Passiflora edulis,Passiflora,KNApSAcK
+153,C00056076,13270-60-5,"2-(3,4-Dihydroxy-5-methoxyphenyl)-3,5,7-trihydroxy-1-benzopyrylium(1+)",C16H13O7,317.06612777,Passiflora quadrangularis,Passiflora,KNApSAcK
+154,C00056788,100182-36-3,Quadranguloside,C54H90O23,1106.58728918,Passiflora quadrangularis,Passiflora,KNApSAcK
+155,C00057048,1392-82-1,Passiflorine,C37H60O12,696.40847738,Passiflora edulis,Passiflora,KNApSAcK
+156,C00057497,67715-80-4,Oxane,C8H16OS,160.09218586,Passiflora edulis,Passiflora,KNApSAcK
+157,C00057638,90180-89-5,3-(Methylthio)-1-hexanol,C7H16OS,148.09218586,Passiflora edulis f. flavicarpa,Passiflora,KNApSAcK
+158,C00058228,85758-30-1,Tetraphyllin B sulfate,C12H17NO10S,367.0573165,Passiflora caerulea,Passiflora,KNApSAcK
+0,C00001884,66216-59-9,Macoline,C37H41N2O6,609.29646206,Abuta grisebachii,Abuta,KNApSAcK
+1,C00025265,17132-74-0,(+)-Homoaromoline,C37H40N2O6,608.28863702,Abuta splendida Krukoff & Moldenke,Abuta,KNApSAcK
+2,C00025272,2810-21-1,(+)-Stepharine,C18H19NO3,297.13649348,Abuta pahni (Martius) Krukoff & Barneby,Abuta,KNApSAcK
+3,C00025606,70553-76-3,Daurisoline,C37H42N2O6,610.30428709,Abuta pahni (Martius) Krukoff & Barneby,Abuta,KNApSAcK
+4,C00025611,62057-36-7,Grisabine,C37H42N2O6,610.30428709,Abuta grisebachii Triana & Planch,Abuta,KNApSAcK
+5,C00025652,2196-60-3,(+)-Coclaurine,C17H19NO3,285.13649348,Abuta pahni (Martius) Krukoff & Barneby,Abuta,KNApSAcK
+6,C00025672,66254-51-1,(+)-N-Methyl-7-O-demethylpeinamine,C36H38N2O6,594.27298696,Abuta grisebachii Triana & Planch,Abuta,KNApSAcK
+7,C00025853,91897-62-0,Dihydrosaulatine,C22H25NO6,399.16818754,Abuta bulata Moldenke,Abuta,KNApSAcK
+8,C00025879,74631-22-4,Grandirubrine,C19H15NO5,337.0950226,Abuta concolor,Abuta,KNApSAcK
+9,C00025879,74631-22-4,Grandirubrine,C19H15NO5,337.0950226,Abuta grandifolia (Mart.) Sandw.Kew.,Abuta,KNApSAcK
+10,C00025880,6859-66-1,Magnolin,C36H40N2O6,596.28863702,Abuta grisebachii Triana & Planch,Abuta,KNApSAcK
+11,C00025890,5140-38-5,Homomoschatoline,C19H15NO4,321.10010798,Abuta sp.,Abuta,KNApSAcK
+12,C00025897,38366-03-9,Imeluteine,C20H19NO5,353.12632273,Abuta rufescens Abul.,Abuta,KNApSAcK
+13,C00025897,38366-03-9,Imeluteine,C20H19NO5,353.12632273,Abuta imene Eichl.,Abuta,KNApSAcK
+14,C00025898,24268-94-8,Imenine,C20H17NO5,351.11067266,Abuta rufescens Abul.,Abuta,KNApSAcK
+15,C00025898,24268-94-8,Imenine,C20H17NO5,351.11067266,Abuta imene Eichl.,Abuta,KNApSAcK
+16,C00025899,58189-33-6,Imerubrine,C20H17NO5,351.11067266,Abuta rufescens Abul.,Abuta,KNApSAcK
+17,C00025899,58189-33-6,Imerubrine,C20H17NO5,351.11067266,Abuta imene Eichl.,Abuta,KNApSAcK
+18,C00025935,15444-20-9,Lysicamine,C18H13NO3,291.08954329,Abuta rufescens Abul.,Abuta,KNApSAcK
+19,C00025936,66288-77-5,Macolidine,C36H38N2O6,594.27298696,Abuta grisebachii Triana & Planch,Abuta,KNApSAcK
+20,C00025963,58189-34-7,Norrufescine,C18H15NO4,309.10010798,Abuta rufescens Abul.,Abuta,KNApSAcK
+21,C00025963,58189-34-7,Norrufescine,C18H15NO4,309.10010798,Abuta omene,Abuta,KNApSAcK
+22,C00025963,58189-34-7,Norrufescine,C18H15NO4,309.10010798,Abuta imene Eichl.,Abuta,KNApSAcK
+23,C00026004,147044-68-6,Pareirubrine,C20H17NO6,367.10558728,Abuta concolor,Abuta,KNApSAcK
+24,C00026007,64625-88-3,Peinamine,C36H38N2O6,594.27298696,Abuta grisebachii Triana & Planch,Abuta,KNApSAcK
+25,C00026025,38366-04-0,Rufescine,C19H17NO4,323.11575804,Abuta rufescens Abul.,Abuta,KNApSAcK
+26,C00026025,38366-04-0,Rufescine,C19H17NO4,323.11575804,Abuta imene Eichl.,Abuta,KNApSAcK
+27,C00026026,91897-61-9,Saulatine,C22H23NO6,397.15253747,Abuta bullata,Abuta,KNApSAcK
+28,C00026026,91897-61-9,Saulatine,C22H23NO6,397.15253747,Abuta bulata Moldenke,Abuta,KNApSAcK
+29,C00026035,68353-25-3,Splendidine,C19H15NO4,321.10010798,Abuta rufescens Abul.,Abuta,KNApSAcK
+30,C00026064,21796-15-6,Thalifoline,C11H13NO3,207.08954329,Abuta pahni (Martius) Krukoff & Barneby,Abuta,KNApSAcK

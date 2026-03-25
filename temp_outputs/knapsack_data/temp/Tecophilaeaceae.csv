@@ -1,0 +1,76 @@
+,C_ID,CAS ID,example_compound_name,Molecular formula,Mw,Organism,knapsack_search_term,Source
+0,C00001567,64937-89-9,Carinatine,C17H21NO4,303.14705817,Zephyranthes carinata,Zephyra,KNApSAcK
+1,C00001567,64937-89-9,Carinatine,C17H21NO4,303.14705817,Zephyranthes grandiflora,Zephyra,KNApSAcK
+2,C00001571,466-75-1,Haemanthamine,C17H19NO4,301.1314081,Zephyranthes citrina,Zephyra,KNApSAcK
+3,C00001576,476-28-8,(-)-Lycorine,C16H17NO4,287.11575804,Zephyranthes candida,Zephyra,KNApSAcK
+4,C00001576,476-28-8,(-)-Lycorine,C16H17NO4,287.11575804,Zephyranthes citrina,Zephyra,KNApSAcK
+5,C00001576,476-28-8,(-)-Lycorine,C16H17NO4,287.11575804,Zephyranthes rosea Lindl.,Zephyra,KNApSAcK
+6,C00001576,476-28-8,(-)-Lycorine,C16H17NO4,287.11575804,Zephyranthes texana,Zephyra,KNApSAcK
+7,C00001579,96203-70-2,Pancratistatin,C14H15NO8,325.07976646,Zephyranthes grandiflora,Zephyra,KNApSAcK
+8,C00001580,17322-84-8,Pretazettine,C18H21NO5,331.14197279,Zephyranthes carinata,Zephyra,KNApSAcK
+9,C00001580,17322-84-8,Pretazettine,C18H21NO5,331.14197279,Zephyranthes candida,Zephyra,KNApSAcK
+10,C00008759,95587-88-5,"7,4'-Dihydroxy-3'-methoxyflavan",C16H16O4,272.104859,Zephyranthes flava,Zephyra,KNApSAcK
+11,C00008773,95519-19-0,"7-Hydroxy-3',4'-methylenedioxyflavan",C16H14O4,270.08920894,Zephyranthes flava,Zephyra,KNApSAcK
+12,C00008774,95587-89-6,"2'-Hydroxy-7-methoxy-4',5'-methylenedioxyflavan",C17H16O5,300.09977362,Zephyranthes flava,Zephyra,KNApSAcK
+13,C00008778,,"7-Hydroxy-3',4'-methylenedioxyflavan 7-O-beta-D-glucopyranoside",C22H24O9,432.14203237,Zephyranthes flava,Zephyra,KNApSAcK
+14,C00024390,517-78-2,Galanthine,C18H23NO4,317.16270823,Zephyranthes carinata Herb.,Zephyra,KNApSAcK
+15,C00024390,517-78-2,Galanthine,C18H23NO4,317.16270823,Zephyranthes citrina,Zephyra,KNApSAcK
+16,C00024391,466-73-9,Haemanthidine,C17H19NO5,317.12632272,Zephyranthes citrina,Zephyra,KNApSAcK
+17,C00024408,22331-07-3,Maritidine,C17H21NO3,287.15214354,Zephyranthes robusta,Zephyra,KNApSAcK
+18,C00024408,22331-07-3,Maritidine,C17H21NO3,287.15214354,Zephyranthes citrina,Zephyra,KNApSAcK
+19,C00024408,22331-07-3,Maritidine,C17H21NO3,287.15214354,Zephyranthes carinata Herb.,Zephyra,KNApSAcK
+20,C00024408,22331-07-3,Maritidine,C17H21NO3,287.15214354,Zephyranthes rosea,Zephyra,KNApSAcK
+21,C00024413,27857-07-4,Narcissidine,C18H23NO5,333.15762285,Zephyranthes citrina,Zephyra,KNApSAcK
+22,C00024438,507-79-9,Tazettine,C18H21NO5,331.14197279,Zephyranthes candida,Zephyra,KNApSAcK
+23,C00024438,507-79-9,Tazettine,C18H21NO5,331.14197279,Zephyranthes sulphurea,Zephyra,KNApSAcK
+24,C00024446,510-69-0,Vittatine,C16H17NO3,271.12084342,Zephyranthes citrina,Zephyra,KNApSAcK
+25,C00027714,212953-15-6,1-O-(3-Hydroxybutyryl)pancratistatin,C18H21NO10,411.1165459,Zephyranthes carinata,Zephyra,KNApSAcK
+26,C00027715,212953-16-7,1-O-(3-O-beta-D-glucopyranosylbutyryl)pancratistatin,C24H31NO15,573.16936933,Zephyranthes carinata,Zephyra,KNApSAcK
+27,C00028784,96947-59-0,Oxomaritidine,C17H19NO3,285.13649348,Zephyranthes citrina,Zephyra,KNApSAcK
+28,C00029259,388112-40-1,Zephyramine,C17H21NO3,287.15214354,Zephyranthes citrina Baker,Zephyra,KNApSAcK
+29,C00029260,2030-55-9,Zephyranthine,C16H19NO4,289.1314081,Zephyranthes candida,Zephyra,KNApSAcK
+0,C00001851,27740-43-8,Erysotrine,C19H23NO3,313.16779361,Erythrina poeppigiana,Poeppigia,KNApSAcK
+1,C00001869,3019-51-0,(S)-Isoboldine,C19H21NO4,327.14705817,Erythrina poeppigiana,Poeppigia,KNApSAcK
+2,C00002515,74515-47-2,Cristacarpin,C21H22O5,354.14672381,Erythrina poeppigiana,Poeppigia,KNApSAcK
+3,C00002558,37831-70-2,Phaseollidin,C20H20O4,324.13615913,Erythrina poeppigiana,Poeppigia,KNApSAcK
+4,C00002586,51225-30-0,Wighteone,C20H18O5,338.11542369,Erythrina poeppigiana,Poeppigia,KNApSAcK
+5,C00009492,34086-50-5,Alpinumisoflavone,C20H16O5,336.09977362,Erythrina poeppigiana,Poeppigia,KNApSAcK
+6,C00009610,61135-91-9,"3,9-Dihydroxypterocarpan",C15H12O4,256.07355887,Erythrina poeppigiana,Poeppigia,KNApSAcK
+7,C00009640,77369-92-7,Sophorapterocarpan A,C20H20O4,324.13615913,Erythrina poeppigiana,Poeppigia,KNApSAcK
+8,C00009644,74515-46-1,Sandwicensin,C21H22O4,338.15180919,Erythrina poeppigiana,Poeppigia,KNApSAcK
+9,C00009664,26992-37-0,Folitenol,C25H26O4,390.18310932,Erythrina poeppigiana,Poeppigia,KNApSAcK
+10,C00009669,77263-06-0,Erythrabyssin II,C25H28O4,392.19875938,Erythrina poeppigiana,Poeppigia,KNApSAcK
+11,C00009794,642-39-7,Angolensin,C16H16O4,272.104859,Erythrina poeppigiana,Poeppigia,KNApSAcK
+12,C00018930,193552-25-9,Erystagallin A,C26H30O5,422.20932407,Erythrina poeppigiana,Poeppigia,KNApSAcK
+13,C00018931,461696-09-3,Erypoegin A,C21H22O4,338.15180919,Erythrina poeppigiana,Poeppigia,KNApSAcK
+14,C00018932,461696-08-2,Erypoegin B,C21H20O4,336.13615913,Erythrina poeppigiana,Poeppigia,KNApSAcK
+15,C00018933,"474816-82-5,423163-92-2",Erypoegin C,C21H22O6,370.14163844,Erythrina poeppigiana,Poeppigia,KNApSAcK
+16,C00018934,474816-83-6,Erypoegin D,C22H24O6,384.1572885,Erythrina poeppigiana,Poeppigia,KNApSAcK
+17,C00018935,474816-84-7,Erypoegin E,C20H18O4,322.12050906,Erythrina poeppigiana,Poeppigia,KNApSAcK
+18,C00018960,586961-23-1,Erypoegin F,C21H20O5,352.13107375,Erythrina poeppigiana,Poeppigia,KNApSAcK
+19,C00018961,586961-26-4,Erypoegin G,C22H22O6,382.14163844,Erythrina poeppigiana,Poeppigia,KNApSAcK
+20,C00018962,586961-33-3,Erypoegin H,C20H18O4,322.12050906,Erythrina poeppigiana,Poeppigia,KNApSAcK
+21,C00018963,586961-38-8,Erypoegin I,C21H22O6,370.14163844,Erythrina poeppigiana,Poeppigia,KNApSAcK
+22,C00018964,586961-40-2,Erypoegin J,C26H28O5,420.193674,Erythrina poeppigiana,Poeppigia,KNApSAcK
+23,C00018965,344942-17-2,Erysubin F,C25H26O4,390.18310932,Erythrina poeppigiana,Poeppigia,KNApSAcK
+24,C00018966,406676-79-7,Eryvarin D,C21H20O4,336.13615913,Erythrina poeppigiana,Poeppigia,KNApSAcK
+25,C00018967,202525-96-0,Orientanol C,C25H26O4,390.18310932,Erythrina poeppigiana,Poeppigia,KNApSAcK
+26,C00027264,84209-93-8,8-Oxo-alpha-erythroidine,C16H17NO4,287.11575804,Erythrina poeppigiana,Poeppigia,KNApSAcK
+27,C00036911,645-49-8,Cistacarpin,C14H12,180.09390038,Erythrina poeppigiana,Poeppigia,KNApSAcK
+0,C00002852,481-42-5,Plumbagin,C11H8O3,188.04734412,Sisyrinchium spp.,Sisyrinchium,KNApSAcK
+0,C00003848,41440-05-5,Isoscutellarein,C15H10O6,286.04773805,Odixia angusta,Ixia,KNApSAcK
+1,C00003848,41440-05-5,Isoscutellarein,C15H10O6,286.04773805,Odixia achlaena,Ixia,KNApSAcK
+2,C00003851,51876-19-8,Takakin,C16H12O6,300.06338812,Odixia angusta,Ixia,KNApSAcK
+3,C00003851,51876-19-8,Takakin,C16H12O6,300.06338812,Odixia achlaena,Ixia,KNApSAcK
+4,C00004533,548-83-4,Galangin,C15H10O5,270.05282343,Odixia spp.,Ixia,KNApSAcK
+5,C00023374,83991-76-8,Secoathrixic acid,C20H32O3,320.23514489,Athrixia elata,Ixia,KNApSAcK
+6,C00024335,2506-26-5,(-)-Vincamajine,C22H26N2O3,366.19434271,Alstonia legouixiae,Ixia,KNApSAcK
+7,C00041717,878552-35-3,Pachydermin,C13H8ClNO6,309.00401471,Chamonixia pachydermis,Ixia,KNApSAcK
+0,C00002327,64-86-8,Colchicine,C22H25NO6,399.16818754,Iphigenia indica A. Gray,Iphigenia,KNApSAcK
+1,C00002327,64-86-8,Colchicine,C22H25NO6,399.16818754,Iphigenia pallida Bak.,Iphigenia,KNApSAcK
+2,C00002327,64-86-8,Colchicine,C22H25NO6,399.16818754,Iphigenia stellata,Iphigenia,KNApSAcK
+3,C00027135,6877-25-4,Cornigerine,C21H21NO6,383.13688741,Iphigenia stellata,Iphigenia,KNApSAcK
+4,C00027741,7336-33-6,3-Demethylcolchicine,C21H23NO6,385.15253747,Iphigenia stellata,Iphigenia,KNApSAcK
+5,C00027933,6901-13-9,beta-Lumicolchicine,C22H25NO6,399.16818754,Iphigenia stellata,Iphigenia,KNApSAcK
+6,C00027933,6901-13-9,beta-Lumicolchicine,C22H25NO6,399.16818754,Iphigenia indica,Iphigenia,KNApSAcK
+7,C00028684,7411-12-3,N-Formyl-N-deacetylcolchicine,C21H23NO6,385.15253747,Iphigenia stellata,Iphigenia,KNApSAcK

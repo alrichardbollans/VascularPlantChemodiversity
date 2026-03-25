@@ -1,0 +1,947 @@
+,C_ID,CAS ID,example_compound_name,Molecular formula,Mw,Organism,knapsack_search_term,Source
+0,C00000001,545-97-1,Gibberellin A1,C19H24O6,348.1572885,Carica papaya,Papaya,KNApSAcK
+1,C00000003,77-06-5,Gibberellin A3,C19H22O6,346.14163844,Carica papaya,Papaya,KNApSAcK
+2,C00000035,35214-68-7,Gibberellin A35,C19H24O6,348.1572885,Carica papaya,Papaya,KNApSAcK
+3,C00000055,55035-85-3,Gibberellin A55,C19H24O7,364.15220312,Carica papaya,Papaya,KNApSAcK
+4,C00000136,470-82-6,"1,8-Cineol",C10H18O,154.1357652,Carica papaya,Papaya,KNApSAcK
+5,C00000149,6750-60-3,Espatulenol,C15H24O,220.18271539,Carica papaya,Papaya,KNApSAcK
+6,C00000152,7400-08-0,p-Coumaric acid,C9H8O3,164.04734412,Carica papaya,Papaya,KNApSAcK
+7,C00000164,473-15-4,(+)-beta-Eudesmol,C15H26O,222.19836545,Carica papaya,Papaya,KNApSAcK
+8,C00000206,69-72-7,Salicylic acid,C7H6O3,138.03169406,Carica papaya,Papaya,KNApSAcK
+9,C00000207,65-85-0,Benzoic acid,C7H6O2,122.03677944,Carica papaya,Papaya,KNApSAcK
+10,C00000351,6728-26-3,(2E)-2-Hexanal,C6H10O,98.07316494,Carica papaya,Papaya,KNApSAcK
+11,C00000354,928-95-0,(E)-2-Hexenol,C6H12O,100.08881501,Carica papaya,Papaya,KNApSAcK
+12,C00000355,928-97-2,trans-3-Hexenol,C6H12O,100.08881501,Carica papaya,Papaya,KNApSAcK
+13,C00000356,928-96-1,cis-3-Hexen-1-ol,C6H12O,100.08881501,Carica papaya,Papaya,KNApSAcK
+14,C00000357,66-25-1,Hexanal,C6H12O,100.08881501,Carica papaya,Papaya,KNApSAcK
+15,C00000358,111-27-3,Hexan-1-ol,C6H14O,102.10446507,Carica papaya,Papaya,KNApSAcK
+16,C00000610,518-28-5,(-)-Podophyllotoxin,C22H22O8,414.13146768,Carica papaya,Papaya,KNApSAcK
+17,C00000613,3690-05-9,p-Coumaryl alcohol,C9H10O2,150.06807956,Carica papaya,Papaya,KNApSAcK
+18,C00000614,458-35-5,Coniferyl alcohol,C10H12O3,180.07864425,Carica papaya,Papaya,KNApSAcK
+19,C00000615,501-16-6,Caffeic acid,C9H8O4,180.04225874,Carica papaya,Papaya,KNApSAcK
+20,C00000750,103-82-2,Phenylacetic acid,C8H8O2,136.0524295,Carica papaya,Papaya,KNApSAcK
+21,C00000805,80-56-8,alpha-Pinene,C10H16,136.12520051,Carica papaya,Papaya,KNApSAcK
+22,C00000816,127-91-3,beta-Pinene,C10H16,136.12520051,Carica papaya,Papaya,KNApSAcK
+23,C00000823,138-86-3,Limonene,C10H16,136.12520051,Carica papaya,Papaya,KNApSAcK
+24,C00000843,3338-55-4,cis-beta-Ocimene,C10H16,136.12520051,Carica papaya,Papaya,KNApSAcK
+25,C00000845,106-24-1,(E)-geraniol,C10H18O,154.1357652,Carica papaya,Papaya,KNApSAcK
+26,C00000853,123-35-3,beta-Myrcene,C10H16,136.12520051,Carica papaya,Papaya,KNApSAcK
+27,C00000861,586-62-9,alpha-Terpinolene,C10H16,136.12520051,Carica papaya,Papaya,KNApSAcK
+28,C00000862,3779-61-1,trans-beta-Ocimene,C10H16,136.12520051,Carica papaya,Papaya,KNApSAcK
+29,C00000905,13920-14-4,"15,15'-cis-Phytoene",C40H64,544.50080204,Carica papaya,Papaya,KNApSAcK
+30,C00000908,6699-20-3,Geranylgeranyl diphosphate,C20H36O7P2,450.19362648,Carica papaya,Papaya,KNApSAcK
+31,C00000911,502-65-8,Lycopene,C40H56,536.43820179,Carica papaya,Papaya,KNApSAcK
+32,C00000913,27664-65-9,15-cis-Phytofluene,C40H62,542.48515198,Carica papaya,Papaya,KNApSAcK
+33,C00000919,7235-40-7,beta-Carotene,C40H56,536.43820179,Carica papaya,Papaya,KNApSAcK
+34,C00000920,472-70-8,beta-Cryptoxanthin,C40H56O,552.43311641,Carica papaya,Papaya,KNApSAcK
+35,C00000926,472-93-5,gamma-Carotene,C40H56,536.43820179,Carica papaya,Papaya,KNApSAcK
+36,C00000931,144-68-3,Zeaxanthin,C40H56O2,568.42803103,Carica papaya,Papaya,KNApSAcK
+37,C00000934,72746-33-9,zehta-carotene,C40H60,540.46950191,Carica papaya,Papaya,KNApSAcK
+38,C00000970,520-26-3,Hesperidin,C28H34O15,610.18977042,Carica papaya,Papaya,KNApSAcK
+39,C00000982,480-41-1,Naringenin,C15H12O5,272.06847349,Carica papaya,Papaya,KNApSAcK
+40,C00001119,3646-73-9,alpha-D-Galactopyranose,C6H12O6,180.06338812,Carica papaya,Papaya,KNApSAcK
+41,C00001122,492-62-6,alpha-D-Glucose,C6H12O6,180.06338812,Carica papaya,Papaya,KNApSAcK
+42,C00001132,470-46-2,Sedoheptulose,C7H14O7,210.0739528,Carica papaya,Papaya,KNApSAcK
+43,C00001134,528-50-7,Cellobiose,C12H22O11,342.11621155,Carica papaya,Papaya,KNApSAcK
+44,C00001145,512-69-6,Raffinose,C18H32O16,504.16903498,Carica papaya,Papaya,KNApSAcK
+45,C00001151,57-50-1,D-Sucrose,C12H22O11,342.11621155,Carica papaya,Papaya,KNApSAcK
+46,C00001164,87-89-8,Inositol,C6H12O6,180.06338812,Carica papaya,Papaya,KNApSAcK
+47,C00001176,64-19-7,Acetic acid,C2H4O2,60.02112937,Carica papaya,Papaya,KNApSAcK
+48,C00001178,124-04-9,Adipic acid,C6H10O4,146.05790881,Carica papaya,Papaya,KNApSAcK
+49,C00001179,50-81-7,(+)-Ascorbic acid,C6H8O6,176.03208799,Carica papaya,Papaya,KNApSAcK
+50,C00001180,107-92-6,Butanoic acid,C4H8O2,88.0524295,Carica papaya,Papaya,KNApSAcK
+51,C00001183,110-17-8,Fumaric acid,C4H4O4,116.01095862,Carica papaya,Papaya,KNApSAcK
+52,C00001189,503-74-2,3-Methylbutanoic acid,C5H10O2,102.06807956,Carica papaya,Papaya,KNApSAcK
+53,C00001192,97-67-6,L-(-)-Malic acid,C4H6O5,134.0215233,Carica papaya,Papaya,KNApSAcK
+54,C00001200,127-17-3,Pyruvic acid,C3H4O3,88.01604399,Carica papaya,Papaya,KNApSAcK
+55,C00001205,110-15-6,Succinic acid,C4H6O4,118.02660868,Carica papaya,Papaya,KNApSAcK
+56,C00001208,109-52-4,pentanoic acid,C5H10O2,102.06807956,Carica papaya,Papaya,KNApSAcK
+57,C00001213,334-48-5,Capric acid,C10H20O2,172.14632988,Carica papaya,Papaya,KNApSAcK
+58,C00001218,142-62-1,Caproic acid,C6H12O2,116.08372963,Carica papaya,Papaya,KNApSAcK
+59,C00001221,143-07-7,Lauric acid,C12H24O2,200.17763001,Carica papaya,Papaya,KNApSAcK
+60,C00001229,544-64-9,Myristoleic acid,C14H26O2,226.19328007,Carica papaya,Papaya,KNApSAcK
+61,C00001231,124-07-2,Octanoic acid,C8H16O2,144.11502975,Carica papaya,Papaya,KNApSAcK
+62,C00001233,57-10-3,Palmitic acid,C16H32O2,256.24023027,Carica papaya,Papaya,KNApSAcK
+63,C00001234,373-49-9,Palmitoleic acid,C16H30O2,254.2245802,Carica papaya,Papaya,KNApSAcK
+64,C00001238,57-11-4,Octadecanoic acid,C18H36O2,284.27153039,Carica papaya,Papaya,KNApSAcK
+65,C00001245,624-92-0,Dimethyl disulfide,C2H6S2,93.99109165,Carica papaya,Papaya,KNApSAcK
+66,C00001254,110-43-0,2-Heptanone,C7H14O,114.10446507,Carica papaya,Papaya,KNApSAcK
+67,C00001259,91-20-3,Naphthalene,C10H8,128.06260026,Carica papaya,Papaya,KNApSAcK
+68,C00001264,111-87-5,1-Octanol,C8H18O,130.1357652,Carica papaya,Papaya,KNApSAcK
+69,C00001265,629-62-9,n-Pentadecane,C15H32,212.25040102,Carica papaya,Papaya,KNApSAcK
+70,C00001308,141-78-6,Ethyl acetate,C4H8O2,88.0524295,Carica papaya,Papaya,KNApSAcK
+71,C00001318,104-61-0,gamma-Nonalactone,C9H16O2,156.11502975,Carica papaya,Papaya,KNApSAcK
+72,C00001337,56-12-2,GABA,C4H9NO2,103.06332854,Carica papaya,Papaya,KNApSAcK
+73,C00001341,70-47-3,L-Asparagine,C4H8N2O3,132.05349214,Carica papaya,Papaya,KNApSAcK
+74,C00001348,372-75-8,L-Citrulline,C6H13N3O3,175.0956913,Carica papaya,Papaya,KNApSAcK
+75,C00001358,56-86-0,L-Glutamic acid,C5H9NO4,147.05315778,Carica papaya,Papaya,KNApSAcK
+76,C00001363,71-00-1,L-Histidine,C6H9N3O2,155.06947655,Carica papaya,Papaya,KNApSAcK
+77,C00001434,61-54-1,Tryptamine,C10H12N2,160.1000484,Carica papaya,Papaya,KNApSAcK
+78,C00001492,58-08-2,Caffeine,C8H10N4O2,194.08037559,Carica papaya,Papaya,KNApSAcK
+79,C00001555,535-83-1,Trigonelline,C7H7NO2,137.04767848,Carica papaya,Papaya,KNApSAcK
+80,C00002026,3463-92-1,Carpaine,C28H50N2O4,478.3770581,Carica papaya,Papaya,KNApSAcK
+81,C00002663,60-12-8,2-Phenylethanol,C8H10O,122.07316494,Carica papaya,Papaya,KNApSAcK
+82,C00002668,99-50-3,"3,4-Dihydroxybenzoic acid",C7H6O4,154.02660868,Carica papaya,Papaya,KNApSAcK
+83,C00002682,121-34-6,Vanillic acid,C8H8O4,168.04225874,Carica papaya,Papaya,KNApSAcK
+84,C00002692,90426-22-5,Danielone,C10H12O5,212.06847349,Carica papaya,Papaya,KNApSAcK
+85,C00002724,327-97-9,3-O-Caffeoylquinic acid,C16H18O9,354.09508217,Carica papaya,Papaya,KNApSAcK
+86,C00002725,104-55-2,Cinnamaldehyde,C9H8O,132.05751488,Carica papaya,Papaya,KNApSAcK
+87,C00002728,458-36-6,Coniferaldehyde,C10H10O3,178.06299419,Carica papaya,Papaya,KNApSAcK
+88,C00002743,1135-24-6,Ferulic acid,C10H10O4,194.05790881,Carica papaya,Papaya,KNApSAcK
+89,C00002775,4206-58-0,Sinapaldehyde,C11H12O4,208.07355887,Carica papaya,Papaya,KNApSAcK
+90,C00002776,530-59-6,Sinapic acid,C11H12O5,224.06847349,Carica papaya,Papaya,KNApSAcK
+91,C00002778,537-33-7,Sinapyl alcohol,C11H14O4,210.08920894,Carica papaya,Papaya,KNApSAcK
+92,C00003040,99-87-6,p-Cymene,C10H14,134.10955045,Carica papaya,Papaya,KNApSAcK
+93,C00003047,78-70-6,(+-)-Linalool,C10H18O,154.1357652,Carica papaya,Papaya,KNApSAcK
+94,C00003060,99-86-5,alpha-Terpinene,C10H16,136.12520051,Carica papaya,Papaya,KNApSAcK
+95,C00003061,99-85-4,gamma-Terpinene,C10H16,136.12520051,Carica papaya,Papaya,KNApSAcK
+96,C00003110,87-44-5,beta-Caryophyllene,C15H24,204.18780077,Carica papaya,Papaya,KNApSAcK
+97,C00003130,502-61-4,alpha-Farnesene,C15H24,204.18780077,Carica papaya,Papaya,KNApSAcK
+98,C00003147,6753-98-6,alpha-Caryophyllene (obsol.),C15H24,204.18780077,Carica papaya,Papaya,KNApSAcK
+99,C00003166,142-50-7,Nerolidol,C15H26O,222.19836545,Carica papaya,Papaya,KNApSAcK
+100,C00003204,495-60-3,alpha-Zingiberene,C15H24,204.18780077,Carica papaya,Papaya,KNApSAcK
+101,C00003428,24034-73-9,"(E,E,E)-Geranylgeraniol",C20H34O,290.26096571,Carica papaya,Papaya,KNApSAcK
+102,C00003648,57-88-5,Cholesterol,C27H46O,386.35486609,Carica papaya,Papaya,KNApSAcK
+103,C00003760,640-03-9,Antheraxanthin,C40H56O3,584.42294565,Carica papaya,Papaya,KNApSAcK
+104,C00003765,7488-99-5,alpha-Carotene,C40H56,536.43820179,Carica papaya,Papaya,KNApSAcK
+105,C00003766,472-92-4,delta-Carotene,C40H56,536.43820179,Carica papaya,Papaya,KNApSAcK
+106,C00003767,1923-89-3,"beta-Carotene 5,6-epoxide",C40H56O,552.43311641,Carica papaya,Papaya,KNApSAcK
+107,C00003770,24480-38-4,alpha-Cryptoxanthin,C40H56O,552.43311641,Carica papaya,Papaya,KNApSAcK
+108,C00003776,127-40-2,Lutein,C40H56O2,568.42803103,Carica papaya,Papaya,KNApSAcK
+109,C00003779,515-06-0,Mutatochrome,C40H56O,552.43311641,Carica papaya,Papaya,KNApSAcK
+110,C00003780,14660-91-4,Neoxanthin,C40H56O4,600.41786028,Carica papaya,Papaya,KNApSAcK
+111,C00003787,126-29-4,Violaxanthin,C40H56O4,600.41786028,Carica papaya,Papaya,KNApSAcK
+112,C00004565,520-18-3,Kaempferol,C15H10O6,286.04773805,Carica papaya,Papaya,KNApSAcK
+113,C00004631,117-39-5,Quercetin,C15H10O7,302.04265268,Carica papaya,Papaya,KNApSAcK
+114,C00005169,17650-84-9,Kaempferol 3-rutinoside,C27H30O15,594.15847029,Carica papaya,Papaya,KNApSAcK
+115,C00005219,55804-74-5,Clitorin,C33H40O19,740.2163791,Carica papaya,Papaya,KNApSAcK
+116,C00005413,153-18-4,Quercetin 3-rutinoside,C27H30O16,610.15338491,Carica papaya,Papaya,KNApSAcK
+117,C00005456,55696-57-6,Manghaslin,C33H40O20,756.21129372,Carica papaya,Papaya,KNApSAcK
+118,C00005730,17912-87-7,Myricitrin,C21H20O12,464.09547611,Carica papaya,Papaya,KNApSAcK
+119,C00007242,495-61-4,beta-Bisabolene,C15H24,204.18780077,Carica papaya,Papaya,KNApSAcK
+120,C00007247,463-40-1,alpha-Linolenic acid,C18H30O2,278.2245802,Carica papaya,Papaya,KNApSAcK
+121,C00007263,,Cinnamoyl-CoA,C30H42N7O17P3S,897.15707317,Carica papaya,Papaya,KNApSAcK
+122,C00007264,30802-02-9,Feruloyl-CoA,C31H44N7O19P3S,943.16255248,Carica papaya,Papaya,KNApSAcK
+123,C00007280,30802-00-7,p-Coumaroyl CoA,C30H42N7O18P3S,913.15198779,Carica papaya,Papaya,KNApSAcK
+124,C00007281,53034-79-0,caffeoyl-CoA,C30H42N7O19P3S,929.14690242,Carica papaya,Papaya,KNApSAcK
+125,C00007283,54429-80-0,Sinapoyl-CoA,C32H46N7O20P3S,973.17311717,Carica papaya,Papaya,KNApSAcK
+126,C00007290,58-86-6,D-Xylose,C5H10O5,150.05282343,Carica papaya,Papaya,KNApSAcK
+127,C00007298,62-49-7,Choline,C5H14NO1,104.10753908,Carica papaya,Papaya,KNApSAcK
+128,C00007336,1782-55-4,5-Hydroxyferulic acid,C10H10O5,210.05282343,Carica papaya,Papaya,KNApSAcK
+129,C00007337,1782-47-4,5-Hydroxyconiferyl alcohol,C10H12O4,196.07355887,Carica papaya,Papaya,KNApSAcK
+130,C00007346,499-26-3,Benzylglucosinolate,C14H19NO9S2,409.05012267,Carica papaya,Papaya,KNApSAcK
+131,C00007361,59862-14-5,5-Hydroxyferuloyl-CoA,C31H44N7O20P3S,959.1574671,Carica papaya,Papaya,KNApSAcK
+132,C00007422,638-53-9,Tridecanoic acid,C13H26O2,214.19328007,Carica papaya,Papaya,KNApSAcK
+133,C00007423,1002-84-2,Pentadecanoic acid,C15H30O2,242.2245802,Carica papaya,Papaya,KNApSAcK
+134,C00007426,506-12-7,Heptadecanoic acid,C17H34O2,270.25588033,Carica papaya,Papaya,KNApSAcK
+135,C00007511,68149-78-0,Caffeoyl aldehyde,C9H8O3,164.04734412,Carica papaya,Papaya,KNApSAcK
+136,C00007535,122-78-1,Benzeneacetaldehyde,C8H8O,120.05751488,Carica papaya,Papaya,KNApSAcK
+137,C00007542,629-80-1,Hexadecanal,C16H32O,240.24531564,Carica papaya,Papaya,KNApSAcK
+138,C00007619,77-92-9,Citric acid,C6H8O7,192.02700261,Carica papaya,Papaya,KNApSAcK
+139,C00010303,460-01-5,"2,6-Dimethyl-1,3,5,7-octatetraenene",C10H14,134.10955045,Carica papaya,Papaya,KNApSAcK
+140,C00010859,696-29-7,Isopropylcyclohexane,C9H18,126.14085057,Carica papaya,Papaya,KNApSAcK
+141,C00010868,5989-27-5,(+)-Limonene,C10H16,136.12520051,Carica papaya,Papaya,KNApSAcK
+142,C00010872,555-10-2,beta-Phellandrene,C10H16,136.12520051,Carica papaya,Papaya,KNApSAcK
+143,C00011720,23986-74-5,(-)-Germacrene D,C15H24,204.18780077,Carica papaya,Papaya,KNApSAcK
+144,C00012474,118-65-0,Isocaryophyllene,C15H24,204.18780077,Carica papaya,Papaya,KNApSAcK
+145,C00019221,120-51-4,Benzyl benzoate,C14H12O2,212.08372963,Carica papaya,Papaya,KNApSAcK
+146,C00019560,64-17-5,Ethanol,C2H6O,46.04186481,Carica papaya,Papaya,KNApSAcK
+147,C00019681,59-23-4,D-Galactose,C6H12O6,180.06338812,Carica papaya,Papaya,KNApSAcK
+148,C00020150,19435-97-3,(-)-delta-Cadinol,C15H26O,222.19836545,Carica papaya,Papaya,KNApSAcK
+149,C00021903,13474-59-4,trans-alpha-Bergamotene,C15H24,204.18780077,Carica papaya,Papaya,KNApSAcK
+150,C00022109,1113-21-9,Geranyl linalool,C20H34O,290.26096571,Carica papaya,Papaya,KNApSAcK
+151,C00023248,13312-52-2,"(9Z)-beta,beta-Carotene",C40H56,536.43820179,Carica papaya,Papaya,KNApSAcK
+152,C00023249,6811-73-0,"(13Z)-beta,beta-Carotene",C40H56,536.43820179,Carica papaya,Papaya,KNApSAcK
+153,C00023251,64727-64-6,9-cis-Lycopene,C40H56,536.43820179,Carica papaya,Papaya,KNApSAcK
+154,C00023252,13018-46-7,(13Z)-Lycopene,C40H56,536.43820179,Carica papaya,Papaya,KNApSAcK
+155,C00023663,641-38-3,Alternariol,C14H10O5,258.05282343,Carica papaya,Papaya,KNApSAcK
+156,C00023984,706-14-9,gamma-Decalactone,C10H18O2,170.13067982,Carica papaya,Papaya,KNApSAcK
+157,C00029330,3913-81-3,(E)-2-Decenal,C10H18O,154.1357652,Carica papaya,Papaya,KNApSAcK
+158,C00029335,13877-91-3,(E)-beta-Ocimene,C10H16,136.12520051,Carica papaya,Papaya,KNApSAcK
+159,C00029336,3796-70-1,(E)-Geranyl acetone,C13H22O,194.16706532,Carica papaya,Papaya,KNApSAcK
+160,C00029350,28973-97-9,cis-beta-Farnesene,C15H24,204.18780077,Carica papaya,Papaya,KNApSAcK
+161,C00029423,3391-86-4,1-Octen-3-ol,C8H16O,128.12011513,Carica papaya,Papaya,KNApSAcK
+162,C00029456,98-00-0,Furfuryl alcohol,C5H6O2,98.03677944,Carica papaya,Papaya,KNApSAcK
+163,C00029462,79-31-2,2-Methylpropanoic acid,C4H8O2,88.0524295,Carica papaya,Papaya,KNApSAcK
+164,C00029544,562-74-3,4-Terpineol,C10H18O,154.1357652,Carica papaya,Papaya,KNApSAcK
+165,C00029546,7786-61-0,4-Vinyl guaiacol,C9H10O2,150.06807956,Carica papaya,Papaya,KNApSAcK
+166,C00029547,67-47-0,5-Hydroxymethyl-2-furaldehyde,C6H6O3,126.03169406,Carica papaya,Papaya,KNApSAcK
+167,C00029674,98-55-5,alpha-Terpineol,C10H18O,154.1357652,Carica papaya,Papaya,KNApSAcK
+168,C00029811,100-51-6,Benzenemethanol,C7H8O,108.05751488,Carica papaya,Papaya,KNApSAcK
+169,C00029816,79-77-6,beta-Ionone,C13H20O,192.15141526,Carica papaya,Papaya,KNApSAcK
+170,C00029961,621-82-9,Cinnamic acid,C9H8O2,148.0524295,Carica papaya,Papaya,KNApSAcK
+171,C00029971,1197-06-4,cis-Carveol,C10H16O,152.12011513,Carica papaya,Papaya,KNApSAcK
+172,C00030099,112-31-2,Decanal,C10H20O,156.15141526,Carica papaya,Papaya,KNApSAcK
+173,C00030152,112-53-8,1-Dodecanol,C12H26O,186.19836545,Carica papaya,Papaya,KNApSAcK
+174,C00030220,7452-79-1,Ethyl-2-methylbutanoate,C7H14O2,130.09937969,Carica papaya,Papaya,KNApSAcK
+175,C00030223,544-35-4,Ethyl linoleate,C20H36O2,308.27153039,Carica papaya,Papaya,KNApSAcK
+176,C00030331,98-01-1,Furfural,C5H4O2,96.02112937,Carica papaya,Papaya,KNApSAcK
+177,C00030755,112-39-0,Methyl hexadecanoate,C17H34O2,270.25588033,Carica papaya,Papaya,KNApSAcK
+178,C00030757,112-63-0,"Linoleic acid, methyl ester",C19H34O2,294.25588033,Carica papaya,Papaya,KNApSAcK
+179,C00030760,112-62-9,Methyl oleate,C19H36O2,296.27153039,Carica papaya,Papaya,KNApSAcK
+180,C00030767,119-36-8,Methyl salicylate,C8H8O3,152.04734412,Carica papaya,Papaya,KNApSAcK
+181,C00030807,906-33-2,5-Caffeoylquinic acid,C16H18O9,354.09508217,Carica papaya,Papaya,KNApSAcK
+182,C00030827,629-92-5,Nonadecane,C19H40,268.31300128,Carica papaya,Papaya,KNApSAcK
+183,C00030828,124-19-6,Nonadienal,C9H18O,142.1357652,Carica papaya,Papaya,KNApSAcK
+184,C00030829,112-05-0,Nonanoic acid,C9H18O2,158.13067982,Carica papaya,Papaya,KNApSAcK
+185,C00030879,593-45-3,n-Octadecane,C18H38,254.29735121,Carica papaya,Papaya,KNApSAcK
+186,C00030880,124-13-0,Octanal,C8H16O,128.12011513,Carica papaya,Papaya,KNApSAcK
+187,C00031014,2538-87-6,p-Coumaraldehyde,C9H8O2,148.0524295,Carica papaya,Papaya,KNApSAcK
+188,C00031437,68-26-8,Retinol,C20H30O,286.22966558,Carica papaya,Papaya,KNApSAcK
+189,C00032761,622-78-6,Benzyl isothiocyanate,C8H7NS,149.02991996,Carica papaya,Papaya,KNApSAcK
+190,C00033848,57-48-7,D-Fructose,C6H12O6,180.06338812,Carica papaya,Papaya,KNApSAcK
+191,C00034054,93-58-3,Methyl benzoate,C8H8O2,136.0524295,Carica papaya,Papaya,KNApSAcK
+192,C00034185,36413-60-2,Quinic acid,C7H12O6,192.06338812,Carica papaya,Papaya,KNApSAcK
+193,C00034452,100-52-7,Benzaldehyde,C7H6O,106.04186481,Carica papaya,Papaya,KNApSAcK
+194,C00034496,34995-77-2,trans-Furanoid linalool oxide,C10H18O2,170.13067982,Carica papaya,Papaya,KNApSAcK
+195,C00034746,5989-33-3,Z-Furanoid linalool oxide,C10H18O2,170.13067982,Carica papaya,Papaya,KNApSAcK
+196,C00034747,14009-71-3,cis-Linalool oxide pyranoid,C10H18O2,170.13067982,Carica papaya,Papaya,KNApSAcK
+197,C00034775,110-93-0,6-Methyl-5-hepten-2-one,C8H14O,126.10446507,Carica papaya,Papaya,KNApSAcK
+198,C00034818,6537-80-0,Cichoric acid,C22H18O12,474.07982604,Carica papaya,Papaya,KNApSAcK
+199,C00034880,111-71-7,Heptanal,C7H14O,114.10446507,Carica papaya,Papaya,KNApSAcK
+200,C00035002,1125-21-9,"2,6,6-Trimethyl-2-cyclohexene-1,4-dione",C9H12O2,152.08372963,Carica papaya,Papaya,KNApSAcK
+201,C00035062,99-49-0,Carvone,C10H14O2,166.09937969,Carica papaya,Papaya,KNApSAcK
+202,C00035092,106-28-5,trans-Farnesol,C15H26O,222.19836545,Carica papaya,Papaya,KNApSAcK
+203,C00035116,123-92-2,3-Methyl butyl acetate,C7H14O2,130.09937969,Carica papaya,Papaya,KNApSAcK
+204,C00035130,1189-09-9,Methyl geranate,C11H18O2,182.13067982,Carica papaya,Papaya,KNApSAcK
+205,C00035501,123-19-3,4-Heptanone,C7H14O,114.10446507,Carica papaya,Papaya,KNApSAcK
+206,C00035535,140-11-4,Benzyl acetate,C9H10O2,150.06807956,Carica papaya,Papaya,KNApSAcK
+207,C00035536,23726-93-4,beta-Damascenone,C13H18O,190.1357652,Carica papaya,Papaya,KNApSAcK
+208,C00035546,109-21-7,Butyl butyrate,C8H16O2,144.11502975,Carica papaya,Papaya,KNApSAcK
+209,C00035564,150-84-5,Citronellyl acetate,C12H22O2,198.16197995,Carica papaya,Papaya,KNApSAcK
+210,C00035611,110-38-3,Ethyl decanoate,C12H24O2,200.17763001,Carica papaya,Papaya,KNApSAcK
+211,C00035612,123-66-0,Ethyl hexanoate,C8H16O2,144.11502975,Carica papaya,Papaya,KNApSAcK
+212,C00035613,106-32-1,Ethyl octanoate,C10H20O2,172.14632988,Carica papaya,Papaya,KNApSAcK
+213,C00035615,106-33-2,Ethyl laurate,C14H28O2,228.20893014,Carica papaya,Papaya,KNApSAcK
+214,C00035616,124-06-1,Ethyl myristate,C16H32O2,256.24023027,Carica papaya,Papaya,KNApSAcK
+215,C00035617,105-37-3,Ethyl propanoate,C5H10O2,102.06807956,Carica papaya,Papaya,KNApSAcK
+216,C00035639,544-76-3,Hexadecane,C16H34,226.26605108,Carica papaya,Papaya,KNApSAcK
+217,C00035690,110-42-9,Methyl caprate,C11H22O2,186.16197995,Carica papaya,Papaya,KNApSAcK
+218,C00035692,111-82-0,Methyl laurate,C13H26O2,214.19328007,Carica papaya,Papaya,KNApSAcK
+219,C00035778,108-38-3,"1,3-Dimethylbenzene",C8H10,106.07825032,Carica papaya,Papaya,KNApSAcK
+220,C00035784,71-41-0,1-Pentanol,C5H12O,88.08881501,Carica papaya,Papaya,KNApSAcK
+221,C00035785,1629-58-9,1-Penten-3-one,C5H8O,84.05751488,Carica papaya,Papaya,KNApSAcK
+222,C00035853,108-87-2,Cyclohexylmethane,C7H14,98.10955045,Carica papaya,Papaya,KNApSAcK
+223,C00035879,629-59-4,n-Tetradecane,C14H30,198.23475096,Carica papaya,Papaya,KNApSAcK
+224,C00036262,2345-28-0,2-Pentadecanone,C15H30O,226.22966558,Carica papaya,Papaya,KNApSAcK
+225,C00036263,593-08-8,2-Tridecanone,C13H26O,198.19836545,Carica papaya,Papaya,KNApSAcK
+226,C00036271,515-13-9,(-)-beta-Elemene,C15H24,204.18780077,Carica papaya,Papaya,KNApSAcK
+227,C00036488,626-93-7,2-Hexanol,C6H14O,102.10446507,Carica papaya,Papaya,KNApSAcK
+228,C00044287,79-09-4,Propionic acid,C3H6O2,74.03677944,Carica papaya,Papaya,KNApSAcK
+229,C00046607,644-30-4,alpha-Curcumene,C15H22,202.1721507,Carica papaya,Papaya,KNApSAcK
+230,C00048304,67-64-1,Acetone,C3H6O,58.04186481,Carica papaya,Papaya,KNApSAcK
+231,C00048310,673-84-7,"2,6-Dimethyl-2,4,6-octatriene",C10H16,136.12520051,Carica papaya,Papaya,KNApSAcK
+232,C00048375,124-18-5,Decane,C10H22,142.1721507,Carica papaya,Papaya,KNApSAcK
+233,C00048438,67-63-0,Isopropyl alcohol,C3H8O,60.05751488,Carica papaya,Papaya,KNApSAcK
+234,C00048949,590-86-3,3-Methyl-butanal,C5H10O,86.07316494,Carica papaya,Papaya,KNApSAcK
+235,C00048963,928-94-9,cis-2-Hexenol,C6H12O,100.08881501,Carica papaya,Papaya,KNApSAcK
+236,C00048964,3681-71-8,cis-3-Hexenyl acetate,C8H14O2,142.09937969,Carica papaya,Papaya,KNApSAcK
+237,C00049006,110-54-3,Hexane,C6H14,86.10955045,Carica papaya,Papaya,KNApSAcK
+238,C00050413,104-76-7,2-Ethyl-1-hexanol,C8H18O,130.1357652,Carica papaya,Papaya,KNApSAcK
+239,C00050415,137-32-6,2-Methyl-1-butanol,C5H12O,88.08881501,Carica papaya,Papaya,KNApSAcK
+240,C00050423,105-57-7,Acetal,C6H14O2,118.09937969,Carica papaya,Papaya,KNApSAcK
+241,C00050424,513-86-0,3-hydroxy-2-Butanone,C4H8O2,88.0524295,Carica papaya,Papaya,KNApSAcK
+242,C00050431,123-72-8,Butanal,C4H8O,72.05751488,Carica papaya,Papaya,KNApSAcK
+243,C00050437,431-03-8,"2,3-Butanedione",C4H6O2,86.03677944,Carica papaya,Papaya,KNApSAcK
+244,C00050444,5405-41-4,Ethyl 3-hydroxybutyrate,C6H12O3,132.07864425,Carica papaya,Papaya,KNApSAcK
+245,C00050446,105-54-4,Ethyl butanoate,C6H12O2,116.08372963,Carica papaya,Papaya,KNApSAcK
+246,C00050447,109-94-4,Ethyl formate,C3H6O2,74.03677944,Carica papaya,Papaya,KNApSAcK
+247,C00050449,108-64-5,Ethyl-3-methylbutanoate,C7H14O2,130.09937969,Carica papaya,Papaya,KNApSAcK
+248,C00050450,97-64-3,Ethyl lactate,C5H10O3,118.06299419,Carica papaya,Papaya,KNApSAcK
+249,C00050452,1191-41-9,Ethyl linolenate,C20H34O2,306.25588033,Carica papaya,Papaya,KNApSAcK
+250,C00050454,111-62-6,Ethyl oleate,C20H38O2,310.28718046,Carica papaya,Papaya,KNApSAcK
+251,C00050455,628-97-7,Ethyl palmitate,C18H36O2,284.27153039,Carica papaya,Papaya,KNApSAcK
+252,C00050458,111-61-5,Ethyl octadecanoate,C20H40O2,312.30283052,Carica papaya,Papaya,KNApSAcK
+253,C00050468,123-51-3,Isoamyl alcohol,C5H12O,88.08881501,Carica papaya,Papaya,KNApSAcK
+254,C00050470,78-83-1,2-methyl-1-propanol,C4H10O,74.07316494,Carica papaya,Papaya,KNApSAcK
+255,C00050471,110-19-0,Isobutyl acetate,C6H12O2,116.08372963,Carica papaya,Papaya,KNApSAcK
+256,C00050478,50-21-5,Lactic acid,C3H6O3,90.03169406,Carica papaya,Papaya,KNApSAcK
+257,C00050481,623-42-7,Methyl butanoate,C5H10O2,102.06807956,Carica papaya,Papaya,KNApSAcK
+258,C00050482,106-70-7,Methyl hexanoate,C7H14O2,130.09937969,Carica papaya,Papaya,KNApSAcK
+259,C00050488,71-23-8,1-Propanol,C3H8O,60.05751488,Carica papaya,Papaya,KNApSAcK
+260,C00050647,90-12-0,1-Methylnaphthalene,C11H10,142.07825032,Carica papaya,Papaya,KNApSAcK
+261,C00050680,623-36-9,2-Methyl-2-pentenal,C6H10O,98.07316494,Carica papaya,Papaya,KNApSAcK
+262,C00051252,123-76-2,Levulinic acid,C5H8O3,116.04734412,Carica papaya,Papaya,KNApSAcK
+263,C00051443,6915-15-7,Malic acid,C4H6O5,134.0215233,Carica papaya,Papaya,KNApSAcK
+264,C00051552,111-11-5,Methyl caprylate,C9H18O2,158.13067982,Carica papaya,Papaya,KNApSAcK
+265,C00051572,124-10-7,Methyl myristate,C15H30O2,242.2245802,Carica papaya,Papaya,KNApSAcK
+266,C00051588,108-88-3,Toluene,C7H8,92.06260026,Carica papaya,Papaya,KNApSAcK
+267,C00051648,526-99-8,Galactaric acid,C6H10O8,210.0375673,Carica papaya,Papaya,KNApSAcK
+268,C00052133,107-87-9,2-Pentanone,C5H10O,86.07316494,Carica papaya,Papaya,KNApSAcK
+269,C00052167,110-12-3,5-Methyl-2-hexanone,C7H14O,114.10446507,Carica papaya,Papaya,KNApSAcK
+270,C00052216,95-16-9,Benzothiazole,C7H5NS,135.0142699,Carica papaya,Papaya,KNApSAcK
+271,C00052250,57-00-1,Creatine,C4H9N3O2,131.06947655,Carica papaya,Papaya,KNApSAcK
+272,C00052377,10030-73-6,Palmitelaidic acid,C16H30O2,254.2245802,Carica papaya,Papaya,KNApSAcK
+273,C00052446,483-73-8,Cadinene,C15H28,208.21910089,Carica papaya,Papaya,KNApSAcK
+274,C00052475,29171-20-8,(+-)-Dehydrolinalool,C10H16O,152.12011513,Carica papaya,Papaya,KNApSAcK
+275,C00052504,64142-78-5,8-Hydroxylinalool,C10H18O2,170.13067982,Carica papaya,Papaya,KNApSAcK
+276,C00052562,5129-60-2,14-Methylpentadecanoic acid methyl ester,C17H34O2,270.25588033,Carica papaya,Papaya,KNApSAcK
+277,C00052570,934-74-7,"1-Ethyl-3,5-dimethylbenzene",C10H14,134.10955045,Carica papaya,Papaya,KNApSAcK
+278,C00052589,581-40-8,"2,3-Dimethylnaphthalene",C12H12,156.09390038,Carica papaya,Papaya,KNApSAcK
+279,C00052606,56979-64-7,"2,5-Dimethoxymandelic acid",C10H12O5,212.06847349,Carica papaya,Papaya,KNApSAcK
+280,C00052608,123-32-0,"2,5-Dimethylpyrazine",C6H8N2,108.06874827,Carica papaya,Papaya,KNApSAcK
+281,C00052612,108-50-9,"2,6-Dimethylpyrazine",C6H8N2,108.06874827,Carica papaya,Papaya,KNApSAcK
+282,C00052630,25494-04-6,2-Deoxygalactopyranose,C6H12O5,164.06847349,Carica papaya,Papaya,KNApSAcK
+283,C00052646,109-08-0,2-Methylpyrazine,C5H6N2,94.05309821,Carica papaya,Papaya,KNApSAcK
+284,C00052653,91-57-6,2-Methyl naphthalene,C11H10,142.07825032,Carica papaya,Papaya,KNApSAcK
+285,C00052657,20273-24-9,2-Penten-1-ol,C5H10O,86.07316494,Carica papaya,Papaya,KNApSAcK
+286,C00052661,10042-59-8,2-Propylheptanol,C10H22O,158.16706532,Carica papaya,Papaya,KNApSAcK
+287,C00052666,13443-54-4,"3,4-Dimethoxymandelic acid",C10H12O5,212.06847349,Carica papaya,Papaya,KNApSAcK
+288,C00052671,13741-21-4,"3,7-Dimethyl-1,5-octadiene-3,7-diol",C10H18O2,170.13067982,Carica papaya,Papaya,KNApSAcK
+289,C00052681,577-85-5,3-Hydroxyflavone,C15H10O3,238.06299419,Carica papaya,Papaya,KNApSAcK
+290,C00052689,31081-18-2,3-Methyl-5-propylnonane,C13H28,184.21910089,Carica papaya,Papaya,KNApSAcK
+291,C00052731,886030-30-4,5beta-Pregnan-17-ol,C21H36O,304.27661577,Carica papaya,Papaya,KNApSAcK
+292,C00052737,249647-14-1,5-Hydroxyconiferaldehyde,C10H10O4,194.05790881,Carica papaya,Papaya,KNApSAcK
+293,C00052775,56847-02-0,"Methyl 8,11,14-docosatrienoate",C23H40O2,348.30283052,Carica papaya,Papaya,KNApSAcK
+294,C00052793,60-35-5,Acetamide,C2H5NO,59.03711379,Carica papaya,Papaya,KNApSAcK
+295,C00052868,140-29-4,Benzeneacetonitrile,C8H7N,117.05784923,Carica papaya,Papaya,KNApSAcK
+296,C00052870,6895-56-3,Bergamotene,C15H24,204.18780077,Carica papaya,Papaya,KNApSAcK
+297,C00052883,100-41-4,Ethylbenzene,C8H10,106.07825032,Carica papaya,Papaya,KNApSAcK
+298,C00052890,10544-63-5,Ethyl crotonate,C6H10O2,114.06807956,Carica papaya,Papaya,KNApSAcK
+299,C00052891,106-30-9,Ethyl heptanoate,C9H18O2,158.13067982,Carica papaya,Papaya,KNApSAcK
+300,C00053005,16491-36-4,cis-3-Hexenyl butyrate,C10H18O2,170.13067982,Carica papaya,Papaya,KNApSAcK
+301,C00053045,2305-25-1,Ethyl 3-hydroxyhexanoate,C8H16O3,160.10994438,Carica papaya,Papaya,KNApSAcK
+302,C00053051,25429-38-3,Coumaric acid,C9H8O3,164.04734412,Carica papaya,Papaya,KNApSAcK
+303,C00053066,3598-26-3,Caffeoyl alcohol,C9H10O3,166.06299419,Carica papaya,Papaya,KNApSAcK
+304,C00053105,547-25-1,D-Turanose,C12H22O11,342.11621155,Carica papaya,Papaya,KNApSAcK
+305,C00053140,84-74-2,Dibutyl phthalate,C16H22O4,278.15180919,Carica papaya,Papaya,KNApSAcK
+306,C00053157,93-89-0,Ethyl benzoate,C9H10O2,150.06807956,Carica papaya,Papaya,KNApSAcK
+307,C00053165,959284-07-2,"Carbonic acid, pentadecyl propyl ester",C19H38O3,314.28209508,Carica papaya,Papaya,KNApSAcK
+308,C00053169,97-62-1,Ethyl isobutyrate,C6H12O2,116.08372963,Carica papaya,Papaya,KNApSAcK
+309,C00053196,695-06-7,gamma-Caprolactone,C6H10O2,114.06807956,Carica papaya,Papaya,KNApSAcK
+310,C00053254,459-80-3,Geranic acid,C10H16O2,168.11502975,Carica papaya,Papaya,KNApSAcK
+311,C00053264,556-50-3,Glycylglycine,C4H8N2O3,132.05349214,Carica papaya,Papaya,KNApSAcK
+312,C00053281,19163-87-2,Gulose,C6H12O6,180.06338812,Carica papaya,Papaya,KNApSAcK
+313,C00053431,35997-39-8,Lilac alcohol,C10H18O2,170.13067982,Carica papaya,Papaya,KNApSAcK
+314,C00053481,106-73-0,Methyl heptanoate,C8H16O2,144.11502975,Carica papaya,Papaya,KNApSAcK
+315,C00053483,624-24-8,FEMA 2752,C6H12O2,116.08372963,Carica papaya,Papaya,KNApSAcK
+316,C00053485,868-57-5,Methyl 2-methylbutanoate,C6H12O2,116.08372963,Carica papaya,Papaya,KNApSAcK
+317,C00053543,488-54-0,neo-Inositol,C6H12O6,180.06338812,Carica papaya,Papaya,KNApSAcK
+318,C00053576,1921-70-6,Norphytane,C19H40,268.31300128,Carica papaya,Papaya,KNApSAcK
+319,C00053610,88-06-2,Omal,C6H3Cl3O,195.92494785,Carica papaya,Papaya,KNApSAcK
+320,C00053660,616-25-1,1-Penten-3-ol,C5H10O,86.07316494,Carica papaya,Papaya,KNApSAcK
+321,C00053663,584-02-1,3-Pentanol,C5H12O,88.08881501,Carica papaya,Papaya,KNApSAcK
+322,C00053665,488-31-3,Pentaric acid,C5H8O7,180.02700261,Carica papaya,Papaya,KNApSAcK
+323,C00053681,638-36-8,Phytane,C20H42,282.32865134,Carica papaya,Papaya,KNApSAcK
+324,C00053702,488-23-3,"1,2,3,4-Tetramethylbenzene",C10H14,134.10955045,Carica papaya,Papaya,KNApSAcK
+325,C00053733,290-37-9,Pyrazine,C4H4N2,80.03744814,Carica papaya,Papaya,KNApSAcK
+326,C00053747,17812-24-7,Ribonic acid,C5H10O6,166.04773805,Carica papaya,Papaya,KNApSAcK
+327,C00053788,7270-77-1,Sorbopyranose,C6H12O6,180.06338812,Carica papaya,Papaya,KNApSAcK
+328,C00053789,87-79-6,L-(-)-Sorbose,C6H12O6,180.06338812,Carica papaya,Papaya,KNApSAcK
+329,C00053927,1678-93-9,1-Cyclohexylbutane,C10H20,140.15650064,Carica papaya,Papaya,KNApSAcK
+330,C00053958,98-82-8,2-Phenylpropane,C9H12,120.09390038,Carica papaya,Papaya,KNApSAcK
+331,C00053987,78-92-2,2-Butanol,C4H10O,74.07316494,Carica papaya,Papaya,KNApSAcK
+332,C00054019,78-93-3,2-Butanone,C4H8O,72.05751488,Carica papaya,Papaya,KNApSAcK
+333,C00054037,102-76-1,Blekin,C9H14O6,218.07903818,Carica papaya,Papaya,KNApSAcK
+334,C00054512,72362-02-8,"12,13-Didehydrocarpaine",C28H48N2O4,476.36140804,Carica papaya,Papaya,KNApSAcK
+335,C00054513,72362-03-9,Dehydrocarpaine II,C28H46N2O4,474.34575797,Carica papaya,Papaya,KNApSAcK
+336,C00054514,3760-91-6,psi-Carpaine,C28H50N2O4,478.3770581,Carica papaya,Papaya,KNApSAcK
+337,C00055602,526-73-8,"1,2,3-Trimethyl benzene",C9H12,120.09390038,Carica papaya,Papaya,KNApSAcK
+338,C00055604,108-67-8,"1,3,5-Trimethylbenzene",C9H12,120.09390038,Carica papaya,Papaya,KNApSAcK
+339,C00055631,2445-67-2,2-Methylpropyl 2-methylbutanoate,C9H18O2,158.13067982,Carica papaya,Papaya,KNApSAcK
+340,C00055659,623-37-0,3-Hexanol,C6H14O,102.10446507,Carica papaya,Papaya,KNApSAcK
+341,C00055766,1576-95-0,cis-2-Penten-1-ol,C5H10O,86.07316494,Carica papaya,Papaya,KNApSAcK
+342,C00055801,84-69-5,Diisobutyl phthalate,C16H22O4,278.15180919,Carica papaya,Papaya,KNApSAcK
+343,C00055845,7619-08-1,"Ethyl 9,12-octadecadienoate",C20H36O2,308.27153039,Carica papaya,Papaya,KNApSAcK
+344,C00056000,104-51-8,Butylbenzene,C10H14,134.10955045,Carica papaya,Papaya,KNApSAcK
+345,C00056020,95-47-6,o-Xylene,C8H10,106.07825032,Carica papaya,Papaya,KNApSAcK
+346,C00056539,1166-98-9,3-Epigibberellin A1,C19H24O6,348.1572885,Carica papaya,Papaya,KNApSAcK
+347,C00058761,39028-58-5,"trans-Linalool 3,7-oxide",C10H18O2,170.13067982,Carica papaya,Papaya,KNApSAcK
+348,C00058826,54-05-7,Chloroquine,C18H26ClN3,319.18152556,Carica papaya,Papaya,KNApSAcK
+349,C00058856,3683-12-3,2-Phenylethyl methacrylate,C12H14O2,190.09937969,Carica papaya,Papaya,KNApSAcK
+350,C00058883,1002-35-3,"1,3,7-Octatriene",C8H12,108.09390038,Carica papaya,Papaya,KNApSAcK
+351,C00058956,103-37-7,Benzyl n-butyrate,C11H14O2,178.09937969,Carica papaya,Papaya,KNApSAcK
+352,C00058961,103-65-1,Propylbenzene,C9H12,120.09390038,Carica papaya,Papaya,KNApSAcK
+353,C00058985,104-50-7,gamma-Octalactone,C8H14O2,142.09937969,Carica papaya,Papaya,KNApSAcK
+354,C00059014,10471-14-4,1-Ethoxy-1-methoxyethane,C5H12O2,104.08372963,Carica papaya,Papaya,KNApSAcK
+355,C00059027,105-21-5,gamma-Heptalactone,C7H12O2,128.08372963,Carica papaya,Papaya,KNApSAcK
+356,C00059032,105-66-8,Propyl butyrate,C7H14O2,130.09937969,Carica papaya,Papaya,KNApSAcK
+357,C00059059,106-27-4,Isoamyl butyrate,C9H18O2,158.13067982,Carica papaya,Papaya,KNApSAcK
+358,C00059061,106-36-5,Propyl propanoate,C6H12O2,116.08372963,Carica papaya,Papaya,KNApSAcK
+359,C00059062,106-42-3,p-Xylene,C8H10,106.07825032,Carica papaya,Papaya,KNApSAcK
+360,C00059066,106-93-4,"1,2-Dibromoethane",C2H4Br2,185.86797593,Carica papaya,Papaya,KNApSAcK
+361,C00059188,111-13-7,2-Octanone,C8H16O,128.12011513,Carica papaya,Papaya,KNApSAcK
+362,C00059222,1120-25-8,Palmitoleic acid methyl ester,C17H32O2,268.24023027,Carica papaya,Papaya,KNApSAcK
+363,C00059234,112431-33-1,"3-[2-(3-Hydroxyphenyl)ethyl]-4-[2-[6-(2-phenylethylamino)hexylamino]ethyl]benzene-1,2-diol, dihydrochloride",C30H42Cl2N2O3,548.25724864,Carica papaya,Papaya,KNApSAcK
+364,C00059252,1135-39-3,Benzyl 3-hydroxybutanoate,C11H14O3,194.09429431,Carica papaya,Papaya,KNApSAcK
+365,C00059374,1191-04-4,2-Hexenoic acid,C6H10O2,114.06807956,Carica papaya,Papaya,KNApSAcK
+366,C00059551,128-39-2,"2,6-Di-tert-butylphenol",C14H22O,206.16706532,Carica papaya,Papaya,KNApSAcK
+367,C00059736,136-60-7,Butyl benzoate,C11H14O2,178.09937969,Carica papaya,Papaya,KNApSAcK
+368,C00059816,13894-63-8,Methyl (E)-2-hexenoate,C7H12O2,128.08372963,Carica papaya,Papaya,KNApSAcK
+369,C00059843,13984-50-4,Methyl 5-oxohexanoate,C7H12O3,144.07864425,Carica papaya,Papaya,KNApSAcK
+370,C00059855,1406-18-4,Vitamin E,C29H50O2,430.38108084,Carica papaya,Papaya,KNApSAcK
+371,C00059893,142-82-5,Heptane,C7H16,100.12520051,Carica papaya,Papaya,KNApSAcK
+372,C00060017,147993-48-4,"Isopropyl 2,5-dihydroxybenzoate",C10H12O4,196.07355887,Carica papaya,Papaya,KNApSAcK
+373,C00060023,1487-49-6,Methyl 3-hydroxybutanoate,C5H10O3,118.06299419,Carica papaya,Papaya,KNApSAcK
+374,C00060144,1576-96-1,trans-2-Pentenol,C5H10O,86.07316494,Carica papaya,Papaya,KNApSAcK
+375,C00060231,1629-60-3,1-Hexen-3-one,C6H10O,98.07316494,Carica papaya,Papaya,KNApSAcK
+376,C00060254,16409-44-2,"3,7-Dimethyl-2,6-octadienyl acetate",C12H20O2,196.14632988,Carica papaya,Papaya,KNApSAcK
+377,C00060265,1653-31-2,2-Tridecanol,C13H28O,200.21401552,Carica papaya,Papaya,KNApSAcK
+378,C00060273,16630-66-3,Methyl 2-methylthioacetate,C4H8O2S,120.02450023,Carica papaya,Papaya,KNApSAcK
+379,C00060297,1678-92-8,Propylcyclohexane,C9H18,126.14085057,Carica papaya,Papaya,KNApSAcK
+380,C00060370,1741-41-9,"1,1-Diethoxy-2-methylpropane",C8H18O2,146.13067982,Carica papaya,Papaya,KNApSAcK
+381,C00060371,17417-00-4,Methyl 2-hydroxy-3-methylbutanoate,C6H12O3,132.07864425,Carica papaya,Papaya,KNApSAcK
+382,C00060513,18281-04-4,Ethyl nonadecanoate,C21H42O2,326.31848058,Carica papaya,Papaya,KNApSAcK
+383,C00060562,18707-60-3,Methyl crotonate,C5H8O2,100.0524295,Carica papaya,Papaya,KNApSAcK
+384,C00060591,1912-50-1,Luteoxanthin,C40H56O4,600.41786028,Carica papaya,Papaya,KNApSAcK
+385,C00060650,19780-79-1,2-Hexyl-1-octanol,C14H30O,214.22966558,Carica papaya,Papaya,KNApSAcK
+386,C00060690,20266-62-0,Ethyl 5-hydroxyhexanoate,C8H16O3,160.10994438,Carica papaya,Papaya,KNApSAcK
+387,C00060760,20824-07-1,Methylcarpamate,C15H29NO3,271.2147438,Carica papaya,Papaya,KNApSAcK
+388,C00060780,21188-58-9,Methyl 3-hydroxyhexanoate,C7H14O3,146.09429431,Carica papaya,Papaya,KNApSAcK
+389,C00060824,2198-61-0,Isoamyl hexanoate,C11H22O2,186.16197995,Carica papaya,Papaya,KNApSAcK
+390,C00060855,2230-70-8,"2,4,4-Trimethylcyclohexanone",C9H16O,140.12011513,Carica papaya,Papaya,KNApSAcK
+391,C00060949,2306-91-4,Isoamyl decanoate,C15H30O2,242.2245802,Carica papaya,Papaya,KNApSAcK
+392,C00061070,2495-37-6,Benzyl methacrylate,C11H12O2,176.08372963,Carica papaya,Papaya,KNApSAcK
+393,C00061188,2705-87-5,Allyl cyclohexanepropionate,C12H20O2,196.14632988,Carica papaya,Papaya,KNApSAcK
+394,C00061217,27631-26-1,Carpamic acid,C14H27NO3,257.19909374,Carica papaya,Papaya,KNApSAcK
+395,C00061224,27829-72-7,Ethyl (E)-2-hexenoate,C8H14O2,142.09937969,Carica papaya,Papaya,KNApSAcK
+396,C00061227,2785-89-9,p-Ethylguaiacol,C9H12O2,152.08372963,Carica papaya,Papaya,KNApSAcK
+397,C00061266,286428-24-8,"(5R)-5-Ethenyltetrahydro-alpha,alpha,5-trimethyl-2-furanmethanol",C10H18O2,170.13067982,Carica papaya,Papaya,KNApSAcK
+398,C00061315,29548-14-9,p-Menth-1-en-9-al,C10H16O,152.12011513,Carica papaya,Papaya,KNApSAcK
+399,C00061321,29674-47-3,Methyl 2-hydroxybutanoate,C5H10O3,118.06299419,Carica papaya,Papaya,KNApSAcK
+400,C00061370,30743-41-0,trans-Neoxanthin,C40H56O4,600.41786028,Carica papaya,Papaya,KNApSAcK
+401,C00061444,32793-34-3,Methyl 2-hydroxy-2-methylbutanoate,C6H12O3,132.07864425,Carica papaya,Papaya,KNApSAcK
+402,C00061455,3306-36-3,Sec-Butyl benzoate,C11H14O2,178.09937969,Carica papaya,Papaya,KNApSAcK
+403,C00061639,3724-65-0,2-Butenoic acid,C4H6O2,86.03677944,Carica papaya,Papaya,KNApSAcK
+404,C00061665,38327-39-8,cis-Lutein,C40H56O2,568.42803103,Carica papaya,Papaya,KNApSAcK
+405,C00061684,3877-15-4,Methyl propyl sulfide,C4H10S,90.05032105,Carica papaya,Papaya,KNApSAcK
+406,C00061719,40348-72-9,Methyl 2-hydroxy-4-methyl pentanoate,C7H14O3,146.09429431,Carica papaya,Papaya,KNApSAcK
+407,C00061741,41114-00-5,Ethyl pentadecanoate,C17H34O2,270.25588033,Carica papaya,Papaya,KNApSAcK
+408,C00061747,41654-19-7,Methyl 2-hydroxy-3-methylpentanoate,C7H14O3,146.09429431,Carica papaya,Papaya,KNApSAcK
+409,C00061764,4221-98-1,(-)-alpha-Phellandrene,C10H16,136.12520051,Carica papaya,Papaya,KNApSAcK
+410,C00061766,4230-97-1,Allyl octanoate,C11H20O2,184.14632988,Carica papaya,Papaya,KNApSAcK
+411,C00061784,4316-48-7,Methyl 4-oxooctanoate,C9H16O3,172.10994438,Carica papaya,Papaya,KNApSAcK
+412,C00061790,4358-59-2,Methyl(Z)-2-butenoate,C5H8O2,100.0524295,Carica papaya,Papaya,KNApSAcK
+413,C00061809,4455-13-4,Ethyl (methylthio)acetate,C5H10O2S,134.04015029,Carica papaya,Papaya,KNApSAcK
+414,C00061855,470-44-0,Alloxanic acid,C4H4N2O5,160.01202125,Carica papaya,Papaya,KNApSAcK
+415,C00061937,494-79-1,Melarsoprol,C12H15AsN6OS2,397.99647221,Carica papaya,Papaya,KNApSAcK
+416,C00062018,51384-51-1,Metoprolol,C15H25NO3,267.18344367,Carica papaya,Papaya,KNApSAcK
+417,C00062047,52089-55-1,Ethyl 2-hydroxyhexanoate,C8H16O3,160.10994438,Carica papaya,Papaya,KNApSAcK
+418,C00062066,5271-38-5,2-Methylthioethanol,C3H8OS,92.02958561,Carica papaya,Papaya,KNApSAcK
+419,C00062108,53535-33-4,1-Heptanol,C7H16O,116.12011513,Carica papaya,Papaya,KNApSAcK
+420,C00062135,540-05-6,all-trans-Phytofluene,C40H62,542.48515198,Carica papaya,Papaya,KNApSAcK
+421,C00062142,542-78-9,Malonaldehyde,C3H4O2,72.02112937,Carica papaya,Papaya,KNApSAcK
+422,C00062154,54546-22-4,Ethyl 9-hexadecenoate,C18H34O2,282.25588033,Carica papaya,Papaya,KNApSAcK
+423,C00062158,547-63-7,Methyl isobutyrate,C5H10O2,102.06807956,Carica papaya,Papaya,KNApSAcK
+424,C00062190,554-12-1,Methyl propanoate,C4H8O2,88.0524295,Carica papaya,Papaya,KNApSAcK
+425,C00062198,556-64-9,Methyl thiocyanate,C2H3NS,72.99861983,Carica papaya,Papaya,KNApSAcK
+426,C00062214,56009-31-5,Methyl 3-hydroxypentanoate,C6H12O3,132.07864425,Carica papaya,Papaya,KNApSAcK
+427,C00062223,56219-10-4,Ethyl palmitoleate,C18H34O2,282.25588033,Carica papaya,Papaya,KNApSAcK
+428,C00062289,58066-85-6,Miltefosine,C21H46NO4P,407.31644545,Carica papaya,Papaya,KNApSAcK
+429,C00062383,600-14-6,"2,3-Pentanedione",C5H8O2,100.0524295,Carica papaya,Papaya,KNApSAcK
+430,C00062394,6032-29-7,2-Pentanol,C5H12O,88.08881501,Carica papaya,Papaya,KNApSAcK
+431,C00062421,611-13-2,Methyl 2-furoate,C6H6O3,126.03169406,Carica papaya,Papaya,KNApSAcK
+432,C00062422,611-14-3,1-Ethyl-2-methylbenzene,C9H12,120.09390038,Carica papaya,Papaya,KNApSAcK
+433,C00062467,620-14-4,3-Ethyltoluene,C9H12,120.09390038,Carica papaya,Papaya,KNApSAcK
+434,C00062474,622-96-8,4-Ethyltoluene,C9H12,120.09390038,Carica papaya,Papaya,KNApSAcK
+435,C00062480,623-43-8,Methyl (E)-2-butenoate,C5H8O2,100.0524295,Carica papaya,Papaya,KNApSAcK
+436,C00062493,625-33-2,3-Penten-2-one,C5H8O,84.05751488,Carica papaya,Papaya,KNApSAcK
+437,C00062505,626-82-4,Butyl hexanoate,C10H20O2,172.14632988,Carica papaya,Papaya,KNApSAcK
+438,C00062522,629-64-1,Heptyl ether,C14H30O,214.22966558,Carica papaya,Papaya,KNApSAcK
+439,C00062547,638-11-9,Isopropyl butyrate,C7H14O2,130.09937969,Carica papaya,Papaya,KNApSAcK
+440,C00062596,65128-96-3,(z)-7-Tetradecenal,C14H26O,210.19836545,Carica papaya,Papaya,KNApSAcK
+441,C00062612,65416-24-2,Benzyl crotonate,C11H12O2,176.08372963,Carica papaya,Papaya,KNApSAcK
+442,C00062702,68862-27-1,Ethyl 9-hexadecenoate,C18H34O2,282.25588033,Carica papaya,Papaya,KNApSAcK
+443,C00062709,6909-20-2,"(1S,3R,4R,5S,6R)-(-)-4,5-Epoxy-carane",C10H16O,152.12011513,Carica papaya,Papaya,KNApSAcK
+444,C00062724,698-76-0,delta-Octalactone,C8H14O2,142.09937969,Carica papaya,Papaya,KNApSAcK
+445,C00062839,7367-81-9,Methyl oct-2-enoate,C9H16O2,156.11502975,Carica papaya,Papaya,KNApSAcK
+446,C00062840,7367-82-0,Ethyl 2-octenoate,C10H18O2,170.13067982,Carica papaya,Papaya,KNApSAcK
+447,C00062841,7367-84-2,Ethyl (Z)-4-decenoate,C12H22O2,198.16197995,Carica papaya,Papaya,KNApSAcK
+448,C00062900,75-85-4,2-Methyl-2-butanol,C5H12O,88.08881501,Carica papaya,Papaya,KNApSAcK
+449,C00062964,775-64-4,2-(1-Adamantyl)propan-2-ol,C13H22O,194.16706532,Carica papaya,Papaya,KNApSAcK
+450,C00063050,80599-13-9,Gurjunene,C15H24,204.18780077,Carica papaya,Papaya,KNApSAcK
+451,C00063394,924-50-5,Methyl 3-methyl-2-butenoate,C6H10O2,114.06807956,Carica papaya,Papaya,KNApSAcK
+452,C00063444,94-26-8,Butylparaben,C11H14O3,194.09429431,Carica papaya,Papaya,KNApSAcK
+453,C00063445,94-46-2,Isoamyl benzoate,C12H16O2,192.11502975,Carica papaya,Papaya,KNApSAcK
+454,C00063483,95-63-6,"1,2,4-Trimethylbenzene",C9H12,120.09390038,Carica papaya,Papaya,KNApSAcK
+455,C00063541,98-91-9,Thiobenzoic acid,C7H6OS,138.01393554,Carica papaya,Papaya,KNApSAcK
+0,C00000001,545-97-1,Gibberellin A1,C19H24O6,348.1572885,Carica papaya,Carica,KNApSAcK
+1,C00000003,77-06-5,Gibberellin A3,C19H22O6,346.14163844,Carica papaya,Carica,KNApSAcK
+2,C00000035,35214-68-7,Gibberellin A35,C19H24O6,348.1572885,Carica papaya,Carica,KNApSAcK
+3,C00000055,55035-85-3,Gibberellin A55,C19H24O7,364.15220312,Carica papaya,Carica,KNApSAcK
+4,C00000136,470-82-6,"1,8-Cineol",C10H18O,154.1357652,Carica papaya,Carica,KNApSAcK
+5,C00000149,6750-60-3,Espatulenol,C15H24O,220.18271539,Carica papaya,Carica,KNApSAcK
+6,C00000152,7400-08-0,p-Coumaric acid,C9H8O3,164.04734412,Carica papaya,Carica,KNApSAcK
+7,C00000164,473-15-4,(+)-beta-Eudesmol,C15H26O,222.19836545,Carica papaya,Carica,KNApSAcK
+8,C00000206,69-72-7,Salicylic acid,C7H6O3,138.03169406,Carica papaya,Carica,KNApSAcK
+9,C00000207,65-85-0,Benzoic acid,C7H6O2,122.03677944,Carica papaya,Carica,KNApSAcK
+10,C00000297,66-97-7,Ficusin,C11H6O3,186.03169406,Ficus carica,Carica,KNApSAcK
+11,C00000351,6728-26-3,(2E)-2-Hexanal,C6H10O,98.07316494,Carica papaya,Carica,KNApSAcK
+12,C00000354,928-95-0,(E)-2-Hexenol,C6H12O,100.08881501,Carica papaya,Carica,KNApSAcK
+13,C00000355,928-97-2,trans-3-Hexenol,C6H12O,100.08881501,Carica papaya,Carica,KNApSAcK
+14,C00000356,928-96-1,cis-3-Hexen-1-ol,C6H12O,100.08881501,Carica papaya,Carica,KNApSAcK
+15,C00000357,66-25-1,Hexanal,C6H12O,100.08881501,Carica papaya,Carica,KNApSAcK
+16,C00000358,111-27-3,Hexan-1-ol,C6H14O,102.10446507,Carica papaya,Carica,KNApSAcK
+17,C00000575,484-20-8,5-Methoxypsoralen,C12H8O4,216.04225874,Ficus carica,Carica,KNApSAcK
+18,C00000584,13849-08-6,(+)-Marmesin,C14H14O4,246.08920894,Ficus carica,Carica,KNApSAcK
+19,C00000610,518-28-5,(-)-Podophyllotoxin,C22H22O8,414.13146768,Carica papaya,Carica,KNApSAcK
+20,C00000613,3690-05-9,p-Coumaryl alcohol,C9H10O2,150.06807956,Carica papaya,Carica,KNApSAcK
+21,C00000614,458-35-5,Coniferyl alcohol,C10H12O3,180.07864425,Carica papaya,Carica,KNApSAcK
+22,C00000615,501-16-6,Caffeic acid,C9H8O4,180.04225874,Carica papaya,Carica,KNApSAcK
+23,C00000750,103-82-2,Phenylacetic acid,C8H8O2,136.0524295,Carica papaya,Carica,KNApSAcK
+24,C00000805,80-56-8,alpha-Pinene,C10H16,136.12520051,Carica papaya,Carica,KNApSAcK
+25,C00000816,127-91-3,beta-Pinene,C10H16,136.12520051,Carica papaya,Carica,KNApSAcK
+26,C00000823,138-86-3,Limonene,C10H16,136.12520051,Carica papaya,Carica,KNApSAcK
+27,C00000843,3338-55-4,cis-beta-Ocimene,C10H16,136.12520051,Carica papaya,Carica,KNApSAcK
+28,C00000845,106-24-1,(E)-geraniol,C10H18O,154.1357652,Carica papaya,Carica,KNApSAcK
+29,C00000853,123-35-3,beta-Myrcene,C10H16,136.12520051,Carica papaya,Carica,KNApSAcK
+30,C00000861,586-62-9,alpha-Terpinolene,C10H16,136.12520051,Carica papaya,Carica,KNApSAcK
+31,C00000862,3779-61-1,trans-beta-Ocimene,C10H16,136.12520051,Carica papaya,Carica,KNApSAcK
+32,C00000905,13920-14-4,"15,15'-cis-Phytoene",C40H64,544.50080204,Carica papaya,Carica,KNApSAcK
+33,C00000908,6699-20-3,Geranylgeranyl diphosphate,C20H36O7P2,450.19362648,Carica papaya,Carica,KNApSAcK
+34,C00000911,502-65-8,Lycopene,C40H56,536.43820179,Carica papaya,Carica,KNApSAcK
+35,C00000913,27664-65-9,15-cis-Phytofluene,C40H62,542.48515198,Carica papaya,Carica,KNApSAcK
+36,C00000919,7235-40-7,beta-Carotene,C40H56,536.43820179,Carica papaya,Carica,KNApSAcK
+37,C00000920,472-70-8,beta-Cryptoxanthin,C40H56O,552.43311641,Carica papaya,Carica,KNApSAcK
+38,C00000926,472-93-5,gamma-Carotene,C40H56,536.43820179,Carica papaya,Carica,KNApSAcK
+39,C00000931,144-68-3,Zeaxanthin,C40H56O2,568.42803103,Carica papaya,Carica,KNApSAcK
+40,C00000934,72746-33-9,zehta-carotene,C40H60,540.46950191,Carica papaya,Carica,KNApSAcK
+41,C00000970,520-26-3,Hesperidin,C28H34O15,610.18977042,Carica papaya,Carica,KNApSAcK
+42,C00000982,480-41-1,Naringenin,C15H12O5,272.06847349,Carica papaya,Carica,KNApSAcK
+43,C00001119,3646-73-9,alpha-D-Galactopyranose,C6H12O6,180.06338812,Carica papaya,Carica,KNApSAcK
+44,C00001122,492-62-6,alpha-D-Glucose,C6H12O6,180.06338812,Carica papaya,Carica,KNApSAcK
+45,C00001132,470-46-2,Sedoheptulose,C7H14O7,210.0739528,Carica papaya,Carica,KNApSAcK
+46,C00001134,528-50-7,Cellobiose,C12H22O11,342.11621155,Carica papaya,Carica,KNApSAcK
+47,C00001145,512-69-6,Raffinose,C18H32O16,504.16903498,Carica papaya,Carica,KNApSAcK
+48,C00001151,57-50-1,D-Sucrose,C12H22O11,342.11621155,Carica papaya,Carica,KNApSAcK
+49,C00001164,87-89-8,Inositol,C6H12O6,180.06338812,Carica papaya,Carica,KNApSAcK
+50,C00001176,64-19-7,Acetic acid,C2H4O2,60.02112937,Carica papaya,Carica,KNApSAcK
+51,C00001178,124-04-9,Adipic acid,C6H10O4,146.05790881,Carica papaya,Carica,KNApSAcK
+52,C00001179,50-81-7,(+)-Ascorbic acid,C6H8O6,176.03208799,Carica papaya,Carica,KNApSAcK
+53,C00001180,107-92-6,Butanoic acid,C4H8O2,88.0524295,Carica papaya,Carica,KNApSAcK
+54,C00001183,110-17-8,Fumaric acid,C4H4O4,116.01095862,Carica papaya,Carica,KNApSAcK
+55,C00001183,110-17-8,Fumaric acid,C4H4O4,116.01095862,Ficus carica,Carica,KNApSAcK
+56,C00001189,503-74-2,3-Methylbutanoic acid,C5H10O2,102.06807956,Carica papaya,Carica,KNApSAcK
+57,C00001192,97-67-6,L-(-)-Malic acid,C4H6O5,134.0215233,Carica papaya,Carica,KNApSAcK
+58,C00001200,127-17-3,Pyruvic acid,C3H4O3,88.01604399,Carica papaya,Carica,KNApSAcK
+59,C00001205,110-15-6,Succinic acid,C4H6O4,118.02660868,Carica papaya,Carica,KNApSAcK
+60,C00001208,109-52-4,pentanoic acid,C5H10O2,102.06807956,Carica papaya,Carica,KNApSAcK
+61,C00001213,334-48-5,Capric acid,C10H20O2,172.14632988,Carica papaya,Carica,KNApSAcK
+62,C00001218,142-62-1,Caproic acid,C6H12O2,116.08372963,Carica papaya,Carica,KNApSAcK
+63,C00001221,143-07-7,Lauric acid,C12H24O2,200.17763001,Carica papaya,Carica,KNApSAcK
+64,C00001229,544-64-9,Myristoleic acid,C14H26O2,226.19328007,Carica papaya,Carica,KNApSAcK
+65,C00001231,124-07-2,Octanoic acid,C8H16O2,144.11502975,Carica papaya,Carica,KNApSAcK
+66,C00001233,57-10-3,Palmitic acid,C16H32O2,256.24023027,Carica papaya,Carica,KNApSAcK
+67,C00001234,373-49-9,Palmitoleic acid,C16H30O2,254.2245802,Carica papaya,Carica,KNApSAcK
+68,C00001238,57-11-4,Octadecanoic acid,C18H36O2,284.27153039,Carica papaya,Carica,KNApSAcK
+69,C00001245,624-92-0,Dimethyl disulfide,C2H6S2,93.99109165,Carica papaya,Carica,KNApSAcK
+70,C00001254,110-43-0,2-Heptanone,C7H14O,114.10446507,Carica papaya,Carica,KNApSAcK
+71,C00001259,91-20-3,Naphthalene,C10H8,128.06260026,Carica papaya,Carica,KNApSAcK
+72,C00001264,111-87-5,1-Octanol,C8H18O,130.1357652,Carica papaya,Carica,KNApSAcK
+73,C00001265,629-62-9,n-Pentadecane,C15H32,212.25040102,Carica papaya,Carica,KNApSAcK
+74,C00001308,141-78-6,Ethyl acetate,C4H8O2,88.0524295,Carica papaya,Carica,KNApSAcK
+75,C00001318,104-61-0,gamma-Nonalactone,C9H16O2,156.11502975,Carica papaya,Carica,KNApSAcK
+76,C00001337,56-12-2,GABA,C4H9NO2,103.06332854,Carica papaya,Carica,KNApSAcK
+77,C00001341,70-47-3,L-Asparagine,C4H8N2O3,132.05349214,Carica papaya,Carica,KNApSAcK
+78,C00001348,372-75-8,L-Citrulline,C6H13N3O3,175.0956913,Carica papaya,Carica,KNApSAcK
+79,C00001358,56-86-0,L-Glutamic acid,C5H9NO4,147.05315778,Carica papaya,Carica,KNApSAcK
+80,C00001363,71-00-1,L-Histidine,C6H9N3O2,155.06947655,Carica papaya,Carica,KNApSAcK
+81,C00001434,61-54-1,Tryptamine,C10H12N2,160.1000484,Carica papaya,Carica,KNApSAcK
+82,C00001492,58-08-2,Caffeine,C8H10N4O2,194.08037559,Carica papaya,Carica,KNApSAcK
+83,C00001555,535-83-1,Trigonelline,C7H7NO2,137.04767848,Carica papaya,Carica,KNApSAcK
+84,C00002026,3463-92-1,Carpaine,C28H50N2O4,478.3770581,Carica papaya,Carica,KNApSAcK
+85,C00002374,7084-24-4,Cyanidin 3-O-glucoside,C21H21O11.Cl,484.07723923,Ficus carica,Carica,KNApSAcK
+86,C00002503,93-35-6,Umbelliferone,C9H6O3,162.03169406,Ficus carica,Carica,KNApSAcK
+87,C00002663,60-12-8,2-Phenylethanol,C8H10O,122.07316494,Carica papaya,Carica,KNApSAcK
+88,C00002668,99-50-3,"3,4-Dihydroxybenzoic acid",C7H6O4,154.02660868,Carica papaya,Carica,KNApSAcK
+89,C00002682,121-34-6,Vanillic acid,C8H8O4,168.04225874,Carica papaya,Carica,KNApSAcK
+90,C00002692,90426-22-5,Danielone,C10H12O5,212.06847349,Carica papaya,Carica,KNApSAcK
+91,C00002724,327-97-9,3-O-Caffeoylquinic acid,C16H18O9,354.09508217,Carica papaya,Carica,KNApSAcK
+92,C00002725,104-55-2,Cinnamaldehyde,C9H8O,132.05751488,Carica papaya,Carica,KNApSAcK
+93,C00002728,458-36-6,Coniferaldehyde,C10H10O3,178.06299419,Carica papaya,Carica,KNApSAcK
+94,C00002743,1135-24-6,Ferulic acid,C10H10O4,194.05790881,Carica papaya,Carica,KNApSAcK
+95,C00002775,4206-58-0,Sinapaldehyde,C11H12O4,208.07355887,Carica papaya,Carica,KNApSAcK
+96,C00002776,530-59-6,Sinapic acid,C11H12O5,224.06847349,Carica papaya,Carica,KNApSAcK
+97,C00002778,537-33-7,Sinapyl alcohol,C11H14O4,210.08920894,Carica papaya,Carica,KNApSAcK
+98,C00003040,99-87-6,p-Cymene,C10H14,134.10955045,Carica papaya,Carica,KNApSAcK
+99,C00003047,78-70-6,(+-)-Linalool,C10H18O,154.1357652,Carica papaya,Carica,KNApSAcK
+100,C00003060,99-86-5,alpha-Terpinene,C10H16,136.12520051,Carica papaya,Carica,KNApSAcK
+101,C00003061,99-85-4,gamma-Terpinene,C10H16,136.12520051,Carica papaya,Carica,KNApSAcK
+102,C00003110,87-44-5,beta-Caryophyllene,C15H24,204.18780077,Carica papaya,Carica,KNApSAcK
+103,C00003130,502-61-4,alpha-Farnesene,C15H24,204.18780077,Carica papaya,Carica,KNApSAcK
+104,C00003147,6753-98-6,alpha-Caryophyllene (obsol.),C15H24,204.18780077,Carica papaya,Carica,KNApSAcK
+105,C00003166,142-50-7,Nerolidol,C15H26O,222.19836545,Carica papaya,Carica,KNApSAcK
+106,C00003204,495-60-3,alpha-Zingiberene,C15H24,204.18780077,Carica papaya,Carica,KNApSAcK
+107,C00003428,24034-73-9,"(E,E,E)-Geranylgeraniol",C20H34O,290.26096571,Carica papaya,Carica,KNApSAcK
+108,C00003648,57-88-5,Cholesterol,C27H46O,386.35486609,Carica papaya,Carica,KNApSAcK
+109,C00003661,1449-09-8,24-Methylenecycloartan-3beta-ol,C31H52O,440.40181628,Ficus carica,Carica,KNApSAcK
+110,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Ficus carica,Carica,KNApSAcK
+111,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Ficus carica,Carica,KNApSAcK
+112,C00003760,640-03-9,Antheraxanthin,C40H56O3,584.42294565,Carica papaya,Carica,KNApSAcK
+113,C00003765,7488-99-5,alpha-Carotene,C40H56,536.43820179,Carica papaya,Carica,KNApSAcK
+114,C00003766,472-92-4,delta-Carotene,C40H56,536.43820179,Carica papaya,Carica,KNApSAcK
+115,C00003767,1923-89-3,"beta-Carotene 5,6-epoxide",C40H56O,552.43311641,Carica papaya,Carica,KNApSAcK
+116,C00003770,24480-38-4,alpha-Cryptoxanthin,C40H56O,552.43311641,Carica papaya,Carica,KNApSAcK
+117,C00003776,127-40-2,Lutein,C40H56O2,568.42803103,Carica papaya,Carica,KNApSAcK
+118,C00003779,515-06-0,Mutatochrome,C40H56O,552.43311641,Carica papaya,Carica,KNApSAcK
+119,C00003780,14660-91-4,Neoxanthin,C40H56O4,600.41786028,Carica papaya,Carica,KNApSAcK
+120,C00003787,126-29-4,Violaxanthin,C40H56O4,600.41786028,Carica papaya,Carica,KNApSAcK
+121,C00004565,520-18-3,Kaempferol,C15H10O6,286.04773805,Carica papaya,Carica,KNApSAcK
+122,C00004631,117-39-5,Quercetin,C15H10O7,302.04265268,Carica papaya,Carica,KNApSAcK
+123,C00005169,17650-84-9,Kaempferol 3-rutinoside,C27H30O15,594.15847029,Carica papaya,Carica,KNApSAcK
+124,C00005219,55804-74-5,Clitorin,C33H40O19,740.2163791,Carica papaya,Carica,KNApSAcK
+125,C00005413,153-18-4,Quercetin 3-rutinoside,C27H30O16,610.15338491,Ficus carica,Carica,KNApSAcK
+126,C00005413,153-18-4,Quercetin 3-rutinoside,C27H30O16,610.15338491,Carica papaya,Carica,KNApSAcK
+127,C00005456,55696-57-6,Manghaslin,C33H40O20,756.21129372,Carica papaya,Carica,KNApSAcK
+128,C00005730,17912-87-7,Myricitrin,C21H20O12,464.09547611,Carica papaya,Carica,KNApSAcK
+129,C00007242,495-61-4,beta-Bisabolene,C15H24,204.18780077,Carica papaya,Carica,KNApSAcK
+130,C00007247,463-40-1,alpha-Linolenic acid,C18H30O2,278.2245802,Carica papaya,Carica,KNApSAcK
+131,C00007263,,Cinnamoyl-CoA,C30H42N7O17P3S,897.15707317,Carica papaya,Carica,KNApSAcK
+132,C00007264,30802-02-9,Feruloyl-CoA,C31H44N7O19P3S,943.16255248,Carica papaya,Carica,KNApSAcK
+133,C00007280,30802-00-7,p-Coumaroyl CoA,C30H42N7O18P3S,913.15198779,Carica papaya,Carica,KNApSAcK
+134,C00007281,53034-79-0,caffeoyl-CoA,C30H42N7O19P3S,929.14690242,Carica papaya,Carica,KNApSAcK
+135,C00007283,54429-80-0,Sinapoyl-CoA,C32H46N7O20P3S,973.17311717,Carica papaya,Carica,KNApSAcK
+136,C00007290,58-86-6,D-Xylose,C5H10O5,150.05282343,Carica papaya,Carica,KNApSAcK
+137,C00007298,62-49-7,Choline,C5H14NO1,104.10753908,Carica papaya,Carica,KNApSAcK
+138,C00007336,1782-55-4,5-Hydroxyferulic acid,C10H10O5,210.05282343,Carica papaya,Carica,KNApSAcK
+139,C00007337,1782-47-4,5-Hydroxyconiferyl alcohol,C10H12O4,196.07355887,Carica papaya,Carica,KNApSAcK
+140,C00007346,499-26-3,Benzylglucosinolate,C14H19NO9S2,409.05012267,Carica pennata,Carica,KNApSAcK
+141,C00007346,499-26-3,Benzylglucosinolate,C14H19NO9S2,409.05012267,Carica cauliflora,Carica,KNApSAcK
+142,C00007346,499-26-3,Benzylglucosinolate,C14H19NO9S2,409.05012267,Carica chilensis,Carica,KNApSAcK
+143,C00007346,499-26-3,Benzylglucosinolate,C14H19NO9S2,409.05012267,Carica papaya,Carica,KNApSAcK
+144,C00007361,59862-14-5,5-Hydroxyferuloyl-CoA,C31H44N7O20P3S,959.1574671,Carica papaya,Carica,KNApSAcK
+145,C00007422,638-53-9,Tridecanoic acid,C13H26O2,214.19328007,Carica papaya,Carica,KNApSAcK
+146,C00007423,1002-84-2,Pentadecanoic acid,C15H30O2,242.2245802,Carica papaya,Carica,KNApSAcK
+147,C00007426,506-12-7,Heptadecanoic acid,C17H34O2,270.25588033,Carica papaya,Carica,KNApSAcK
+148,C00007511,68149-78-0,Caffeoyl aldehyde,C9H8O3,164.04734412,Carica papaya,Carica,KNApSAcK
+149,C00007535,122-78-1,Benzeneacetaldehyde,C8H8O,120.05751488,Carica papaya,Carica,KNApSAcK
+150,C00007542,629-80-1,Hexadecanal,C16H32O,240.24531564,Carica papaya,Carica,KNApSAcK
+151,C00007619,77-92-9,Citric acid,C6H8O7,192.02700261,Carica papaya,Carica,KNApSAcK
+152,C00010303,460-01-5,"2,6-Dimethyl-1,3,5,7-octatetraenene",C10H14,134.10955045,Carica papaya,Carica,KNApSAcK
+153,C00010859,696-29-7,Isopropylcyclohexane,C9H18,126.14085057,Carica papaya,Carica,KNApSAcK
+154,C00010868,5989-27-5,(+)-Limonene,C10H16,136.12520051,Carica papaya,Carica,KNApSAcK
+155,C00010872,555-10-2,beta-Phellandrene,C10H16,136.12520051,Carica papaya,Carica,KNApSAcK
+156,C00011720,23986-74-5,(-)-Germacrene D,C15H24,204.18780077,Carica papaya,Carica,KNApSAcK
+157,C00012474,118-65-0,Isocaryophyllene,C15H24,204.18780077,Carica papaya,Carica,KNApSAcK
+158,C00019221,120-51-4,Benzyl benzoate,C14H12O2,212.08372963,Carica papaya,Carica,KNApSAcK
+159,C00019560,64-17-5,Ethanol,C2H6O,46.04186481,Carica papaya,Carica,KNApSAcK
+160,C00019681,59-23-4,D-Galactose,C6H12O6,180.06338812,Carica papaya,Carica,KNApSAcK
+161,C00020150,19435-97-3,(-)-delta-Cadinol,C15H26O,222.19836545,Carica papaya,Carica,KNApSAcK
+162,C00021903,13474-59-4,trans-alpha-Bergamotene,C15H24,204.18780077,Carica papaya,Carica,KNApSAcK
+163,C00022109,1113-21-9,Geranyl linalool,C20H34O,290.26096571,Carica papaya,Carica,KNApSAcK
+164,C00023248,13312-52-2,"(9Z)-beta,beta-Carotene",C40H56,536.43820179,Carica papaya,Carica,KNApSAcK
+165,C00023249,6811-73-0,"(13Z)-beta,beta-Carotene",C40H56,536.43820179,Carica papaya,Carica,KNApSAcK
+166,C00023251,64727-64-6,9-cis-Lycopene,C40H56,536.43820179,Carica papaya,Carica,KNApSAcK
+167,C00023252,13018-46-7,(13Z)-Lycopene,C40H56,536.43820179,Carica papaya,Carica,KNApSAcK
+168,C00023663,641-38-3,Alternariol,C14H10O5,258.05282343,Carica papaya,Carica,KNApSAcK
+169,C00023984,706-14-9,gamma-Decalactone,C10H18O2,170.13067982,Carica papaya,Carica,KNApSAcK
+170,C00025474,36127-41-0,16-Deoxybuxidienine C,C27H46N2O,414.3610141,Buxus madagascarica,Carica,KNApSAcK
+171,C00025476,36127-40-9,Buxamine A,C28H48N2,412.38174955,Buxus madagascarica,Carica,KNApSAcK
+172,C00025484,36151-06-1,Buxitrienine C,C27H44N2O,412.34536404,Buxus madagascarica,Carica,KNApSAcK
+173,C00025491,36151-05-0,Cycloprotobuxine F,C26H46N2,386.36609948,Buxus madagascarica,Carica,KNApSAcK
+174,C00029330,3913-81-3,(E)-2-Decenal,C10H18O,154.1357652,Carica papaya,Carica,KNApSAcK
+175,C00029335,13877-91-3,(E)-beta-Ocimene,C10H16,136.12520051,Carica papaya,Carica,KNApSAcK
+176,C00029336,3796-70-1,(E)-Geranyl acetone,C13H22O,194.16706532,Carica papaya,Carica,KNApSAcK
+177,C00029350,28973-97-9,cis-beta-Farnesene,C15H24,204.18780077,Carica papaya,Carica,KNApSAcK
+178,C00029423,3391-86-4,1-Octen-3-ol,C8H16O,128.12011513,Carica papaya,Carica,KNApSAcK
+179,C00029456,98-00-0,Furfuryl alcohol,C5H6O2,98.03677944,Carica papaya,Carica,KNApSAcK
+180,C00029462,79-31-2,2-Methylpropanoic acid,C4H8O2,88.0524295,Carica papaya,Carica,KNApSAcK
+181,C00029544,562-74-3,4-Terpineol,C10H18O,154.1357652,Carica papaya,Carica,KNApSAcK
+182,C00029546,7786-61-0,4-Vinyl guaiacol,C9H10O2,150.06807956,Carica papaya,Carica,KNApSAcK
+183,C00029547,67-47-0,5-Hydroxymethyl-2-furaldehyde,C6H6O3,126.03169406,Carica papaya,Carica,KNApSAcK
+184,C00029674,98-55-5,alpha-Terpineol,C10H18O,154.1357652,Carica papaya,Carica,KNApSAcK
+185,C00029811,100-51-6,Benzenemethanol,C7H8O,108.05751488,Carica papaya,Carica,KNApSAcK
+186,C00029816,79-77-6,beta-Ionone,C13H20O,192.15141526,Carica papaya,Carica,KNApSAcK
+187,C00029961,621-82-9,Cinnamic acid,C9H8O2,148.0524295,Carica papaya,Carica,KNApSAcK
+188,C00029971,1197-06-4,cis-Carveol,C10H16O,152.12011513,Carica papaya,Carica,KNApSAcK
+189,C00030099,112-31-2,Decanal,C10H20O,156.15141526,Carica papaya,Carica,KNApSAcK
+190,C00030100,112-30-1,1-Decanol,C10H22O,158.16706532,Carica pentagonia,Carica,KNApSAcK
+191,C00030152,112-53-8,1-Dodecanol,C12H26O,186.19836545,Carica papaya,Carica,KNApSAcK
+192,C00030220,7452-79-1,Ethyl-2-methylbutanoate,C7H14O2,130.09937969,Carica papaya,Carica,KNApSAcK
+193,C00030223,544-35-4,Ethyl linoleate,C20H36O2,308.27153039,Carica papaya,Carica,KNApSAcK
+194,C00030331,98-01-1,Furfural,C5H4O2,96.02112937,Carica papaya,Carica,KNApSAcK
+195,C00030755,112-39-0,Methyl hexadecanoate,C17H34O2,270.25588033,Carica papaya,Carica,KNApSAcK
+196,C00030757,112-63-0,"Linoleic acid, methyl ester",C19H34O2,294.25588033,Carica papaya,Carica,KNApSAcK
+197,C00030760,112-62-9,Methyl oleate,C19H36O2,296.27153039,Carica papaya,Carica,KNApSAcK
+198,C00030767,119-36-8,Methyl salicylate,C8H8O3,152.04734412,Carica papaya,Carica,KNApSAcK
+199,C00030807,906-33-2,5-Caffeoylquinic acid,C16H18O9,354.09508217,Carica papaya,Carica,KNApSAcK
+200,C00030827,629-92-5,Nonadecane,C19H40,268.31300128,Carica papaya,Carica,KNApSAcK
+201,C00030828,124-19-6,Nonadienal,C9H18O,142.1357652,Carica papaya,Carica,KNApSAcK
+202,C00030829,112-05-0,Nonanoic acid,C9H18O2,158.13067982,Carica papaya,Carica,KNApSAcK
+203,C00030879,593-45-3,n-Octadecane,C18H38,254.29735121,Carica papaya,Carica,KNApSAcK
+204,C00030880,124-13-0,Octanal,C8H16O,128.12011513,Carica papaya,Carica,KNApSAcK
+205,C00031014,2538-87-6,p-Coumaraldehyde,C9H8O2,148.0524295,Carica papaya,Carica,KNApSAcK
+206,C00031106,905954-17-8,Psoralenoside,C17H18O9,366.09508217,Ficus carica,Carica,KNApSAcK
+207,C00031437,68-26-8,Retinol,C20H30O,286.22966558,Carica papaya,Carica,KNApSAcK
+208,C00032761,622-78-6,Benzyl isothiocyanate,C8H7NS,149.02991996,Carica papaya,Carica,KNApSAcK
+209,C00033848,57-48-7,D-Fructose,C6H12O6,180.06338812,Carica papaya,Carica,KNApSAcK
+210,C00034054,93-58-3,Methyl benzoate,C8H8O2,136.0524295,Carica papaya,Carica,KNApSAcK
+211,C00034185,36413-60-2,Quinic acid,C7H12O6,192.06338812,Carica papaya,Carica,KNApSAcK
+212,C00034185,36413-60-2,Quinic acid,C7H12O6,192.06338812,Ficus carica,Carica,KNApSAcK
+213,C00034452,100-52-7,Benzaldehyde,C7H6O,106.04186481,Carica papaya,Carica,KNApSAcK
+214,C00034496,34995-77-2,trans-Furanoid linalool oxide,C10H18O2,170.13067982,Carica papaya,Carica,KNApSAcK
+215,C00034746,5989-33-3,Z-Furanoid linalool oxide,C10H18O2,170.13067982,Carica papaya,Carica,KNApSAcK
+216,C00034747,14009-71-3,cis-Linalool oxide pyranoid,C10H18O2,170.13067982,Carica papaya,Carica,KNApSAcK
+217,C00034775,110-93-0,6-Methyl-5-hepten-2-one,C8H14O,126.10446507,Carica papaya,Carica,KNApSAcK
+218,C00034818,6537-80-0,Cichoric acid,C22H18O12,474.07982604,Carica papaya,Carica,KNApSAcK
+219,C00034880,111-71-7,Heptanal,C7H14O,114.10446507,Carica papaya,Carica,KNApSAcK
+220,C00035002,1125-21-9,"2,6,6-Trimethyl-2-cyclohexene-1,4-dione",C9H12O2,152.08372963,Carica papaya,Carica,KNApSAcK
+221,C00035062,99-49-0,Carvone,C10H14O2,166.09937969,Carica papaya,Carica,KNApSAcK
+222,C00035092,106-28-5,trans-Farnesol,C15H26O,222.19836545,Carica papaya,Carica,KNApSAcK
+223,C00035116,123-92-2,3-Methyl butyl acetate,C7H14O2,130.09937969,Carica papaya,Carica,KNApSAcK
+224,C00035130,1189-09-9,Methyl geranate,C11H18O2,182.13067982,Carica papaya,Carica,KNApSAcK
+225,C00035226,7535-48-0,"4',5'-Dihydropsoralen",C11H18O3,198.12559444,Ficus carica,Carica,KNApSAcK
+226,C00035252,6466-94-0,Bauerenol,C30H50O,426.38616622,Ficus carica,Carica,KNApSAcK
+227,C00035501,123-19-3,4-Heptanone,C7H14O,114.10446507,Carica papaya,Carica,KNApSAcK
+228,C00035535,140-11-4,Benzyl acetate,C9H10O2,150.06807956,Carica papaya,Carica,KNApSAcK
+229,C00035536,23726-93-4,beta-Damascenone,C13H18O,190.1357652,Carica papaya,Carica,KNApSAcK
+230,C00035546,109-21-7,Butyl butyrate,C8H16O2,144.11502975,Carica papaya,Carica,KNApSAcK
+231,C00035564,150-84-5,Citronellyl acetate,C12H22O2,198.16197995,Carica papaya,Carica,KNApSAcK
+232,C00035611,110-38-3,Ethyl decanoate,C12H24O2,200.17763001,Carica papaya,Carica,KNApSAcK
+233,C00035612,123-66-0,Ethyl hexanoate,C8H16O2,144.11502975,Carica papaya,Carica,KNApSAcK
+234,C00035613,106-32-1,Ethyl octanoate,C10H20O2,172.14632988,Carica papaya,Carica,KNApSAcK
+235,C00035615,106-33-2,Ethyl laurate,C14H28O2,228.20893014,Carica papaya,Carica,KNApSAcK
+236,C00035616,124-06-1,Ethyl myristate,C16H32O2,256.24023027,Carica papaya,Carica,KNApSAcK
+237,C00035617,105-37-3,Ethyl propanoate,C5H10O2,102.06807956,Carica papaya,Carica,KNApSAcK
+238,C00035639,544-76-3,Hexadecane,C16H34,226.26605108,Carica papaya,Carica,KNApSAcK
+239,C00035690,110-42-9,Methyl caprate,C11H22O2,186.16197995,Carica papaya,Carica,KNApSAcK
+240,C00035692,111-82-0,Methyl laurate,C13H26O2,214.19328007,Carica papaya,Carica,KNApSAcK
+241,C00035778,108-38-3,"1,3-Dimethylbenzene",C8H10,106.07825032,Carica papaya,Carica,KNApSAcK
+242,C00035784,71-41-0,1-Pentanol,C5H12O,88.08881501,Carica papaya,Carica,KNApSAcK
+243,C00035785,1629-58-9,1-Penten-3-one,C5H8O,84.05751488,Carica papaya,Carica,KNApSAcK
+244,C00035853,108-87-2,Cyclohexylmethane,C7H14,98.10955045,Carica papaya,Carica,KNApSAcK
+245,C00035879,629-59-4,n-Tetradecane,C14H30,198.23475096,Carica papaya,Carica,KNApSAcK
+246,C00036262,2345-28-0,2-Pentadecanone,C15H30O,226.22966558,Carica papaya,Carica,KNApSAcK
+247,C00036263,593-08-8,2-Tridecanone,C13H26O,198.19836545,Carica papaya,Carica,KNApSAcK
+248,C00036271,515-13-9,(-)-beta-Elemene,C15H24,204.18780077,Carica papaya,Carica,KNApSAcK
+249,C00036488,626-93-7,2-Hexanol,C6H14O,102.10446507,Carica papaya,Carica,KNApSAcK
+250,C00044287,79-09-4,Propionic acid,C3H6O2,74.03677944,Carica papaya,Carica,KNApSAcK
+251,C00046607,644-30-4,alpha-Curcumene,C15H22,202.1721507,Carica papaya,Carica,KNApSAcK
+252,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Ficus carica,Carica,KNApSAcK
+253,C00048304,67-64-1,Acetone,C3H6O,58.04186481,Carica papaya,Carica,KNApSAcK
+254,C00048310,673-84-7,"2,6-Dimethyl-2,4,6-octatriene",C10H16,136.12520051,Carica papaya,Carica,KNApSAcK
+255,C00048375,124-18-5,Decane,C10H22,142.1721507,Carica papaya,Carica,KNApSAcK
+256,C00048438,67-63-0,Isopropyl alcohol,C3H8O,60.05751488,Carica papaya,Carica,KNApSAcK
+257,C00048949,590-86-3,3-Methyl-butanal,C5H10O,86.07316494,Carica papaya,Carica,KNApSAcK
+258,C00048963,928-94-9,cis-2-Hexenol,C6H12O,100.08881501,Carica papaya,Carica,KNApSAcK
+259,C00048964,3681-71-8,cis-3-Hexenyl acetate,C8H14O2,142.09937969,Carica papaya,Carica,KNApSAcK
+260,C00049006,110-54-3,Hexane,C6H14,86.10955045,Carica papaya,Carica,KNApSAcK
+261,C00050413,104-76-7,2-Ethyl-1-hexanol,C8H18O,130.1357652,Carica papaya,Carica,KNApSAcK
+262,C00050415,137-32-6,2-Methyl-1-butanol,C5H12O,88.08881501,Carica papaya,Carica,KNApSAcK
+263,C00050423,105-57-7,Acetal,C6H14O2,118.09937969,Carica papaya,Carica,KNApSAcK
+264,C00050424,513-86-0,3-hydroxy-2-Butanone,C4H8O2,88.0524295,Carica papaya,Carica,KNApSAcK
+265,C00050431,123-72-8,Butanal,C4H8O,72.05751488,Carica papaya,Carica,KNApSAcK
+266,C00050437,431-03-8,"2,3-Butanedione",C4H6O2,86.03677944,Carica papaya,Carica,KNApSAcK
+267,C00050444,5405-41-4,Ethyl 3-hydroxybutyrate,C6H12O3,132.07864425,Carica papaya,Carica,KNApSAcK
+268,C00050446,105-54-4,Ethyl butanoate,C6H12O2,116.08372963,Carica papaya,Carica,KNApSAcK
+269,C00050447,109-94-4,Ethyl formate,C3H6O2,74.03677944,Carica papaya,Carica,KNApSAcK
+270,C00050449,108-64-5,Ethyl-3-methylbutanoate,C7H14O2,130.09937969,Carica papaya,Carica,KNApSAcK
+271,C00050450,97-64-3,Ethyl lactate,C5H10O3,118.06299419,Carica papaya,Carica,KNApSAcK
+272,C00050452,1191-41-9,Ethyl linolenate,C20H34O2,306.25588033,Carica papaya,Carica,KNApSAcK
+273,C00050454,111-62-6,Ethyl oleate,C20H38O2,310.28718046,Carica papaya,Carica,KNApSAcK
+274,C00050455,628-97-7,Ethyl palmitate,C18H36O2,284.27153039,Carica papaya,Carica,KNApSAcK
+275,C00050458,111-61-5,Ethyl octadecanoate,C20H40O2,312.30283052,Carica papaya,Carica,KNApSAcK
+276,C00050468,123-51-3,Isoamyl alcohol,C5H12O,88.08881501,Carica papaya,Carica,KNApSAcK
+277,C00050470,78-83-1,2-methyl-1-propanol,C4H10O,74.07316494,Carica papaya,Carica,KNApSAcK
+278,C00050471,110-19-0,Isobutyl acetate,C6H12O2,116.08372963,Carica papaya,Carica,KNApSAcK
+279,C00050478,50-21-5,Lactic acid,C3H6O3,90.03169406,Carica papaya,Carica,KNApSAcK
+280,C00050481,623-42-7,Methyl butanoate,C5H10O2,102.06807956,Carica papaya,Carica,KNApSAcK
+281,C00050482,106-70-7,Methyl hexanoate,C7H14O2,130.09937969,Carica papaya,Carica,KNApSAcK
+282,C00050488,71-23-8,1-Propanol,C3H8O,60.05751488,Carica papaya,Carica,KNApSAcK
+283,C00050647,90-12-0,1-Methylnaphthalene,C11H10,142.07825032,Carica papaya,Carica,KNApSAcK
+284,C00050680,623-36-9,2-Methyl-2-pentenal,C6H10O,98.07316494,Carica papaya,Carica,KNApSAcK
+285,C00051252,123-76-2,Levulinic acid,C5H8O3,116.04734412,Carica papaya,Carica,KNApSAcK
+286,C00051443,6915-15-7,Malic acid,C4H6O5,134.0215233,Carica papaya,Carica,KNApSAcK
+287,C00051552,111-11-5,Methyl caprylate,C9H18O2,158.13067982,Carica papaya,Carica,KNApSAcK
+288,C00051572,124-10-7,Methyl myristate,C15H30O2,242.2245802,Carica papaya,Carica,KNApSAcK
+289,C00051588,108-88-3,Toluene,C7H8,92.06260026,Carica papaya,Carica,KNApSAcK
+290,C00051648,526-99-8,Galactaric acid,C6H10O8,210.0375673,Carica papaya,Carica,KNApSAcK
+291,C00052133,107-87-9,2-Pentanone,C5H10O,86.07316494,Carica papaya,Carica,KNApSAcK
+292,C00052167,110-12-3,5-Methyl-2-hexanone,C7H14O,114.10446507,Carica papaya,Carica,KNApSAcK
+293,C00052216,95-16-9,Benzothiazole,C7H5NS,135.0142699,Carica papaya,Carica,KNApSAcK
+294,C00052250,57-00-1,Creatine,C4H9N3O2,131.06947655,Carica papaya,Carica,KNApSAcK
+295,C00052377,10030-73-6,Palmitelaidic acid,C16H30O2,254.2245802,Carica papaya,Carica,KNApSAcK
+296,C00052446,483-73-8,Cadinene,C15H28,208.21910089,Carica papaya,Carica,KNApSAcK
+297,C00052475,29171-20-8,(+-)-Dehydrolinalool,C10H16O,152.12011513,Carica papaya,Carica,KNApSAcK
+298,C00052504,64142-78-5,8-Hydroxylinalool,C10H18O2,170.13067982,Carica papaya,Carica,KNApSAcK
+299,C00052562,5129-60-2,14-Methylpentadecanoic acid methyl ester,C17H34O2,270.25588033,Carica papaya,Carica,KNApSAcK
+300,C00052570,934-74-7,"1-Ethyl-3,5-dimethylbenzene",C10H14,134.10955045,Carica papaya,Carica,KNApSAcK
+301,C00052589,581-40-8,"2,3-Dimethylnaphthalene",C12H12,156.09390038,Carica papaya,Carica,KNApSAcK
+302,C00052606,56979-64-7,"2,5-Dimethoxymandelic acid",C10H12O5,212.06847349,Carica papaya,Carica,KNApSAcK
+303,C00052608,123-32-0,"2,5-Dimethylpyrazine",C6H8N2,108.06874827,Carica papaya,Carica,KNApSAcK
+304,C00052612,108-50-9,"2,6-Dimethylpyrazine",C6H8N2,108.06874827,Carica papaya,Carica,KNApSAcK
+305,C00052630,25494-04-6,2-Deoxygalactopyranose,C6H12O5,164.06847349,Carica papaya,Carica,KNApSAcK
+306,C00052646,109-08-0,2-Methylpyrazine,C5H6N2,94.05309821,Carica papaya,Carica,KNApSAcK
+307,C00052653,91-57-6,2-Methyl naphthalene,C11H10,142.07825032,Carica papaya,Carica,KNApSAcK
+308,C00052657,20273-24-9,2-Penten-1-ol,C5H10O,86.07316494,Carica papaya,Carica,KNApSAcK
+309,C00052661,10042-59-8,2-Propylheptanol,C10H22O,158.16706532,Carica papaya,Carica,KNApSAcK
+310,C00052666,13443-54-4,"3,4-Dimethoxymandelic acid",C10H12O5,212.06847349,Carica papaya,Carica,KNApSAcK
+311,C00052671,13741-21-4,"3,7-Dimethyl-1,5-octadiene-3,7-diol",C10H18O2,170.13067982,Carica papaya,Carica,KNApSAcK
+312,C00052681,577-85-5,3-Hydroxyflavone,C15H10O3,238.06299419,Carica papaya,Carica,KNApSAcK
+313,C00052689,31081-18-2,3-Methyl-5-propylnonane,C13H28,184.21910089,Carica papaya,Carica,KNApSAcK
+314,C00052731,886030-30-4,5beta-Pregnan-17-ol,C21H36O,304.27661577,Carica papaya,Carica,KNApSAcK
+315,C00052737,249647-14-1,5-Hydroxyconiferaldehyde,C10H10O4,194.05790881,Carica papaya,Carica,KNApSAcK
+316,C00052775,56847-02-0,"Methyl 8,11,14-docosatrienoate",C23H40O2,348.30283052,Carica papaya,Carica,KNApSAcK
+317,C00052793,60-35-5,Acetamide,C2H5NO,59.03711379,Carica papaya,Carica,KNApSAcK
+318,C00052868,140-29-4,Benzeneacetonitrile,C8H7N,117.05784923,Carica papaya,Carica,KNApSAcK
+319,C00052870,6895-56-3,Bergamotene,C15H24,204.18780077,Carica papaya,Carica,KNApSAcK
+320,C00052883,100-41-4,Ethylbenzene,C8H10,106.07825032,Carica papaya,Carica,KNApSAcK
+321,C00052890,10544-63-5,Ethyl crotonate,C6H10O2,114.06807956,Carica papaya,Carica,KNApSAcK
+322,C00052891,106-30-9,Ethyl heptanoate,C9H18O2,158.13067982,Carica papaya,Carica,KNApSAcK
+323,C00053005,16491-36-4,cis-3-Hexenyl butyrate,C10H18O2,170.13067982,Carica papaya,Carica,KNApSAcK
+324,C00053045,2305-25-1,Ethyl 3-hydroxyhexanoate,C8H16O3,160.10994438,Carica papaya,Carica,KNApSAcK
+325,C00053051,25429-38-3,Coumaric acid,C9H8O3,164.04734412,Carica papaya,Carica,KNApSAcK
+326,C00053066,3598-26-3,Caffeoyl alcohol,C9H10O3,166.06299419,Carica papaya,Carica,KNApSAcK
+327,C00053105,547-25-1,D-Turanose,C12H22O11,342.11621155,Carica papaya,Carica,KNApSAcK
+328,C00053140,84-74-2,Dibutyl phthalate,C16H22O4,278.15180919,Carica papaya,Carica,KNApSAcK
+329,C00053157,93-89-0,Ethyl benzoate,C9H10O2,150.06807956,Carica papaya,Carica,KNApSAcK
+330,C00053165,959284-07-2,"Carbonic acid, pentadecyl propyl ester",C19H38O3,314.28209508,Carica papaya,Carica,KNApSAcK
+331,C00053169,97-62-1,Ethyl isobutyrate,C6H12O2,116.08372963,Carica papaya,Carica,KNApSAcK
+332,C00053196,695-06-7,gamma-Caprolactone,C6H10O2,114.06807956,Carica papaya,Carica,KNApSAcK
+333,C00053254,459-80-3,Geranic acid,C10H16O2,168.11502975,Carica papaya,Carica,KNApSAcK
+334,C00053264,556-50-3,Glycylglycine,C4H8N2O3,132.05349214,Carica papaya,Carica,KNApSAcK
+335,C00053281,19163-87-2,Gulose,C6H12O6,180.06338812,Carica papaya,Carica,KNApSAcK
+336,C00053431,35997-39-8,Lilac alcohol,C10H18O2,170.13067982,Carica papaya,Carica,KNApSAcK
+337,C00053481,106-73-0,Methyl heptanoate,C8H16O2,144.11502975,Carica papaya,Carica,KNApSAcK
+338,C00053483,624-24-8,FEMA 2752,C6H12O2,116.08372963,Carica papaya,Carica,KNApSAcK
+339,C00053485,868-57-5,Methyl 2-methylbutanoate,C6H12O2,116.08372963,Carica papaya,Carica,KNApSAcK
+340,C00053543,488-54-0,neo-Inositol,C6H12O6,180.06338812,Carica papaya,Carica,KNApSAcK
+341,C00053576,1921-70-6,Norphytane,C19H40,268.31300128,Carica papaya,Carica,KNApSAcK
+342,C00053610,88-06-2,Omal,C6H3Cl3O,195.92494785,Carica papaya,Carica,KNApSAcK
+343,C00053660,616-25-1,1-Penten-3-ol,C5H10O,86.07316494,Carica papaya,Carica,KNApSAcK
+344,C00053663,584-02-1,3-Pentanol,C5H12O,88.08881501,Carica papaya,Carica,KNApSAcK
+345,C00053665,488-31-3,Pentaric acid,C5H8O7,180.02700261,Carica papaya,Carica,KNApSAcK
+346,C00053681,638-36-8,Phytane,C20H42,282.32865134,Carica papaya,Carica,KNApSAcK
+347,C00053702,488-23-3,"1,2,3,4-Tetramethylbenzene",C10H14,134.10955045,Carica papaya,Carica,KNApSAcK
+348,C00053733,290-37-9,Pyrazine,C4H4N2,80.03744814,Carica papaya,Carica,KNApSAcK
+349,C00053747,17812-24-7,Ribonic acid,C5H10O6,166.04773805,Carica papaya,Carica,KNApSAcK
+350,C00053788,7270-77-1,Sorbopyranose,C6H12O6,180.06338812,Carica papaya,Carica,KNApSAcK
+351,C00053789,87-79-6,L-(-)-Sorbose,C6H12O6,180.06338812,Carica papaya,Carica,KNApSAcK
+352,C00053927,1678-93-9,1-Cyclohexylbutane,C10H20,140.15650064,Carica papaya,Carica,KNApSAcK
+353,C00053958,98-82-8,2-Phenylpropane,C9H12,120.09390038,Carica papaya,Carica,KNApSAcK
+354,C00053973,5454-09-1,Decyl butanoate,C14H28O2,228.20893014,Carica pentagona,Carica,KNApSAcK
+355,C00053987,78-92-2,2-Butanol,C4H10O,74.07316494,Carica papaya,Carica,KNApSAcK
+356,C00054019,78-93-3,2-Butanone,C4H8O,72.05751488,Carica papaya,Carica,KNApSAcK
+357,C00054037,102-76-1,Blekin,C9H14O6,218.07903818,Carica papaya,Carica,KNApSAcK
+358,C00054037,102-76-1,Blekin,C9H14O6,218.07903818,Carica papay,Carica,KNApSAcK
+359,C00054069,122-43-0,Butyl phenylacetate,C12H16O2,192.11502975,Carica pubescens,Carica,KNApSAcK
+360,C00054077,2052-14-4,Butyl 2-hydroxybenzoate,C11H14O3,194.09429431,Carica pubescens,Carica,KNApSAcK
+361,C00054275,59576-26-0,2-Acetyl-4-methylpyridine,C8H9NO,135.06841392,Ficus carica,Carica,KNApSAcK
+362,C00054512,72362-02-8,"12,13-Didehydrocarpaine",C28H48N2O4,476.36140804,Carica papaya,Carica,KNApSAcK
+363,C00054513,72362-03-9,Dehydrocarpaine II,C28H46N2O4,474.34575797,Carica papaya,Carica,KNApSAcK
+364,C00054514,3760-91-6,psi-Carpaine,C28H50N2O4,478.3770581,Carica papaya,Carica,KNApSAcK
+365,C00055602,526-73-8,"1,2,3-Trimethyl benzene",C9H12,120.09390038,Carica papaya,Carica,KNApSAcK
+366,C00055604,108-67-8,"1,3,5-Trimethylbenzene",C9H12,120.09390038,Carica papaya,Carica,KNApSAcK
+367,C00055631,2445-67-2,2-Methylpropyl 2-methylbutanoate,C9H18O2,158.13067982,Carica papaya,Carica,KNApSAcK
+368,C00055659,623-37-0,3-Hexanol,C6H14O,102.10446507,Carica papaya,Carica,KNApSAcK
+369,C00055766,1576-95-0,cis-2-Penten-1-ol,C5H10O,86.07316494,Carica papaya,Carica,KNApSAcK
+370,C00055801,84-69-5,Diisobutyl phthalate,C16H22O4,278.15180919,Carica papaya,Carica,KNApSAcK
+371,C00055845,7619-08-1,"Ethyl 9,12-octadecadienoate",C20H36O2,308.27153039,Carica papaya,Carica,KNApSAcK
+372,C00056000,104-51-8,Butylbenzene,C10H14,134.10955045,Carica papaya,Carica,KNApSAcK
+373,C00056020,95-47-6,o-Xylene,C8H10,106.07825032,Carica papaya,Carica,KNApSAcK
+374,C00056291,5466-06-8,FEMA 3677,C5H10O2S,134.04015029,Carica pubescens,Carica,KNApSAcK
+375,C00056539,1166-98-9,3-Epigibberellin A1,C19H24O6,348.1572885,Carica papaya,Carica,KNApSAcK
+376,C00056724,124903-89-5,Ficus Latex peptide 1,C29H52N10O8,668.39695871,Ficus carica,Carica,KNApSAcK
+377,C00056725,124925-14-0,Ficus Latex peptide 2,C31H50N6O7,618.374098,Ficus carica,Carica,KNApSAcK
+378,C00058761,39028-58-5,"trans-Linalool 3,7-oxide",C10H18O2,170.13067982,Carica papaya,Carica,KNApSAcK
+379,C00058826,54-05-7,Chloroquine,C18H26ClN3,319.18152556,Carica papaya,Carica,KNApSAcK
+380,C00058856,3683-12-3,2-Phenylethyl methacrylate,C12H14O2,190.09937969,Carica papaya,Carica,KNApSAcK
+381,C00058883,1002-35-3,"1,3,7-Octatriene",C8H12,108.09390038,Carica papaya,Carica,KNApSAcK
+382,C00058956,103-37-7,Benzyl n-butyrate,C11H14O2,178.09937969,Carica papaya,Carica,KNApSAcK
+383,C00058961,103-65-1,Propylbenzene,C9H12,120.09390038,Carica papaya,Carica,KNApSAcK
+384,C00058985,104-50-7,gamma-Octalactone,C8H14O2,142.09937969,Carica papaya,Carica,KNApSAcK
+385,C00059014,10471-14-4,1-Ethoxy-1-methoxyethane,C5H12O2,104.08372963,Carica papaya,Carica,KNApSAcK
+386,C00059027,105-21-5,gamma-Heptalactone,C7H12O2,128.08372963,Carica papaya,Carica,KNApSAcK
+387,C00059032,105-66-8,Propyl butyrate,C7H14O2,130.09937969,Carica papaya,Carica,KNApSAcK
+388,C00059059,106-27-4,Isoamyl butyrate,C9H18O2,158.13067982,Carica papaya,Carica,KNApSAcK
+389,C00059061,106-36-5,Propyl propanoate,C6H12O2,116.08372963,Carica papaya,Carica,KNApSAcK
+390,C00059062,106-42-3,p-Xylene,C8H10,106.07825032,Carica papaya,Carica,KNApSAcK
+391,C00059066,106-93-4,"1,2-Dibromoethane",C2H4Br2,185.86797593,Carica papaya,Carica,KNApSAcK
+392,C00059188,111-13-7,2-Octanone,C8H16O,128.12011513,Carica papaya,Carica,KNApSAcK
+393,C00059222,1120-25-8,Palmitoleic acid methyl ester,C17H32O2,268.24023027,Carica papaya,Carica,KNApSAcK
+394,C00059234,112431-33-1,"3-[2-(3-Hydroxyphenyl)ethyl]-4-[2-[6-(2-phenylethylamino)hexylamino]ethyl]benzene-1,2-diol, dihydrochloride",C30H42Cl2N2O3,548.25724864,Carica papaya,Carica,KNApSAcK
+395,C00059252,1135-39-3,Benzyl 3-hydroxybutanoate,C11H14O3,194.09429431,Carica papaya,Carica,KNApSAcK
+396,C00059374,1191-04-4,2-Hexenoic acid,C6H10O2,114.06807956,Carica papaya,Carica,KNApSAcK
+397,C00059551,128-39-2,"2,6-Di-tert-butylphenol",C14H22O,206.16706532,Carica papaya,Carica,KNApSAcK
+398,C00059736,136-60-7,Butyl benzoate,C11H14O2,178.09937969,Carica papaya,Carica,KNApSAcK
+399,C00059816,13894-63-8,Methyl (E)-2-hexenoate,C7H12O2,128.08372963,Carica papaya,Carica,KNApSAcK
+400,C00059843,13984-50-4,Methyl 5-oxohexanoate,C7H12O3,144.07864425,Carica papaya,Carica,KNApSAcK
+401,C00059855,1406-18-4,Vitamin E,C29H50O2,430.38108084,Carica papaya,Carica,KNApSAcK
+402,C00059893,142-82-5,Heptane,C7H16,100.12520051,Carica papaya,Carica,KNApSAcK
+403,C00060017,147993-48-4,"Isopropyl 2,5-dihydroxybenzoate",C10H12O4,196.07355887,Carica papaya,Carica,KNApSAcK
+404,C00060023,1487-49-6,Methyl 3-hydroxybutanoate,C5H10O3,118.06299419,Carica papaya,Carica,KNApSAcK
+405,C00060144,1576-96-1,trans-2-Pentenol,C5H10O,86.07316494,Carica papaya,Carica,KNApSAcK
+406,C00060231,1629-60-3,1-Hexen-3-one,C6H10O,98.07316494,Carica papaya,Carica,KNApSAcK
+407,C00060254,16409-44-2,"3,7-Dimethyl-2,6-octadienyl acetate",C12H20O2,196.14632988,Carica papaya,Carica,KNApSAcK
+408,C00060265,1653-31-2,2-Tridecanol,C13H28O,200.21401552,Carica papaya,Carica,KNApSAcK
+409,C00060273,16630-66-3,Methyl 2-methylthioacetate,C4H8O2S,120.02450023,Carica papaya,Carica,KNApSAcK
+410,C00060297,1678-92-8,Propylcyclohexane,C9H18,126.14085057,Carica papaya,Carica,KNApSAcK
+411,C00060370,1741-41-9,"1,1-Diethoxy-2-methylpropane",C8H18O2,146.13067982,Carica papaya,Carica,KNApSAcK
+412,C00060371,17417-00-4,Methyl 2-hydroxy-3-methylbutanoate,C6H12O3,132.07864425,Carica papaya,Carica,KNApSAcK
+413,C00060513,18281-04-4,Ethyl nonadecanoate,C21H42O2,326.31848058,Carica papaya,Carica,KNApSAcK
+414,C00060562,18707-60-3,Methyl crotonate,C5H8O2,100.0524295,Carica papaya,Carica,KNApSAcK
+415,C00060591,1912-50-1,Luteoxanthin,C40H56O4,600.41786028,Carica papaya,Carica,KNApSAcK
+416,C00060650,19780-79-1,2-Hexyl-1-octanol,C14H30O,214.22966558,Carica papaya,Carica,KNApSAcK
+417,C00060690,20266-62-0,Ethyl 5-hydroxyhexanoate,C8H16O3,160.10994438,Carica papaya,Carica,KNApSAcK
+418,C00060760,20824-07-1,Methylcarpamate,C15H29NO3,271.2147438,Carica papaya,Carica,KNApSAcK
+419,C00060780,21188-58-9,Methyl 3-hydroxyhexanoate,C7H14O3,146.09429431,Carica papaya,Carica,KNApSAcK
+420,C00060824,2198-61-0,Isoamyl hexanoate,C11H22O2,186.16197995,Carica papaya,Carica,KNApSAcK
+421,C00060855,2230-70-8,"2,4,4-Trimethylcyclohexanone",C9H16O,140.12011513,Carica papaya,Carica,KNApSAcK
+422,C00060949,2306-91-4,Isoamyl decanoate,C15H30O2,242.2245802,Carica papaya,Carica,KNApSAcK
+423,C00061070,2495-37-6,Benzyl methacrylate,C11H12O2,176.08372963,Carica papaya,Carica,KNApSAcK
+424,C00061188,2705-87-5,Allyl cyclohexanepropionate,C12H20O2,196.14632988,Carica papaya,Carica,KNApSAcK
+425,C00061217,27631-26-1,Carpamic acid,C14H27NO3,257.19909374,Carica papaya,Carica,KNApSAcK
+426,C00061224,27829-72-7,Ethyl (E)-2-hexenoate,C8H14O2,142.09937969,Carica papaya,Carica,KNApSAcK
+427,C00061227,2785-89-9,p-Ethylguaiacol,C9H12O2,152.08372963,Carica papaya,Carica,KNApSAcK
+428,C00061266,286428-24-8,"(5R)-5-Ethenyltetrahydro-alpha,alpha,5-trimethyl-2-furanmethanol",C10H18O2,170.13067982,Carica papaya,Carica,KNApSAcK
+429,C00061315,29548-14-9,p-Menth-1-en-9-al,C10H16O,152.12011513,Carica papaya,Carica,KNApSAcK
+430,C00061321,29674-47-3,Methyl 2-hydroxybutanoate,C5H10O3,118.06299419,Carica papaya,Carica,KNApSAcK
+431,C00061370,30743-41-0,trans-Neoxanthin,C40H56O4,600.41786028,Carica papaya,Carica,KNApSAcK
+432,C00061444,32793-34-3,Methyl 2-hydroxy-2-methylbutanoate,C6H12O3,132.07864425,Carica papaya,Carica,KNApSAcK
+433,C00061455,3306-36-3,Sec-Butyl benzoate,C11H14O2,178.09937969,Carica papaya,Carica,KNApSAcK
+434,C00061639,3724-65-0,2-Butenoic acid,C4H6O2,86.03677944,Carica papaya,Carica,KNApSAcK
+435,C00061665,38327-39-8,cis-Lutein,C40H56O2,568.42803103,Carica papaya,Carica,KNApSAcK
+436,C00061684,3877-15-4,Methyl propyl sulfide,C4H10S,90.05032105,Carica papaya,Carica,KNApSAcK
+437,C00061719,40348-72-9,Methyl 2-hydroxy-4-methyl pentanoate,C7H14O3,146.09429431,Carica papaya,Carica,KNApSAcK
+438,C00061741,41114-00-5,Ethyl pentadecanoate,C17H34O2,270.25588033,Carica papaya,Carica,KNApSAcK
+439,C00061747,41654-19-7,Methyl 2-hydroxy-3-methylpentanoate,C7H14O3,146.09429431,Carica papaya,Carica,KNApSAcK
+440,C00061764,4221-98-1,(-)-alpha-Phellandrene,C10H16,136.12520051,Carica papaya,Carica,KNApSAcK
+441,C00061766,4230-97-1,Allyl octanoate,C11H20O2,184.14632988,Carica papaya,Carica,KNApSAcK
+442,C00061784,4316-48-7,Methyl 4-oxooctanoate,C9H16O3,172.10994438,Carica papaya,Carica,KNApSAcK
+443,C00061790,4358-59-2,Methyl(Z)-2-butenoate,C5H8O2,100.0524295,Carica papaya,Carica,KNApSAcK
+444,C00061809,4455-13-4,Ethyl (methylthio)acetate,C5H10O2S,134.04015029,Carica papaya,Carica,KNApSAcK
+445,C00061855,470-44-0,Alloxanic acid,C4H4N2O5,160.01202125,Carica papaya,Carica,KNApSAcK
+446,C00061937,494-79-1,Melarsoprol,C12H15AsN6OS2,397.99647221,Carica papaya,Carica,KNApSAcK
+447,C00062018,51384-51-1,Metoprolol,C15H25NO3,267.18344367,Carica papaya,Carica,KNApSAcK
+448,C00062047,52089-55-1,Ethyl 2-hydroxyhexanoate,C8H16O3,160.10994438,Carica papaya,Carica,KNApSAcK
+449,C00062066,5271-38-5,2-Methylthioethanol,C3H8OS,92.02958561,Carica papaya,Carica,KNApSAcK
+450,C00062108,53535-33-4,1-Heptanol,C7H16O,116.12011513,Carica papaya,Carica,KNApSAcK
+451,C00062135,540-05-6,all-trans-Phytofluene,C40H62,542.48515198,Carica papaya,Carica,KNApSAcK
+452,C00062142,542-78-9,Malonaldehyde,C3H4O2,72.02112937,Carica papaya,Carica,KNApSAcK
+453,C00062154,54546-22-4,Ethyl 9-hexadecenoate,C18H34O2,282.25588033,Carica papaya,Carica,KNApSAcK
+454,C00062158,547-63-7,Methyl isobutyrate,C5H10O2,102.06807956,Carica papaya,Carica,KNApSAcK
+455,C00062190,554-12-1,Methyl propanoate,C4H8O2,88.0524295,Carica papaya,Carica,KNApSAcK
+456,C00062198,556-64-9,Methyl thiocyanate,C2H3NS,72.99861983,Carica papaya,Carica,KNApSAcK
+457,C00062214,56009-31-5,Methyl 3-hydroxypentanoate,C6H12O3,132.07864425,Carica papaya,Carica,KNApSAcK
+458,C00062223,56219-10-4,Ethyl palmitoleate,C18H34O2,282.25588033,Carica papaya,Carica,KNApSAcK
+459,C00062289,58066-85-6,Miltefosine,C21H46NO4P,407.31644545,Carica papaya,Carica,KNApSAcK
+460,C00062383,600-14-6,"2,3-Pentanedione",C5H8O2,100.0524295,Carica papaya,Carica,KNApSAcK
+461,C00062394,6032-29-7,2-Pentanol,C5H12O,88.08881501,Carica papaya,Carica,KNApSAcK
+462,C00062421,611-13-2,Methyl 2-furoate,C6H6O3,126.03169406,Carica papaya,Carica,KNApSAcK
+463,C00062422,611-14-3,1-Ethyl-2-methylbenzene,C9H12,120.09390038,Carica papaya,Carica,KNApSAcK
+464,C00062467,620-14-4,3-Ethyltoluene,C9H12,120.09390038,Carica papaya,Carica,KNApSAcK
+465,C00062474,622-96-8,4-Ethyltoluene,C9H12,120.09390038,Carica papaya,Carica,KNApSAcK
+466,C00062480,623-43-8,Methyl (E)-2-butenoate,C5H8O2,100.0524295,Carica papaya,Carica,KNApSAcK
+467,C00062493,625-33-2,3-Penten-2-one,C5H8O,84.05751488,Carica papaya,Carica,KNApSAcK
+468,C00062505,626-82-4,Butyl hexanoate,C10H20O2,172.14632988,Carica papaya,Carica,KNApSAcK
+469,C00062522,629-64-1,Heptyl ether,C14H30O,214.22966558,Carica papaya,Carica,KNApSAcK
+470,C00062547,638-11-9,Isopropyl butyrate,C7H14O2,130.09937969,Carica papaya,Carica,KNApSAcK
+471,C00062596,65128-96-3,(z)-7-Tetradecenal,C14H26O,210.19836545,Carica papaya,Carica,KNApSAcK
+472,C00062612,65416-24-2,Benzyl crotonate,C11H12O2,176.08372963,Carica papaya,Carica,KNApSAcK
+473,C00062702,68862-27-1,Ethyl 9-hexadecenoate,C18H34O2,282.25588033,Carica papaya,Carica,KNApSAcK
+474,C00062709,6909-20-2,"(1S,3R,4R,5S,6R)-(-)-4,5-Epoxy-carane",C10H16O,152.12011513,Carica papaya,Carica,KNApSAcK
+475,C00062724,698-76-0,delta-Octalactone,C8H14O2,142.09937969,Carica papaya,Carica,KNApSAcK
+476,C00062839,7367-81-9,Methyl oct-2-enoate,C9H16O2,156.11502975,Carica papaya,Carica,KNApSAcK
+477,C00062840,7367-82-0,Ethyl 2-octenoate,C10H18O2,170.13067982,Carica papaya,Carica,KNApSAcK
+478,C00062841,7367-84-2,Ethyl (Z)-4-decenoate,C12H22O2,198.16197995,Carica papaya,Carica,KNApSAcK
+479,C00062900,75-85-4,2-Methyl-2-butanol,C5H12O,88.08881501,Carica papaya,Carica,KNApSAcK
+480,C00062964,775-64-4,2-(1-Adamantyl)propan-2-ol,C13H22O,194.16706532,Carica papaya,Carica,KNApSAcK
+481,C00063050,80599-13-9,Gurjunene,C15H24,204.18780077,Carica papaya,Carica,KNApSAcK
+482,C00063394,924-50-5,Methyl 3-methyl-2-butenoate,C6H10O2,114.06807956,Carica papaya,Carica,KNApSAcK
+483,C00063444,94-26-8,Butylparaben,C11H14O3,194.09429431,Carica papaya,Carica,KNApSAcK
+484,C00063445,94-46-2,Isoamyl benzoate,C12H16O2,192.11502975,Carica papaya,Carica,KNApSAcK
+485,C00063483,95-63-6,"1,2,4-Trimethylbenzene",C9H12,120.09390038,Carica papaya,Carica,KNApSAcK
+486,C00063541,98-91-9,Thiobenzoic acid,C7H6OS,138.01393554,Carica papaya,Carica,KNApSAcK
+0,C00002026,3463-92-1,Carpaine,C28H50N2O4,478.3770581,Vasconcellea hastata,Vasconcellea,KNApSAcK
+1,C00007346,499-26-3,Benzylglucosinolate,C14H19NO9S2,409.05012267,Vasconcellea quercifolia,Vasconcellea,KNApSAcK
+0,C00007346,499-26-3,Benzylglucosinolate,C14H19NO9S2,409.05012267,Jarilla chocola,Jarilla,KNApSAcK

@@ -1,0 +1,604 @@
+,C_ID,CAS ID,example_compound_name,Molecular formula,Mw,Organism,knapsack_search_term,Source
+0,C00001060,491-54-3,Kaempferide,C16H12O6,300.06338812,Tamarix chinensis,Tamarix,KNApSAcK
+1,C00001075,10176-66-6,Nevadensin,C18H16O7,344.08960287,Tamarix dioica,Tamarix,KNApSAcK
+2,C00001165,69-65-8,D-Mannitol,C6H14O6,182.07903818,Tamarix gallica,Tamarix,KNApSAcK
+3,C00002631,21453-69-0,(+)-Lirioresinol B,C22H26O8,418.16276781,Tamarix nilotica,Tamarix,KNApSAcK
+4,C00002647,149-91-7,Gallic acid,C7H6O5,170.0215233,Tamarix nilotica,Tamarix,KNApSAcK
+5,C00002647,149-91-7,Gallic acid,C7H6O5,170.0215233,Tamarix chinensis,Tamarix,KNApSAcK
+6,C00002674,530-57-4,Syringic acid,C9H10O5,198.05282343,Tamarix gallica,Tamarix,KNApSAcK
+7,C00002752,537-73-5,Isoferulic acid,C10H10O4,194.05790881,Tamarix aphylla,Tamarix,KNApSAcK
+8,C00003883,2798-20-1,Gardenin B,C19H18O7,358.10525293,Tamarix dioica,Tamarix,KNApSAcK
+9,C00003970,29550-07-0,Gardenin E,C19H18O9,390.09508217,Tamarix dioica,Tamarix,KNApSAcK
+10,C00003972,29550-05-8,Gardenin C,C20H20O9,404.11073224,Tamarix dioica,Tamarix,KNApSAcK
+11,C00003976,21187-73-5,Gardenin A,C21H22O9,418.1263823,Tamarix dioica,Tamarix,KNApSAcK
+12,C00004073,32396-92-2,Tamaridone,C17H14O7,330.0739528,Tamarix dioica,Tamarix,KNApSAcK
+13,C00004080,156648-83-8,Tamadone,C18H16O8,360.08451749,Tamarix dioica,Tamarix,KNApSAcK
+14,C00004567,569-92-6,Rhamnocitrin,C16H12O6,300.06338812,Tamarix hispida,Tamarix,KNApSAcK
+15,C00004571,15486-33-6,"Kaempferol 7,4'-dimethyl ether",C17H14O6,314.07903818,Tamarix chinensis,Tamarix,KNApSAcK
+16,C00004635,480-19-3,Isorhamnetin,C16H12O7,316.05830274,Tamarix chinensis,Tamarix,KNApSAcK
+17,C00004635,480-19-3,Isorhamnetin,C16H12O7,316.05830274,Tamarix hispida,Tamarix,KNApSAcK
+18,C00004636,603-61-2,Tamarixetin,C16H12O7,316.05830274,Tamarix spp.,Tamarix,KNApSAcK
+19,C00004950,130827-47-3,Kaempferide 3-O-sulfate,C16H12O9S,380.02020271,Tamarix gallica,Tamarix,KNApSAcK
+20,C00004950,130827-47-3,Kaempferide 3-O-sulfate,C16H12O9S,380.02020271,Tamarix africana,Tamarix,KNApSAcK
+21,C00004950,130827-47-3,Kaempferide 3-O-sulfate,C16H12O9S,380.02020271,Tamarix bobeana,Tamarix,KNApSAcK
+22,C00004951,58942-18-0,"Kaempferol 7,4'-dimethyl ether 3-O-sulfate",C17H14O9S,394.03585278,Tamarix nilotica,Tamarix,KNApSAcK
+23,C00004951,58942-18-0,"Kaempferol 7,4'-dimethyl ether 3-O-sulfate",C17H14O9S,394.03585278,Tamarix aphylla,Tamarix,KNApSAcK
+24,C00004967,,"Rhamnetin 3,5,4'-tri-O-sulfate",C16H12O16S3,555.92874653,Tamarix aphylla,Tamarix,KNApSAcK
+25,C00004973,97736-73-7,Tamarixetin 3-O-sulfate,C16H12O10S,396.01511734,Tamarix laxa,Tamarix,KNApSAcK
+26,C00005142,93753-27-6,Kaempferol 3-(6''-ethylglucuronide),C23H22O12,490.11112617,Tamarix nilotica,Tamarix,KNApSAcK
+27,C00005271,41545-37-3,Rhamnocitrin 3-glucoside,C22H22O11,462.11621155,Tamarix aphylla,Tamarix,KNApSAcK
+28,C00005272,57525-01-6,Rhamnocitrin 3-rhamnoside,C22H22O10,446.12129692,Tamarix aphylla,Tamarix,KNApSAcK
+29,C00005299,52208-77-2,"Kaempferol 7,4'-dimethyl ether 3-glucoside",C23H24O11,476.13186161,Tamarix nilotica,Tamarix,KNApSAcK
+30,C00005374,522-12-3,Quercetin 3-O-alpha-L-rhamnoside,C21H20O11,448.10056148,Tamarix aphylla,Tamarix,KNApSAcK
+31,C00005374,522-12-3,Quercetin 3-O-alpha-L-rhamnoside,C21H20O11,448.10056148,Tamarix chinensis,Tamarix,KNApSAcK
+32,C00005377,79543-28-5,Quercetin 3-(6''-methylglucuronide),C22H20O13,492.09039073,Tamarix nilotica,Tamarix,KNApSAcK
+33,C00005378,93753-28-7,Quercetin 3-(6''-ethylglucuronide),C23H22O13,506.10604079,Tamarix nilotica,Tamarix,KNApSAcK
+34,C00005591,27542-29-8,Tamarixin,C22H22O12,478.11112617,Tamarix troupii,Tamarix,KNApSAcK
+35,C00005591,27542-29-8,Tamarixin,C22H22O12,478.11112617,Tamarix aphylla,Tamarix,KNApSAcK
+36,C00006071,55196-43-5,"Rhamnetin 3'-glucuronide-3,5,4'-trisulfate",C22H20O22S3,731.96083452,Tamarix aphylla,Tamarix,KNApSAcK
+37,C00009065,25713-96-6,"[3,5,7,4'-Tetrahydroxyflavan-(4->8)]2-3,4,5,7,4'-pentahydroxyflavan",C45H38O16,834.21598517,Tamarix indica,Tamarix,KNApSAcK
+38,C00013910,116353-84-5,"Quercetin 7-methyl ether 3,3',4'-trisulfate",C16H12O16S3,555.92874653,Tamarix amplexicaulis,Tamarix,KNApSAcK
+39,C00034881,475-11-6,N-Methylproline,C6H11NO2,129.0789786,Tamarix aphylla,Tamarix,KNApSAcK
+40,C00034881,475-11-6,N-Methylproline,C6H11NO2,129.0789786,Tamarix jordanis,Tamarix,KNApSAcK
+41,C00034881,475-11-6,N-Methylproline,C6H11NO2,129.0789786,Tamarix ramossisima,Tamarix,KNApSAcK
+42,C00034881,475-11-6,N-Methylproline,C6H11NO2,129.0789786,Tamarix meyeri,Tamarix,KNApSAcK
+43,C00034881,475-11-6,N-Methylproline,C6H11NO2,129.0789786,Tamarix nilotica,Tamarix,KNApSAcK
+44,C00034881,475-11-6,N-Methylproline,C6H11NO2,129.0789786,Tamarix parviflora,Tamarix,KNApSAcK
+45,C00034907,4252-82-8,trans-4-Hydroxy-N-methyl-L-proline,C6H11NO3,145.07389323,Tamarix nilotica,Tamarix,KNApSAcK
+46,C00034907,4252-82-8,trans-4-Hydroxy-N-methyl-L-proline,C6H11NO3,145.07389323,Tamarix parviflora,Tamarix,KNApSAcK
+47,C00034907,4252-82-8,trans-4-Hydroxy-N-methyl-L-proline,C6H11NO3,145.07389323,Tamarix ramossisima,Tamarix,KNApSAcK
+48,C00034907,4252-82-8,trans-4-Hydroxy-N-methyl-L-proline,C6H11NO3,145.07389323,Tamarix meyeri,Tamarix,KNApSAcK
+49,C00034907,4252-82-8,trans-4-Hydroxy-N-methyl-L-proline,C6H11NO3,145.07389323,Tamarix jordanis,Tamarix,KNApSAcK
+50,C00034907,4252-82-8,trans-4-Hydroxy-N-methyl-L-proline,C6H11NO3,145.07389323,Tamarix aphylla,Tamarix,KNApSAcK
+51,C00035256,126347-60-2,Camelliin B,C75H52O48,1720.16280353,Tamarix pakistanca,Tamarix,KNApSAcK
+52,C00035325,140187-43-5,Hirtellin A,C82H58O52,1874.18941221,Tamarix nilotica,Tamarix,KNApSAcK
+53,C00035404,140187-46-8,Tamarixinin A,C75H52O48,1720.16280353,Tamarix pakistanica,Tamarix,KNApSAcK
+54,C00037173,84744-46-7,Gemin D,C27H22O18,634.0806139,Tamarix nilotica,Tamarix,KNApSAcK
+55,C00048492,1194825-47-2,Nilotinin D1,C75H54O48,1722.17845359,Tamarix nilotica,Tamarix,KNApSAcK
+56,C00048493,1194825-85-8,Nilotinin D2,C58H50O44,1450.16749498,Tamarix nilotica,Tamarix,KNApSAcK
+57,C00048494,1194826-25-9,Nilotinin D3,C75H54O48,1722.17845359,Tamarix nilotica,Tamarix,KNApSAcK
+58,C00048495,1194824-94-6,Nilotinin M1,C41H30O27,954.09744576,Tamarix nilotica,Tamarix,KNApSAcK
+59,C00048525,140187-44-6,Remurin A,C48H34O31,1106.10840438,Tamarix nilotica,Tamarix,KNApSAcK
+60,C00048526,140187-45-7,Remurin B,C41H30O27,954.09744576,Tamarix nilotica,Tamarix,KNApSAcK
+0,C00004947,64291-85-6,"Kaempferol 3,7-di-O-sulfate",C15H10O12S2,445.96136725,Reaumuria mucronata,Reaumuria,KNApSAcK
+1,C00035272,95263-69-7,Eucalbanin B,C68H50O44,1570.16749498,Reaumuria hirtella,Reaumuria,KNApSAcK
+2,C00035325,140187-43-5,Hirtellin A,C82H58O52,1874.18941221,Reaumuria hirtella,Reaumuria,KNApSAcK
+3,C00035326,135404-48-7,Hirtellin B,C82H56O52,1872.17376215,Reaumuria hirtella,Reaumuria,KNApSAcK
+4,C00035327,156941-91-2,Hirtellin G,C68H52O44,1572.18314504,Reaumuria hirtella,Reaumuria,KNApSAcK
+0,C00002597,19186-35-7,Anthricin,C22H22O7,398.13655306,Tetraclinis articulata,Tetraclinis,KNApSAcK
+1,C00003063,672-76-4,gamma-Thujaplicin,C10H12O2,164.08372963,Tetraclinis articulata,Tetraclinis,KNApSAcK
+2,C00003112,77-53-2,(+)-Cedrol,C15H26O,222.19836545,Tetraclinis articulata,Tetraclinis,KNApSAcK
+3,C00003426,514-62-5,(+)-Ferruginol,C20H30O,286.22966558,Tetraclinis articulata,Tetraclinis,KNApSAcK
+4,C00003444,5835-26-7,Isopimaric acid,C20H30O2,302.2245802,Tetraclinis articulata,Tetraclinis,KNApSAcK
+5,C00010876,490-91-5,Thymoquinone,C10H12O2,164.08372963,Tetraclinis articulata,Tetraclinis,KNApSAcK
+6,C00021586,28400-11-5,beta-Acorenol,C15H26O,222.19836545,Tetraclinis articulata,Tetraclinis,KNApSAcK
+7,C00021587,28296-85-7,alpha-Acorenol,C15H26O,222.19836545,Tetraclinis articulata,Tetraclinis,KNApSAcK
+8,C00031283,471-74-9,Sandaracopimaric acid,C20H30O2,302.2245802,Tetraclinis articulata,Tetraclinis,KNApSAcK
+9,C00040508,511-15-9,Totarol,C20H30O,286.22966558,Tetraclinis articulata,Tetraclinis,KNApSAcK
+10,C00040509,6755-93-7,Totarolone,C20H28O2,300.20893014,Tetraclinis articulata,Tetraclinis,KNApSAcK
+11,C00045114,162666-18-4,Totarolenone,C20H26O2,298.19328007,Tetraclinis articulata,Tetraclinis,KNApSAcK
+0,C00000268,19891-50-0,Nagilactone A,C19H24O6,348.1572885,Myrica nagi,Myrica,KNApSAcK
+1,C00000269,19891-51-1,Nagilactone B,C19H24O7,364.15220312,Myrica nagi,Myrica,KNApSAcK
+2,C00000270,24338-53-2,Nagilactone C,C19H22O7,362.13655306,Myrica nagi,Myrica,KNApSAcK
+3,C00000271,19891-53-3,Nagilactone D,C18H20O6,332.12598837,Myrica nagi,Myrica,KNApSAcK
+4,C00000956,490-46-0,(-)-Epicatechin,C15H14O6,290.07903818,Myrica nagi,Myrica,KNApSAcK
+5,C00000958,989-51-5,epi-Gallocatechin 3-O-gallate,C22H18O11,458.08491142,Myrica esculenta,Myrica,KNApSAcK
+6,C00000958,989-51-5,epi-Gallocatechin 3-O-gallate,C22H18O11,458.08491142,Myrica rubra,Myrica,KNApSAcK
+7,C00001071,529-44-2,Myricetin,C15H10O8,318.0375673,Myrica cerifera,Myrica,KNApSAcK
+8,C00001071,529-44-2,Myricetin,C15H10O8,318.0375673,Myrica nagi,Myrica,KNApSAcK
+9,C00001071,529-44-2,Myricetin,C15H10O8,318.0375673,Myrica rubra,Myrica,KNApSAcK
+10,C00002647,149-91-7,Gallic acid,C7H6O5,170.0215233,Myrica rubra,Myrica,KNApSAcK
+11,C00003558,77-52-1,Ursolic acid,C30H48O3,456.3603454,Myrica rubra,Myrica,KNApSAcK
+12,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Myrica rubra,Myrica,KNApSAcK
+13,C00003758,127-22-0,Taraxerol,C30H50O,426.38616622,Myrica rubra,Myrica,KNApSAcK
+14,C00004565,520-18-3,Kaempferol,C15H10O6,286.04773805,Myrica gale,Myrica,KNApSAcK
+15,C00005728,15648-86-9,Myricetin 3-O-galactopyranoside,C21H20O13,480.09039073,Myrica gale,Myrica,KNApSAcK
+16,C00005730,17912-87-7,Myricitrin,C21H20O12,464.09547611,Myrica rubra,Myrica,KNApSAcK
+17,C00005870,128941-61-7,"Kaempferol 3-(2'',3''-diacetyl-4''-p-coumarylrhamnoside",C34H30O14,662.16355567,Myrica gale,Myrica,KNApSAcK
+18,C00006038,143222-13-3,Myricetin 3-(2''-galloylgalactoside),C28H24O17,632.10134934,Myrica esculenta,Myrica,KNApSAcK
+19,C00006042,56939-52-7,Desmanthin 1,C28H24O16,616.10643472,Myrica esculenta,Myrica,KNApSAcK
+20,C00006043,143202-36-2,Myricetin 3-(3''-galloylrhamnoside),C28H24O16,616.10643472,Myrica esculenta,Myrica,KNApSAcK
+21,C00006936,1775-97-9,Flavokawin B,C17H16O4,284.104859,Myrica pensylvanica,Myrica,KNApSAcK
+22,C00007040,60433-78-5,Aurentiacin A,C17H16O4,284.104859,Myrica pensylvanica,Myrica,KNApSAcK
+23,C00007043,58969-62-3,Aurentiacin,C18H18O4,298.12050906,Myrica pensylvanica,Myrica,KNApSAcK
+24,C00007044,65349-31-7,"2',4'-Dihydroxy-6'-methoxy-3',5'-dimethylchalcone",C18H18O4,298.12050906,Myrica pensylvanica,Myrica,KNApSAcK
+25,C00007044,65349-31-7,"2',4'-Dihydroxy-6'-methoxy-3',5'-dimethylchalcone",C18H18O4,298.12050906,Myrica cerifera,Myrica,KNApSAcK
+26,C00007044,65349-31-7,"2',4'-Dihydroxy-6'-methoxy-3',5'-dimethylchalcone",C18H18O4,298.12050906,Myrica gale,Myrica,KNApSAcK
+27,C00007978,34328-56-8,"4-Hydrocinnamoyl-2,2,5-trimethyl-4-cyclopentene-1,3-dione",C17H18O3,270.12559444,Myrica gale,Myrica,KNApSAcK
+28,C00007979,34328-57-9,"2,2,4-Trimethyl-6-(1-oxo-3-phenylpropyl)-1,3,5-cyclohexanetrione",C18H20O4,300.13615913,Myrica gale,Myrica,KNApSAcK
+29,C00007995,65349-37-3,"2'-Hydroxy-4',6'-dimethoxy-3'-methyldihydrochalcone",C18H20O4,300.13615913,Myrica gale,Myrica,KNApSAcK
+30,C00007997,34328-55-7,Myrigalon B,C18H20O4,300.13615913,Myrica gale,Myrica,KNApSAcK
+31,C00007998,76444-55-8,Angoletin,C18H20O4,300.13615913,Myrica gale,Myrica,KNApSAcK
+32,C00007998,76444-55-8,Angoletin,C18H20O4,300.13615913,Myrica pensylvanica,Myrica,KNApSAcK
+33,C00008117,143502-00-5,"2',4'-Dihydroxy-6'-methoxy-3'-methyldihydrochalcone",C17H18O4,286.12050906,Myrica gale,Myrica,KNApSAcK
+34,C00008118,83247-38-5,"2',6'-Dihydroxy-4'-methoxy-3'-methyldihydrochalcone",C17H18O4,286.12050906,Myrica gale,Myrica,KNApSAcK
+35,C00008167,55869-77-7,5-Hydroxy-7-methoxy-8-C-methylflavanone,C17H16O4,284.104859,Myrica pensylvanica,Myrica,KNApSAcK
+36,C00008168,56297-79-1,Desmethoxymatteucinol,C17H16O4,284.104859,Myrica pensylvanica,Myrica,KNApSAcK
+37,C00008169,55820-35-4,"5-Hydroxy-7-methoxy-6,8-di-C-methylflavanone",C18H18O4,298.12050906,Myrica pensylvanica,Myrica,KNApSAcK
+38,C00008731,52117-69-8,"(2R,3R)-Pinobanksin 3-acetate",C17H14O6,314.07903818,Myrica pensylvanica,Myrica,KNApSAcK
+39,C00008747,87338-96-3,Myricatin,C22H16O15S,552.02099057,Myrica rubra,Myrica,KNApSAcK
+40,C00008818,970-74-1,(-)-Epigallocatechin,C15H14O7,306.0739528,Myrica rubra,Myrica,KNApSAcK
+41,C00008866,1257-08-5,(-)-Epicatechin 3-O-gallate,C22H18O10,442.0899968,Myrica rubra,Myrica,KNApSAcK
+42,C00009111,78392-25-3,Prodelphinidin C,C30H26O13,594.13734092,Myrica nagi,Myrica,KNApSAcK
+43,C00009235,86588-87-6,3-O-Galloylepigallocatechin-(4beta->6)-epigallocatechin-3-O-gallate,C44H34O22,914.15417278,Myrica rubra,Myrica,KNApSAcK
+44,C00009238,86588-88-7,Epigallocatechin-(4beta->8)-epigallocatechin-3-O-gallate,C37H30O18,762.14321416,Myrica esculenta,Myrica,KNApSAcK
+45,C00009238,86588-88-7,Epigallocatechin-(4beta->8)-epigallocatechin-3-O-gallate,C37H30O18,762.14321416,Myrica rubra,Myrica,KNApSAcK
+46,C00009239,86588-89-8,3-O-Galloylepigallocatechin-(4beta->8)-epigallocatechin-3-O-gallate,C44H34O22,914.15417278,Myrica rubra,Myrica,KNApSAcK
+47,C00009239,86588-89-8,3-O-Galloylepigallocatechin-(4beta->8)-epigallocatechin-3-O-gallate,C44H34O22,914.15417278,Myrica esculenta,Myrica,KNApSAcK
+48,C00009573,,Myriconol,C23H22O6,394.14163844,Myrica nagi,Myrica,KNApSAcK
+49,C00010874,99-84-3,beta-Terpinen,C10H16,136.12520051,Myrica gale,Myrica,KNApSAcK
+50,C00024656,18034-03-2,Nornitidine,C20H15NO4,333.10010798,Zanthoxylum myricanthum,Myrica,KNApSAcK
+51,C00029633,7372-30-7,Acetylursolic acid,C32H50O4,498.37091008,Myrica rubra,Myrica,KNApSAcK
+52,C00029677,19533-92-7,Alphitolic acid,C30H48O4,472.35526002,Myrica rubra,Myrica,KNApSAcK
+53,C00029834,23526-45-6,(+)-Blumenol A,C13H20O3,224.1412445,Myrica nagi,Myrica,KNApSAcK
+54,C00030742,4373-41-5,"2alpha,3beta-Dihydroxyolean-12-en-28-oic acid",C30H48O4,472.35526002,Myrica rubra,Myrica,KNApSAcK
+55,C00030797,17884-88-7,Myricadiol,C30H50O2,442.38108084,Myrica rubra,Myrica,KNApSAcK
+56,C00030798,33606-81-4,Myricanol,C21H26O5,358.17802394,Myrica arborea,Myrica,KNApSAcK
+57,C00030798,33606-81-4,Myricanol,C21H26O5,358.17802394,Myrica rubra,Myrica,KNApSAcK
+58,C00030798,33606-81-4,Myricanol,C21H26O5,358.17802394,Myrica nagi,Myrica,KNApSAcK
+59,C00030800,539792-56-8,Myricetrione,C30H44O5,484.31887452,Myrica rubra,Myrica,KNApSAcK
+60,C00031160,156258-68-3,Rhoiptelenol,C30H40O,416.3079159,Myrica rubra,Myrica,KNApSAcK
+61,C00032365,3772-56-3,Totaradiol,C20H30O2,302.2245802,Myrica nagi,Myrica,KNApSAcK
+62,C00032465,6246-46-4,Ursonic acid,C30H46O3,454.34469533,Myrica rubra,Myrica,KNApSAcK
+63,C00033231,310897-68-8,Myrica acid,C30H44O4,468.32395989,Myrica cerifera L.,Myrica,KNApSAcK
+64,C00033232,189681-48-9,Myricalactone,C30H40O4,464.29265977,Myrica cerifera L.,Myrica,KNApSAcK
+65,C00033233,449753-39-3,Myricanene A,C21H24O4,340.16745925,Myrica rubra,Myrica,KNApSAcK
+66,C00033234,449753-40-6,Myricanene B,C21H24O4,340.16745925,Myrica rubra,Myrica,KNApSAcK
+67,C00033235,32492-74-3,Myricanone,C21H24O5,356.16237388,Myrica rubra,Myrica,KNApSAcK
+68,C00033235,32492-74-3,Myricanone,C21H24O5,356.16237388,Myrica nagi,Myrica,KNApSAcK
+69,C00037530,307554-15-0,Myricarborin,C20H22O3,310.15689457,Myrica arborea,Myrica,KNApSAcK
+70,C00038054,473-04-1,(-)-Eudesm-7(11)-en-4alpha-ol,C15H26O,222.19836545,Myrica gale,Myrica,KNApSAcK
+71,C00050614,181228-75-1,(+)-S-Myricanol,C21H26O5,358.17802394,Myrica rubra,Myrica,KNApSAcK
+72,C00051688,6060-07-7,Myricolal,C30H48O2,440.36543078,Myrica gale,Myrica,KNApSAcK
+73,C00051717,113204-18-5,R-Myricanol 5-O-beta-D-glucopyranoside,C34H40O14,672.24180599,Myrica rubra,Myrica,KNApSAcK
+74,C00052874,20303-60-0,beta-Elemenone,C15H22O,218.16706532,Myrica gale,Myrica,KNApSAcK
+75,C00054264,171438-25-8,12-Dehydroporson,C22H24O6,384.1572885,Myrica gale,Myrica,KNApSAcK
+76,C00054265,110007-10-8,5-Deoxymyricanone,C21H24O4,340.16745925,Myrica rubra,Myrica,KNApSAcK
+77,C00054805,87392-65-2,"3,3'-Digalloylprodelphinidin B1",C44H34O22,914.15417278,Myrica rubra,Myrica,KNApSAcK
+78,C00056822,1034410-14-4,Rubanone,C21H22O6,370.14163844,Myrica rubra,Myrica,KNApSAcK
+79,C00056889,116107-17-6,Myricanol 5-beta-sophoroside,C33H46O15,682.2836708,Myrica rubra,Myrica,KNApSAcK
+80,C00056915,1190745-45-9,Myricarborin A,C21H24O4,340.16745925,Myrica rubra,Myrica,KNApSAcK
+81,C00057041,137578-55-3,Myricanol 5-laminaribioside,C33H46O15,682.2836708,Myrica rubra,Myrica,KNApSAcK
+82,C00057200,191999-61-8,Myricatomentoside I,C26H32O10,504.19954724,Myrica gale var. tomentosa,Myrica,KNApSAcK
+83,C00057201,191999-63-0,Myricatomentoside II,C27H34O11,534.21011193,Myrica gale var. tomentosa,Myrica,KNApSAcK
+84,C00057445,56222-03-8,Porson,C22H26O6,386.17293856,Myrica gale,Myrica,KNApSAcK
+85,C00057629,88717-97-9,Miricolone,C30H48O2,440.36543078,Myrica rubra,Myrica,KNApSAcK
+86,C00057637,90052-02-1,Myricanol 5-glucoside,C27H36O10,520.23084737,Myrica rubra,Myrica,KNApSAcK
+87,C00057693,955127-07-8,Rubanol,C21H24O6,372.1572885,Myrica rubra,Myrica,KNApSAcK
+88,C00058237,870093-76-8,"Tetrahydro-1-(4-hydroxyphenyl)-4-methoxy-1H,3H-furo[3,4-c]furan",C13H16O4,236.104859,Myrica rubra,Myrica,KNApSAcK
+89,C00058316,191999-68-5,12-hydroxymyricanone,C21H24O6,372.1572885,Myrica gale,Myrica,KNApSAcK
+0,C00000555,518-82-1,Emodin,C15H10O5,270.05282343,Hypericum sampsonii,Hypericum,KNApSAcK
+1,C00000569,491-60-1,Emodin anthrone,C15H12O4,256.07355887,Hypericum perforatum,Hypericum,KNApSAcK
+2,C00000615,501-16-6,Caffeic acid,C9H8O4,180.04225874,Hypericum laricifolium,Hypericum,KNApSAcK
+3,C00000956,490-46-0,(-)-Epicatechin,C15H14O6,290.07903818,Hypericum perforatum,Hypericum,KNApSAcK
+4,C00001015,1617-53-4,Amentoflavone,C30H18O10,538.0899968,Hypericum perforatum,Hypericum,KNApSAcK
+5,C00001071,529-44-2,Myricetin,C15H10O8,318.0375673,Hypericum scabrum,Hypericum,KNApSAcK
+6,C00001071,529-44-2,Myricetin,C15H10O8,318.0375673,Hypericum hirsutum,Hypericum,KNApSAcK
+7,C00001203,138-59-0,Shikimic acid,C7H10O5,174.05282343,Hypericum beanii,Hypericum,KNApSAcK
+8,C00001429,50-67-9,5-Hydroxytryptamine,C10H12N2O,176.09496302,Hypericum perforatum,Hypericum,KNApSAcK
+9,C00001434,61-54-1,Tryptamine,C10H12N2,160.1000484,Hypericum perforatum,Hypericum,KNApSAcK
+10,C00002425,119171-76-5,Drumnondin A,C28H34O8,498.22536806,Hypericum drummondii,Hypericum,KNApSAcK
+11,C00002460,91-64-5,Coumarin,C9H6O2,146.03677944,Hypericum japonicum,Hypericum,KNApSAcK
+12,C00002526,446-72-0,Genistein,C15H10O5,270.05282343,Hypericum scabrum,Hypericum,KNApSAcK
+13,C00002724,327-97-9,3-O-Caffeoylquinic acid,C16H18O9,354.09508217,Hypericum perforatum,Hypericum,KNApSAcK
+14,C00002829,548-04-9,Hypericin,C30H16O8,504.08451749,Hypericum barbatum Jacq.,Hypericum,KNApSAcK
+15,C00002829,548-04-9,Hypericin,C30H16O8,504.08451749,Hypericum wightianum,Hypericum,KNApSAcK
+16,C00002829,548-04-9,Hypericin,C30H16O8,504.08451749,Hypericum tetrapterum Fries,Hypericum,KNApSAcK
+17,C00002829,548-04-9,Hypericin,C30H16O8,504.08451749,Hypericum spp.,Hypericum,KNApSAcK
+18,C00002829,548-04-9,Hypericin,C30H16O8,504.08451749,Hypericum sampsonii,Hypericum,KNApSAcK
+19,C00002829,548-04-9,Hypericin,C30H16O8,504.08451749,Hypericum rumeliacum BOISS.,Hypericum,KNApSAcK
+20,C00002829,548-04-9,Hypericin,C30H16O8,504.08451749,Hypericum perforatum,Hypericum,KNApSAcK
+21,C00002829,548-04-9,Hypericin,C30H16O8,504.08451749,Hypericum maculatum Crantz,Hypericum,KNApSAcK
+22,C00002829,548-04-9,Hypericin,C30H16O8,504.08451749,Hypericum linarioides BOSSE,Hypericum,KNApSAcK
+23,C00002829,548-04-9,Hypericin,C30H16O8,504.08451749,Hypericum hirsutum L.,Hypericum,KNApSAcK
+24,C00002829,548-04-9,Hypericin,C30H16O8,504.08451749,Hypericum faberi,Hypericum,KNApSAcK
+25,C00002829,548-04-9,Hypericin,C30H16O8,504.08451749,Hypericum erectum,Hypericum,KNApSAcK
+26,C00002855,55954-61-5,Pseudohypericin,C30H16O9,520.07943211,Hypericum barbatum Jacq.,Hypericum,KNApSAcK
+27,C00002855,55954-61-5,Pseudohypericin,C30H16O9,520.07943211,Hypericum maculatum Crantz,Hypericum,KNApSAcK
+28,C00002855,55954-61-5,Pseudohypericin,C30H16O9,520.07943211,Hypericum perforatum,Hypericum,KNApSAcK
+29,C00002855,55954-61-5,Pseudohypericin,C30H16O9,520.07943211,Hypericum rumeliacum BOISS.,Hypericum,KNApSAcK
+30,C00002855,55954-61-5,Pseudohypericin,C30H16O9,520.07943211,Hypericum tetrapterum Fries,Hypericum,KNApSAcK
+31,C00002855,55954-61-5,Pseudohypericin,C30H16O9,520.07943211,Hypericum triquetrifolium,Hypericum,KNApSAcK
+32,C00002949,529-61-3,Euxanthone,C13H8O4,228.04225874,Hypericum beanii,Hypericum,KNApSAcK
+33,C00002949,529-61-3,Euxanthone,C13H8O4,228.04225874,Hypericum chinense,Hypericum,KNApSAcK
+34,C00002949,529-61-3,Euxanthone,C13H8O4,228.04225874,Hypericum scabrum,Hypericum,KNApSAcK
+35,C00002949,529-61-3,Euxanthone,C13H8O4,228.04225874,Hypericum henryi,Hypericum,KNApSAcK
+36,C00002949,529-61-3,Euxanthone,C13H8O4,228.04225874,Hypericum geminiflorum,Hypericum,KNApSAcK
+37,C00002949,529-61-3,Euxanthone,C13H8O4,228.04225874,Hypericum ascyron,Hypericum,KNApSAcK
+38,C00002953,529-49-7,Gentisein,C13H8O5,244.03717337,Hypericum degenii,Hypericum,KNApSAcK
+39,C00002962,4773-96-0,Aphloiol,C19H18O11,422.08491142,Hypericum spp.,Hypericum,KNApSAcK
+40,C00002962,4773-96-0,Aphloiol,C19H18O11,422.08491142,Hypericum sampsonii,Hypericum,KNApSAcK
+41,C00002962,4773-96-0,Aphloiol,C19H18O11,422.08491142,Hypericum ancherii,Hypericum,KNApSAcK
+42,C00002968,3542-72-1,"1,3,6,7-Tetrahydroxyxanthone",C13H8O6,260.03208799,Hypericum perforatum L.,Hypericum,KNApSAcK
+43,C00002968,3542-72-1,"1,3,6,7-Tetrahydroxyxanthone",C13H8O6,260.03208799,Hypericum sampsonii,Hypericum,KNApSAcK
+44,C00002968,3542-72-1,"1,3,6,7-Tetrahydroxyxanthone",C13H8O6,260.03208799,Hypericum chinense,Hypericum,KNApSAcK
+45,C00002968,3542-72-1,"1,3,6,7-Tetrahydroxyxanthone",C13H8O6,260.03208799,Hypericum aucheri,Hypericum,KNApSAcK
+46,C00002968,3542-72-1,"1,3,6,7-Tetrahydroxyxanthone",C13H8O6,260.03208799,Hypericum androsaemum,Hypericum,KNApSAcK
+47,C00002997,125583-45-1,Hypercalin B,C33H42O5,518.30322445,Hypericum ascyron,Hypericum,KNApSAcK
+48,C00002997,125583-45-1,Hypercalin B,C33H42O5,518.30322445,Hypericum calycinum,Hypericum,KNApSAcK
+49,C00002997,125583-45-1,Hypercalin B,C33H42O5,518.30322445,Hypericum calycunum,Hypericum,KNApSAcK
+50,C00003017,96624-40-7,Sarothralin,C31H34O8,534.22536806,Hypericum japonicum,Hypericum,KNApSAcK
+51,C00003647,474-62-4,Campesterol,C28H48O,400.37051615,Hypericum carinatum,Hypericum,KNApSAcK
+52,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Hypericum japonicum,Hypericum,KNApSAcK
+53,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Hypericum carinatum,Hypericum,KNApSAcK
+54,C00003674,83-48-7,beta-Stigmasterol,C29H48O,412.37051615,Hypericum beanii,Hypericum,KNApSAcK
+55,C00003674,83-48-7,beta-Stigmasterol,C29H48O,412.37051615,Hypericum carinatum,Hypericum,KNApSAcK
+56,C00003747,559-74-0,3-Friedelanone,C30H50O,426.38616622,Hypericum lanceolatum,Hypericum,KNApSAcK
+57,C00003866,62346-14-9,"Luteolin 5,3'-dimethyl ether",C17H14O6,314.07903818,Hypericum perforatum,Hypericum,KNApSAcK
+58,C00003986,55969-57-8,5-Hydroxy-7-methoxy-6-methylflavone,C17H14O4,282.08920894,Hypericum ericoides,Hypericum,KNApSAcK
+59,C00004261,20344-46-1,Luteolin 5-O-beta-D-glucopyranoside,C21H20O11,448.10056148,Hypericum perforatum var.angustifolium,Hypericum,KNApSAcK
+60,C00004273,5154-41-6,Luteolin 3'-beta-D-glucopyranoside,C21H20O11,448.10056148,Hypericum erectum Thunb.,Hypericum,KNApSAcK
+61,C00004273,5154-41-6,Luteolin 3'-beta-D-glucopyranoside,C21H20O11,448.10056148,Hypericum perforatum var.angustifolium,Hypericum,KNApSAcK
+62,C00004276,6920-38-3,"5,7,3',4'-Tetrahydroxyflavone 4'-beta-D-glucopyranoside",C21H20O11,448.10056148,Hypericum erectum Thunb.,Hypericum,KNApSAcK
+63,C00004565,520-18-3,Kaempferol,C15H10O6,286.04773805,Hypericum japonicum,Hypericum,KNApSAcK
+64,C00004565,520-18-3,Kaempferol,C15H10O6,286.04773805,Hypericum sampsonii,Hypericum,KNApSAcK
+65,C00004565,520-18-3,Kaempferol,C15H10O6,286.04773805,Hypericum perforatum,Hypericum,KNApSAcK
+66,C00004565,520-18-3,Kaempferol,C15H10O6,286.04773805,Hypericum ascyron,Hypericum,KNApSAcK
+67,C00004631,117-39-5,Quercetin,C15H10O7,302.04265268,Hypericum sampsonii,Hypericum,KNApSAcK
+68,C00004631,117-39-5,Quercetin,C15H10O7,302.04265268,Hypericum perforatum var.angustifolium,Hypericum,KNApSAcK
+69,C00004631,117-39-5,Quercetin,C15H10O7,302.04265268,Hypericum perforatum,Hypericum,KNApSAcK
+70,C00004958,62369-28-2,Quercetin 3'-O-sulfate,C15H10O10S,381.99946727,Hypericum elodes,Hypericum,KNApSAcK
+71,C00005080,149415-60-1,Sarothranol,C21H18O7,382.10525293,Hypericum japonicum,Hypericum,KNApSAcK
+72,C00005137,23627-87-4,Kaempferol 3-O-galactoside,C21H20O11,448.10056148,Hypericum erectum Thunb.,Hypericum,KNApSAcK
+73,C00005138,480-10-4,Astragalin,C21H20O11,448.10056148,Hypericum sampsonii,Hypericum,KNApSAcK
+74,C00005138,480-10-4,Astragalin,C21H20O11,448.10056148,Hypericum erectum Thunb.,Hypericum,KNApSAcK
+75,C00005157,31512-06-8,Panasenoside,C27H30O16,610.15338491,Hypericum spp.,Hypericum,KNApSAcK
+76,C00005367,572-30-5,Avicularin,C20H18O11,434.08491142,Hypericum scabrum,Hypericum,KNApSAcK
+77,C00005368,22255-13-6,Guaijaverin,C20H18O11,434.08491142,Hypericum erectum Thunb.,Hypericum,KNApSAcK
+78,C00005372,482-36-0,Hyperin,C21H20O12,464.09547611,Hypericum lancasteri,Hypericum,KNApSAcK
+79,C00005372,482-36-0,Hyperin,C21H20O12,464.09547611,Hypericum ascyron,Hypericum,KNApSAcK
+80,C00005372,482-36-0,Hyperin,C21H20O12,464.09547611,Hypericum curvisepalum,Hypericum,KNApSAcK
+81,C00005372,482-36-0,Hyperin,C21H20O12,464.09547611,Hypericum elodioides,Hypericum,KNApSAcK
+82,C00005372,482-36-0,Hyperin,C21H20O12,464.09547611,Hypericum faberi,Hypericum,KNApSAcK
+83,C00005372,482-36-0,Hyperin,C21H20O12,464.09547611,Hypericum forrestii,Hypericum,KNApSAcK
+84,C00005372,482-36-0,Hyperin,C21H20O12,464.09547611,Hypericum hirsutum L.,Hypericum,KNApSAcK
+85,C00005372,482-36-0,Hyperin,C21H20O12,464.09547611,Hypericum japonicum,Hypericum,KNApSAcK
+86,C00005372,482-36-0,Hyperin,C21H20O12,464.09547611,Hypericum maculatum Crantz,Hypericum,KNApSAcK
+87,C00005372,482-36-0,Hyperin,C21H20O12,464.09547611,Hypericum patulum,Hypericum,KNApSAcK
+88,C00005372,482-36-0,Hyperin,C21H20O12,464.09547611,Hypericum perforatum,Hypericum,KNApSAcK
+89,C00005372,482-36-0,Hyperin,C21H20O12,464.09547611,Hypericum rumeliacum BOISS.,Hypericum,KNApSAcK
+90,C00005372,482-36-0,Hyperin,C21H20O12,464.09547611,Hypericum sampsonii,Hypericum,KNApSAcK
+91,C00005372,482-36-0,Hyperin,C21H20O12,464.09547611,Hypericum scabrum,Hypericum,KNApSAcK
+92,C00005372,482-36-0,Hyperin,C21H20O12,464.09547611,Hypericum subsessile,Hypericum,KNApSAcK
+93,C00005372,482-36-0,Hyperin,C21H20O12,464.09547611,Hypericum wightianum subsp.axillare,Hypericum,KNApSAcK
+94,C00005372,482-36-0,Hyperin,C21H20O12,464.09547611,Hypericum linarioides BOSSE,Hypericum,KNApSAcK
+95,C00005372,482-36-0,Hyperin,C21H20O12,464.09547611,Hypericum tetrapterum Fries,Hypericum,KNApSAcK
+96,C00005372,482-36-0,Hyperin,C21H20O12,464.09547611,Hypericum barbatum Jacq.,Hypericum,KNApSAcK
+97,C00005373,482-35-9,Hirsutrin,C21H20O12,464.09547611,Hypericum thasium,Hypericum,KNApSAcK
+98,C00005373,482-35-9,Hirsutrin,C21H20O12,464.09547611,Hypericum ascyron,Hypericum,KNApSAcK
+99,C00005373,482-35-9,Hirsutrin,C21H20O12,464.09547611,Hypericum sampsonii,Hypericum,KNApSAcK
+100,C00005373,482-35-9,Hirsutrin,C21H20O12,464.09547611,Hypericum perforatum L.,Hypericum,KNApSAcK
+101,C00005373,482-35-9,Hirsutrin,C21H20O12,464.09547611,Hypericum perforatum,Hypericum,KNApSAcK
+102,C00005373,482-35-9,Hirsutrin,C21H20O12,464.09547611,Hypericum japonicum,Hypericum,KNApSAcK
+103,C00005374,522-12-3,Quercetin 3-O-alpha-L-rhamnoside,C21H20O11,448.10056148,Hypericum tetrapterum Fries,Hypericum,KNApSAcK
+104,C00005374,522-12-3,Quercetin 3-O-alpha-L-rhamnoside,C21H20O11,448.10056148,Hypericum thasium,Hypericum,KNApSAcK
+105,C00005374,522-12-3,Quercetin 3-O-alpha-L-rhamnoside,C21H20O11,448.10056148,Hypericum barbatum Jacq.,Hypericum,KNApSAcK
+106,C00005374,522-12-3,Quercetin 3-O-alpha-L-rhamnoside,C21H20O11,448.10056148,Hypericum japonicum,Hypericum,KNApSAcK
+107,C00005374,522-12-3,Quercetin 3-O-alpha-L-rhamnoside,C21H20O11,448.10056148,Hypericum hirsutum L.,Hypericum,KNApSAcK
+108,C00005374,522-12-3,Quercetin 3-O-alpha-L-rhamnoside,C21H20O11,448.10056148,Hypericum laricifolium,Hypericum,KNApSAcK
+109,C00005374,522-12-3,Quercetin 3-O-alpha-L-rhamnoside,C21H20O11,448.10056148,Hypericum lancasteri,Hypericum,KNApSAcK
+110,C00005374,522-12-3,Quercetin 3-O-alpha-L-rhamnoside,C21H20O11,448.10056148,Hypericum ascyron,Hypericum,KNApSAcK
+111,C00005374,522-12-3,Quercetin 3-O-alpha-L-rhamnoside,C21H20O11,448.10056148,Hypericum wightianum,Hypericum,KNApSAcK
+112,C00005374,522-12-3,Quercetin 3-O-alpha-L-rhamnoside,C21H20O11,448.10056148,Hypericum subsessile,Hypericum,KNApSAcK
+113,C00005374,522-12-3,Quercetin 3-O-alpha-L-rhamnoside,C21H20O11,448.10056148,Hypericum scabrum,Hypericum,KNApSAcK
+114,C00005374,522-12-3,Quercetin 3-O-alpha-L-rhamnoside,C21H20O11,448.10056148,Hypericum sampsonii,Hypericum,KNApSAcK
+115,C00005374,522-12-3,Quercetin 3-O-alpha-L-rhamnoside,C21H20O11,448.10056148,Hypericum rumeliacum BOISS.,Hypericum,KNApSAcK
+116,C00005374,522-12-3,Quercetin 3-O-alpha-L-rhamnoside,C21H20O11,448.10056148,Hypericum perforatum,Hypericum,KNApSAcK
+117,C00005374,522-12-3,Quercetin 3-O-alpha-L-rhamnoside,C21H20O11,448.10056148,hypericum perforatum,Hypericum,KNApSAcK
+118,C00005374,522-12-3,Quercetin 3-O-alpha-L-rhamnoside,C21H20O11,448.10056148,Hypericum patulum,Hypericum,KNApSAcK
+119,C00005374,522-12-3,Quercetin 3-O-alpha-L-rhamnoside,C21H20O11,448.10056148,Hypericum maculatum Crantz,Hypericum,KNApSAcK
+120,C00005376,22688-79-5,Miquelianin,C21H18O13,478.07474066,Hypericum perforatum,Hypericum,KNApSAcK
+121,C00005383,22007-72-3,Quercetin 7-rhamnoside,C21H20O11,448.10056148,Hypericum japonicum,Hypericum,KNApSAcK
+122,C00005413,153-18-4,Quercetin 3-rutinoside,C27H30O16,610.15338491,Hypericum wightianum,Hypericum,KNApSAcK
+123,C00005413,153-18-4,Quercetin 3-rutinoside,C27H30O16,610.15338491,Hypericum perforatum var.angustifolium,Hypericum,KNApSAcK
+124,C00005413,153-18-4,Quercetin 3-rutinoside,C27H30O16,610.15338491,Hypericum patulum,Hypericum,KNApSAcK
+125,C00005413,153-18-4,Quercetin 3-rutinoside,C27H30O16,610.15338491,Hypericum faberi,Hypericum,KNApSAcK
+126,C00005413,153-18-4,Quercetin 3-rutinoside,C27H30O16,610.15338491,Hypericum curvisepalum,Hypericum,KNApSAcK
+127,C00005413,153-18-4,Quercetin 3-rutinoside,C27H30O16,610.15338491,Hypericum elodeoides,Hypericum,KNApSAcK
+128,C00005413,153-18-4,Quercetin 3-rutinoside,C27H30O16,610.15338491,Hypericum ascyron,Hypericum,KNApSAcK
+129,C00006070,,Quercetin 3-glucuronide-3'-sulfate,C21H18O16S,558.03155526,Hypericum elodes,Hypericum,KNApSAcK
+130,C00006140,71880-89-2,Orientin 2''-acetate,C23H22O12,490.11112617,Hypericum hirsutum,Hypericum,KNApSAcK
+131,C00006431,101140-06-1,3-8'-Biapigenin,C30H18O10,538.0899968,Hypericum aucheri,Hypericum,KNApSAcK
+132,C00006431,101140-06-1,3-8'-Biapigenin,C30H18O10,538.0899968,Hypericum perforatum,Hypericum,KNApSAcK
+133,C00006431,101140-06-1,3-8'-Biapigenin,C30H18O10,538.0899968,Hypericum maculatum,Hypericum,KNApSAcK
+134,C00006431,101140-06-1,3-8'-Biapigenin,C30H18O10,538.0899968,Hypericum thasium,Hypericum,KNApSAcK
+135,C00008703,29838-67-3,Astilbin,C21H22O11,450.11621155,Hypericum perforatum,Hypericum,KNApSAcK
+136,C00008709,14292-40-1,Taxifolin 7-O-beta-D-glucopyranoside,C21H22O12,466.11112617,Hypericum erectum Thunb.,Hypericum,KNApSAcK
+137,C00008710,137592-12-2,Taxifolin 7-rhamnoside,C21H22O11,450.11621155,Hypericum japonicum,Hypericum,KNApSAcK
+138,C00008846,88126-53-8,Catechin-5-O-beta-D-glucopyranoside,C21H24O11,452.13186161,Hypericum erectum Thunb.,Hypericum,KNApSAcK
+139,C00008847,131831-20-4,Epicatechin-5-O-beta-D-glucopyranoside,C21H24O11,452.13186161,Hypericum erectum Thunb.,Hypericum,KNApSAcK
+140,C00009765,6468-55-9,Demethylwedelolactone,C15H8O7,300.02700261,Hypericum erectum,Hypericum,KNApSAcK
+141,C00011509,122021-64-1,Hyperolactone A,C14H18O4,250.12050906,Hypericum chinese L.,Hypericum,KNApSAcK
+142,C00011509,122021-64-1,Hyperolactone A,C14H18O4,250.12050906,Hypericum chinense,Hypericum,KNApSAcK
+143,C00013419,129145-53-5,Gancaonin O,C20H18O6,354.11033831,Hypericum perforatum,Hypericum,KNApSAcK
+144,C00013597,80621-54-1,8-Demethylsideroxylin,C17H14O5,298.08412356,Hypericum ericoides,Hypericum,KNApSAcK
+145,C00013865,439266-62-3,Quercetin 3-(2''-acetylgalactoside),C23H22O13,506.10604079,Hypericum perforatum,Hypericum,KNApSAcK
+146,C00014411,185145-43-1,"Taxifolin 3,7-dirhamnoside",C27H32O15,596.17412036,Hypericum japonicum,Hypericum,KNApSAcK
+147,C00014451,189031-28-5,Isogemichalcone B,C29H26O7,486.16785319,Hypericum geminiflorum,Hypericum,KNApSAcK
+148,C00014452,189031-26-3,Gemichalcone B,C29H26O7,486.16785319,Hypericum geminiflorum,Hypericum,KNApSAcK
+149,C00014453,189031-25-2,Gemichalcone A,C30H28O8,516.17841787,Hypericum geminiflorum,Hypericum,KNApSAcK
+150,C00014483,238750-50-0,Gemichalcone C,C30H28O9,532.17333249,Hypericum geminiflorum,Hypericum,KNApSAcK
+151,C00019029,109194-60-7,Tachioside,C13H18O8,302.10016755,Hypericum erectum Thunb.,Hypericum,KNApSAcK
+152,C00019030,31427-08-4,Isotachioside,C13H18O8,302.10016755,Hypericum erectum Thunb.,Hypericum,KNApSAcK
+153,C00024190,96608-94-5,Hyperenone A,C17H18O3,270.12559444,Hypericum mysorense HEYNE,Hypericum,KNApSAcK
+154,C00024191,98263-89-9,Hyperenone B,C16H16O3,256.10994438,Hypericum mysorense HEYNE,Hypericum,KNApSAcK
+155,C00024215,96608-93-4,Mysorenone A,C17H20O4,288.13615913,Hypericum mysorense HEYNE,Hypericum,KNApSAcK
+156,C00024216,98263-90-2,Mysorenone B,C14H16O2,216.11502975,Hypericum mysorense HEYNE,Hypericum,KNApSAcK
+157,C00024217,98263-91-3,Mysorenone C,C15H16O3,244.10994438,Hypericum mysorense HEYNE,Hypericum,KNApSAcK
+158,C00026397,23107-57-5,7-(O-Acetyl)haplophyllidine,C20H25NO5,359.17327292,Hypericum perforatum,Hypericum,KNApSAcK
+159,C00029358,4178-42-1,"1,3,5-Trihydroxy-6-methoxyxanthone",C14H10O6,274.04773805,Hypericum chinense,Hypericum,KNApSAcK
+160,C00029436,929695-69-2,"2,6-Dihydroxy-3,4-dimethoxyxanthone",C15H12O6,288.06338812,Hypericum chinense,Hypericum,KNApSAcK
+161,C00029482,929695-71-6,"3,6-Dihydroxy-1,2-dimethoxyxanthone",C15H12O6,288.06338812,Hypericum chinense,Hypericum,KNApSAcK
+162,C00029483,929695-73-8,"3,7-Dihydroxy-2,4-dimethoxyxanthone",C15H12O6,288.06338812,Hypericum chinense,Hypericum,KNApSAcK
+163,C00029500,1225-63-4,"2,4-Dimethoxy-3-hydroxyxanthone",C15H12O5,272.06847349,Hypericum erectum Thunb.,Hypericum,KNApSAcK
+164,C00029500,1225-63-4,"2,4-Dimethoxy-3-hydroxyxanthone",C15H12O5,272.06847349,Hypericum chinense,Hypericum,KNApSAcK
+165,C00029501,33018-28-9,3-Hydroxy-2-methoxyxanthone,C14H10O4,242.05790881,Hypericum erectum Thunb.,Hypericum,KNApSAcK
+166,C00029511,1899-30-5,3-O-Coumaroylquinic acid,C16H18O8,338.10016755,Hypericum perforatum,Hypericum,KNApSAcK
+167,C00029521,929695-67-0,"4,6-Dihydroxy-2,3-dimethoxyxanthone",C15H12O6,288.06338812,Hypericum chinense,Hypericum,KNApSAcK
+168,C00029522,929695-72-7,"4,7-Dihydroxy-2,3-dimethoxyxanthone",C15H12O6,288.06338812,Hypericum chinense,Hypericum,KNApSAcK
+169,C00029574,929695-70-5,"6-Hydroxy-2,3,4-trimethoxyxanthone",C16H14O6,302.07903818,Hypericum chinense,Hypericum,KNApSAcK
+170,C00029882,181361-65-9,Calycinoxanthone D,C23H24O6,396.1572885,Hypericum perforatum var.angustifolium,Hypericum,KNApSAcK
+171,C00029882,181361-65-9,Calycinoxanthone D,C23H24O6,396.1572885,Hypericum roeperanum,Hypericum,KNApSAcK
+172,C00030332,292164-22-8,Furohyperforin,C36H54O5,566.39712483,Hypericum perforatum var.angustifolium,Hypericum,KNApSAcK
+173,C00030348,31271-07-5,gamma-Mangostin,C23H24O6,396.1572885,Hypericum perforatum L.,Hypericum,KNApSAcK
+174,C00030348,31271-07-5,gamma-Mangostin,C23H24O6,396.1572885,Hypericum paturum,Hypericum,KNApSAcK
+175,C00030356,76996-28-6,Garcinone B,C23H22O6,394.14163844,Hypericum patulum,Hypericum,KNApSAcK
+176,C00030500,682343-47-1,Hyperibone J,C31H46O5,498.33452458,Hypericum scabrum,Hypericum,KNApSAcK
+177,C00030500,682343-47-1,Hyperibone J,C31H46O5,498.33452458,Hypericum perforatum var.angustifolium,Hypericum,KNApSAcK
+178,C00030501,915092-58-9,Hyperinol A,C30H46O3,454.34469533,Hypericum oblongifolium,Hypericum,KNApSAcK
+179,C00030502,915092-59-0,Hyperinol B,C30H46O4,470.33960996,Hypericum oblongifolium,Hypericum,KNApSAcK
+180,C00030503,99481-41-1,Hyperxanthone,C18H14O5,310.08412356,Hypericum sampsonii,Hypericum,KNApSAcK
+181,C00030503,99481-41-1,Hyperxanthone,C18H14O5,310.08412356,Hypericum erectum Thunb.,Hypericum,KNApSAcK
+182,C00030898,142542-89-0,Osmanthuside F,C14H20O8,316.11581762,Hypericum erectum Thunb.,Hypericum,KNApSAcK
+183,C00031274,10338-51-9,Rhodioloside,C14H20O7,300.12090299,Hypericum erectum Thunb.,Hypericum,KNApSAcK
+184,C00031483,5490-48-2,"1,3,5,6-Tetrahydroxy-2-(3-methylbut-2-enyl)xanthone",C18H16O6,328.09468824,Hypericum sampsonii,Hypericum,KNApSAcK
+185,C00031484,5084-31-1,"1,3,5,6-Tetrahydroxyxanthone",C13H8O6,260.03208799,Hypericum scabrum,Hypericum,KNApSAcK
+186,C00031484,5084-31-1,"1,3,5,6-Tetrahydroxyxanthone",C13H8O6,260.03208799,Hypericum sampsonii,Hypericum,KNApSAcK
+187,C00031484,5084-31-1,"1,3,5,6-Tetrahydroxyxanthone",C13H8O6,260.03208799,Hypericum patulum,Hypericum,KNApSAcK
+188,C00031484,5084-31-1,"1,3,5,6-Tetrahydroxyxanthone",C13H8O6,260.03208799,Hypericum chinense,Hypericum,KNApSAcK
+189,C00031484,5084-31-1,"1,3,5,6-Tetrahydroxyxanthone",C13H8O6,260.03208799,Hypericum androsaemum,Hypericum,KNApSAcK
+190,C00031487,5042-08-0,"1,6-Dihydroxyxanthone",C13H8O4,228.04225874,Hypericum sampsonii,Hypericum,KNApSAcK
+191,C00031793,5085-72-3,Friedelanol,C30H52O,428.40181628,Hypericum ascyron,Hypericum,KNApSAcK
+192,C00032065,117221-65-5,Neolancerin,C19H18O10,406.0899968,Hypericum sampsonii,Hypericum,KNApSAcK
+193,C00032105,84002-57-3,Brasilixanthone B,C23H20O6,392.12598837,Hypericum sampsonii,Hypericum,KNApSAcK
+194,C00032105,84002-57-3,Brasilixanthone B,C23H20O6,392.12598837,Hypericum patulum,Hypericum,KNApSAcK
+195,C00032117,151368-55-7,Paxanthone,C19H16O6,340.09468824,Hypericum paturum,Hypericum,KNApSAcK
+196,C00032117,151368-55-7,Paxanthone,C19H16O6,340.09468824,Hypericum perforatum var.angustifolium,Hypericum,KNApSAcK
+197,C00032369,50875-24-6,Toxyloxanthone B,C18H14O6,326.07903818,Hypericum androsaemum,Hypericum,KNApSAcK
+198,C00032369,50875-24-6,Toxyloxanthone B,C18H14O6,326.07903818,Hypericum scabrum,Hypericum,KNApSAcK
+199,C00032369,50875-24-6,Toxyloxanthone B,C18H14O6,326.07903818,Hypericum paturum,Hypericum,KNApSAcK
+200,C00032369,50875-24-6,Toxyloxanthone B,C18H14O6,326.07903818,Hypericum chinense,Hypericum,KNApSAcK
+201,C00032369,50875-24-6,Toxyloxanthone B,C18H14O6,326.07903818,Hypericum ascyron,Hypericum,KNApSAcK
+202,C00032369,50875-24-6,Toxyloxanthone B,C18H14O6,326.07903818,Hypericum sampsonii,Hypericum,KNApSAcK
+203,C00032471,74950-96-2,Vanilloloside,C14H20O8,316.11581762,Hypericum erectum Thunb.,Hypericum,KNApSAcK
+204,C00032586,41357-84-0,"1,3,6-Trihydroxy-5-methoxyxanthone",C14H10O6,274.04773805,Hypericum chinense,Hypericum,KNApSAcK
+205,C00033938,125583-46-2,Hypercalin C,C30H44O5,484.31887452,Hypericum ascyron,Hypericum,KNApSAcK
+206,C00033957,50597-93-8,Isojacareubin,C18H14O6,326.07903818,Hypericum roeperanum,Hypericum,KNApSAcK
+207,C00034317,1065480-62-7,Tomoeone A,C30H44O6,500.31378914,Hypericum ascyron,Hypericum,KNApSAcK
+208,C00034318,1065480-63-8,Tomoeone B,C30H44O6,500.31378914,Hypericum ascyron,Hypericum,KNApSAcK
+209,C00034319,1065480-64-9,Tomoeone C,C30H44O6,500.31378914,Hypericum ascyron,Hypericum,KNApSAcK
+210,C00034320,1065480-65-0,Tomoeone D,C30H44O6,500.31378914,Hypericum ascyron,Hypericum,KNApSAcK
+211,C00034321,1065480-66-1,Tomoeone E,C31H46O6,514.3294392,Hypericum ascyron,Hypericum,KNApSAcK
+212,C00034322,1065480-67-2,Tomoeone F,C31H46O6,514.3294392,Hypericum ascyron,Hypericum,KNApSAcK
+213,C00034323,1065480-68-3,Tomoeone G,C31H46O6,514.3294392,Hypericum ascyron,Hypericum,KNApSAcK
+214,C00034324,1065480-69-4,Tomoeone H,C31H46O6,514.3294392,Hypericum ascyron,Hypericum,KNApSAcK
+215,C00034406,143183-63-5,Adhyperforin,C36H54O4,550.40221021,Hypericum perforatum,Hypericum,KNApSAcK
+216,C00034542,11079-53-1,Hyperforin,C35H52O4,536.38656015,Hypericum barbatum Jacq.,Hypericum,KNApSAcK
+217,C00034542,11079-53-1,Hyperforin,C35H52O4,536.38656015,Hypericum wightianum,Hypericum,KNApSAcK
+218,C00034542,11079-53-1,Hyperforin,C35H52O4,536.38656015,Hypericum tetrapterum Fries,Hypericum,KNApSAcK
+219,C00034542,11079-53-1,Hyperforin,C35H52O4,536.38656015,Hypericum subsessile,Hypericum,KNApSAcK
+220,C00034542,11079-53-1,Hyperforin,C35H52O4,536.38656015,Hypericum sampsonii,Hypericum,KNApSAcK
+221,C00034542,11079-53-1,Hyperforin,C35H52O4,536.38656015,Hypericum rumeliacum BOISS.,Hypericum,KNApSAcK
+222,C00034542,11079-53-1,Hyperforin,C35H52O4,536.38656015,Hypericum perforatum,Hypericum,KNApSAcK
+223,C00034542,11079-53-1,Hyperforin,C35H52O4,536.38656015,Hypericum patulum,Hypericum,KNApSAcK
+224,C00034542,11079-53-1,Hyperforin,C35H52O4,536.38656015,Hypericum maculatum Crantz,Hypericum,KNApSAcK
+225,C00034542,11079-53-1,Hyperforin,C35H52O4,536.38656015,Hypericum ascyron,Hypericum,KNApSAcK
+226,C00034542,11079-53-1,Hyperforin,C35H52O4,536.38656015,Hypericum linarioides BOSSE,Hypericum,KNApSAcK
+227,C00034542,11079-53-1,Hyperforin,C35H52O4,536.38656015,Hypericum lancasteri,Hypericum,KNApSAcK
+228,C00034542,11079-53-1,Hyperforin,C35H52O4,536.38656015,Hypericum japonicum,Hypericum,KNApSAcK
+229,C00034542,11079-53-1,Hyperforin,C35H52O4,536.38656015,Hypericum hirsutum L.,Hypericum,KNApSAcK
+230,C00034542,11079-53-1,Hyperforin,C35H52O4,536.38656015,Hypericum faberi,Hypericum,KNApSAcK
+231,C00034542,11079-53-1,Hyperforin,C35H52O4,536.38656015,Hypericum elodioides,Hypericum,KNApSAcK
+232,C00034542,11079-53-1,Hyperforin,C35H52O4,536.38656015,Hypericum curvisepalum,Hypericum,KNApSAcK
+233,C00034650,548-03-8,Protohypericin,C30H18O8,506.10016755,Hypericum perforatum,Hypericum,KNApSAcK
+234,C00034651,54328-09-5,Protopseudohypericin,C30H18O9,522.09508217,Hypericum perforatum,Hypericum,KNApSAcK
+235,C00034684,942929-01-3,Sinaicinone,C40H50O5,610.36582471,Hypericum sinaicum,Hypericum,KNApSAcK
+236,C00034758,257630-42-5,"1,3,7-Trihydroxy-6-methoxy-8-prenylxanthone",C19H18O6,342.11033831,Hypericum perforatum L.,Hypericum,KNApSAcK
+237,C00034926,26486-92-0,6-Deoxyisojacareubin,C18H14O5,310.08412356,Hypericum japonicum,Hypericum,KNApSAcK
+238,C00034990,55386-58-8,"1,3,7-Trihydroxy-5,6-dimethoxyxanthone",C15H12O7,304.05830274,Hypericum chinense,Hypericum,KNApSAcK
+239,C00034991,87339-74-0,"1,3-Dihydroxy-2-methoxyxanthone",C14H10O5,258.05282343,Hypericum chinense,Hypericum,KNApSAcK
+240,C00034993,42833-91-0,"1,7-Dihydroxy-6-methoxyxanthone",C14H10O5,258.05282343,Hypericum chinense,Hypericum,KNApSAcK
+241,C00035000,173220-32-1,"2,5-Dihydroxy-1-methoxyxanthone",C14H10O5,258.05282343,Hypericum chinense,Hypericum,KNApSAcK
+242,C00035003,64632-72-0,"2,7-Dihydroxyxanthone",C13H8O4,228.04225874,Hypericum chinense,Hypericum,KNApSAcK
+243,C00035012,16302-46-8,2-Hydroxy-1-methoxyxanthone,C14H10O4,242.05790881,Hypericum chinense,Hypericum,KNApSAcK
+244,C00035014,1915-98-6,2-Hydroxyxanthone,C13H8O3,212.04734412,Hypericum chinense,Hypericum,KNApSAcK
+245,C00035014,1915-98-6,2-Hydroxyxanthone,C13H8O3,212.04734412,Hypericum spp.,Hypericum,KNApSAcK
+246,C00035017,434938-92-8,"3,5-Dihydroxy-1,2-dimethoxyxanthone",C15H12O6,288.06338812,Hypericum chinense,Hypericum,KNApSAcK
+247,C00035094,629-96-9,1-Eicosanol,C20H42O,298.32356596,Hypericum carinatum,Hypericum,KNApSAcK
+248,C00036375,70786-45-7,"1,3,6,7-Tetrahydroxy-8-(3-methylbut-2-enyl)xanthone",C18H16O6,328.09468824,Hypericum ascyron,Hypericum,KNApSAcK
+249,C00036375,70786-45-7,"1,3,6,7-Tetrahydroxy-8-(3-methylbut-2-enyl)xanthone",C18H16O6,328.09468824,Hypericum androsaemum,Hypericum,KNApSAcK
+250,C00036379,93929-99-8,"1,3,8-Trihydroxy-2-methoxyxanthone",C14H10O6,274.04773805,Hypericum geminiflorum,Hypericum,KNApSAcK
+251,C00036394,87339-76-2,"1,7-Dihydroxy-4-methoxyxanthone",C14H10O5,258.05282343,Hypericum scabrum,Hypericum,KNApSAcK
+252,C00036494,81944-51-6,"2-Hydroxy-5,6,7-trimethoxyxanthone",C16H14O6,302.07903818,Hypericum ericoides,Hypericum,KNApSAcK
+253,C00036601,689286-73-5,5-O-Demethylpaxanthonin,C23H23NO6,409.15253747,Hypericum roeperanum,Hypericum,KNApSAcK
+254,C00036601,689286-73-5,5-O-Demethylpaxanthonin,C23H23NO6,409.15253747,Hypericum patulum,Hypericum,KNApSAcK
+255,C00036601,689286-73-5,5-O-Demethylpaxanthonin,C23H23NO6,409.15253747,Hypericum styphelioides,Hypericum,KNApSAcK
+256,C00036731,366493-06-3,Annulatophenone,C14H12O6,276.06338812,Hypericum annulatum,Hypericum,KNApSAcK
+257,C00036732,442201-57-2,Annulatophenonoside,C19H20O10,408.10564686,Hypericum annulatum,Hypericum,KNApSAcK
+258,C00036855,124902-10-9,Cadensin G,C24H20O10,468.10564686,Hypericum chinense,Hypericum,KNApSAcK
+259,C00037289,366493-03-0,Hypericophenonoside,C19H20O11,424.10056148,Hypericum annulatum,Hypericum,KNApSAcK
+260,C00037516,130335-48-7,Morusignin D,C19H18O6,342.11033831,Hypericum patulum,Hypericum,KNApSAcK
+261,C00037602,163135-99-7,Paxanthone B,C23H22O6,394.14163844,Hypericum patulum,Hypericum,KNApSAcK
+262,C00037603,166547-18-8,Paxanthonin,C24H26O6,410.17293856,Hypericum patulum,Hypericum,KNApSAcK
+263,C00037745,181361-67-1,Roeperanone,C28H32O6,464.21988875,Hypericum roeperanum,Hypericum,KNApSAcK
+264,C00038112,93930-00-8,"1,3,8-Trihydroxy-4-methoxyxanthone",C14H10O6,274.04773805,Hypericum geminiflorum,Hypericum,KNApSAcK
+265,C00038114,20081-69-0,"1,5-Dihydroxy-6-methoxyxanthone",C14H10O5,258.05282343,Hypericum geminiflorum,Hypericum,KNApSAcK
+266,C00038190,5042-05-7,1-Hydroxy-7-methoxyxanthone,C14H10O4,242.05790881,Hypericum ascyron,Hypericum,KNApSAcK
+267,C00038192,719-41-5,1-Hydroxyxanthone,C13H8O3,212.04734412,Hypericum geminiflorum,Hypericum,KNApSAcK
+268,C00038200,42833-49-8,"2,3-Dimethoxyxanthone",C15H12O4,256.07355887,Hypericum geminiflorum,Hypericum,KNApSAcK
+269,C00038230,1214-20-6,2-Methoxyxanthone,C14H10O3,226.06299419,Hypericum ascyron,Hypericum,KNApSAcK
+270,C00038230,1214-20-6,2-Methoxyxanthone,C14H10O3,226.06299419,Hypericum spp.,Hypericum,KNApSAcK
+271,C00038318,250275-46-8,7-Epiclusianone,C33H42O4,502.30830983,Hypericum sampsonii,Hypericum,KNApSAcK
+272,C00038318,250275-46-8,7-Epiclusianone,C33H42O4,502.30830983,Hypericum scabrum,Hypericum,KNApSAcK
+273,C00038677,102349-35-9,Cadensin D,C25H22O9,466.1263823,Hypericum geminiflorum,Hypericum,KNApSAcK
+274,C00039391,1033905-28-0,Hyperielliptone HA,C27H40O6,460.28248901,Hypericum geminiflorum,Hypericum,KNApSAcK
+275,C00039392,1033905-33-7,Hyperielliptone HB,C27H40O6,460.28248901,Hypericum geminiflorum,Hypericum,KNApSAcK
+276,C00039393,1033905-39-3,Hyperielliptone HC,C25H22O10,482.12129692,Hypericum geminiflorum,Hypericum,KNApSAcK
+277,C00039394,64280-48-4,Hyperielliptone HD,C24H20O8,436.11581762,Hypericum geminiflorum,Hypericum,KNApSAcK
+278,C00040205,217307-34-1,Sampsonione B,C33H42O5,518.30322445,Hypericum sampsonii,Hypericum,KNApSAcK
+279,C00040206,265655-13-8,Sampsonione L,C33H42O5,518.30322445,Hypericum sampsonii,Hypericum,KNApSAcK
+280,C00040207,1001232-22-9,Sampsonione N,C33H42O5,518.30322445,Hypericum sampsonii,Hypericum,KNApSAcK
+281,C00040208,1001232-23-0,Sampsonione O,C33H42O5,518.30322445,Hypericum sampsonii,Hypericum,KNApSAcK
+282,C00040209,1001232-24-1,Sampsonione P,C33H42O5,518.30322445,Hypericum sampsonii,Hypericum,KNApSAcK
+283,C00040210,1001232-25-2,Sampsonione Q,C33H40O5,516.28757439,Hypericum sampsonii,Hypericum,KNApSAcK
+284,C00041015,24699-16-9,Isomangiferin,C19H18O11,422.08491142,Hypericum sampsonii,Hypericum,KNApSAcK
+285,C00041789,917600-64-7,Prolifenone A,C31H46O4,482.33960996,Hypericum prolificum L.,Hypericum,KNApSAcK
+286,C00041790,917600-65-8,Prolifenone B,C30H44O4,468.32395989,Hypericum prolificum L.,Hypericum,KNApSAcK
+287,C00041791,917600-63-6,Prolificin A,C31H46O4,482.33960996,Hypericum prolificum L.,Hypericum,KNApSAcK
+288,C00042024,156640-23-2,"1,2,5-Trihydroxyxanthone",C13H8O5,244.03717337,Hypericum henryi,Hypericum,KNApSAcK
+289,C00042148,188785-44-6,"5,7-Dihydroxy-2-isopropylchromone-8-beta-D-glucoside",C18H22O8,366.13146768,Hypericum japonicum,Hypericum,KNApSAcK
+290,C00042284,219797-92-9,Bijaponicaxanthone,C36H28O13,668.15299098,Hypericum japonicum,Hypericum,KNApSAcK
+291,C00042336,854085-73-7,Cariphenone A,C19H18O4,310.12050906,Hypericum carinatum,Hypericum,KNApSAcK
+292,C00042337,854085-75-9,Cariphenone B,C19H18O4,310.12050906,Hypericum carinatum,Hypericum,KNApSAcK
+293,C00043098,19809-79-1,Uliginosin B,C28H34O8,498.22536806,Hypericum uliginosum,Hypericum,KNApSAcK
+294,C00043098,19809-79-1,Uliginosin B,C28H34O8,498.22536806,Hypericum carinatum,Hypericum,KNApSAcK
+295,C00043579,407636-30-0,Hyperibone A,C33H42O5,518.30322445,Hypericum scabrum,Hypericum,KNApSAcK
+296,C00043580,407636-31-1,Hyperibone B,C33H42O5,518.30322445,Hypericum scabrum,Hypericum,KNApSAcK
+297,C00043581,407636-32-2,Hyperibone C,C33H42O6,534.29813907,Hypericum scabrum,Hypericum,KNApSAcK
+298,C00043582,407636-33-3,Hyperibone D,C33H42O6,534.29813907,Hypericum scabrum,Hypericum,KNApSAcK
+299,C00043583,407636-34-4,Hyperibone E,C33H42O7,550.2930537,Hypericum scabrum,Hypericum,KNApSAcK
+300,C00043584,407636-35-5,Hyperibone F,C33H42O6,534.29813907,Hypericum scabrum,Hypericum,KNApSAcK
+301,C00043585,407636-36-6,Hyperibone G,C33H42O5,518.30322445,Hypericum scabrum,Hypericum,KNApSAcK
+302,C00043586,407636-37-7,Hyperibone H,C33H42O6,534.29813907,Hypericum scabrum,Hypericum,KNApSAcK
+303,C00043587,407636-38-8,Hyperibone I,C33H42O5,518.30322445,Hypericum scabrum,Hypericum,KNApSAcK
+304,C00043588,819860-70-3,Hyperibone K,C33H40O4,500.29265977,Hypericum scabrum,Hypericum,KNApSAcK
+305,C00043589,819860-71-4,Hyperibone L,C29H36O4,448.26135964,Hypericum scabrum,Hypericum,KNApSAcK
+306,C00043590,722457-94-5,Hyperjovinol A,C20H30O5,350.20932407,Hypericum jovis,Hypericum,KNApSAcK
+307,C00043591,722457-95-6,Hyperjovinol B,C20H28O4,332.19875938,Hypericum jovis,Hypericum,KNApSAcK
+308,C00043592,165133-97-1,Hyperolactone B,C13H16O4,236.104859,Hypericum chinese L.,Hypericum,KNApSAcK
+309,C00043593,165170-94-5,Hyperolactone C,C16H14O4,270.08920894,Hypericum chinese L.,Hypericum,KNApSAcK
+310,C00043594,819860-72-5,Hyperxanthone A,C18H16O7,344.08960287,Hypericum scabrum,Hypericum,KNApSAcK
+311,C00043595,819860-73-6,Hyperxanthone B,C18H16O8,360.08451749,Hypericum scabrum,Hypericum,KNApSAcK
+312,C00043596,819860-74-7,Hyperxanthone C,C18H16O7,344.08960287,Hypericum scabrum,Hypericum,KNApSAcK
+313,C00043597,819860-75-8,Hyperxanthone D,C18H16O6,328.09468824,Hypericum scabrum,Hypericum,KNApSAcK
+314,C00043598,819860-76-9,Hyperxanthone E,C18H16O6,328.09468824,Hypericum scabrum,Hypericum,KNApSAcK
+315,C00043599,819860-77-0,Hyperxanthone F,C16H12O7,316.05830274,Hypericum scabrum,Hypericum,KNApSAcK
+316,C00044814,610789-35-0,Hyperatomarin,C25H36O4,400.26135964,Hypericum atomarium ssp. degenii,Hypericum,KNApSAcK
+317,C00046025,350028-05-6,Hyperpapuanone,C26H38O4,414.2770097,Hypericum papuanum,Hypericum,KNApSAcK
+318,C00046273,350027-98-4,Papuaforin A,C26H36O4,412.26135964,Hypericum papuanum,Hypericum,KNApSAcK
+319,C00046274,350027-99-5,Papuaforin B,C26H36O4,412.26135964,Hypericum papuanum,Hypericum,KNApSAcK
+320,C00046275,350028-00-1,Papuaforin C,C27H38O4,426.2770097,Hypericum papuanum,Hypericum,KNApSAcK
+321,C00046276,350028-01-2,Papuaforin D,C32H46O4,494.33960996,Hypericum papuanum,Hypericum,KNApSAcK
+322,C00046277,350028-02-3,Papuaforin E,C31H44O4,480.32395989,Hypericum papuanum,Hypericum,KNApSAcK
+323,C00046772,256471-46-2,Ialibinone A,C21H28O4,344.19875938,Hypericum papuanum,Hypericum,KNApSAcK
+324,C00046773,256471-47-3,Ialibinone B,C21H28O4,344.19875938,Hypericum papuanum,Hypericum,KNApSAcK
+325,C00046774,256471-48-4,Ialibinone C,C22H30O4,358.21440945,Hypericum papuanum,Hypericum,KNApSAcK
+326,C00046775,256471-49-5,Ialibinone D,C22H30O4,358.21440945,Hypericum papuanum,Hypericum,KNApSAcK
+327,C00046776,256471-50-8,Ialibinone E,C18H24O4,304.16745925,Hypericum papuanum,Hypericum,KNApSAcK
+328,C00046843,262857-89-6,Oxepahyperforin,C35H62O5,562.45972509,Hypericum perforatum,Hypericum,KNApSAcK
+329,C00047762,1174170-62-7,Biyouyanagin B,C31H38O4,474.2770097,Hypericum chinense,Hypericum,KNApSAcK
+330,C00048249,6563-47-9,"1,3-Dihydroxy-5-methoxy-xanthone",C14H10O5,258.05282343,Hypericum chinense,Hypericum,KNApSAcK
+331,C00048275,70786-46-8,2-Hydroxy-5-methoxy-xanthone,C14H10O4,242.05790881,Hypericum chinense,Hypericum,KNApSAcK
+332,C00048278,1197054-69-5,2-O-Demethylkielcorin,C23H18O8,422.10016755,Hypericum chinense,Hypericum,KNApSAcK
+333,C00048290,10527-38-5,"4-Hydroxy-2,3-dimethoxyxanthone",C15H12O5,272.06847349,Hypericum chinense,Hypericum,KNApSAcK
+334,C00048352,1197054-74-2,Chinexanthone A,C29H24O11,548.13186161,Hypericum chinense,Hypericum,KNApSAcK
+335,C00048548,119269-69-1,Subalatin,C24H20O9,452.11073224,Hypericum chinense,Hypericum,KNApSAcK
+336,C00049557,66910-92-7,"6,7-Dihydroxy-1,3-dimethoxyxanthone",C15H12O6,288.06338812,Hypericum geminiflorum,Hypericum,KNApSAcK
+337,C00049558,6563-45-7,"4-Hydroxy-1,2-dimethoxy-xanthone",C15H12O5,272.06847349,Hypericum geminiflorum,Hypericum,KNApSAcK
+338,C00049588,238750-51-1,Gemixanthone A,C26H24O11,512.13186161,Hypericum geminiflorum,Hypericum,KNApSAcK
+339,C00049662,229344-34-7,Patuloside A,C19H18O11,422.08491142,Hypericum patulum,Hypericum,KNApSAcK
+340,C00049663,229344-35-8,Patuloside B,C25H28O15,568.14282023,Hypericum patulum,Hypericum,KNApSAcK
+341,C00050676,3221-61-2,2-Methyl octane,C9H20,128.15650064,Hypericum perforatum,Hypericum,KNApSAcK
+342,C00050741,365947-69-9,"6-Isobutyryl-5,7-dimethoxy-2,2-dimethylbenzopyran",C17H22O4,290.15180919,Hypericum polyanthemum,Hypericum,KNApSAcK
+343,C00050798,350028-03-4,Hyperguinone A,C20H26O4,330.18310932,Hypericum papuanum,Hypericum,KNApSAcK
+344,C00050799,350028-04-5,Hyperguinone B,C21H28O4,344.19875938,Hypericum papuanum,Hypericum,KNApSAcK
+345,C00051023,115589-77-0,Japonicin B,C33H42O8,566.28796832,Hypericum japonicum,Hypericum,KNApSAcK
+346,C00051024,115538-77-7,Japonicin D,C36H44O12,668.28327687,Hypericum japonicum,Hypericum,KNApSAcK
+347,C00051701,37791-14-3,N-Methyl canadine,C21H24NO4,354.17053326,Hypericum erectum,Hypericum,KNApSAcK
+348,C00051985,608-07-1,5-Methoxytryptamine,C11H14N2O,190.11061308,Hypericum perforatum,Hypericum,KNApSAcK
+349,C00052006,73-31-4,Melatonin,C13H16N2O2,232.12117777,Hypericum perforatum,Hypericum,KNApSAcK
+350,C00055368,927684-17-1,Adhyperfirin,C31H46O4,482.33960996,Hypericum perforatum,Hypericum,KNApSAcK
+351,C00056406,1064067-44-2,Furoadhyperforin A,C36H54O5,566.39712483,Hypericum perforatum var. angustifolium,Hypericum,KNApSAcK
+352,C00056407,1064067-46-4,Furoadhyperforin B,C36H54O5,566.39712483,Hypericum perforatum var. angustifolium,Hypericum,KNApSAcK
+353,C00057336,303115-46-0,Pyrohyperforin,C35H50O4,534.37091008,Hypericum perforatum,Hypericum,KNApSAcK
+0,C00000165,1209-71-8,gamma-Eudesmol,C15H26O,222.19836545,Thuja occidentalis,Thuja,KNApSAcK
+1,C00000587,81446-29-9,(-)-Pinoresinol,C20H22O6,358.14163844,Thuja plicata,Thuja,KNApSAcK
+2,C00000603,83327-19-9,(-)-Lariciresinol,C20H24O6,360.1572885,Thuja plicata,Thuja,KNApSAcK
+3,C00000604,29388-59-8,(-)-Secoisolariciresinol,C20H26O6,362.17293856,Thuja occidentalis,Thuja,KNApSAcK
+4,C00000604,29388-59-8,(-)-Secoisolariciresinol,C20H26O6,362.17293856,Thuja plicata,Thuja,KNApSAcK
+5,C00000605,145265-02-7,(+)-Secoisolariciresinol,C20H26O6,362.17293856,Thuja plicata,Thuja,KNApSAcK
+6,C00000606,580-72-3,(-)-Matairesinol,C20H22O6,358.14163844,Thuja occidentalis,Thuja,KNApSAcK
+7,C00000634,16462-65-0,Plicatic acid,C20H22O10,422.12129692,Thuja heterophylla,Thuja,KNApSAcK
+8,C00000634,16462-65-0,Plicatic acid,C20H22O10,422.12129692,Thuja plicata,Thuja,KNApSAcK
+9,C00000636,204253-92-9,(+)-Pinoresinolin,C20H22O7,374.13655306,Thuja plicata,Thuja,KNApSAcK
+10,C00000804,546-80-5,(-)-3-Isothujone,C10H16O,152.12011513,Thuja plicata,Thuja,KNApSAcK
+11,C00000804,546-80-5,(-)-3-Isothujone,C10H16O,152.12011513,Thuja occidentalis,Thuja,KNApSAcK
+12,C00000804,546-80-5,(-)-3-Isothujone,C10H16O,152.12011513,Thuja orientalis,Thuja,KNApSAcK
+13,C00000805,80-56-8,alpha-Pinene,C10H16,136.12520051,Thuja orientalis,Thuja,KNApSAcK
+14,C00000836,471-15-8,beta-Thujone,C10H16O,152.12011513,Thuja plicata,Thuja,KNApSAcK
+15,C00001015,1617-53-4,Amentoflavone,C30H18O10,538.0899968,Thuja spp.,Thuja,KNApSAcK
+16,C00001015,1617-53-4,Amentoflavone,C30H18O10,538.0899968,Thuja orientalis,Thuja,KNApSAcK
+17,C00001049,19202-36-9,Hinokiflavone,C30H18O10,538.0899968,Thuja spp.,Thuja,KNApSAcK
+18,C00001071,529-44-2,Myricetin,C15H10O8,318.0375673,Thuja orientalis,Thuja,KNApSAcK
+19,C00001869,3019-51-0,(S)-Isoboldine,C19H21NO4,327.14705817,Thuja orientalis,Thuja,KNApSAcK
+20,C00002585,524-12-9,Wedelolactone,C16H10O7,314.04265268,Thuja orientalis,Thuja,KNApSAcK
+21,C00002597,19186-35-7,Anthricin,C22H22O7,398.13655306,Thuja occidentalis,Thuja,KNApSAcK
+22,C00002598,40456-50-6,(-)-Deoxypodorhizone,C22H24O7,400.15220312,Thuja plicata,Thuja,KNApSAcK
+23,C00002598,40456-50-6,(-)-Deoxypodorhizone,C22H24O7,400.15220312,Thuja occidentalis,Thuja,KNApSAcK
+24,C00003062,499-44-5,beta-Thujaplicin,C10H12O2,164.08372963,Thuja plicata,Thuja,KNApSAcK
+25,C00003063,672-76-4,gamma-Thujaplicin,C10H12O2,164.08372963,Thuja plicata,Thuja,KNApSAcK
+26,C00003112,77-53-2,(+)-Cedrol,C15H26O,222.19836545,Thuja orientalis,Thuja,KNApSAcK
+27,C00003426,514-62-5,(+)-Ferruginol,C20H30O,286.22966558,Thuja standishii,Thuja,KNApSAcK
+28,C00003444,5835-26-7,Isopimaric acid,C20H30O2,302.2245802,Thuja orientalis,Thuja,KNApSAcK
+29,C00004453,22149-72-0,Tricetin 3'-glucoside,C21H20O12,464.09547611,Thuja occidentalis,Thuja,KNApSAcK
+30,C00005149,16290-07-6,Kaempferol 7-O-beta-D-glucopyranoside,C21H20O11,448.10056148,Thuja orientalis,Thuja,KNApSAcK
+31,C00005374,522-12-3,Quercetin 3-O-alpha-L-rhamnoside,C21H20O11,448.10056148,Thuja orientalis,Thuja,KNApSAcK
+32,C00005383,22007-72-3,Quercetin 7-rhamnoside,C21H20O11,448.10056148,Thuja orientalis,Thuja,KNApSAcK
+33,C00005730,17912-87-7,Myricitrin,C21H20O12,464.09547611,Thuja orientalis,Thuja,KNApSAcK
+34,C00006491,67882-11-5,"7,7''-Di-O-methylamentoflavone",C32H22O10,566.12129692,Thuja gigantea,Thuja,KNApSAcK
+35,C00006491,67882-11-5,"7,7''-Di-O-methylamentoflavone",C32H22O10,566.12129692,Thuja javanica,Thuja,KNApSAcK
+36,C00006614,13306-05-3,Cyanidin,C15H11O6,287.05556308,Thuja spp.,Thuja,KNApSAcK
+37,C00006614,13306-05-3,Cyanidin,C15H11O6,287.05556308,Thuja plicata,Thuja,KNApSAcK
+38,C00007190,487-36-5,(+)-Pinoresinol,C20H22O6,358.14163844,Thuja occidentalis,Thuja,KNApSAcK
+39,C00007203,61521-74-2,Wikstromol,C20H22O7,374.13655306,Thuja occidentalis,Thuja,KNApSAcK
+40,C00007234,480-20-6,(+)-Dihydrokaempferol,C15H12O6,288.06338812,Thuja orientalis,Thuja,KNApSAcK
+41,C00008711,31106-05-5,Taxifolin 3'-glucoside,C21H22O12,466.11112617,Thuja orientalis,Thuja,KNApSAcK
+42,C00008711,31106-05-5,Taxifolin 3'-glucoside,C21H22O12,466.11112617,Thuja plicata,Thuja,KNApSAcK
+43,C00011007,499-89-8,"5,5-Dimethyl-1,3,6-cycloheptatriene-1-carboxylic acid",C10H12O2,164.08372963,Thuja plicata,Thuja,KNApSAcK
+44,C00011007,499-89-8,"5,5-Dimethyl-1,3,6-cycloheptatriene-1-carboxylic acid",C10H12O2,164.08372963,Thuja orientalis,Thuja,KNApSAcK
+45,C00011009,4570-11-0,beta-Dolabrin,C10H10O2,162.06807956,Thuja plicata,Thuja,KNApSAcK
+46,C00011011,1946-74-3,"2-Hydroxy-3-isopropyl-2,4,6-cycloheptatrien-1-one",C10H12O2,164.08372963,Thuja standishii,Thuja,KNApSAcK
+47,C00011011,1946-74-3,"2-Hydroxy-3-isopropyl-2,4,6-cycloheptatrien-1-one",C10H12O2,164.08372963,Thuja plicata,Thuja,KNApSAcK
+48,C00011011,1946-74-3,"2-Hydroxy-3-isopropyl-2,4,6-cycloheptatrien-1-one",C10H12O2,164.08372963,Thuja dolabrata,Thuja,KNApSAcK
+49,C00011011,1946-74-3,"2-Hydroxy-3-isopropyl-2,4,6-cycloheptatrien-1-one",C10H12O2,164.08372963,Thuja occidentalis,Thuja,KNApSAcK
+50,C00011012,13656-81-0,"4-Isopropyl-2,4,6-cycloheptatrien-1-one",C10H12O,148.08881501,Thuja standishii,Thuja,KNApSAcK
+51,C00011027,7787-20-4,(-)-Fenchone,C10H16O,152.12011513,Thuja occidentalis,Thuja,KNApSAcK
+52,C00011045,20296-50-8,(-)-Carene(-)-3-Carene,C10H16,136.12520051,Thuja orientalis,Thuja,KNApSAcK
+53,C00011052,3917-48-4,(-)-alpha-Thujene,C10H16,136.12520051,Thuja occidentalis,Thuja,KNApSAcK
+54,C00011058,471-84-1,(-)-alpha-Fenchene,C10H16,136.12520051,Thuja plicata,Thuja,KNApSAcK
+55,C00012048,27548-56-7,Occidiol,C15H24O2,236.17763001,Thuja orientalis,Thuja,KNApSAcK
+56,C00012513,16196-32-0,"(S)-2,2,3-Trimethyl-3-(4-methylphenyl)cyclopentanone",C15H20O,216.15141526,Thuja orientalis,Thuja,KNApSAcK
+57,C00012513,16196-32-0,"(S)-2,2,3-Trimethyl-3-(4-methylphenyl)cyclopentanone",C15H20O,216.15141526,Thuja compacta,Thuja,KNApSAcK
+58,C00012514,21730-87-0,alpha-Isocuparenol,C15H22O,218.16706532,Thuja orientalis,Thuja,KNApSAcK
+59,C00012516,28152-91-2,(+)-beta-Cuparenone,C15H20O,216.15141526,Thuja orientalis,Thuja,KNApSAcK
+60,C00012732,473-17-6,(+)-Occidentalol,C15H24O,220.18271539,Thuja occidentalis,Thuja,KNApSAcK
+61,C00012732,473-17-6,(+)-Occidentalol,C15H24O,220.18271539,Thuja orientalis,Thuja,KNApSAcK
+62,C00013242,5986-36-7,Occidol,C15H22O,218.16706532,Thuja orientalis,Thuja,KNApSAcK
+63,C00013242,5986-36-7,Occidol,C15H22O,218.16706532,Thuja occidentalis,Thuja,KNApSAcK
+64,C00021722,50894-66-1,Di-epi-alpha-cedrene,C15H24,204.18780077,Thuja occidentalis,Thuja,KNApSAcK
+65,C00021724,24048-41-7,beta-Isobiotol,C15H24O,220.18271539,Thuja orientalis,Thuja,KNApSAcK
+66,C00021879,4677-90-1,Mayurone,C14H20O,204.15141526,Thuja orientalis,Thuja,KNApSAcK
+67,C00021880,24048-40-6,Thujopsadiene,C15H22,202.1721507,Thuja orientalis,Thuja,KNApSAcK
+68,C00021963,6892-80-4,Widdrol,C15H26O,222.19836545,Thuja orientalis,Thuja,KNApSAcK
+69,C00022321,4966-13-6,Lambertianic acid,C20H28O3,316.20384476,Thuja orientalis,Thuja,KNApSAcK
+70,C00022708,1909-91-7,(+)-Isocupressic acid,C20H32O3,320.23514489,Thuja orientalis,Thuja,KNApSAcK
+71,C00022708,1909-91-7,(+)-Isocupressic acid,C20H32O3,320.23514489,Thuja standishii,Thuja,KNApSAcK
+72,C00022770,40433-82-7,Pinusolidic acid,C20H28O4,332.19875938,Thuja orientalis,Thuja,KNApSAcK
+73,C00022771,31685-80-0,Pinusolide,C21H30O4,346.21440945,Thuja orientalis,Thuja,KNApSAcK
+74,C00031283,471-74-9,Sandaracopimaric acid,C20H30O2,302.2245802,Thuja standishii,Thuja,KNApSAcK
+75,C00031398,511-05-7,Sugiol,C20H28O2,300.20893014,Thuja plicata,Thuja,KNApSAcK
+76,C00031398,511-05-7,Sugiol,C20H28O2,300.20893014,Thuja standishii,Thuja,KNApSAcK
+77,C00040761,504-55-2,10-Nonacosanol,C29H60O,424.46441654,Thuja orientalis,Thuja,KNApSAcK
+78,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Thuja plicate,Thuja,KNApSAcK
+79,C00050638,691009-86-6,"15-Isopimaren-3beta,8beta-diol",C20H34O2,306.25588033,Thuja orientalis,Thuja,KNApSAcK
+80,C00050761,22384-61-8,"8(9),15-Isopimaradien-3beta-ol",C20H32O,288.24531564,Thuja orientalis,Thuja,KNApSAcK

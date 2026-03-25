@@ -1,0 +1,101 @@
+,C_ID,CAS ID,example_compound_name,Molecular formula,Mw,Organism,knapsack_search_term,Source
+0,C00000010,118-34-3,Syringin,C17H24O9,372.14203237,Viscum album L.,Viscum,KNApSAcK
+1,C00000258,530-55-2,"2,6-Dimethoxy-1,4-benzoquinone",C8H8O4,168.04225874,Viscum coloratum,Viscum,KNApSAcK
+2,C00000615,501-16-6,Caffeic acid,C9H8O4,180.04225874,Viscum coloratum,Viscum,KNApSAcK
+3,C00000856,99-96-7,4-hydroxybenzoic acid,C7H6O3,138.03169406,Viscum coloratum,Viscum,KNApSAcK
+4,C00000856,99-96-7,4-hydroxybenzoic acid,C7H6O3,138.03169406,Viscum articulactum,Viscum,KNApSAcK
+5,C00000969,446-71-9,Homoeriodictyol,C16H14O6,302.07903818,Viscum coloratum,Viscum,KNApSAcK
+6,C00000982,480-41-1,Naringenin,C15H12O5,272.06847349,Viscum coloratum,Viscum,KNApSAcK
+7,C00000982,480-41-1,Naringenin,C15H12O5,272.06847349,Viscum angulatum,Viscum,KNApSAcK
+8,C00000992,480-39-7,Dihydrochrysin,C15H12O4,256.07355887,Viscum coloratum,Viscum,KNApSAcK
+9,C00000998,529-55-5,Naringenin 7-O-beta-D-glucoside,C21H22O10,434.12129692,Viscum coloratum (KOMAR) NAKAI,Viscum,KNApSAcK
+10,C00000998,529-55-5,Naringenin 7-O-beta-D-glucoside,C21H22O10,434.12129692,Viscum articulactum,Viscum,KNApSAcK
+11,C00001435,51-67-2,Tyramine,C8H11NO,137.08406398,Viscum album,Viscum,KNApSAcK
+12,C00001511,65-71-4,5-Methyluracil,C5H6N2O2,126.04292745,Viscum coloratum,Viscum,KNApSAcK
+13,C00001513,66-22-8,Uracil,C4H4N2O2,112.02727739,Viscum coloratum,Viscum,KNApSAcK
+14,C00002207,486-89-5,(-)-Anagyrine,C15H20N2O,244.15756328,Viscum cruciatum,Viscum,KNApSAcK
+15,C00002218,485-35-8,(-)-Cytisine,C11H14N2O,190.11061308,Viscum cruciatum,Viscum,KNApSAcK
+16,C00002233,2122-29-4,Retamine,C15H26N2O,250.20451347,Viscum cruciatum,Viscum,KNApSAcK
+17,C00002422,31721-94-5,"5,7-Dihydroxychromone",C9H6O4,178.02660868,Viscum coloratum,Viscum,KNApSAcK
+18,C00002631,21453-69-0,(+)-Lirioresinol B,C22H26O8,418.16276781,Viscum album var. coloratum,Viscum,KNApSAcK
+19,C00002657,123-08-0,4-Hydroxybenzaldehyde,C7H6O2,122.03677944,Viscum articulactum,Viscum,KNApSAcK
+20,C00002657,123-08-0,4-Hydroxybenzaldehyde,C7H6O2,122.03677944,Viscum coloratum,Viscum,KNApSAcK
+21,C00002663,60-12-8,2-Phenylethanol,C8H10O,122.07316494,Viscum articulactum,Viscum,KNApSAcK
+22,C00002668,99-50-3,"3,4-Dihydroxybenzoic acid",C7H6O4,154.02660868,Viscum coloratum,Viscum,KNApSAcK
+23,C00002668,99-50-3,"3,4-Dihydroxybenzoic acid",C7H6O4,154.02660868,Viscum articulactum,Viscum,KNApSAcK
+24,C00002682,121-34-6,Vanillic acid,C8H8O4,168.04225874,Viscum coloratum,Viscum,KNApSAcK
+25,C00002683,5463-22-9,Vanillin,C8H8O3,152.04734412,Viscum articulactum,Viscum,KNApSAcK
+26,C00002683,5463-22-9,Vanillin,C8H8O3,152.04734412,Viscum coloratum,Viscum,KNApSAcK
+27,C00002689,498-02-2,3'-Methoxy-4'-hydroxyacetophenone,C9H10O3,166.06299419,Viscum coloratum,Viscum,KNApSAcK
+28,C00002743,1135-24-6,Ferulic acid,C10H10O4,194.05790881,Viscum coloratum,Viscum,KNApSAcK
+29,C00002778,537-33-7,Sinapyl alcohol,C11H14O4,210.08920894,Viscum spp.,Viscum,KNApSAcK
+30,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Viscum coloratum,Viscum,KNApSAcK
+31,C00003674,83-48-7,beta-Stigmasterol,C29H48O,412.37051615,Viscum coloratum,Viscum,KNApSAcK
+32,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Viscum coloratum,Viscum,KNApSAcK
+33,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Viscum coloratum,Viscum,KNApSAcK
+34,C00004371,30271-21-7,"Luteolin 7,3'-dimethyl ether 4'-glucoside",C23H24O11,476.13186161,Viscum album,Viscum,KNApSAcK
+35,C00004372,30422-47-0,"Luteolin 7,3'-dimethyl ether 4'-apiosyl-(1->2)-glucoside",C28H32O15,608.17412036,Viscum alniformosanae,Viscum,KNApSAcK
+36,C00004372,30422-47-0,"Luteolin 7,3'-dimethyl ether 4'-apiosyl-(1->2)-glucoside",C28H32O15,608.17412036,Viscum album,Viscum,KNApSAcK
+37,C00004567,569-92-6,Rhamnocitrin,C16H12O6,300.06338812,Viscum cruciatum,Viscum,KNApSAcK
+38,C00004569,3301-49-3,"Kaempferol 3,7-dimethyl ether",C17H14O6,314.07903818,Viscum album,Viscum,KNApSAcK
+39,C00004569,3301-49-3,"Kaempferol 3,7-dimethyl ether",C17H14O6,314.07903818,Viscum cruciatum,Viscum,KNApSAcK
+40,C00004570,20869-95-8,Ermanin,C17H14O6,314.07903818,Viscum album,Viscum,KNApSAcK
+41,C00004634,90-19-7,Rhamnetin,C16H12O7,316.05830274,Viscum album,Viscum,KNApSAcK
+42,C00004634,90-19-7,Rhamnetin,C16H12O7,316.05830274,Viscum cruciatum,Viscum,KNApSAcK
+43,C00004635,480-19-3,Isorhamnetin,C16H12O7,316.05830274,Viscum album,Viscum,KNApSAcK
+44,C00004635,480-19-3,Isorhamnetin,C16H12O7,316.05830274,Viscum cruciatum,Viscum,KNApSAcK
+45,C00004638,2068-02-2,"Quercetin 3,7-dimethyl ether",C17H14O7,330.0739528,Viscum cruciatum,Viscum,KNApSAcK
+46,C00004638,2068-02-2,"Quercetin 3,7-dimethyl ether",C17H14O7,330.0739528,Viscum album,Viscum,KNApSAcK
+47,C00004639,4382-17-6,"3,3'-Dimethylquercetin",C17H14O7,330.0739528,Viscum cruciatum,Viscum,KNApSAcK
+48,C00004639,4382-17-6,"3,3'-Dimethylquercetin",C17H14O7,330.0739528,Viscum album,Viscum,KNApSAcK
+49,C00004642,552-54-5,"Quercetin 7,3'-dimethyl ether",C17H14O7,330.0739528,Viscum cruciatum,Viscum,KNApSAcK
+50,C00004646,33708-72-4,Pachypodol,C18H16O7,344.08960287,Viscum cruciatum,Viscum,KNApSAcK
+51,C00004646,33708-72-4,Pachypodol,C18H16O7,344.08960287,Viscum album,Viscum,KNApSAcK
+52,C00005578,115330-91-1,Isorhamnetin 3-apiosyl-(1->6)-glucoside-7-rhamnoside,C33H40O20,756.21129372,Viscum album,Viscum,KNApSAcK
+53,C00005607,20486-38-8,Rhamnazin 3-glucoside,C23H24O12,492.12677623,Viscum album,Viscum,KNApSAcK
+54,C00006018,108886-00-6,Rhamnazin 3-(6''-acetylglucoside),C25H26O13,534.13734092,Viscum coloratum,Viscum,KNApSAcK
+55,C00006019,119725-29-0,Rhamnazin 3-[6''-(3-hydroxy-3-methylglutaryl)glucoside],C29H32O16,636.16903498,Viscum coloratum,Viscum,KNApSAcK
+56,C00007558,134-96-3,Syringaldehyde,C9H10O4,182.05790881,Viscum coloratum,Viscum,KNApSAcK
+57,C00007888,68984-71-4,"4,2'-Dihydroxy-4',6'-dimethoxychalcone 4-glucoside",C23H26O10,462.15259705,Viscum album,Viscum,KNApSAcK
+58,C00007889,112526-49-5,"4,2'-Dihydroxy-4',6'-dimethoxychalcone 4-apiosyl-(1->2)-glucoside",C28H34O14,594.1948558,Viscum album,Viscum,KNApSAcK
+59,C00007917,112572-59-5,"4,2'-Dihydroxy-3,4',6'-trimethoxychalcone 4-glucoside",C24H28O11,492.16316174,Viscum album,Viscum,KNApSAcK
+60,C00008291,38965-51-4,(2S)-Eriodictyol 7-O-beta-D-glucopyranoside,C21H22O11,450.11621155,Viscum coloratum (KOMAR) NAKAI,Viscum,KNApSAcK
+61,C00008430,118985-27-6,Viscumneoside III,C27H32O15,596.17412036,Viscum coloratum,Viscum,KNApSAcK
+62,C00008440,108886-01-7,Viscumneoside I,C27H32O15,596.17412036,Viscum coloratum,Viscum,KNApSAcK
+63,C00008440,108886-01-7,Viscumneoside I,C27H32O15,596.17412036,Viscum articulatum,Viscum,KNApSAcK
+64,C00008441,14982-11-7,Viscumside A,C22H24O11,464.13186161,Viscum coloratum,Viscum,KNApSAcK
+65,C00008441,14982-11-7,Viscumside A,C22H24O11,464.13186161,Viscum articulactum,Viscum,KNApSAcK
+66,C00008442,118985-26-5,Viscumneoside VI,C24H26O12,506.1424263,Viscum coloratum,Viscum,KNApSAcK
+67,C00008443,119016-92-1,Viscumneoside V,C32H40O19,728.2163791,Viscum angulatum,Viscum,KNApSAcK
+68,C00008443,119016-92-1,Viscumneoside V,C32H40O19,728.2163791,Viscum coloratum,Viscum,KNApSAcK
+69,C00008765,108403-45-8,Viscutin 3,C20H22O9,406.1263823,Viscum tuberculatum,Viscum,KNApSAcK
+70,C00008766,108403-43-6,Viscutin 1,C27H26O11,526.14751167,Viscum tuberculatum,Viscum,KNApSAcK
+71,C00008767,108403-44-7,Viscutin 2,C29H28O12,568.15807636,Viscum tuberculatum,Viscum,KNApSAcK
+72,C00013815,433979-38-5,Kaempferol 7-methyl ether 3-apiosyl-(1->5)-apiosyl-(1->2)-[rhamnosyl-(1->6)-glucoside],C38H48O23,872.25863784,Viscum angulatum,Viscum,KNApSAcK
+73,C00014304,75829-43-5,Pinocembroside,C21H22O9,418.1263823,Viscum coloratum,Viscum,KNApSAcK
+74,C00014304,75829-43-5,Pinocembroside,C21H22O9,418.1263823,Viscum articulactum,Viscum,KNApSAcK
+75,C00014305,433979-36-3,Pinocembrin 7-apiosyl-(1->5)-apiosyl-(1->2)-glucoside,C31H38O17,682.21089979,Viscum angulatum,Viscum,KNApSAcK
+76,C00014327,488760-66-3,"4'-Hydroxy-5,7-dimethoxyflavanone 4'-[2-(5-Cinnamoyl)-beta-D-apiofuranosyl]glucoside",C37H40O15,724.23672061,Viscum album subsp. album,Viscum,KNApSAcK
+77,C00014348,247580-66-1,"(2S)-5,4'-Dihydroxy-7,3'-dimethoxyflavanone 4'-apiosyl-(1->2)-glucoside",C28H34O15,610.18977042,Viscum alniformosanae,Viscum,KNApSAcK
+78,C00014507,488760-67-4,"4,2'-Dihydroxy-4',6'-dimethoxychalcone 4-O-(5'''-O-p-cinnamoyl)-apiofuranosyl-(1'''->2'')-glucoside",C37H40O15,724.23672061,Viscum album subsp. album,Viscum,KNApSAcK
+79,C00019064,508-02-1,Oleanolic acid,C30H48O3,456.3603454,Viscum coloratum,Viscum,KNApSAcK
+80,C00019064,508-02-1,Oleanolic acid,C30H48O3,456.3603454,Viscum articulatum,Viscum,KNApSAcK
+81,C00019064,508-02-1,Oleanolic acid,C30H48O3,456.3603454,Viscum articulactum,Viscum,KNApSAcK
+82,C00019308,474-58-8,3-O-beta-D-Glucopyranosyl sitosterol,C35H60O6,576.43898965,Viscum coloratum,Viscum,KNApSAcK
+83,C00022654,1616-93-9,beta-Amyrin acetate,C32H52O2,468.3967309,Viscum coloratum,Viscum,KNApSAcK
+84,C00022654,1616-93-9,beta-Amyrin acetate,C32H52O2,468.3967309,Viscum articulactum,Viscum,KNApSAcK
+85,C00029454,19776-68-2,2-Deoxy-epi-inositol,C6H12O5,164.06847349,Viscum articulactum,Viscum,KNApSAcK
+86,C00029454,19776-68-2,2-Deoxy-epi-inositol,C6H12O5,164.06847349,Viscum coloratum,Viscum,KNApSAcK
+87,C00029509,19716-26-8,Stigmasterol-3-O-beta-D-glucopyranoside,C35H58O6,574.42333958,Viscum coloratum,Viscum,KNApSAcK
+88,C00029541,6470-69-5,4-O-Cinnamoylquinic acid,C16H18O7,322.10525293,Viscum coloratum,Viscum,KNApSAcK
+89,C00029821,1058-61-3,Sitostenone,C29H48O,412.37051615,Viscum coloratum,Viscum,KNApSAcK
+90,C00029961,621-82-9,Cinnamic acid,C9H8O2,148.0524295,Viscum coloratum,Viscum,KNApSAcK
+91,C00030168,39432-56-9,Eleutheroside E,C34H46O18,742.26841467,Viscum album L.,Viscum,KNApSAcK
+92,C00030751,99-76-3,Methylparaben,C8H8O3,152.04734412,Viscum articulactum,Viscum,KNApSAcK
+93,C00030769,154418-15-2,Methyl-3-O-feruloylquinate,C18H22O9,382.1263823,Viscum coloratum,Viscum,KNApSAcK
+94,C00032492,912957-28-9,Viscolin,C19H24O6,348.1572885,Viscum coloratum,Viscum,KNApSAcK
+95,C00035947,7361-59-3,4-(beta-D-glucosyloxy)-3-hydroxy-benzoic acid,C13H16O9,316.07943211,Viscum articulactum,Viscum,KNApSAcK
+96,C00035951,5509-70-6,4-O-Cinnamoyl quinic acid,C16H18O7,322.10525293,Viscum articulactum,Viscum,KNApSAcK
+97,C00037272,41137-87-5,Hirsutanone,C19H20O5,328.13107375,Viscum cruciatum,Viscum,KNApSAcK
+98,C00051292,930305-74-1,Liquidamboside,C24H22O10,470.12129692,Viscum articulatum,Viscum,KNApSAcK
+0,C00037535,101705-37-7,Myzodendrone,C16H22O8,342.13146768,Myzodendron punctulatum,Myzodendron,KNApSAcK

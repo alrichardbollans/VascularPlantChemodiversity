@@ -1,0 +1,268 @@
+,C_ID,CAS ID,example_compound_name,Molecular formula,Mw,Organism,knapsack_search_term,Source
+0,C00000001,545-97-1,Gibberellin A1,C19H24O6,348.1572885,Alnus tenuifolia,Alnus,KNApSAcK
+1,C00000008,7044-72-6,Gibberellin A8,C19H24O7,364.15220312,Alnus tenuifolia,Alnus,KNApSAcK
+2,C00000020,19143-87-4,Gibberellin A20,C19H24O5,332.16237388,Alnus tenuifolia,Alnus,KNApSAcK
+3,C00000176,72962-43-7,Brassinolide,C28H48O6,480.34508927,Alnus glutinosa,Alnus,KNApSAcK
+4,C00000181,80736-41-0,Castasterone,C28H48O5,464.35017464,Alnus glutinosa,Alnus,KNApSAcK
+5,C00000604,29388-59-8,(-)-Secoisolariciresinol,C20H26O6,362.17293856,Alnus japonica,Alnus,KNApSAcK
+6,C00000991,548-82-3,Pinobanksin,C15H12O5,272.06847349,Alnus sieboldiana,Alnus,KNApSAcK
+7,C00000992,480-39-7,Dihydrochrysin,C15H12O4,256.07355887,Alnus spp.,Alnus,KNApSAcK
+8,C00001006,491-66-7,Strobopinin,C16H14O4,270.08920894,Alnus sieboldiana,Alnus,KNApSAcK
+9,C00001016,5128-44-9,"5-Hydroxy-7,4'-dimethoxyflavone",C17H14O5,298.08412356,Alnus japonica,Alnus,KNApSAcK
+10,C00001051,4324-55-4,6-Hydroxykaempferol,C15H10O7,302.04265268,Alnus glutinosa,Alnus,KNApSAcK
+11,C00001096,27782-63-4,Santin,C18H16O7,344.08960287,Alnus glutinosa,Alnus,KNApSAcK
+12,C00001096,27782-63-4,Santin,C18H16O7,344.08960287,Alnus japonica,Alnus,KNApSAcK
+13,C00002682,121-34-6,Vanillic acid,C8H8O4,168.04225874,Alnus japonica,Alnus,KNApSAcK
+14,C00002897,22139-77-1,Pinosylvin,C14H12O2,212.08372963,Alnus sieboldiana,Alnus,KNApSAcK
+15,C00002897,22139-77-1,Pinosylvin,C14H12O2,212.08372963,Alnus crispa,Alnus,KNApSAcK
+16,C00002897,22139-77-1,Pinosylvin,C14H12O2,212.08372963,Alnus pendula,Alnus,KNApSAcK
+17,C00002898,35302-70-6,Pinosylvin methyl ether,C15H14O2,226.09937969,Alnus sieboldiana,Alnus,KNApSAcK
+18,C00002898,35302-70-6,Pinosylvin methyl ether,C15H14O2,226.09937969,Alnus crispa,Alnus,KNApSAcK
+19,C00002908,78836-99-4,Alnusiin,C41H26O26,934.07123101,Alnus sieboldiana,Alnus,KNApSAcK
+20,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Alnus oregana,Alnus,KNApSAcK
+21,C00003758,127-22-0,Taraxerol,C30H50O,426.38616622,Alnus glutinosa,Alnus,KNApSAcK
+22,C00003758,127-22-0,Taraxerol,C30H50O,426.38616622,Alnus incana,Alnus,KNApSAcK
+23,C00003831,3151-82-4,Alnetin,C18H16O6,328.09468824,Alnus sieboldiana,Alnus,KNApSAcK
+24,C00003840,19103-54-9,Salvigenin,C18H16O6,328.09468824,Alnus japonica,Alnus,KNApSAcK
+25,C00003868,32174-62-2,Pilloin,C17H14O6,314.07903818,Alnus japonica,Alnus,KNApSAcK
+26,C00004533,548-83-4,Galangin,C15H10O5,270.05282343,Alnus pendula,Alnus,KNApSAcK
+27,C00004543,32483-97-9,Alnusin,C16H12O6,300.06338812,Alnus sieboldiana,Alnus,KNApSAcK
+28,C00004549,32483-98-0,Alnustin,C18H16O6,328.09468824,Alnus sieboldiana,Alnus,KNApSAcK
+29,C00004553,32484-00-7,8-Hydroxygalangin 7-methyl ether,C16H12O6,300.06338812,Alnus sieboldiana,Alnus,KNApSAcK
+30,C00004565,520-18-3,Kaempferol,C15H10O6,286.04773805,Alnus japonica,Alnus,KNApSAcK
+31,C00004596,22697-65-0,"5,7,4'-Trihydroxy-3,6-dimethoxyflavone",C17H14O7,330.0739528,Alnus glutinosa,Alnus,KNApSAcK
+32,C00004606,4324-53-2,Mikanin,C18H16O7,344.08960287,Alnus koehnei,Alnus,KNApSAcK
+33,C00004636,603-61-2,Tamarixetin,C16H12O7,316.05830274,Alnus glutinosa,Alnus,KNApSAcK
+34,C00004690,74161-28-7,Laciniatin,C17H14O8,346.06886743,Alnus glutinosa,Alnus,KNApSAcK
+35,C00004694,17313-52-9,Centaureidin,C18H16O8,360.08451749,Alnus glutinosa,Alnus,KNApSAcK
+36,C00004698,19587-65-6,Eupatin,C18H16O8,360.08451749,Alnus glutinosa,Alnus,KNApSAcK
+37,C00004698,19587-65-6,Eupatin,C18H16O8,360.08451749,Alnus koehnei,Alnus,KNApSAcK
+38,C00004704,603-56-5,Chrysosplenetin,C19H18O8,374.10016755,Alnus koehnei,Alnus,KNApSAcK
+39,C00005140,482-39-3,Afzelin,C21H20O10,432.10564686,Alnus japonica,Alnus,KNApSAcK
+40,C00005374,522-12-3,Quercetin 3-O-alpha-L-rhamnoside,C21H20O11,448.10056148,Alnus japonica,Alnus,KNApSAcK
+41,C00005409,18609-17-1,Quercetin 3-O-sophoroside,C27H30O17,626.14829954,Alnus cordata,Alnus,KNApSAcK
+42,C00008143,36052-37-6,(-)-Alpinetin,C16H14O4,270.08920894,Alnus spp.,Alnus,KNApSAcK
+43,C00008144,480-37-5,(2S)-Pinocembrin,C16H14O4,270.08920894,Alnus sp.,Alnus,KNApSAcK
+44,C00008552,35298-89-6,Alnustinol,C16H14O6,302.07903818,Alnus sieboldiana,Alnus,KNApSAcK
+45,C00008552,35298-89-6,Alnustinol,C16H14O6,302.07903818,Alnus pendula,Alnus,KNApSAcK
+46,C00015400,78916-49-1,"3,5-Dimethoxystilbene",C16H16O2,240.11502975,Alnus pendula,Alnus,KNApSAcK
+47,C00015536,40189-37-5,"4,5-Dihydroxy-3-methoxystilbene",C15H14O3,242.09429431,Alnus viridis,Alnus,KNApSAcK
+48,C00015883,588-59-0,Stilbene,C14H12,180.09390038,Alnus sieboldiana,Alnus,KNApSAcK
+49,C00019220,1617-70-5,Lupenone,C30H48O,424.37051615,Alnus japonica,Alnus,KNApSAcK
+50,C00023791,508-09-8,Alnusenone,C30H48O,424.37051615,Alnus glutinosa,Alnus,KNApSAcK
+51,C00031066,288141-04-8,Platyphyllonol-5-O-beta-D-xylopyranoside,C24H30O8,446.19406794,Alnus japonica,Alnus,KNApSAcK
+52,C00031488,41137-86-4,"1,7-bis(3,4-Dihydroxyphenyl)-5-hydroxy-3-heptanone",C19H22O6,346.14163844,Alnus japonica,Alnus,KNApSAcK
+53,C00031857,93915-36-7,Hirsutanonol-5-O-beta-D-glucopyranoside,C25H32O11,508.19446187,Alnus japonica,Alnus,KNApSAcK
+54,C00031906,35589-21-0,Isohyperoside,C21H20O12,464.09547611,Alnus japonica,Alnus,KNApSAcK
+55,C00032287,514-07-8,Taraxerone,C30H48O,424.37051615,Alnus incana,Alnus,KNApSAcK
+56,C00032287,514-07-8,Taraxerone,C30H48O,424.37051615,Alnus glutinosa,Alnus,KNApSAcK
+57,C00033847,130827-45-1,Flavanthrinin,C15H12O3,240.07864425,Alnus maximowiczii,Alnus,KNApSAcK
+58,C00034641,90803-80-8,Platyphylloside,C25H32O9,476.20463262,Alnus rubra,Alnus,KNApSAcK
+59,C00035393,517-46-4,Strictinin,C27H22O18,634.0806139,Alnus japonica,Alnus,KNApSAcK
+60,C00042922,156979-67-8,Rosacea acid B,C30H48O3,456.3603454,Alnus acuminata,Alnus,KNApSAcK
+61,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Alnus rubra,Alnus,KNApSAcK
+62,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Frangula alnus Miller,Alnus,KNApSAcK
+63,C00050737,876293-04-8,5-O-Methylhirsutanonol,C20H24O6,360.1572885,Alnus japonica,Alnus,KNApSAcK
+64,C00056035,55303-93-0,Oregonin,C24H30O10,478.18389718,Alnus japonica,Alnus,KNApSAcK
+65,C00058357,145274-70-0,Alnusjaponin A,C61H44O40,1416.1408863,Alnus japonica,Alnus,KNApSAcK
+66,C00058358,145308-38-9,Alnusjaponin B,C61H44O40,1416.1408863,Alnus japonica,Alnus,KNApSAcK
+67,C00058515,142705-63-3,Hirsunin,C65H56O36,1412.25512819,Alnus hirsuta var. microphylla,Alnus,KNApSAcK
+68,C00058639,213817-26-6,Oregonoside A,C32H36O12,612.22067662,Alnus rubra,Alnus,KNApSAcK
+69,C00058640,213817-27-7,Oregonoside B,C33H38O14,658.22615592,Alnus rubra,Alnus,KNApSAcK
+0,C00000001,545-97-1,Gibberellin A1,C19H24O6,348.1572885,Betula pendula,Betula,KNApSAcK
+1,C00000008,7044-72-6,Gibberellin A8,C19H24O7,364.15220312,Betula pendula,Betula,KNApSAcK
+2,C00000019,6980-44-5,Gibberellin A19,C20H26O6,362.17293856,Betula pendula,Betula,KNApSAcK
+3,C00000020,19143-87-4,Gibberellin A20,C19H24O5,332.16237388,Betula pendula,Betula,KNApSAcK
+4,C00000029,29774-53-6,Gibberellin A29,C19H24O6,348.1572885,Betula pendula,Betula,KNApSAcK
+5,C00000679,56973-51-4,"(-)-(aS,9S,9'S)-Alnusdiol",C19H22O4,314.15180919,Betula maximowicziana,Betula,KNApSAcK
+6,C00000680,193153-41-2,"(-)-Rel-(pR,9S,9'S)-maximowicziol A",C19H22O4,314.15180919,Betula maximowicziana,Betula,KNApSAcK
+7,C00000947,154-23-4,(+)-Catechin,C15H14O6,290.07903818,Betula papyrifera,Betula,KNApSAcK
+8,C00000999,2957-21-3,Sakuranetin,C16H14O5,286.08412356,Betula spp.,Betula,KNApSAcK
+9,C00001016,5128-44-9,"5-Hydroxy-7,4'-dimethoxyflavone",C17H14O5,298.08412356,Betula nigra,Betula,KNApSAcK
+10,C00001062,1592-70-7,Isokaempferide,C16H12O6,300.06338812,Betula nigra,Betula,KNApSAcK
+11,C00001071,529-44-2,Myricetin,C15H10O8,318.0375673,Betula platyphylla var. japonica,Betula,KNApSAcK
+12,C00001096,27782-63-4,Santin,C18H16O7,344.08960287,Betula ermanii,Betula,KNApSAcK
+13,C00002591,18423-69-3,Cubebin,C20H20O6,356.12598837,Betula pendula,Betula,KNApSAcK
+14,C00002644,120-80-9,Catechol,C6H6O2,110.03677944,Betula luminifera,Betula,KNApSAcK
+15,C00002654,90-05-1,Guaiacol,C7H8O2,124.0524295,Betula sp.,Betula,KNApSAcK
+16,C00002669,303-38-8,Pyrocatechuic acid,C7H6O4,154.02660868,Betula pendula,Betula,KNApSAcK
+17,C00002704,552-41-0,Paeonol,C9H10O3,166.06299419,Betula platyphylla var. japonica,Betula,KNApSAcK
+18,C00003203,14912-44-8,alpha-Ylangene,C15H24,204.18780077,Betula sp.,Betula,KNApSAcK
+19,C00003650,469-38-5,Cycloartenol,C30H50O,426.38616622,Betula platyphylla,Betula,KNApSAcK
+20,C00003738,559-70-6,beta-Amyrin,C30H50O,426.38616622,Betula platyphylla,Betula,KNApSAcK
+21,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Betula alba,Betula,KNApSAcK
+22,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Betula platyphylla,Betula,KNApSAcK
+23,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Betula utilis,Betula,KNApSAcK
+24,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Betula platyphylla,Betula,KNApSAcK
+25,C00003752,78782-15-7,Papyriferic acid,C35H56O8,604.39751876,Betula resinifera,Betula,KNApSAcK
+26,C00003817,520-36-5,Apigenin,C15H10O5,270.05282343,Betula nigra,Betula,KNApSAcK
+27,C00003840,19103-54-9,Salvigenin,C18H16O6,328.09468824,Betula nigra,Betula,KNApSAcK
+28,C00004266,5373-11-5,Cinaroside,C21H20O11,448.10056148,Betula nigra,Betula,KNApSAcK
+29,C00004565,520-18-3,Kaempferol,C15H10O6,286.04773805,Betula lenta,Betula,KNApSAcK
+30,C00004567,569-92-6,Rhamnocitrin,C16H12O6,300.06338812,Betula nigra,Betula,KNApSAcK
+31,C00004571,15486-33-6,"Kaempferol 7,4'-dimethyl ether",C17H14O6,314.07903818,Betula nigra,Betula,KNApSAcK
+32,C00004571,15486-33-6,"Kaempferol 7,4'-dimethyl ether",C17H14O6,314.07903818,Betula ermanii,Betula,KNApSAcK
+33,C00004573,15486-34-7,"3,7,4'-Tri-O-methylkaempferol",C18H16O6,328.09468824,Betula nigra,Betula,KNApSAcK
+34,C00004600,35214-88-1,"3,5,7-Trihydroxy-6,4'-dimethoxyflavone",C17H14O7,330.0739528,Betula ermanii,Betula,KNApSAcK
+35,C00004603,569-80-2,Penduletin,C18H16O7,344.08960287,Betula nigra,Betula,KNApSAcK
+36,C00004631,117-39-5,Quercetin,C15H10O7,302.04265268,Betula maximowicziana,Betula,KNApSAcK
+37,C00004635,480-19-3,Isorhamnetin,C16H12O7,316.05830274,Betula nigra,Betula,KNApSAcK
+38,C00004646,33708-72-4,Pachypodol,C18H16O7,344.08960287,Betula nigra,Betula,KNApSAcK
+39,C00004648,14549-84-9,"Quercetin 3,3',4'-trimethyl ether",C18H16O7,344.08960287,Betula nigra,Betula,KNApSAcK
+40,C00004653,1245-15-4,"5-Hydroxy-3,7,3',4'-tetramethoxyflavone",C19H18O7,358.10525293,Betula nigra,Betula,KNApSAcK
+41,C00004774,14290-57-4,"3',5-Dihydroxy-3,4',5',7-tetramethoxyflavone",C19H18O8,374.10016755,Betula nigra,Betula,KNApSAcK
+42,C00004776,14585-04-7,"Myricetin 3,3',4',5'-tetramethyl ether",C19H18O8,374.10016755,Betula nigra,Betula,KNApSAcK
+43,C00004777,5084-19-5,Combretol,C20H20O8,388.11581762,Betula nigra,Betula,KNApSAcK
+44,C00005188,64323-49-5,Kaempferol 3-rhamnoside-7-glucoside,C27H30O15,594.15847029,Betula lutea,Betula,KNApSAcK
+45,C00005188,64323-49-5,Kaempferol 3-rhamnoside-7-glucoside,C27H30O15,594.15847029,Betula nova,Betula,KNApSAcK
+46,C00005188,64323-49-5,Kaempferol 3-rhamnoside-7-glucoside,C27H30O15,594.15847029,Betula verrucosa,Betula,KNApSAcK
+47,C00005372,482-36-0,Hyperin,C21H20O12,464.09547611,Betula middendorfii,Betula,KNApSAcK
+48,C00005413,153-18-4,Quercetin 3-rutinoside,C27H30O16,610.15338491,Betula nigra,Betula,KNApSAcK
+49,C00005725,35589-22-1,Myricetin 3-alpha-L-arabinofuranoside,C20H18O12,450.07982604,Betula middendorfii,Betula,KNApSAcK
+50,C00005731,77363-65-6,Myricetin 3-glucuronide,C21H18O14,494.06965529,Betula pendula,Betula,KNApSAcK
+51,C00005731,77363-65-6,Myricetin 3-glucuronide,C21H18O14,494.06965529,Betula pubescens,Betula,KNApSAcK
+52,C00005965,69120-16-7,Quercetin 3-(4''-acetylrhamnoside),C23H22O12,490.11112617,Betula pubescens,Betula,KNApSAcK
+53,C00006041,165127-26-4,Myricetin 3-O-(3''-O-acetyl)-alpha-L-rhamnoside,C23H22O13,506.10604079,Betula pendula,Betula,KNApSAcK
+54,C00006041,165127-26-4,Myricetin 3-O-(3''-O-acetyl)-alpha-L-rhamnoside,C23H22O13,506.10604079,Betula pubescens,Betula,KNApSAcK
+55,C00006089,112494-34-5,6-C-Glucopyranosyldihydrokaempferol,C21H22O11,450.11621155,Betula platyphylla,Betula,KNApSAcK
+56,C00007204,548-29-8,Isolariciresinol,C20H24O6,360.1572885,Betula pendula,Betula,KNApSAcK
+57,C00007205,14464-90-5,(+)-Lyoniresinol,C22H28O8,420.17841787,Betula pendula,Betula,KNApSAcK
+58,C00007205,14464-90-5,(+)-Lyoniresinol,C22H28O8,420.17841787,Betula maximowicziana,Betula,KNApSAcK
+59,C00007282,7200-26-2,"(S)-2,3-Epoxysqualene",C30H50O,426.38616622,Betula platyphylla,Betula,KNApSAcK
+60,C00008226,29424-96-2,"Naringenin 7,4'-dimethyl ether",C17H16O5,300.09977362,Betula spp.,Betula,KNApSAcK
+61,C00008698,77122-69-1,Taxifolin 3-galactoside,C21H22O12,466.11112617,Betula lutea,Betula,KNApSAcK
+62,C00008851,42830-48-8,(+)-Catechin-7-O-beta-D-xylopyranoside,C20H22O10,422.12129692,Betula ermanii,Betula,KNApSAcK
+63,C00008851,42830-48-8,(+)-Catechin-7-O-beta-D-xylopyranoside,C20H22O10,422.12129692,Betula pubescens,Betula,KNApSAcK
+64,C00008851,42830-48-8,(+)-Catechin-7-O-beta-D-xylopyranoside,C20H22O10,422.12129692,Betula papyrifera,Betula,KNApSAcK
+65,C00009070,12798-58-2,Procyanidin B6,C30H26O12,578.1424263,Betula spp.,Betula,KNApSAcK
+66,C00009071,23567-23-9,Procyanidin B3,C30H26O12,578.1424263,Betula pubescens,Betula,KNApSAcK
+67,C00009075,20315-25-7,Procyanidin B1,C30H26O12,578.1424263,Betula pubescens,Betula,KNApSAcK
+68,C00009086,82801-35-2,Epicatechin-(4beta->6)-epicatechin-(4beta->8)-catechin,C45H38O18,866.20581441,Betula spp.,Betula,KNApSAcK
+69,C00009089,79763-28-3,Arecatannin B1,C45H38O18,866.20581441,Betula spp.,Betula,KNApSAcK
+70,C00009091,37064-31-6,Procyanidin C2,C45H38O18,866.20581441,Betula spp.,Betula,KNApSAcK
+71,C00009094,109430-55-9,Catechin-(4alpha->8)-epicatechin-(4beta->8)-epicatechin,C45H38O18,866.20581441,Betula spp.,Betula,KNApSAcK
+72,C00009097,79813-67-5,Arecatamnin A1,C45H38O18,866.20581441,Betula spp.,Betula,KNApSAcK
+73,C00009098,65085-09-8,Procyanidin C1,C45H38O18,866.20581441,Betula spp.,Betula,KNApSAcK
+74,C00012477,94901-71-0,"12,12-Dimethyl-9-methylene-5-Oxatricyclo[8.2.0.04,6]dodecane-4-methanol",C15H24O2,236.17763001,Betula pubescens,Betula,KNApSAcK
+75,C00012483,1139-30-6,(-)-beta-Caryophyllene epoxide,C15H24O,220.18271539,Betula pubescens,Betula,KNApSAcK
+76,C00019454,35128-76-8,"3-[4-[1-(4-Hydroxy-3-methoxyphenyl)-1,3-dihydroxyisopropoxy]-2-hydroxyphenyl]propyl alpha-L-rhamnopyranoside",C25H34O11,510.21011193,Betula platyphylla,Betula,KNApSAcK
+77,C00019455,110770-30-4,"cis-2,3-Dihydro-2-(4'-alpha-L-rhamnopyranosyloxy-3'-methoxyphenyl)-3-hydroxymethyl-7-hydroxy-5-benzofuranpropanol",C25H32O10,492.19954724,Betula platyphylla,Betula,KNApSAcK
+78,C00029329,54835-70-0,"(6S,9R)-Roseoside",C19H30O8,386.19406794,Betula alba,Betula,KNApSAcK
+79,C00030807,906-33-2,5-Caffeoylquinic acid,C16H18O9,354.09508217,Pyrus betulaefolia,Betula,KNApSAcK
+80,C00031986,171596-07-9,Lupeol caffeate,C39H56O4,588.41786028,Betula ermani,Betula,KNApSAcK
+81,C00033565,4339-72-4,3-Acetyl oleanolic acid,C32H50O4,498.37091008,Betula platyphylla,Betula,KNApSAcK
+82,C00034405,104109-45-7,Aceroside VII,C25H34O8,462.22536806,Betula papyrifera,Betula,KNApSAcK
+83,C00034621,956512-89-3,Papyriferoside A,C30H40O13,608.24689137,Betula papyrifera,Betula,KNApSAcK
+84,C00034641,90803-80-8,Platyphylloside,C25H32O9,476.20463262,Betula papyrifera,Betula,KNApSAcK
+85,C00034641,90803-80-8,Platyphylloside,C25H32O9,476.20463262,Betula pendula,Betula,KNApSAcK
+86,C00042003,5986-39-0,Ocotillol,C30H52O3,460.39164553,Betula platyphylla var. japonica,Betula,KNApSAcK
+87,C00046584,289625-15-6,"4,5-Dihydro-beta-caryophyllene-14-al",C15H24O,220.18271539,Betula litwinowii,Betula,KNApSAcK
+88,C00050533,832-65-5,Antiarolaldehyde,C10H12O5,212.06847349,Betula platyphylla var.japonica,Betula,KNApSAcK
+89,C00055622,2237-36-7,2-hydroxy-4-methoxybenzoic acid,C8H8O4,168.04225874,Betula pendula,Betula,KNApSAcK
+90,C00058461,351343-53-8,Dihydroroseoside,C19H32O8,388.209718,Betula platyphylla var. japonica,Betula,KNApSAcK
+91,C00058641,204687-97-8,Ovalifoliolide A,C30H48O3,456.3603454,Betula ovalifolia,Betula,KNApSAcK
+92,C00058642,204687-98-9,Ovalifoliolide B,C30H48O4,472.35526002,Betula ovalifolia,Betula,KNApSAcK
+0,C00002923,68964-95-4,Prodelphinidin B4,C30H26O14,610.13225554,Ostrya virginiana,Ostrya,KNApSAcK
+1,C00003820,480-44-4,Acacetin,C16H12O5,284.06847349,Ostrya japonica,Ostrya,KNApSAcK
+2,C00004626,135566-98-2,"Morin 3,2',4'-trimethyl ether",C18H16O7,344.08960287,Ostrya carpinifolia,Ostrya,KNApSAcK
+3,C00004643,529-40-8,Ombuin,C17H14O7,330.0739528,Ostrya spp.,Ostrya,KNApSAcK
+0,C00000947,154-23-4,(+)-Catechin,C15H14O6,290.07903818,Carpinus cordata,Carpinus,KNApSAcK
+1,C00030754,99-24-1,"Methyl 3,4,5-trihydroxybenzoate",C8H8O5,184.03717337,Carpinus cordata,Carpinus,KNApSAcK
+2,C00045718,473451-72-8,Carpinontriol A,C19H20O6,344.12598837,Carpinus cordata,Carpinus,KNApSAcK
+3,C00045719,473451-73-9,Carpinontriol B,C19H20O6,344.12598837,Carpinus cordata,Carpinus,KNApSAcK
+4,C00045733,132923-25-2,Casuarinondiol,C19H20O5,328.13107375,Carpinus cordata,Carpinus,KNApSAcK
+5,C00046138,124783-54-6,Methyl gallate 3-O-beta-D-glucopyranoside,C14H18O10,346.0899968,Carpinus cordata,Carpinus,KNApSAcK
+6,C00046139,254454-63-2,Methyl gallate 4-O-beta-D-glucopyranoside,C14H18O10,346.0899968,Carpinus cordata,Carpinus,KNApSAcK
+7,C00058397,130036-75-8,Carpinusin,C41H28O27,952.0817957,Carpinus axiflora,Carpinus,KNApSAcK
+8,C00058398,142543-15-5,Carpinusnin,C41H34O29,990.11857513,Carpinus axiflora,Carpinus,KNApSAcK
+0,C00000001,545-97-1,Gibberellin A1,C19H24O6,348.1572885,Corylus avellana,Avellana,KNApSAcK
+1,C00000009,427-77-0,Gibberellin A9,C19H24O4,316.16745925,Corylus avellana,Avellana,KNApSAcK
+2,C00000100,87-51-4,Indole-3-acetic acid,C10H9NO2,175.06332854,Corylus avellana,Avellana,KNApSAcK
+3,C00000101,1912-33-0,Methyl indole-3-acetate,C11H11NO2,189.0789786,Corylus avellana,Avellana,KNApSAcK
+4,C00003647,474-62-4,Campesterol,C28H48O,400.37051615,Corylus avellana,Avellana,KNApSAcK
+5,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Corylus avellana,Avellana,KNApSAcK
+6,C00003674,83-48-7,beta-Stigmasterol,C29H48O,412.37051615,Corylus avellana,Avellana,KNApSAcK
+7,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Corylus avellana,Avellana,KNApSAcK
+8,C00005397,95043-15-5,Quercetin 3-glucosyl-(1->2)-galactoside,C27H30O17,626.14829954,Corylus avellana,Avellana,KNApSAcK
+9,C00007363,119-13-1,delta-Tocopherol,C27H46O2,402.34978071,Gevuina avellana Mol.,Avellana,KNApSAcK
+10,C00007364,148-03-8,beta-Tocopherol,C28H48O2,416.36543078,Gevuina avellana Mol.,Avellana,KNApSAcK
+11,C00007365,7616-22-0,gamma-Tocopherol,C28H48O2,416.36543078,Gevuina avellana Mol.,Avellana,KNApSAcK
+12,C00007366,59-02-9,alpha-Tocopherol,C29H50O2,430.38108084,Gevuina avellana Mol.,Avellana,KNApSAcK
+13,C00007368,16910-32-0,Obtusifoliol,C30H50O,426.38616622,Corylus avellana,Avellana,KNApSAcK
+14,C00009111,78392-25-3,Prodelphinidin C,C30H26O13,594.13734092,Corylus avellana,Avellana,KNApSAcK
+15,C00009116,110115-59-8,Prodelphinidin B3,C30H26O14,610.13225554,Corylus avellana,Avellana,KNApSAcK
+16,C00035044,1721-51-3,alpha-Tocotrienol,C29H44O2,424.33413065,Gevuina avellana Mol.,Avellana,KNApSAcK
+17,C00035101,14101-61-2,gamma-Tocotrienol,C28H42O2,410.31848058,Gevuina avellana Mol.,Avellana,KNApSAcK
+18,C00036119,117652-9,Gramisterol,C29H48O,412.37051615,Corylus avellana,Avellana,KNApSAcK
+19,C00054014,70185-61-4,"N1,N10-Diferuloylspermidine",C27H35N3O6,497.25258587,Corylus avellana,Avellana,KNApSAcK
+20,C00054027,5453-44-1,Allyl crotonate,C7H10O2,126.06807956,Corylus avellana,Avellana,KNApSAcK
+0,C00000001,545-97-1,Gibberellin A1,C19H24O6,348.1572885,Corylus avellana,Corylus,KNApSAcK
+1,C00000009,427-77-0,Gibberellin A9,C19H24O4,316.16745925,Corylus avellana,Corylus,KNApSAcK
+2,C00000100,87-51-4,Indole-3-acetic acid,C10H9NO2,175.06332854,Corylus avellana,Corylus,KNApSAcK
+3,C00000101,1912-33-0,Methyl indole-3-acetate,C11H11NO2,189.0789786,Corylus avellana,Corylus,KNApSAcK
+4,C00002909,79786-00-8,Casuarictin,C41H28O26,936.08688107,Corylus heterophylla,Corylus,KNApSAcK
+5,C00002910,79786-01-9,Casuarinin,C41H28O26,936.08688107,Corylus heterophylla,Corylus,KNApSAcK
+6,C00003647,474-62-4,Campesterol,C28H48O,400.37051615,Corylus maxima,Corylus,KNApSAcK
+7,C00003647,474-62-4,Campesterol,C28H48O,400.37051615,Corylus avellana,Corylus,KNApSAcK
+8,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Corylus avellana,Corylus,KNApSAcK
+9,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Corylus maxima,Corylus,KNApSAcK
+10,C00003674,83-48-7,beta-Stigmasterol,C29H48O,412.37051615,Corylus maxima,Corylus,KNApSAcK
+11,C00003674,83-48-7,beta-Stigmasterol,C29H48O,412.37051615,Corylus avellana,Corylus,KNApSAcK
+12,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Corylus avellana,Corylus,KNApSAcK
+13,C00005397,95043-15-5,Quercetin 3-glucosyl-(1->2)-galactoside,C27H30O17,626.14829954,Corylus avellana,Corylus,KNApSAcK
+14,C00007368,16910-32-0,Obtusifoliol,C30H50O,426.38616622,Corylus maxima,Corylus,KNApSAcK
+15,C00007368,16910-32-0,Obtusifoliol,C30H50O,426.38616622,Corylus avellana,Corylus,KNApSAcK
+16,C00009111,78392-25-3,Prodelphinidin C,C30H26O13,594.13734092,Corylus avellana,Corylus,KNApSAcK
+17,C00009116,110115-59-8,Prodelphinidin B3,C30H26O14,610.13225554,Corylus avellana,Corylus,KNApSAcK
+18,C00036119,117652-9,Gramisterol,C29H48O,412.37051615,Corylus maxima,Corylus,KNApSAcK
+19,C00036119,117652-9,Gramisterol,C29H48O,412.37051615,Corylus avellana,Corylus,KNApSAcK
+20,C00054014,70185-61-4,"N1,N10-Diferuloylspermidine",C27H35N3O6,497.25258587,Corylus avellana,Corylus,KNApSAcK
+21,C00054027,5453-44-1,Allyl crotonate,C7H10O2,126.06807956,Corylus avellana,Corylus,KNApSAcK
+22,C00054313,87687-52-3,"1,3-Di-O-galloyl-4,6-(S)-hexahydroxydiphenoyl-alpha-D-glucopyranose",C34H26O22,786.09157252,Corylus heterophylla,Corylus,KNApSAcK
+23,C00058514,211190-39-5,Heterophylliin F,C68H50O44,1570.16749498,Corylus heterophylla,Corylus,KNApSAcK
+0,C00001900,28230-70-8,Parfumine,C20H19NO5,353.12632273,Fumaria rostellata,Rostella,KNApSAcK
+0,C00000947,154-23-4,(+)-Catechin,C15H14O6,290.07903818,Ulmus pumila,Ulmus,KNApSAcK
+1,C00002591,18423-69-3,Cubebin,C20H20O6,356.12598837,Ulmus davidiana var. japonica,Ulmus,KNApSAcK
+2,C00002840,5574-34-5,Mansonone C,C15H16O2,228.11502975,Ulmus laciniata,Ulmus,KNApSAcK
+3,C00002840,5574-34-5,Mansonone C,C15H16O2,228.11502975,Ulmus glabra,Ulmus,KNApSAcK
+4,C00002840,5574-34-5,Mansonone C,C15H16O2,228.11502975,Ulmus parvifolia,Ulmus,KNApSAcK
+5,C00003674,83-48-7,beta-Stigmasterol,C29H48O,412.37051615,Ulmus pervifolia,Ulmus,KNApSAcK
+6,C00003674,83-48-7,beta-Stigmasterol,C29H48O,412.37051615,Ulmus pumila,Ulmus,KNApSAcK
+7,C00003747,559-74-0,3-Friedelanone,C30H50O,426.38616622,Ulmus campestris,Ulmus,KNApSAcK
+8,C00003747,559-74-0,3-Friedelanone,C30H50O,426.38616622,Ulmus pumila L.,Ulmus,KNApSAcK
+9,C00003794,480-40-0,Chrysin,C15H10O4,254.05790881,Ulmus sieboldiana,Ulmus,KNApSAcK
+10,C00007204,548-29-8,Isolariciresinol,C20H24O6,360.1572885,Ulmus davidiana var. japonica,Ulmus,KNApSAcK
+11,C00007205,14464-90-5,(+)-Lyoniresinol,C22H28O8,420.17841787,Ulmus thomasii,Ulmus,KNApSAcK
+12,C00007205,14464-90-5,(+)-Lyoniresinol,C22H28O8,420.17841787,Ulmus davidiana var. japonica,Ulmus,KNApSAcK
+13,C00008845,125322-89-6,Catechin 5-O-beta-D-apiofuranoside,C20H22O10,422.12129692,Ulmus davidiana,Ulmus,KNApSAcK
+14,C00008851,42830-48-8,(+)-Catechin-7-O-beta-D-xylopyranoside,C20H22O10,422.12129692,Ulmus laevis,Ulmus,KNApSAcK
+15,C00008851,42830-48-8,(+)-Catechin-7-O-beta-D-xylopyranoside,C20H22O10,422.12129692,Ulmus americana,Ulmus,KNApSAcK
+16,C00013227,34069-05-1,Lacinilene D,C14H16O3,232.10994438,Ulmus laciniata,Ulmus,KNApSAcK
+17,C00019064,508-02-1,Oleanolic acid,C30H48O3,456.3603454,Ulmus pumila L.,Ulmus,KNApSAcK
+18,C00020074,483-77-2,Calamenene,C15H22,202.1721507,Ulmus thomasii,Ulmus,KNApSAcK
+19,C00020116,41653-72-9,Lacinilene C,C15H18O3,246.12559444,Ulmus laciniata,Ulmus,KNApSAcK
+20,C00020120,5090-88-0,Mansonone F,C15H12O3,240.07864425,Ulmus davidiana var.japonica,Ulmus,KNApSAcK
+21,C00020121,5090-87-9,Mansonone E,C15H14O3,242.09429431,Ulmus laciniata,Ulmus,KNApSAcK
+22,C00020121,5090-87-9,Mansonone E,C15H14O3,242.09429431,Ulmus parvifolia,Ulmus,KNApSAcK
+23,C00020121,5090-87-9,Mansonone E,C15H14O3,242.09429431,Ulmus parviflora,Ulmus,KNApSAcK
+24,C00020121,5090-87-9,Mansonone E,C15H14O3,242.09429431,Ulmus davidiana,Ulmus,KNApSAcK
+25,C00020123,7715-96-0,Mansonone G,C15H16O3,244.10994438,Ulmus parvifolia,Ulmus,KNApSAcK
+26,C00020125,13383-59-0,Helicquinone,C15H14O4,258.08920894,Ulmus davidiana,Ulmus,KNApSAcK
+27,C00020127,26511-91-1,Mansonone I,C15H14O4,258.08920894,Ulmus davidiana,Ulmus,KNApSAcK
+28,C00020170,40525-06-2,Lacinilene A,C14H16O,200.12011513,Ulmus parvifolia,Ulmus,KNApSAcK
+29,C00020170,40525-06-2,Lacinilene A,C14H16O,200.12011513,Ulmus laciniata,Ulmus,KNApSAcK
+30,C00029724,465-00-9,Arjunolic acid,C30H48O5,488.35017464,Ulmus pumila L.,Ulmus,KNApSAcK
+31,C00029883,71850-15-2,Camaldulenic acid,C30H46O4,470.33960996,Ulmus pumila L.,Ulmus,KNApSAcK
+32,C00030190,16844-71-6,Epifriedelanol,C30H52O,428.40181628,Ulmus pumila L.,Ulmus,KNApSAcK
+33,C00030742,4373-41-5,"2alpha,3beta-Dihydroxyolean-12-en-28-oic acid",C30H48O4,472.35526002,Ulmus pumila L.,Ulmus,KNApSAcK
+34,C00046484,336621-22-8,Ulmicin A,C38H56O6,608.40768952,Ulmus davidiana var.japonica,Ulmus,KNApSAcK
+35,C00046485,336621-23-9,Ulmicin B,C37H54O5,578.39712483,Ulmus davidiana var.japonica,Ulmus,KNApSAcK
+36,C00046486,336621-24-0,Ulmicin C,C45H60O8,728.42881889,Ulmus davidiana var.japonica,Ulmus,KNApSAcK
+37,C00046487,336621-25-1,Ulmicin D,C46H62O9,758.43938358,Ulmus davidiana var.japonica,Ulmus,KNApSAcK
+38,C00046488,336621-26-2,Ulmicin E,C45H60O7,712.43390427,Ulmus davidiana var.japonica,Ulmus,KNApSAcK
+39,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Ulmus americana,Ulmus,KNApSAcK
+40,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Ulmus parvifolia,Ulmus,KNApSAcK
+41,C00050698,36451-19-1,3-Methoxy-7-hydroxycadalenal,C16H18O3,258.12559444,Ulmus parvifolia,Ulmus,KNApSAcK
+42,C00058447,181301-42-8,Davidianone A,C15H12O4,256.07355887,Ulmus davidiana,Ulmus,KNApSAcK
+43,C00058448,181301-43-9,Davidianone B,C16H12O5,284.06847349,Ulmus davidiana,Ulmus,KNApSAcK
+44,C00058449,181301-44-0,Davidianone C,C17H16O5,300.09977362,Ulmus davidiana,Ulmus,KNApSAcK

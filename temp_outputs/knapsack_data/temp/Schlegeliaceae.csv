@@ -1,0 +1,97 @@
+,C_ID,CAS ID,example_compound_name,Molecular formula,Mw,Organism,knapsack_search_term,Source
+0,C00003892,25782-25-6,"5,6,4'-Trihydroxy-7,3'-dimethoxyflavone",C17H14O7,330.0739528,Citharexylum subserratum,Citharexylum,KNApSAcK
+1,C00004415,60032-93-1,"6-Hydroxyluteolin 7,3'-dimethyl ether 6-glucoside",C23H24O12,492.12677623,Citharexylum subserratum,Citharexylum,KNApSAcK
+2,C00010593,53526-66-2,Durantoside II,C27H34O14,582.1948558,Citharexylum subserratum,Citharexylum,KNApSAcK
+3,C00010668,,5-Deoxypulchelloside I,C17H26O11,406.14751167,Citharexylum fruticosum,Citharexylum,KNApSAcK
+4,C00045735,477343-33-2,Caudatoside A,C26H32O12,536.18937649,Citharexylum caudatum,Citharexylum,KNApSAcK
+5,C00045736,477343-52-5,Caudatoside B,C26H32O12,536.18937649,Citharexylum caudatum,Citharexylum,KNApSAcK
+6,C00045737,477343-56-9,Caudatoside C,C26H32O13,552.18429111,Citharexylum caudatum,Citharexylum,KNApSAcK
+7,C00045738,477343-57-0,Caudatoside D,C26H32O13,552.18429111,Citharexylum caudatum,Citharexylum,KNApSAcK
+8,C00045739,477343-58-1,Caudatoside E,C26H32O14,568.17920573,Citharexylum caudatum,Citharexylum,KNApSAcK
+9,C00045740,477343-59-2,Caudatoside F,C26H32O14,568.17920573,Citharexylum caudatum,Citharexylum,KNApSAcK
+0,C00000602,27003-73-2,(+)-Lariciresinol,C20H24O6,360.1572885,Clerodendrum indicum,Clerodendrum,KNApSAcK
+1,C00001050,1447-88-7,Hispidulin,C16H12O6,300.06338812,Clerodendrum phlomidis,Clerodendrum,KNApSAcK
+2,C00001165,69-65-8,D-Mannitol,C6H14O6,182.07903818,Clerodendrum serratum,Clerodendrum,KNApSAcK
+3,C00001437,29883-15-6,Amygdalin,C20H27NO11,457.15841071,Clerodendrum grayi,Clerodendrum,KNApSAcK
+4,C00001454,99-18-3,Prunasin,C14H17NO6,295.10558728,Clerodendrum grayi,Clerodendrum,KNApSAcK
+5,C00001777,53472-14-3,Trichotomine,C30H20N4O6,532.1382844,Clerodendrum trichotomum,Clerodendrum,KNApSAcK
+6,C00002761,76076-04-5,Myricoside,C34H44O19,756.24767923,Clerodendrum myricoides,Clerodendrum,KNApSAcK
+7,C00002783,61276-17-3,Acteoside,C29H36O15,624.20542048,Clerodendrum inerme,Clerodendrum,KNApSAcK
+8,C00003021,99624-92-7,Uncinatone,C20H22O4,326.15180919,Clerodendrum nucinatum,Clerodendrum,KNApSAcK
+9,C00003021,99624-92-7,Uncinatone,C20H22O4,326.15180919,Clerodendrum bungei Steud,Clerodendrum,KNApSAcK
+10,C00003021,99624-92-7,Uncinatone,C20H22O4,326.15180919,Clerodendrum uncinatum,Clerodendrum,KNApSAcK
+11,C00003073,479-98-1,Aucubin,C15H22O9,346.1263823,Clerodendrum thomsonae,Clerodendrum,KNApSAcK
+12,C00003414,35481-70-0,Clerodendrin A,C31H42O12,606.26762681,Clerodendrum trichotomum,Clerodendrum,KNApSAcK
+13,C00003415,464-71-1,Clerodin,C24H34O7,434.23045344,Clerodendrum infortunatum,Clerodendrum,KNApSAcK
+14,C00003834,529-53-3,Scutellarein,C15H10O6,286.04773805,Clerodendrum phlomidis,Clerodendrum,KNApSAcK
+15,C00003836,6563-66-2,Scutellarein 4'-methyl ether,C16H12O6,300.06338812,Clerodendrum inerme,Clerodendrum,KNApSAcK
+16,C00003838,520-12-7,4'-Methylcapillarisin,C17H14O6,314.07903818,Clerodendrum phlomidis,Clerodendrum,KNApSAcK
+17,C00004204,79076-87-2,Acacetin 7-(6''-methylglucuronide),C23H22O11,474.11621155,Clerodendrum infortunatum,Clerodendrum,KNApSAcK
+18,C00004207,36730-68-4,Acacetin 7-glucuronosyl-(1->2)-glucuronide,C28H28O17,636.13264947,Clerodendrum trichotomum,Clerodendrum,KNApSAcK
+19,C00007887,162440-77-9,"4,2',4'-Trihydroxy-6'-methoxychalcone 4,4'-di-beta-glucoside",C28H34O15,610.18977042,Clerodendrum phlomidis,Clerodendrum,KNApSAcK
+20,C00010279,64924-06-7,Scutellarein 4'-methyl ether 7-glucuronide,C22H20O12,476.09547611,Clerodendrum trichotomum,Clerodendrum,KNApSAcK
+21,C00010601,52916-96-8,Ajugoside,C17H26O10,390.15259705,Clerodendrum thomsonae,Clerodendrum,KNApSAcK
+22,C00010619,20633-72-1,Monomelittoside,C15H22O10,362.12129692,Clerodendrum inerme,Clerodendrum,KNApSAcK
+23,C00010621,19467-03-9,Melittoside,C21H32O15,524.17412036,Clerodendrum inerme,Clerodendrum,KNApSAcK
+24,C00010621,19467-03-9,Melittoside,C21H32O15,524.17412036,Clerodendrum thomsonae,Clerodendrum,KNApSAcK
+25,C00010626,81720-08-3,Rehmannioside D,C27H42O20,686.22694379,Clerodendrum inerme,Clerodendrum,KNApSAcK
+26,C00014303,138166-64-0,7-Hydroxyflavanone beta-D-glucopyranoside,C21H22O8,402.13146768,Clerodendrum phlomidis,Clerodendrum,KNApSAcK
+27,C00014325,203193-15-1,"7,4'-Dihydroxy-5-methoxyflavanone 7-neohesperidoside-4'-glucoside",C34H44O19,756.24767923,Clerodendrum phlomidis,Clerodendrum,KNApSAcK
+28,C00029346,95632-87-4,(Z)-3-Hexenyl beta-D-glucopyranoside,C12H22O6,262.14163844,Clerodendrum inerme,Clerodendrum,KNApSAcK
+29,C00030098,61548-34-3,Decaffeoylacteoside,C20H30O12,462.17372642,Clerodendrum inerme,Clerodendrum,KNApSAcK
+30,C00030516,61303-13-7,Isoacteoside,C29H36O15,624.20542048,Clerodendrum inerme,Clerodendrum,KNApSAcK
+31,C00030657,83529-62-8,Leucosceptoside A,C30H38O15,638.22107055,Clerodendrum inerme,Clerodendrum,KNApSAcK
+32,C00031274,10338-51-9,Rhodioloside,C14H20O7,300.12090299,Clerodendrum inerme,Clerodendrum,KNApSAcK
+33,C00031280,380305-20-4,Sammangaoside A,C19H32O8,388.209718,Clerodendrum inerme,Clerodendrum,KNApSAcK
+34,C00031281,1002111-54-7,Sammangaoside B,C19H34O8,390.22536806,Clerodendrum inerme,Clerodendrum,KNApSAcK
+35,C00032760,130622-31-0,Benzyl beta-primeveroside,C18H26O10,402.15259705,Clerodendrum inerme,Clerodendrum,KNApSAcK
+36,C00033727,2364-23-0,Clerosterol,C29H48O,412.37051615,Clerodendrum infortunatum,Clerodendrum,KNApSAcK
+37,C00035203,139913-68-1,"14,15-Dihydro-15beta-methoxy-3-epicaryoptin",C27H40O10,524.2621475,Clerodendrum inerme,Clerodendrum,KNApSAcK
+38,C00035204,511247-26-0,"14,15-Dihydro-15-hydroxy-3-epicaryoptin",C26H38O10,510.24649744,Clerodendrum inerme,Clerodendrum,KNApSAcK
+39,C00036351,107870-88-2,"(7S,8R)-Dehydrodiconiferyl alcohol 4-O-beta-glucopyranoside",C26H32O11,520.19446187,Clerodendrum inerme,Clerodendrum,KNApSAcK
+40,C00036352,126371-34-4,"(7S,8R)-Dehydrodiconiferyl alcohol 9-O-beta-glucopyranoside",C26H34O11,522.21011193,Clerodendrum inerme,Clerodendrum,KNApSAcK
+41,C00036403,596814-07-2,11-Pentacosanone,C25H50O,366.38616622,Clerodendrum inerme,Clerodendrum,KNApSAcK
+42,C00036467,121748-12-7,Leonuriside A,C14H20O9,332.11073224,Clerodendrum inerme,Clerodendrum,KNApSAcK
+43,C00036634,79913-69-2,6-Nonacosanone,C29H58O,422.44876647,Clerodendrum inerme,Clerodendrum,KNApSAcK
+44,C00036919,67594-82-5,Clerodermic acid,C20H28O4,332.19875938,Clerodendrum inerme,Clerodendrum,KNApSAcK
+45,C00037004,94410-28-3,Darendoside B,C21H32O12,476.18937649,Clerodendrum inerme,Clerodendrum,KNApSAcK
+46,C00037783,380305-38-4,Sammangaoside C,C27H42O20,686.22694379,Clerodendrum inerme,Clerodendrum,KNApSAcK
+47,C00037809,257888-26-9,Seguinoside K,C26H32O15,584.17412036,Clerodendrum inerme,Clerodendrum,KNApSAcK
+48,C00038394,213134-86-2,Ajugaside A,C32H50O14,658.32005631,Clerodendrum bungei Steud,Clerodendrum,KNApSAcK
+49,C00039729,61494-73-3,Mandarone A,C20H26O3,314.1881947,Clerodendrum mandarinorum Diels,Clerodendrum,KNApSAcK
+50,C00039730,246511-72-8,Mandarone B,C20H24O4,328.16745925,Clerodendrum mandarinorum Diels,Clerodendrum,KNApSAcK
+51,C00039731,246511-73-9,Mandarone C,C20H20O4,324.13615913,Clerodendrum mandarinorum Diels,Clerodendrum,KNApSAcK
+52,C00040477,142279-51-4,Teuvincenone F,C20H18O5,338.11542369,Clerodendrum bungei Steud,Clerodendrum,KNApSAcK
+53,C00050344,176598-06-4,Cleroindicin A,C8H14O2,142.09937969,Clerodendrum indicum,Clerodendrum,KNApSAcK
+54,C00050345,107389-91-3,Cleroindicin B,C8H14O3,158.09429431,Clerodendrum indicum,Clerodendrum,KNApSAcK
+55,C00050346,189264-44-6,Cleroindicin C,C8H12O3,156.07864425,Clerodendrum indicum,Clerodendrum,KNApSAcK
+56,C00050347,189264-45-7,Cleroindicin D,C8H12O4,172.07355887,Clerodendrum indicum,Clerodendrum,KNApSAcK
+57,C00050348,189264-46-8,Cleroindicin E,C8H14O3,158.09429431,Clerodendrum indicum,Clerodendrum,KNApSAcK
+58,C00050349,189264-47-9,Cleroindicin F,C8H10O3,154.06299419,Clerodendrum indicum,Clerodendrum,KNApSAcK
+0,C00000856,99-96-7,4-hydroxybenzoic acid,C7H6O3,138.03169406,Tabebuia impetiginosa,Tabebuia,KNApSAcK
+1,C00000856,99-96-7,4-hydroxybenzoic acid,C7H6O3,138.03169406,Tabebuia avellanedae,Tabebuia,KNApSAcK
+2,C00002833,80931-34-6,Kigelinone,C14H10O5,258.05282343,Tabebuia cassinoides,Tabebuia,KNApSAcK
+3,C00002835,84-79-7,Lapachol,C15H14O3,242.09429431,Tabebuia guayacan,Tabebuia,KNApSAcK
+4,C00002835,84-79-7,Lapachol,C15H14O3,242.09429431,Tabebuia rosea,Tabebuia,KNApSAcK
+5,C00002836,4707-32-8,beta-Lapachone,C15H14O3,242.09429431,Tabebuia avellanedae,Tabebuia,KNApSAcK
+6,C00002836,4707-32-8,beta-Lapachone,C15H14O3,242.09429431,Tabebuia guayacan,Tabebuia,KNApSAcK
+7,C00003002,573-13-7,Lapachenole,C16H16O2,240.11502975,Tabebuia avellanedae Lorentz ex Griseb.,Tabebuia,KNApSAcK
+8,C00003884,18003-33-3,6-Hydroxyluteolin,C15H10O7,302.04265268,Tabebuia caraiba,Tabebuia,KNApSAcK
+9,C00006686,27539-32-8,Peonidin 3-rutinoside,C28H33O15,609.18194539,Tabebuia spp.,Tabebuia,KNApSAcK
+10,C00007206,3064-05-9,(+)-Cycloolivil,C20H24O7,376.15220312,Tabebuia ochracea,Tabebuia,KNApSAcK
+11,C00029479,93-07-2,"3,4-dimethoxybenzoic acid",C9H10O4,182.05790881,Tabebuia avellanedae,Tabebuia,KNApSAcK
+12,C00029536,100-09-4,4-Methoxybenzoic acid,C8H8O3,152.04734412,Tabebuia avellanedae,Tabebuia,KNApSAcK
+13,C00030899,149155-70-4,Osmanthuside H,C19H28O11,432.16316174,Tabebuia impetiginosa,Tabebuia,KNApSAcK
+14,C00035232,83086-32-2,6-O-(4-hydroxybenzoyl)-6-epiaucubin,C22H26O11,466.14751167,Tabebuia impetiginosa (MArt.ex.DC),Tabebuia,KNApSAcK
+15,C00035233,125180-69-0,6-O-(4-Hydroxybenzoyl)-ajugol,C22H28O11,468.16316174,Tabebuia avellanedae,Tabebuia,KNApSAcK
+16,C00035233,125180-69-0,6-O-(4-Hydroxybenzoyl)-ajugol,C22H28O11,468.16316174,Tabebuia impetiginosa (MArt.ex.DC),Tabebuia,KNApSAcK
+17,C00035234,124168-04-3,6-O-Vanilloyl-ajugol,C23H30O12,498.17372642,Tabebuia impetiginosa (MArt.ex.DC),Tabebuia,KNApSAcK
+18,C00035510,761446-84-8,"6-O-(3,4,5-trimethoxybenzoyl)-ajugol",C25H34O13,542.19994117,Tabebuia impetiginosa,Tabebuia,KNApSAcK
+19,C00035713,149155-71-5,Osmanthuside I,C28H34O13,578.19994117,Tabebuia impetiginosa,Tabebuia,KNApSAcK
+20,C00035714,149155-72-6,Osmanthuside J,C29H36O14,608.21050586,Tabebuia impetiginosa,Tabebuia,KNApSAcK
+21,C00035962,146564-47-8,"6-O-(3,4-dimethoxybenzoyl)-ajugol",C24H32O12,512.18937649,Tabebuia avellanedae,Tabebuia,KNApSAcK
+22,C00035964,146564-46-7,6-O-(4-Methoxybenzoyl)-ajugol,C23H30O11,482.1788118,Tabebuia avellanedae,Tabebuia,KNApSAcK
+23,C00036486,280567-80-8,"2-Formyl-5-(3',4'-dimethoxybenzoyloxy)-3-methyl-2-cyclopentene-1-acetaldehyde",C18H20O6,332.12598837,Tabebuia impetiginosa,Tabebuia,KNApSAcK
+24,C00036487,280567-77-3,2-Formyl-5-(4'-methoxybenzoyloxy)-3-methyl-2-cyclopentene-1-acetaldehyde,C17H18O5,302.11542369,Tabebuia impetiginosa,Tabebuia,KNApSAcK
+25,C00037011,15297-92-4,Dehydro-alpha-lapachone,C15H12O3,240.07864425,Tabebuia guayacan,Tabebuia,KNApSAcK
+26,C00042221,4707-33-9,alpha-Lapachone,C15H14O3,242.09429431,Tabebuia guayacan,Tabebuia,KNApSAcK

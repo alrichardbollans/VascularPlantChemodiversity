@@ -1,0 +1,77 @@
+,C_ID,CAS ID,example_compound_name,Molecular formula,Mw,Organism,knapsack_search_term,Source
+0,C00000937,2545-00-8,Afzelechin,C15H14O5,274.08412356,Cochlospermum gillivraei,Cochlospermum,KNApSAcK
+1,C00000982,480-41-1,Naringenin,C15H12O5,272.06847349,Cochlospermum gillivraei,Cochlospermum,KNApSAcK
+2,C00003817,520-36-5,Apigenin,C15H10O5,270.05282343,Cochlospermum gillivraei,Cochlospermum,KNApSAcK
+3,C00014303,138166-64-0,7-Hydroxyflavanone beta-D-glucopyranoside,C21H22O8,402.13146768,Cochlospermum regium,Cochlospermum,KNApSAcK
+4,C00023111,125287-07-2,Dihydrovitixanthin,C33H44O6,536.31378914,Cochlospermum vitifolium,Cochlospermum,KNApSAcK
+5,C00023112,125329-10-4,Vitixanthin,C33H42O6,534.29813907,Cochlospermum vitifolium,Cochlospermum,KNApSAcK
+6,C00023116,109792-18-9,Dihydrocochloxanthin,C30H40O4,464.29265977,Cochlospermum vitifolium,Cochlospermum,KNApSAcK
+7,C00023116,109792-18-9,Dihydrocochloxanthin,C30H40O4,464.29265977,Cochlospermum trincorium,Cochlospermum,KNApSAcK
+8,C00023116,109792-18-9,Dihydrocochloxanthin,C30H40O4,464.29265977,Cochlospermum tinctorium,Cochlospermum,KNApSAcK
+9,C00023118,109792-17-8,Cochloxanthin,C30H38O4,462.2770097,Cochlospermum trincorium,Cochlospermum,KNApSAcK
+10,C00023118,109792-17-8,Cochloxanthin,C30H38O4,462.2770097,Cochlospermum tinctorium,Cochlospermum,KNApSAcK
+11,C00029677,19533-92-7,Alphitolic acid,C30H48O4,472.35526002,Cochlospermum trincorium,Cochlospermum,KNApSAcK
+0,C00003762,6983-79-5,Bixin,C25H30O4,394.21440945,Bixa orellana,Bixa,KNApSAcK
+1,C00003782,542-40-5,Norbixin,C24H28O4,380.19875938,Bixa orellana,Bixa,KNApSAcK
+2,C00004197,56857-56-8,Apigenin 7-sulfate,C15H10O8S,350.00963803,Bixa orellana,Bixa,KNApSAcK
+3,C00004328,56857-57-9,Luteolin 7-sulfate,C15H10O9S,366.00455265,Bixa orellana,Bixa,KNApSAcK
+4,C00004428,56857-58-0,8-Hydroxyluteolin 7-sulfate,C15H10O10S,381.99946727,Bixa orellana,Bixa,KNApSAcK
+5,C00007363,119-13-1,delta-Tocopherol,C27H46O2,402.34978071,Bixa orellana L.,Bixa,KNApSAcK
+6,C00007364,148-03-8,beta-Tocopherol,C28H48O2,416.36543078,Bixa orellana L.,Bixa,KNApSAcK
+7,C00007365,7616-22-0,gamma-Tocopherol,C28H48O2,416.36543078,Bixa orellana L.,Bixa,KNApSAcK
+8,C00007366,59-02-9,alpha-Tocopherol,C29H50O2,430.38108084,Bixa orellana L.,Bixa,KNApSAcK
+9,C00023106,22255-21-6,Methyl apo-6'-lycopenoate,C33H44O2,472.33413065,Bixa orellana,Bixa,KNApSAcK
+10,C00023115,4273-73-8,Methyl 8'-apo-beta-carotenoate,C31H42O2,446.31848058,Bixa orellana,Bixa,KNApSAcK
+11,C00023120,103834-57-7,Methyl apo-8'-lycopenoate,C31H42O2,446.31848058,Bixa orellana,Bixa,KNApSAcK
+12,C00023147,201996-49-8,"Methyl (9Z)-6'-oxo-6,5'-diapocaroten-6-oate",C26H32O3,392.23514489,Bixa orellana,Bixa,KNApSAcK
+13,C00023148,26585-94-4,Methyl bixin,C26H32O4,408.23005951,Bixa orellana,Bixa,KNApSAcK
+14,C00023149,101034-51-9,Apo-8'-bixinal,C23H28O3,352.20384476,Bixa orellana,Bixa,KNApSAcK
+15,C00023150,247030-33-7,"6-Geranylgeranyl 8'-methyl 6,8'-diapocarotene-6,8'-dioate",C43H60O4,640.4491604,Bixa orellana,Bixa,KNApSAcK
+16,C00023151,201996-43-2,Apo-10'-bixinal,C20H24O3,312.17254463,Bixa orellana,Bixa,KNApSAcK
+17,C00035044,1721-51-3,alpha-Tocotrienol,C29H44O2,424.33413065,Bixa orellana L.,Bixa,KNApSAcK
+18,C00035060,490-23-3,beta-Tocotrienol,C28H42O2,410.31848058,Bixa orellana L.,Bixa,KNApSAcK
+19,C00035077,25612-59-3,delta-Tocotrienol,C27H40O2,396.30283052,Bixa orellana L.,Bixa,KNApSAcK
+20,C00035101,14101-61-2,gamma-Tocotrienol,C28H42O2,410.31848058,Bixa orellana L.,Bixa,KNApSAcK
+21,C00054379,14682-34-9,(-)-Aromadendrene,C15H24,204.18780077,Bixa orellana,Bixa,KNApSAcK
+22,C00054627,39937-23-0,beta-Bixin,C25H30O4,394.21440945,Bixa orellana,Bixa,KNApSAcK
+23,C00058173,6753-23-7,Tomentosic acid,C30H48O6,504.34508927,Bixa orellana,Bixa,KNApSAcK
+0,C00002962,4773-96-0,Aphloiol,C19H18O11,422.08491142,Bombax malabaricum,Bombax,KNApSAcK
+1,C00005172,52657-01-9,Multifloein B,C27H30O15,594.15847029,Bombax malabaricum,Bombax,KNApSAcK
+2,C00030222,831-61-8,Ethyl gallate,C9H10O5,198.05282343,Bombax malabaricum,Bombax,KNApSAcK
+0,C00003762,6983-79-5,Bixin,C25H30O4,394.21440945,Bixa orellana,Orellana,KNApSAcK
+1,C00003782,542-40-5,Norbixin,C24H28O4,380.19875938,Bixa orellana,Orellana,KNApSAcK
+2,C00004197,56857-56-8,Apigenin 7-sulfate,C15H10O8S,350.00963803,Bixa orellana,Orellana,KNApSAcK
+3,C00004328,56857-57-9,Luteolin 7-sulfate,C15H10O9S,366.00455265,Bixa orellana,Orellana,KNApSAcK
+4,C00004428,56857-58-0,8-Hydroxyluteolin 7-sulfate,C15H10O10S,381.99946727,Bixa orellana,Orellana,KNApSAcK
+5,C00007363,119-13-1,delta-Tocopherol,C27H46O2,402.34978071,Bixa orellana L.,Orellana,KNApSAcK
+6,C00007364,148-03-8,beta-Tocopherol,C28H48O2,416.36543078,Bixa orellana L.,Orellana,KNApSAcK
+7,C00007365,7616-22-0,gamma-Tocopherol,C28H48O2,416.36543078,Bixa orellana L.,Orellana,KNApSAcK
+8,C00007366,59-02-9,alpha-Tocopherol,C29H50O2,430.38108084,Bixa orellana L.,Orellana,KNApSAcK
+9,C00023106,22255-21-6,Methyl apo-6'-lycopenoate,C33H44O2,472.33413065,Bixa orellana,Orellana,KNApSAcK
+10,C00023115,4273-73-8,Methyl 8'-apo-beta-carotenoate,C31H42O2,446.31848058,Bixa orellana,Orellana,KNApSAcK
+11,C00023120,103834-57-7,Methyl apo-8'-lycopenoate,C31H42O2,446.31848058,Bixa orellana,Orellana,KNApSAcK
+12,C00023147,201996-49-8,"Methyl (9Z)-6'-oxo-6,5'-diapocaroten-6-oate",C26H32O3,392.23514489,Bixa orellana,Orellana,KNApSAcK
+13,C00023148,26585-94-4,Methyl bixin,C26H32O4,408.23005951,Bixa orellana,Orellana,KNApSAcK
+14,C00023149,101034-51-9,Apo-8'-bixinal,C23H28O3,352.20384476,Bixa orellana,Orellana,KNApSAcK
+15,C00023150,247030-33-7,"6-Geranylgeranyl 8'-methyl 6,8'-diapocarotene-6,8'-dioate",C43H60O4,640.4491604,Bixa orellana,Orellana,KNApSAcK
+16,C00023151,201996-43-2,Apo-10'-bixinal,C20H24O3,312.17254463,Bixa orellana,Orellana,KNApSAcK
+17,C00035044,1721-51-3,alpha-Tocotrienol,C29H44O2,424.33413065,Bixa orellana L.,Orellana,KNApSAcK
+18,C00035060,490-23-3,beta-Tocotrienol,C28H42O2,410.31848058,Bixa orellana L.,Orellana,KNApSAcK
+19,C00035077,25612-59-3,delta-Tocotrienol,C27H40O2,396.30283052,Bixa orellana L.,Orellana,KNApSAcK
+20,C00035101,14101-61-2,gamma-Tocotrienol,C28H42O2,410.31848058,Bixa orellana L.,Orellana,KNApSAcK
+21,C00054379,14682-34-9,(-)-Aromadendrene,C15H24,204.18780077,Bixa orellana,Orellana,KNApSAcK
+22,C00054627,39937-23-0,beta-Bixin,C25H30O4,394.21440945,Bixa orellana,Orellana,KNApSAcK
+23,C00058173,6753-23-7,Tomentosic acid,C30H48O6,504.34508927,Bixa orellana,Orellana,KNApSAcK
+0,C00000947,154-23-4,(+)-Catechin,C15H14O6,290.07903818,Croton urucurana,Urucu,KNApSAcK
+1,C00002537,509-96-6,12a-Hydroxyrotenone,C23H22O7,410.13655306,Derris urucu,Urucu,KNApSAcK
+2,C00003647,474-62-4,Campesterol,C28H48O,400.37051615,Croton urucurana Baill.,Urucu,KNApSAcK
+3,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Croton urucurana,Urucu,KNApSAcK
+4,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Croton urucurana Baill.,Urucu,KNApSAcK
+5,C00003674,83-48-7,beta-Stigmasterol,C29H48O,412.37051615,Croton urucurana Baill.,Urucu,KNApSAcK
+6,C00008817,970-73-0,(+)-Gallocatechin,C15H14O7,306.0739528,Croton urucurana Baill.,Urucu,KNApSAcK
+7,C00008817,970-73-0,(+)-Gallocatechin,C15H14O7,306.0739528,Croton urucurana,Urucu,KNApSAcK
+8,C00009695,3187-53-9,Anhydropisatin,C17H12O5,296.06847349,Derris urucu,Urucu,KNApSAcK
+9,C00019308,474-58-8,3-O-beta-D-Glucopyranosyl sitosterol,C35H60O6,576.43898965,Croton urucurana Baill.,Urucu,KNApSAcK
+10,C00034781,28937-85-1,3-Acetyl aleuritolic acid,C32H50O4,498.37091008,Croton urucurana Baill.,Urucu,KNApSAcK
+11,C00035745,79405-82-6,Sonderianin,C21H26O5,358.17802394,Croton urucurana Baill.,Urucu,KNApSAcK
+12,C00036332,110115-55-4,"(1R,4S)-Taraktophyllin",C12H17NO7,287.10050191,Passiflora murucuja L.,Urucu,KNApSAcK

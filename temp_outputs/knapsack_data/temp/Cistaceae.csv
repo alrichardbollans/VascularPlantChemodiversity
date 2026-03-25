@@ -1,0 +1,714 @@
+,C_ID,CAS ID,example_compound_name,Molecular formula,Mw,Organism,knapsack_search_term,Source
+0,C00005851,20316-62-5,Kaempferol 3-O-beta-D-(6''-E-p-coumaroyl)glucopyranoside,C30H26O13,594.13734092,Helianthemum glomeratum,Helianthemum,KNApSAcK
+0,C00000136,470-82-6,"1,8-Cineol",C10H18O,154.1357652,Cistus albidus,Cistus,KNApSAcK
+1,C00000136,470-82-6,"1,8-Cineol",C10H18O,154.1357652,Cistus creticus,Cistus,KNApSAcK
+2,C00000149,6750-60-3,Espatulenol,C15H24O,220.18271539,Cistus creticus,Cistus,KNApSAcK
+3,C00000155,89-83-8,m-Thymol,C10H14O,150.10446507,Cistus creticus,Cistus,KNApSAcK
+4,C00000156,499-75-2,Carvacrol,C10H14O,150.10446507,Cistus creticus,Cistus,KNApSAcK
+5,C00000164,473-15-4,(+)-beta-Eudesmol,C15H26O,222.19836545,Cistus creticus,Cistus,KNApSAcK
+6,C00000165,1209-71-8,gamma-Eudesmol,C15H26O,222.19836545,Cistus creticus,Cistus,KNApSAcK
+7,C00000170,140-10-3,Cinnamate,C9H8O2,148.0524295,Cistus ladaniferus,Cistus,KNApSAcK
+8,C00000356,928-96-1,cis-3-Hexen-1-ol,C6H12O,100.08881501,Cistus creticus,Cistus,KNApSAcK
+9,C00000357,66-25-1,Hexanal,C6H12O,100.08881501,Cistus creticus,Cistus,KNApSAcK
+10,C00000358,111-27-3,Hexan-1-ol,C6H14O,102.10446507,Cistus creticus,Cistus,KNApSAcK
+11,C00000619,97-53-0,Eugenol,C10H12O2,164.08372963,Cistus creticus,Cistus,KNApSAcK
+12,C00000805,80-56-8,alpha-Pinene,C10H16,136.12520051,Cistus clusii,Cistus,KNApSAcK
+13,C00000805,80-56-8,alpha-Pinene,C10H16,136.12520051,Cistus albidus,Cistus,KNApSAcK
+14,C00000805,80-56-8,alpha-Pinene,C10H16,136.12520051,Cistus creticus,Cistus,KNApSAcK
+15,C00000814,2102-58-1,(-)-trans-Carveol,C10H16O,152.12011513,Cistus creticus,Cistus,KNApSAcK
+16,C00000816,127-91-3,beta-Pinene,C10H16,136.12520051,Cistus creticus,Cistus,KNApSAcK
+17,C00000816,127-91-3,beta-Pinene,C10H16,136.12520051,Cistus clusii,Cistus,KNApSAcK
+18,C00000816,127-91-3,beta-Pinene,C10H16,136.12520051,Cistus albidus,Cistus,KNApSAcK
+19,C00000823,138-86-3,Limonene,C10H16,136.12520051,Cistus clusii,Cistus,KNApSAcK
+20,C00000823,138-86-3,Limonene,C10H16,136.12520051,Cistus creticus,Cistus,KNApSAcK
+21,C00000829,19894-98-5,trans-Pinocarveol,C10H16O,152.12011513,Cistus creticus,Cistus,KNApSAcK
+22,C00000836,471-15-8,beta-Thujone,C10H16O,152.12011513,Cistus albidus,Cistus,KNApSAcK
+23,C00000853,123-35-3,beta-Myrcene,C10H16,136.12520051,Cistus albidus,Cistus,KNApSAcK
+24,C00000853,123-35-3,beta-Myrcene,C10H16,136.12520051,Cistus creticus,Cistus,KNApSAcK
+25,C00000861,586-62-9,alpha-Terpinolene,C10H16,136.12520051,Cistus albidus,Cistus,KNApSAcK
+26,C00000861,586-62-9,alpha-Terpinolene,C10H16,136.12520051,Cistus creticus,Cistus,KNApSAcK
+27,C00000890,18319-61-4,"Pimara-8,15-diene",C20H32,272.25040102,Cistus creticus,Cistus,KNApSAcK
+28,C00000893,511-02-4,Sclarene,C20H32,272.25040102,Cistus creticus,Cistus,KNApSAcK
+29,C00000894,515-03-7,Sclareol,C20H36O2,308.27153039,Cistus creticus,Cistus,KNApSAcK
+30,C00000947,154-23-4,(+)-Catechin,C15H14O6,290.07903818,Cistus creticus,Cistus,KNApSAcK
+31,C00000947,154-23-4,(+)-Catechin,C15H14O6,290.07903818,Cistus salviifolius,Cistus,KNApSAcK
+32,C00000956,490-46-0,(-)-Epicatechin,C15H14O6,290.07903818,Cistus salviifolius,Cistus,KNApSAcK
+33,C00000958,989-51-5,epi-Gallocatechin 3-O-gallate,C22H18O11,458.08491142,Cistus incanus,Cistus,KNApSAcK
+34,C00000958,989-51-5,epi-Gallocatechin 3-O-gallate,C22H18O11,458.08491142,Cistus salviifolius,Cistus,KNApSAcK
+35,C00001016,5128-44-9,"5-Hydroxy-7,4'-dimethoxyflavone",C17H14O5,298.08412356,Cistus spp.,Cistus,KNApSAcK
+36,C00001016,5128-44-9,"5-Hydroxy-7,4'-dimethoxyflavone",C17H14O5,298.08412356,Cistus clusii,Cistus,KNApSAcK
+37,C00001071,529-44-2,Myricetin,C15H10O8,318.0375673,Cistus creticus,Cistus,KNApSAcK
+38,C00001096,27782-63-4,Santin,C18H16O7,344.08960287,Cistus albanicus,Cistus,KNApSAcK
+39,C00001213,334-48-5,Capric acid,C10H20O2,172.14632988,Cistus creticus,Cistus,KNApSAcK
+40,C00001224,60-33-3,Linoleic acid,C18H32O2,280.24023027,Cistus creticus,Cistus,KNApSAcK
+41,C00001228,544-63-8,Myristic acid,C14H28O2,228.20893014,Cistus creticus,Cistus,KNApSAcK
+42,C00001233,57-10-3,Palmitic acid,C16H32O2,256.24023027,Cistus creticus,Cistus,KNApSAcK
+43,C00001248,112-40-3,Dodecane,C12H26,170.20345083,Cistus creticus,Cistus,KNApSAcK
+44,C00001250,630-04-6,Hentriacontane,C31H64,436.50080204,Cistus creticus,Cistus,KNApSAcK
+45,C00001250,630-04-6,Hentriacontane,C31H64,436.50080204,Cistus ladaniferus,Cistus,KNApSAcK
+46,C00001250,630-04-6,Hentriacontane,C31H64,436.50080204,Cistus monspeliensis L.,Cistus,KNApSAcK
+47,C00001250,630-04-6,Hentriacontane,C31H64,436.50080204,Cistus laurifolius,Cistus,KNApSAcK
+48,C00001260,630-03-5,Nonacosane,C29H60,408.46950191,Cistus laurifolius,Cistus,KNApSAcK
+49,C00001260,630-03-5,Nonacosane,C29H60,408.46950191,Cistus ladaniferus,Cistus,KNApSAcK
+50,C00001260,630-03-5,Nonacosane,C29H60,408.46950191,Cistus creticus,Cistus,KNApSAcK
+51,C00001260,630-03-5,Nonacosane,C29H60,408.46950191,Cistus monspeliensis L.,Cistus,KNApSAcK
+52,C00001264,111-87-5,1-Octanol,C8H18O,130.1357652,Cistus creticus,Cistus,KNApSAcK
+53,C00001265,629-62-9,n-Pentadecane,C15H32,212.25040102,Cistus creticus,Cistus,KNApSAcK
+54,C00002685,98-86-2,Acetophenone,C8H8O,120.05751488,Cistus ladaniferus,Cistus,KNApSAcK
+55,C00002685,98-86-2,Acetophenone,C8H8O,120.05751488,Cistus creticus,Cistus,KNApSAcK
+56,C00002741,93-15-2,Methyleugenol,C11H14O2,178.09937969,Cistus creticus,Cistus,KNApSAcK
+57,C00002923,68964-95-4,Prodelphinidin B4,C30H26O14,610.13225554,Cistus creticus,Cistus,KNApSAcK
+58,C00003028,507-70-0,Borneol,C10H18O,154.1357652,Cistus clusii,Cistus,KNApSAcK
+59,C00003028,507-70-0,Borneol,C10H18O,154.1357652,Cistus creticus,Cistus,KNApSAcK
+60,C00003029,79-92-5,Camphene,C10H16,136.12520051,Cistus clusii,Cistus,KNApSAcK
+61,C00003029,79-92-5,Camphene,C10H16,136.12520051,Cistus creticus,Cistus,KNApSAcK
+62,C00003035,141-27-5,trans-Citral,C10H16O,152.12011513,Cistus creticus,Cistus,KNApSAcK
+63,C00003040,99-87-6,p-Cymene,C10H14,134.10955045,Cistus creticus,Cistus,KNApSAcK
+64,C00003040,99-87-6,p-Cymene,C10H14,134.10955045,Cistus albidus,Cistus,KNApSAcK
+65,C00003045,1195-79-5,Fenchone,C10H16O,152.12011513,Cistus albidus,Cistus,KNApSAcK
+66,C00003047,78-70-6,(+-)-Linalool,C10H18O,154.1357652,Cistus creticus,Cistus,KNApSAcK
+67,C00003051,99-83-2,alpha-Phellandrene,C10H16,136.12520051,Cistus albidus,Cistus,KNApSAcK
+68,C00003060,99-86-5,alpha-Terpinene,C10H16,136.12520051,Cistus albidus,Cistus,KNApSAcK
+69,C00003061,99-85-4,gamma-Terpinene,C10H16,136.12520051,Cistus creticus,Cistus,KNApSAcK
+70,C00003061,99-85-4,gamma-Terpinene,C10H16,136.12520051,Cistus albidus,Cistus,KNApSAcK
+71,C00003110,87-44-5,beta-Caryophyllene,C15H24,204.18780077,Cistus creticus,Cistus,KNApSAcK
+72,C00003110,87-44-5,beta-Caryophyllene,C15H24,204.18780077,Cistus albidus,Cistus,KNApSAcK
+73,C00003118,3856-25-5,alpha-Copaene,C15H24,204.18780077,Cistus albidus,Cistus,KNApSAcK
+74,C00003118,3856-25-5,alpha-Copaene,C15H24,204.18780077,Cistus creticus,Cistus,KNApSAcK
+75,C00003120,17699-14-8,alpha-Cubebene,C15H24,204.18780077,Cistus creticus,Cistus,KNApSAcK
+76,C00003121,13744-15-5,beta-Cubebene,C15H24,204.18780077,Cistus albidus,Cistus,KNApSAcK
+77,C00003131,18794-84-8,E-beta-farnesene,C15H24,204.18780077,Cistus albidus,Cistus,KNApSAcK
+78,C00003134,15423-57-1,Germacrene B,C15H24,204.18780077,Cistus creticus,Cistus,KNApSAcK
+79,C00003139,489-86-1,Guaiol,C15H26O,222.19836545,Cistus creticus,Cistus,KNApSAcK
+80,C00003147,6753-98-6,alpha-Caryophyllene (obsol.),C15H24,204.18780077,Cistus creticus,Cistus,KNApSAcK
+81,C00003147,6753-98-6,alpha-Caryophyllene (obsol.),C15H24,204.18780077,Cistus albidus,Cistus,KNApSAcK
+82,C00003161,577-27-5,Ledol,C15H26O,222.19836545,Cistus creticus,Cistus,KNApSAcK
+83,C00003186,17066-67-0,beta-Eudesmene,C15H24,204.18780077,Cistus creticus,Cistus,KNApSAcK
+84,C00003203,14912-44-8,alpha-Ylangene,C15H24,204.18780077,Cistus creticus,Cistus,KNApSAcK
+85,C00003204,495-60-3,alpha-Zingiberene,C15H24,204.18780077,Cistus albidus,Cistus,KNApSAcK
+86,C00003794,480-40-0,Chrysin,C15H10O4,254.05790881,Cistus populifolius,Cistus,KNApSAcK
+87,C00003795,520-28-5,Tectochrysin,C16H12O4,268.07355887,Cistus populifolius,Cistus,KNApSAcK
+88,C00003867,25739-41-7,Velutin,C17H14O6,314.07903818,Cistus clusii,Cistus,KNApSAcK
+89,C00004566,22044-80-0,Kaempferol 5-methyl ether,C16H12O6,300.06338812,Rhodothamnus chamaecistus,Cistus,KNApSAcK
+90,C00004571,15486-33-6,"Kaempferol 7,4'-dimethyl ether",C17H14O6,314.07903818,Cistus spp.,Cistus,KNApSAcK
+91,C00004573,15486-34-7,"3,7,4'-Tri-O-methylkaempferol",C18H16O6,328.09468824,Cistus spp.,Cistus,KNApSAcK
+92,C00004596,22697-65-0,"5,7,4'-Trihydroxy-3,6-dimethoxyflavone",C17H14O7,330.0739528,Cistus albanicus,Cistus,KNApSAcK
+93,C00004615,14965-09-4,"5,7,4'-Trihydroxy-3,8-dimethoxyflavone",C17H14O7,330.0739528,Cistus albanicus,Cistus,KNApSAcK
+94,C00004620,58902-16-2,"Herbacetin 3,7,4'-trimethyl ether",C18H16O7,344.08960287,Cistus albanicus,Cistus,KNApSAcK
+95,C00004621,1570-09-8,"Herbacetin 3,8,4'-trimethyl ether",C18H16O7,344.08960287,Cistus parviflorus,Cistus,KNApSAcK
+96,C00004622,521-44-8,Flindulatin,C19H18O7,358.10525293,Cistus albanicus,Cistus,KNApSAcK
+97,C00004631,117-39-5,Quercetin,C15H10O7,302.04265268,Cistus creticus,Cistus,KNApSAcK
+98,C00004635,480-19-3,Isorhamnetin,C16H12O7,316.05830274,Cistus incanus,Cistus,KNApSAcK
+99,C00004641,40554-94-7,"Quercetin 5,3'-dimethyl ether",C17H14O7,330.0739528,Cistus laurifolius,Cistus,KNApSAcK
+100,C00004642,552-54-5,"Quercetin 7,3'-dimethyl ether",C17H14O7,330.0739528,Cistus spp.,Cistus,KNApSAcK
+101,C00004645,13459-09-1,"Quercetin 3,5,3'-trimethyl ether",C18H16O7,344.08960287,Cistus laurifolius,Cistus,KNApSAcK
+102,C00004648,14549-84-9,"Quercetin 3,3',4'-trimethyl ether",C18H16O7,344.08960287,Cistus spp.,Cistus,KNApSAcK
+103,C00004649,6068-80-0,"Quercetin 7,3',4'-trimethyl ether",C18H16O7,344.08960287,Cistus spp.,Cistus,KNApSAcK
+104,C00004684,5188-73-8,Axillarin,C17H14O8,346.06886743,Cistus albanicus,Cistus,KNApSAcK
+105,C00004693,10173-01-0,Jaceidin,C18H16O8,360.08451749,Cistus albanicus,Cistus,KNApSAcK
+106,C00004735,14965-08-3,"5,7,4'-Trihydroxy-3,8,3'-trimethoxyflavone",C18H16O8,360.08451749,Cistus spp.,Cistus,KNApSAcK
+107,C00004740,42923-42-2,"Gossypetin 3,8,3',4'-tetramethyl ether",C19H18O8,374.10016755,Cistus parviflorus,Cistus,KNApSAcK
+108,C00004744,14965-12-9,"Gossypetin 3,7,8,3',4'-pentamethyl ether",C20H20O8,388.11581762,Cistus albanicus,Cistus,KNApSAcK
+109,C00004767,4423-37-4,Syringetin,C17H14O8,346.06886743,Cistus symphytifolius,Cistus,KNApSAcK
+110,C00004768,80368-73-6,"Myricetin 3',4'-dimethyl ether",C17H14O8,346.06886743,Cistus symphytifolius,Cistus,KNApSAcK
+111,C00004768,80368-73-6,"Myricetin 3',4'-dimethyl ether",C17H14O8,346.06886743,Cistus albanicus,Cistus,KNApSAcK
+112,C00004769,15868-40-3,"Myricetin 3,7,4'-trimethyl ether",C18H16O8,360.08451749,Cistus spp.,Cistus,KNApSAcK
+113,C00004770,94390-21-3,"Myricetin 3,7,3'-trimethyl ether",C18H16O8,360.08451749,Cistus monspeliensis,Cistus,KNApSAcK
+114,C00004770,94390-21-3,"Myricetin 3,7,3'-trimethyl ether",C18H16O8,360.08451749,Cistus albanicus,Cistus,KNApSAcK
+115,C00004772,80368-72-5,"Myricetin 3,3',4'-trimethyl ether",C18H16O8,360.08451749,Cistus monspeliensis,Cistus,KNApSAcK
+116,C00004773,27265-95-8,"Myricetin 7,3',4'-trimethyl ether",C18H16O8,360.08451749,Cistus monspeliensis,Cistus,KNApSAcK
+117,C00004773,27265-95-8,"Myricetin 7,3',4'-trimethyl ether",C18H16O8,360.08451749,Cistus symphytifolius,Cistus,KNApSAcK
+118,C00004774,14290-57-4,"3',5-Dihydroxy-3,4',5',7-tetramethoxyflavone",C19H18O8,374.10016755,Cistus monspeliensis,Cistus,KNApSAcK
+119,C00004776,14585-04-7,"Myricetin 3,3',4',5'-tetramethyl ether",C19H18O8,374.10016755,Cistus albanicus,Cistus,KNApSAcK
+120,C00004776,14585-04-7,"Myricetin 3,3',4',5'-tetramethyl ether",C19H18O8,374.10016755,Cistus symphytifolius,Cistus,KNApSAcK
+121,C00005169,17650-84-9,Kaempferol 3-rutinoside,C27H30O15,594.15847029,Cistus ladaniferus,Cistus,KNApSAcK
+122,C00005373,482-35-9,Hirsutrin,C21H20O12,464.09547611,Cistus creticus,Cistus,KNApSAcK
+123,C00005374,522-12-3,Quercetin 3-O-alpha-L-rhamnoside,C21H20O11,448.10056148,Cistus creticus,Cistus,KNApSAcK
+124,C00005400,117611-67-3,Quercetin 3-rhamnosyl-(1->2)-galactoside,C27H30O16,610.15338491,Cistus ladaniferus,Cistus,KNApSAcK
+125,C00005406,142905-18-8,Quercetin 3-xylosyl-(1->6)-glucoside,C26H28O16,596.13773485,Cistus ladaniferus,Cistus,KNApSAcK
+126,C00005409,18609-17-1,Quercetin 3-O-sophoroside,C27H30O17,626.14829954,Cistus ladaniferus,Cistus,KNApSAcK
+127,C00005413,153-18-4,Quercetin 3-rutinoside,C27H30O16,610.15338491,Cistus creticus,Cistus,KNApSAcK
+128,C00005425,38784-81-5,Quercetin 3-galactoside-7-rhamnoside,C27H30O16,610.15338491,Cistus ladaniferus,Cistus,KNApSAcK
+129,C00005541,142905-19-9,Isorhamnetin 3-xylosyl-(1->6)-glucoside,C27H30O16,610.15338491,Cistus ladaniferus,Cistus,KNApSAcK
+130,C00005685,76960-04-8,Gossypetin 3-galactoside,C21H20O13,480.09039073,Rhodothamnus chamaecistus,Cistus,KNApSAcK
+131,C00005729,19833-12-6,Isomyricitrin,C21H20O13,480.09039073,Cistus creticus,Cistus,KNApSAcK
+132,C00005729,19833-12-6,Isomyricitrin,C21H20O13,480.09039073,Cistus ladaniferus,Cistus,KNApSAcK
+133,C00005730,17912-87-7,Myricitrin,C21H20O12,464.09547611,Cistus creticus,Cistus,KNApSAcK
+134,C00005737,41093-68-9,Myricetin-3-O-rutinoside,C27H30O17,626.14829954,Cistus ladaniferus,Cistus,KNApSAcK
+135,C00007242,495-61-4,beta-Bisabolene,C15H24,204.18780077,Cistus albidus,Cistus,KNApSAcK
+136,C00007247,463-40-1,alpha-Linolenic acid,C18H30O2,278.2245802,Cistus creticus,Cistus,KNApSAcK
+137,C00007253,562-28-7,ent-Kaurene,C20H32,272.25040102,Cistus creticus,Cistus,KNApSAcK
+138,C00007453,33880-83-0,beta-Elemene,C15H24,204.18780077,Cistus creticus,Cistus,KNApSAcK
+139,C00007453,33880-83-0,beta-Elemene,C15H24,204.18780077,Cistus albidus,Cistus,KNApSAcK
+140,C00007542,629-80-1,Hexadecanal,C16H32O,240.24531564,Cistus creticus,Cistus,KNApSAcK
+141,C00007630,20307-83-9,beta-Sesquiphellandrene,C15H24,204.18780077,Cistus albidus,Cistus,KNApSAcK
+142,C00007636,483-76-1,delta-Cadinene,C15H24,204.18780077,Cistus creticus,Cistus,KNApSAcK
+143,C00007636,483-76-1,delta-Cadinene,C15H24,204.18780077,Cistus albidus,Cistus,KNApSAcK
+144,C00008817,970-73-0,(+)-Gallocatechin,C15H14O7,306.0739528,Cistus salviifolius,Cistus,KNApSAcK
+145,C00008818,970-74-1,(-)-Epigallocatechin,C15H14O7,306.0739528,Cistus creticus,Cistus,KNApSAcK
+146,C00008818,970-74-1,(-)-Epigallocatechin,C15H14O7,306.0739528,Cistus salviifolius,Cistus,KNApSAcK
+147,C00008843,103630-03-1,Catechin 3-O-alpha-L-rhamnoside,C21H24O10,436.13694699,Cistus incanus,Cistus,KNApSAcK
+148,C00008866,1257-08-5,(-)-Epicatechin 3-O-gallate,C22H18O10,442.0899968,Cistus salviifolius,Cistus,KNApSAcK
+149,C00008882,5127-64-0,Gallocatechin 3-O-gallate,C22H18O11,458.08491142,Cistus incanus,Cistus,KNApSAcK
+150,C00008882,5127-64-0,Gallocatechin 3-O-gallate,C22H18O11,458.08491142,Cistus salviifolius,Cistus,KNApSAcK
+151,C00008902,159390-94-0,Epigallocatechin 3-O-(4-hydroxybenzoate),C22H18O9,426.09508217,Cistus salviifolius,Cistus,KNApSAcK
+152,C00009074,12798-59-3,Procyanidin B7,C30H26O12,578.1424263,Cistus incanus,Cistus,KNApSAcK
+153,C00009075,20315-25-7,Procyanidin B1,C30H26O12,578.1424263,Cistus incanus,Cistus,KNApSAcK
+154,C00009081,135095-45-3,Catechin-(4alpha->8)-gallocatechin,C30H26O13,594.13734092,Cistus incanus,Cistus,KNApSAcK
+155,C00009111,78392-25-3,Prodelphinidin C,C30H26O13,594.13734092,Cistus incanus,Cistus,KNApSAcK
+156,C00009113,77983-30-3,Epigallocatechin-(4beta->8)-catechin,C30H26O13,594.13734092,Cistus incanus,Cistus,KNApSAcK
+157,C00009116,110115-59-8,Prodelphinidin B3,C30H26O14,610.13225554,Cistus incanus,Cistus,KNApSAcK
+158,C00009117,78362-04-6,Prodelphinidin B1,C30H26O14,610.13225554,Cistus incanus,Cistus,KNApSAcK
+159,C00009118,87392-61-8,Prodelphinidin B2,C30H26O14,610.13225554,Cistus salviifolius,Cistus,KNApSAcK
+160,C00009120,79136-97-3,[Gallocatechin-(4alpha->8)]2-catechin,C45H38O20,898.19564366,Cistus incanus,Cistus,KNApSAcK
+161,C00009121,87402-90-2,[Gallocatechin-(4alpha->8)]2-gallocatechin,C45H38O21,914.19055828,Cistus incanus,Cistus,KNApSAcK
+162,C00009233,152100-00-0,3-O-Galloylepigallocatechin-(4beta->6)-gallocatechin,C37H30O18,762.14321416,Cistus incanus,Cistus,KNApSAcK
+163,C00009234,159390-95-1,Epigallocatechin-(4beta->6)-epigallocatechin-3-O-gallate,C37H30O18,762.14321416,Cistus salviifolius,Cistus,KNApSAcK
+164,C00009236,152100-01-1,3-O-Galloylepigallocatechin-(4beta->8)-gallocatechin,C37H30O18,762.14321416,Cistus incanus,Cistus,KNApSAcK
+165,C00009238,86588-88-7,Epigallocatechin-(4beta->8)-epigallocatechin-3-O-gallate,C37H30O18,762.14321416,Cistus salviifolius,Cistus,KNApSAcK
+166,C00010872,555-10-2,beta-Phellandrene,C10H16,136.12520051,Cistus albidus,Cistus,KNApSAcK
+167,C00010905,1195-32-0,4-Isopropenyl-1-methylbenzene,C10H12,132.09390038,Cistus creticus,Cistus,KNApSAcK
+168,C00011067,508-32-7,Teresantanane,C10H16,136.12520051,Cistus creticus,Cistus,KNApSAcK
+169,C00011067,508-32-7,Teresantanane,C10H16,136.12520051,Cistus albidus,Cistus,KNApSAcK
+170,C00011153,476-66-4,Ellagic acid,C14H6O8,302.00626717,Cistus creticus,Cistus,KNApSAcK
+171,C00011617,4176-17-4,(R)-(-)-alpha-Curcumene,C15H22,202.1721507,Cistus albidus,Cistus,KNApSAcK
+172,C00011720,23986-74-5,(-)-Germacrene D,C15H24,204.18780077,Cistus creticus,Cistus,KNApSAcK
+173,C00012444,19888-34-7,"Humulene 1,2-epoxide",C15H24O,220.18271539,Cistus creticus,Cistus,KNApSAcK
+174,C00012474,118-65-0,Isocaryophyllene,C15H24,204.18780077,Cistus albidus,Cistus,KNApSAcK
+175,C00012474,118-65-0,Isocaryophyllene,C15H24,204.18780077,Cistus creticus,Cistus,KNApSAcK
+176,C00012483,1139-30-6,(-)-beta-Caryophyllene epoxide,C15H24O,220.18271539,Cistus creticus,Cistus,KNApSAcK
+177,C00012483,1139-30-6,(-)-beta-Caryophyllene epoxide,C15H24O,220.18271539,Cistus albidus,Cistus,KNApSAcK
+178,C00012813,16641-47-7,Kongol,C15H26O,222.19836545,Cistus creticus,Cistus,KNApSAcK
+179,C00012816,6168-59-8,(+)-Intermedeol,C15H26O,222.19836545,Cistus creticus,Cistus,KNApSAcK
+180,C00019221,120-51-4,Benzyl benzoate,C14H12O2,212.08372963,Cistus creticus,Cistus,KNApSAcK
+181,C00020051,24406-05-1,alpha-Cadinene,C15H24,204.18780077,Cistus creticus,Cistus,KNApSAcK
+182,C00020065,481-34-5,(-)-alpha-Cadinol,C15H26O,222.19836545,Cistus creticus,Cistus,KNApSAcK
+183,C00020066,5937-11-1,epi-alpha-Cadinol,C15H26O,222.19836545,Cistus creticus,Cistus,KNApSAcK
+184,C00020067,21391-99-1,alpha-Calacorene,C15H20,200.15650064,Cistus creticus,Cistus,KNApSAcK
+185,C00020074,483-77-2,Calamenene,C15H22,202.1721507,Cistus creticus,Cistus,KNApSAcK
+186,C00020084,20129-39-9,alpha-Corocalene,C15H20,200.15650064,Cistus creticus,Cistus,KNApSAcK
+187,C00020112,483-78-3,Cadalene,C15H18,198.14085057,Cistus creticus,Cistus,KNApSAcK
+188,C00020130,24268-39-1,gamma-Muurolene,C15H24,204.18780077,Cistus creticus,Cistus,KNApSAcK
+189,C00020130,24268-39-1,gamma-Muurolene,C15H24,204.18780077,Cistus albidus,Cistus,KNApSAcK
+190,C00020145,19912-67-5,1-Epicubenol,C15H26O,222.19836545,Cistus creticus,Cistus,KNApSAcK
+191,C00020146,81939-29-9,1-epi-Cubenol,C15H26O,222.19836545,Cistus creticus,Cistus,KNApSAcK
+192,C00020150,19435-97-3,(-)-delta-Cadinol,C15H26O,222.19836545,Cistus creticus,Cistus,KNApSAcK
+193,C00020154,19912-62-0,tau-Muurolol,C15H26O,222.19836545,Cistus creticus,Cistus,KNApSAcK
+194,C00020252,28305-60-4,beta-Oploplenone,C15H24O,220.18271539,Cistus creticus,Cistus,KNApSAcK
+195,C00020300,55733-01-2,Drim-8-en-7-one,C15H24O,220.18271539,Cistus creticus,Cistus,KNApSAcK
+196,C00020377,3691-12-1,alpha-Guaiene,C15H24,204.18780077,Cistus creticus,Cistus,KNApSAcK
+197,C00021213,489-41-8,(-)-Globulol,C15H26O,222.19836545,Cistus creticus,Cistus,KNApSAcK
+198,C00021217,552-02-3,Viridiflorol,C15H26O,222.19836545,Cistus creticus,Cistus,KNApSAcK
+199,C00021220,21747-46-6,Viridiflorene,C15H24,204.18780077,Cistus creticus,Cistus,KNApSAcK
+200,C00021227,489-40-7,alpha-Gurjunene,C15H24,204.18780077,Cistus creticus,Cistus,KNApSAcK
+201,C00021229,25246-27-9,allo-Aromadendrene,C15H24,204.18780077,Cistus albidus,Cistus,KNApSAcK
+202,C00021229,25246-27-9,allo-Aromadendrene,C15H24,204.18780077,Cistus creticus,Cistus,KNApSAcK
+203,C00021230,489-39-4,(+)-Aromadendrene,C15H24,204.18780077,Cistus creticus,Cistus,KNApSAcK
+204,C00021272,23445-02-5,Cubebol,C15H26O,222.19836545,Cistus creticus,Cistus,KNApSAcK
+205,C00021309,3853-83-6,alpha-Himachalene,C15H24,204.18780077,Cistus creticus,Cistus,KNApSAcK
+206,C00021428,73809-82-2,Salvial-4(14)-en-1-one,C15H24O,220.18271539,Cistus creticus,Cistus,KNApSAcK
+207,C00021651,72203-99-7,Axenol,C15H26O,222.19836545,Cistus creticus,Cistus,KNApSAcK
+208,C00021884,5208-59-3,beta-Bourbonene,C15H24,204.18780077,Cistus creticus,Cistus,KNApSAcK
+209,C00021884,5208-59-3,beta-Bourbonene,C15H24,204.18780077,Cistus albidus,Cistus,KNApSAcK
+210,C00021903,13474-59-4,trans-alpha-Bergamotene,C15H24,204.18780077,Cistus creticus,Cistus,KNApSAcK
+211,C00022242,103701-50-4,"(ent-6alpha,8alpha,13E)-6,8-Dihydroxy-13-labden-15-oic acid",C20H34O4,338.24570957,Cistus laurifolius,Cistus,KNApSAcK
+212,C00022333,1227-93-6,13-Epimanoyl oxide,C20H34O,290.26096571,Cistus creticus,Cistus,KNApSAcK
+213,C00022366,1231-34-1,2-keto-Manoyl oxide,C20H32O2,304.24023027,Cistus creticus,Cistus,KNApSAcK
+214,C00022424,80995-92-2,Cistenolic acid,C20H34O3,322.25079495,Cistus symphytifolius,Cistus,KNApSAcK
+215,C00022468,82779-24-6,6-Oxocativic acid,C20H32O3,320.23514489,Cistus labdaniferus,Cistus,KNApSAcK
+216,C00022712,596-85-0,Manool,C20H34O,290.26096571,Cistus creticus,Cistus,KNApSAcK
+217,C00022755,80931-03-9,Cistadienic acid,C20H32O2,304.24023027,Cistus symphytifolius,Cistus,KNApSAcK
+218,C00022758,120786-69-8,"7,13E-Labdadien-15-ol acetate",C22H36O2,332.27153039,Cistus incanus,Cistus,KNApSAcK
+219,C00022762,1438-62-6,13-Epimanool,C20H34O,290.26096571,Cistus creticus,Cistus,KNApSAcK
+220,C00022765,10207-79-1,Isoabienol,C20H34O,290.26096571,Cistus creticus,Cistus,KNApSAcK
+221,C00022774,100296-76-2,"8alpha,15,18-Labdanetriol",C20H38O3,326.28209508,Cistus labdaniferus,Cistus,KNApSAcK
+222,C00023430,468-84-8,Ambreinolide,C17H28O2,264.20893014,Cistus ladaniferus,Cistus,KNApSAcK
+223,C00023430,468-84-8,Ambreinolide,C17H28O2,264.20893014,Cistus labdaniferus,Cistus,KNApSAcK
+224,C00023511,28644-71-5,Cistodiol,C20H36O2,308.27153039,Cistus monspeliensis,Cistus,KNApSAcK
+225,C00023512,28644-72-6,Cistodioic acid,C20H32O4,336.23005951,Cistus monspeliensis,Cistus,KNApSAcK
+226,C00023514,68330-95-0,Populifolic acid,C20H34O2,306.25588033,Cistus populifolius,Cistus,KNApSAcK
+227,C00023515,68268-62-2,Dehydroopulifolic acid,C20H32O2,304.24023027,Cistus populifolius,Cistus,KNApSAcK
+228,C00029341,25152-84-5,"(2E,4E)-Deca-2,4-dienal",C10H16O,152.12011513,Cistus creticus,Cistus,KNApSAcK
+229,C00029544,562-74-3,4-Terpineol,C10H18O,154.1357652,Cistus creticus,Cistus,KNApSAcK
+230,C00029671,10208-80-7,alpha-Muurolene,C15H24,204.18780077,Cistus albidus,Cistus,KNApSAcK
+231,C00029671,10208-80-7,alpha-Muurolene,C15H24,204.18780077,Cistus creticus,Cistus,KNApSAcK
+232,C00029672,473-13-2,(-)-alpha-Selinene,C15H24,204.18780077,Cistus creticus,Cistus,KNApSAcK
+233,C00029674,98-55-5,alpha-Terpineol,C10H18O,154.1357652,Cistus creticus,Cistus,KNApSAcK
+234,C00029816,79-77-6,beta-Ionone,C13H20O,192.15141526,Cistus creticus,Cistus,KNApSAcK
+235,C00029844,76-49-3,Borneol acetate,C12H20O2,196.14632988,Cistus albidus,Cistus,KNApSAcK
+236,C00029844,76-49-3,Borneol acetate,C12H20O2,196.14632988,Cistus clusii,Cistus,KNApSAcK
+237,C00029844,76-49-3,Borneol acetate,C12H20O2,196.14632988,Cistus creticus,Cistus,KNApSAcK
+238,C00029866,29837-12-5,"Cadina-1,4-diene",C15H24,204.18780077,Cistus creticus,Cistus,KNApSAcK
+239,C00030099,112-31-2,Decanal,C10H20O,156.15141526,Cistus creticus,Cistus,KNApSAcK
+240,C00030345,39029-41-9,gamma-Cadinene,C15H24,204.18780077,Cistus creticus,Cistus,KNApSAcK
+241,C00030345,39029-41-9,gamma-Cadinene,C15H24,204.18780077,Cistus albidus,Cistus,KNApSAcK
+242,C00030470,629-94-7,Heneicosane,C21H44,296.3443014,Cistus creticus,Cistus,KNApSAcK
+243,C00030471,593-49-7,Heptacosane,C27H56,380.43820179,Cistus creticus,Cistus,KNApSAcK
+244,C00030472,629-78-7,Heptadecane,C17H36,240.28170115,Cistus creticus,Cistus,KNApSAcK
+245,C00030478,630-01-3,Hexacosane,C26H54,366.42255172,Cistus creticus,Cistus,KNApSAcK
+246,C00030480,502-69-2,"6,10,14-Trimethyl-2-pentadecanone",C18H36O,268.27661577,Cistus creticus,Cistus,KNApSAcK
+247,C00030644,112-54-9,Lauraldehyde,C12H24O,184.18271539,Cistus creticus,Cistus,KNApSAcK
+248,C00030758,112-12-9,2-Undecanone,C11H22O,170.16706532,Cistus creticus,Cistus,KNApSAcK
+249,C00030827,629-92-5,Nonadecane,C19H40,268.31300128,Cistus creticus,Cistus,KNApSAcK
+250,C00030828,124-19-6,Nonadienal,C9H18O,142.1357652,Cistus creticus,Cistus,KNApSAcK
+251,C00030829,112-05-0,Nonanoic acid,C9H18O2,158.13067982,Cistus creticus,Cistus,KNApSAcK
+252,C00030879,593-45-3,n-Octadecane,C18H38,254.29735121,Cistus creticus,Cistus,KNApSAcK
+253,C00030933,1197-01-9,p-Cymen-8-ol,C10H14O,150.10446507,Cistus creticus,Cistus,KNApSAcK
+254,C00030958,629-99-2,n-Pentacosane,C25H52,352.40690166,Cistus creticus,Cistus,KNApSAcK
+255,C00030959,2765-11-9,Pentadecanal,C15H30O,226.22966558,Cistus creticus,Cistus,KNApSAcK
+256,C00031258,3387-41-5,4(10)-Thujene,C10H16,136.12520051,Cistus albidus,Cistus,KNApSAcK
+257,C00031766,38230-60-3,epi-Cubebol,C15H26O,222.19836545,Cistus creticus,Cistus,KNApSAcK
+258,C00032307,646-31-1,Tetracosane,C24H50,338.39125159,Cistus creticus,Cistus,KNApSAcK
+259,C00032308,124-25-4,Tetradecanal,C14H28O,212.21401552,Cistus creticus,Cistus,KNApSAcK
+260,C00032409,638-67-5,n-Tridecane,C23H48,324.37560153,Cistus creticus,Cistus,KNApSAcK
+261,C00032442,112-44-7,Undecanal,C11H22O,170.16706532,Cistus creticus,Cistus,KNApSAcK
+262,C00032443,1120-21-4,n-Undecane,C11H24,156.18780077,Cistus creticus,Cistus,KNApSAcK
+263,C00033660,20479-06-5,beta-Ylangene,C15H24,204.18780077,Cistus creticus,Cistus,KNApSAcK
+264,C00033674,124753-76-0,beta-Copaen-4-alpha-ol,C15H24O,220.18271539,Cistus creticus,Cistus,KNApSAcK
+265,C00033734,21284-22-0,Cubenol,C15H26O,222.19836545,Cistus creticus,Cistus,KNApSAcK
+266,C00033916,23811-08-7,Hinesol,C15H26O,222.19836545,Cistus creticus,Cistus,KNApSAcK
+267,C00034456,73464-47-8,beta-Gurjunene,C15H24,204.18780077,Cistus albidus,Cistus,KNApSAcK
+268,C00034575,498-16-8,Lavandulol,C10H18O,154.1357652,Cistus creticus,Cistus,KNApSAcK
+269,C00034614,630-02-4,Octacosane,C28H58,394.45385185,Cistus creticus,Cistus,KNApSAcK
+270,C00034757,3790-78-1,cis-Nerolidol,C15H26O,222.19836545,Cistus creticus,Cistus,KNApSAcK
+271,C00034763,3777-69-3,2-Pentylfuran,C9H14O,138.10446507,Cistus creticus,Cistus,KNApSAcK
+272,C00034866,1686-66-4,Isopimaradiene,C20H32,272.25040102,Cistus creticus,Cistus,KNApSAcK
+273,C00034873,596-84-9,Manool oxide,C20H34O,290.26096571,Cistus creticus,Cistus,KNApSAcK
+274,C00034880,111-71-7,Heptanal,C7H14O,114.10446507,Cistus creticus,Cistus,KNApSAcK
+275,C00035378,65995-63-3,Punicalagin,C48H28O30,1084.06653956,Cistus creticus,Cistus,KNApSAcK
+276,C00035451,73365-77-2,"1,10-Di-epi-cubenol",C15H26O,222.19836545,Cistus creticus,Cistus,KNApSAcK
+277,C00035536,23726-93-4,beta-Damascenone,C13H18O,190.1357652,Cistus creticus,Cistus,KNApSAcK
+278,C00035563,3879-26-3,cis-Geranyl acetone,C13H22O,194.16706532,Cistus creticus,Cistus,KNApSAcK
+279,C00035639,544-76-3,Hexadecane,C16H34,226.26605108,Cistus creticus,Cistus,KNApSAcK
+280,C00035737,116-26-7,Safranal,C10H14O,150.10446507,Cistus creticus,Cistus,KNApSAcK
+281,C00035879,629-59-4,n-Tetradecane,C14H30,198.23475096,Cistus creticus,Cistus,KNApSAcK
+282,C00035987,19407-28-4,Abietatriene,C20H30,270.23475096,Cistus creticus,Cistus,KNApSAcK
+283,C00036263,593-08-8,2-Tridecanone,C13H26O,198.19836545,Cistus creticus,Cistus,KNApSAcK
+284,C00036271,515-13-9,(-)-beta-Elemene,C15H24,204.18780077,Cistus creticus,Cistus,KNApSAcK
+285,C00037531,515-00-4,Myrtenol,C10H16O,152.12011513,Cistus creticus,Cistus,KNApSAcK
+286,C00037652,30460-92-5,Pinocarvone,C10H14O,150.10446507,Cistus creticus,Cistus,KNApSAcK
+287,C00037699,65995-64-4,Punicalin,C34H22O22,782.06027239,Cistus creticus,Cistus,KNApSAcK
+288,C00041027,221456-94-6,"Labda-7,12(E),14-triene",C20H32,272.25040102,Cistus creticus,Cistus,KNApSAcK
+289,C00042278,432-25-7,beta-Cyclocitral,C10H16O,152.12011513,Cistus creticus,Cistus,KNApSAcK
+290,C00042579,629-90-3,Heptadecanal,C17H34O,254.26096571,Cistus creticus,Cistus,KNApSAcK
+291,C00042658,40185-30-6,"Labda-7,14-dien-13-ol",C20H34O,290.26096571,Cistus creticus,Cistus,KNApSAcK
+292,C00042933,1686-56-2,13-Isopimaradiene,C20H32,272.25040102,Cistus creticus,Cistus,KNApSAcK
+293,C00043487,27642-41-7,ent-13-epi-Manoyl oxide,C20H34O,290.26096571,Cistus clusii,Cistus,KNApSAcK
+294,C00044423,82178-21-0,15-hydroxy-cis-clerodan 3-ene-18-oic acid,C20H34O3,322.25079495,Cistus monspeliensis,Cistus,KNApSAcK
+295,C00044424,82178-19-6,18-Acetoxy-cis-clerodan-3-ene-15-oic acid,C22H36O4,364.26135964,Cistus monspeliensis,Cistus,KNApSAcK
+296,C00044425,82178-20-9,18-Hydroxy-cis-clerodan-3-ene-15-oic acid,C20H34O3,322.25079495,Cistus monspeliensis,Cistus,KNApSAcK
+297,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Cistus salvifolius,Cistus,KNApSAcK
+298,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Cistus incanus,Cistus,KNApSAcK
+299,C00048295,52670-94-7,"7,8-Dihydro-alpha-ionone",C13H20O2,208.14632988,Cistus creticus,Cistus,KNApSAcK
+300,C00048308,1460-73-7,Agarospirol,C15H26O,222.19836545,Cistus creticus,Cistus,KNApSAcK
+301,C00048312,4501-58-0,alpha-Campholenal,C10H16O,152.12011513,Cistus creticus,Cistus,KNApSAcK
+302,C00048319,6790-58-5,Ambrox,C16H28O,236.21401552,Cistus creticus,Cistus,KNApSAcK
+303,C00048327,37526-88-8,Benzyl tiglate,C12H14O2,190.09937969,Cistus creticus,Cistus,KNApSAcK
+304,C00048328,50277-34-4,beta-Calacorene,C15H20,200.15650064,Cistus creticus,Cistus,KNApSAcK
+305,C00048329,18252-44-3,beta-Copaene,C15H24,204.18780077,Cistus creticus,Cistus,KNApSAcK
+306,C00048331,138-87-4,beta-Terpineol,C10H18O,154.1357652,Cistus creticus,Cistus,KNApSAcK
+307,C00048351,147235-15-2,"Caryophylla-4(14),8(15)-dien-5alpha-ol",C15H24O,220.18271539,Cistus creticus,Cistus,KNApSAcK
+308,C00048365,500-02-7,Cryptone,C9H14O,138.10446507,Cistus creticus,Cistus,KNApSAcK
+309,C00048375,124-18-5,Decane,C10H22,142.1721507,Cistus creticus,Cistus,KNApSAcK
+310,C00048387,119120-23-9,"Eudesma-4(15),7-dien-1beta-ol",C15H24O,220.18271539,Cistus creticus,Cistus,KNApSAcK
+311,C00048432,124-76-5,Isoborneol,C10H18O,154.1357652,Cistus creticus,Cistus,KNApSAcK
+312,C00048434,317819-80-0,Isogermacrene D,C15H24,204.18780077,Cistus creticus,Cistus,KNApSAcK
+313,C00048437,6697-24-1,"Isopimara-8,15-diene",C20H32,272.25040102,Cistus creticus,Cistus,KNApSAcK
+314,C00048496,128-51-8,Nopyl acetate,C13H20O2,208.14632988,Cistus creticus,Cistus,KNApSAcK
+315,C00048497,564-20-5,Nor-ambreinolide,C16H26O2,250.19328007,Cistus creticus,Cistus,KNApSAcK
+316,C00048512,1686-61-9,"Pimara-8(14),15-diene",C20H32,272.25040102,Cistus creticus,Cistus,KNApSAcK
+317,C00048560,10486-19-8,Tridecanal,C13H26O,198.19836545,Cistus creticus,Cistus,KNApSAcK
+318,C00048561,629-50-5,Tridecane,C13H28,184.21910089,Cistus creticus,Cistus,KNApSAcK
+319,C00048963,928-94-9,cis-2-Hexenol,C6H12O,100.08881501,Cistus creticus,Cistus,KNApSAcK
+320,C00052902,108-94-1,Cyclohexanone,C6H10O,98.07316494,Cistus ladaniferus,Cistus,KNApSAcK
+321,C00053849,1197-07-5,trans-Carveol,C10H16O,152.12011513,Cistus creticus,Cistus,KNApSAcK
+322,C00054080,143986-30-5,"3,4-Dihydroxybenzoyl beta-D-xylopyranoside",C12H14O8,286.06886743,Cistus creticus,Cistus,KNApSAcK
+323,C00055601,30364-38-6,"1,1,6-Trimethyl-1,2-dihydronaphthalene",C13H16,172.12520051,Cistus creticus,Cistus,KNApSAcK
+324,C00055640,1653-30-1,2-Undecanol,C11H24O,172.18271539,Cistus creticus,Cistus,KNApSAcK
+325,C00056186,20085-13-6,"trans-Cadina-1,4-diene",C15H24,204.18780077,Cistus creticus,Cistus,KNApSAcK
+326,C00058171,65416-59-3,Vitispirane,C13H20O,192.15141526,Cistus creticus,Cistus,KNApSAcK
+327,C00058761,39028-58-5,"trans-Linalool 3,7-oxide",C10H18O2,170.13067982,Cistus creticus,Cistus,KNApSAcK
+328,C00058905,1010729-95-9,"(2S,4aR,8aS)-Decahydro-4a-methyl-8-methylene-2-(1-methylethyl)-1-naphthalenol",C15H26O,222.19836545,Cistus creticus,Cistus,KNApSAcK
+329,C00059203,1112919-80-8,6-epi-Shyobunol,C15H26O,222.19836545,Cistus creticus,Cistus,KNApSAcK
+330,C00059277,1149760-74-6,"3-[(6-Deoxy-alpha-L-mannopyranosyl)oxy]-2-(3,4-dimethoxyphenyl)-5,7-dihydroxy-4H-1-benzopyran-4-one",C23H24O11,476.13186161,Cistus creticus,Cistus,KNApSAcK
+331,C00059313,1164151-92-1,"(1S,4aS,8aS)-alpha-Ethenyl-1,4,4a,5,6,7,8,8a-octahydro-alpha,2,5,5,8a-pentamethyl-1-naphthalenepropanol",C20H34O,290.26096571,Cistus creticus,Cistus,KNApSAcK
+332,C00059530,126642-09-9,"[1R-(1alpha,4abeta,8aalpha)]-4-(1,4,4a,5,6,7,8,8a-Octahydro-2,5,5,8a-tetramethyl-1-naphthalenyl)-2-butanone",C18H30O,262.22966558,Cistus creticus,Cistus,KNApSAcK
+333,C00059944,143785-42-6,"1,11-Oxidocalamenene",C15H20O,216.15141526,Cistus creticus,Cistus,KNApSAcK
+334,C00060130,156258-51-4,"Drima-7,9(11)-diene",C15H24,204.18780077,Cistus creticus,Cistus,KNApSAcK
+335,C00060265,1653-31-2,2-Tridecanol,C13H28O,200.21401552,Cistus creticus,Cistus,KNApSAcK
+336,C00060305,168113-16-4,"(4aR,5S,8aS)-Decahydro-1,1,4a,5-tetramethyl-6-methylenenaphthalene",C15H26,206.20345083,Cistus creticus,Cistus,KNApSAcK
+337,C00060527,18402-83-0,(E)-Non-3-en-2-one,C9H16O,140.12011513,Cistus creticus,Cistus,KNApSAcK
+338,C00061079,25155-15-1,Cymene,C10H14,134.10955045,Cistus creticus,Cistus,KNApSAcK
+339,C00061391,31499-72-6,Dihydro-alpha-ionone,C13H22O,194.16706532,Cistus creticus,Cistus,KNApSAcK
+340,C00061818,4506-36-9,"1,2-Dihydro-1,5,8-trimethylnaphthalene",C13H16,172.12520051,Cistus creticus,Cistus,KNApSAcK
+341,C00061847,467429-53-4,"(3R,4aR,6aR,8S,10aS,10bR)-3-Ethenyldodecahydro-3,4a,7,7,10a-pentamethyl-1H-naphtho[2,1-b]pyran-8-yl acetate",C22H36O3,348.26644502,Cistus creticus,Cistus,KNApSAcK
+342,C00062013,51196-77-1,3beta-Hydroxymanoyl oxide,C20H34O2,306.25588033,Cistus creticus,Cistus,KNApSAcK
+343,C00062026,5153-92-4,Sclareol oxide,C18H30O,262.22966558,Cistus creticus,Cistus,KNApSAcK
+344,C00062648,66971-94-6,"4-[(1R,4aR,8aR)-Decahydro-5,5,8a-trimethyl-2-methylene-1-naphthalenyl]-2-butanone",C18H30O,262.22966558,Cistus creticus,Cistus,KNApSAcK
+345,C00062691,68676-86-8,trans-3-Undecen-2-one,C11H20O,168.15141526,Cistus creticus,Cistus,KNApSAcK
+346,C00062719,69671-13-2,Calamanene,C15H22,202.1721507,Cistus creticus,Cistus,KNApSAcK
+347,C00063220,864272-71-9,5-O-Galloylquinic acid,C14H16O10,344.07434673,Cistus creticus,Cistus,KNApSAcK
+0,C00022408,102867-64-1,"15-Hydroxy-7,13E-labdadien-17-oic acid",C20H32O3,320.23514489,Halimium viscosum,Halimium,KNApSAcK
+1,C00022409,102867-66-3,"15-Acetoxy-7,13E-labdadien-17-oic acid",C22H34O4,362.24570957,Halimium viscosum,Halimium,KNApSAcK
+2,C00023329,114359-99-8,"7alpha-Methoxy-8-labdene-3beta,15-diol",C21H38O3,338.28209508,Halimium viscosum,Halimium,KNApSAcK
+3,C00023330,114360-00-8,"3beta,15-Dihydroxy-8-labden-7-one",C20H34O3,322.25079495,Halimium viscosum,Halimium,KNApSAcK
+4,C00023331,131086-55-0,"3beta-Methoxy-8-labdene-7beta,15-diol",C21H38O3,338.28209508,Halimium viscosum,Halimium,KNApSAcK
+5,C00023388,102867-69-6,"14,15-Dinor-13-oxo-7-labden-17-oic acid",C18H28O3,292.20384476,Halimium viscosum,Halimium,KNApSAcK
+6,C00023418,,Methyl 15-acetoxy-7-labden-17-oate,C23H38O4,378.2770097,Halimium viscosum,Halimium,KNApSAcK
+7,C00023419,161114-68-7,Methyl 15-hydroxy-7-labden-17-oate,C21H36O3,336.26644502,Halimium viscosum,Halimium,KNApSAcK
+8,C00023420,,Methyl 15-cinnamoyloxy-7-labden-17-oate,C30H42O4,466.30830983,Halimium viscosum,Halimium,KNApSAcK
+9,C00023421,,Methyl 15-isobutyloxy-7-labden-17-oate,C25H42O4,406.30830983,Halimium viscosum,Halimium,KNApSAcK
+10,C00023422,,Methyl 15-isobutyloxy-7-labden-17-oate,C22H36O4,364.26135964,Halimium viscosum,Halimium,KNApSAcK
+11,C00023431,67988-04-9,"ent-14S,15-Dihydroxy-1(10),13(16)-halimadien-18-oic acid",C20H32O4,336.23005951,Halimium viscosum,Halimium,KNApSAcK
+12,C00023432,67987-94-4,"ent-14S,15-Dihydroxy-1(10),13(16)-halimadien-18-oic acid methyl ester",C21H34O4,350.24570957,Halimium viscosum,Halimium,KNApSAcK
+13,C00023433,67988-03-8,"ent-14R,15-Dihydroxy-1(10),13(16)-halimadien-18-oic acid methyl ester",C20H32O4,336.23005951,Halimium umbellatum,Halimium,KNApSAcK
+14,C00023440,128988-50-1,"ent-13,14-Epoxy-15-hydroxy-1(10)-halimen-18-oic acid",C20H32O4,336.23005951,Halimium viscosum,Halimium,KNApSAcK
+15,C00023446,70868-66-5,Hydrohalimic acid,C20H34O3,322.25079495,Halimium viscosum,Halimium,KNApSAcK
+16,C00023448,109181-77-3,"ent-15-Oxo-1(10),13E-halimadien-15-oic acid",C20H30O3,318.21949482,Halimium viscosum,Halimium,KNApSAcK
+17,C00023449,109163-62-4,"1(10),13E-Halimadiene-15,18-dioic acid",C20H30O4,334.21440945,Halimium viscosum,Halimium,KNApSAcK
+18,C00023450,109163-65-7,"ent-15-Oxo-1(10),13Z-halimadien-15-oic acid",C20H30O3,318.21949482,Halimium viscosum,Halimium,KNApSAcK
+19,C00023451,109163-61-3,"1(10),13Z-Halimadiene-15,18-dioic acid",C20H30O4,334.21440945,Halimium viscosum,Halimium,KNApSAcK
+20,C00023452,128988-51-2,"ent-13S-Hydroxy-14R,15-diacetoxy-1(10)-halimen-18-oic acid",C24H38O7,438.26175357,Halimium viscosum,Halimium,KNApSAcK
+21,C00023453,128988-52-3,"ent-13R,15-Dihydroxy-14S-acetoxy-1(10)-halimen-18-oic acid",C22H36O6,396.25118888,Halimium viscosum,Halimium,KNApSAcK
+22,C00023454,129097-54-7,"ent-13R-Hydroxy-14S,15-diacetoxy-1(10)-halimen-18-oic acid",C24H38O7,438.26175357,Halimium viscosum,Halimium,KNApSAcK
+23,C00023457,130837-97-7,Fregenedadiol,C20H32O2,304.24023027,Halimium viscosum,Halimium,KNApSAcK
+24,C00042010,215608-19-8,(4S)-2beta-Acetoxyvalparol-15-en-3-one,C22H34O3,346.25079495,Halimium viscosum,Halimium,KNApSAcK
+25,C00042118,215608-21-2,"3alpha-Hydroxyvalpara-4,15-dien-2-one",C20H30O2,302.2245802,Halimium viscosum,Halimium,KNApSAcK
+26,C00043101,131916-99-9,"Valpara-3(19),15-dien-2beta-ol",C20H32O,288.24531564,Halimium viscosum,Halimium,KNApSAcK
+27,C00043102,215608-20-1,"Valpara-3,15-dien-2beta-ol",C20H32O,288.24531564,Halimium viscosum,Halimium,KNApSAcK
+0,C00002151,484-29-7,Dictamine,C12H9NO2,199.06332854,Myrtopsis novae-caledoniae,Ledonia,KNApSAcK
+1,C00002159,524-15-2,gamma-Fagarine,C13H11NO3,229.07389323,Myrtopsis novae-caledoniae,Ledonia,KNApSAcK
+2,C00002189,50333-13-6,N-Methylflindersine,C15H15NO2,241.11027873,Myrtopsis novae-caledoniae,Ledonia,KNApSAcK
+3,C00002198,83-95-4,Skimmianine,C14H13NO4,259.08445791,Myrtopsis novae-caledoniae,Ledonia,KNApSAcK
+0,C00000184,2867-05-2,alpha-Thujene,C10H16,136.12520051,Petroselinum crispum,Linum,KNApSAcK
+1,C00000207,65-85-0,Benzoic acid,C7H6O2,122.03677944,Pteridium aquilinum,Linum,KNApSAcK
+2,C00000218,6894-38-8,(-)-Jasmonic acid,C12H18O3,210.12559444,Linum usitatissimum,Linum,KNApSAcK
+3,C00000297,66-97-7,Ficusin,C11H6O3,186.03169406,Petroselinum crispum,Linum,KNApSAcK
+4,C00000357,66-25-1,Hexanal,C6H12O,100.08881501,Petroselinum crispum,Linum,KNApSAcK
+5,C00000361,136845-17-5,OPC-4:0,C14H22O3,238.15689457,Linum usitatissimum,Linum,KNApSAcK
+6,C00000366,204135-86-4,3-Oxo-2-(2-entenyl)cyclopentaneoctanoic acid,C18H30O3,294.21949482,Linum usitatissimum,Linum,KNApSAcK
+7,C00000446,62653-85-4,(+)-Epijasmonic acid,C12H18O3,210.12559444,Linum usitatissimum,Linum,KNApSAcK
+8,C00000575,484-20-8,5-Methoxypsoralen,C12H8O4,216.04225874,Petroselinum crispum,Linum,KNApSAcK
+9,C00000575,484-20-8,5-Methoxypsoralen,C12H8O4,216.04225874,Petroselinum spp.,Linum,KNApSAcK
+10,C00000576,298-81-7,Xanthotoxin,C12H8O4,216.04225874,Petroselinum crispum,Linum,KNApSAcK
+11,C00000581,486-60-2,Bergaptol,C11H6O4,202.02660868,Petroselinum crispum,Linum,KNApSAcK
+12,C00000582,2009-24-7,Xanthotoxol,C11H6O4,202.02660868,Petroselinum crispum,Linum,KNApSAcK
+13,C00000583,482-27-9,Isopimpinellin,C13H10O5,246.05282343,Petroselinum crispum,Linum,KNApSAcK
+14,C00000584,13849-08-6,(+)-Marmesin,C14H14O4,246.08920894,Petroselinum crispum,Linum,KNApSAcK
+15,C00000587,81446-29-9,(-)-Pinoresinol,C20H22O6,358.14163844,Linum usitatissimum,Linum,KNApSAcK
+16,C00000603,83327-19-9,(-)-Lariciresinol,C20H24O6,360.1572885,Linum usitatissimum,Linum,KNApSAcK
+17,C00000604,29388-59-8,(-)-Secoisolariciresinol,C20H26O6,362.17293856,Linum usitatissimum,Linum,KNApSAcK
+18,C00000604,29388-59-8,(-)-Secoisolariciresinol,C20H26O6,362.17293856,Linum album,Linum,KNApSAcK
+19,C00000605,145265-02-7,(+)-Secoisolariciresinol,C20H26O6,362.17293856,Linum usitatissimum,Linum,KNApSAcK
+20,C00000606,580-72-3,(-)-Matairesinol,C20H22O6,358.14163844,Linum flavum var. compactum,Linum,KNApSAcK
+21,C00000606,580-72-3,(-)-Matairesinol,C20H22O6,358.14163844,Linum usitatissimum,Linum,KNApSAcK
+22,C00000610,518-28-5,(-)-Podophyllotoxin,C22H22O8,414.13146768,Linum album,Linum,KNApSAcK
+23,C00000610,518-28-5,(-)-Podophyllotoxin,C22H22O8,414.13146768,Linum boissieri,Linum,KNApSAcK
+24,C00000610,518-28-5,(-)-Podophyllotoxin,C22H22O8,414.13146768,Linum cariense,Linum,KNApSAcK
+25,C00000610,518-28-5,(-)-Podophyllotoxin,C22H22O8,414.13146768,Linum mucronatum ssp. armenum,Linum,KNApSAcK
+26,C00000610,518-28-5,(-)-Podophyllotoxin,C22H22O8,414.13146768,Linum flavum var. compactum,Linum,KNApSAcK
+27,C00000610,518-28-5,(-)-Podophyllotoxin,C22H22O8,414.13146768,Linum catharticum,Linum,KNApSAcK
+28,C00000614,458-35-5,Coniferyl alcohol,C10H12O3,180.07864425,Linum usitatissimum,Linum,KNApSAcK
+29,C00000619,97-53-0,Eugenol,C10H12O2,164.08372963,Petroselinum crispum,Linum,KNApSAcK
+30,C00000652,158932-33-3,(+)-Secoisolariciresinol diglucoside,C32H46O16,686.27858542,Linum usitatissimum,Linum,KNApSAcK
+31,C00000654,128443-52-7,(-)-5-Methoxypodophyllotoxin,C23H24O9,444.14203237,Linum cariense,Linum,KNApSAcK
+32,C00000654,128443-52-7,(-)-5-Methoxypodophyllotoxin,C23H24O9,444.14203237,Linum scabrellum,Linum,KNApSAcK
+33,C00000654,128443-52-7,(-)-5-Methoxypodophyllotoxin,C23H24O9,444.14203237,Linum album,Linum,KNApSAcK
+34,C00000654,128443-52-7,(-)-5-Methoxypodophyllotoxin,C23H24O9,444.14203237,Linum flavum,Linum,KNApSAcK
+35,C00000674,491-70-3,"5,7,3',4'-Tetrahydroxyflavone",C15H10O6,286.04773805,Linum austriacum subsp.glaucescens,Linum,KNApSAcK
+36,C00000674,491-70-3,"5,7,3',4'-Tetrahydroxyflavone",C15H10O6,286.04773805,Linum tenuifolium,Linum,KNApSAcK
+37,C00000674,491-70-3,"5,7,3',4'-Tetrahydroxyflavone",C15H10O6,286.04773805,Linum hirsutum subsp.anatolicum,Linum,KNApSAcK
+38,C00000701,17951-19-8,Justicidin B,C21H16O6,364.09468824,Linum austriacum,Linum,KNApSAcK
+39,C00000805,80-56-8,alpha-Pinene,C10H16,136.12520051,Petroselinum crispum,Linum,KNApSAcK
+40,C00000816,127-91-3,beta-Pinene,C10H16,136.12520051,Petroselinum crispum,Linum,KNApSAcK
+41,C00000823,138-86-3,Limonene,C10H16,136.12520051,Petroselinum crispum,Linum,KNApSAcK
+42,C00000839,13466-78-9,3-Carene,C10H16,136.12520051,Petroselinum crispum,Linum,KNApSAcK
+43,C00000843,3338-55-4,cis-beta-Ocimene,C10H16,136.12520051,Petroselinum crispum,Linum,KNApSAcK
+44,C00000853,123-35-3,beta-Myrcene,C10H16,136.12520051,Petroselinum crispum,Linum,KNApSAcK
+45,C00000856,99-96-7,4-hydroxybenzoic acid,C7H6O3,138.03169406,Linum hirsutum subsp.anatolicum,Linum,KNApSAcK
+46,C00000856,99-96-7,4-hydroxybenzoic acid,C7H6O3,138.03169406,Linum austriacum subsp.glaucescens,Linum,KNApSAcK
+47,C00000856,99-96-7,4-hydroxybenzoic acid,C7H6O3,138.03169406,Linum tenuifolium,Linum,KNApSAcK
+48,C00000861,586-62-9,alpha-Terpinolene,C10H16,136.12520051,Petroselinum crispum,Linum,KNApSAcK
+49,C00000862,3779-61-1,trans-beta-Ocimene,C10H16,136.12520051,Petroselinum crispum,Linum,KNApSAcK
+50,C00000982,480-41-1,Naringenin,C15H12O5,272.06847349,Linum austriacum subsp.glaucescens,Linum,KNApSAcK
+51,C00000982,480-41-1,Naringenin,C15H12O5,272.06847349,Linum hirsutum subsp.anatolicum,Linum,KNApSAcK
+52,C00000982,480-41-1,Naringenin,C15H12O5,272.06847349,Linum tenuifolium,Linum,KNApSAcK
+53,C00001019,26544-34-3,Apiin,C26H28O14,564.14790561,Petroselinum crispum,Linum,KNApSAcK
+54,C00001048,527-95-7,Herbacetin,C15H10O7,302.04265268,Linum usitatissimum,Linum,KNApSAcK
+55,C00001059,38953-85-4,Isovitexin,C21H20O10,432.10564686,Linum usitatissimum,Linum,KNApSAcK
+56,C00001078,28608-75-5,Orientin,C21H20O11,448.10056148,Linum usitatissimum,Linum,KNApSAcK
+57,C00001112,36465-64-2,beta-D-Apiose,C5H10O5,150.05282343,Petroselinum crispum,Linum,KNApSAcK
+58,C00001151,57-50-1,D-Sucrose,C12H22O11,342.11621155,Petroselinum crispum,Linum,KNApSAcK
+59,C00001203,138-59-0,Shikimic acid,C7H10O5,174.05282343,Pteridium aquilinum,Linum,KNApSAcK
+60,C00001228,544-63-8,Myristic acid,C14H28O2,228.20893014,Conioselinum vaginatum,Linum,KNApSAcK
+61,C00001232,112-80-1,Oleic acid,C18H34O2,282.25588033,Linum scabrellum,Linum,KNApSAcK
+62,C00001235,593-39-5,Petroselinic acid,C18H34O2,282.25588033,Petroselinum crispum,Linum,KNApSAcK
+63,C00001248,112-40-3,Dodecane,C12H26,170.20345083,Linum mucronatum,Linum,KNApSAcK
+64,C00001265,629-62-9,n-Pentadecane,C15H32,212.25040102,Linum mucronatum,Linum,KNApSAcK
+65,C00001283,55297-87-5,Falcarindiol,C17H24O2,260.17763001,Petroselinum crispum,Linum,KNApSAcK
+66,C00001356,498-59-9,L-Djenkolic acid,C7H14N2O4S2,254.03949841,Pithecollobium bubalinum,Linum,KNApSAcK
+67,C00001446,554-35-8,Linamarin,C10H17NO6,247.10558728,Linum usitatissimum,Linum,KNApSAcK
+68,C00001447,72229-40-4,Linustatin,C16H27NO11,409.15841071,Linum usitatissimum,Linum,KNApSAcK
+69,C00001448,534-67-8,Lotaustralin,C11H19NO6,261.12123735,Linum usitatissimum,Linum,KNApSAcK
+70,C00001450,72229-42-6,Neolinustatin,C17H29NO11,423.17406078,Linum usitatissimum,Linum,KNApSAcK
+71,C00001454,99-18-3,Prunasin,C14H17NO6,295.10558728,Pteridium aquilinum,Linum,KNApSAcK
+72,C00001869,3019-51-0,(S)-Isoboldine,C19H21NO4,327.14705817,Thalictrum collinum,Linum,KNApSAcK
+73,C00001948,466-61-5,Lycopodine,C16H25NO,247.19361443,Lycopodium carolinum,Linum,KNApSAcK
+74,C00002376,18719-76-1,Antirrhinin,C27H31O15.Cl,630.13514803,Linum grandiflorum,Linum,KNApSAcK
+75,C00002448,642-05-7,Alloimperatorin,C16H14O4,270.08920894,Selinum monnieri,Linum,KNApSAcK
+76,C00002450,523-50-2,Angelicin,C11H6O3,186.03169406,Selinum vaginatum,Linum,KNApSAcK
+77,C00002452,1892-56-4,Athamantin,C24H30O7,430.19915331,Athamantha oreoselinum,Linum,KNApSAcK
+78,C00002452,1892-56-4,Athamantin,C24H30O7,430.19915331,Athamanta oreoselinum,Linum,KNApSAcK
+79,C00002480,27303-26-0,Libanorin,C19H20O5,328.13107375,Peucedanum oreoselinum,Linum,KNApSAcK
+80,C00002490,737-52-0,Oxypeucedanin,C16H14O5,286.08412356,Petroselinum crispum,Linum,KNApSAcK
+81,C00002492,33044-93-8,Peucenidin,C21H22O7,386.13655306,Peucedanum oreoselinum,Linum,KNApSAcK
+82,C00002595,40505-27-9,4'-Demethylpodophyllotoxin,C21H20O8,400.11581762,Linum album,Linum,KNApSAcK
+83,C00002615,568-53-6,alpha-Peltatin,C21H20O8,400.11581762,Linum flavum var. compactum,Linum,KNApSAcK
+84,C00002615,568-53-6,alpha-Peltatin,C21H20O8,400.11581762,Linum album,Linum,KNApSAcK
+85,C00002656,123-31-9,"1,4-Benzenediol",C6H6O2,110.03677944,Petroselinum spp.,Linum,KNApSAcK
+86,C00002663,60-12-8,2-Phenylethanol,C8H10O,122.07316494,Petroselinum crispum,Linum,KNApSAcK
+87,C00002683,5463-22-9,Vanillin,C8H8O3,152.04734412,Conioselinum vaginatum,Linum,KNApSAcK
+88,C00002714,523-80-8,Apiol,C12H14O4,222.08920894,Petroselinum crispum,Linum,KNApSAcK
+89,C00002720,73263-62-4,5-O-Caffeoylshikimic acid,C16H16O8,336.08451749,Pteridium aquilinum,Linum,KNApSAcK
+90,C00002727,531-29-3,Coniferin,C16H22O8,342.13146768,Linum scabrellum,Linum,KNApSAcK
+91,C00002728,458-36-6,Coniferaldehyde,C10H10O3,178.06299419,Linum usitatissimum,Linum,KNApSAcK
+92,C00002739,487-11-6,Elemicin,C12H16O3,208.10994438,Petroselinum crispum,Linum,KNApSAcK
+93,C00002743,1135-24-6,Ferulic acid,C10H10O4,194.05790881,Linum hirsutum subsp.anatolicum,Linum,KNApSAcK
+94,C00002743,1135-24-6,Ferulic acid,C10H10O4,194.05790881,Linum tenuifolium,Linum,KNApSAcK
+95,C00002743,1135-24-6,Ferulic acid,C10H10O4,194.05790881,Linum austriacum subsp.glaucescens,Linum,KNApSAcK
+96,C00002762,607-91-0,Myristicin,C11H12O3,192.07864425,Conioselinum vaginatum,Linum,KNApSAcK
+97,C00002762,607-91-0,Myristicin,C11H12O3,192.07864425,Petroselinum crispum,Linum,KNApSAcK
+98,C00002776,530-59-6,Sinapic acid,C11H12O5,224.06847349,Linum hirsutum subsp.anatolicum,Linum,KNApSAcK
+99,C00002776,530-59-6,Sinapic acid,C11H12O5,224.06847349,Linum tenuifolium,Linum,KNApSAcK
+100,C00002776,530-59-6,Sinapic acid,C11H12O5,224.06847349,Linum austriacum subsp.glaucescens,Linum,KNApSAcK
+101,C00003029,79-92-5,Camphene,C10H16,136.12520051,Petroselinum crispum,Linum,KNApSAcK
+102,C00003040,99-87-6,p-Cymene,C10H14,134.10955045,Petroselinum crispum,Linum,KNApSAcK
+103,C00003051,99-83-2,alpha-Phellandrene,C10H16,136.12520051,Petroselinum crispum,Linum,KNApSAcK
+104,C00003060,99-86-5,alpha-Terpinene,C10H16,136.12520051,Petroselinum crispum,Linum,KNApSAcK
+105,C00003061,99-85-4,gamma-Terpinene,C10H16,136.12520051,Petroselinum crispum,Linum,KNApSAcK
+106,C00003109,465-28-1,Carotol,C15H26O,222.19836545,Petroselinum crispum,Linum,KNApSAcK
+107,C00003110,87-44-5,beta-Caryophyllene,C15H24,204.18780077,Petroselinum crispum,Linum,KNApSAcK
+108,C00003118,3856-25-5,alpha-Copaene,C15H24,204.18780077,Petroselinum crispum,Linum,KNApSAcK
+109,C00003428,24034-73-9,"(E,E,E)-Geranylgeraniol",C20H34O,290.26096571,Linum usitatissimum,Linum,KNApSAcK
+110,C00003474,5947-49-9,Podocarpic acid,C17H22O3,274.15689457,Ferula pseudooreoselinum,Linum,KNApSAcK
+111,C00003650,469-38-5,Cycloartenol,C30H50O,426.38616622,Linum usitatissimum,Linum,KNApSAcK
+112,C00003651,3604-87-3,Ecdysone,C27H44O6,464.31378914,Pteridium aquilinum,Linum,KNApSAcK
+113,C00003667,13408-56-5,Ponasterone A,C27H44O6,464.31378914,Pteridium aquilinum var.latiusculum,Linum,KNApSAcK
+114,C00003670,18089-44-6,Pterosterone,C27H44O7,480.30870376,Pteridium aquilinum var.latiusculum,Linum,KNApSAcK
+115,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Pteridium aquilinum,Linum,KNApSAcK
+116,C00003674,83-48-7,beta-Stigmasterol,C29H48O,412.37051615,Linum scabrellum,Linum,KNApSAcK
+117,C00003737,638-95-9,alpha-Amyrin,C30H50O,426.38616622,Linum scabrellum,Linum,KNApSAcK
+118,C00004175,86546-87-4,Apigenin 7-(6''-malonylglucoside),C24H22O13,518.10604079,Petroselinum crispum,Linum,KNApSAcK
+119,C00004281,506410-53-3,Luteolin 7-apiosyl-(1->2)-glucoside,C26H28O15,580.14282023,Petroselinum crispum,Linum,KNApSAcK
+120,C00004342,33579-63-4,Luteolin 3'-methyl ether 7-apiosyl-(1->2)-glucoside,C27H30O15,594.15847029,Petroselinum hortense,Linum,KNApSAcK
+121,C00004353,,Luteolin 3'-methyl ether 7-malonylglucoside,C25H24O14,548.11660548,Petroselinum crispum,Linum,KNApSAcK
+122,C00004375,27637-35-0,"Luteolin 3',4'-dimethyl ether 7-rhamnoside",C23H24O10,460.13694699,Linum maritimum,Linum,KNApSAcK
+123,C00004575,1429-28-3,"3,7,8,4'-Tetrahydroxyflavone",C15H10O6,286.04773805,Geranium collinum,Linum,KNApSAcK
+124,C00004631,117-39-5,Quercetin,C15H10O7,302.04265268,Linum hirsutum subsp.anatolicum,Linum,KNApSAcK
+125,C00004631,117-39-5,Quercetin,C15H10O7,302.04265268,Linum tenuifolium,Linum,KNApSAcK
+126,C00004631,117-39-5,Quercetin,C15H10O7,302.04265268,Linum austriacum subsp.glaucescens,Linum,KNApSAcK
+127,C00005138,480-10-4,Astragalin,C21H20O11,448.10056148,Pteridium aquilinum,Linum,KNApSAcK
+128,C00005143,34157-80-7,Kaempferol 5-glucoside,C21H20O11,448.10056148,Pteridium aquilinum,Linum,KNApSAcK
+129,C00005149,16290-07-6,Kaempferol 7-O-beta-D-glucopyranoside,C21H20O11,448.10056148,Linum usitatissimum,Linum,KNApSAcK
+130,C00005373,482-35-9,Hirsutrin,C21H20O12,464.09547611,Pteridium aquilinum,Linum,KNApSAcK
+131,C00005410,171828-58-3,Quercetin 3-laminaribioside,C27H30O17,626.14829954,Pteridium aquilinum,Linum,KNApSAcK
+132,C00005413,153-18-4,Quercetin 3-rutinoside,C27H30O16,610.15338491,Linum austriacum subsp.glaucescens,Linum,KNApSAcK
+133,C00005413,153-18-4,Quercetin 3-rutinoside,C27H30O16,610.15338491,Linum tenuifolium,Linum,KNApSAcK
+134,C00005413,153-18-4,Quercetin 3-rutinoside,C27H30O16,610.15338491,Linum hirsutum subsp.anatolicum,Linum,KNApSAcK
+135,C00005545,171828-59-4,Isorhamnetin 3-laminaribioside,C28H32O17,640.1639496,Pteridium aquilinum,Linum,KNApSAcK
+136,C00005556,6758-51-6,"Isorhamnetin 3,7-di-O-beta-glucopyranoside",C28H32O17,640.1639496,Petroselinum crispum,Linum,KNApSAcK
+137,C00005851,20316-62-5,Kaempferol 3-O-beta-D-(6''-E-p-coumaroyl)glucopyranoside,C30H26O13,594.13734092,Pteridium aquilinum,Linum,KNApSAcK
+138,C00006159,4261-30-7,"Isoorientin 7,3',4'-trimethyl ether",C24H26O11,490.14751167,Linum maritimum,Linum,KNApSAcK
+139,C00006204,29432-29-9,Orientin 7-O-rhamnoside,C27H30O15,594.15847029,Linum usitatissimum,Linum,KNApSAcK
+140,C00006231,29428-58-8,Lucenin 2,C27H30O16,610.15338491,Linum usitatissimum,Linum,KNApSAcK
+141,C00006300,38890-93-6,Linoside B,C30H36O15,636.20542048,Linum maritimum,Linum,KNApSAcK
+142,C00006307,39040-82-9,Linoside A,C32H38O16,678.21598517,Linum maritimum,Linum,KNApSAcK
+143,C00006410,29432-27-7,"Lucenin-2,7-O-rhamnoside",C33H40O20,756.21129372,Linum usitatissimum,Linum,KNApSAcK
+144,C00006703,68735-95-5,Vincanin B,C27H31O16,611.16120995,Linum grandiflorum,Linum,KNApSAcK
+145,C00006712,164739-17-7,Delphinidin 3-(2G-xylosylrutinoside),C32H39O20,743.20346869,Linum grandiflorum,Linum,KNApSAcK
+146,C00007078,72247-78-0,Desmethylisoxanthohumol,C20H20O4,324.13615913,Helichrysum felinum,Linum,KNApSAcK
+147,C00007190,487-36-5,(+)-Pinoresinol,C20H22O6,358.14163844,Linum scabrellum,Linum,KNApSAcK
+148,C00007190,487-36-5,(+)-Pinoresinol,C20H22O6,358.14163844,Linum usitatissimum,Linum,KNApSAcK
+149,C00007208,518-29-6,(-)-beta-Peltatin,C22H22O8,414.13146768,Linum flavum var. compactum,Linum,KNApSAcK
+150,C00007208,518-29-6,(-)-beta-Peltatin,C22H22O8,414.13146768,Linum album,Linum,KNApSAcK
+151,C00007242,495-61-4,beta-Bisabolene,C15H24,204.18780077,Petroselinum crispum,Linum,KNApSAcK
+152,C00007247,463-40-1,alpha-Linolenic acid,C18H30O2,278.2245802,Linum usitatissimum,Linum,KNApSAcK
+153,C00007452,22372-29-8,Sucrose 6-phosphate,C12H23O14P,422.08254194,Petroselinum crispum,Linum,KNApSAcK
+154,C00007453,33880-83-0,beta-Elemene,C15H24,204.18780077,Petroselinum crispum,Linum,KNApSAcK
+155,C00007535,122-78-1,Benzeneacetaldehyde,C8H8O,120.05751488,Petroselinum crispum,Linum,KNApSAcK
+156,C00008235,14117-54-5,Selinone,C20H20O5,340.13107375,Selinum vaginatum,Linum,KNApSAcK
+157,C00008309,85563-76-4,Agestricin D,C18H18O7,346.10525293,Chromolaena heteroclinum,Linum,KNApSAcK
+158,C00010765,30164-93-9,Jasminin,C26H38O12,542.23632668,Jasminum primulinum,Linum,KNApSAcK
+159,C00010812,120749-18-0,"1,2:3,4-Diepoxy-p-menth-8-ene",C10H14O2,166.09937969,Petroselinum crispum,Linum,KNApSAcK
+160,C00010819,120749-17-9,"1-Methyl-4-(1-methylethenyl)-2,3-dioxabicyclo[2.2.2]oct-5-ene",C10H14O2,166.09937969,Petroselinum crispum,Linum,KNApSAcK
+161,C00010872,555-10-2,beta-Phellandrene,C10H16,136.12520051,Petroselinum crispum,Linum,KNApSAcK
+162,C00010905,1195-32-0,4-Isopropenyl-1-methylbenzene,C10H12,132.09390038,Petroselinum crispum,Linum,KNApSAcK
+163,C00010907,18368-95-1,"p-Mentha-1,3,8-triene",C10H14,134.10955045,Petroselinum crispum,Linum,KNApSAcK
+164,C00010907,18368-95-1,"p-Mentha-1,3,8-triene",C10H14,134.10955045,Petroselinum sativum,Linum,KNApSAcK
+165,C00010981,55568-77-9,Ferulol,C10H14O2,166.09937969,Selinum carvifolium,Linum,KNApSAcK
+166,C00010981,55568-77-9,Ferulol,C10H14O2,166.09937969,Selinum spp.,Linum,KNApSAcK
+167,C00010984,28333-41-7,"3-Hydroxy-4,6,6-trimethyl-1,4-Cyclohexadiene-1-carboxaldehyde 4-hydroxy-3-methylcrotonate acetate",C17H22O5,306.14672381,Selinum carvifolium,Linum,KNApSAcK
+168,C00010985,33579-66-7,"1,1,5-Trimethyl-2-formyl-4-(E)-3-hydroxymethyl-2-butenoyloxy)-2,5-cyclohexadiene",C15H20O4,264.13615913,Selinum carvifolium,Linum,KNApSAcK
+169,C00010993,34143-99-2,"(+)-5-Hydroxy-4,6,6-trimethyl-1,3-cyclohexadiene-1-carboxaldehyde",C10H14O2,166.09937969,Selinum carvifolium,Linum,KNApSAcK
+170,C00012012,29873-99-2,(-)-gamma-Elemene,C15H24,204.18780077,Petroselinum crispum,Linum,KNApSAcK
+171,C00012014,5951-67-7,alpha-Elemene,C15H24,204.18780077,Petroselinum crispum,Linum,KNApSAcK
+172,C00012959,51943-81-8,Decipienin B,C20H26O6,362.17293856,Melanoselinum decipiens,Linum,KNApSAcK
+173,C00013064,51848-01-2,(+)-Decipienin A,C20H24O5,344.16237388,Melanoselinum decipiens,Linum,KNApSAcK
+174,C00013742,205876-37-5,Kaempferol 7-rhamnoside-4'-glucoside,C27H30O15,594.15847029,Pteridium aquilinum,Linum,KNApSAcK
+175,C00013773,190328-43-9,Kaempferol 3-(6''-caffeoylglucoside),C30H26O14,610.13225554,Pteridium aquilinum,Linum,KNApSAcK
+176,C00013774,185066-55-1,Kaempferol 3-(5''-feruloylapioside),C30H26O13,594.13734092,Pteridium aquilinum,Linum,KNApSAcK
+177,C00013905,194934-83-3,Quercetin 7-methyl ether 3-laminaribioside,C28H32O17,640.1639496,Pteridium aquilinum,Linum,KNApSAcK
+178,C00018789,27259-98-9,Deoxynybomycin,C16H14N2O3,282.10044233,Streptomyces hyalinum n. sp.,Linum,KNApSAcK
+179,C00019308,474-58-8,3-O-beta-D-Glucopyranosyl sitosterol,C35H60O6,576.43898965,Pteridium aquilinum,Linum,KNApSAcK
+180,C00020150,19435-97-3,(-)-delta-Cadinol,C15H26O,222.19836545,Petroselinum crispum,Linum,KNApSAcK
+181,C00020810,53023-32-8,Dihydropicridin,C15H20O4,264.13615913,Picridium crystallinum,Linum,KNApSAcK
+182,C00020811,30436-69-2,Picridin,C15H18O4,262.12050906,Picridium crystallinum,Linum,KNApSAcK
+183,C00021410,11053-21-7,Vaginatin,C20H30O4,334.21440945,Selinum vaginatum,Linum,KNApSAcK
+184,C00021410,11053-21-7,Vaginatin,C20H30O4,334.21440945,Petroselinum crispum,Linum,KNApSAcK
+185,C00021448,87625-62-5,Ptaquiloside,C20H30O8,398.19406794,Pteridium aquilinum,Linum,KNApSAcK
+186,C00021493,35910-16-8,Pterosin A,C15H20O3,248.1412445,Pteridium aquilinum,Linum,KNApSAcK
+187,C00021494,35910-15-7,Pteroside A,C21H30O8,410.19406794,Pteris aquilinum,Linum,KNApSAcK
+188,C00021494,35910-15-7,Pteroside A,C21H30O8,410.19406794,Pteridium aquilinum,Linum,KNApSAcK
+189,C00021495,35943-38-5,Pteroside D,C21H30O8,410.19406794,Pteridium aquilinum,Linum,KNApSAcK
+190,C00021502,39004-41-6,Hypolepin A,C15H19ClO,250.11244294,Pteridium aquilinum,Linum,KNApSAcK
+191,C00021503,41411-02-3,Pterosin J,C14H17ClO2,252.0917075,Pteridium aquilinum var.latiusculum,Linum,KNApSAcK
+192,C00021504,41411-03-4,Pterosin K,C15H19ClO2,266.10735756,Pteridium aquilinum,Linum,KNApSAcK
+193,C00021508,52715-92-1,Pteroside M,C20H28O8,396.17841787,Pteridium aquilinum,Linum,KNApSAcK
+194,C00021509,35964-50-2,Pterosin N,C14H18O3,234.12559444,Pteridium aquilinum,Linum,KNApSAcK
+195,C00021510,54854-88-5,Pteroside P,C20H28O8,396.17841787,Pteridium aquilinum,Linum,KNApSAcK
+196,C00021511,56227-01-1,Pterosin T,C14H18O4,250.12050906,Pteridium aquilinum,Linum,KNApSAcK
+197,C00022137,72776-48-8,"2,10-Dimethyl-7-(3-methylbutyl)-6-methylenedodecane",C20H36O2,308.27153039,Peucedanum oreoselinum,Linum,KNApSAcK
+198,C00022181,63147-18-2,Hebeclinolide,C20H24O4,328.16745925,Hebeclinum macrophyllum,Linum,KNApSAcK
+199,C00024620,88200-01-5,(-)-Chelidonine,C20H19NO5,353.12632273,Glaucium vitellinum Boiss.et Buhse,Linum,KNApSAcK
+200,C00024623,476-32-4,(+)-Chelidonine,C20H19NO5,353.12632273,Glaucium vitellinum Boiss.et Buhse,Linum,KNApSAcK
+201,C00025372,6793-40-4,Acetylacrifoline,C18H25NO3,303.18344367,Lycopodium carolinum (Lawalree) Symoens,Linum,KNApSAcK
+202,C00025375,102418-32-6,Acetyllycoclavine,C20H31NO4,349.22530849,Lycopodium carolinum (Lawalree)Symoens,Linum,KNApSAcK
+203,C00025376,561-15-9,alpha-Lofoline,C18H29NO3,307.2147438,Lycopodium carolinum (Lawalree)Symoens,Linum,KNApSAcK
+204,C00025382,23768-74-3,Dihydrolycopodine,C16H27NO,249.20926449,Lycopodium carolinum,Linum,KNApSAcK
+205,C00025384,7096-84-6,Flabelliformine,C16H25NO2,263.18852905,Lycopodium carolinum (Lawalree) Symoens,Linum,KNApSAcK
+206,C00025385,6899-89-4,Flabelline,C18H28N2O,288.22016353,Lycopodium carolinum (Lawalree) Symoens,Linum,KNApSAcK
+207,C00025389,6900-92-1,Lycodoline,C16H25NO2,263.18852905,Lycopodium carolinum,Linum,KNApSAcK
+208,C00025390,7163-08-8,Lycofoline,C16H25NO2,263.18852905,Lycopodium carolinum (Lawalree) Symoens,Linum,KNApSAcK
+209,C00025395,21061-90-5,12-Epilycodoline,C16H25NO2,263.18852905,Lycopodium carolinum (Lawalree) Symoens,Linum,KNApSAcK
+210,C00025396,20084-82-6,Serratidine,C16H23NO2,261.17287899,Lycopodium carolinum (Lawalree)Symoens,Linum,KNApSAcK
+211,C00026150,2934-97-6,(+-)-Tetrahydropalmatine,C21H25NO4,355.17835829,Gloucium vitellinum Boiss and Buhse,Linum,KNApSAcK
+212,C00027043,351417-15-7,Cyclolinopeptide F,C55H73N9O10S2,1083.49218108,Linum usitatissimum,Linum,KNApSAcK
+213,C00027044,351417-16-8,Cyclolinopeptide G,C56H75N9O10S2,1097.50783114,Linum usitatissimum,Linum,KNApSAcK
+214,C00027046,351417-17-9,Cyclolinopeptide H,C56H75N9O9S2,1081.51291652,Linum usitatissimum,Linum,KNApSAcK
+215,C00027048,351417-18-0,Cyclolinopeptide I,C55H73N9O9S2,1067.49726646,Linum usitatissimum,Linum,KNApSAcK
+216,C00027398,387868-69-1,Javaberine A,C24H23NO6,421.15253747,Talinum paniculatum,Linum,KNApSAcK
+217,C00027399,387868-70-4,Javaberine B,C24H23NO6,421.15253747,Talinum paniculatum,Linum,KNApSAcK
+218,C00027864,18834-79-2,Anhydrolycodoline,C16H23NO,245.17796436,Lycopodium carolinum,Linum,KNApSAcK
+219,C00027941,115566-02-4,Bistramide A,C40H68N2O8,704.49756716,Lissoclinum bistratum,Linum,KNApSAcK
+220,C00027942,160568-15-0,Bistramide B,C40H70N2O8,706.51321723,Lissoclinum bistratum,Linum,KNApSAcK
+221,C00027943,160568-16-1,Bistramide C,C40H66N2O8,702.4819171,Lissoclinum bistratum,Linum,KNApSAcK
+222,C00027944,155660-91-6,Bistramide D,C40H70N2O8,706.51321723,Lissoclinum bistratum,Linum,KNApSAcK
+223,C00027945,155660-92-7,Bistramide K,C40H70N2O8,706.51321723,Lissoclinum bistratum,Linum,KNApSAcK
+224,C00028399,155885-65-7,Isoeudistomin U,C19H15N3,285.1265975,Lissoclinum fragile,Linum,KNApSAcK
+225,C00028476,158761-12-7,Lissoclin A,C23H23N3O2S,405.15109773,Lissoclinum sp.,Linum,KNApSAcK
+226,C00028477,158761-13-8,Lissoclin B,C23H21N3O2S,403.13544767,Lissoclinum sp.,Linum,KNApSAcK
+227,C00028478,309963-08-4,Lissoclinamide 10,C36H49N7O5S2,723.32365919,Lissoclinum patella,Linum,KNApSAcK
+228,C00028479,120853-17-0,Lissoclinamide 5,C38H41N7O5S2,739.26105893,Lissoclinum patella,Linum,KNApSAcK
+229,C00028480,309963-07-3,Lissoclinamide 9,C35H45N7O5S2,707.29235906,Lissoclinum patella,Linum,KNApSAcK
+230,C00028481,496909-77-4,Lissoclinidine,C20H17N3O2S,363.10414754,Lissoclinum notti,Linum,KNApSAcK
+231,C00028807,81120-73-2,Patellamide A,C35H50N8O6S2,742.32947285,Lissoclinum patella,Linum,KNApSAcK
+232,C00028808,81098-23-9,Patellamide B,C38H48N8O6S2,776.31382278,Lissoclinum patella,Linum,KNApSAcK
+233,C00028809,81120-74-3,Patellamide C,C37H46N8O6S2,762.29817272,Lissoclinum patella,Linum,KNApSAcK
+234,C00028810,218916-91-7,Patellamide G,C38H50N8O7S2,794.32438747,Lissoclinum patella,Linum,KNApSAcK
+235,C00029163,218916-92-8,Ulithiacyclamide E,C35H44N8O8S4,832.21649336,Lissoclinum patella,Linum,KNApSAcK
+236,C00029164,218916-93-9,Ulithiacyclamide F,C35H42N8O7S4,814.20592868,Lissoclinum patella,Linum,KNApSAcK
+237,C00029165,218916-94-0,Ulithiacyclamide G,C35H42N8O7S4,814.20592868,Lissoclinum patella,Linum,KNApSAcK
+238,C00029177,122093-14-5,Varamine A,C22H23N3O2S,393.15109773,Lissoclinum vareau,Linum,KNApSAcK
+239,C00029178,122093-16-7,Varamine B,C21H21N3O2S,379.13544767,Lissoclinum vareau,Linum,KNApSAcK
+240,C00029318,34175-96-7,(2R)-Pterosin B,C14H18O2,218.13067982,Pteridium aquilinum,Linum,KNApSAcK
+241,C00029544,562-74-3,4-Terpineol,C10H18O,154.1357652,Zingiber corallinum,Linum,KNApSAcK
+242,C00029568,62312-55-4,5-Hydroxypyrrolidin-2-one,C4H7NO2,101.04767848,Pteridium aquilinum,Linum,KNApSAcK
+243,C00029674,98-55-5,alpha-Terpineol,C10H18O,154.1357652,Petroselinum crispum,Linum,KNApSAcK
+244,C00029811,100-51-6,Benzenemethanol,C7H8O,108.05751488,Linum mucronatum,Linum,KNApSAcK
+245,C00030409,123-94-4,"2,3-Dihydroxypropyl octadecanoate",C21H42O4,358.30830983,Pteridium aquilinum,Linum,KNApSAcK
+246,C00031108,35910-17-9,Pteroside C,C20H28O8,396.17841787,Pteridium aquilinum,Linum,KNApSAcK
+247,C00031258,3387-41-5,4(10)-Thujene,C10H16,136.12520051,Petroselinum crispum,Linum,KNApSAcK
+248,C00031523,79803-28-4,1alpha-Angeloyloxycarotol,C20H32O3,320.23514489,Petroselinum crispum,Linum,KNApSAcK
+249,C00031617,215319-51-0,Balanophonin 4-O-beta-D-glucopyranoside,C26H30O11,518.1788118,Linum usitatissimum L.,Linum,KNApSAcK
+250,C00031633,120881-21-2,Bistratamide B,C27H32N6O4S2,568.19264501,Lissoclinum bistratum,Linum,KNApSAcK
+251,C00033081,19427-82-8,Jatamansin,C19H20O5,328.13107375,Selinum vaginatum,Linum,KNApSAcK
+252,C00034452,100-52-7,Benzaldehyde,C7H6O,106.04186481,Petroselinum crispum,Linum,KNApSAcK
+253,C00034487,14277-97-5,Domoic acid,C15H21NO6,311.13688741,Alsidium corallinum,Linum,KNApSAcK
+254,C00034763,3777-69-3,2-Pentylfuran,C9H14O,138.10446507,Petroselinum crispum,Linum,KNApSAcK
+255,C00035778,108-38-3,"1,3-Dimethylbenzene",C8H10,106.07825032,Petroselinum crispum,Linum,KNApSAcK
+256,C00035879,629-59-4,n-Tetradecane,C14H30,198.23475096,Linum mucronatum,Linum,KNApSAcK
+257,C00036983,33302-55-5,Cyclolinopeptide A,C57H85N9O9,1039.64702538,Linum usitatissimum,Linum,KNApSAcK
+258,C00036984,193139-41-2,Cyclolinopeptide B,C56H83N9O9S,1057.60344605,Linum usitatissimum,Linum,KNApSAcK
+259,C00036985,222527-65-3,Cyclolinopeptide C,C56H83N9O10S,1073.59836067,Linum usitatissimum,Linum,KNApSAcK
+260,C00036986,222527-66-4,Cyclolinopeptide D,C57H77N9O9S,1063.55649585,Linum usitatissimum,Linum,KNApSAcK
+261,C00036987,222527-67-5,Cyclolinopeptide E,C51H76N8O9S,976.54559681,Linum usitatissimum,Linum,KNApSAcK
+262,C00037521,138937-68-5,Mulinenic acid,C20H30O3,318.21949482,Mulinum spinosum (Cav.) Pers,Linum,KNApSAcK
+263,C00037522,182353-88-4,Mulinolic acid,C20H32O3,320.23514489,Mulinum spinosum (Cav.) Pers,Linum,KNApSAcK
+264,C00039633,541511-99-3,Lissoclinotoxin E,C26H38N2O4S4,570.17144064,Lissoclinum cf. badium,Linum,KNApSAcK
+265,C00039634,541512-02-1,Lissoclinotoxin F,C26H38N2O4S2,506.22729918,Lissoclinum cf. badium,Linum,KNApSAcK
+266,C00039749,253351-27-8,Mesembryanthin,C44H50O25,978.26411715,Mesembryanthemum crystallinum L.,Linum,KNApSAcK
+267,C00040443,145826-48-8,Talinumoside I,C43H66O16,838.43508606,Talinum triangulare,Linum,KNApSAcK
+268,C00041306,915792-04-0,Acanthopanaxoside C,C41H64O13,764.43469213,Pteridium aquilinum,Linum,KNApSAcK
+269,C00045765,148717-91-3,Chlorolissoclimide,C20H30ClNO4,383.18633616,Lissoclinum sp.,Linum,KNApSAcK
+270,C00045840,138935-82-7,Dichlorolissoclimide,C20H29Cl2NO4,417.14736384,Lissoclinum sp.,Linum,KNApSAcK
+271,C00045995,368421-34-5,Haterumaimide F,C20H30ClNO4,383.18633616,Lissoclinum sp.,Linum,KNApSAcK
+272,C00045996,368421-35-6,Haterumaimide G,C20H28ClNO4,381.1706861,Lissoclinum sp.,Linum,KNApSAcK
+273,C00045997,368421-36-7,Haterumaimide H,C20H28ClNO4,381.1706861,Lissoclinum sp.,Linum,KNApSAcK
+274,C00045998,368421-37-8,Haterumaimide I,C20H28ClNO4,381.1706861,Lissoclinum sp.,Linum,KNApSAcK
+275,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Pteridium aquilinum,Linum,KNApSAcK
+276,C00048365,500-02-7,Cryptone,C9H14O,138.10446507,Petroselinum crispum,Linum,KNApSAcK
+277,C00048692,1103634-55-4,Diplamine B,C18H15N3OS,321.09358285,Lissoclinum cf.badium,Linum,KNApSAcK
+278,C00048737,1103634-52-1,Isolissoclinotoxin B,C11H15NO2S2,257.05442019,Lissoclinum cf.badium,Linum,KNApSAcK
+279,C00048752,1103634-58-7,Lissoclinidine B,C18H15N3OS,321.09358285,Lissoclinum cf.badium,Linum,KNApSAcK
+280,C00050644,83-33-0,1-Indanone,C9H8O,132.05751488,Pteridium aquilinum var.latiusculum,Linum,KNApSAcK
+281,C00050961,18312-21-5,Isomyristicin,C11H12O3,192.07864425,Conioselinum vaginatum,Linum,KNApSAcK
+282,C00051275,4431-01-0,Ligustilide,C12H14O2,190.09937969,Conioselinum vaginatum,Linum,KNApSAcK
+283,C00051588,108-88-3,Toluene,C7H8,92.06260026,Petroselinum crispum,Linum,KNApSAcK
+284,C00052006,73-31-4,Melatonin,C13H16N2O2,232.12117777,Linum usitatissimum,Linum,KNApSAcK
+285,C00052771,14122-42-0,7-Octadecenoic acid,C18H34O2,282.25588033,Petroselinum sativum,Linum,KNApSAcK
+286,C00054157,6118-79-2,6-Deoxy-2-O-alpha-D-galactopyranuronosyl-L-mannose,C12H20O11,340.10056148,Linum usitatissimum,Linum,KNApSAcK
+287,C00054158,15361-99-6,"1-Allyl-2,3,4,5-tetramethoxybenzene",C13H18O4,238.12050906,Petroselinum spp.,Linum,KNApSAcK
+288,C00054824,54797-11-4,"2,3-Dihydro-2-hydroxy-6-(2-hydroxyethyl)-2,5,7-trimethyl-1H-inden-1-one",C14H18O3,234.12559444,Pteridium aquilinum,Linum,KNApSAcK
+289,C00054984,618432-62-5,Cyclolinopeptide K,C56H83N9O11S,1089.59327529,Linum usitatissimum,Linum,KNApSAcK
+290,C00055534,52528-78-6,"2,3-Dihydro-2,4,6-trimethyl-3-oxo-1H-indene-5-acetic acid",C14H16O3,232.10994438,Pteridium aquilinum,Linum,KNApSAcK
+291,C00055535,34175-98-9,"6-(2-Chloroethyl)-2,3-dihydro-2,5,7-trimethyl-1H-inden-1-one",C14H17ClO,236.09679287,Pteridium aquilinum,Linum,KNApSAcK
+292,C00056027,638-66-4,Octadecanal,C18H36O,268.27661577,Linum mucronatum,Linum,KNApSAcK
+293,C00056343,10139-06-7,Linatine,C10H17N3O5,259.11682068,Linum usitatissimum,Linum,KNApSAcK
+294,C00056903,1256840-98-8,7-Oxoorobanchyl acetate,C21H22O8,402.13146768,Linum usitatissimum,Linum,KNApSAcK
+295,C00056904,1256840-96-6,7-Oxoorobanchol,C19H20O7,360.12090299,Linum usitatissimum,Linum,KNApSAcK
+296,C00057225,20117-33-3,Ponasteroside A,C33H54O11,626.36661257,Pteridium aquilinum,Linum,KNApSAcK
+297,C00057335,29774-74-1,Pteroside B,C20H28O7,380.18350325,Pteridium aquilinum,Linum,KNApSAcK
+298,C00057369,35943-37-4,Pteroside Z,C21H30O7,394.19915331,Pteridium aquilinum,Linum,KNApSAcK
+299,C00057378,38072-88-7,Pterolactam,C5H9NO2,115.06332854,Pteridium aquilinum,Linum,KNApSAcK
+300,C00057433,54854-89-6,Pterosin O,C15H20O2,232.14632988,Pteridium aquilinum,Linum,KNApSAcK
+301,C00057644,90852-99-6,Ptelatoside B,C20H28O10,428.16824712,Pteridium aquilinum,Linum,KNApSAcK
+302,C00057645,90899-20-0,Ptelatoside A,C19H26O10,414.15259705,Pteridium aquilinum,Linum,KNApSAcK
+303,C00057724,98755-18-1,Ptelatoside C,C19H26O10,414.15259705,Pteridium aquilinum,Linum,KNApSAcK
+304,C00058082,3296-43-3,Tripetroselinin,C57H104O6,884.78329105,Petroselinum spp.,Linum,KNApSAcK
+305,C00059062,106-42-3,p-Xylene,C8H10,106.07825032,Petroselinum crispum,Linum,KNApSAcK
+306,C00063904,147742-22-1,Hazaleanin A,C39H50O17,790.30480017,Linum usitatissimum,Linum,KNApSAcK
+307,C00063925,152574-10-2,Linusitamarin,C17H22O9,370.1263823,Linum usitatissimum,Linum,KNApSAcK
+308,C00064240,26764-26-1,Octadecenoic acid,C18H34O2,282.25588033,Linum scabrellum,Linum,KNApSAcK
+309,C00064285,33908-68-8,Apigenin glucoside,C21H20O10,432.10564686,Linum hirsutum subsp.anatolicum,Linum,KNApSAcK
+310,C00064285,33908-68-8,Apigenin glucoside,C21H20O10,432.10564686,Linum tenuifolium,Linum,KNApSAcK
+311,C00064285,33908-68-8,Apigenin glucoside,C21H20O10,432.10564686,Linum austriacum subsp.glaucescens,Linum,KNApSAcK
+312,C00064401,554-87-0,Linocinnamarin,C16H20O8,340.11581762,Linum usitatissimum,Linum,KNApSAcK
+0,C00005140,482-39-3,Afzelin,C21H20O10,432.10564686,Heterogaura heterandra,Gaura,KNApSAcK
+1,C00005373,482-35-9,Hirsutrin,C21H20O12,464.09547611,Heterogaura heterandra,Gaura,KNApSAcK
+2,C00005729,19833-12-6,Isomyricitrin,C21H20O13,480.09039073,Heterogaura heterandra,Gaura,KNApSAcK
+0,C00004242,57498-69-8,"Scutellarein 7,4'-dimethyl ether 6-glucoside",C23H24O11,476.13186161,Galeopsis ladanum,Ladanum,KNApSAcK
+0,C00002452,1892-56-4,Athamantin,C24H30O7,430.19915331,Seseli libanotis,Libanotis,KNApSAcK
+1,C00002452,1892-56-4,Athamantin,C24H30O7,430.19915331,Libanotis transcaucasia,Libanotis,KNApSAcK
+2,C00002469,54676-88-9,Disenecionyl cis-khellactone,C24H26O7,426.16785319,Seseli libanotis,Libanotis,KNApSAcK
+3,C00002480,27303-26-0,Libanorin,C19H20O5,328.13107375,Libanotis schrenkiana,Libanotis,KNApSAcK
+4,C00002492,33044-93-8,Peucenidin,C21H22O7,386.13655306,Libanotis pyrenaicum,Libanotis,KNApSAcK
+5,C00002494,13161-75-6,Pteryxin,C21H22O7,386.13655306,Libanotis condensata,Libanotis,KNApSAcK
+6,C00002494,13161-75-6,Pteryxin,C21H22O7,386.13655306,Libanotis lehmannia,Libanotis,KNApSAcK
+7,C00003647,474-62-4,Campesterol,C28H48O,400.37051615,Libanotis intermedia,Libanotis,KNApSAcK
+8,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Libanotis intermedia,Libanotis,KNApSAcK
+9,C00003674,83-48-7,beta-Stigmasterol,C29H48O,412.37051615,Libanotis intermedia,Libanotis,KNApSAcK
+10,C00007453,33880-83-0,beta-Elemene,C15H24,204.18780077,Libanotis intermedia,Libanotis,KNApSAcK
+11,C00012715,473-12-1,(-)-beta-Selinene,C15H24,204.18780077,Libanotis transcaucasica,Libanotis,KNApSAcK
+12,C00029544,562-74-3,4-Terpineol,C10H18O,154.1357652,Libanotis intermedia,Libanotis,KNApSAcK
+13,C00033081,19427-82-8,Jatamansin,C19H20O5,328.13107375,Libanotis buchtormensis,Libanotis,KNApSAcK
+14,C00051026,19380-05-3,Jatamansinol,C14H14O4,246.08920894,Libanotis buchtormensis,Libanotis,KNApSAcK

@@ -1,0 +1,54 @@
+,C_ID,CAS ID,example_compound_name,Molecular formula,Mw,Organism,knapsack_search_term,Source
+0,C00001060,491-54-3,Kaempferide,C16H12O6,300.06338812,Calceolaria irazeunsis,Calceolaria,KNApSAcK
+1,C00001104,571-72-2,Tambulin,C18H16O7,344.08960287,Calceolaria irazeunsis,Calceolaria,KNApSAcK
+2,C00003853,65501-87-3,Bucegin,C17H14O6,314.07903818,Calceolaria irazeunsis,Calceolaria,KNApSAcK
+3,C00003854,57096-03-4,"Isoscutellarein 7,8,4'-trimethyl ether",C18H16O6,328.09468824,Calceolaria spp.,Calceolaria,KNApSAcK
+4,C00003854,57096-03-4,"Isoscutellarein 7,8,4'-trimethyl ether",C18H16O6,328.09468824,Calceolaria irazeunsis,Calceolaria,KNApSAcK
+5,C00004567,569-92-6,Rhamnocitrin,C16H12O6,300.06338812,Calceolaria irazeunsis,Calceolaria,KNApSAcK
+6,C00004569,3301-49-3,"Kaempferol 3,7-dimethyl ether",C17H14O6,314.07903818,Calceolaria arachnoidea,Calceolaria,KNApSAcK
+7,C00004571,15486-33-6,"Kaempferol 7,4'-dimethyl ether",C17H14O6,314.07903818,Calceolaria mexicana,Calceolaria,KNApSAcK
+8,C00004573,15486-34-7,"3,7,4'-Tri-O-methylkaempferol",C18H16O6,328.09468824,Calceolaria chelidonioides,Calceolaria,KNApSAcK
+9,C00004615,14965-09-4,"5,7,4'-Trihydroxy-3,8-dimethoxyflavone",C17H14O7,330.0739528,Calceolaria arachnoidea,Calceolaria,KNApSAcK
+10,C00004618,3443-28-5,Prudomestin,C17H14O7,330.0739528,Calceolaria irazeunsis,Calceolaria,KNApSAcK
+11,C00004619,6586-29-4,"Herbacetin 3,7,8-trimethyl ether",C18H16O7,344.08960287,Calceolaria tripartita,Calceolaria,KNApSAcK
+12,C00004619,6586-29-4,"Herbacetin 3,7,8-trimethyl ether",C18H16O7,344.08960287,Calceolaria chelidonioides,Calceolaria,KNApSAcK
+13,C00004621,1570-09-8,"Herbacetin 3,8,4'-trimethyl ether",C18H16O7,344.08960287,Calceolaria chelidonioides,Calceolaria,KNApSAcK
+14,C00004638,2068-02-2,"Quercetin 3,7-dimethyl ether",C17H14O7,330.0739528,Calceolaria spp.,Calceolaria,KNApSAcK
+15,C00004639,4382-17-6,"3,3'-Dimethylquercetin",C17H14O7,330.0739528,Calceolaria spp.,Calceolaria,KNApSAcK
+16,C00004733,4693-88-3,"Gossypetin 3,7,8-trimethyl ether",C18H16O8,360.08451749,Calceolaria tenella,Calceolaria,KNApSAcK
+17,C00004735,14965-08-3,"5,7,4'-Trihydroxy-3,8,3'-trimethoxyflavone",C18H16O8,360.08451749,Calceolaria salicifolia,Calceolaria,KNApSAcK
+18,C00004737,571-71-1,Ternatin,C19H18O8,374.10016755,Calceolaria tenella,Calceolaria,KNApSAcK
+19,C00033685,84744-28-5,Calceolarioside A,C23H26O11,478.14751167,Calceolaria hypericina,Calceolaria,KNApSAcK
+20,C00033686,105471-98-5,Calceolarioside B,C23H26O11,478.14751167,Calceolaria hypericina,Calceolaria,KNApSAcK
+21,C00040774,220853-30-5,"17-Hydroxy-9-epi-ent-7,15-isopimaradiene",C20H32O,288.24531564,Calceolaria glandulifera,Calceolaria,KNApSAcK
+22,C00040775,220865-49-6,"19-Hydroxy-9-epi-ent-7,15-isopimaradiene",C20H32O,288.24531564,Calceolaria glandulifera,Calceolaria,KNApSAcK
+23,C00040777,220865-46-3,"19-Malonyl-9-epi-ent-7,15-isopimaradiene",C23H34O4,374.24570957,Calceolaria glandulifera,Calceolaria,KNApSAcK
+0,C00002512,32884-36-9,Cajanin,C16H12O6,300.06338812,Fagelia bituminosa,Fagelia,KNApSAcK
+1,C00002526,446-72-0,Genistein,C15H10O5,270.05282343,Fagelia bituminosa,Fagelia,KNApSAcK
+0,C00047230,65053-60-3,Eubol,C22H34O4,362.24570957,Sideritis euboea,Boea,KNApSAcK
+1,C00047231,42932-76-3,Eubotriol,C20H32O3,320.23514489,Sideritis euboea,Boea,KNApSAcK
+0,C00001981,93915-32-3,Rhexifoline,C11H13NO3,207.08954329,Castilleja rhexifolia,Castilleja,KNApSAcK
+1,C00002116,130-01-8,Senecionine,C18H25NO5,335.17327292,Castilleja rhexifolia,Castilleja,KNApSAcK
+2,C00002211,6871-18-7,Argyrolobine,C15H22N2O2,262.16812796,Castilleja sulphurea,Castilleja,KNApSAcK
+3,C00002211,6871-18-7,Argyrolobine,C15H22N2O2,262.16812796,Castilleja flava,Castilleja,KNApSAcK
+4,C00003075,2415-24-9,Catalpol,C15H22O10,362.12129692,Castilleja integra,Castilleja,KNApSAcK
+5,C00007694,486-87-3,alpha-Isolupanine,C15H24N2O,248.1888634,Castilleja spp.,Castilleja,KNApSAcK
+6,C00007696,79392-35-1,"5,6-Dehydro-alpha-isolupanine",C15H22N2O,246.17321334,Castilleja spp.,Castilleja,KNApSAcK
+7,C00007743,643-32-3,Aphyllidine,C15H22N2O,246.17321334,Castilleja flava,Castilleja,KNApSAcK
+8,C00007743,643-32-3,Aphyllidine,C15H22N2O,246.17321334,Castilleja sulphurea,Castilleja,KNApSAcK
+9,C00007747,356759-29-0,2(S)-Hydroxyaphyllidine,C15H22N2O2,262.16812796,Castilleja sulphurea,Castilleja,KNApSAcK
+10,C00007747,356759-29-0,2(S)-Hydroxyaphyllidine,C15H22N2O2,262.16812796,Castilleja flava,Castilleja,KNApSAcK
+11,C00007748,124125-77-5,"(2S,9R)-Dihydroxyaphyllidine",C15H22N2O3,278.16304258,Castilleja sulphurea,Castilleja,KNApSAcK
+12,C00007748,124125-77-5,"(2S,9R)-Dihydroxyaphyllidine",C15H22N2O3,278.16304258,Castilleja flava,Castilleja,KNApSAcK
+13,C00007749,124125-78-6,"(2R,9R)-Dihydroxyaphyllidine",C15H22N2O3,278.16304258,Castilleja sulphurea,Castilleja,KNApSAcK
+14,C00007749,124125-78-6,"(2R,9R)-Dihydroxyaphyllidine",C15H22N2O3,278.16304258,Castilleja flava,Castilleja,KNApSAcK
+15,C00010471,84375-46-2,Adoxosidic acid,C16H24O10,376.13694699,Castilleja integra,Castilleja,KNApSAcK
+16,C00010473,42830-26-2,Adoxoside,C17H26O10,390.15259705,Castilleja integra,Castilleja,KNApSAcK
+17,C00010474,110559-86-9,"[1S-(1alpha,4aalpha,5alpha,7alpha,7aalpha)]-1-(beta-D-glucopyranosyloxy)-1,4a,5,6,7,7a-hexsahydro-5-hydroxy-7-(hydroxymethyl)-methyl ester",C17H26O11,406.14751167,Castilleja integra,Castilleja,KNApSAcK
+18,C00010478,54835-65-3,Macfadienoside,C15H22O11,378.11621155,Castilleja integra,Castilleja,KNApSAcK
+19,C00010517,99499-99-7,6-Deoxycatalpol,C15H22O9,346.1263823,Castilleja miniata,Castilleja,KNApSAcK
+20,C00010686,29836-27-9,Shanzhiside,C16H24O11,392.13186161,Castilleja integra,Castilleja,KNApSAcK
+21,C00013329,520-32-1,Tricin,C17H14O7,330.0739528,Castilleja fissifolia,Castilleja,KNApSAcK
+22,C00025365,124223-06-9,2-(R)-Hydroxyaphyllidine,C15H22N2O2,262.16812796,Castilleja flava,Castilleja,KNApSAcK
+23,C00025365,124223-06-9,2-(R)-Hydroxyaphyllidine,C15H22N2O2,262.16812796,Castilleja sulphurea,Castilleja,KNApSAcK
+24,C00029601,82509-41-9,8-Epiloganic acid,C16H24O10,376.13694699,Castilleja integra,Castilleja,KNApSAcK

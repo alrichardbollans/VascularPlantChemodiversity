@@ -1,0 +1,86 @@
+,C_ID,CAS ID,example_compound_name,Molecular formula,Mw,Organism,knapsack_search_term,Source
+0,C00000136,470-82-6,"1,8-Cineol",C10H18O,154.1357652,Commiphora mukul,Commiphora,KNApSAcK
+1,C00000601,607-80-7,(+)-Sesamin,C20H18O6,354.11033831,Commiphora wightii,Commiphora,KNApSAcK
+2,C00000619,97-53-0,Eugenol,C10H12O2,164.08372963,Commiphora myrrha,Commiphora,KNApSAcK
+3,C00000619,97-53-0,Eugenol,C10H12O2,164.08372963,Commiphora mukul,Commiphora,KNApSAcK
+4,C00000805,80-56-8,alpha-Pinene,C10H16,136.12520051,Commiphora mukul,Commiphora,KNApSAcK
+5,C00000871,514-10-3,Abietic acid,C20H30O2,302.2245802,Commiphora myrrha,Commiphora,KNApSAcK
+6,C00002387,17334-58-6,Pelargonin,C27H31O15,595.16629532,Commiphora mukul,Commiphora,KNApSAcK
+7,C00002725,104-55-2,Cinnamaldehyde,C9H8O,132.05751488,Commiphora myrrha,Commiphora,KNApSAcK
+8,C00002725,104-55-2,Cinnamaldehyde,C9H8O,132.05751488,Commiphora spp.,Commiphora,KNApSAcK
+9,C00003039,122-03-2,Cuminal,C10H12O,148.08881501,Commiphora abyssinica,Commiphora,KNApSAcK
+10,C00003039,122-03-2,Cuminal,C10H12O,148.08881501,Commiphora myrrha,Commiphora,KNApSAcK
+11,C00003047,78-70-6,(+-)-Linalool,C10H18O,154.1357652,Commiphora mukul,Commiphora,KNApSAcK
+12,C00003110,87-44-5,beta-Caryophyllene,C15H24,204.18780077,Commiphora holtziana,Commiphora,KNApSAcK
+13,C00003118,3856-25-5,alpha-Copaene,C15H24,204.18780077,Commiphora holtziana,Commiphora,KNApSAcK
+14,C00003147,6753-98-6,alpha-Caryophyllene (obsol.),C15H24,204.18780077,Commiphora holtziana,Commiphora,KNApSAcK
+15,C00003186,17066-67-0,beta-Eudesmene,C15H24,204.18780077,Commiphora holtziana,Commiphora,KNApSAcK
+16,C00003648,57-88-5,Cholesterol,C27H46O,386.35486609,Commiphora mukul,Commiphora,KNApSAcK
+17,C00003650,469-38-5,Cycloartenol,C30H50O,426.38616622,Commiphora wightii,Commiphora,KNApSAcK
+18,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Commiphora confusa,Commiphora,KNApSAcK
+19,C00003738,559-70-6,beta-Amyrin,C30H50O,426.38616622,Commiphora dalzielii,Commiphora,KNApSAcK
+20,C00003738,559-70-6,beta-Amyrin,C30H50O,426.38616622,Commiphora confusa,Commiphora,KNApSAcK
+21,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Commiphora dalzielii,Commiphora,KNApSAcK
+22,C00004631,117-39-5,Quercetin,C15H10O7,302.04265268,Commiphora mukul,Commiphora,KNApSAcK
+23,C00005374,522-12-3,Quercetin 3-O-alpha-L-rhamnoside,C21H20O11,448.10056148,Commiphora mukul,Commiphora,KNApSAcK
+24,C00007636,483-76-1,delta-Cadinene,C15H24,204.18780077,Commiphora holtziana,Commiphora,KNApSAcK
+25,C00010868,5989-27-5,(+)-Limonene,C10H16,136.12520051,Commiphora mukul,Commiphora,KNApSAcK
+26,C00011972,20493-56-5,Curzerenone,C15H18O2,230.13067982,Commiphora opobalsamum,Commiphora,KNApSAcK
+27,C00012425,24703-35-3,(+)-Bicyclogermacrene,C15H24,204.18780077,Commiphora holtziana,Commiphora,KNApSAcK
+28,C00014405,556014-15-4,Muscanone,C34H50O6,554.36073933,Commiphora wightii,Commiphora,KNApSAcK
+29,C00020066,5937-11-1,epi-alpha-Cadinol,C15H26O,222.19836545,Commiphora kua,Commiphora,KNApSAcK
+30,C00020130,24268-39-1,gamma-Muurolene,C15H24,204.18780077,Commiphora holtziana,Commiphora,KNApSAcK
+31,C00020157,59462-26-9,Dihydropyrocurzerenone,C15H18O,214.1357652,Commiphora opobalsamum,Commiphora,KNApSAcK
+32,C00021884,5208-59-3,beta-Bourbonene,C15H24,204.18780077,Commiphora holtziana,Commiphora,KNApSAcK
+33,C00029492,4439-99-0,epi-Lupeol,C30H50O,426.38616622,Commiphora dalzielii,Commiphora,KNApSAcK
+34,C00029672,473-13-2,(-)-alpha-Selinene,C15H24,204.18780077,Commiphora holtziana,Commiphora,KNApSAcK
+35,C00029674,98-55-5,alpha-Terpineol,C10H18O,154.1357652,Commiphora mukul,Commiphora,KNApSAcK
+36,C00029844,76-49-3,Borneol acetate,C12H20O2,196.14632988,Commiphora mukul,Commiphora,KNApSAcK
+37,C00029881,17334-55-3,Calarene,C15H24,204.18780077,Commiphora holtziana,Commiphora,KNApSAcK
+38,C00031283,471-74-9,Sandaracopimaric acid,C20H30O2,302.2245802,Commiphora myrrha,Commiphora,KNApSAcK
+39,C00031455,21453-68-9,(+)-Diayangambin,C24H30O8,446.19406794,Commiphora mukul,Commiphora,KNApSAcK
+40,C00032049,350809-42-6,Myrrhanol A,C30H52O3,460.39164553,Commiphora mukul,Commiphora,KNApSAcK
+41,C00032050,446030-41-7,Myrrhanol B,C30H50O4,474.37091008,Commiphora mukul,Commiphora,KNApSAcK
+42,C00032051,350809-44-8,Myrrhanone A,C30H50O3,458.37599546,Commiphora mukul,Commiphora,KNApSAcK
+43,C00032052,446030-43-9,Myrrhanone B,C30H48O4,472.35526002,Commiphora mukul,Commiphora,KNApSAcK
+44,C00033660,20479-06-5,beta-Ylangene,C15H24,204.18780077,Commiphora holtziana,Commiphora,KNApSAcK
+45,C00034524,178153-49-6,Guaianediol,C15H26O2,238.19328007,Commiphora opobalsamum,Commiphora,KNApSAcK
+46,C00034610,183551-83-9,Myrrhone,C15H16O2,228.11502975,Commiphora myrrha,Commiphora,KNApSAcK
+47,C00034610,183551-83-9,Myrrhone,C15H16O2,228.11502975,Commiphora opobalsamum,Commiphora,KNApSAcK
+48,C00035551,35761-54-7,Cabraleone,C30H50O3,458.37599546,Commiphora dalzielii,Commiphora,KNApSAcK
+49,C00036359,375798-04-2,"(Z)-5-Tetracosene-1,2,3,4-tetraol",C24H48O4,400.35526002,Commiphora wightii,Commiphora,KNApSAcK
+50,C00036360,375798-03-1,"(Z)-5-Tricosene-1,2,3,4-tetraol",C23H46O4,386.33960996,Commiphora wightii,Commiphora,KNApSAcK
+51,C00036416,438001-88-8,15-alpha-Hydroxymansumbinone,C22H34O2,330.25588033,Commiphora kua,Commiphora,KNApSAcK
+52,C00037474,102848-62-4,Mansumbinol,C22H36O,316.27661577,Commiphora kua,Commiphora,KNApSAcK
+53,C00037475,102848-61-3,Mansumbinone,C22H34O,314.26096571,Commiphora myrrha,Commiphora,KNApSAcK
+54,C00037475,102848-61-3,Mansumbinone,C22H34O,314.26096571,Commiphora kua,Commiphora,KNApSAcK
+55,C00038674,35833-62-6,Cabraleadiol 3-acetate,C32H54O4,502.40221021,Commiphora dalzielii,Commiphora,KNApSAcK
+56,C00042455,1740-19-8,Dehydroabietic acid,C20H28O2,300.20893014,Commiphora myrrha,Commiphora,KNApSAcK
+57,C00045293,77449-33-3,Diasesartemin,C23H26O8,430.16276781,Commiphora wightii,Commiphora,KNApSAcK
+58,C00045922,465535-61-9,Erlangerin A,C27H28O11,528.16316174,Commiphora erlangeriana,Commiphora,KNApSAcK
+59,C00045923,465535-62-0,Erlangerin B,C24H24O9,456.14203237,Commiphora erlangeriana,Commiphora,KNApSAcK
+60,C00045924,465535-63-1,Erlangerin C,C24H24O9,456.14203237,Commiphora erlangeriana,Commiphora,KNApSAcK
+61,C00045925,465535-64-2,Erlangerin D,C24H24O10,472.13694699,Commiphora erlangeriana,Commiphora,KNApSAcK
+62,C00047241,95975-55-6,Guggulsterone,C21H28O2,312.20893014,Commiphora mukul,Commiphora,KNApSAcK
+63,C00051458,4184-34-3,Mangiferolic acid,C30H48O3,456.3603454,Commiphora wightii,Commiphora,KNApSAcK
+64,C00058462,39025-24-6,E-Guggulsterone,C21H28O2,312.20893014,Commiphora wightii,Commiphora,KNApSAcK
+65,C00058462,39025-24-6,E-Guggulsterone,C21H28O2,312.20893014,Commiphora mukul,Commiphora,KNApSAcK
+66,C00058513,39025-25-7,Guggulsterol I,C27H44O4,432.32395989,Commiphora mukul,Commiphora,KNApSAcK
+67,C00058817,39025-23-5,Z-Guggulsterone,C21H28O2,312.20893014,Commiphora mukul,Commiphora,KNApSAcK
+68,C00058817,39025-23-5,Z-Guggulsterone,C21H28O2,312.20893014,Commiphora wightii,Commiphora,KNApSAcK
+69,C00063577,4375-03-5,Epieudesmin,C22H26O6,386.17293856,Commiphora wightii,Commiphora,KNApSAcK
+70,C00063887,145-14-2,20beta-Hydroxy-4-pregnen-3-one,C21H32O2,316.24023027,Commiphora mukul,Commiphora,KNApSAcK
+71,C00064130,20281-70-3,Guggulsterol IV,C27H44O3,416.32904527,Commiphora mukul,Commiphora,KNApSAcK
+72,C00064182,2243-33-6,d-alpha-Phellandrene,C10H16,136.12520051,Commiphora mukul,Commiphora,KNApSAcK
+73,C00064262,29466-99-7,Methylheptanone,C8H16O,128.12011513,Commiphora mukul,Commiphora,KNApSAcK
+74,C00064314,39025-26-8,Guggulsterol II,C27H46O3,418.34469533,Commiphora mukul,Commiphora,KNApSAcK
+75,C00064315,39025-27-9,Guggulsterol III,C27H44O3,416.32904527,Commiphora wightii,Commiphora,KNApSAcK
+76,C00064315,39025-27-9,Guggulsterol III,C27H44O3,416.32904527,Commiphora mukul,Commiphora,KNApSAcK
+77,C00064327,41943-03-7,Mukulol,C20H34O,290.26096571,Commiphora mukul,Commiphora,KNApSAcK
+78,C00064398,548773-82-6,Guggulsterone M,C22H30O3,342.21949482,Commiphora mukul,Commiphora,KNApSAcK
+79,C00064399,548773-83-7,Guggulsterol Y,C27H46O4,434.33960996,Commiphora mukul,Commiphora,KNApSAcK
+80,C00064438,6120-71-4,Guggulsterol V,C29H50O4,462.37091008,Commiphora mukul,Commiphora,KNApSAcK
+81,C00064440,61391-01-3,Guggulsterol VI,C21H32O2,316.24023027,Commiphora mukul,Commiphora,KNApSAcK
+82,C00064514,7313-61-3,"(20R)-20-Acetoxy-4-pregnene-3,16-dione",C23H32O4,372.23005951,Commiphora mukul,Commiphora,KNApSAcK
+83,C00064578,85769-67-1,Z-Guggulsterol,C21H30O2,314.2245802,Commiphora mukul,Commiphora,KNApSAcK
+84,C00064650,984-84-9,"Cholest-4-ene-3,6-dione",C27H42O2,398.31848058,Commiphora wightii,Commiphora,KNApSAcK

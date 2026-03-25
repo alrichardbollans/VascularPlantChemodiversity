@@ -1,0 +1,50 @@
+,C_ID,CAS ID,example_compound_name,Molecular formula,Mw,Organism,knapsack_search_term,Source
+0,C00001955,3279-74-1,Sauroxine,C17H26N2O,274.20451347,Lycopodium saururus,Saururus,KNApSAcK
+1,C00001956,116-28-9,Selagine,C15H18N2O,242.14191321,Lycopodium saururus,Saururus,KNApSAcK
+2,C00002623,83377-13-3,Saucernetin,C22H28O5,372.193674,Saururus chinensis,Saururus,KNApSAcK
+3,C00002623,83377-13-3,Saucernetin,C22H28O5,372.193674,Saururus cernuus,Saururus,KNApSAcK
+4,C00002633,19950-55-1,(+)-Veraguensin,C22H28O5,372.193674,Saururus cernuus,Saururus,KNApSAcK
+5,C00002773,18607-93-7,"1-Allyl-2-methoxy-4,5-methylene-dioxybenzene",C11H12O3,192.07864425,Saururus chinensis,Saururus,KNApSAcK
+6,C00005372,482-36-0,Hyperin,C21H20O12,464.09547611,Saururus chinensis,Saururus,KNApSAcK
+7,C00005373,482-35-9,Hirsutrin,C21H20O12,464.09547611,Saururus chinensis,Saururus,KNApSAcK
+8,C00007213,528-64-3,(-)-Galbacin,C20H20O5,340.13107375,Saururus chinensis,Saururus,KNApSAcK
+9,C00007213,528-64-3,(-)-Galbacin,C20H20O5,340.13107375,Saururus cernuus,Saururus,KNApSAcK
+10,C00025374,52998-88-6,Acetylfawcettiine,C20H31NO4,349.22530849,Lycopodium saururus,Saururus,KNApSAcK
+11,C00025378,466-62-6,Clavolonine,C16H25NO2,263.18852905,Lycopodium saururus,Saururus,KNApSAcK
+12,C00025382,23768-74-3,Dihydrolycopodine,C16H27NO,249.20926449,Lycopodium saururus,Saururus,KNApSAcK
+13,C00025383,6899-87-2,Fawcettiine,C18H29NO3,307.2147438,Lycopodium saururus,Saururus,KNApSAcK
+14,C00025389,6900-92-1,Lycodoline,C16H25NO2,263.18852905,Lycopodium saururus,Saururus,KNApSAcK
+15,C00027864,18834-79-2,Anhydrolycodoline,C16H23NO,245.17796436,Lycopodium saururus,Saururus,KNApSAcK
+16,C00032491,68143-83-9,Virolin,C21H26O5,358.17802394,Saururus chinensis,Saururus,KNApSAcK
+17,C00033135,110269-53-9,Machilin D,C20H24O5,344.16237388,Saururus chinensis,Saururus,KNApSAcK
+18,C00033361,373360-09-9,Saucerneol A,C32H40O8,552.27231825,Saururus chinensis,Saururus,KNApSAcK
+19,C00033362,373360-10-2,Saucerneol B,C31H36O8,536.24101813,Saururus chinensis,Saururus,KNApSAcK
+20,C00033363,373360-11-3,Saucerneol C,C30H36O8,524.24101813,Saururus chinensis,Saururus,KNApSAcK
+21,C00034969,289497-19-4,Sauriol A,C20H26O6,362.17293856,Saururus cernuus L.,Saururus,KNApSAcK
+22,C00034970,289497-20-7,Sauriol B,C21H28O6,376.18858863,Saururus cernuus L.,Saururus,KNApSAcK
+23,C00036136,88497-87-4,Manassantin A,C42H52O11,732.3509625,Saururus chinensis,Saururus,KNApSAcK
+24,C00036136,88497-87-4,Manassantin A,C42H52O11,732.3509625,Saururus cernuus,Saururus,KNApSAcK
+25,C00036137,88497-88-5,Manassantin B,C41H48O11,716.31966238,Saururus cernuus,Saururus,KNApSAcK
+26,C00036137,88497-88-5,Manassantin B,C41H48O11,716.31966238,Saururus chinensis,Saururus,KNApSAcK
+27,C00036209,630096-17-2,Saucerneol D,C31H36O8,536.24101813,Saururus chinensis,Saururus,KNApSAcK
+28,C00036210,630096-18-3,Saucerneol E,C30H34O8,522.22536806,Saururus chinensis,Saururus,KNApSAcK
+29,C00040225,1061273-57-1,Saucerneol F,C30H32O8,520.209718,Saururus chinensis,Saururus,KNApSAcK
+30,C00040226,1061273-58-2,Saucerneol G,C20H20O6,356.12598837,Saururus chinensis,Saururus,KNApSAcK
+31,C00040227,1061273-60-6,Saucerneol H,C20H22O6,358.14163844,Saururus chinensis,Saururus,KNApSAcK
+32,C00040228,1061273-62-8,Saucerneol I,C20H22O7,374.13655306,Saururus chinensis,Saururus,KNApSAcK
+33,C00040237,777855-51-3,Sauroine,C16H25NO3,279.18344367,Huperzia saururus,Saururus,KNApSAcK
+34,C00046382,389573-12-0,Saururin A,C20H22O6,358.14163844,Saururus chinensis,Saururus,KNApSAcK
+35,C00046568,281655-25-2,1'-epi-Sauchinone,C20H20O6,356.12598837,Saururus chinensis,Saururus,KNApSAcK
+36,C00046906,26430-34-2,Sauchinone A,C20H20O6,356.12598837,Saururus chinensis,Saururus,KNApSAcK
+37,C00053773,177931-17-8,Sauchinone,C20H20O6,356.12598837,Saururus chinensis,Saururus,KNApSAcK
+0,C00001058,20013-23-4,Isoscoparin,C22H22O11,462.11621155,Potamogeton natans,Potamogeton,KNApSAcK
+1,C00003776,127-40-2,Lutein,C40H56O2,568.42803103,Potamogeton perfoliatus,Potamogeton,KNApSAcK
+2,C00003780,14660-91-4,Neoxanthin,C40H56O4,600.41786028,Potamogeton perfoliatus,Potamogeton,KNApSAcK
+3,C00003784,116-30-3,Rhodoxanthin,C40H50O2,562.38108084,Potamogeton natans,Potamogeton,KNApSAcK
+4,C00003787,126-29-4,Violaxanthin,C40H56O4,600.41786028,Potamogeton perfoliatus,Potamogeton,KNApSAcK
+5,C00007363,119-13-1,delta-Tocopherol,C27H46O2,402.34978071,Potamogeton pectinatus,Potamogeton,KNApSAcK
+6,C00022273,57459-42-4,Potamogetonin,C20H26O3,314.1881947,Potamogeton ferrugineus,Potamogeton,KNApSAcK
+7,C00022273,57459-42-4,Potamogetonin,C20H26O3,314.1881947,Potamogeton malaianus,Potamogeton,KNApSAcK
+8,C00022273,57459-42-4,Potamogetonin,C20H26O3,314.1881947,Potamogeton natans,Potamogeton,KNApSAcK
+9,C00022322,1235-77-4,Illurinic acid,C20H28O3,316.20384476,Potamogeton pectinatus,Potamogeton,KNApSAcK
+10,C00046326,334487-70-6,Potamogetonol,C22H32O4,360.23005951,Potamogeton malaianus,Potamogeton,KNApSAcK

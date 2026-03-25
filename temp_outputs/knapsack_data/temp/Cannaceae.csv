@@ -1,0 +1,189 @@
+,C_ID,CAS ID,example_compound_name,Molecular formula,Mw,Organism,knapsack_search_term,Source
+0,C00000164,473-15-4,(+)-beta-Eudesmol,C15H26O,222.19836545,Cannabis inflorescences,Canna,KNApSAcK
+1,C00000320,24512-63-8,Geniposide,C17H24O10,388.13694699,Vitex cannabifolia Sieb.et.Zucc.,Canna,KNApSAcK
+2,C00000602,27003-73-2,(+)-Lariciresinol,C20H24O6,360.1572885,Hibiscus cannabinus,Canna,KNApSAcK
+3,C00000619,97-53-0,Eugenol,C10H12O2,164.08372963,Cannabis sativa,Canna,KNApSAcK
+4,C00000659,40957-99-1,Medioresinol,C21H24O7,388.15220312,Hibiscus cannabinus,Canna,KNApSAcK
+5,C00000663,144506-17-2,Cannabisin B,C34H32N2O8,596.21586601,Cannabis sativa,Canna,KNApSAcK
+6,C00000664,144506-19-4,Cannabisin D,C36H36N2O8,624.24716614,Cannabis sativa,Canna,KNApSAcK
+7,C00000665,80510-06-1,(+-)-Grossamide,C36H36N2O8,624.24716614,Cannabis sativa,Canna,KNApSAcK
+8,C00000666,170171-94-5,(+-)-Demethylgrossamide,C35H34N2O8,610.23151608,Cannabis sativa,Canna,KNApSAcK
+9,C00000667,130508-46-2,Cannabisin A,C34H30N2O8,594.20021595,Cannabis sativa,Canna,KNApSAcK
+10,C00000668,163136-16-1,Cannabisin E,C36H38N2O9,642.25773083,Cannabis sativa,Canna,KNApSAcK
+11,C00000669,163136-19-4,Cannabisin F,C36H36N2O8,624.24716614,Cannabis sativa,Canna,KNApSAcK
+12,C00000674,491-70-3,"5,7,3',4'-Tetrahydroxyflavone",C15H10O6,286.04773805,Cannabis sativa,Canna,KNApSAcK
+13,C00000674,491-70-3,"5,7,3',4'-Tetrahydroxyflavone",C15H10O6,286.04773805,Cannabis indica,Canna,KNApSAcK
+14,C00000805,80-56-8,alpha-Pinene,C10H16,136.12520051,Cannabis inflorescences,Canna,KNApSAcK
+15,C00000806,18172-67-3,(-)-beta-Pinene,C10H16,136.12520051,Cannabis inflorescences,Canna,KNApSAcK
+16,C00000823,138-86-3,Limonene,C10H16,136.12520051,Cannabis inflorescences,Canna,KNApSAcK
+17,C00000846,763-10-0,Geranyl diphospate,C10H20O7P2,314.06842597,Cannabis indica,Canna,KNApSAcK
+18,C00000846,763-10-0,Geranyl diphospate,C10H20O7P2,314.06842597,Cannabis inflorescences,Canna,KNApSAcK
+19,C00000846,763-10-0,Geranyl diphospate,C10H20O7P2,314.06842597,Cannabis sativa,Canna,KNApSAcK
+20,C00000853,123-35-3,beta-Myrcene,C10H16,136.12520051,Cannabis inflorescences,Canna,KNApSAcK
+21,C00000907,13058-04-3,Farnesyl pyrophosphate,C15H28O7P2,382.13102623,Cannabis inflorescences,Canna,KNApSAcK
+22,C00000982,480-41-1,Naringenin,C15H12O5,272.06847349,Cannabis inflorescences,Canna,KNApSAcK
+23,C00000982,480-41-1,Naringenin,C15H12O5,272.06847349,Cannabis indica,Canna,KNApSAcK
+24,C00000982,480-41-1,Naringenin,C15H12O5,272.06847349,Cannabis sativa,Canna,KNApSAcK
+25,C00001029,491-71-4,Chrysoeriol,C16H12O6,300.06338812,Cannabis indica,Canna,KNApSAcK
+26,C00001029,491-71-4,Chrysoeriol,C16H12O6,300.06338812,Cannabis sativa L.,Canna,KNApSAcK
+27,C00001055,4261-42-1,Isoorientin,C21H20O11,448.10056148,Vitex cannabifolia Sieb.et.Zucc.,Canna,KNApSAcK
+28,C00001078,28608-75-5,Orientin,C21H20O11,448.10056148,Vitex cannabifolia Sieb.et.Zucc.,Canna,KNApSAcK
+29,C00001096,27782-63-4,Santin,C18H16O7,344.08960287,Eupatorium cannabinum,Canna,KNApSAcK
+30,C00001555,535-83-1,Trigonelline,C7H7NO2,137.04767848,Cannabis sativa,Canna,KNApSAcK
+31,C00002074,471-87-4,Stachydrine,C7H13NO2,143.09462867,Urtica cannabina,Canna,KNApSAcK
+32,C00002111,6029-84-1,Rinderine,C15H25NO5,299.17327292,Eupatorium cannabinum,Canna,KNApSAcK
+33,C00002111,6029-84-1,Rinderine,C15H25NO5,299.17327292,Eupatorium cannabium,Canna,KNApSAcK
+34,C00002121,551-58-6,Supinine,C15H25NO4,283.17835829,Eupatorium cannabinum,Canna,KNApSAcK
+35,C00002320,57682-64-1,Cannabisativine,C21H39N3O3,381.29914213,Cannabis sativa,Canna,KNApSAcK
+36,C00002376,18719-76-1,Antirrhinin,C27H31O15.Cl,630.13514803,Canna x generalis,Canna,KNApSAcK
+37,C00002419,20675-51-8,Cannabichromene,C21H30O2,314.2245802,Cannabis sativa,Canna,KNApSAcK
+38,C00002631,21453-69-0,(+)-Lirioresinol B,C22H26O8,418.16276781,Hibiscus cannabinus,Canna,KNApSAcK
+39,C00002641,13956-29-1,Cannabidiol,C21H30O2,314.2245802,Cannabis sativa var. indica,Canna,KNApSAcK
+40,C00002641,13956-29-1,Cannabidiol,C21H30O2,314.2245802,Cannabis indica,Canna,KNApSAcK
+41,C00002642,1244-58-2,Cannabidiolic acid,C22H30O4,358.21440945,Cannabis inflorescences,Canna,KNApSAcK
+42,C00002642,1244-58-2,Cannabidiolic acid,C22H30O4,358.21440945,Cannabis sativa var. indica,Canna,KNApSAcK
+43,C00002642,1244-58-2,Cannabidiolic acid,C22H30O4,358.21440945,Cannabis indica,Canna,KNApSAcK
+44,C00002675,1972-08-3,delta9-tetrahydrocannabinol,C21H30O2,314.2245802,Cannabis indica,Canna,KNApSAcK
+45,C00002675,1972-08-3,delta9-tetrahydrocannabinol,C21H30O2,314.2245802,Cannabis sativa,Canna,KNApSAcK
+46,C00002689,498-02-2,3'-Methoxy-4'-hydroxyacetophenone,C9H10O3,166.06299419,Apocynum cannabinum,Canna,KNApSAcK
+47,C00002698,99-93-4,p-Hydroxyacetophenone,C8H8O2,136.0524295,Apocynum cannabinum,Canna,KNApSAcK
+48,C00002778,537-33-7,Sinapyl alcohol,C11H14O4,210.08920894,Urtica cannabina,Canna,KNApSAcK
+49,C00002879,58436-28-5,Dihydroresveratrol,C14H14O3,230.09429431,Cannabis sativa,Canna,KNApSAcK
+50,C00003047,78-70-6,(+-)-Linalool,C10H18O,154.1357652,Cannabis inflorescences,Canna,KNApSAcK
+51,C00003068,11027-63-7,Agnuside,C22H26O11,466.14751167,Vitex cannabifolia Sieb.et.Zucc.,Canna,KNApSAcK
+52,C00003110,87-44-5,beta-Caryophyllene,C15H24,204.18780077,Cannabis inflorescences,Canna,KNApSAcK
+53,C00003139,489-86-1,Guaiol,C15H26O,222.19836545,Cannabis inflorescences,Canna,KNApSAcK
+54,C00003147,6753-98-6,alpha-Caryophyllene (obsol.),C15H24,204.18780077,Cannabis inflorescences,Canna,KNApSAcK
+55,C00003277,6750-25-0,Eupatolide,C15H20O3,248.1412445,Eupatorium cannabinum,Canna,KNApSAcK
+56,C00003278,6856-01-5,Eupatoriopicrin,C20H26O6,362.17293856,Eupatorium cannabinum,Canna,KNApSAcK
+57,C00003299,38458-58-1,Schkuhrin I,C22H28O8,420.17841787,Eupatorium cannabinum,Canna,KNApSAcK
+58,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Cannabis inflorescences,Canna,KNApSAcK
+59,C00003747,559-74-0,3-Friedelanone,C30H50O,426.38616622,Cannabis inflorescences,Canna,KNApSAcK
+60,C00003755,111-02-4,All-trans-squalene,C30H50,410.39125159,Cannabis inflorescences,Canna,KNApSAcK
+61,C00003757,1059-14-9,Taraxasterol,C30H50O,426.38616622,Eupatorium cannabinum,Canna,KNApSAcK
+62,C00003817,520-36-5,Apigenin,C15H10O5,270.05282343,Cannabis indica,Canna,KNApSAcK
+63,C00003817,520-36-5,Apigenin,C15H10O5,270.05282343,Cannabis inflorescences,Canna,KNApSAcK
+64,C00003817,520-36-5,Apigenin,C15H10O5,270.05282343,Cannabis sativa,Canna,KNApSAcK
+65,C00004035,76735-57-4,Cannflavin A,C26H28O6,436.18858863,Cannabis sativa,Canna,KNApSAcK
+66,C00004035,76735-57-4,Cannflavin A,C26H28O6,436.18858863,Cannabis indica,Canna,KNApSAcK
+67,C00004036,76735-58-5,Cannflavin B,C21H20O6,368.12598837,Cannabis sativa,Canna,KNApSAcK
+68,C00004036,76735-58-5,Cannflavin B,C21H20O6,368.12598837,Cannabis indica,Canna,KNApSAcK
+69,C00004089,68097-13-2,6-Prenylapigenin,C20H18O5,338.11542369,Cannabis sativa L.,Canna,KNApSAcK
+70,C00004533,548-83-4,Galangin,C15H10O5,270.05282343,Datisca cannabina,Canna,KNApSAcK
+71,C00004562,480-15-9,Datiscetin,C15H10O6,286.04773805,Datisca cannabina,Canna,KNApSAcK
+72,C00004563,55051-98-4,Datin,C16H12O6,300.06338812,Datisca cannabina,Canna,KNApSAcK
+73,C00005120,68592-14-3,Galanginin,C21H20O10,432.10564686,Datisca cannabina,Canna,KNApSAcK
+74,C00005123,16268-50-1,Galanginoside,C27H30O14,578.16355567,Datisca cannabina,Canna,KNApSAcK
+75,C00005126,26260-14-0,Cannabin,C28H32O14,592.17920573,Datisca cannabina,Canna,KNApSAcK
+76,C00005130,83008-42-8,Datiscanin,C21H20O11,448.10056148,Datisca cannabina,Canna,KNApSAcK
+77,C00005131,16310-92-2,Datiscin,C27H30O15,594.15847029,Datisca cannabina,Canna,KNApSAcK
+78,C00005189,482-38-2,Kaempferitrin,C27H30O14,578.16355567,Hibiscus cannabinus,Canna,KNApSAcK
+79,C00005734,520-14-9,Myricetin 3'-glucoside,C21H20O13,480.09039073,Cannabis sativa var. indica,Canna,KNApSAcK
+80,C00005793,482-34-8,Hibiscetin 3-glucoside,C21H20O14,496.08530535,Hibiscus cannabinus,Canna,KNApSAcK
+81,C00006130,2326-34-3,Cytisoside,C22H22O10,446.12129692,Cannabis sativa,Canna,KNApSAcK
+82,C00006200,64661-76-3,Flavocannabiside,C27H30O16,610.15338491,Cannabis sativa,Canna,KNApSAcK
+83,C00006202,61361-16-8,Orientin 7-glucoside,C27H30O16,610.15338491,Cannabis sativa,Canna,KNApSAcK
+84,C00006279,18456-23-0,Cytisoside 7-O-glucoside,C28H32O15,608.17412036,Trema cannabina,Canna,KNApSAcK
+85,C00006392,61360-94-9,Flavosativaside,C27H30O15,594.15847029,Cannabis sativa,Canna,KNApSAcK
+86,C00007190,487-36-5,(+)-Pinoresinol,C20H22O6,358.14163844,Hibiscus cannabinus,Canna,KNApSAcK
+87,C00007233,25515-46-2,Naringenin chalcone,C15H12O5,272.06847349,Cannabis indica,Canna,KNApSAcK
+88,C00007233,25515-46-2,Naringenin chalcone,C15H12O5,272.06847349,Cannabis sativa,Canna,KNApSAcK
+89,C00007280,30802-00-7,p-Coumaroyl CoA,C30H42N7O18P3S,913.15198779,Cannabis inflorescences,Canna,KNApSAcK
+90,C00010335,60047-17-8,Linalyl oxide,C10H18O2,170.13067982,Cannabis sativa,Canna,KNApSAcK
+91,C00010825,470-67-7,"1,4-Cineole",C10H18O,154.1357652,Cannabis sativa,Canna,KNApSAcK
+92,C00010970,50868-57-0,3-Methyl-1-(1-methylethenyl)-3-cyclohexen-1-ol,C10H16O,152.12011513,Cannabis sativa,Canna,KNApSAcK
+93,C00012821,110044-92-3,"(1alpha,2beta,4aalpha,8aalpha)-N-[Decahydro-4a-methyl-8-methylene-2-(1-methylethyl)-1-naphthalenyl]-formamide",C16H27NO,249.20926449,Axinella cannabina,Canna,KNApSAcK
+94,C00013244,56012-88-5,Axamide 1,C16H27NO,249.20926449,Axinella cannabina,Canna,KNApSAcK
+95,C00013548,62078-09-5,Axamide 4,C16H25NO,247.19361443,Axinella cannabina,Canna,KNApSAcK
+96,C00013549,53822-97-2,Axisothiocyanate 1,C16H25NS,263.17077053,Axinella cannabina,Canna,KNApSAcK
+97,C00013550,53822-96-1,Axisonitrile 1,C16H25N,231.1986998,Axinella cannabina,Canna,KNApSAcK
+98,C00013551,62078-10-8,Axisonitrile 4,C16H23N,229.18304974,Axinella cannabina,Canna,KNApSAcK
+99,C00013552,62078-11-9,Axisothiocyanate 4,C16H23NS,261.15512047,Axinella cannabina,Canna,KNApSAcK
+100,C00015288,70677-47-3,"3,3'-Dihydroxy-4,5'-dimethoxy-2-isopentenylbibenzyl",C21H26O4,342.18310932,Cannabis sativa,Canna,KNApSAcK
+101,C00015315,67884-29-1,"3,4'-Dihydroxy-5-methoxybibenzyl",C15H16O3,244.10994438,Cannabis sativa,Canna,KNApSAcK
+102,C00015396,71135-80-3,Cannithrene 1,C15H14O3,242.09429431,Cannabis sativa,Canna,KNApSAcK
+103,C00015535,83016-16-4,"4,5-Dihydroxy-3,7-dimethoxy-9,10-dihydrophenanthrene",C16H16O4,272.104859,Cannabis sativa,Canna,KNApSAcK
+104,C00015692,69636-83-5,alpha-Cannabispiranol,C15H20O3,248.1412445,Cannabis sativa,Canna,KNApSAcK
+105,C00015745,64052-90-0,beta-Cannabispiranol,C15H20O3,248.1412445,Cannabis sativa,Canna,KNApSAcK
+106,C00015750,71135-79-0,Cannabispiradienone,C15H14O3,242.09429431,Cannabis sativa,Canna,KNApSAcK
+107,C00015751,83058-93-9,Cannabispirenone B,C15H16O3,244.10994438,Cannabis sativa,Canna,KNApSAcK
+108,C00015752,61262-81-5,Cannabispirone,C15H18O3,246.12559444,Cannabis sativa,Canna,KNApSAcK
+109,C00015791,72468-78-1,Isocannabispiran,C15H18O3,246.12559444,Cannabis sativa,Canna,KNApSAcK
+110,C00021241,56012-89-6,Axamide 2,C16H27NO,249.20926449,Axinella cannabina,Canna,KNApSAcK
+111,C00021242,55907-33-0,Axisonitrile 2,C16H25N,231.1986998,Axinella cannabina,Canna,KNApSAcK
+112,C00021243,108739-40-8,10alpha-Isothiocyanatoalloaromadendrane,C16H25NS,263.17077053,Axinella cannabina,Canna,KNApSAcK
+113,C00021244,56012-90-9,Axisothiocyanate 2,C16H25NS,263.17077053,Axinella cannabina,Canna,KNApSAcK
+114,C00021646,59633-82-8,Axamide 3,C16H27NO,249.20926449,Axinella cannabina,Canna,KNApSAcK
+115,C00021647,59633-81-7,Axisothiocyanate 3,C16H25NS,263.17077053,Axinella cannabina,Canna,KNApSAcK
+116,C00021648,59633-83-9,Axisonitrile 3,C16H25N,231.1986998,Axinella cannabina,Canna,KNApSAcK
+117,C00022251,61263-49-8,Vitexilactone,C22H34O5,378.2406242,Vitex cannabinifolia,Canna,KNApSAcK
+118,C00022251,61263-49-8,Vitexilactone,C22H34O5,378.2406242,Vitex cannabifolia,Canna,KNApSAcK
+119,C00026189,480-83-1,Echinatine,C15H25NO5,299.17327292,Eupatorium cannabinum L.,Canna,KNApSAcK
+120,C00029339,40716-66-3,"(6E)-3,7,11-Trimethyl-1,6,10-dodecatrien-3-ol",C15H26O,222.19836545,Cannabis inflorescences,Canna,KNApSAcK
+121,C00029374,193969-08-3,10-o-Vanilloyl aucubin,C23H28O12,496.15807636,Vitex cannabifolia Sieb.et.Zucc.,Canna,KNApSAcK
+122,C00029674,98-55-5,alpha-Terpineol,C10H18O,154.1357652,Cannabis inflorescences,Canna,KNApSAcK
+123,C00029679,515-69-5,alpha-Bisabolol,C15H26O,222.19836545,Cannabis inflorescences,Canna,KNApSAcK
+124,C00030122,19463-47-9,Detetrahydroconidendrin,C20H16O6,352.09468824,Vitex cannabifolia Sieb.et.Zucc.,Canna,KNApSAcK
+125,C00030228,532-48-9,Euparin,C13H12O3,216.07864425,Eupatorium cannabinum,Canna,KNApSAcK
+126,C00032208,20817-72-5,"Stigmasta-4,22-dien-3-one",C29H46O,410.35486609,Cannabis sativa,Canna,KNApSAcK
+127,C00032498,1018447-94-3,Vitecannaside A,C26H30O11,518.1788118,Vitex cannabifolia Sieb.et.Zucc.,Canna,KNApSAcK
+128,C00032499,944711-14-2,Vitecannaside B,C26H30O11,518.1788118,Vitex cannabifolia Sieb.et.Zucc.,Canna,KNApSAcK
+129,C00032501,345902-01-4,Vitrofolal E,C19H16O5,324.09977362,Vitex cannabifolia Sieb.et.Zucc.,Canna,KNApSAcK
+130,C00032502,345902-02-5,Vitrofolal F,C19H16O6,340.09468824,Vitex cannabifolia Sieb.et.Zucc.,Canna,KNApSAcK
+131,C00035142,666-48-43-9,N-trans-Feruloyl tyramine,C18H19NO4,313.1314081,Hibiscus cannabinus,Canna,KNApSAcK
+132,C00036822,344944-00-9,Boehmenan H,C30H32O9,536.20463262,Hibiscus cannabinus,Canna,KNApSAcK
+133,C00037119,403647-08-5,erythro-Canabisine H,C28H31NO8,509.20496697,Hibiscus cannabinus,Canna,KNApSAcK
+134,C00037219,403647-07-4,Grossamide K,C28H29NO7,491.19440229,Hibiscus cannabinus,Canna,KNApSAcK
+135,C00037914,344944-05-4,threo-Carolignan H,C39H38O12,698.23632668,Hibiscus cannabinus,Canna,KNApSAcK
+136,C00037915,344944-06-5,threo-Carolignan K,C30H34O10,554.21519731,Hibiscus cannabinus,Canna,KNApSAcK
+137,C00038694,25555-57-1,Cannabigerolic acid,C22H32O4,360.23005951,Cannabis indica,Canna,KNApSAcK
+138,C00038694,25555-57-1,Cannabigerolic acid,C22H32O4,360.23005951,Cannabis inflorescences,Canna,KNApSAcK
+139,C00038694,25555-57-1,Cannabigerolic acid,C22H32O4,360.23005951,Cannabis sativa,Canna,KNApSAcK
+140,C00042580,215050-63-8,Hibiscanal,C14H14O5,262.08412356,Hibiscus cannabinus,Canna,KNApSAcK
+141,C00042800,207597-36-2,o-Hibiscanone,C12H10O2,186.06807956,Hibiscus cannabinus,Canna,KNApSAcK
+142,C00047617,1134497-17-8,(-)-7-Hydroxycannabichromane,C21H32O3,332.23514489,Cannabis sativa,Canna,KNApSAcK
+143,C00047618,1134497-19-0,(-)-7R-Cannabicoumarononic acid A,C22H28O5,372.193674,Cannabis sativa,Canna,KNApSAcK
+144,C00047690,53865-22-8,8-Hydroxycannabinol,C21H26O3,326.1881947,Cannabis sativa,Canna,KNApSAcK
+145,C00051748,4427-76-3,Homospermidine,C8H21N3,159.17354769,Eupatorium cannabinum,Canna,KNApSAcK
+146,C00052039,,IPP,C5H12O7P2,246.00582572,Cannabis inflorescences,Canna,KNApSAcK
+147,C00052276,1632-73-1,Fenchol,C10H18O,154.1357652,Cannabis inflorescences,Canna,KNApSAcK
+148,C00053033,20408-52-0,Cannabichromenic acid,C22H30O4,358.21440945,Cannabis inflorescences,Canna,KNApSAcK
+149,C00053049,23978-85-0,delta9-tetrahydrocannabinolic acid,C22H30O4,358.21440945,Cannabis sativa,Canna,KNApSAcK
+150,C00053049,23978-85-0,delta9-tetrahydrocannabinolic acid,C22H30O4,358.21440945,Cannabis inflorescences,Canna,KNApSAcK
+151,C00053049,23978-85-0,delta9-tetrahydrocannabinolic acid,C22H30O4,358.21440945,Cannabis indica,Canna,KNApSAcK
+152,C00053059,31932-13-5,Cannabidivarinic acid,C20H26O4,330.18310932,Cannabis indica,Canna,KNApSAcK
+153,C00053059,31932-13-5,Cannabidivarinic acid,C20H26O4,330.18310932,Cannabis sativa,Canna,KNApSAcK
+154,C00053061,33745-21-0,Cannabivarin,C19H22O2,282.16197995,Cannabis indica,Canna,KNApSAcK
+155,C00053061,33745-21-0,Cannabivarin,C19H22O2,282.16197995,Cannabis sativa,Canna,KNApSAcK
+156,C00053089,4707-50-0,Divarinic acid,C10H12O4,196.07355887,Cannabis indica,Canna,KNApSAcK
+157,C00053089,4707-50-0,Divarinic acid,C10H12O4,196.07355887,Cannabis sativa,Canna,KNApSAcK
+158,C00053315,5060-32-2,Hexanoyl-CoA,C27H46N7O17P3S,865.1883733,Cannabis inflorescences,Canna,KNApSAcK
+159,C00053584,44914-94-5,Ocimene,C10H18,138.14085057,Cannabis inflorescences,Canna,KNApSAcK
+160,C00053608,491-72-5,Olivetolic Acid,C12H16O4,224.104859,Cannabis inflorescences,Canna,KNApSAcK
+161,C00053825,31262-37-0,Tetrahydrocannabivarin,C19H26O2,286.19328007,Cannabis indica,Canna,KNApSAcK
+162,C00053825,31262-37-0,Tetrahydrocannabivarin,C19H26O2,286.19328007,Cannabis sativa,Canna,KNApSAcK
+163,C00053826,39986-26-0,Tetrahydrocannabivarinic acid,C20H26O4,330.18310932,Cannabis indica,Canna,KNApSAcK
+164,C00053826,39986-26-0,Tetrahydrocannabivarinic acid,C20H26O4,330.18310932,Cannabis sativa,Canna,KNApSAcK
+165,C00054474,761447-92-1,"6-Acetyl-3',6'-di-p-coumaroylsucrose",C32H36O16,676.20033511,Canna edulis,Canna,KNApSAcK
+166,C00058395,510-63-4,Cannogenin,C23H32O5,388.22497413,Apocynum cannabinum,Canna,KNApSAcK
+0,C00001079,549-17-7,Oxyayanin A,C18H16O8,360.08451749,Distemonanthus benthamianus,Distemon,KNApSAcK
+1,C00004647,572-32-7,Ayanin,C18H16O7,344.08960287,Distemonanthus benthamianus,Distemon,KNApSAcK
+2,C00004650,33554-60-8,"Quercetin 3,5,7,3'-tetramethyl ether",C19H18O7,358.10525293,Distemonanthus benthamianus,Distemon,KNApSAcK
+3,C00004696,548-74-3,Oxyayanin-B,C18H16O8,360.08451749,Distemonanthus benthamianus,Distemon,KNApSAcK
+4,C00004707,63296-15-1,"Quercetagetin 3,7,3',4'-tetramethyl ether",C19H18O8,374.10016755,Distemonanthus benthamianus,Distemon,KNApSAcK
+5,C00004748,37751-25-0,5'-Hydroxymorin,C15H10O8,318.0375673,Distemonanthus benthamianus,Distemon,KNApSAcK
+6,C00004754,23289-81-8,Chrysosplenol E,C19H18O8,374.10016755,Distemonanthus benthamianus,Distemon,KNApSAcK
+7,C00004755,129554-05-8,"5'-hydroxy-3,5,7,2',4'-pentamethoxyflavone",C20H20O8,388.11581762,Distemonanthus benthamianus,Distemon,KNApSAcK
+8,C00004756,72947-61-6,"2'-Hydroxy-3,5,7,4',5'-pentamethoxyflavone",C20H20O8,388.11581762,Distemonanthus benthamianus,Distemon,KNApSAcK
+9,C00004757,72947-63-8,"5-Hydroxy-3,7,2',4',5'-pentamethoxyflavone",C20H20O8,388.11581762,Distemonanthus benthamianus,Distemon,KNApSAcK
+10,C00004758,21829-45-8,"3,5,7,2',4',5'-Hexamethoxyflavone",C21H22O8,402.13146768,Distemonanthus benthamianus,Distemon,KNApSAcK
+11,C00004805,72947-67-2,"3,5,6,7,2',3',4'-Heptahydroxyflavone",C15H10O9,334.03248192,Distemonanthus benthamianus,Distemon,KNApSAcK
+12,C00004813,80496-65-7,"5,6,5'-Trihydroxy-3,7,2',4'-tetramethoxyflavone",C19H18O9,390.09508217,Distemonanthus benthamianus,Distemon,KNApSAcK
+13,C00004815,80496-69-1,"6,5'-Dihydroxy-3,5,7,2',4'-pentamethoxyflavone",C20H20O9,404.11073224,Distemonanthus benthamianus,Distemon,KNApSAcK
+14,C00004816,72947-65-0,"6,2'-Dihydroxy-3,5,7,4',5'-pentamethoxyflavone",C20H20O9,404.11073224,Distemonanthus benthamianus,Distemon,KNApSAcK
+15,C00004819,78368-30-6,Distemonatin,C20H20O9,404.11073224,Distemonanthus benthamianus,Distemon,KNApSAcK
+16,C00004820,34318-24-6,Benthamitin,C22H24O9,432.14203237,Distemonanthus benthamianus,Distemon,KNApSAcK
+17,C00005038,162663-69-6,"6,8-Dimethoxy-2,3-trans-2-(4-hydroxy-2,3-dimethoxyphenyl)-9-(5-hydroxy-2-methoxyphenyl)-3-hydroxymethyl-2,3-dihydro-7H-1,4-dioxono[2,3-h]chromene-7-one",C29H28O12,568.15807636,Distemonanthus benthamianus,Distemon,KNApSAcK
+18,C00005108,53766-41-9,Benthamianin,C17H12O8,344.05321736,Distemonanthus benthamianus,Distemon,KNApSAcK
+19,C00005109,549-20-2,Distemonanthin,C17H10O9,358.03248192,Distemonanthus benthamianus,Distemon,KNApSAcK
+20,C00013383,149474-89-5,"5-Hydroxy-3,7,2',3',4',6'-hexamethoxyflavone",C21H22O9,418.1263823,Distemonanthus benthamianus,Distemon,KNApSAcK

@@ -1,0 +1,21 @@
+,C_ID,CAS ID,example_compound_name,Molecular formula,Mw,Organism,knapsack_search_term,Source
+0,C00001414,51-45-6,Histamine,C5H9N3,111.07964731,Drosera spp.,Drosera,KNApSAcK
+1,C00002818,478-40-0,Droserone,C11H8O4,204.04225874,Drosera peltata,Drosera,KNApSAcK
+2,C00002818,478-40-0,Droserone,C11H8O4,204.04225874,Drosera whittakeri,Drosera,KNApSAcK
+3,C00002852,481-42-5,Plumbagin,C11H8O3,188.04734412,Drosera peltata var.lunata,Drosera,KNApSAcK
+4,C00002852,481-42-5,Plumbagin,C11H8O3,188.04734412,Drosera rotundifolia,Drosera,KNApSAcK
+5,C00002859,14787-38-3,7-Methyljuglone,C11H8O3,188.04734412,Drosera rotundifolia L.,Drosera,KNApSAcK
+6,C00002859,14787-38-3,7-Methyljuglone,C11H8O3,188.04734412,Drosera spp.,Drosera,KNApSAcK
+7,C00037659,126582-70-5,Plumbaside A,C17H20O8,352.11581762,Drosera intermedia,Drosera,KNApSAcK
+8,C00037749,29868-44-8,Rossoliside,C17H20O8,352.11581762,Drosera spathulata,Drosera,KNApSAcK
+9,C00037749,29868-44-8,Rossoliside,C17H20O8,352.11581762,Drosera rotundifolia,Drosera,KNApSAcK
+10,C00037749,29868-44-8,Rossoliside,C17H20O8,352.11581762,Drosera intermedia,Drosera,KNApSAcK
+0,C00027398,387868-69-1,Javaberine A,C24H23NO6,421.15253747,Talinum paniculatum,Talinum,KNApSAcK
+1,C00027399,387868-70-4,Javaberine B,C24H23NO6,421.15253747,Talinum paniculatum,Talinum,KNApSAcK
+2,C00040443,145826-48-8,Talinumoside I,C43H66O16,838.43508606,Talinum triangulare,Talinum,KNApSAcK
+0,C00002818,478-40-0,Droserone,C11H8O4,204.04225874,Dionaea muscipula,Dionaea,KNApSAcK
+1,C00002852,481-42-5,Plumbagin,C11H8O3,188.04734412,Dionaea muscipula,Dionaea,KNApSAcK
+2,C00037659,126582-70-5,Plumbaside A,C17H20O8,352.11581762,Dionaea rotundifolia,Dionaea,KNApSAcK
+3,C00037659,126582-70-5,Plumbaside A,C17H20O8,352.11581762,Dionaea muscipula,Dionaea,KNApSAcK
+4,C00037659,126582-70-5,Plumbaside A,C17H20O8,352.11581762,Dionaea intermedia,Dionaea,KNApSAcK
+5,C00037659,126582-70-5,Plumbaside A,C17H20O8,352.11581762,Dionaea gigantea,Dionaea,KNApSAcK

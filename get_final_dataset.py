@@ -60,7 +60,7 @@ def get_final_occcurence_data():
 
     summary = pd.read_csv(compound_occurrence_csv, index_col=0)
     summary.describe(include='all').to_csv(
-        os.path.join('outputs', 'phytochemistry', 'compound_occurrences_summary.csv'))
+        os.path.join('outputs', 'compound_occurrences_summary.csv'))
 
 
 def transform_compiled_data(compiled_data: pd.DataFrame):
@@ -107,7 +107,7 @@ def add_diversity_data():
     compiled_data = compiled_data.dropna(subset=CHEMODIV_METRICS, how='all')
     compiled_data.to_csv(species_chemodiversity_csv)
     compiled_data.describe(include='all').to_csv(
-        os.path.join('outputs', 'phytochemistry', f'species_chemodiversity_summary.csv'))
+        os.path.join('outputs', f'species_chemodiversity_summary.csv'))
 
     transform_compiled_data(compiled_data)
 

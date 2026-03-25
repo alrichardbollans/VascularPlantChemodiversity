@@ -1,0 +1,90 @@
+,C_ID,CAS ID,example_compound_name,Molecular formula,Mw,Organism,knapsack_search_term,Source
+0,C00000001,545-97-1,Gibberellin A1,C19H24O6,348.1572885,Begonia x cheimantha,Begonia,KNApSAcK
+1,C00000004,468-44-0,Gibberellin A4,C19H24O5,332.16237388,Begonia x cheimantha,Begonia,KNApSAcK
+2,C00000009,427-77-0,Gibberellin A9,C19H24O4,316.16745925,Begonia x cheimantha,Begonia,KNApSAcK
+3,C00000019,6980-44-5,Gibberellin A19,C20H26O6,362.17293856,Begonia x cheimantha,Begonia,KNApSAcK
+4,C00000020,19143-87-4,Gibberellin A20,C19H24O5,332.16237388,Begonia x cheimantha,Begonia,KNApSAcK
+5,C00000113,771-50-6,Indole-3-carboxylic acid,C9H7NO2,161.04767848,Begonia nantoensis,Begonia,KNApSAcK
+6,C00000152,7400-08-0,p-Coumaric acid,C9H8O3,164.04734412,Begonia nantoensis,Begonia,KNApSAcK
+7,C00000207,65-85-0,Benzoic acid,C7H6O2,122.03677944,Begonia nantoensis,Begonia,KNApSAcK
+8,C00000208,59-67-6,Vitamin B3,C6H5NO2,123.03202841,Begonia nantoensis,Begonia,KNApSAcK
+9,C00000615,501-16-6,Caffeic acid,C9H8O4,180.04225874,Begonia nantoensis,Begonia,KNApSAcK
+10,C00000856,99-96-7,4-hydroxybenzoic acid,C7H6O3,138.03169406,Begonia nantoensis,Begonia,KNApSAcK
+11,C00001513,66-22-8,Uracil,C4H4N2O2,112.02727739,Begonia nantoensis,Begonia,KNApSAcK
+12,C00002422,31721-94-5,"5,7-Dihydroxychromone",C9H6O4,178.02660868,Begonia nantoensis,Begonia,KNApSAcK
+13,C00002518,552-66-9,Daidzin,C21H20O9,416.11073224,Begonia nantoensis,Begonia,KNApSAcK
+14,C00002657,123-08-0,4-Hydroxybenzaldehyde,C7H6O2,122.03677944,Begonia nantoensis,Begonia,KNApSAcK
+15,C00002668,99-50-3,"3,4-Dihydroxybenzoic acid",C7H6O4,154.02660868,Begonia nantoensis,Begonia,KNApSAcK
+16,C00002682,121-34-6,Vanillic acid,C8H8O4,168.04225874,Begonia nantoensis,Begonia,KNApSAcK
+17,C00002683,5463-22-9,Vanillin,C8H8O3,152.04734412,Begonia nantoensis,Begonia,KNApSAcK
+18,C00002718,14364-08-0,1-Caffeoyl-beta-D-glucose,C15H18O9,342.09508217,Begonia spp.,Begonia,KNApSAcK
+19,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Begonia nantoensis,Begonia,KNApSAcK
+20,C00003674,83-48-7,beta-Stigmasterol,C29H48O,412.37051615,Begonia nantoensis,Begonia,KNApSAcK
+21,C00003683,6199-67-3,Cucurbitacin B,C32H46O8,558.31926845,Begonia nantoensis,Begonia,KNApSAcK
+22,C00003686,18444-66-1,Cucurbitacin E,C32H44O8,556.30361838,Begonia nantoensis,Begonia,KNApSAcK
+23,C00003687,5939-57-1,Cucurbitacin F,C30H46O7,518.32435382,Begonia nantoensis,Begonia,KNApSAcK
+24,C00003689,2222-07-3,Cucurbitacin I,C30H42O7,514.2930537,Begonia nantoensis,Begonia,KNApSAcK
+25,C00003776,127-40-2,Lutein,C40H56O2,568.42803103,Begonia nantoensis,Begonia,KNApSAcK
+26,C00004646,33708-72-4,Pachypodol,C18H16O7,344.08960287,Begonia glabra,Begonia,KNApSAcK
+27,C00004737,571-71-1,Ternatin,C19H18O8,374.10016755,Begonia glabra,Begonia,KNApSAcK
+28,C00005370,6743-88-0,Reynoutrin,C20H18O11,434.08491142,Begonia glaucophylla,Begonia,KNApSAcK
+29,C00006635,,Pelargonidin 3-sambubioside,C26H29O14,565.15573064,Begonia sp.,Begonia,KNApSAcK
+30,C00006643,,Pelargonidin 3-(2G-xylosylrutinoside),C32H39O18,711.21363945,Begonia spp.,Begonia,KNApSAcK
+31,C00006657,33012-73-6,Sambicyanin,C26H29O15.Cl,616.11949797,Begonia rex,Begonia,KNApSAcK
+32,C00006671,38226-79-8,Cyanidin 3-(2G-xylosylrutinoside),C32H39O19,727.20855407,Begonia spp.,Begonia,KNApSAcK
+33,C00006802,162972-64-7,Cyanidin 3-(6''-p-coumarylsambubioside),C35H35O17,727.1874247,Begonia spp.,Begonia,KNApSAcK
+34,C00006803,169210-08-6,Cyanidin 3-(6''-(E)-caffeylsambubioside),C35H35O18,743.18233932,Begonia spp.,Begonia,KNApSAcK
+35,C00014762,169210-09-7,Cyanidin 3-(6''-(Z)-caffeylsambubioside),C35H35O18,743.18233932,Begonia spp.,Begonia,KNApSAcK
+36,C00014763,,Cyanidin 3-(6''-(Z)-p-coumarylsophoroside),C36H37O18,757.19798938,Begonia spp.,Begonia,KNApSAcK
+37,C00019308,474-58-8,3-O-beta-D-Glucopyranosyl sitosterol,C35H60O6,576.43898965,Begonia nantoensis,Begonia,KNApSAcK
+38,C00026659,740813-51-8,Begonanline,C13H10N2O3,242.0691422,Begonia nantoensis,Begonia,KNApSAcK
+39,C00029476,118-41-2,Eudesmic acid,C10H12O5,212.06847349,Begonia nantoensis,Begonia,KNApSAcK
+40,C00029821,1058-61-3,Sitostenone,C29H48O,412.37051615,Begonia nantoensis,Begonia,KNApSAcK
+41,C00030751,99-76-3,Methylparaben,C8H8O3,152.04734412,Begonia nantoensis,Begonia,KNApSAcK
+42,C00030768,3943-74-6,Methyl vanillate,C9H10O4,182.05790881,Begonia nantoensis,Begonia,KNApSAcK
+43,C00031034,94-53-1,Piperonylic acid,C8H6O4,166.02660868,Begonia nantoensis,Begonia,KNApSAcK
+44,C00031089,2150-43-8,Methyl protocatechuate,C8H8O4,168.04225874,Begonia nantoensis,Begonia,KNApSAcK
+45,C00031444,740813-53-0,(-)-Auranamide,C32H30N2O4,506.22055746,Begonia nantoensis,Begonia,KNApSAcK
+46,C00031476,4503-96-2,(S)-N-(1-Hydroxymethyl-2-phenylethyl)-benzamide,C16H17NO2,255.12592879,Begonia nantoensis,Begonia,KNApSAcK
+47,C00031480,533-73-3,"1,2,4-Trihydroxybenzene",C6H6O3,126.03169406,Begonia nantoensis,Begonia,KNApSAcK
+48,C00031748,13201-14-4,Dihydrocucurbitacin B,C32H48O8,560.33491851,Begonia nantoensis,Begonia,KNApSAcK
+49,C00031749,28973-67-3,Dihydrocucurbitacin E,C32H46O8,558.31926845,Begonia nantoensis,Begonia,KNApSAcK
+50,C00031750,1110-02-7,Dihydrocucurbitacin I,C30H44O7,516.30870376,Begonia nantoensis,Begonia,KNApSAcK
+51,C00032010,60456-21-5,Methyl (S)-glycerate,C7H12O4,160.07355887,Begonia nantoensis,Begonia,KNApSAcK
+52,C00032054,349114-09-6,Nantoamide,C16H15NO3,269.10519335,Begonia nantoensis,Begonia,KNApSAcK
+0,C00000712,66280-25-9,(-)-Gomisin J,C22H28O6,388.18858863,Schisandra sphenanthera,Sphenanthera,KNApSAcK
+1,C00000718,64917-82-4,Schisantherin D,C29H28O9,520.17333249,Schisandra sphenanthera,Sphenanthera,KNApSAcK
+2,C00002625,58546-56-8,Schisantherin A,C30H32O9,536.20463262,Schisandra sphenanthera,Sphenanthera,KNApSAcK
+3,C00034219,7432-28-2,Schisandrol A,C24H32O7,432.21480338,Schisandra sphenanthera,Sphenanthera,KNApSAcK
+4,C00034269,884495-25-4,Sphenadilactone A,C29H36O12,576.22067662,Schisandra sphenanthera,Sphenanthera,KNApSAcK
+5,C00034270,884495-28-7,Sphenadilactone B,C29H36O12,576.22067662,Schisandra sphenanthera,Sphenanthera,KNApSAcK
+6,C00034271,1103810-64-5,Sphenadilactone C,C31H39NO12,617.24722572,Schisandra sphenanthera,Sphenanthera,KNApSAcK
+7,C00034272,948302-24-7,Sphenalactone A,C27H30O8,482.19406794,Schisandra sphenanthera,Sphenanthera,KNApSAcK
+8,C00034273,948302-25-8,Sphenalactone B,C27H30O8,482.19406794,Schisandra sphenanthera,Sphenanthera,KNApSAcK
+9,C00034274,948302-26-9,Sphenalactone C,C27H30O9,498.18898256,Schisandra sphenanthera,Sphenanthera,KNApSAcK
+10,C00034275,948302-27-0,Sphenalactone D,C27H30O7,466.19915331,Schisandra sphenanthera,Sphenanthera,KNApSAcK
+11,C00034276,1103810-66-7,Sphenasin A,C27H38O4,426.2770097,Schisandra sphenanthera,Sphenanthera,KNApSAcK
+0,C00012197,68715-67-3,Haageanolide,C15H20O3,248.1412445,Zinnia haageana,Haagea,KNApSAcK
+0,C00001016,5128-44-9,"5-Hydroxy-7,4'-dimethoxyflavone",C17H14O5,298.08412356,Marchesinia brachiata,Rachia,KNApSAcK
+1,C00002046,496-49-1,Hygrine,C8H15NO,141.11536411,Corallia brachiata,Rachia,KNApSAcK
+2,C00003825,2150-11-0,"3',4',7-Trihydroxyflavone",C15H10O5,270.05282343,Carex longebrachiata,Rachia,KNApSAcK
+3,C00029380,36151-16-3,11-Methoxydiaboline,C22H26N2O4,382.18925733,Strychnos brachiata,Rachia,KNApSAcK
+4,C00043150,40772-12-1,12-Deacetyl-12-epi-19-deoxyscalarin,C25H38O3,386.28209508,Brachiaster sp.,Rachia,KNApSAcK
+5,C00043573,62008-04-2,Heteronemin,C29H44O6,488.31378914,Brachiaster sp.,Rachia,KNApSAcK
+6,C00043574,107748-93-6,Heteronemin acetate,C31H46O7,530.32435382,Brachiaster sp.,Rachia,KNApSAcK
+7,C00043694,75088-81-2,Manoalide 25-acetate,C27H38O6,458.26683895,Brachiaster sp.,Rachia,KNApSAcK
+8,C00046088,97242-16-5,Longibrachin LGA I,C90H149N23O24,1936.11458286,Trichoderma longibrachiatum,Rachia,KNApSAcK
+9,C00046089,136991-14-5,Longibrachin LGA II,C91H151N23O24,1950.13023292,Trichoderma longibrachiatum,Rachia,KNApSAcK
+10,C00046090,121689-08-5,Longibrachin LGA III,C91H151N23O24,1950.13023292,Trichoderma longibrachiatum,Rachia,KNApSAcK
+11,C00046091,177770-63-7,Longibrachin LGA IV,C92H153N23O24,1964.14588299,Trichoderma longibrachiatum,Rachia,KNApSAcK
+12,C00046092,161726-96-1,Longibrachin LGB II,C90H148N22O25,1937.09859844,Trichoderma longibrachiatum,Rachia,KNApSAcK
+13,C00046093,161726-98-3,Longibrachin LGB III,C91H150N22O25,1951.11424851,Trichoderma longibrachiatum,Rachia,KNApSAcK
+0,C00006610,1151-98-0,Apigeninidin,C15H11O4,255.06573384,Rechsteineria cardinalis,Steineria,KNApSAcK
+1,C00006611,1154-78-5,Luteolinidin,C15H11O5,271.06064846,Rechsteineria cardinalis,Steineria,KNApSAcK
+2,C00006620,19045-96-6,Gesnerin,C21H21O9,417.11855727,Rechsteineria macrorhiza,Steineria,KNApSAcK
+3,C00006623,13089-93-5,Luteolinidin 5-glucoside,C21H21O10,433.11347189,Rechsteineria macrorhiza,Steineria,KNApSAcK
+0,C00015898,86630-46-8,Nudol,C16H14O4,270.08920894,Maxillaria densa,Maxillaria,KNApSAcK
+1,C00015902,113476-61-2,Gymnopusin,C17H16O5,300.09977362,Maxillaria densa,Maxillaria,KNApSAcK
+2,C00024152,152841-83-3,Fimbriol A,C17H16O5,300.09977362,Maxillaria densa,Maxillaria,KNApSAcK
+3,C00026282,256379-00-7,(-)-Tenuamine,C11H18N2O,194.14191321,Maxillaria tenuifolia,Maxillaria,KNApSAcK
+4,C00030201,101508-48-9,Erianthridin,C16H16O4,272.104859,Maxillaria densa,Maxillaria,KNApSAcK

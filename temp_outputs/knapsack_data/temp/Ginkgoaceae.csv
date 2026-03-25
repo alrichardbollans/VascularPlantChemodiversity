@@ -1,0 +1,233 @@
+,C_ID,CAS ID,example_compound_name,Molecular formula,Mw,Organism,knapsack_search_term,Source
+0,C00000134,21293-29-8,Abscisic acid,C15H20O4,264.13615913,Ginkgo biloba,Ginkgo,KNApSAcK
+1,C00000136,470-82-6,"1,8-Cineol",C10H18O,154.1357652,Ginkgo biloba,Ginkgo,KNApSAcK
+2,C00000152,7400-08-0,p-Coumaric acid,C9H8O3,164.04734412,Ginkgo biloba,Ginkgo,KNApSAcK
+3,C00000164,473-15-4,(+)-beta-Eudesmol,C15H26O,222.19836545,Ginkgo biloba,Ginkgo,KNApSAcK
+4,C00000165,1209-71-8,gamma-Eudesmol,C15H26O,222.19836545,Ginkgo biloba,Ginkgo,KNApSAcK
+5,C00000170,140-10-3,Cinnamate,C9H8O2,148.0524295,Ginkgo biloba,Ginkgo,KNApSAcK
+6,C00000206,69-72-7,Salicylic acid,C7H6O3,138.03169406,Ginkgo biloba,Ginkgo,KNApSAcK
+7,C00000601,607-80-7,(+)-Sesamin,C20H18O6,354.11033831,Ginkgo biloba,Ginkgo,KNApSAcK
+8,C00000615,501-16-6,Caffeic acid,C9H8O4,180.04225874,Ginkgo biloba,Ginkgo,KNApSAcK
+9,C00000674,491-70-3,"5,7,3',4'-Tetrahydroxyflavone",C15H10O6,286.04773805,Ginkgo biloba,Ginkgo,KNApSAcK
+10,C00000677,480-18-2,Dihydroquercetin,C15H12O7,304.05830274,Ginkgo biloba,Ginkgo,KNApSAcK
+11,C00000805,80-56-8,alpha-Pinene,C10H16,136.12520051,Ginkgo biloba,Ginkgo,KNApSAcK
+12,C00000816,127-91-3,beta-Pinene,C10H16,136.12520051,Ginkgo biloba,Ginkgo,KNApSAcK
+13,C00000823,138-86-3,Limonene,C10H16,136.12520051,Ginkgo biloba,Ginkgo,KNApSAcK
+14,C00000937,2545-00-8,Afzelechin,C15H14O5,274.08412356,Ginkgo biloba,Ginkgo,KNApSAcK
+15,C00000938,27200-12-0,Ampelopsin,C15H12O8,320.05321736,Ginkgo biloba,Ginkgo,KNApSAcK
+16,C00000947,154-23-4,(+)-Catechin,C15H14O6,290.07903818,Ginkgo biloba,Ginkgo,KNApSAcK
+17,C00000956,490-46-0,(-)-Epicatechin,C15H14O6,290.07903818,Ginkgo biloba,Ginkgo,KNApSAcK
+18,C00000960,552-58-9,Eriodictyol,C15H12O6,288.06338812,Ginkgo biloba,Ginkgo,KNApSAcK
+19,C00000969,446-71-9,Homoeriodictyol,C16H14O6,302.07903818,Ginkgo biloba,Ginkgo,KNApSAcK
+20,C00000982,480-41-1,Naringenin,C15H12O5,272.06847349,Ginkgo biloba,Ginkgo,KNApSAcK
+21,C00000991,548-82-3,Pinobanksin,C15H12O5,272.06847349,Ginkgo biloba,Ginkgo,KNApSAcK
+22,C00000992,480-39-7,Dihydrochrysin,C15H12O4,256.07355887,Ginkgo biloba,Ginkgo,KNApSAcK
+23,C00000999,2957-21-3,Sakuranetin,C16H14O5,286.08412356,Ginkgo biloba,Ginkgo,KNApSAcK
+24,C00001015,1617-53-4,Amentoflavone,C30H18O10,538.0899968,Ginkgo biloba,Ginkgo,KNApSAcK
+25,C00001017,578-74-5,Apigenin 7-O-beta-D-glucopyranoside,C21H20O10,432.10564686,Ginkgo biloba,Ginkgo,KNApSAcK
+26,C00001022,491-67-8,Baicalein,C15H10O5,270.05282343,Ginkgo biloba,Ginkgo,KNApSAcK
+27,C00001029,491-71-4,Chrysoeriol,C16H12O6,300.06338812,Ginkgo biloba,Ginkgo,KNApSAcK
+28,C00001036,520-34-3,Diosmetin,C16H12O6,300.06338812,Ginkgo biloba,Ginkgo,KNApSAcK
+29,C00001040,525-82-6,2-Phenylchromone,C15H10O2,222.06807956,Ginkgo biloba,Ginkgo,KNApSAcK
+30,C00001044,481-46-9,Ginkgetin,C32H22O10,566.12129692,Ginkgo biloba,Ginkgo,KNApSAcK
+31,C00001049,19202-36-9,Hinokiflavone,C30H18O10,538.0899968,Ginkgo biloba,Ginkgo,KNApSAcK
+32,C00001055,4261-42-1,Isoorientin,C21H20O11,448.10056148,Ginkgo biloba,Ginkgo,KNApSAcK
+33,C00001059,38953-85-4,Isovitexin,C21H20O10,432.10564686,Ginkgo biloba,Ginkgo,KNApSAcK
+34,C00001071,529-44-2,Myricetin,C15H10O8,318.0375673,Ginkgo biloba,Ginkgo,KNApSAcK
+35,C00001098,521-34-6,Sciadopitysin,C33H24O10,580.13694699,Ginkgo biloba,Ginkgo,KNApSAcK
+36,C00001110,3681-93-4,Vitexin,C21H20O10,432.10564686,Ginkgo biloba,Ginkgo,KNApSAcK
+37,C00001151,57-50-1,D-Sucrose,C12H22O11,342.11621155,Ginkgo biloba,Ginkgo,KNApSAcK
+38,C00001172,523-92-2,Sequoyitol,C7H14O6,194.07903818,Ginkgo biloba,Ginkgo,KNApSAcK
+39,C00001203,138-59-0,Shikimic acid,C7H10O5,174.05282343,Ginkgo biloba,Ginkgo,KNApSAcK
+40,C00001209,506-30-9,Arachidic acid,C20H40O2,312.30283052,Ginkgo biloba,Ginkgo,KNApSAcK
+41,C00001211,112-85-6,Behenic acid,C22H44O2,340.33413065,Ginkgo biloba,Ginkgo,KNApSAcK
+42,C00001223,557-59-5,Lignoceric acid,C24H48O2,368.36543078,Ginkgo biloba,Ginkgo,KNApSAcK
+43,C00001224,60-33-3,Linoleic acid,C18H32O2,280.24023027,Ginkgo biloba,Ginkgo,KNApSAcK
+44,C00001231,124-07-2,Octanoic acid,C8H16O2,144.11502975,Ginkgo biloba,Ginkgo,KNApSAcK
+45,C00001233,57-10-3,Palmitic acid,C16H32O2,256.24023027,Ginkgo biloba,Ginkgo,KNApSAcK
+46,C00001261,2606-50-0,Nonacosan-10-ol,C29H60O,424.46441654,Ginkgo biloba,Ginkgo,KNApSAcK
+47,C00001262,504-56-3,Ginnone,C29H58O,422.44876647,Ginkgo biloba,Ginkgo,KNApSAcK
+48,C00001379,63-68-3,L-Methionine,C5H11NO2S,149.05104933,Ginkgo biloba,Ginkgo,KNApSAcK
+49,C00001386,63-91-2,L-Phenylalanine,C9H11NO2,165.0789786,Ginkgo biloba,Ginkgo,KNApSAcK
+50,C00001540,3778-29-8,6-Hydroxykynurenic acid,C10H7NO4,205.03750772,Ginkgo biloba,Ginkgo,KNApSAcK
+51,C00001576,476-28-8,(-)-Lycorine,C16H17NO4,287.11575804,Ginkgo biloba,Ginkgo,KNApSAcK
+52,C00002460,91-64-5,Coumarin,C9H6O2,146.03677944,Ginkgo biloba,Ginkgo,KNApSAcK
+53,C00002471,305-01-1,Aesculetin,C9H6O4,178.02660868,Ginkgo biloba,Ginkgo,KNApSAcK
+54,C00002473,574-84-5,Fraxetin,C10H8O5,208.03717337,Ginkgo biloba,Ginkgo,KNApSAcK
+55,C00002499,92-61-5,Scopoletin,C10H8O4,192.04225874,Ginkgo biloba,Ginkgo,KNApSAcK
+56,C00002503,93-35-6,Umbelliferone,C9H6O3,162.03169406,Ginkgo biloba,Ginkgo,KNApSAcK
+57,C00002525,485-72-3,Formononetin,C16H12O4,268.07355887,Ginkgo biloba,Ginkgo,KNApSAcK
+58,C00002526,446-72-0,Genistein,C15H10O5,270.05282343,Ginkgo biloba,Ginkgo,KNApSAcK
+59,C00002576,611-40-5,Tectoridin,C22H22O11,462.11621155,Ginkgo biloba,Ginkgo,KNApSAcK
+60,C00002631,21453-69-0,(+)-Lirioresinol B,C22H26O8,418.16276781,Ginkgo biloba,Ginkgo,KNApSAcK
+61,C00002635,16611-84-0,Anacardic acid,C22H36O3,348.26644502,Ginkgo biloba,Ginkgo,KNApSAcK
+62,C00002640,22910-86-7,Bilobol,C21H34O2,318.25588033,Ginkgo biloba,Ginkgo,KNApSAcK
+63,C00002643,501-26-8,Ginkgol,C21H34O,302.26096571,Ginkgo biloba,Ginkgo,KNApSAcK
+64,C00002644,120-80-9,Catechol,C6H6O2,110.03677944,Ginkgo biloba,Ginkgo,KNApSAcK
+65,C00002647,149-91-7,Gallic acid,C7H6O5,170.0215233,Ginkgo biloba,Ginkgo,KNApSAcK
+66,C00002651,22910-60-7,Ginkgoic acid,C22H34O3,346.25079495,Ginkgo biloba,Ginkgo,KNApSAcK
+67,C00002668,99-50-3,"3,4-Dihydroxybenzoic acid",C7H6O4,154.02660868,Ginkgo biloba,Ginkgo,KNApSAcK
+68,C00002720,73263-62-4,5-O-Caffeoylshikimic acid,C16H16O8,336.08451749,Ginkgo biloba,Ginkgo,KNApSAcK
+69,C00002724,327-97-9,3-O-Caffeoylquinic acid,C16H18O9,354.09508217,Ginkgo biloba,Ginkgo,KNApSAcK
+70,C00003029,79-92-5,Camphene,C10H16,136.12520051,Ginkgo biloba,Ginkgo,KNApSAcK
+71,C00003112,77-53-2,(+)-Cedrol,C15H26O,222.19836545,Ginkgo biloba,Ginkgo,KNApSAcK
+72,C00003162,475-20-7,Longifolene,C15H24,204.18780077,Ginkgo biloba,Ginkgo,KNApSAcK
+73,C00003194,470-40-6,Thujopsene,C15H24,204.18780077,Ginkgo biloba,Ginkgo,KNApSAcK
+74,C00003429,15291-75-5,Ginkgolide A,C20H24O9,408.14203237,Ginkgo biloba,Ginkgo,KNApSAcK
+75,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Ginkgo biloba L.,Ginkgo,KNApSAcK
+76,C00003673,481-18-5,Spinasterol,C29H48O,412.37051615,Ginkgo biloba L.,Ginkgo,KNApSAcK
+77,C00003674,83-48-7,beta-Stigmasterol,C29H48O,412.37051615,Ginkgo biloba,Ginkgo,KNApSAcK
+78,C00003794,480-40-0,Chrysin,C15H10O4,254.05790881,Ginkgo biloba,Ginkgo,KNApSAcK
+79,C00003817,520-36-5,Apigenin,C15H10O5,270.05282343,Ginkgo biloba,Ginkgo,KNApSAcK
+80,C00003820,480-44-4,Acacetin,C16H12O5,284.06847349,Ginkgo biloba,Ginkgo,KNApSAcK
+81,C00004157,17306-46-6,Rhoifolin,C27H30O14,578.16355567,Ginkgo biloba,Ginkgo,KNApSAcK
+82,C00004261,20344-46-1,Luteolin 5-O-beta-D-glucopyranoside,C21H20O11,448.10056148,Ginkgo biloba,Ginkgo,KNApSAcK
+83,C00004273,5154-41-6,Luteolin 3'-beta-D-glucopyranoside,C21H20O11,448.10056148,Ginkgo biloba,Ginkgo,KNApSAcK
+84,C00004338,19993-32-9,Chrysoeriol 7-O-beta-D-glucopyranoside,C22H22O11,462.11621155,Ginkgo biloba,Ginkgo,KNApSAcK
+85,C00004533,548-83-4,Galangin,C15H10O5,270.05282343,Ginkgo biloba,Ginkgo,KNApSAcK
+86,C00004565,520-18-3,Kaempferol,C15H10O6,286.04773805,Ginkgo biloba,Ginkgo,KNApSAcK
+87,C00004579,528-48-3,Fisetin,C15H10O6,286.04773805,Ginkgo biloba,Ginkgo,KNApSAcK
+88,C00004631,117-39-5,Quercetin,C15H10O7,302.04265268,Ginkgo biloba,Ginkgo,KNApSAcK
+89,C00004635,480-19-3,Isorhamnetin,C16H12O7,316.05830274,Ginkgo biloba,Ginkgo,KNApSAcK
+90,C00004636,603-61-2,Tamarixetin,C16H12O7,316.05830274,Ginkgo biloba,Ginkgo,KNApSAcK
+91,C00004763,53472-37-0,Laricitrin,C16H12O8,332.05321736,Ginkgo biloba,Ginkgo,KNApSAcK
+92,C00004767,4423-37-4,Syringetin,C17H14O8,346.06886743,Ginkgo biloba,Ginkgo,KNApSAcK
+93,C00005137,23627-87-4,Kaempferol 3-O-galactoside,C21H20O11,448.10056148,Ginkgo biloba,Ginkgo,KNApSAcK
+94,C00005138,480-10-4,Astragalin,C21H20O11,448.10056148,Ginkgo biloba,Ginkgo,KNApSAcK
+95,C00005140,482-39-3,Afzelin,C21H20O10,432.10564686,Ginkgo biloba,Ginkgo,KNApSAcK
+96,C00005149,16290-07-6,Kaempferol 7-O-beta-D-glucopyranoside,C21H20O11,448.10056148,Ginkgo biloba,Ginkgo,KNApSAcK
+97,C00005150,20196-89-8,Kaempferol 7-O-rhamnoside,C21H20O10,432.10564686,Ginkgo biloba,Ginkgo,KNApSAcK
+98,C00005167,32602-81-6,Kaempferol 3-neohesperidoside,C27H30O15,594.15847029,Ginkgo biloba,Ginkgo,KNApSAcK
+99,C00005169,17650-84-9,Kaempferol 3-rutinoside,C27H30O15,594.15847029,Ginkgo biloba,Ginkgo,KNApSAcK
+100,C00005171,142451-65-8,Kaempferol 3-glucosyl-(1->2)-rhamnoside,C27H30O15,594.15847029,Ginkgo biloba,Ginkgo,KNApSAcK
+101,C00005219,55804-74-5,Clitorin,C33H40O19,740.2163791,Ginkgo biloba,Ginkgo,KNApSAcK
+102,C00005290,16290-08-7,Mumenin,C22H22O11,462.11621155,Ginkgo biloba,Ginkgo,KNApSAcK
+103,C00005367,572-30-5,Avicularin,C20H18O11,434.08491142,Ginkgo biloba,Ginkgo,KNApSAcK
+104,C00005372,482-36-0,Hyperin,C21H20O12,464.09547611,Ginkgo biloba,Ginkgo,KNApSAcK
+105,C00005373,482-35-9,Hirsutrin,C21H20O12,464.09547611,Ginkgo biloba,Ginkgo,KNApSAcK
+106,C00005374,522-12-3,Quercetin 3-O-alpha-L-rhamnoside,C21H20O11,448.10056148,Ginkgo biloba,Ginkgo,KNApSAcK
+107,C00005382,491-50-9,Quercetin 7-O-beta-D-glucopyranoside,C21H20O12,464.09547611,Ginkgo biloba,Ginkgo,KNApSAcK
+108,C00005413,153-18-4,Quercetin 3-rutinoside,C27H30O16,610.15338491,Ginkgo biloba,Ginkgo,KNApSAcK
+109,C00005417,143016-74-4,Quercetin 3-glucosyl-(1->2)-rhamnoside,C27H30O16,610.15338491,Ginkgo biloba,Ginkgo,KNApSAcK
+110,C00005456,55696-57-6,Manghaslin,C33H40O20,756.21129372,Ginkgo biloba,Ginkgo,KNApSAcK
+111,C00005525,5041-82-7,Isorhamnetin 3-O-beta-D-glucopyranoside,C22H22O12,478.11112617,Ginkgo biloba,Ginkgo,KNApSAcK
+112,C00005530,6743-96-0,Isorhamnetin 7-O-beta-D-glucopyranoside,C22H22O12,478.11112617,Ginkgo biloba,Ginkgo,KNApSAcK
+113,C00005548,604-80-8,Isorhamnetin 3-O-rutinoside,C28H32O16,624.16903498,Ginkgo biloba,Ginkgo,KNApSAcK
+114,C00005573,104472-68-6,Typhaneoside,C34H42O20,770.22694379,Ginkgo biloba,Ginkgo,KNApSAcK
+115,C00005582,55481-91-9,Isorhamnetin-3-O-rutinoside-7-O-glucoside,C34H42O21,786.22185841,Ginkgo biloba,Ginkgo,KNApSAcK
+116,C00005644,19833-25-1,Patuletin 7-glucoside,C22H22O13,494.10604079,Ginkgo biloba,Ginkgo,KNApSAcK
+117,C00005729,19833-12-6,Isomyricitrin,C21H20O13,480.09039073,Ginkgo biloba,Ginkgo,KNApSAcK
+118,C00005737,41093-68-9,Myricetin-3-O-rutinoside,C27H30O17,626.14829954,Ginkgo biloba,Ginkgo,KNApSAcK
+119,C00005765,55481-90-8,Laricitrin 3-rutinoside,C28H32O17,640.1639496,Ginkgo biloba,Ginkgo,KNApSAcK
+120,C00005776,55025-56-4,Syringetin 3-galactoside,C23H24O13,508.12169086,Ginkgo biloba,Ginkgo,KNApSAcK
+121,C00005884,"107190-70-5,111957-48-3",Kaempferol 3-[6'''-p-coumarylglucosyl-(1->2)-rhamnoside],C36H36O17,740.19524973,Ginkgo biloba,Ginkgo,KNApSAcK
+122,C00005885,142997-34-0,Kaempferol 3-(6-[4-glucosyl-p-coumaryl]glucosyl)(1->2)-rhamnoside,C42H46O22,902.24807316,Ginkgo biloba,Ginkgo,KNApSAcK
+123,C00005978,"107190-71-6,143061-65-8",Quercetin 3-(6'''-p-coumarylglucosyl)(1->2)-rhamnoside,C36H36O18,756.19016435,Ginkgo biloba,Ginkgo,KNApSAcK
+124,C00005979,142997-33-9,Quercetin 3-(6-[4-glucosyl-p-coumaryl]glucosyl)(1->2)-rhamnoside,C42H46O23,918.24298778,Ginkgo biloba,Ginkgo,KNApSAcK
+125,C00006000,143016-73-3,Quercetin 3-(6'''-p-coumarylglucosyl)(1->2)-rhamnoside-7-glucoside,C42H46O23,918.24298778,Ginkgo biloba,Ginkgo,KNApSAcK
+126,C00006488,521-32-4,Bilobetin,C31H20O10,552.10564686,Ginkgo biloba,Ginkgo,KNApSAcK
+127,C00006494,548-19-6,Isoginkgetin,C32H22O10,566.12129692,Ginkgo biloba,Ginkgo,KNApSAcK
+128,C00006497,77053-35-1,5'-Methoxybilobetin,C32H22O11,582.11621155,Ginkgo biloba,Ginkgo,KNApSAcK
+129,C00006513,34421-19-7,"2,3-Dihydrosciadopitysin",C33H26O10,582.15259705,Ginkgo biloba,Ginkgo,KNApSAcK
+130,C00006614,13306-05-3,Cyanidin,C15H11O6,287.05556308,Ginkgo biloba,Ginkgo,KNApSAcK
+131,C00007232,134-04-3,Pelargonidin,C15H11O5.Cl,306.02950117,Ginkgo biloba,Ginkgo,KNApSAcK
+132,C00007233,25515-46-2,Naringenin chalcone,C15H12O5,272.06847349,Ginkgo biloba,Ginkgo,KNApSAcK
+133,C00007234,480-20-6,(+)-Dihydrokaempferol,C15H12O6,288.06338812,Ginkgo biloba,Ginkgo,KNApSAcK
+134,C00007235,480-17-1,Leucocyanidin,C15H14O7,306.0739528,Ginkgo biloba,Ginkgo,KNApSAcK
+135,C00007242,495-61-4,beta-Bisabolene,C15H24,204.18780077,Ginkgo biloba,Ginkgo,KNApSAcK
+136,C00007247,463-40-1,alpha-Linolenic acid,C18H30O2,278.2245802,Ginkgo biloba,Ginkgo,KNApSAcK
+137,C00007921,1083-30-3,Dihydrochalcone,C15H14O,210.10446507,Ginkgo biloba,Ginkgo,KNApSAcK
+138,C00008579,55812-91-4,(+)-Dihydroisorhamnetin,C16H14O7,318.0739528,Ginkgo biloba,Ginkgo,KNApSAcK
+139,C00008708,72442-45-6,Taxifolin 7-galactoside,C21H22O12,466.11112617,Ginkgo biloba,Ginkgo,KNApSAcK
+140,C00008817,970-73-0,(+)-Gallocatechin,C15H14O7,306.0739528,Ginkgo biloba,Ginkgo,KNApSAcK
+141,C00008818,970-74-1,(-)-Epigallocatechin,C15H14O7,306.0739528,Ginkgo biloba,Ginkgo,KNApSAcK
+142,C00009380,486-66-8,Daidzein,C15H10O4,254.05790881,Ginkgo biloba,Ginkgo,KNApSAcK
+143,C00009392,40957-83-3,Glycitein,C16H12O5,284.06847349,Ginkgo biloba,Ginkgo,KNApSAcK
+144,C00011512,33570-04-6,Bilobalide,C15H18O8,326.10016755,Ginkgo biloba,Ginkgo,KNApSAcK
+145,C00011591,17015-33-7,Bilobanon,C15H20O2,232.14632988,Ginkgo biloba,Ginkgo,KNApSAcK
+146,C00011601,57095-92-8,"(E)-5-(1,5-Dimethyl-3-oxo-1-hexenyl)-2-methyl-2-cyclohexen-1-one",C15H22O2,234.16197995,Ginkgo biloba,Ginkgo,KNApSAcK
+147,C00011643,57130-01-5,(E)-6-Methyl-2-(4-methyl-3-cyclohexen-1-yl)-2-hepten-4-one,C15H24O,220.18271539,Ginkgo biloba,Ginkgo,KNApSAcK
+148,C00011644,56192-70-2,(Z)-alpha-Atlantone,C15H22O,218.16706532,Ginkgo biloba,Ginkgo,KNApSAcK
+149,C00011645,57130-00-4,(Z)-6-Methyl-2-(4-methyl-3-cyclohexen-1-yl)-2-hepten-4-one,C15H24O,220.18271539,Ginkgo biloba,Ginkgo,KNApSAcK
+150,C00012005,639-99-6,(-)-Elemol,C15H26O,222.19836545,Ginkgo biloba,Ginkgo,KNApSAcK
+151,C00013328,520-31-0,Tricetin,C15H10O7,302.04265268,Ginkgo biloba,Ginkgo,KNApSAcK
+152,C00013329,520-32-1,Tricin,C17H14O7,330.0739528,Ginkgo biloba,Ginkgo,KNApSAcK
+153,C00013760,245036-41-3,Kaempferol 3-glucosyl-(1->2)-rhamnoside-7-glucoside,C33H40O20,756.21129372,Ginkgo biloba,Ginkgo,KNApSAcK
+154,C00013798,368264-85-1,Kaempferol 3-(6'''-p-coumaroylglucosyl)-(1->2)-rhamnoside-7-glucoside,C42H46O22,902.24807316,Ginkgo biloba,Ginkgo,KNApSAcK
+155,C00013920,402949-94-4,Isorhamnetin 3-(6'''-p-coumaroylglucosyl)-(1->2)-rhamnoside,C37H38O18,770.20581441,Ginkgo biloba,Ginkgo,KNApSAcK
+156,C00014371,71106-82-6,Hovenitin I,C16H14O8,334.06886743,Ginkgo biloba,Ginkgo,KNApSAcK
+157,C00021230,489-39-4,(+)-Aromadendrene,C15H24,204.18780077,Ginkgo biloba,Ginkgo,KNApSAcK
+158,C00025175,7729-23-9,Hirsutine,C22H28N2O3,368.20999277,Ginkgo biloba,Ginkgo,KNApSAcK
+159,C00030527,486-21-5,Isofraxidin,C11H10O5,222.05282343,Ginkgo biloba,Ginkgo,KNApSAcK
+160,C00030879,593-45-3,n-Octadecane,C18H38,254.29735121,Ginkgo biloba,Ginkgo,KNApSAcK
+161,C00031031,69251-96-3,Pinoresinol O-beta-D-glucopyranoside,C26H32O11,520.19446187,Ginkgo biloba,Ginkgo,KNApSAcK
+162,C00031903,870298-08-1,Isoginkgetin 7-O-beta-D-glucopyranoside,C38H32O15,728.17412036,Ginkgo biloba,Ginkgo,KNApSAcK
+163,C00034185,36413-60-2,Quinic acid,C7H12O6,192.06338812,Ginkgo biloba,Ginkgo,KNApSAcK
+164,C00035114,506-46-7,Hexacosanoic acid,C26H52O2,396.3967309,Ginkgo biloba,Ginkgo,KNApSAcK
+165,C00035830,15291-77-7,Ginkgolide B,C20H24O10,424.13694699,Ginkgo biloba,Ginkgo,KNApSAcK
+166,C00035831,15291-76-6,Ginkgolide C,C20H24O11,440.13186161,Ginkgo biloba,Ginkgo,KNApSAcK
+167,C00035832,107438-79-9,Ginkgolide J,C20H24O10,424.13694699,Ginkgo biloba,Ginkgo,KNApSAcK
+168,C00040761,504-55-2,10-Nonacosanol,C29H60O,424.46441654,Ginkgo biloba,Ginkgo,KNApSAcK
+169,C00041545,15291-78-8,Ginkgolide M,C20H24O10,424.13694699,Ginkgo biloba,Ginkgo,KNApSAcK
+170,C00044287,79-09-4,Propionic acid,C3H6O2,74.03677944,Ginkgo biloba,Ginkgo,KNApSAcK
+171,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Ginkgo biloba,Ginkgo,KNApSAcK
+172,C00047902,1464-33-1,Ginkgotoxin,C9H13NO3,183.08954329,Ginkgo biloba,Ginkgo,KNApSAcK
+173,C00050430,62624-30-0,Ascorbic acid,C6H8O6,176.03208799,Ginkgo biloba,Ginkgo,KNApSAcK
+174,C00051638,506-48-9,Montanic acid,C28H56O2,424.42803103,Ginkgo biloba,Ginkgo,KNApSAcK
+175,C00052681,577-85-5,3-Hydroxyflavone,C15H10O3,238.06299419,Ginkgo biloba,Ginkgo,KNApSAcK
+176,C00052959,13270-61-6,Delphinidin,C15H11O7,303.05047771,Ginkgo biloba,Ginkgo,KNApSAcK
+177,C00053106,554-59-6,Carene,C10H18,138.14085057,Ginkgo biloba,Ginkgo,KNApSAcK
+178,C00053146,863-03-6,Epicatechin gallate,C22H18O10,442.0899968,Ginkgo biloba,Ginkgo,KNApSAcK
+179,C00053175,487-26-3,Flavanone,C15H12O2,224.08372963,Ginkgo biloba,Ginkgo,KNApSAcK
+180,C00053361,574-12-9,Isoflavone,C15H10O2,222.06807956,Ginkgo biloba,Ginkgo,KNApSAcK
+181,C00053584,44914-94-5,Ocimene,C10H18,138.14085057,Ginkgo biloba,Ginkgo,KNApSAcK
+182,C00053775,7019-85-4,"Sciadonic((5Z,11Z,14Z)-eicosatrienoic)acid methyl ester",C20H34O2,306.25588033,Ginkgo biloba,Ginkgo,KNApSAcK
+183,C00054117,501-24-6,Anacardol,C21H36O,304.27661577,Ginkgo biloba,Ginkgo,KNApSAcK
+184,C00054403,20261-38-5,Ginkgoneolic acid,C20H32O3,320.23514489,Ginkgo biloba,Ginkgo,KNApSAcK
+185,C00054645,111047-33-7,Cardanol C17:1,C23H38O,330.29226583,Ginkgo biloba,Ginkgo,KNApSAcK
+186,C00054827,174284-54-9,Ana C,C24H36O3,372.26644502,Ginkgo biloba,Ginkgo,KNApSAcK
+187,C00054828,69506-63-4,Ana D,C24H38O3,374.28209508,Ginkgo biloba,Ginkgo,KNApSAcK
+188,C00055352,7329-69-3,"1,2-Bis(4-hydroxy-3-methoxyphenyl)ethylene",C16H16O4,272.104859,Ginkgo biloba,Ginkgo,KNApSAcK
+189,C00055544,1211815-81-4,Bilobanol,C16H22O6,310.14163844,Ginkgo biloba,Ginkgo,KNApSAcK
+190,C00055676,60383-97-3,3'-O-methylcatechin,C16H16O6,304.09468824,Ginkgo biloba,Ginkgo,KNApSAcK
+191,C00055755,39689-30-0,"cis-3,4-dihydro-2-(4-hydroxy-3,5-dimethoxyphenyl)-2H-1-Benzopyran-3,5,7-triol",C17H18O7,334.10525293,Ginkgo biloba,Ginkgo,KNApSAcK
+192,C00055756,39689-32-2,"cis-2-(3,4-dihydroxy-5-methoxyphenyl)-3,4-dihydro-2H-1-Benzopyran-3,5,7-triol",C16H16O7,320.08960287,Ginkgo biloba,Ginkgo,KNApSAcK
+193,C00055800,146099-70-9,Dihydrotricin,C17H16O7,332.08960287,Ginkgo biloba,Ginkgo,KNApSAcK
+194,C00055854,695805-56-2,Galanginidin,C15H11O4,255.06573384,Ginkgo biloba,Ginkgo,KNApSAcK
+195,C00056075,18736-36-2,Peonidin,C16H13O6,301.07121315,Ginkgo biloba,Ginkgo,KNApSAcK
+196,C00056076,13270-60-5,"2-(3,4-Dihydroxy-5-methoxyphenyl)-3,5,7-trihydroxy-1-benzopyrylium(1+)",C16H13O7,317.06612777,Ginkgo biloba,Ginkgo,KNApSAcK
+197,C00056457,111047-30-4,2-(10-Heptadecenyl)-6-hydroxybenzoic acid,C24H38O3,374.28209508,Ginkgo biloba,Ginkgo,KNApSAcK
+198,C00058834,85-01-8,Phenanthrene,C14H10,178.07825032,Ginkgo biloba,Ginkgo,KNApSAcK
+199,C00058967,103304-56-9,"4,4'-(1Z,4Z)-1,4-Pentadiene-1,5-diylbis-phenol",C17H16O2,252.11502975,Ginkgo biloba,Ginkgo,KNApSAcK
+200,C00059020,1048949-51-4,"3-[[O-6-Deoxy-alpha-L-mannopyranosyl-(1->6)-O-[6-O-[(2E)-3-(4-hydroxyphenyl)-1-oxo-2-propen-1-yl]-beta-D-glucopyranosyl-(1->2)]-beta-D-glucopyranosyl]oxy]-2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-4H-1-benzopyran-4-one",C42H46O23,918.24298778,Ginkgo biloba,Ginkgo,KNApSAcK
+201,C00059021,1048949-53-6,"3-[[O-6-Deoxy-alpha-L-mannopyranosyl-(1->6)-O-[6-O-[(2E)-3-(4-hydroxyphenyl)-1-oxo-2-propen-1-yl]-beta-D-glucopyranosyl-(1->2)]-beta-D-glucopyranosyl]oxy]-5,7-dihydroxy-2-(4-hydroxyphenyl)-4H-1-benzopyran-4-one",C42H46O22,902.24807316,Ginkgo biloba,Ginkgo,KNApSAcK
+202,C00059022,1048949-55-8,"3-[[2-O-(6-Deoxy-alpha-L-mannopyranosyl)-beta-D-glucopyranosyl]oxy]-2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-6-methoxy-4H-1-benzopyran-4-one",C28H32O17,640.1639496,Ginkgo biloba,Ginkgo,KNApSAcK
+203,C00059023,1048949-57-0,"3-[(6-Deoxy-2-O-beta-D-glucopyranosyl-alpha-L-mannopyranosyl)oxy]-5,7-dihydroxy-2-(4-hydroxy-3,5-dimethoxyphenyl)-4H-1-benzopyran-4-one",C29H34O17,654.17959966,Ginkgo biloba,Ginkgo,KNApSAcK
+204,C00059196,111047-31-5,"2-(10-Heptadecenyl)-6-hydroxy-benzoic acid, methyl ester",C25H40O3,388.29774514,Ginkgo biloba,Ginkgo,KNApSAcK
+205,C00059197,111047-32-6,"(Z)-5-(8-Pentadecenyl)-1,3-benzenediol, diacetate",C25H38O4,402.2770097,Ginkgo biloba,Ginkgo,KNApSAcK
+206,C00059198,111047-34-8,"(Z)-3-(8-Pentadecenyl)-phenol, acetate",C23H36O2,344.27153039,Ginkgo biloba,Ginkgo,KNApSAcK
+207,C00059573,129-00-0,Pyrene,C16H10,202.07825032,Ginkgo biloba,Ginkgo,KNApSAcK
+208,C00059672,13341-72-5,Menthalactone,C10H14O2,166.09937969,Ginkgo biloba,Ginkgo,KNApSAcK
+209,C00060281,16672-87-0,Ethephon,C2H6ClO3P,143.97430826,Ginkgo biloba,Ginkgo,KNApSAcK
+210,C00060382,17482-37-0,Amentoflavone hexaacetate,C42H30O16,790.15338491,Ginkgo biloba,Ginkgo,KNApSAcK
+211,C00060732,206-44-0,Fluoranthene,C16H10,202.07825032,Ginkgo biloba,Ginkgo,KNApSAcK
+212,C00060735,206563-47-5,Amoenin A3,C21H20O11,448.10056148,Ginkgo biloba,Ginkgo,KNApSAcK
+213,C00061229,278783-33-8,"3-[(6-Deoxy-2-O-beta-D-glucopyranosyl-alpha-L-mannopyranosyl)oxy]-5,7-dihydroxy-2-(4-hydroxy-3-methoxyphenyl)-4H-1-benzopyran-4-one",C28H32O16,624.16903498,Ginkgo biloba,Ginkgo,KNApSAcK
+214,C00061302,29322-06-3,Quercetin-3-O-glucosylrhamnoside,C27H30O16,610.15338491,Ginkgo biloba,Ginkgo,KNApSAcK
+215,C00061374,30981-78-3,"4-(2,2,6-Trimethyl-7-oxabicyclo[4.1.0]hept-4-en-1-yl)-3-buten-2-one",C13H18O2,206.13067982,Ginkgo biloba,Ginkgo,KNApSAcK
+216,C00061414,32207-07-1,cis-Atlantone,C15H22O,218.16706532,Ginkgo biloba,Ginkgo,KNApSAcK
+217,C00061415,32207-08-2,trans-Atlantone,C15H22O,218.16706532,Ginkgo biloba,Ginkgo,KNApSAcK
+218,C00061630,3674-65-5,"2,3-Dimethylphenanthrene",C16H14,206.10955045,Ginkgo biloba,Ginkgo,KNApSAcK
+219,C00061909,483-65-8,Retene,C18H18,234.14085057,Ginkgo biloba,Ginkgo,KNApSAcK
+220,C00061915,484-78-6,Hydroxykynurenine,C10H12N2O4,224.07970689,Ginkgo biloba,Ginkgo,KNApSAcK
+221,C00062054,52483-21-3,"5-(10Z)-10-Heptadecen-1-yl-1,3-benzenediol",C23H38O2,346.28718046,Ginkgo biloba,Ginkgo,KNApSAcK
+222,C00062269,575-43-9,"1,6-Dimethyl naphthalene",C12H12,156.09390038,Ginkgo biloba,Ginkgo,KNApSAcK
+223,C00062319,58682-65-8,Methyl 2-hydroxy-6-(8Z)-8-pentadecen-1-ylbenzoate,C23H36O3,360.26644502,Ginkgo biloba,Ginkgo,KNApSAcK
+224,C00062469,62071-06-1,"2,4-Dihydroxy-6-(8Z)-8-pentadecen-1-ylbenzoic acid",C22H34O4,362.24570957,Ginkgo biloba,Ginkgo,KNApSAcK
+225,C00062470,62071-09-4,"2,4-Dihydroxy-6-tridecylbenzoic acid",C20H32O4,336.23005951,Ginkgo biloba,Ginkgo,KNApSAcK
+226,C00062580,645-72-7,Dihydro-phytol,C20H42O,298.32356596,Ginkgo biloba,Ginkgo,KNApSAcK
+227,C00062923,75808-38-7,Methyl 2-hydroxy-6-tridecylbenzoate,C21H34O3,334.25079495,Ginkgo biloba,Ginkgo,KNApSAcK
+228,C00062963,774599-66-5,"3-(8-Nonadecen-1-yl)-1,2-benzenediol",C25H42O2,374.31848058,Ginkgo biloba,Ginkgo,KNApSAcK
+229,C00063235,870298-07-0,Ginkgetin 7''-O-beta-D-glucopyranoside,C38H32O15,728.17412036,Ginkgo biloba,Ginkgo,KNApSAcK
+230,C00063431,936637-60-4,5-O-Methylginkgetin,C33H24O10,580.13694699,Ginkgo biloba,Ginkgo,KNApSAcK
+231,C00063491,951-87-1,"(1R,2S)-Diaminodiphenylethane",C14H16N2,212.13134853,Ginkgo biloba,Ginkgo,KNApSAcK

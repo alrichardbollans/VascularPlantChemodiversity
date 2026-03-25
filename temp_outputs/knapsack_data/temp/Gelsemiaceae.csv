@@ -1,0 +1,98 @@
+,C_ID,CAS ID,example_compound_name,Molecular formula,Mw,Organism,knapsack_search_term,Source
+0,C00001733,6887-28-1,Gelsemicine,C20H26N2O4,358.18925733,Mostuea brunonis,Mostuea,KNApSAcK
+1,C00001768,6882-99-1,Sempervirine,C19H17N2,273.13917356,Mostuea buchholzii,Mostuea,KNApSAcK
+2,C00002145,7689-03-4,Camptothecin,C20H16N2O4,348.11100701,Mostuea brunonis,Mostuea,KNApSAcK
+3,C00029323,185020-37-5,Deoxypumiloside,C26H28N2O8,496.18456589,Mostuea brunnonis,Mostuea,KNApSAcK
+4,C00029323,185020-37-5,Deoxypumiloside,C26H28N2O8,496.18456589,Mostuea brunonis Didr.,Mostuea,KNApSAcK
+5,C00032210,23141-25-5,Strictosamide,C26H30N2O8,498.20021595,Mostuea brunnonis,Mostuea,KNApSAcK
+6,C00032210,23141-25-5,Strictosamide,C26H30N2O8,498.20021595,Mostuea brunonis Didr.,Mostuea,KNApSAcK
+0,C00001733,6887-28-1,Gelsemicine,C20H26N2O4,358.18925733,Gelsemium sempervirens,Gelsemium,KNApSAcK
+1,C00001734,509-15-9,Gelsemine,C20H22N2O2,322.16812796,Gelsemium sempervirens,Gelsemium,KNApSAcK
+2,C00001734,509-15-9,Gelsemine,C20H22N2O2,322.16812796,Gelsemium elegans,Gelsemium,KNApSAcK
+3,C00001768,6882-99-1,Sempervirine,C19H17N2,273.13917356,Gelsemium sempervirens,Gelsemium,KNApSAcK
+4,C00001768,6882-99-1,Sempervirine,C19H17N2,273.13917356,Gelsemium elegans,Gelsemium,KNApSAcK
+5,C00002499,92-61-5,Scopoletin,C10H8O4,192.04225874,Gelsemium sempervirens,Gelsemium,KNApSAcK
+6,C00010557,110309-27-8,Gelsemide,C10H12O5,212.06847349,Gelsemium sempervirens,Gelsemium,KNApSAcK
+7,C00010558,110322-49-1,"[2aR-(2aalpha,3beta,4alpha,7balpha)]-3-(beta-D-Gucopyranosyloxy)-2a,3,4,4a,5,7b-hexahydro-4a-hydroxy-4-methyl-1H-2,6-dioxacyclopent[cd]inden-1-one",C16H22O10,374.12129692,Gelsemium sempervirens,Gelsemium,KNApSAcK
+8,C00010559,110414-77-2,Gelsemiol,C10H16O4,200.104859,Gelsemium sempervirens,Gelsemium,KNApSAcK
+9,C00010560,110309-32-5,"[3R-(3alpha,3aalpha,4beta,5alpha,6aalpha)]-4-[(beta-D-Gulucopyranosyloxy)methyl]hexsahydro-3-(hydroxymethyl)-5-methyl-2H-cyclopenta[b]furan-2-one",C16H26O9,362.15768243,Gelsemium sempervirens,Gelsemium,KNApSAcK
+10,C00010561,110309-33-6,"[3R-(3alpha,3aalpha,4beta,5alpha,6aalpha)]-3-[(beta-D-Gulucopyranosyloxy)methyl]hexsahydro-4-(hydroxymethyl)-5-methyl-2H-cyclopenta[b]furan-2-one",C16H26O9,362.15768243,Gelsemium sempervirens,Gelsemium,KNApSAcK
+11,C00010680,110344-57-5,Semperoside,C16H24O9,360.14203237,Gelsemium sempervirens,Gelsemium,KNApSAcK
+12,C00010681,110309-28-9,9-Hydroxysemperoside,C16H24O10,376.13694699,Gelsemium sempervirens,Gelsemium,KNApSAcK
+13,C00025085,100482-87-9,14beta-Hydroxygelsedine,C19H24N2O4,344.17360727,Gelsemium sempervirens,Gelsemium,KNApSAcK
+14,C00025086,55856-53-6,21-Oxogelsemine,C20H20N2O3,336.14739252,Gelsemium sempervirens,Gelsemium,KNApSAcK
+15,C00025086,55856-53-6,21-Oxogelsemine,C20H20N2O3,336.14739252,Gelsemium elegans,Gelsemium,KNApSAcK
+16,C00025087,104386-95-0,21-Oxogelsevirine,C21H22N2O4,366.15795721,Gelsemium rankinii,Gelsemium,KNApSAcK
+17,C00025088,7096-96-0,Gelsedine,C19H24N2O3,328.17869265,Gelsemium sempervirens,Gelsemium,KNApSAcK
+18,C00025088,7096-96-0,Gelsedine,C19H24N2O3,328.17869265,Gelsemium elegans,Gelsemium,KNApSAcK
+19,C00025089,82354-38-9,Gelsenicine,C19H22N2O3,326.16304258,Gelsemium elegans,Gelsemium,KNApSAcK
+20,C00025090,38990-03-3,Gelsevirine,C21H24N2O3,352.17869265,Gelsemium elegans,Gelsemium,KNApSAcK
+21,C00025090,38990-03-3,Gelsevirine,C21H24N2O3,352.17869265,Gelsemium sempervirens,Gelsemium,KNApSAcK
+22,C00025091,82375-28-8,Humantenidine,C19H22N2O4,342.15795721,Gelsemium elegans,Gelsemium,KNApSAcK
+23,C00025092,82375-29-9,Humantenine,C21H26N2O3,354.19434271,Gelsemium rankinii,Gelsemium,KNApSAcK
+24,C00025092,82375-29-9,Humantenine,C21H26N2O3,354.19434271,Gelsemium elegans,Gelsemium,KNApSAcK
+25,C00025093,82375-30-2,Humantenirine,C21H26N2O4,370.18925733,Gelsemium elegans,Gelsemium,KNApSAcK
+26,C00025093,82375-30-2,Humantenirine,C21H26N2O4,370.18925733,Gelsemium rankinii,Gelsemium,KNApSAcK
+27,C00025094,41478-09-5,Hydroxygelsemicine,C19H24N2O4,344.17360727,Gelsemium sempervirens,Gelsemium,KNApSAcK
+28,C00025095,1358-75-4,16-epinormacusine B,C19H22N2O,294.17321334,Gelsemium elegans,Gelsemium,KNApSAcK
+29,C00025096,106466-66-4,Rankinidine,C20H24N2O3,340.17869265,Gelsemium rankinii,Gelsemium,KNApSAcK
+30,C00025096,106466-66-4,Rankinidine,C20H24N2O3,340.17869265,Gelsemium elegans,Gelsemium,KNApSAcK
+31,C00025135,96681-54-8,14-Hydroxygelsedine,C19H24N2O4,344.17360727,Gelsemium elegans Benth.,Gelsemium,KNApSAcK
+32,C00025136,114027-38-2,16-Epivoacarpine,C21H24N2O4,368.17360727,Gelsemium elegans Benth.,Gelsemium,KNApSAcK
+33,C00025139,113900-77-9,19-Oxogelsenicine,C19H20N2O4,340.14230714,Gelsemium elegans Benth.,Gelsemium,KNApSAcK
+34,C00025170,113900-76-8,Gelsemine N-oxide,C20H22N2O3,338.16304258,Gelsemium elegans Benth.,Gelsemium,KNApSAcK
+35,C00026738,677761-61-4,GS-1,C20H22N2O6,386.14778645,Gelsemium sempervirens Ait.f.,Gelsemium,KNApSAcK
+36,C00026739,677761-62-5,GS-2,C20H24N2O5,372.16852189,Gelsemium sempervirens Ait.f.,Gelsemium,KNApSAcK
+37,C00026740,677761-63-6,GS-3,C20H24N2O6,388.16343651,Gelsemium sempervirens Ait.f.,Gelsemium,KNApSAcK
+38,C00027705,181948-91-4,19alpha-Hydroxygelsamydine,C29H36N2O7,524.25225152,Gelsemium elegans,Gelsemium,KNApSAcK
+39,C00029391,557113-06-1,"14,15-Dihydroxygelsenicine",C19H22N2O5,358.15287183,Gelsemium elegans,Gelsemium,KNApSAcK
+40,C00029392,881184-28-7,14-Acetoxy-15-hydroxygelsenicine,C21H24N2O6,400.16343651,Gelsemium elegans,Gelsemium,KNApSAcK
+41,C00029393,881184-27-6,14-Acetoxygelsenicine,C21H24N2O5,384.16852189,Gelsemium elegans,Gelsemium,KNApSAcK
+42,C00029394,881184-29-8,14-Hydroxy-19-oxogelsenicine,C19H20N2O5,356.13722176,Gelsemium elegans,Gelsemium,KNApSAcK
+43,C00029397,114027-39-3,14-Hydroxygelsenicine,C19H22N2O,294.17321334,Gelsemium elegans,Gelsemium,KNApSAcK
+44,C00029414,865187-21-9,19Z-16-epi-Voacarpine,C21H24N2O4,368.17360727,Gelsemium sempervirens,Gelsemium,KNApSAcK
+45,C00029589,159974-15-9,7-Deoxygelsemide,C10H12O4,196.07355887,Gelsemium elegans,Gelsemium,KNApSAcK
+46,C00030364,1064078-92-7,GEIR-1,C10H12O5,212.06847349,Gelsemium elegans,Gelsemium,KNApSAcK
+47,C00030365,110309-26-7,GEIR-2,C10H14O5,214.08412356,Gelsemium elegans,Gelsemium,KNApSAcK
+48,C00030366,1064078-94-9,GEIR-3,C10H14O6,230.07903818,Gelsemium elegans,Gelsemium,KNApSAcK
+49,C00030367,905566-75-8,Gelsedilam,C17H18N2O4,314.12665708,Gelsemium elegans,Gelsemium,KNApSAcK
+50,C00030368,905566-76-9,Gelsefuranidine,C24H42N2O5,438.30937247,Gelsemium elegans,Gelsemium,KNApSAcK
+51,C00030369,905566-77-0,Gelseiridone,C29H34N2O8,538.23151608,Gelsemium elegans,Gelsemium,KNApSAcK
+52,C00030370,135626-64-1,Gelsemoxonine,C19H22N2O5,358.15287183,Gelsemium elegans,Gelsemium,KNApSAcK
+53,C00030371,865187-17-3,Gelsempervine A,C22H26N2O4,382.18925733,Gelsemium sempervirens,Gelsemium,KNApSAcK
+54,C00030372,865187-29-7,Gelsempervine B,C24H28N2O5,424.19982202,Gelsemium sempervirens,Gelsemium,KNApSAcK
+55,C00030373,865187-18-4,Gelsempervine C,C22H26N2O4,382.18925733,Gelsemium sempervirens,Gelsemium,KNApSAcK
+56,C00030374,865187-20-8,Gelsempervine D,C24H28N2O5,424.19982202,Gelsemium sempervirens,Gelsemium,KNApSAcK
+57,C00030430,162901-86-2,Nidulalin A,C16H14O6,302.07903818,Gelsemium sempervirens AIT.f.,Gelsemium,KNApSAcK
+58,C00030431,162857-76-3,Nidulalin B,C16H14O6,302.07903818,Gelsemium sempervirens AIT.f.,Gelsemium,KNApSAcK
+59,C00030432,39156-34-8,1-Hydroxy-3-methylxanthone,C14H10O3,226.06299419,Gelsemium sempervirens AIT.f.,Gelsemium,KNApSAcK
+60,C00030903,23594-96-9,Ourouparine,C21H17N2O2,329.1290028,Gelsemium sempervirens,Gelsemium,KNApSAcK
+61,C00031364,865187-16-2,Sempervilam,C19H16N2O,288.12626315,Gelsemium sempervirens,Gelsemium,KNApSAcK
+62,C00031832,677761-64-7,GSIR-1,C10H14O3,182.09429431,Gelsemium sempervirens AIT.f.,Gelsemium,KNApSAcK
+63,C00041235,93914-74-0,11-Methoxyhumantenine,C22H28N2O4,384.2049074,Gelsemium elegans,Gelsemium,KNApSAcK
+64,C00041243,881184-30-1,14-Acetoxygelselegine,C22H28N2O6,416.19473664,Gelsemium elegans,Gelsemium,KNApSAcK
+65,C00041252,113973-31-2,19(Z)-Akuammidine,C21H24N2O3,352.17869265,Gelsemium elegans,Gelsemium,KNApSAcK
+66,C00041539,911847-81-9,Gelsebanine,C30H36N2O5,504.26242227,Gelsemium elegans,Gelsemium,KNApSAcK
+67,C00050626,122590-03-8,11-Hydroxyrankinidine,C20H24N2O4,356.17360727,Gelsemium elegans,Gelsemium,KNApSAcK
+0,C00002214,6874-80-2,Calpurnine,C20H27N3O3,357.20524175,Cadia ellisiana,Ellisiana,KNApSAcK
+1,C00002228,529-80-6,(-)-Multiflorine,C15H22N2O,246.17321334,Cadia ellisiana,Ellisiana,KNApSAcK
+0,C00000615,501-16-6,Caffeic acid,C9H8O4,180.04225874,Dodonaea viscosa,Dodonaea,KNApSAcK
+1,C00002724,327-97-9,3-O-Caffeoylquinic acid,C16H18O9,354.09508217,Dodonaea viscosa,Dodonaea,KNApSAcK
+2,C00003674,83-48-7,beta-Stigmasterol,C29H48O,412.37051615,Dodonaea viscosa,Dodonaea,KNApSAcK
+3,C00004571,15486-33-6,"Kaempferol 7,4'-dimethyl ether",C17H14O6,314.07903818,Dodonaea viscosa,Dodonaea,KNApSAcK
+4,C00004573,15486-34-7,"3,7,4'-Tri-O-methylkaempferol",C18H16O6,328.09468824,Dodonaea viscosa,Dodonaea,KNApSAcK
+5,C00004596,22697-65-0,"5,7,4'-Trihydroxy-3,6-dimethoxyflavone",C17H14O7,330.0739528,Dodonaea viscosa,Dodonaea,KNApSAcK
+6,C00004603,569-80-2,Penduletin,C18H16O7,344.08960287,Dodonaea viscosa,Dodonaea,KNApSAcK
+7,C00004607,14787-34-9,"5-Hydroxy-3,6,7,4'-tetramethoxyflavone",C19H18O7,358.10525293,Dodonaea viscosa,Dodonaea,KNApSAcK
+8,C00004607,14787-34-9,"5-Hydroxy-3,6,7,4'-tetramethoxyflavone",C19H18O7,358.10525293,Dodonaea lobulata,Dodonaea,KNApSAcK
+9,C00004635,480-19-3,Isorhamnetin,C16H12O7,316.05830274,Dodonaea viscosa,Dodonaea,KNApSAcK
+10,C00005017,84294-77-9,Aliarin,C22H24O8,416.14711774,Dodonaea viscosa,Dodonaea,KNApSAcK
+11,C00005018,105037-80-7,Viscosol,C23H24O7,412.15220312,Dodonaea viscosa,Dodonaea,KNApSAcK
+12,C00005019,88048-20-8,Aliarin 4'-methyl ether,C23H26O8,430.16276781,Dodonaea viscosa,Dodonaea,KNApSAcK
+13,C00005552,33906-93-3,Isorhamnetin 3-galactoside-7-glucoside,C28H32O17,640.1639496,Dodonaea madagascariensis,Dodonaea,KNApSAcK
+14,C00022224,52914-34-8,"(E)-ent-2alpha-17-Dihydroxy-7,13-labdienepentenoic acid",C20H32O4,336.23005951,Dodonaea microzyga,Dodonaea,KNApSAcK
+15,C00022245,14787-33-8,"7alpha,8-dihydroxy-5beta,8betaH,9betaH,10alpha-Labdan-15-oic acid",C20H36O4,340.26135964,Dodonaea lobulata,Dodonaea,KNApSAcK
+16,C00022270,79726-68-4,"ent-3beta-Acetoxy-15,16-epoxy-8(17),13(16),14-labdatrien-18-oic acid",C22H28O6,388.18858863,Dodonaea petiolaris,Dodonaea,KNApSAcK
+17,C00022445,52914-35-9,"ent-2alpha-Hydroxy-7,13E-labdadien-15-oic acid",C20H32O3,320.23514489,Dodonaea microzyga,Dodonaea,KNApSAcK
+18,C00047851,1186496-75-2,Dodoneaside A,C57H88O22,1124.5767245,Dodonaea viscosa,Dodonaea,KNApSAcK
+19,C00047852,1186496-76-3,Dodoneaside B,C57H88O22,1124.5767245,Dodonaea viscosa,Dodonaea,KNApSAcK

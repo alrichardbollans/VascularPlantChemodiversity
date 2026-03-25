@@ -1,0 +1,114 @@
+,C_ID,CAS ID,example_compound_name,Molecular formula,Mw,Organism,knapsack_search_term,Source
+0,C00000931,144-68-3,Zeaxanthin,C40H56O2,568.42803103,Cycas revoluta,Cycas,KNApSAcK
+1,C00001015,1617-53-4,Amentoflavone,C30H18O10,538.0899968,Cycas revoluta,Cycas,KNApSAcK
+2,C00001015,1617-53-4,Amentoflavone,C30H18O10,538.0899968,Cycas beddomei,Cycas,KNApSAcK
+3,C00001044,481-46-9,Ginkgetin,C32H22O10,566.12129692,Cycas spp.,Cycas,KNApSAcK
+4,C00001049,19202-36-9,Hinokiflavone,C30H18O10,538.0899968,Cycas revoluta,Cycas,KNApSAcK
+5,C00001380,15920-93-1,3-Methylamino-L-alanine,C4H10N2O2,118.07422758,Cycas circinalis,Cycas,KNApSAcK
+6,C00001535,14901-08-7,Cycasin,C8H16N2O7,252.09575088,Cycas circinalis,Cycas,KNApSAcK
+7,C00001535,14901-08-7,Cycasin,C8H16N2O7,252.09575088,Cycas revoluta,Cycas,KNApSAcK
+8,C00006488,521-32-4,Bilobetin,C31H20O10,552.10564686,Microcycas spp.,Cycas,KNApSAcK
+9,C00006489,2608-21-1,Sotetsuflavone,C31H20O10,552.10564686,Microcycas spp.,Cycas,KNApSAcK
+10,C00006489,2608-21-1,Sotetsuflavone,C31H20O10,552.10564686,Cycas revoluta,Cycas,KNApSAcK
+11,C00006489,2608-21-1,Sotetsuflavone,C31H20O10,552.10564686,Cycas spp.,Cycas,KNApSAcK
+12,C00006508,34340-51-7,"2,3-Dihydroamentoflavone",C30H20O10,540.10564686,Cycas revoluta,Cycas,KNApSAcK
+13,C00006539,34292-87-0,"2,3-Dihydrohinokiflavone",C30H20O10,540.10564686,Cycas revoluta,Cycas,KNApSAcK
+14,C00014043,441067-48-7,Panzhihuacycaside,C39H50O24,902.26920253,Cycas panzhihuaensis,Cycas,KNApSAcK
+15,C00014720,267428-11-5,"7,7''-Di-O-Methyltetrahydrohinokiflavone",C32H26O10,570.15259705,Cycas beddomei,Cycas,KNApSAcK
+16,C00022950,31661-06-0,Mutatoxanthin,C40H56O3,584.42294565,Cycas revoluta,Cycas,KNApSAcK
+17,C00028111,192801-72-2,Cycasthioamide,C11H17N3O5S,303.08889141,Cycas revoluta,Cycas,KNApSAcK
+18,C00037902,202325-62-0,Tetrahydrohinokiflavone,C30H22O10,542.12129692,Cycas beddomei,Cycas,KNApSAcK
+19,C00040761,504-55-2,10-Nonacosanol,C29H60O,424.46441654,Cycas revoluta,Cycas,KNApSAcK
+20,C00045681,20790-80-1,beta-Methylaminoalanine,C4H10N2O2,118.07422758,Cycas micronesica,Cycas,KNApSAcK
+21,C00051587,590-96-5,Methylazoxymethanol,C2H6N2O2,90.04292745,Cycas revoluta,Cycas,KNApSAcK
+22,C00056814,102770-21-8,Neocycasin J,C19H34N2O16,546.19083306,Cycas revoluta,Cycas,KNApSAcK
+23,C00056815,102770-23-0,Neocycasin H,C20H36N2O17,576.20139774,Cycas revoluta,Cycas,KNApSAcK
+24,C00057269,2288-28-0,Neocycasin G,C20H36N2O17,576.20139774,Cycas circinalis,Cycas,KNApSAcK
+25,C00057270,2288-31-5,Neocycasin C,C26H46N2O22,738.25422117,Cycas revoluta,Cycas,KNApSAcK
+26,C00057271,2288-32-6,Neocycasin A,C14H26N2O12,414.14857431,Cycas revoluta,Cycas,KNApSAcK
+27,C00057314,2697-20-3,Neocycasin B,C14H26N2O12,414.14857431,Cycas revoluta,Cycas,KNApSAcK
+0,C00000555,518-82-1,Emodin,C15H10O5,270.05282343,Rheum palmatum,Palma,KNApSAcK
+1,C00000568,481-74-3,Chrysophanol,C15H10O4,254.05790881,Rheum palmatum,Palma,KNApSAcK
+2,C00000575,484-20-8,5-Methoxypsoralen,C12H8O4,216.04225874,Ficus palmata,Palma,KNApSAcK
+3,C00000919,7235-40-7,beta-Carotene,C40H56,536.43820179,Phodymenia palmata,Palma,KNApSAcK
+4,C00000920,472-70-8,beta-Cryptoxanthin,C40H56O,552.43311641,Phodymenia palmata,Palma,KNApSAcK
+5,C00000931,144-68-3,Zeaxanthin,C40H56O2,568.42803103,Phodymenia palmata,Palma,KNApSAcK
+6,C00000947,154-23-4,(+)-Catechin,C15H14O6,290.07903818,Rheum palmatum,Palma,KNApSAcK
+7,C00001215,1553-41-9,"(5Z,8Z,11Z,14Z,17Z)-Eicosapentaenoic acid",C20H30O2,302.2245802,Palmaria palmata,Palma,KNApSAcK
+8,C00001429,50-67-9,5-Hydroxytryptamine,C10H12N2O,176.09496302,Palmaria palmata,Palma,KNApSAcK
+9,C00001429,50-67-9,5-Hydroxytryptamine,C10H12N2O,176.09496302,Rheum palmatum,Palma,KNApSAcK
+10,C00001434,61-54-1,Tryptamine,C10H12N2,160.1000484,Rheum palmatum,Palma,KNApSAcK
+11,C00001874,3621-38-3,Jatrorrhizine,C20H20NO4,338.13923313,Jateorhiza palmata,Palma,KNApSAcK
+12,C00001898,3486-67-7,Palmatine,C21H22NO4,352.1548832,Jateorhiza palmata,Palma,KNApSAcK
+13,C00002117,480-81-9,Seneciphylline,C18H23NO5,333.15762285,Senecio palmatus,Palma,KNApSAcK
+14,C00002376,18719-76-1,Antirrhinin,C27H31O15.Cl,630.13514803,Acer palmatum,Palma,KNApSAcK
+15,C00002647,149-91-7,Gallic acid,C7H6O5,170.0215233,Rheum palmatum,Palma,KNApSAcK
+16,C00002708,82-08-6,Rottlerin,C30H28O8,516.17841787,Rheum palmatum,Palma,KNApSAcK
+17,C00002785,72-48-0,Alizarin,C14H8O4,240.04225874,Rheum palmatum,Palma,KNApSAcK
+18,C00002789,481-72-1,Aloe emodin,C15H10O5,270.05282343,Pheum palmatum,Palma,KNApSAcK
+19,C00002789,481-72-1,Aloe emodin,C15H10O5,270.05282343,Rheum palmatum,Palma,KNApSAcK
+20,C00002804,117-10-2,"1,8-dihydroxyanthraquinone",C14H8O4,240.04225874,Rheum palmatum,Palma,KNApSAcK
+21,C00002849,84268-38-2,Physcion 8-gentiobioside,C28H32O15,608.17412036,Rheum palmatum,Palma,KNApSAcK
+22,C00002850,26296-54-8,Physcion 8-glucoside,C22H22O10,446.12129692,Rheum palmatum,Palma,KNApSAcK
+23,C00002861,478-43-3,Rhein,C15H8O6,284.03208799,Rheum palmatum,Palma,KNApSAcK
+24,C00002863,81-27-6,Sennoside A,C42H38O20,862.19564366,Rheum palmatum,Palma,KNApSAcK
+25,C00002896,27208-80-6,(E)-Piceid,C20H22O8,390.13146768,Rheum palmatum,Palma,KNApSAcK
+26,C00002904,155-58-8,Rhaponticin,C21H24O9,420.14203237,Rheum palmatum,Palma,KNApSAcK
+27,C00003413,20379-19-5,Chasmanthin,C20H22O7,374.13655306,Jateorhiza palmata,Palma,KNApSAcK
+28,C00003417,546-97-4,Columbin,C20H22O6,358.14163844,Jateorhiza palmata,Palma,KNApSAcK
+29,C00003463,17226-41-4,Palmarin,C20H22O7,374.13655306,Jateorhiza palmata,Palma,KNApSAcK
+30,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Ficus palmata,Palma,KNApSAcK
+31,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Agave palmaris,Palma,KNApSAcK
+32,C00003765,7488-99-5,alpha-Carotene,C40H56,536.43820179,Phodymenia palmata,Palma,KNApSAcK
+33,C00003770,24480-38-4,alpha-Cryptoxanthin,C40H56O,552.43311641,Phodymenia palmata,Palma,KNApSAcK
+34,C00003776,127-40-2,Lutein,C40H56O2,568.42803103,Phodymenia palmata,Palma,KNApSAcK
+35,C00005135,69292-77-9,Asiaticalin,C21H20O11,448.10056148,Glaucidium palmatum,Palma,KNApSAcK
+36,C00005269,69292-78-0,Rhamnocitrin 3-alloside,C22H22O11,462.11621155,Glaucidium palmatum,Palma,KNApSAcK
+37,C00005371,90327-16-5,Quercetin 3-alloside,C21H20O12,464.09547611,Glaucidium palmatum,Palma,KNApSAcK
+38,C00006672,34443-62-4,Cyanidin 3-(2G-glucosylrutinoside),C33H41O20+,757.21911875,Acer palmatum,Palma,KNApSAcK
+39,C00006809,140447-91-2,Cyanidin 3-(2G-galloylrutinoside),C34H35O19,747.17725394,Acer palmatum,Palma,KNApSAcK
+40,C00007367,469-39-6,Cycloeucalenol,C30H50O,426.38616622,Trichosanthes palmata,Palma,KNApSAcK
+41,C00015765,84575-08-6,Eiccardin C,C28H24O4,424.16745925,Marchantia palmata,Palma,KNApSAcK
+42,C00015794,110267-43-1,Isomarchantin C,C28H24O4,424.16745925,Marchantia palmata,Palma,KNApSAcK
+43,C00015798,110267-44-2,Isoriccardin C,C28H24O4,424.16745925,Marchantia palmata,Palma,KNApSAcK
+44,C00019420,521-61-9,Physcion,C16H12O5,284.06847349,Rheum palmatum,Palma,KNApSAcK
+45,C00020238,125988-76-3,Petasipalin A,C19H28O5,336.193674,Petasites palmatus,Palma,KNApSAcK
+46,C00020246,125988-77-4,Petasipalin B,C17H26O3,278.1881947,Petasites palmatus,Palma,KNApSAcK
+47,C00023743,313-04-2,Desmosterol,C27H44O,384.33921603,Phodymenia palmata,Palma,KNApSAcK
+48,C00024667,3621-36-1,Columbamine,C20H20NO4,338.13923313,Jateorhiza palmata Miers,Palma,KNApSAcK
+49,C00024817,116085-13-3,15-Deacetylvakognavine,C32H35NO9,577.23118172,Aconitum palmatum,Palma,KNApSAcK
+50,C00024941,116085-14-4,Palmadine,C31H35NO5,501.25152324,Aconitum palmatum,Palma,KNApSAcK
+51,C00024942,116085-15-5,Palmasine,C29H33NO4,459.24095855,Aconitum palmatum,Palma,KNApSAcK
+52,C00025028,135250-80-5,Vakhmadine,C21H30NO4,360.21748345,Aconitum palmatum,Palma,KNApSAcK
+53,C00025029,135273-17-5,Vakhmatine,C20H27NO4,345.19400836,Delphinium palmatum,Palma,KNApSAcK
+54,C00025030,35127-49-2,Vakognavine,C34H37NO10,619.24174641,Aconitum palmatum,Palma,KNApSAcK
+55,C00025776,35470-49-6,Bisjatrorrhizine,C40H38N2O8,674.26281621,Jateorhiza palmata Miers,Palma,KNApSAcK
+56,C00037193,23363-08-8,"1,6-Di-O-galloyl-beta-glucose",C20H20O14,484.08530535,Rheum palmatum,Palma,KNApSAcK
+57,C00043393,4839-60-5,Chrysophanein,C21H20O9,416.11073224,Rheum palmatum,Palma,KNApSAcK
+58,C00051985,608-07-1,5-Methoxytryptamine,C11H14N2O,190.11061308,Palmaria palmata,Palma,KNApSAcK
+59,C00051985,608-07-1,5-Methoxytryptamine,C11H14N2O,190.11061308,Rheum palmatum,Palma,KNApSAcK
+60,C00052006,73-31-4,Melatonin,C13H16N2O2,232.12117777,Palmaria palmata,Palma,KNApSAcK
+61,C00052006,73-31-4,Melatonin,C13H16N2O2,232.12117777,Rheum palmatum,Palma,KNApSAcK
+62,C00052040,,N-Hydroxy-2(1H)-quinolone,C9H7NO2,161.04767848,Rheum palmatum,Palma,KNApSAcK
+63,C00054855,17062-56-5,Aloeemodin-chrysophanol bianthrone,C30H22O7,494.13655306,Rheum palmatum,Palma,KNApSAcK
+64,C00054856,17062-55-4,Aloeemodin-emodin bianthrone,C30H22O8,510.13146768,Rheum palmatum,Palma,KNApSAcK
+65,C00057138,17177-86-5,Palmidin C,C30H22O7,494.13655306,Rheum palmatum,Palma,KNApSAcK
+66,C00057428,5355-93-1,Sennidin C,C30H20O9,524.11073224,Rheum palmatum,Palma,KNApSAcK
+0,C00001015,1617-53-4,Amentoflavone,C30H18O10,538.0899968,Zamia spp.,Zamia,KNApSAcK
+1,C00001044,481-46-9,Ginkgetin,C32H22O10,566.12129692,Zamia angustifolia,Zamia,KNApSAcK
+2,C00001098,521-34-6,Sciadopitysin,C33H24O10,580.13694699,Lepidozamia spp.,Zamia,KNApSAcK
+3,C00001098,521-34-6,Sciadopitysin,C33H24O10,580.13694699,Ceratozamia spp.,Zamia,KNApSAcK
+4,C00001098,521-34-6,Sciadopitysin,C33H24O10,580.13694699,Zamia spp.,Zamia,KNApSAcK
+5,C00001098,521-34-6,Sciadopitysin,C33H24O10,580.13694699,Macrozamia spp.,Zamia,KNApSAcK
+6,C00001545,6327-93-1,Macrozamin,C13H24N2O11,384.13800963,Macrozamia spiralis,Zamia,KNApSAcK
+7,C00006487,21763-71-3,7-O-methylamentoflavone,C31H20O10,552.10564686,Zamia angustifolia,Zamia,KNApSAcK
+8,C00006488,521-32-4,Bilobetin,C31H20O10,552.10564686,Macrozamia spp.,Zamia,KNApSAcK
+9,C00006488,521-32-4,Bilobetin,C31H20O10,552.10564686,Zamia spp.,Zamia,KNApSAcK
+10,C00006490,22136-74-9,Podocarpusflavone,C31H20O10,552.10564686,Lepidozamia spp.,Zamia,KNApSAcK
+11,C00006494,548-19-6,Isoginkgetin,C32H22O10,566.12129692,Lepidozamia spp.,Zamia,KNApSAcK
+12,C00006501,"3778-25-4,22783-08-0","Amentoflavone 7,4',7'',4'''-tetramethyl ether",C34H26O10,594.15259705,Zamia angustifolia,Zamia,KNApSAcK
+13,C00006501,"3778-25-4,22783-08-0","Amentoflavone 7,4',7'',4'''-tetramethyl ether",C34H26O10,594.15259705,Lepidozamia spp.,Zamia,KNApSAcK
+14,C00023167,126223-72-1,Ceratoxanthin,C40H58O2,570.44368109,Ceratozamia kuesteriana,Zamia,KNApSAcK
+15,C00023167,126223-72-1,Ceratoxanthin,C40H58O2,570.44368109,Ceratozamia fuscoviridis,Zamia,KNApSAcK
+16,C00023168,20126-73-2,Semi-beta-carotenone,C40H56O2,568.42803103,Ceratozamia mexicana,Zamia,KNApSAcK
+17,C00023168,20126-73-2,Semi-beta-carotenone,C40H56O2,568.42803103,Ceratozamia kuesteriana,Zamia,KNApSAcK

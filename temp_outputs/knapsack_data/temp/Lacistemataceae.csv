@@ -1,0 +1,925 @@
+,C_ID,CAS ID,example_compound_name,Molecular formula,Mw,Organism,knapsack_search_term,Source
+0,C00000163,473-16-5,alpha-Eudesmol,C15H26O,222.19836545,Porella perrottetiana,Perrottetia,KNApSAcK
+1,C00022728,73496-12-5,"(ent-7alpha,8beta,12E)-12,14-Labdadiene-7,8-diol",C20H34O2,306.25588033,Porella perrottetiana,Perrottetia,KNApSAcK
+0,C00003374,25383-30-6,Tetraneurin E,C17H24O6,324.1572885,Parthenium lozanianum,Lozania,KNApSAcK
+1,C00011701,63181-39-5,"[1S-(1R*,4S*,5E,7R*)]-4-Methyl-10-methylene-7-(1-methylethyl)-5-cyclodecene-1,4-diol",C15H26O2,238.19328007,Parthenium lozanianum,Lozania,KNApSAcK
+2,C00021157,28587-45-3,Tetraneurin B,C17H22O6,322.14163844,Parthenium lozanianum,Lozania,KNApSAcK
+3,C00021158,109291-64-7,15-Desacetyltetraneurin C,C17H24O6,324.1572885,Parthenium lozanianum,Lozania,KNApSAcK
+4,C00021159,28587-47-5,Tetraneurin D,C17H24O6,324.1572885,Parthenium lozanianum,Lozania,KNApSAcK
+5,C00021160,28587-46-4,Tetraneurin C,C19H26O7,366.16785319,Parthenium lozanianum,Lozania,KNApSAcK
+6,C00021161,109291-65-8,Desacetyltetraneurin D 15-O-isobutyrate,C19H28O6,352.18858863,Parthenium lozanianum,Lozania,KNApSAcK
+7,C00021162,109314-16-1,Desacetyltetraneurin D 4-O-isobutyrate,C19H28O6,352.18858863,Parthenium lozanianum,Lozania,KNApSAcK
+8,C00021163,109291-66-9,15-Desacetyltetraneurin C isobutyrate,C21H30O7,394.19915331,Parthenium lozanianum,Lozania,KNApSAcK
+0,C00000136,470-82-6,"1,8-Cineol",C10H18O,154.1357652,Thymus piperella,Piper,KNApSAcK
+1,C00000136,470-82-6,"1,8-Cineol",C10H18O,154.1357652,Mentha piperita L.,Piper,KNApSAcK
+2,C00000136,470-82-6,"1,8-Cineol",C10H18O,154.1357652,Piper nigrum,Piper,KNApSAcK
+3,C00000149,6750-60-3,Espatulenol,C15H24O,220.18271539,Piper fimbriulatum,Piper,KNApSAcK
+4,C00000149,6750-60-3,Espatulenol,C15H24O,220.18271539,Piper arboreum,Piper,KNApSAcK
+5,C00000149,6750-60-3,Espatulenol,C15H24O,220.18271539,Piper lhotzkyanum,Piper,KNApSAcK
+6,C00000149,6750-60-3,Espatulenol,C15H24O,220.18271539,Piper nigrum,Piper,KNApSAcK
+7,C00000149,6750-60-3,Espatulenol,C15H24O,220.18271539,Piper obliquum,Piper,KNApSAcK
+8,C00000152,7400-08-0,p-Coumaric acid,C9H8O3,164.04734412,Mentha piperitae,Piper,KNApSAcK
+9,C00000153,29803-81-4,cis-p-Menth-2-en-1-ol,C10H18O,154.1357652,Piper nigrum,Piper,KNApSAcK
+10,C00000154,29803-82-5,trans-p-Menth-2-en-1-ol,C10H18O,154.1357652,Piper nigrum,Piper,KNApSAcK
+11,C00000155,89-83-8,m-Thymol,C10H14O,150.10446507,Thymus piperella,Piper,KNApSAcK
+12,C00000156,499-75-2,Carvacrol,C10H14O,150.10446507,Thymus piperella,Piper,KNApSAcK
+13,C00000156,499-75-2,Carvacrol,C10H14O,150.10446507,Piper betle,Piper,KNApSAcK
+14,C00000163,473-16-5,alpha-Eudesmol,C15H26O,222.19836545,Piper lhotzkyanum,Piper,KNApSAcK
+15,C00000164,473-15-4,(+)-beta-Eudesmol,C15H26O,222.19836545,Piper lhotzkyanum,Piper,KNApSAcK
+16,C00000164,473-15-4,(+)-beta-Eudesmol,C15H26O,222.19836545,Piper nigrum,Piper,KNApSAcK
+17,C00000184,2867-05-2,alpha-Thujene,C10H16,136.12520051,Piper nigrum,Piper,KNApSAcK
+18,C00000601,607-80-7,(+)-Sesamin,C20H18O6,354.11033831,Piper sarmentosum,Piper,KNApSAcK
+19,C00000601,607-80-7,(+)-Sesamin,C20H18O6,354.11033831,Piper sylvaticum,Piper,KNApSAcK
+20,C00000601,607-80-7,(+)-Sesamin,C20H18O6,354.11033831,Zanthoxylum piperitum,Piper,KNApSAcK
+21,C00000601,607-80-7,(+)-Sesamin,C20H18O6,354.11033831,Piper austrosinense,Piper,KNApSAcK
+22,C00000601,607-80-7,(+)-Sesamin,C20H18O6,354.11033831,Piper longum,Piper,KNApSAcK
+23,C00000601,607-80-7,(+)-Sesamin,C20H18O6,354.11033831,Piper mullesua,Piper,KNApSAcK
+24,C00000601,607-80-7,(+)-Sesamin,C20H18O6,354.11033831,Piper retrofractum,Piper,KNApSAcK
+25,C00000601,607-80-7,(+)-Sesamin,C20H18O6,354.11033831,Piper brachystachyum,Piper,KNApSAcK
+26,C00000606,580-72-3,(-)-Matairesinol,C20H22O6,358.14163844,Piper philippinum,Piper,KNApSAcK
+27,C00000615,501-16-6,Caffeic acid,C9H8O4,180.04225874,Mentha piperitae,Piper,KNApSAcK
+28,C00000619,97-53-0,Eugenol,C10H12O2,164.08372963,Piper taiwanense,Piper,KNApSAcK
+29,C00000619,97-53-0,Eugenol,C10H12O2,164.08372963,Piper betle,Piper,KNApSAcK
+30,C00000621,501-92-8,Chavicol,C9H10O,134.07316494,Piper betle,Piper,KNApSAcK
+31,C00000642,13060-14-5,(+)-Yangambin,C24H30O8,446.19406794,Piper guineense,Piper,KNApSAcK
+32,C00000659,40957-99-1,Medioresinol,C21H24O7,388.15220312,Piper cubeba,Piper,KNApSAcK
+33,C00000674,491-70-3,"5,7,3',4'-Tetrahydroxyflavone",C15H10O6,286.04773805,Polygonum hydropiper,Piper,KNApSAcK
+34,C00000677,480-18-2,Dihydroquercetin,C15H12O7,304.05830274,Polygonum hydropiper,Piper,KNApSAcK
+35,C00000697,61989-57-9,(-)-Machilusin,C21H24O5,356.16237388,Piper kadsura,Piper,KNApSAcK
+36,C00000699,,(-)-Piperenone,C22H28O6,388.18858863,Piper futokadsura,Piper,KNApSAcK
+37,C00000719,95851-37-9,Kadsurenone,C21H24O5,356.16237388,Piper futokadsura,Piper,KNApSAcK
+38,C00000719,95851-37-9,Kadsurenone,C21H24O5,356.16237388,Piper kadsura,Piper,KNApSAcK
+39,C00000726,81861-74-7,Magnosalin,C24H32O6,416.21988875,Piper cubeba,Piper,KNApSAcK
+40,C00000803,5989-54-8,(-)-Limonene,C10H16,136.12520051,Mentha piperita,Piper,KNApSAcK
+41,C00000805,80-56-8,alpha-Pinene,C10H16,136.12520051,Piper fimbriulatum,Piper,KNApSAcK
+42,C00000805,80-56-8,alpha-Pinene,C10H16,136.12520051,Piper arboreum,Piper,KNApSAcK
+43,C00000805,80-56-8,alpha-Pinene,C10H16,136.12520051,Thymus piperella,Piper,KNApSAcK
+44,C00000805,80-56-8,alpha-Pinene,C10H16,136.12520051,Piper obliquum,Piper,KNApSAcK
+45,C00000805,80-56-8,alpha-Pinene,C10H16,136.12520051,Piper nigrum,Piper,KNApSAcK
+46,C00000809,80995-97-7,(-)-Isopiperitenone,C10H14O,150.10446507,Mentha piperita,Piper,KNApSAcK
+47,C00000810,2216-51-5,(-)-Menthol,C10H20O,156.15141526,Mentha x piperita L.,Piper,KNApSAcK
+48,C00000810,2216-51-5,(-)-Menthol,C10H20O,156.15141526,Mentha piperita,Piper,KNApSAcK
+49,C00000811,14073-97-3,(-)-Menthone,C10H18O,154.1357652,Mentha x piperita L.,Piper,KNApSAcK
+50,C00000811,14073-97-3,(-)-Menthone,C10H18O,154.1357652,Mentha piperita L.,Piper,KNApSAcK
+51,C00000814,2102-58-1,(-)-trans-Carveol,C10H16O,152.12011513,Mentha piperita L.,Piper,KNApSAcK
+52,C00000815,74410-00-7,(-)-trans-Isopiperitenol,C10H16O,152.12011513,Mentha piperita,Piper,KNApSAcK
+53,C00000816,127-91-3,beta-Pinene,C10H16,136.12520051,Piper obliquum,Piper,KNApSAcK
+54,C00000816,127-91-3,beta-Pinene,C10H16,136.12520051,Piper nigrum,Piper,KNApSAcK
+55,C00000816,127-91-3,beta-Pinene,C10H16,136.12520051,Piper fimbriulatum,Piper,KNApSAcK
+56,C00000816,127-91-3,beta-Pinene,C10H16,136.12520051,Mentha piperita L.,Piper,KNApSAcK
+57,C00000816,127-91-3,beta-Pinene,C10H16,136.12520051,Piper arboreum,Piper,KNApSAcK
+58,C00000816,127-91-3,beta-Pinene,C10H16,136.12520051,Thymus piperella,Piper,KNApSAcK
+59,C00000819,76-22-2,(+)-Camphor,C10H16O,152.12011513,Piper nigrum,Piper,KNApSAcK
+60,C00000819,76-22-2,(+)-Camphor,C10H16O,152.12011513,Thymus piperella,Piper,KNApSAcK
+61,C00000820,3391-89-7,(+)-cis-Isopulegone,C10H16O,152.12011513,Mentha piperita,Piper,KNApSAcK
+62,C00000822,23283-97-8,(+)-Isomenthol,C10H20O,156.15141526,Mentha piperita,Piper,KNApSAcK
+63,C00000823,138-86-3,Limonene,C10H16,136.12520051,Piper nigrum,Piper,KNApSAcK
+64,C00000823,138-86-3,Limonene,C10H16,136.12520051,Piper fimbriulatum,Piper,KNApSAcK
+65,C00000823,138-86-3,Limonene,C10H16,136.12520051,Thymus piperella,Piper,KNApSAcK
+66,C00000823,138-86-3,Limonene,C10H16,136.12520051,Piper arboreum,Piper,KNApSAcK
+67,C00000824,20752-34-5,(+)-Neoisomenthol,C10H20O,156.15141526,Mentha piperita,Piper,KNApSAcK
+68,C00000825,2216-52-6,(+)-Neomenthol,C10H20O,156.15141526,Mentha piperita,Piper,KNApSAcK
+69,C00000827,89-82-7,Pulegone,C10H16O,152.12011513,Mentha piperita,Piper,KNApSAcK
+70,C00000829,19894-98-5,trans-Pinocarveol,C10H16O,152.12011513,Piper nigrum,Piper,KNApSAcK
+71,C00000830,15537-55-0,cis-Sabinene hydrate,C10H18O,154.1357652,Piper nigrum,Piper,KNApSAcK
+72,C00000838,68330-67-6,"3,4-Menthone lactone",C10H18O2,170.13067982,Mentha piperita,Piper,KNApSAcK
+73,C00000843,3338-55-4,cis-beta-Ocimene,C10H16,136.12520051,Piper fimbriulatum,Piper,KNApSAcK
+74,C00000843,3338-55-4,cis-beta-Ocimene,C10H16,136.12520051,Piper nigrum,Piper,KNApSAcK
+75,C00000845,106-24-1,(E)-geraniol,C10H18O,154.1357652,Piper fimbriulatum,Piper,KNApSAcK
+76,C00000846,763-10-0,Geranyl diphospate,C10H20O7P2,314.06842597,Mentha piperita,Piper,KNApSAcK
+77,C00000850,2623-23-6,Menthyl acetate,C12H22O2,198.16197995,Mentha piperita,Piper,KNApSAcK
+78,C00000853,123-35-3,beta-Myrcene,C10H16,136.12520051,Piper nigrum,Piper,KNApSAcK
+79,C00000853,123-35-3,beta-Myrcene,C10H16,136.12520051,Piper arboreum,Piper,KNApSAcK
+80,C00000854,70561-10-3,Neomenthyl-beta-D-glucoside,C16H30O6,318.20423869,Mentha piperita,Piper,KNApSAcK
+81,C00000855,106-25-2,beta-Nerol,C10H18O,154.1357652,Piper nigrum,Piper,KNApSAcK
+82,C00000855,106-25-2,beta-Nerol,C10H18O,154.1357652,Piper arboreum,Piper,KNApSAcK
+83,C00000855,106-25-2,beta-Nerol,C10H18O,154.1357652,Piper fimbriulatum,Piper,KNApSAcK
+84,C00000861,586-62-9,alpha-Terpinolene,C10H16,136.12520051,Mentha piperita L.,Piper,KNApSAcK
+85,C00000861,586-62-9,alpha-Terpinolene,C10H16,136.12520051,Piper fimbriulatum,Piper,KNApSAcK
+86,C00000861,586-62-9,alpha-Terpinolene,C10H16,136.12520051,Piper arboreum,Piper,KNApSAcK
+87,C00000861,586-62-9,alpha-Terpinolene,C10H16,136.12520051,Piper nigrum,Piper,KNApSAcK
+88,C00000940,520-42-3,Asebogenin,C16H16O5,288.09977362,Piper aduncum,Piper,KNApSAcK
+89,C00000947,154-23-4,(+)-Catechin,C15H14O6,290.07903818,Polygonum hydropiper,Piper,KNApSAcK
+90,C00000956,490-46-0,(-)-Epicatechin,C15H14O6,290.07903818,Polygonum hydropiper,Piper,KNApSAcK
+91,C00000973,480-43-3,Isosakuranetin,C16H14O5,286.08412356,Piper crassinervium,Piper,KNApSAcK
+92,C00000982,480-41-1,Naringenin,C15H12O5,272.06847349,Piper crassinervium Kunth,Piper,KNApSAcK
+93,C00000992,480-39-7,Dihydrochrysin,C15H12O4,256.07355887,Piper gaudichaudianum,Piper,KNApSAcK
+94,C00000992,480-39-7,Dihydrochrysin,C15H12O4,256.07355887,Piper hostmannianum,Piper,KNApSAcK
+95,C00000994,155023-55-5,Piperaduncin B,C29H30O8,506.19406794,Piper aduncum,Piper,KNApSAcK
+96,C00000999,2957-21-3,Sakuranetin,C16H14O5,286.08412356,Piper crassinervium Kunth,Piper,KNApSAcK
+97,C00000999,2957-21-3,Sakuranetin,C16H14O5,286.08412356,Piper lhotzkyanum,Piper,KNApSAcK
+98,C00001006,491-66-7,Strobopinin,C16H14O4,270.08920894,Piper hostmannianum var.berbicense,Piper,KNApSAcK
+99,C00001016,5128-44-9,"5-Hydroxy-7,4'-dimethoxyflavone",C17H14O5,298.08412356,Piper peepuloides,Piper,KNApSAcK
+100,C00001016,5128-44-9,"5-Hydroxy-7,4'-dimethoxyflavone",C17H14O5,298.08412356,Thymus piperella,Piper,KNApSAcK
+101,C00001071,529-44-2,Myricetin,C15H10O8,318.0375673,Polygonum hydropiper,Piper,KNApSAcK
+102,C00001122,492-62-6,alpha-D-Glucose,C6H12O6,180.06338812,Piper retrofractum Vahl.,Piper,KNApSAcK
+103,C00001200,127-17-3,Pyruvic acid,C3H4O3,88.01604399,Polygonum hydropiper,Piper,KNApSAcK
+104,C00001233,57-10-3,Palmitic acid,C16H32O2,256.24023027,Piper obliquum,Piper,KNApSAcK
+105,C00001238,57-11-4,Octadecanoic acid,C18H36O2,284.27153039,Piper betle,Piper,KNApSAcK
+106,C00001238,57-11-4,Octadecanoic acid,C18H36O2,284.27153039,Piper nigrum L.,Piper,KNApSAcK
+107,C00001253,502-73-8,Hentriacontan-16-one,C31H62O,450.4800666,Piper nigrum,Piper,KNApSAcK
+108,C00001270,630-05-7,Triacontane,C33H68,464.53210217,Piper betle,Piper,KNApSAcK
+109,C00001403,462-94-2,Cadaverine,C5H14N2,102.11569846,Piper trichostachyon,Piper,KNApSAcK
+110,C00001403,462-94-2,Cadaverine,C5H14N2,102.11569846,Piper nigrum,Piper,KNApSAcK
+111,C00001403,462-94-2,Cadaverine,C5H14N2,102.11569846,Piper longum,Piper,KNApSAcK
+112,C00001435,51-67-2,Tyramine,C8H11NO,137.08406398,Piper nigrum,Piper,KNApSAcK
+113,C00001455,71933-54-5,Sarmentosin,C11H17NO7,275.10050191,Piper sarmentosum,Piper,KNApSAcK
+114,C00001872,475-67-2,Isocorydine,C20H23NO4,341.16270823,Lindera pipericarpa,Piper,KNApSAcK
+115,C00002065,94-62-2,Piperine,C17H19NO3,285.13649348,Piper trichostachyon,Piper,KNApSAcK
+116,C00002065,94-62-2,Piperine,C17H19NO3,285.13649348,Piper khasiana,Piper,KNApSAcK
+117,C00002065,94-62-2,Piperine,C17H19NO3,285.13649348,Piper guineense Schum.et Thom.,Piper,KNApSAcK
+118,C00002065,94-62-2,Piperine,C17H19NO3,285.13649348,Piper chaba,Piper,KNApSAcK
+119,C00002065,94-62-2,Piperine,C17H19NO3,285.13649348,Piper betle,Piper,KNApSAcK
+120,C00002065,94-62-2,Piperine,C17H19NO3,285.13649348,Piper retrofractum Vahl.,Piper,KNApSAcK
+121,C00002065,94-62-2,Piperine,C17H19NO3,285.13649348,Piper nigrum,Piper,KNApSAcK
+122,C00002065,94-62-2,Piperine,C17H19NO3,285.13649348,Piper officinarum,Piper,KNApSAcK
+123,C00002065,94-62-2,Piperine,C17H19NO3,285.13649348,Piper longum,Piper,KNApSAcK
+124,C00002065,94-62-2,Piperine,C17H19NO3,285.13649348,Piper acutisleginum,Piper,KNApSAcK
+125,C00002065,94-62-2,Piperine,C17H19NO3,285.13649348,Piper thomsoni,Piper,KNApSAcK
+126,C00002066,20069-09-4,Piperlongumine,C17H19NO5,317.12632272,Piper longum,Piper,KNApSAcK
+127,C00002066,20069-09-4,Piperlongumine,C17H19NO5,317.12632272,Piper cenocladum,Piper,KNApSAcK
+128,C00002066,20069-09-4,Piperlongumine,C17H19NO5,317.12632272,Piper retrofractum Vahl.,Piper,KNApSAcK
+129,C00002066,20069-09-4,Piperlongumine,C17H19NO5,317.12632272,Piper sulvaticum,Piper,KNApSAcK
+130,C00002066,20069-09-4,Piperlongumine,C17H19NO5,317.12632272,Piper sylvaticum,Piper,KNApSAcK
+131,C00002066,20069-09-4,Piperlongumine,C17H19NO5,317.12632272,Piper tuberculatum Jacq.,Piper,KNApSAcK
+132,C00002076,25924-78-1,Trichostachine,C16H17NO3,271.12084342,Piper nigrum,Piper,KNApSAcK
+133,C00002076,25924-78-1,Trichostachine,C16H17NO3,271.12084342,Piper guineense,Piper,KNApSAcK
+134,C00002076,25924-78-1,Trichostachine,C16H17NO3,271.12084342,Piper trichostachya,Piper,KNApSAcK
+135,C00002159,524-15-2,gamma-Fagarine,C13H11NO3,229.07389323,Zanthoxylum piperitum,Piper,KNApSAcK
+136,C00002163,62541-22-4,Furofoline I,C16H11NO3,265.07389323,Piper pedicellosum,Piper,KNApSAcK
+137,C00002424,151731-50-9,"2,2-Dimethyl-8-prenylchromene 6-carboxylic acid",C17H20O3,272.1412445,Piper aduncum,Piper,KNApSAcK
+138,C00002591,18423-69-3,Cubebin,C20H20O6,356.12598837,Piper nigrum,Piper,KNApSAcK
+139,C00002591,18423-69-3,Cubebin,C20H20O6,356.12598837,Piper cubeba,Piper,KNApSAcK
+140,C00002598,40456-50-6,(-)-Deoxypodorhizone,C22H24O7,400.15220312,Piper cubeba,Piper,KNApSAcK
+141,C00002599,24563-03-9,Dihydrocubebin,C20H22O6,358.14163844,Piper trichostachyon,Piper,KNApSAcK
+142,C00002599,24563-03-9,Dihydrocubebin,C20H22O6,358.14163844,Piper guineense,Piper,KNApSAcK
+143,C00002599,24563-03-9,Dihydrocubebin,C20H22O6,358.14163844,Piper cubeba,Piper,KNApSAcK
+144,C00002604,28178-92-9,Futoquinol,C21H22O5,354.14672381,Piper futokadsura,Piper,KNApSAcK
+145,C00002604,28178-92-9,Futoquinol,C21H22O5,354.14672381,Piper kadsura,Piper,KNApSAcK
+146,C00002604,28178-92-9,Futoquinol,C21H22O5,354.14672381,Piper chamaejasme,Piper,KNApSAcK
+147,C00002607,53250-50-3,Grandisin,C24H32O7,432.21480338,Piper solmsianum,Piper,KNApSAcK
+148,C00002607,53250-50-3,Grandisin,C24H32O7,432.21480338,Piper polysyphorum,Piper,KNApSAcK
+149,C00002608,26543-89-5,Hinokinin,C20H18O6,354.11033831,Piper clusii,Piper,KNApSAcK
+150,C00002608,26543-89-5,Hinokinin,C20H18O6,354.11033831,Piper trichostachyon,Piper,KNApSAcK
+151,C00002608,26543-89-5,Hinokinin,C20H18O6,354.11033831,Piper ribesoides,Piper,KNApSAcK
+152,C00002608,26543-89-5,Hinokinin,C20H18O6,354.11033831,Piper philippinum,Piper,KNApSAcK
+153,C00002608,26543-89-5,Hinokinin,C20H18O6,354.11033831,Piper cubeba,Piper,KNApSAcK
+154,C00002610,99340-07-5,Kadsurin A,C21H24O6,372.1572885,Piper futokadsura,Piper,KNApSAcK
+155,C00002610,99340-07-5,Kadsurin A,C21H24O6,372.1572885,Piper kadsura,Piper,KNApSAcK
+156,C00002610,99340-07-5,Kadsurin A,C21H24O6,372.1572885,Piper attenuatum,Piper,KNApSAcK
+157,C00002633,19950-55-1,(+)-Veraguensin,C22H28O5,372.193674,Piper cuneifolium,Piper,KNApSAcK
+158,C00002633,19950-55-1,(+)-Veraguensin,C22H28O5,372.193674,Piper puberulum,Piper,KNApSAcK
+159,C00002633,19950-55-1,(+)-Veraguensin,C22H28O5,372.193674,Piper futokadsura,Piper,KNApSAcK
+160,C00002636,123-11-5,Anisaldehyde,C8H8O2,136.0524295,Piper philippinum,Piper,KNApSAcK
+161,C00002647,149-91-7,Gallic acid,C7H6O5,170.0215233,Polygonum hydropiper,Piper,KNApSAcK
+162,C00002663,60-12-8,2-Phenylethanol,C8H10O,122.07316494,Piper longum,Piper,KNApSAcK
+163,C00002666,120-57-0,Piperonal,C8H6O3,150.03169406,Piper nigrum,Piper,KNApSAcK
+164,C00002666,120-57-0,Piperonal,C8H6O3,150.03169406,Piper philippinum,Piper,KNApSAcK
+165,C00002668,99-50-3,"3,4-Dihydroxybenzoic acid",C7H6O4,154.02660868,Zanthoxylum piperitum,Piper,KNApSAcK
+166,C00002710,90-24-4,Xanthoxylin,C10H12O4,196.07355887,Zanthoxylum piperitum,Piper,KNApSAcK
+167,C00002714,523-80-8,Apiol,C12H14O4,222.08920894,Piper solmsianum,Piper,KNApSAcK
+168,C00002714,523-80-8,Apiol,C12H14O4,222.08920894,Piper angustifolium,Piper,KNApSAcK
+169,C00002714,523-80-8,Apiol,C12H14O4,222.08920894,Piper brachystachyum,Piper,KNApSAcK
+170,C00002714,523-80-8,Apiol,C12H14O4,222.08920894,Piper lhotzkyanum,Piper,KNApSAcK
+171,C00002714,523-80-8,Apiol,C12H14O4,222.08920894,Piper marginatum,Piper,KNApSAcK
+172,C00002714,523-80-8,Apiol,C12H14O4,222.08920894,Piper regnellii,Piper,KNApSAcK
+173,C00002715,5273-86-9,beta-Asarone,C12H16O3,208.10994438,Piper angustifolium,Piper,KNApSAcK
+174,C00002732,130263-10-4,3'-Demethoxypiplartine,C16H19NO4,289.1314081,Piper tuberculatum,Piper,KNApSAcK
+175,C00002732,130263-10-4,3'-Demethoxypiplartine,C16H19NO4,289.1314081,Piper arborescens,Piper,KNApSAcK
+176,C00002737,484-31-1,Dillapiol,C12H14O4,222.08920894,Piper spp.,Piper,KNApSAcK
+177,C00002737,484-31-1,Dillapiol,C12H14O4,222.08920894,Piper aduncum,Piper,KNApSAcK
+178,C00002737,484-31-1,Dillapiol,C12H14O4,222.08920894,Piper novae-hollandiae,Piper,KNApSAcK
+179,C00002739,487-11-6,Elemicin,C12H16O3,208.10994438,Piper solmsianum,Piper,KNApSAcK
+180,C00002739,487-11-6,Elemicin,C12H16O3,208.10994438,Piper brachystachyum,Piper,KNApSAcK
+181,C00002740,140-67-0,Estragol,C10H12O,148.08881501,Piper betle,Piper,KNApSAcK
+182,C00002741,93-15-2,Methyleugenol,C11H14O2,178.09937969,Piper sanctum,Piper,KNApSAcK
+183,C00002742,495-86-3,Fagaramide,C14H17NO3,247.12084342,Piper tuberculatum Jacq.,Piper,KNApSAcK
+184,C00002757,1963-36-6,4-Methoxycinnamaldehyde,C10H10O2,162.06807956,Piper philippinum,Piper,KNApSAcK
+185,C00002762,607-91-0,Myristicin,C11H12O3,192.07864425,Piper solmsianum,Piper,KNApSAcK
+186,C00002762,607-91-0,Myristicin,C11H12O3,192.07864425,Piper aduncum,Piper,KNApSAcK
+187,C00002762,607-91-0,Myristicin,C11H12O3,192.07864425,Piper regnellii,Piper,KNApSAcK
+188,C00002770,20283-92-5,Labiatenic acid,C18H16O8,360.08451749,Mentha piperita,Piper,KNApSAcK
+189,C00002771,94-59-7,Safrole,C10H10O2,162.06807956,Piper aduncum,Piper,KNApSAcK
+190,C00002773,18607-93-7,"1-Allyl-2-methoxy-4,5-methylene-dioxybenzene",C11H12O3,192.07864425,Piper sarmentosum,Piper,KNApSAcK
+191,C00002987,1952-41-6,"5,6-Dehydrokawain",C14H12O3,228.07864425,Piper methysticum,Piper,KNApSAcK
+192,C00002988,19902-91-1,Dihydromethysticin,C15H16O5,276.09977362,Piper methysticum,Piper,KNApSAcK
+193,C00003000,500-64-1,Kawain,C14H14O3,230.09429431,Piper methysticum,Piper,KNApSAcK
+194,C00003005,495-85-2,Methysticin,C15H14O5,274.08412356,Piper methysticum,Piper,KNApSAcK
+195,C00003012,100560-66-5,Polygonolide,C12H12O4,220.07355887,Polygonum hydropiper,Piper,KNApSAcK
+196,C00003024,500-62-9,Yangonin,C15H14O4,258.08920894,Piper methysticum,Piper,KNApSAcK
+197,C00003028,507-70-0,Borneol,C10H18O,154.1357652,Thymus piperella,Piper,KNApSAcK
+198,C00003029,79-92-5,Camphene,C10H16,136.12520051,Thymus piperella,Piper,KNApSAcK
+199,C00003029,79-92-5,Camphene,C10H16,136.12520051,Mentha piperita L.,Piper,KNApSAcK
+200,C00003029,79-92-5,Camphene,C10H16,136.12520051,Piper arboreum,Piper,KNApSAcK
+201,C00003029,79-92-5,Camphene,C10H16,136.12520051,Piper fimbriulatum,Piper,KNApSAcK
+202,C00003029,79-92-5,Camphene,C10H16,136.12520051,Piper nigrum,Piper,KNApSAcK
+203,C00003035,141-27-5,trans-Citral,C10H16O,152.12011513,Piper cubeba,Piper,KNApSAcK
+204,C00003036,106-26-3,cis-Citral,C10H16O,152.12011513,Piper fimbriulatum,Piper,KNApSAcK
+205,C00003036,106-26-3,cis-Citral,C10H16O,152.12011513,Piper cubeba,Piper,KNApSAcK
+206,C00003040,99-87-6,p-Cymene,C10H14,134.10955045,Thymus piperella,Piper,KNApSAcK
+207,C00003040,99-87-6,p-Cymene,C10H14,134.10955045,Piper fimbriulatum,Piper,KNApSAcK
+208,C00003040,99-87-6,p-Cymene,C10H14,134.10955045,Piper nigrum,Piper,KNApSAcK
+209,C00003040,99-87-6,p-Cymene,C10H14,134.10955045,Piper arboreum,Piper,KNApSAcK
+210,C00003040,99-87-6,p-Cymene,C10H14,134.10955045,Piper obliquum,Piper,KNApSAcK
+211,C00003040,99-87-6,p-Cymene,C10H14,134.10955045,Mentha piperita L.,Piper,KNApSAcK
+212,C00003043,7705-14-8,Dipentene,C10H16,136.12520051,Piper cubeba,Piper,KNApSAcK
+213,C00003046,105-87-3,Geranyl acetate,C12H20O2,196.14632988,Mentha piperita L.,Piper,KNApSAcK
+214,C00003047,78-70-6,(+-)-Linalool,C10H18O,154.1357652,Piper nigrum,Piper,KNApSAcK
+215,C00003048,115-95-7,Linalyl acetate,C12H20O2,196.14632988,Piper fimbriulatum,Piper,KNApSAcK
+216,C00003048,115-95-7,Linalyl acetate,C12H20O2,196.14632988,Piper arboreum,Piper,KNApSAcK
+217,C00003048,115-95-7,Linalyl acetate,C12H20O2,196.14632988,Piper obliquum,Piper,KNApSAcK
+218,C00003049,17957-94-7,(+)-Menthofuran,C10H14O,150.10446507,Mentha piperita,Piper,KNApSAcK
+219,C00003049,17957-94-7,(+)-Menthofuran,C10H14O,150.10446507,Mentha piperita L.,Piper,KNApSAcK
+220,C00003051,99-83-2,alpha-Phellandrene,C10H16,136.12520051,Piper nigrum,Piper,KNApSAcK
+221,C00003060,99-86-5,alpha-Terpinene,C10H16,136.12520051,Piper nigrum,Piper,KNApSAcK
+222,C00003060,99-86-5,alpha-Terpinene,C10H16,136.12520051,Piper arboreum,Piper,KNApSAcK
+223,C00003060,99-86-5,alpha-Terpinene,C10H16,136.12520051,Piper fimbriulatum,Piper,KNApSAcK
+224,C00003060,99-86-5,alpha-Terpinene,C10H16,136.12520051,Mentha piperita L.,Piper,KNApSAcK
+225,C00003061,99-85-4,gamma-Terpinene,C10H16,136.12520051,Thymus piperella,Piper,KNApSAcK
+226,C00003061,99-85-4,gamma-Terpinene,C10H16,136.12520051,Piper nigrum,Piper,KNApSAcK
+227,C00003061,99-85-4,gamma-Terpinene,C10H16,136.12520051,Mentha piperita L.,Piper,KNApSAcK
+228,C00003110,87-44-5,beta-Caryophyllene,C15H24,204.18780077,Piper arboreum,Piper,KNApSAcK
+229,C00003110,87-44-5,beta-Caryophyllene,C15H24,204.18780077,Thymus piperella,Piper,KNApSAcK
+230,C00003110,87-44-5,beta-Caryophyllene,C15H24,204.18780077,Mentha piperita L.,Piper,KNApSAcK
+231,C00003110,87-44-5,beta-Caryophyllene,C15H24,204.18780077,Piper nigrum,Piper,KNApSAcK
+232,C00003118,3856-25-5,alpha-Copaene,C15H24,204.18780077,Piper fimbriulatum,Piper,KNApSAcK
+233,C00003118,3856-25-5,alpha-Copaene,C15H24,204.18780077,Piper obliquum,Piper,KNApSAcK
+234,C00003118,3856-25-5,alpha-Copaene,C15H24,204.18780077,Piper nigrum,Piper,KNApSAcK
+235,C00003118,3856-25-5,alpha-Copaene,C15H24,204.18780077,Piper arboreum,Piper,KNApSAcK
+236,C00003120,17699-14-8,alpha-Cubebene,C15H24,204.18780077,Piper arboreum,Piper,KNApSAcK
+237,C00003120,17699-14-8,alpha-Cubebene,C15H24,204.18780077,Piper nigrum,Piper,KNApSAcK
+238,C00003120,17699-14-8,alpha-Cubebene,C15H24,204.18780077,Piper fimbriulatum,Piper,KNApSAcK
+239,C00003120,17699-14-8,alpha-Cubebene,C15H24,204.18780077,Piper cubeba,Piper,KNApSAcK
+240,C00003120,17699-14-8,alpha-Cubebene,C15H24,204.18780077,Piper obliquum,Piper,KNApSAcK
+241,C00003121,13744-15-5,beta-Cubebene,C15H24,204.18780077,Piper cubeba,Piper,KNApSAcK
+242,C00003121,13744-15-5,beta-Cubebene,C15H24,204.18780077,Piper nigrum,Piper,KNApSAcK
+243,C00003130,502-61-4,alpha-Farnesene,C15H24,204.18780077,Piper nigrum,Piper,KNApSAcK
+244,C00003131,18794-84-8,E-beta-farnesene,C15H24,204.18780077,Piper nigrum,Piper,KNApSAcK
+245,C00003131,18794-84-8,E-beta-farnesene,C15H24,204.18780077,Piper arboreum,Piper,KNApSAcK
+246,C00003134,15423-57-1,Germacrene B,C15H24,204.18780077,Piper nigrum,Piper,KNApSAcK
+247,C00003139,489-86-1,Guaiol,C15H26O,222.19836545,Piper lhotzkyanum,Piper,KNApSAcK
+248,C00003147,6753-98-6,alpha-Caryophyllene (obsol.),C15H24,204.18780077,Piper fimbriulatum,Piper,KNApSAcK
+249,C00003147,6753-98-6,alpha-Caryophyllene (obsol.),C15H24,204.18780077,Piper obliquum,Piper,KNApSAcK
+250,C00003147,6753-98-6,alpha-Caryophyllene (obsol.),C15H24,204.18780077,Piper nigrum,Piper,KNApSAcK
+251,C00003147,6753-98-6,alpha-Caryophyllene (obsol.),C15H24,204.18780077,Piper arboreum,Piper,KNApSAcK
+252,C00003161,577-27-5,Ledol,C15H26O,222.19836545,Piper nigrum,Piper,KNApSAcK
+253,C00003161,577-27-5,Ledol,C15H26O,222.19836545,Piper spp.,Piper,KNApSAcK
+254,C00003166,142-50-7,Nerolidol,C15H26O,222.19836545,Piper falconeri,Piper,KNApSAcK
+255,C00003166,142-50-7,Nerolidol,C15H26O,222.19836545,Piper aduncum,Piper,KNApSAcK
+256,C00003174,100288-36-6,Piperdial,C15H22O3,250.15689457,Lactarius piperatus,Piper,KNApSAcK
+257,C00003175,6754-20-7,(-)-Polygodial,C15H22O2,234.16197995,Polygonum hydropiper,Piper,KNApSAcK
+258,C00003186,17066-67-0,beta-Eudesmene,C15H24,204.18780077,Piper fimbriulatum,Piper,KNApSAcK
+259,C00003186,17066-67-0,beta-Eudesmene,C15H24,204.18780077,Piper nigrum,Piper,KNApSAcK
+260,C00003202,62994-47-2,Warburganal,C15H22O3,250.15689457,Polygonum hydropiper,Piper,KNApSAcK
+261,C00003203,14912-44-8,alpha-Ylangene,C15H24,204.18780077,Piper nigrum,Piper,KNApSAcK
+262,C00003204,495-60-3,alpha-Zingiberene,C15H24,204.18780077,Piper nigrum,Piper,KNApSAcK
+263,C00003204,495-60-3,alpha-Zingiberene,C15H24,204.18780077,Piper longum,Piper,KNApSAcK
+264,C00003236,1811-23-0,Confertifolin,C15H22O2,234.16197995,Polygonum hydropiper,Piper,KNApSAcK
+265,C00003467,150-86-7,Phytol,C20H40O,296.3079159,Piper kadsura,Piper,KNApSAcK
+266,C00003467,150-86-7,Phytol,C20H40O,296.3079159,Piper lhotzkyanum,Piper,KNApSAcK
+267,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Piper solmsianum,Piper,KNApSAcK
+268,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Piper aduncum,Piper,KNApSAcK
+269,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Piper attenuatum,Piper,KNApSAcK
+270,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Piper betle,Piper,KNApSAcK
+271,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Piper brachystachyum,Piper,KNApSAcK
+272,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Piper khasiana,Piper,KNApSAcK
+273,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Piper nigrum L.,Piper,KNApSAcK
+274,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Piper pedicellosum,Piper,KNApSAcK
+275,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Piper peepuloides,Piper,KNApSAcK
+276,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Piper philippinum,Piper,KNApSAcK
+277,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Piper umbellatum,Piper,KNApSAcK
+278,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Piper thomsoni,Piper,KNApSAcK
+279,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Piper retrofractum Vahl.,Piper,KNApSAcK
+280,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Piper acutisleginum,Piper,KNApSAcK
+281,C00003674,83-48-7,beta-Stigmasterol,C29H48O,412.37051615,Piper kadsura,Piper,KNApSAcK
+282,C00003674,83-48-7,beta-Stigmasterol,C29H48O,412.37051615,Piper philippinum,Piper,KNApSAcK
+283,C00003674,83-48-7,beta-Stigmasterol,C29H48O,412.37051615,Piper nigrum L.,Piper,KNApSAcK
+284,C00003674,83-48-7,beta-Stigmasterol,C29H48O,412.37051615,Piper methysticum Forst.f.,Piper,KNApSAcK
+285,C00003738,559-70-6,beta-Amyrin,C30H50O,426.38616622,Piper umbellatum,Piper,KNApSAcK
+286,C00003747,559-74-0,3-Friedelanone,C30H50O,426.38616622,Piper umbellatum,Piper,KNApSAcK
+287,C00003795,520-28-5,Tectochrysin,C16H12O4,268.07355887,Piper manii,Piper,KNApSAcK
+288,C00003795,520-28-5,Tectochrysin,C16H12O4,268.07355887,Piper sylvaticum Roxb.,Piper,KNApSAcK
+289,C00003817,520-36-5,Apigenin,C15H10O5,270.05282343,Mentha x piperita,Piper,KNApSAcK
+290,C00003834,529-53-3,Scutellarein,C15H10O6,286.04773805,Polygonum hydropiper L.,Piper,KNApSAcK
+291,C00003835,23130-22-5,ladanetin,C16H12O6,300.06338812,Mentha piperita,Piper,KNApSAcK
+292,C00003835,23130-22-5,ladanetin,C16H12O6,300.06338812,Mentha x piperita,Piper,KNApSAcK
+293,C00003839,10176-71-3,Ladanein,C17H14O6,314.07903818,Thymus piperella,Piper,KNApSAcK
+294,C00003839,10176-71-3,Ladanein,C17H14O6,314.07903818,Mentha piperita,Piper,KNApSAcK
+295,C00003840,19103-54-9,Salvigenin,C18H16O6,328.09468824,Mentha x piperita,Piper,KNApSAcK
+296,C00003868,32174-62-2,Pilloin,C17H14O6,314.07903818,Piper auritum,Piper,KNApSAcK
+297,C00003868,32174-62-2,Pilloin,C17H14O6,314.07903818,Tasmannia piperita,Piper,KNApSAcK
+298,C00003870,29080-58-8,"5-Hydroxy-7,3',4'-trimethoxyflavone",C18H16O6,328.09468824,Piper peepuloides,Piper,KNApSAcK
+299,C00003870,29080-58-8,"5-Hydroxy-7,3',4'-trimethoxyflavone",C18H16O6,328.09468824,Piper sylvaticum Roxb.,Piper,KNApSAcK
+300,C00003876,4323-80-2,Desmethoxysudachitin,C17H14O7,330.0739528,Mentha piperita,Piper,KNApSAcK
+301,C00003877,76844-66-1,Thymusin,C17H14O7,330.0739528,Mentha x piperita,Piper,KNApSAcK
+302,C00003879,16545-23-6,"5,4'-Dihydroxy-6,7,8-trimethoxyflavone",C18H16O7,344.08960287,Mentha piperita,Piper,KNApSAcK
+303,C00003881,54288-57-2,"5,6-Dihydroxy-7,8,4'-trimethoxyflavone",C18H16O7,344.08960287,Thymus piperella,Piper,KNApSAcK
+304,C00003883,2798-20-1,Gardenin B,C19H18O7,358.10525293,Mentha x piperita,Piper,KNApSAcK
+305,C00003883,2798-20-1,Gardenin B,C19H18O7,358.10525293,Mentha piperita,Piper,KNApSAcK
+306,C00003884,18003-33-3,6-Hydroxyluteolin,C15H10O7,302.04265268,Polygonum hydropiper L.,Piper,KNApSAcK
+307,C00003894,855-96-9,Eupatorin,C18H16O7,344.08960287,Mentha x piperita,Piper,KNApSAcK
+308,C00003895,25782-23-4,"4 5,6-Dihydroxy-7,3',4'-trimethoxyflavone",C18H16O7,344.08960287,Mentha x piperita,Piper,KNApSAcK
+309,C00003895,25782-23-4,"4 5,6-Dihydroxy-7,3',4'-trimethoxyflavone",C18H16O7,344.08960287,Thymus piperella,Piper,KNApSAcK
+310,C00003898,21763-80-4,"5-Hydroxy-6,7,3',4'-tetramethoxyflavone",C19H18O7,358.10525293,Mentha piperita L.var.kubamskaya,Piper,KNApSAcK
+311,C00003927,70360-12-2,Sideritiflavone,C18H16O8,360.08451749,Mentha piperita,Piper,KNApSAcK
+312,C00003928,4281-28-1,Sudachitin,C18H16O8,360.08451749,Mentha piperita L.var.prilwkskaya,Piper,KNApSAcK
+313,C00003931,76844-67-2,Thymonin,C18H16O8,360.08451749,Mentha x piperita,Piper,KNApSAcK
+314,C00003933,29202-00-4,Gardenin D,C19H18O8,374.10016755,Mentha x piperita,Piper,KNApSAcK
+315,C00003933,29202-00-4,Gardenin D,C19H18O8,374.10016755,Mentha piperita,Piper,KNApSAcK
+316,C00003934,56003-01-1,Hymenoxin,C19H18O8,374.10016755,Mentha piperita,Piper,KNApSAcK
+317,C00003936,2174-59-6,5-Demethylnobiletin,C20H20O8,388.11581762,Mentha piperita,Piper,KNApSAcK
+318,C00004184,20196-92-3,Apigenin 7-glucoside-4'-trans-caffeate,C30H26O13,594.13734092,Mentha piperita,Piper,KNApSAcK
+319,C00004193,14637-28-6,Apigenin 7-rutinoside-4'-trans-caffeate,C36H36O17,740.19524973,Mentha piperita,Piper,KNApSAcK
+320,C00004266,5373-11-5,Cinaroside,C21H20O11,448.10056148,Mentha piperitae,Piper,KNApSAcK
+321,C00004386,54300-65-1,6-Hydroxyluteolin 7-glucoside,C21H20O12,464.09547611,Polygonum hydropiper L.,Piper,KNApSAcK
+322,C00004565,520-18-3,Kaempferol,C15H10O6,286.04773805,Polygonum hydropiper,Piper,KNApSAcK
+323,C00004565,520-18-3,Kaempferol,C15H10O6,286.04773805,Piper umbellatum,Piper,KNApSAcK
+324,C00004573,15486-34-7,"3,7,4'-Tri-O-methylkaempferol",C18H16O6,328.09468824,Piper philippinum,Piper,KNApSAcK
+325,C00004631,117-39-5,Quercetin,C15H10O7,302.04265268,Polygonum hydropiper,Piper,KNApSAcK
+326,C00004631,117-39-5,Quercetin,C15H10O7,302.04265268,Piper umbellatum,Piper,KNApSAcK
+327,C00004634,90-19-7,Rhamnetin,C16H12O7,316.05830274,Polygonum hydropiper,Piper,KNApSAcK
+328,C00004635,480-19-3,Isorhamnetin,C16H12O7,316.05830274,Polygonum hydropiper,Piper,KNApSAcK
+329,C00004968,549-31-5,Persicarin,C16H12O10S,396.01511734,Polygonum hydropiper,Piper,KNApSAcK
+330,C00004974,,Rhamnazin 3-O-sulfate,C17H14O10S,410.0307674,Polygonum hydropiper,Piper,KNApSAcK
+331,C00005140,482-39-3,Afzelin,C21H20O10,432.10564686,Piper umbellatum,Piper,KNApSAcK
+332,C00005189,482-38-2,Kaempferitrin,C27H30O14,578.16355567,Piper umbellatum,Piper,KNApSAcK
+333,C00005373,482-35-9,Hirsutrin,C21H20O12,464.09547611,Piper umbellatum,Piper,KNApSAcK
+334,C00005376,22688-79-5,Miquelianin,C21H18O13,478.07474066,Polygonum hydropiper L.,Piper,KNApSAcK
+335,C00005413,153-18-4,Quercetin 3-rutinoside,C27H30O16,610.15338491,Piper umbellatum,Piper,KNApSAcK
+336,C00006073,156606-91-6,Tamarixetin 3-glucoside-7-sulfate,C22H22O15S,558.06794077,Polygonum hydropiper,Piper,KNApSAcK
+337,C00006318,66761-06-6,Marginatoside,C33H40O20,756.21129372,Piper marginatum,Piper,KNApSAcK
+338,C00006608,155023-56-6,Piperaduncin C,C33H32O8,556.209718,Piper aduncum,Piper,KNApSAcK
+339,C00006934,18956-15-5,"2',6'-Dihydroxy-4'-methoxychalcone",C16H14O4,270.08920894,Piper hispidum,Piper,KNApSAcK
+340,C00006934,18956-15-5,"2',6'-Dihydroxy-4'-methoxychalcone",C16H14O4,270.08920894,Piper aduncum,Piper,KNApSAcK
+341,C00006935,19309-14-9,Cardamomin,C16H14O4,270.08920894,Piper aduncum,Piper,KNApSAcK
+342,C00006935,19309-14-9,Cardamomin,C16H14O4,270.08920894,Piper hispidum,Piper,KNApSAcK
+343,C00006936,1775-97-9,Flavokawin B,C17H16O4,284.104859,Piper methysticum,Piper,KNApSAcK
+344,C00006957,37308-75-1,Flavokawain C,C17H16O5,300.09977362,Piper methysticum,Piper,KNApSAcK
+345,C00006958,3420-72-2,Flavokawin A,C18H18O5,314.11542369,Piper methysticum,Piper,KNApSAcK
+346,C00006961,54299-64-8,"2',3'-Dihydroxy-4',6'-dimethoxychalcone",C17H16O5,300.09977362,Piper hispidum,Piper,KNApSAcK
+347,C00006963,6971-20-6,"2'-Hydroxy-3',4',6'-trimethoxychalcone",C18H18O5,314.11542369,Piper hispidum,Piper,KNApSAcK
+348,C00007167,1782-79-2,Linderone,C16H14O5,286.08412356,Lindera pipericarpa,Piper,KNApSAcK
+349,C00007168,3984-73-4,Methylliderone,C17H16O5,300.09977362,Lindera pipericarpa,Piper,KNApSAcK
+350,C00007169,19956-53-7,Lucidone,C15H12O4,256.07355887,Lindera pipericarpa,Piper,KNApSAcK
+351,C00007193,,(+)-Xanthoxylol,C20H20O6,356.12598837,Zanthoxylum piperitum,Piper,KNApSAcK
+352,C00007195,68296-27-5,(+)-Fargesin,C21H22O6,370.14163844,Piper longum,Piper,KNApSAcK
+353,C00007195,68296-27-5,(+)-Fargesin,C21H22O6,370.14163844,Piper mullesua,Piper,KNApSAcK
+354,C00007195,68296-27-5,(+)-Fargesin,C21H22O6,370.14163844,Piper austrosinense,Piper,KNApSAcK
+355,C00007195,68296-27-5,(+)-Fargesin,C21H22O6,370.14163844,Piper brachystachyum,Piper,KNApSAcK
+356,C00007212,528-63-2,Galgravin,C22H28O5,372.193674,Piper futokadsura,Piper,KNApSAcK
+357,C00007212,528-63-2,Galgravin,C22H28O5,372.193674,Piper kadsura,Piper,KNApSAcK
+358,C00007212,528-63-2,Galgravin,C22H28O5,372.193674,Piper wallichii,Piper,KNApSAcK
+359,C00007212,528-63-2,Galgravin,C22H28O5,372.193674,Piper schmidtii,Piper,KNApSAcK
+360,C00007212,528-63-2,Galgravin,C22H28O5,372.193674,Piper puberulum,Piper,KNApSAcK
+361,C00007212,528-63-2,Galgravin,C22H28O5,372.193674,Piper mullesua,Piper,KNApSAcK
+362,C00007242,495-61-4,beta-Bisabolene,C15H24,204.18780077,Piper nigrum,Piper,KNApSAcK
+363,C00007242,495-61-4,beta-Bisabolene,C15H24,204.18780077,Piper obliquum,Piper,KNApSAcK
+364,C00007453,33880-83-0,beta-Elemene,C15H24,204.18780077,Piper nigrum,Piper,KNApSAcK
+365,C00007453,33880-83-0,beta-Elemene,C15H24,204.18780077,Piper obliquum,Piper,KNApSAcK
+366,C00007453,33880-83-0,beta-Elemene,C15H24,204.18780077,Piper arboreum,Piper,KNApSAcK
+367,C00007453,33880-83-0,beta-Elemene,C15H24,204.18780077,Piper fimbriulatum,Piper,KNApSAcK
+368,C00007558,134-96-3,Syringaldehyde,C9H10O4,182.05790881,Piper solmsianum,Piper,KNApSAcK
+369,C00007636,483-76-1,delta-Cadinene,C15H24,204.18780077,Piper arboreum,Piper,KNApSAcK
+370,C00007636,483-76-1,delta-Cadinene,C15H24,204.18780077,Piper obliquum,Piper,KNApSAcK
+371,C00007636,483-76-1,delta-Cadinene,C15H24,204.18780077,Piper nigrum,Piper,KNApSAcK
+372,C00007636,483-76-1,delta-Cadinene,C15H24,204.18780077,Piper fimbriulatum,Piper,KNApSAcK
+373,C00007929,35241-55-5,"2',6'-Dihydroxy-4'-methoxydihydrochalcone",C16H16O4,272.104859,Piper aduncum,Piper,KNApSAcK
+374,C00007929,35241-55-5,"2',6'-Dihydroxy-4'-methoxydihydrochalcone",C16H16O4,272.104859,Piper hostmannianum var.berbicense,Piper,KNApSAcK
+375,C00007971,155023-54-4,Piperaduncin A,C29H30O7,490.19915331,Piper aduncum,Piper,KNApSAcK
+376,C00008016,120948-03-0,Methyllinderatin,C26H32O4,408.23005951,Piper aduncum,Piper,KNApSAcK
+377,C00008111,151484-73-0,Adunctin A,C26H32O4,408.23005951,Piper aduncum,Piper,KNApSAcK
+378,C00008112,151484-74-1,Adunctin B,C26H30O4,406.21440945,Piper aduncum,Piper,KNApSAcK
+379,C00008113,151484-75-2,Adunctin C,C26H30O4,406.21440945,Piper aduncum,Piper,KNApSAcK
+380,C00008114,151593-45-2,Adunctin D,C26H30O4,406.21440945,Piper aduncum,Piper,KNApSAcK
+381,C00008115,151515-27-4,Adunctin E,C26H32O5,424.22497413,Piper aduncum,Piper,KNApSAcK
+382,C00008115,151515-27-4,Adunctin E,C26H32O5,424.22497413,Piper hostmannianum var.berbicense,Piper,KNApSAcK
+383,C00008143,36052-37-6,(-)-Alpinetin,C16H14O4,270.08920894,Piper spp.,Piper,KNApSAcK
+384,C00008148,18956-18-8,Dihydrooroxylin A,C16H14O5,286.08412356,Piper spp.,Piper,KNApSAcK
+385,C00008148,18956-18-8,Dihydrooroxylin A,C16H14O5,286.08412356,Piper sp.,Piper,KNApSAcK
+386,C00008150,75041-40-6,"6-Hydroxy-5,7-dimethoxyflavanone",C17H16O5,300.09977362,Piper hispidum,Piper,KNApSAcK
+387,C00008155,75041-38-2,"8-Hydroxy-5,7-dimethoxyflavanone",C17H16O5,300.09977362,Piper hispidum,Piper,KNApSAcK
+388,C00008158,69616-73-5,"5,7,8-Trimethoxyflavanone",C18H18O5,314.11542369,Piper hispidum,Piper,KNApSAcK
+389,C00008169,55820-35-4,"5-Hydroxy-7-methoxy-6,8-di-C-methylflavanone",C18H18O4,298.12050906,Piper hostmannianum,Piper,KNApSAcK
+390,C00008295,13463-28-0,Eriocitrin,C27H32O15,596.17412036,Mentha piperita,Piper,KNApSAcK
+391,C00008403,98155-84-1,Linderatone,C25H28O4,392.19875938,Piper hostmannianum var.berbicense,Piper,KNApSAcK
+392,C00008866,1257-08-5,(-)-Epicatechin 3-O-gallate,C22H18O10,442.0899968,Polygonum hydropiper,Piper,KNApSAcK
+393,C00010825,470-67-7,"1,4-Cineole",C10H18O,154.1357652,Piper cubeba,Piper,KNApSAcK
+394,C00010825,470-67-7,"1,4-Cineole",C10H18O,154.1357652,Polygonum hydropiper,Piper,KNApSAcK
+395,C00010830,5286-38-4,Piperitone oxide,C10H16O2,168.11502975,Mentha piperita L.,Piper,KNApSAcK
+396,C00010838,4584-23-0,"4,8-Epoxy-p-menth-1-ene",C10H16O,152.12011513,Zanthoxylum piperitum,Piper,KNApSAcK
+397,C00010868,5989-27-5,(+)-Limonene,C10H16,136.12520051,Mentha piperita,Piper,KNApSAcK
+398,C00010872,555-10-2,beta-Phellandrene,C10H16,136.12520051,Piper nigrum,Piper,KNApSAcK
+399,C00010872,555-10-2,beta-Phellandrene,C10H16,136.12520051,Piper fimbriulatum,Piper,KNApSAcK
+400,C00010872,555-10-2,beta-Phellandrene,C10H16,136.12520051,Piper arboreum,Piper,KNApSAcK
+401,C00010878,29332-98-7,"trans-(-)-p-Mentha-1(7),5-dien-2-ol",C10H16O,152.12011513,Piper nigrum,Piper,KNApSAcK
+402,C00010880,2102-62-7,"(+)-trans-p-Mentha-1(7),8-dien-2-ol",C10H16O,152.12011513,Zanthoxylum piperitum,Piper,KNApSAcK
+403,C00010882,3419-02-1,"p-Mentha-1,8-dien-4-ol",C10H16O,152.12011513,Zanthoxylum piperitum,Piper,KNApSAcK
+404,C00010888,55708-38-8,"p-Mentha-3,8-dien-1-ol",C10H16O,152.12011513,Piper nigrum,Piper,KNApSAcK
+405,C00010929,55708-42-4,1-Terpinen-5-ol,C10H18O,154.1357652,Piper nigrum,Piper,KNApSAcK
+406,C00010930,7299-42-5,delta-Terpineol,C10H18O,154.1357652,Zanthoxylum piperitum,Piper,KNApSAcK
+407,C00010933,18479-68-0,p-Menth-1-en-9-ol,C10H18O,154.1357652,Mentha piperita L.,Piper,KNApSAcK
+408,C00010937,38049-26-2,Dihydrocarveol,C10H18O,154.1357652,Piper longum,Piper,KNApSAcK
+409,C00010941,4573-50-6,(-)-Piperitone,C10H16O,152.12011513,Zanthoxylum piperitum,Piper,KNApSAcK
+410,C00010943,33375-08-5,(-)-Carvotanacetone,C10H16O,152.12011513,Piper nigrum,Piper,KNApSAcK
+411,C00010949,38049-04-6,(-)-Mintlactone,C10H14O2,166.09937969,Mentha piperita,Piper,KNApSAcK
+412,C00010950,75684-66-1,(+)-Isomintlactone,C10H14O2,166.09937969,Mentha piperita,Piper,KNApSAcK
+413,C00010974,527-84-4,alpha-Cymene,C10H14,134.10955045,Piper nigrum,Piper,KNApSAcK
+414,C00011045,20296-50-8,(-)-Carene(-)-3-Carene,C10H16,136.12520051,Piper nigrum,Piper,KNApSAcK
+415,C00011058,471-84-1,(-)-alpha-Fenchene,C10H16,136.12520051,Piper nigrum,Piper,KNApSAcK
+416,C00011067,508-32-7,Teresantanane,C10H16,136.12520051,Piper arboreum,Piper,KNApSAcK
+417,C00011067,508-32-7,Teresantanane,C10H16,136.12520051,Mentha piperita L.,Piper,KNApSAcK
+418,C00011067,508-32-7,Teresantanane,C10H16,136.12520051,Piper nigrum,Piper,KNApSAcK
+419,C00011421,33440-00-5,Fokienol,C15H24O,220.18271539,Piper nigrum,Piper,KNApSAcK
+420,C00011631,53585-13-0,E-gamma-Bisabolene,C15H24,204.18780077,Piper nigrum,Piper,KNApSAcK
+421,C00011720,23986-74-5,(-)-Germacrene D,C15H24,204.18780077,Piper obliquum,Piper,KNApSAcK
+422,C00011720,23986-74-5,(-)-Germacrene D,C15H24,204.18780077,Piper nigrum,Piper,KNApSAcK
+423,C00011720,23986-74-5,(-)-Germacrene D,C15H24,204.18780077,Piper arboreum,Piper,KNApSAcK
+424,C00011966,58319-04-3,Sesquisabinene,C15H24,204.18780077,Piper nigrum,Piper,KNApSAcK
+425,C00011971,32531-56-9,Bicycloelemene,C15H24,204.18780077,Mentha x piperita,Piper,KNApSAcK
+426,C00011971,32531-56-9,Bicycloelemene,C15H24,204.18780077,Piper nigrum,Piper,KNApSAcK
+427,C00012005,639-99-6,(-)-Elemol,C15H26O,222.19836545,Piper nigrum,Piper,KNApSAcK
+428,C00012011,20307-84-0,delta-Elemene,C15H24,204.18780077,Piper nigrum,Piper,KNApSAcK
+429,C00012011,20307-84-0,delta-Elemene,C15H24,204.18780077,Piper fimbriulatum,Piper,KNApSAcK
+430,C00012012,29873-99-2,(-)-gamma-Elemene,C15H24,204.18780077,Piper nigrum,Piper,KNApSAcK
+431,C00012012,29873-99-2,(-)-gamma-Elemene,C15H24,204.18780077,Piper obliquum,Piper,KNApSAcK
+432,C00012040,17910-09-7,Curzerene,C15H20O,216.15141526,Piper nigrum,Piper,KNApSAcK
+433,C00012425,24703-35-3,(+)-Bicyclogermacrene,C15H24,204.18780077,Piper fimbriulatum,Piper,KNApSAcK
+434,C00012425,24703-35-3,(+)-Bicyclogermacrene,C15H24,204.18780077,Piper nigrum,Piper,KNApSAcK
+435,C00012425,24703-35-3,(+)-Bicyclogermacrene,C15H24,204.18780077,Piper arboreum,Piper,KNApSAcK
+436,C00012444,19888-34-7,"Humulene 1,2-epoxide",C15H24O,220.18271539,Piper nigrum,Piper,KNApSAcK
+437,C00012483,1139-30-6,(-)-beta-Caryophyllene epoxide,C15H24O,220.18271539,Piper philippinum,Piper,KNApSAcK
+438,C00012483,1139-30-6,(-)-beta-Caryophyllene epoxide,C15H24O,220.18271539,Mentha piperita,Piper,KNApSAcK
+439,C00012483,1139-30-6,(-)-beta-Caryophyllene epoxide,C15H24O,220.18271539,Piper nigrum,Piper,KNApSAcK
+440,C00012813,16641-47-7,Kongol,C15H26O,222.19836545,Piper nigrum,Piper,KNApSAcK
+441,C00012815,5945-72-2,neo-Intermedeol,C15H26O,222.19836545,Piper nigrum,Piper,KNApSAcK
+442,C00013339,13509-93-8,Pebrellin,C19H18O8,374.10016755,Mentha piperita,Piper,KNApSAcK
+443,C00013339,13509-93-8,Pebrellin,C19H18O8,374.10016755,Thymus piperella,Piper,KNApSAcK
+444,C00013339,13509-93-8,Pebrellin,C19H18O8,374.10016755,Mentha x piperita,Piper,KNApSAcK
+445,C00014013,329229-05-2,Kaplanin,C22H22O9,430.1263823,Piper lhotzkyanum,Piper,KNApSAcK
+446,C00014013,329229-05-2,Kaplanin,C22H22O9,430.1263823,Piper lihotzkyanum,Piper,KNApSAcK
+447,C00014600,42546-55-4,Dihydroflavokawain C,C17H18O5,302.11542369,Piper methysticum,Piper,KNApSAcK
+448,C00014601,3791-75-1,Flavokavain A,C18H20O5,316.13107375,Piper methysticum,Piper,KNApSAcK
+449,C00014613,342882-02-4,Longicaudatin,C26H22O7,446.13655306,Piper longicaudatum,Piper,KNApSAcK
+450,C00019308,474-58-8,3-O-beta-D-Glucopyranosyl sitosterol,C35H60O6,576.43898965,Piper umbellatum,Piper,KNApSAcK
+451,C00019308,474-58-8,3-O-beta-D-Glucopyranosyl sitosterol,C35H60O6,576.43898965,Piper nigrum L.,Piper,KNApSAcK
+452,C00020044,15890-31-0,(-)-epsilon-Bulgarene,C15H24,204.18780077,Mentha piperita,Piper,KNApSAcK
+453,C00020048,17627-21-3,omega-Cadinene,C15H24,204.18780077,Mentha piperita,Piper,KNApSAcK
+454,C00020058,24268-34-6,Khusinol,C15H24O,220.18271539,Piper nigrum,Piper,KNApSAcK
+455,C00020065,481-34-5,(-)-alpha-Cadinol,C15H26O,222.19836545,Piper nigrum,Piper,KNApSAcK
+456,C00020065,481-34-5,(-)-alpha-Cadinol,C15H26O,222.19836545,Piper fimbriulatum,Piper,KNApSAcK
+457,C00020065,481-34-5,(-)-alpha-Cadinol,C15H26O,222.19836545,Piper arboreum,Piper,KNApSAcK
+458,C00020066,5937-11-1,epi-alpha-Cadinol,C15H26O,222.19836545,Piper fimbriulatum,Piper,KNApSAcK
+459,C00020066,5937-11-1,epi-alpha-Cadinol,C15H26O,222.19836545,Piper obliquum,Piper,KNApSAcK
+460,C00020066,5937-11-1,epi-alpha-Cadinol,C15H26O,222.19836545,Piper arboreum,Piper,KNApSAcK
+461,C00020074,483-77-2,Calamenene,C15H22,202.1721507,Piper fimbriulatum,Piper,KNApSAcK
+462,C00020130,24268-39-1,gamma-Muurolene,C15H24,204.18780077,Piper arboreum,Piper,KNApSAcK
+463,C00020130,24268-39-1,gamma-Muurolene,C15H24,204.18780077,Piper obliquum,Piper,KNApSAcK
+464,C00020130,24268-39-1,gamma-Muurolene,C15H24,204.18780077,Piper fimbriulatum,Piper,KNApSAcK
+465,C00020136,54324-03-7,Bicyclosesquiphellandrene,C15H24,204.18780077,Piper cubeba,Piper,KNApSAcK
+466,C00020145,19912-67-5,1-Epicubenol,C15H26O,222.19836545,Piper cubeba,Piper,KNApSAcK
+467,C00020146,81939-29-9,1-epi-Cubenol,C15H26O,222.19836545,Piper fimbriulatum,Piper,KNApSAcK
+468,C00020146,81939-29-9,1-epi-Cubenol,C15H26O,222.19836545,Piper nigrum,Piper,KNApSAcK
+469,C00020146,81939-29-9,1-epi-Cubenol,C15H26O,222.19836545,Piper arboreum,Piper,KNApSAcK
+470,C00020154,19912-62-0,tau-Muurolol,C15H26O,222.19836545,Piper nigrum,Piper,KNApSAcK
+471,C00020276,98204-84-3,Polygonic acid,C15H22O3,250.15689457,Polygonum hydropiper,Piper,KNApSAcK
+472,C00020288,72581-69-2,Isodrimeninol,C15H24O2,236.17763001,Polygonum hydropiper,Piper,KNApSAcK
+473,C00020296,24173-70-4,Valdiviolide,C15H22O3,250.15689457,Polygonum hydropiper,Piper,KNApSAcK
+474,C00020298,6750-10-3,Fuegin,C15H22O4,266.15180919,Polygonum hydropiper,Piper,KNApSAcK
+475,C00020333,72537-20-3,Polygonal,C14H22O2,222.16197995,Polygonum hydropiper,Piper,KNApSAcK
+476,C00020334,98204-83-2,Isopolygonal,C14H22O2,222.16197995,Polygonum hydropiper,Piper,KNApSAcK
+477,C00020335,72581-67-0,Polygonone,C14H20O2,220.14632988,Polygonum hydropiper,Piper,KNApSAcK
+478,C00020377,3691-12-1,alpha-Guaiene,C15H24,204.18780077,Piper fimbriulatum,Piper,KNApSAcK
+479,C00020377,3691-12-1,alpha-Guaiene,C15H24,204.18780077,Piper nigrum,Piper,KNApSAcK
+480,C00020379,3691-11-0,alpha-Bulnesene,C15H24,204.18780077,Piper fimbriulatum,Piper,KNApSAcK
+481,C00020383,22567-17-5,gamma-gurjunene epoxide,C15H24,204.18780077,Piper fimbriulatum,Piper,KNApSAcK
+482,C00020383,22567-17-5,gamma-gurjunene epoxide,C15H24,204.18780077,Piper arboreum,Piper,KNApSAcK
+483,C00020384,36577-33-0,"6,9-Guaiadiene",C15H24,204.18780077,Piper fimbriulatum,Piper,KNApSAcK
+484,C00020410,21698-41-9,Pogostol,C15H26O,222.19836545,Piper nigrum,Piper,KNApSAcK
+485,C00021213,489-41-8,(-)-Globulol,C15H26O,222.19836545,Piper obliquum,Piper,KNApSAcK
+486,C00021213,489-41-8,(-)-Globulol,C15H26O,222.19836545,Piper fimbriulatum,Piper,KNApSAcK
+487,C00021217,552-02-3,Viridiflorol,C15H26O,222.19836545,Piper arboreum,Piper,KNApSAcK
+488,C00021220,21747-46-6,Viridiflorene,C15H24,204.18780077,Piper nigrum,Piper,KNApSAcK
+489,C00021227,489-40-7,alpha-Gurjunene,C15H24,204.18780077,Piper nigrum,Piper,KNApSAcK
+490,C00021227,489-40-7,alpha-Gurjunene,C15H24,204.18780077,Piper obliquum,Piper,KNApSAcK
+491,C00021227,489-40-7,alpha-Gurjunene,C15H24,204.18780077,Piper fimbriulatum,Piper,KNApSAcK
+492,C00021227,489-40-7,alpha-Gurjunene,C15H24,204.18780077,Piper arboreum,Piper,KNApSAcK
+493,C00021230,489-39-4,(+)-Aromadendrene,C15H24,204.18780077,Piper obliquum,Piper,KNApSAcK
+494,C00021236,88395-46-4,Isosparthulenol,C15H24O,220.18271539,Piper nigrum,Piper,KNApSAcK
+495,C00021272,23445-02-5,Cubebol,C15H26O,222.19836545,Piper nigrum,Piper,KNApSAcK
+496,C00021272,23445-02-5,Cubebol,C15H26O,222.19836545,Piper lowong,Piper,KNApSAcK
+497,C00021283,2387-78-2,Cyperene,C15H24,204.18780077,Piper fimbriulatum,Piper,KNApSAcK
+498,C00021423,88395-47-5,"1,5-Epoxysalvial-4(14)-ene",C15H24O,220.18271539,Piper obliquum,Piper,KNApSAcK
+499,C00021429,72445-42-2,Mintsulfide,C15H24S,236.1598715,Mentha piperita,Piper,KNApSAcK
+500,C00021542,71305-63-0,3-O-Ethyllactarolide A,C17H26O5,310.17802394,Lactarius subpiperatus,Piper,KNApSAcK
+501,C00021544,71305-64-1,3-O-Ethyllactarolide B,C17H26O5,310.17802394,Lactarius subpiperatus,Piper,KNApSAcK
+502,C00021545,35008-20-9,Lactarorufin A,C15H22O4,266.15180919,Lactarius subpiperatus,Piper,KNApSAcK
+503,C00021551,100288-35-5,Piperalol,C15H24O3,252.17254463,Lactarius piperatus,Piper,KNApSAcK
+504,C00021555,50656-61-6,Velleral,C15H20O2,232.14632988,Lactarius piperatus,Piper,KNApSAcK
+505,C00021587,28296-85-7,alpha-Acorenol,C15H26O,222.19836545,Piper nigrum,Piper,KNApSAcK
+506,C00021674,74683-16-2,Nectandrin B,C20H24O5,344.16237388,Piper mullesua,Piper,KNApSAcK
+507,C00021834,56633-28-4,alpha-Panasinsene,C15H24,204.18780077,Piper nigrum,Piper,KNApSAcK
+508,C00021859,22469-52-9,(+)-Cyclosativene,C15H24,204.18780077,Piper nigrum,Piper,KNApSAcK
+509,C00021884,5208-59-3,beta-Bourbonene,C15H24,204.18780077,Mentha piperita L.,Piper,KNApSAcK
+510,C00021884,5208-59-3,beta-Bourbonene,C15H24,204.18780077,Piper arboreum,Piper,KNApSAcK
+511,C00021884,5208-59-3,beta-Bourbonene,C15H24,204.18780077,Piper fimbriulatum,Piper,KNApSAcK
+512,C00021903,13474-59-4,trans-alpha-Bergamotene,C15H24,204.18780077,Piper nigrum,Piper,KNApSAcK
+513,C00023758,19254-69-4,"Ergosta-4,6,8(14),22-tetraen-3-one",C28H40O,392.3079159,Piper philippinum,Piper,KNApSAcK
+514,C00024779,95377-96-1,Yagonin,C20H17NO6,367.10558728,Piper methysticum,Piper,KNApSAcK
+515,C00025334,66648-43-9,N-trans-Feruloyltyramine,C18H19NO4,313.1314081,Piper nigrum,Piper,KNApSAcK
+516,C00025334,66648-43-9,N-trans-Feruloyltyramine,C18H19NO4,313.1314081,Piper sanctum,Piper,KNApSAcK
+517,C00025334,66648-43-9,N-trans-Feruloyltyramine,C18H19NO4,313.1314081,Piper umbellatum,Piper,KNApSAcK
+518,C00025675,2169-44-0,(+)-N-Methyllaurotetanine,C20H23NO4,341.16270823,Lindera pipericarpa,Piper,KNApSAcK
+519,C00025787,55610-01-0,Cepharadione A,C18H11NO4,305.06880785,Piper thomsoni,Piper,KNApSAcK
+520,C00025787,55610-01-0,Cepharadione A,C18H11NO4,305.06880785,Piper pedicellosum,Piper,KNApSAcK
+521,C00025787,55610-01-0,Cepharadione A,C18H11NO4,305.06880785,Piper augustum,Piper,KNApSAcK
+522,C00025787,55610-01-0,Cepharadione A,C18H11NO4,305.06880785,Piper auritum,Piper,KNApSAcK
+523,C00025787,55610-01-0,Cepharadione A,C18H11NO4,305.06880785,Piper betle,Piper,KNApSAcK
+524,C00025787,55610-01-0,Cepharadione A,C18H11NO4,305.06880785,Piper caninum,Piper,KNApSAcK
+525,C00025787,55610-01-0,Cepharadione A,C18H11NO4,305.06880785,Piper methysticum,Piper,KNApSAcK
+526,C00025787,55610-01-0,Cepharadione A,C18H11NO4,305.06880785,Piper acutisleginum,Piper,KNApSAcK
+527,C00025788,55610-02-1,Cepharadione B,C19H15NO4,321.10010798,Piper auritum,Piper,KNApSAcK
+528,C00025788,55610-02-1,Cepharadione B,C19H15NO4,321.10010798,Piper sanctum,Piper,KNApSAcK
+529,C00025791,53948-09-7,Aristolactam BII,C17H13NO3,279.08954329,Piper sanctum,Piper,KNApSAcK
+530,C00025791,53948-09-7,Aristolactam BII,C17H13NO3,279.08954329,Piper augustum,Piper,KNApSAcK
+531,C00025791,53948-09-7,Aristolactam BII,C17H13NO3,279.08954329,Piper tuberculatum,Piper,KNApSAcK
+532,C00025939,25342-82-9,(+)-Menisperine,C21H26NO4,356.18618333,Zanthoxylum piperitum,Piper,KNApSAcK
+533,C00027409,128-76-7,Laurotetanine,C19H21NO4,327.14705817,Piper longum,Piper,KNApSAcK
+534,C00027434,57576-41-7,Norcepharadione B,C18H13NO4,307.08445791,Piper boehmeriaefolium,Piper,KNApSAcK
+535,C00027438,475-70-7,Norisocorydine,C19H21NO4,327.14705817,Lindera pipericarpa,Piper,KNApSAcK
+536,C00027470,112501-42-5,Piperolactam A,C16H11NO3,265.07389323,Piper philippinum,Piper,KNApSAcK
+537,C00027470,112501-42-5,Piperolactam A,C16H11NO3,265.07389323,Piper sanctum,Piper,KNApSAcK
+538,C00027470,112501-42-5,Piperolactam A,C16H11NO3,265.07389323,Piper boehimerfolium,Piper,KNApSAcK
+539,C00027470,112501-42-5,Piperolactam A,C16H11NO3,265.07389323,Piper longum,Piper,KNApSAcK
+540,C00027471,116064-76-7,Piperolactam C,C18H15NO4,309.10010798,Piper longum,Piper,KNApSAcK
+541,C00027585,188546-49-8,Piperlactam,C17H13NO4,295.08445791,Piper puberullum,Piper,KNApSAcK
+542,C00028813,18836-52-7,N-Isobutyldeca-trans-2-trans-4-dienamide,C14H25NO,223.19361443,Piper pedicellosum,Piper,KNApSAcK
+543,C00028813,18836-52-7,N-Isobutyldeca-trans-2-trans-4-dienamide,C14H25NO,223.19361443,Piper nigrum L.,Piper,KNApSAcK
+544,C00028813,18836-52-7,N-Isobutyldeca-trans-2-trans-4-dienamide,C14H25NO,223.19361443,Piper longum,Piper,KNApSAcK
+545,C00028813,18836-52-7,N-Isobutyldeca-trans-2-trans-4-dienamide,C14H25NO,223.19361443,Piper kadsura,Piper,KNApSAcK
+546,C00028813,18836-52-7,N-Isobutyldeca-trans-2-trans-4-dienamide,C14H25NO,223.19361443,Piper sarmentosum,Piper,KNApSAcK
+547,C00028813,18836-52-7,N-Isobutyldeca-trans-2-trans-4-dienamide,C14H25NO,223.19361443,Piper retrofractum,Piper,KNApSAcK
+548,C00028813,18836-52-7,N-Isobutyldeca-trans-2-trans-4-dienamide,C14H25NO,223.19361443,Piper tuberculatum,Piper,KNApSAcK
+549,C00028813,18836-52-7,N-Isobutyldeca-trans-2-trans-4-dienamide,C14H25NO,223.19361443,Piper tuberculatum Jacq.,Piper,KNApSAcK
+550,C00028845,128718-51-4,Piperolactam D,C17H13NO4,295.08445791,Piper attenuatum,Piper,KNApSAcK
+551,C00028845,128718-51-4,Piperolactam D,C17H13NO4,295.08445791,Piper boehmerifolium,Piper,KNApSAcK
+552,C00028845,128718-51-4,Piperolactam D,C17H13NO4,295.08445791,Piper longum,Piper,KNApSAcK
+553,C00029287,13079-95-3,L-Sesamin,C20H18O6,354.11033831,Piper retrofractum,Piper,KNApSAcK
+554,C00029335,13877-91-3,(E)-beta-Ocimene,C10H16,136.12520051,Piper nigrum,Piper,KNApSAcK
+555,C00029335,13877-91-3,(E)-beta-Ocimene,C10H16,136.12520051,Piper arboreum,Piper,KNApSAcK
+556,C00029335,13877-91-3,(E)-beta-Ocimene,C10H16,136.12520051,Piper fimbriulatum,Piper,KNApSAcK
+557,C00029336,3796-70-1,(E)-Geranyl acetone,C13H22O,194.16706532,Mentha piperita,Piper,KNApSAcK
+558,C00029339,40716-66-3,"(6E)-3,7,11-Trimethyl-1,6,10-dodecatrien-3-ol",C15H26O,222.19836545,Piper nigrum,Piper,KNApSAcK
+559,C00029352,7299-40-3,cis-beta-Terpineol,C10H18O,154.1357652,Piper nigrum,Piper,KNApSAcK
+560,C00029369,15051-81-7,10-epi-gamma-Eudesmol,C15H26O,222.19836545,Piper obliquum,Piper,KNApSAcK
+561,C00029373,7638-92-8,10-Methoxyyagonin,C16H16O5,288.09977362,Piper methysticum,Piper,KNApSAcK
+562,C00029378,38146-59-7,11-Hydroxy-12-methoxydihydrokavain,C15H18O5,278.11542369,Piper methysticum,Piper,KNApSAcK
+563,C00029395,108043-85-2,14-Hydroxy-alpha-humulene,C15H24O,220.18271539,Piper nigrum,Piper,KNApSAcK
+564,C00029476,118-41-2,Eudesmic acid,C10H12O5,212.06847349,Piper solmsianum,Piper,KNApSAcK
+565,C00029536,100-09-4,4-Methoxybenzoic acid,C8H8O3,152.04734412,Piper philippinum,Piper,KNApSAcK
+566,C00029544,562-74-3,4-Terpineol,C10H18O,154.1357652,Thymus piperella,Piper,KNApSAcK
+567,C00029544,562-74-3,4-Terpineol,C10H18O,154.1357652,Piper arboreum,Piper,KNApSAcK
+568,C00029544,562-74-3,4-Terpineol,C10H18O,154.1357652,Piper nigrum,Piper,KNApSAcK
+569,C00029550,15345-89-8,"5,6-Dehydrokawain",C14H12O3,228.07864425,Piper methysticum Forst.f.,Piper,KNApSAcK
+570,C00029551,56070-90-7,"5,6-Dehydromethysticin",C15H12O5,272.06847349,Piper methysticum,Piper,KNApSAcK
+571,C00029583,587-63-3,"7,8-Dihydrokavain",C14H16O3,232.10994438,Piper methysticum,Piper,KNApSAcK
+572,C00029671,10208-80-7,alpha-Muurolene,C15H24,204.18780077,Piper nigrum,Piper,KNApSAcK
+573,C00029671,10208-80-7,alpha-Muurolene,C15H24,204.18780077,Piper fimbriulatum,Piper,KNApSAcK
+574,C00029671,10208-80-7,alpha-Muurolene,C15H24,204.18780077,Piper arboreum,Piper,KNApSAcK
+575,C00029671,10208-80-7,alpha-Muurolene,C15H24,204.18780077,Piper obliquum,Piper,KNApSAcK
+576,C00029672,473-13-2,(-)-alpha-Selinene,C15H24,204.18780077,Piper fimbriulatum,Piper,KNApSAcK
+577,C00029672,473-13-2,(-)-alpha-Selinene,C15H24,204.18780077,Piper nigrum,Piper,KNApSAcK
+578,C00029674,98-55-5,alpha-Terpineol,C10H18O,154.1357652,Piper fimbriulatum,Piper,KNApSAcK
+579,C00029674,98-55-5,alpha-Terpineol,C10H18O,154.1357652,Piper nigrum,Piper,KNApSAcK
+580,C00029674,98-55-5,alpha-Terpineol,C10H18O,154.1357652,Thymus piperella,Piper,KNApSAcK
+581,C00029674,98-55-5,alpha-Terpineol,C10H18O,154.1357652,Piper arboreum,Piper,KNApSAcK
+582,C00029679,515-69-5,alpha-Bisabolol,C15H26O,222.19836545,Piper nigrum,Piper,KNApSAcK
+583,C00029679,515-69-5,alpha-Bisabolol,C15H26O,222.19836545,Piper fimbriulatum,Piper,KNApSAcK
+584,C00029692,34818-56-9,Anofinic acid,C12H12O3,204.07864425,Piper aduncum,Piper,KNApSAcK
+585,C00029834,23526-45-6,(+)-Blumenol A,C13H20O3,224.1412445,Piper taiwanense,Piper,KNApSAcK
+586,C00029847,126394-65-8,Brachystamide B,C26H37NO3,411.27734405,Piper sarmentosum,Piper,KNApSAcK
+587,C00029866,29837-12-5,"Cadina-1,4-diene",C15H24,204.18780077,Piper arboreum,Piper,KNApSAcK
+588,C00029866,29837-12-5,"Cadina-1,4-diene",C15H24,204.18780077,Piper fimbriulatum,Piper,KNApSAcK
+589,C00029913,19431-79-9,"Caryophylla-4(12),8(13)-dien-5beta-ol",C15H24O,220.18271539,Piper nigrum,Piper,KNApSAcK
+590,C00029962,5034-00-4,Cinnamic acid bornyl ester,C20H26O3,314.1881947,Piper methysticum,Piper,KNApSAcK
+591,C00029970,18252-46-5,cis-alpha-Bergamotene,C15H24,204.18780077,Piper nigrum,Piper,KNApSAcK
+592,C00030345,39029-41-9,gamma-Cadinene,C15H24,204.18780077,Piper obliquum,Piper,KNApSAcK
+593,C00030345,39029-41-9,gamma-Cadinene,C15H24,204.18780077,Piper fimbriulatum,Piper,KNApSAcK
+594,C00030436,55038-30-7,Guineensine,C24H33NO3,383.24604393,Piper longum,Piper,KNApSAcK
+595,C00030436,55038-30-7,Guineensine,C24H33NO3,383.24604393,Piper sarmentosum,Piper,KNApSAcK
+596,C00030436,55038-30-7,Guineensine,C24H33NO3,383.24604393,Piper retrofractum Vahl.,Piper,KNApSAcK
+597,C00030492,85922-40-3,Horsfieldin,C20H20O6,356.12598837,Piper sarmentosum,Piper,KNApSAcK
+598,C00030497,334833-30-6,Hydroxykavain,C14H14O4,246.08920894,Piper methysticum,Piper,KNApSAcK
+599,C00030519,17627-43-9,Isobonducellin,C15H24O,220.18271539,Piper arboreum,Piper,KNApSAcK
+600,C00030519,17627-43-9,Isobonducellin,C15H24O,220.18271539,Piper fimbriulatum,Piper,KNApSAcK
+601,C00030758,112-12-9,2-Undecanone,C11H22O,170.16706532,Piper fimbriulatum,Piper,KNApSAcK
+602,C00030879,593-45-3,n-Octadecane,C18H38,254.29735121,Piper longum,Piper,KNApSAcK
+603,C00030933,1197-01-9,p-Cymen-8-ol,C10H14O,150.10446507,Piper obliquum,Piper,KNApSAcK
+604,C00031033,18634-87-2,Pipataline,C19H28O2,288.20893014,Piper peepuloides,Piper,KNApSAcK
+605,C00031034,94-53-1,Piperonylic acid,C8H6O4,166.02660868,Piper philippinum,Piper,KNApSAcK
+606,C00031034,94-53-1,Piperonylic acid,C8H6O4,166.02660868,Piper longum,Piper,KNApSAcK
+607,C00031035,838865-54-6,Pipnoohine,C24H43NO,361.334465,Piper nigrum L.,Piper,KNApSAcK
+608,C00031036,838865-56-8,Pipyahyine,C24H33NO3,383.24604393,Piper nigrum L.,Piper,KNApSAcK
+609,C00031258,3387-41-5,4(10)-Thujene,C10H16,136.12520051,Piper nigrum,Piper,KNApSAcK
+610,C00031258,3387-41-5,4(10)-Thujene,C10H16,136.12520051,Piper arboreum,Piper,KNApSAcK
+611,C00031258,3387-41-5,4(10)-Thujene,C10H16,136.12520051,Piper fimbriulatum,Piper,KNApSAcK
+612,C00031303,885677-74-7,Sarmentamide A,C13H13NO2,215.09462867,Piper sarmentosum,Piper,KNApSAcK
+613,C00031304,885677-75-8,Sarmentamide B,C17H19NO5,317.12632272,Piper sarmentosum,Piper,KNApSAcK
+614,C00031305,885677-76-9,Sarmentamide C,C16H21NO4,291.14705817,Piper sarmentosum,Piper,KNApSAcK
+615,C00031306,78910-33-5,Sarmentine,C14H23NO,221.17796436,Piper nigrum L.,Piper,KNApSAcK
+616,C00031306,78910-33-5,Sarmentine,C14H23NO,221.17796436,Piperaceae,Piper,KNApSAcK
+617,C00031306,78910-33-5,Sarmentine,C14H23NO,221.17796436,Piper sarmentosum,Piper,KNApSAcK
+618,C00031454,769928-69-0,(+)-Bornyl piperate,C22H26O4,354.18310932,Piper aff. pedicellatum,Piper,KNApSAcK
+619,C00031455,21453-68-9,(+)-Diayangambin,C24H30O8,446.19406794,Piper fimbriulatum,Piper,KNApSAcK
+620,C00031479,117137-69-6,"[(2E,4E)-Dodecadienoyl]-pyrrolidine",C16H27NO,249.20926449,Piper nigrum L.,Piper,KNApSAcK
+621,C00031626,32142-08-8,beta-Elemol,C15H26O,222.19836545,Piper fimbriulatum,Piper,KNApSAcK
+622,C00031766,38230-60-3,epi-Cubebol,C15H26O,222.19836545,Piper nigrum,Piper,KNApSAcK
+623,C00031853,70974-48-0,Hexadecanoylpyrrolidine,C20H39NO,309.30316487,Piper nigrum L.,Piper,KNApSAcK
+624,C00031898,5273-85-8,Isoelemicin,C12H16O3,208.10994438,Piper solmsianum,Piper,KNApSAcK
+625,C00032163,83-45-4,"(3beta,5alpha)-Stigmastan-3-ol",C29H52O,416.40181628,Piper nigrum L.,Piper,KNApSAcK
+626,C00032794,189109-45-3,Byzantionoside B,C19H32O7,372.21480338,Piper elongatum VAHL.,Piper,KNApSAcK
+627,C00033303,482299-69-4,Pipelol A,C15H26O3,254.1881947,Piper elongatum VAHL.,Piper,KNApSAcK
+628,C00033304,482299-68-3,Pipeloside A,C31H52O17,696.32045024,Piper elongatum VAHL.,Piper,KNApSAcK
+629,C00033558,14737-89-4,"3,4-Dimethoxy-trans-cinnamic acid",C11H12O4,208.07355887,Piper methysticum,Piper,KNApSAcK
+630,C00033681,2308-85-2,beta-Sitosterol palmitate,C45H80O2,652.6158318,Piper betle,Piper,KNApSAcK
+631,C00033734,21284-22-0,Cubenol,C15H26O,222.19836545,Piper fimbriulatum,Piper,KNApSAcK
+632,C00033734,21284-22-0,Cubenol,C15H26O,222.19836545,Piper arboreum,Piper,KNApSAcK
+633,C00033734,21284-22-0,Cubenol,C15H26O,222.19836545,Piper cubeba,Piper,KNApSAcK
+634,C00033734,21284-22-0,Cubenol,C15H26O,222.19836545,Piper obliquum,Piper,KNApSAcK
+635,C00033848,57-48-7,D-Fructose,C6H12O6,180.06338812,Piper retrofractum Vahl.,Piper,KNApSAcK
+636,C00033916,23811-08-7,Hinesol,C15H26O,222.19836545,Piper lhotzkyanum,Piper,KNApSAcK
+637,C00034085,20375-37-5,N-p-Coumaroyltyramine,C17H17NO3,283.12084342,Piper umbellatum,Piper,KNApSAcK
+638,C00034153,1040108-62-0,Piperumbellactam A,C17H13NO4,295.08445791,Piper umbellatum,Piper,KNApSAcK
+639,C00034154,1040108-63-1,Piperumbellactam B,C16H11NO4,281.06880785,Piper umbellatum,Piper,KNApSAcK
+640,C00034155,1040108-64-2,Piperumbellactam C,C16H11NO4,281.06880785,Piper umbellatum,Piper,KNApSAcK
+641,C00034156,1040108-65-3,Piperumbellactam D,C17H11NO4,293.06880785,Piper umbellatum,Piper,KNApSAcK
+642,C00034181,1037034-68-6,Pterogynoside,C29H26O14,598.13225554,Piper umbellatum,Piper,KNApSAcK
+643,C00034355,85404-48-4,(-)-Haplomyrfolin,C20H20O6,356.12598837,Piper philippinum,Piper,KNApSAcK
+644,C00034356,58311-20-9,(-)-Kusunokinin,C21H22O6,370.14163844,Piper philippinum,Piper,KNApSAcK
+645,C00034357,51529-12-5,"(22E,24S)-Stigmast-4,22-dien-3-one",C29H46O,410.35486609,Piper philippinum,Piper,KNApSAcK
+646,C00034385,14756-00-4,"3,4-Methylenedioxycinnamaldehyde",C10H8O3,176.04734412,Piper philippinum,Piper,KNApSAcK
+647,C00034386,349541-65-7,"3,4-Methylenedioxycinnamic acid",C18H15NO5,325.0950226,Piper philippinum,Piper,KNApSAcK
+648,C00034395,3901-07-3,(E)-Methyl 4-methoxycinnamate,C11H12O3,192.07864425,Piper philippinum,Piper,KNApSAcK
+649,C00034476,107584-38-3,Dehydropipernonaline,C21H25NO3,339.18344367,Piper nigrum,Piper,KNApSAcK
+650,C00034476,107584-38-3,Dehydropipernonaline,C21H25NO3,339.18344367,Piper longum,Piper,KNApSAcK
+651,C00034523,809281-24-1,Gaudichaudianic acid,C22H28O3,340.20384476,Piper gaudichaudianum Kunth,Piper,KNApSAcK
+652,C00034630,807618-24-2,Piperchabamide D,C22H31NO3,357.23039386,Piper nigrum,Piper,KNApSAcK
+653,C00034630,807618-24-2,Piperchabamide D,C22H31NO3,357.23039386,Piper chaba,Piper,KNApSAcK
+654,C00034631,54794-74-0,Pipercide,C22H29NO3,355.2147438,Piper retrofractum,Piper,KNApSAcK
+655,C00034631,54794-74-0,Pipercide,C22H29NO3,355.2147438,Piper nigrum,Piper,KNApSAcK
+656,C00034631,54794-74-0,Pipercide,C22H29NO3,355.2147438,Piper chaba,Piper,KNApSAcK
+657,C00034632,479030-51-8,Piperphilippinin I,C19H20O6,344.12598837,Piper philippinum,Piper,KNApSAcK
+658,C00034633,942293-43-8,Piperphilippinin II,C19H18O6,342.11033831,Piper philippinum,Piper,KNApSAcK
+659,C00034634,949102-28-7,Piperphilippinin III,C23H26O8,430.16276781,Piper philippinum,Piper,KNApSAcK
+660,C00034635,949102-29-8,Piperphilippinin IV,C19H16O6,340.09468824,Piper philippinum,Piper,KNApSAcK
+661,C00034636,147960-94-9,Piperphilippinin V,C19H20O5,328.13107375,Piper philippinum,Piper,KNApSAcK
+662,C00034637,949102-30-1,Piperphilippinin VI,C20H24O6,360.1572885,Piper philippinum,Piper,KNApSAcK
+663,C00034654,94079-67-1,Retrofractamide A,C20H25NO3,327.18344367,Piper manii,Piper,KNApSAcK
+664,C00034654,94079-67-1,Retrofractamide A,C20H25NO3,327.18344367,Piper rectrofractum,Piper,KNApSAcK
+665,C00034654,94079-67-1,Retrofractamide A,C20H25NO3,327.18344367,Piper retrofractum,Piper,KNApSAcK
+666,C00034654,94079-67-1,Retrofractamide A,C20H25NO3,327.18344367,Piper nigrum,Piper,KNApSAcK
+667,C00034654,94079-67-1,Retrofractamide A,C20H25NO3,327.18344367,Piper longum,Piper,KNApSAcK
+668,C00035043,80-26-2,alpha-terpineol acetate,C12H20O2,196.14632988,Piper nigrum,Piper,KNApSAcK
+669,C00035062,99-49-0,Carvone,C10H14O2,166.09937969,Mentha piperita L.,Piper,KNApSAcK
+670,C00035087,3625-52-3,Dotriacontanoic acid,C32H64O2,480.49063129,Piper betle,Piper,KNApSAcK
+671,C00035087,3625-52-3,Dotriacontanoic acid,C32H64O2,480.49063129,Piper thomsoni,Piper,KNApSAcK
+672,C00035118,3623-52-7,Isomenthol,C10H20O,156.15141526,Mentha piperita L.,Piper,KNApSAcK
+673,C00035451,73365-77-2,"1,10-Di-epi-cubenol",C15H26O,222.19836545,Piper nigrum,Piper,KNApSAcK
+674,C00035639,544-76-3,Hexadecane,C16H34,226.26605108,Piper longum,Piper,KNApSAcK
+675,C00035852,1195-92-2,Limonene oxide,C10H16O,152.12011513,Zanthoxylum piperitum,Piper,KNApSAcK
+676,C00035906,55719-85-2,"3',4',5,6,7-Pentahydroxyflavone",C13H16O2,204.11502975,Polygonum hydropiper L.,Piper,KNApSAcK
+677,C00036314,5157-89-1,(+)-Menthyl acetate,C12H22O2,198.16197995,Mentha piperita L.,Piper,KNApSAcK
+678,C00036322,113532-12-0,(+)-Zeylenol,C21H20O7,384.12090299,Piper cubeba,Piper,KNApSAcK
+679,C00036458,17598-03-7,"2,4,5-Trimethoxystyrene",C11H14O3,194.09429431,Piper lhotzkyanum,Piper,KNApSAcK
+680,C00036514,17172-93-9,"3,4-Methylenedioxycinnamylideneacetone",C13H12O3,216.07864425,Piper methysticum Forst.f.,Piper,KNApSAcK
+681,C00036572,261914-52-7,4'-Desmethylpiplartine,C16H17NO5,303.11067266,Piper cenocladum,Piper,KNApSAcK
+682,C00036741,441328-95-6,Arboreumine,C25H40N2O5,448.2937224,Piper tuberculatum Jacq.,Piper,KNApSAcK
+683,C00036741,441328-95-6,Arboreumine,C25H40N2O5,448.2937224,Piper arboreum,Piper,KNApSAcK
+684,C00036788,593254-86-5,Awaine,C14H17NO2,231.12592879,Piper methysticum,Piper,KNApSAcK
+685,C00036890,261926-53-8,Cenocladamide,C16H17NO5,303.11067266,Piper cenocladum,Piper,KNApSAcK
+686,C00036940,20421-13-0,Crotepoxide,C18H18O8,362.10016755,Piper kadsura,Piper,KNApSAcK
+687,C00036940,20421-13-0,Crotepoxide,C18H18O8,362.10016755,Piper attenuatum,Piper,KNApSAcK
+688,C00037055,82017-78-5,Dihydropiplartine,C17H21NO5,319.14197279,Piper tuberculatum Jacq.,Piper,KNApSAcK
+689,C00037113,41702-63-0,Epizonarene,C15H24,204.18780077,Piper nigrum,Piper,KNApSAcK
+690,C00037153,62726-18-5,Filfiline,C26H47NO,389.36576513,Piper retrofractum Vahl.,Piper,KNApSAcK
+691,C00037153,62726-18-5,Filfiline,C26H47NO,389.36576513,Piper officinarum,Piper,KNApSAcK
+692,C00037157,64680-84-8,Flavokawain A,C18H18O5,314.11542369,Piper methysticum,Piper,KNApSAcK
+693,C00037332,95910-36-4,Isoledene,C15H24,204.18780077,Piper nigrum,Piper,KNApSAcK
+694,C00037498,6190-46-1,Methyl piperate,C13H12O4,232.07355887,Piper retrofractum Vahl.,Piper,KNApSAcK
+695,C00037498,6190-46-1,Methyl piperate,C13H12O4,232.07355887,Piper chaba,Piper,KNApSAcK
+696,C00037531,515-00-4,Myrtenol,C10H16O,152.12011513,Piper nigrum,Piper,KNApSAcK
+697,C00037547,42997-42-2,Neopellitorine B,C15H25NO,235.19361443,Piper nigrum,Piper,KNApSAcK
+698,C00037653,71627-22-0,Pipermethystine,C16H17NO4,287.11575804,Piper methysticum,Piper,KNApSAcK
+699,C00037653,71627-22-0,Pipermethystine,C16H17NO4,287.11575804,piper methysticum,Piper,KNApSAcK
+700,C00037732,170475-09-9,Ridleyamide,C26H37NO3,411.27734405,Piper brachystachyum Wall.,Piper,KNApSAcK
+701,C00037732,170475-09-9,Ridleyamide,C26H37NO3,411.27734405,Piper ridleyi,Piper,KNApSAcK
+702,C00037873,42438-80-2,Sylvatine,C24H33NO3,383.24604393,Piper longum,Piper,KNApSAcK
+703,C00037873,42438-80-2,Sylvatine,C24H33NO3,383.24604393,Piper retrofractum Vahl.,Piper,KNApSAcK
+704,C00037873,42438-80-2,Sylvatine,C24H33NO3,383.24604393,Piper sylvaticum Roxb.,Piper,KNApSAcK
+705,C00037873,42438-80-2,Sylvatine,C24H33NO3,383.24604393,Piper guineense Schum.et Thom.,Piper,KNApSAcK
+706,C00037928,73209-42-4,trans-Calamenene,C15H22,202.1721507,Piper nigrum,Piper,KNApSAcK
+707,C00038062,54983-95-8,(-)-Xanthoxylol,C20H20O6,356.12598837,Zanthoxylum piperitum,Piper,KNApSAcK
+708,C00039254,78886-65-4,gamma-Sanshool,C18H27NO,273.20926449,Zanthoxylum piperitum,Piper,KNApSAcK
+709,C00039386,78886-66-5,Hydroxy-gamma-sanshool,C18H27NO2,289.20417911,Zanthoxylum piperitum,Piper,KNApSAcK
+710,C00039450,5956-39-8,Isopolygodial,C15H22O2,234.16197995,Polygonum hydropiper,Piper,KNApSAcK
+711,C00039752,34818-57-0,"Methyl 2,2-dimethyl-2H-1-chromene-6-carboxylate",C13H14O3,218.09429431,Piper aduncum,Piper,KNApSAcK
+712,C00039753,203864-98-6,"Methyl 2,2-dimethyl-8-(3'-methyl-2'-butenyl)-2H-1-chromene-6-carboxylate",C18H22O3,286.15689457,Piper aduncum,Piper,KNApSAcK
+713,C00040021,83029-38-3,Pipercallosidine,C18H25NO3,303.18344367,Piper callosum,Piper,KNApSAcK
+714,C00040022,83029-39-4,Pipercallosine,C20H27NO3,329.19909374,Piper callosum,Piper,KNApSAcK
+715,C00041404,38276-59-4,Burchellin,C20H20O5,340.13107375,Piper kadsura,Piper,KNApSAcK
+716,C00041535,19913-01-0,(-)-Futoenone,C20H20O5,340.13107375,Piper futokadsura Sieb.et Zucc.,Piper,KNApSAcK
+717,C00041535,19913-01-0,(-)-Futoenone,C20H20O5,340.13107375,Piper kadsura,Piper,KNApSAcK
+718,C00041611,99257-52-0,Kadsurin B,C21H26O6,374.17293856,Piper kadsura,Piper,KNApSAcK
+719,C00041611,99257-52-0,Kadsurin B,C21H26O6,374.17293856,Piper attenuatum,Piper,KNApSAcK
+720,C00041611,99257-52-0,Kadsurin B,C21H26O6,374.17293856,Piper futokadsura Sieb.et Zucc.,Piper,KNApSAcK
+721,C00041632,83144-66-5,Licarin D,C21H24O3,324.17254463,Piper kadsura,Piper,KNApSAcK
+722,C00041633,87402-80-0,Liliflone,C21H26O6,374.17293856,Piper kadsura,Piper,KNApSAcK
+723,C00041766,895543-36-9,Piperkadsin A,C21H24O5,356.16237388,Piper kadsura,Piper,KNApSAcK
+724,C00041767,895543-37-0,Piperkadsin B,C24H30O7,430.19915331,Piper kadsura,Piper,KNApSAcK
+725,C00041984,86992-94-1,(-)-Clusin,C22H26O7,402.16785319,Piper cubeba,Piper,KNApSAcK
+726,C00041985,96238-92-5,(-)-Cubebinin,C24H32O8,448.209718,Piper cubeba,Piper,KNApSAcK
+727,C00041986,73149-51-6,(-)-Dihydroclusin,C22H28O7,404.18350325,Piper cubeba,Piper,KNApSAcK
+728,C00041994,16499-02-8,(+)-Diaeudesmin,C22H26O6,386.17293856,Piper peepuloides,Piper,KNApSAcK
+729,C00042108,91163-48-3,"3,5-Bis(3-methyl-2-butenyl)-4-methoxybenzoic acid",C18H24O3,288.17254463,Piper aduncum,Piper,KNApSAcK
+730,C00042219,2883-98-9,alpha-Asarone,C12H16O3,208.10994438,Piper cubeba,Piper,KNApSAcK
+731,C00042239,221192-17-2,Arieianal,C27H36O5,440.25627426,Piper arieianum,Piper,KNApSAcK
+732,C00042481,6624-79-9,1-Dotriacontanol,C32H66O,466.51136673,Piper thomsoni,Piper,KNApSAcK
+733,C00042493,117066-77-0,epi-gamma-Eudesmol,C15H26O,222.19836545,Piper lhotzkyanum,Piper,KNApSAcK
+734,C00042499,93395-17-6,Ethoxyclusin,C24H30O7,430.19915331,Piper cubeba,Piper,KNApSAcK
+735,C00042628,5353-15-1,Isoasarone,C12H16O3,208.10994438,Piper marginatum,Piper,KNApSAcK
+736,C00042696,219827-51-7,Lhotzchromene,C17H20O3,272.1412445,Piper lhotzkyanum,Piper,KNApSAcK
+737,C00042857,5950-12-9,Piperlonguminine,C16H19NO3,273.13649348,Piper pedicellosum,Piper,KNApSAcK
+738,C00042857,5950-12-9,Piperlonguminine,C16H19NO3,273.13649348,Piper longum L.,Piper,KNApSAcK
+739,C00042857,5950-12-9,Piperlonguminine,C16H19NO3,273.13649348,Piper longum,Piper,KNApSAcK
+740,C00042857,5950-12-9,Piperlonguminine,C16H19NO3,273.13649348,Piper khasiana,Piper,KNApSAcK
+741,C00042857,5950-12-9,Piperlonguminine,C16H19NO3,273.13649348,Piper betle,Piper,KNApSAcK
+742,C00042857,5950-12-9,Piperlonguminine,C16H19NO3,273.13649348,Piper acutisleginum,Piper,KNApSAcK
+743,C00043140,725273-77-8,"1-(1,6-Dioxo-2E,4E-decadienyl)piperidine",C15H23NO2,249.17287899,Piper nigrum,Piper,KNApSAcK
+744,C00043143,620626-74-6,"1,4-Dihydroxy-2-(3',7'-dimethyl-1'-oxo-octa-2'-E-6'-dienyl)benzene",C16H20O3,260.1412445,Piper crassinervium,Piper,KNApSAcK
+745,C00043203,182916-84-3,"4-Hydroxy-(3',7'-dimethyl-1'-oxo-octa-2'-E-6'-dienyl)benzoic acid",C17H20O4,288.13615913,Piper crassinervium,Piper,KNApSAcK
+746,C00043208,3155-53-1,"5,6-Dehydro-7,8-dihydromethysticin",C15H14O5,274.08412356,Piper sanctum,Piper,KNApSAcK
+747,C00043411,809281-21-8,Crassinervic acid,C17H22O5,306.14672381,Piper crassinervium,Piper,KNApSAcK
+748,C00043717,214785-27-0,Methyl taboganate,C13H14O4,234.08920894,Piper gaudichaudianum,Piper,KNApSAcK
+749,C00045544,76554-24-0,"2'-Hydroxy-4',6'-dimethoxychalcone",C17H16O4,284.104859,Piper methysticum,Piper,KNApSAcK
+750,C00046024,87611-93-6,Hydropiperoside,C39H40O17,780.22654986,Polygonum hydropiper,Piper,KNApSAcK
+751,C00046323,137196-25-9,Polysyphorin,C23H30O7,418.19915331,Piper polysyphorum,Piper,KNApSAcK
+752,C00048329,18252-44-3,beta-Copaene,C15H24,204.18780077,Piper nigrum,Piper,KNApSAcK
+753,C00048666,56319-02-9,Conocarpan,C18H18O2,266.13067982,Piper regnellii,Piper,KNApSAcK
+754,C00048706,41744-27-8,Eupomatenoid 3,C19H16O3,292.10994438,Piper regnellii,Piper,KNApSAcK
+755,C00048707,41744-28-9,Eupomatenoid 5,C19H18O3,294.12559444,Piper regnellii,Piper,KNApSAcK
+756,C00048708,41744-26-7,Eupomatenoid 6,C18H16O2,264.11502975,Piper regnellii,Piper,KNApSAcK
+757,C00050106,211869-15-7,Gibbilimbol A,C16H24O,232.18271539,Piper gibbilimbum,Piper,KNApSAcK
+758,C00050107,211869-16-8,Gibbilimbol B,C16H24O,232.18271539,Piper gibbilimbum,Piper,KNApSAcK
+759,C00050108,211806-95-0,Gibbilimbol C,C14H20O,204.15141526,Piper gibbilimbum,Piper,KNApSAcK
+760,C00050109,211806-97-2,Gibbilimbol D,C14H20O,204.15141526,Piper gibbilimbum,Piper,KNApSAcK
+761,C00050521,1198572-26-7,"5,6-Dihydropiperlonguminine",C15H19NO3,261.13649348,Piper tuberculatum,Piper,KNApSAcK
+762,C00050570,57110-32-4,Cyclostachine A,C22H27NO3,353.19909374,Piper trichostachyon,Piper,KNApSAcK
+763,C00050619,84897-03-2,"(8R,8'R,9'S)-5-Methoxyclusin",C23H28O8,432.17841787,Piper cubeba,Piper,KNApSAcK
+764,C00050620,55708-39-9,"1(7),2-p-Menthadien-4-ol",C10H16O,152.12011513,Piper nigrum,Piper,KNApSAcK
+765,C00050621,30681-15-3,"1(7),2-p-Menthadien-6-ol",C10H16O,152.12011513,Piper nigrum,Piper,KNApSAcK
+766,C00050776,3886-78-0,"cis-2,8-Menthadien-1-ol",C10H16O,152.12011513,Piper nigrum,Piper,KNApSAcK
+767,C00050780,619-62-5,p-Menth-2-en-1-ol,C10H18O,154.1357652,Piper nigrum,Piper,KNApSAcK
+768,C00050980,529-01-1,Isopiperitenone,C10H14O,150.10446507,Mentha piperita,Piper,KNApSAcK
+769,C00051110,145701-13-9,Kadsurenin B,C20H22O5,342.14672381,Piper kadsura,Piper,KNApSAcK
+770,C00051111,145722-88-9,Kadsurenin C,C21H26O5,358.17802394,Piper kadsura,Piper,KNApSAcK
+771,C00051112,149560-83-8,Kadsurenin K,C20H22O5,342.14672381,Piper kadsura,Piper,KNApSAcK
+772,C00051113,149438-61-9,Kadsurenin L,C23H28O6,400.18858863,Piper kadsura,Piper,KNApSAcK
+773,C00051114,150133-00-9,Kadsurenin M,C19H20O5,328.13107375,Piper kadsura,Piper,KNApSAcK
+774,C00051190,676592-25-9,Laetispicine,C22H29NO3,355.2147438,Piper laetispicum,Piper,KNApSAcK
+775,C00051392,114488-90-3,Machilin F,C20H22O5,342.14672381,Piper kadsura,Piper,KNApSAcK
+776,C00051696,54794-70-6,"N-Isobutyl-(2E,4E)-octadecadienamide",C22H41NO,335.31881494,Piper chaba,Piper,KNApSAcK
+777,C00051697,23512-47-2,"N-Isobutyl-(2E,4E)-octadienamide",C12H21NO,195.1623143,Piper nigrum,Piper,KNApSAcK
+778,C00051876,110-89-4,Piperidine,C5H11N,85.08914936,Piper trichostachyon,Piper,KNApSAcK
+779,C00051876,110-89-4,Piperidine,C5H11N,85.08914936,Piper longum,Piper,KNApSAcK
+780,C00051876,110-89-4,Piperidine,C5H11N,85.08914936,Piper nigrum,Piper,KNApSAcK
+781,C00051882,,5-Aminopentanal,C5H11NO,101.08406398,Piper trichostachyon,Piper,KNApSAcK
+782,C00051882,,5-Aminopentanal,C5H11NO,101.08406398,Piper nigrum,Piper,KNApSAcK
+783,C00051882,,5-Aminopentanal,C5H11NO,101.08406398,Piper longum,Piper,KNApSAcK
+784,C00051883,,delta1-Piperideine,C5H9N,83.07349929,Piper trichostachyon,Piper,KNApSAcK
+785,C00051883,,delta1-Piperideine,C5H9N,83.07349929,Piper longum,Piper,KNApSAcK
+786,C00051883,,delta1-Piperideine,C5H9N,83.07349929,Piper nigrum,Piper,KNApSAcK
+787,C00052006,73-31-4,Melatonin,C13H16N2O2,232.12117777,Piper nigrum,Piper,KNApSAcK
+788,C00052317,501-52-0,3-phenylpropanoic acid,C9H10O2,150.06807956,Mentha piperita,Piper,KNApSAcK
+789,C00052557,244226-09-3,14-Hydroxy-9-epi-(E)-caryophyllene,C15H24O,220.18271539,Piper nigrum,Piper,KNApSAcK
+790,C00052720,100-06-1,4'-Methoxyacetophenone,C9H10O2,150.06807956,Piper longum,Piper,KNApSAcK
+791,C00052986,157374-44-2,"cis-Muurola-3, 5-diene",C15H24,204.18780077,Piper nigrum,Piper,KNApSAcK
+792,C00053091,477-94-1,Brevifolin,C12H8O6,248.03208799,Zanthoxylum piperitum,Piper,KNApSAcK
+793,C00053160,94-41-7,Chalcone,C15H12O,208.08881501,Piper hispidum,Piper,KNApSAcK
+794,C00053160,94-41-7,Chalcone,C15H12O,208.08881501,Piper umbricola,Piper,KNApSAcK
+795,C00053160,94-41-7,Chalcone,C15H12O,208.08881501,Piper sancti-feliz,Piper,KNApSAcK
+796,C00053160,94-41-7,Chalcone,C15H12O,208.08881501,Piper colonense,Piper,KNApSAcK
+797,C00053632,499-97-8,"p-Mentha-1(7),8-diene",C10H16,136.12520051,Piper nigrum,Piper,KNApSAcK
+798,C00053847,931410-54-7,"trans-Cadina-1(6),4-diene",C15H24,204.18780077,Piper nigrum,Piper,KNApSAcK
+799,C00053851,262352-87-4,"trans-Muurola-4(14),5-diene",C15H24,204.18780077,Piper nigrum,Piper,KNApSAcK
+800,C00053856,17699-16-0,trans-Sabinene hydrate,C10H18O,154.1357652,Piper nigrum,Piper,KNApSAcK
+801,C00053939,109771-09-7,Aristolodione,C18H13NO4,307.08445791,Piper longum,Piper,KNApSAcK
+802,C00054090,495-91-0,Chavicine,C17H19NO3,285.13649348,Piper nigrum,Piper,KNApSAcK
+803,C00054120,64656-15-1,Bufotenine O-glucoside,C18H26N2O6,366.17908658,Zanthoxylum piperitum,Piper,KNApSAcK
+804,C00054290,23512-53-0,"4,5-Dihydropiperlonguminine",C16H21NO3,275.15214354,Piper longum,Piper,KNApSAcK
+805,C00054361,55708-40-2,"5,10(15)-Cadinadien-4-ol",C15H24O,220.18271539,Piper nigrum,Piper,KNApSAcK
+806,C00054408,38146-60-0,"7,8-Dihydro-11,12-dimethoxykawain",C16H20O5,292.13107375,Piper methysticum,Piper,KNApSAcK
+807,C00054495,41917-45-7,"1,3-Benzodioxole-5-pentanoic acid",C12H14O4,222.08920894,Piper longum,Piper,KNApSAcK
+808,C00054515,88660-10-0,"1-[9-(1,3-Benzodioxol-5-yl)-1-oxo-2,8-nonadienyl]piperidine",C21H27NO3,341.19909374,Piper longum,Piper,KNApSAcK
+809,C00054590,487-87-6,"3(15),6-Caryophylladien-4-ol",C15H24O,220.18271539,Mentha piperita,Piper,KNApSAcK
+810,C00054676,4173-44-8,Cinnamylideneacetone,C12H12O,172.08881501,Piper methysticum,Piper,KNApSAcK
+811,C00054825,5285-18-7,"5-(1,3-Benzenedioxol-5-yl)-2,4-pentadienoic acid",C12H10O4,218.05790881,Mentha piperita,Piper,KNApSAcK
+812,C00054825,5285-18-7,"5-(1,3-Benzenedioxol-5-yl)-2,4-pentadienoic acid",C12H10O4,218.05790881,Piper nigrum,Piper,KNApSAcK
+813,C00054868,117137-66-3,"1-[7-(1,3-Benzodioxol-5-yl)-1-oxo-6-heptenyl]pyrrolidine",C18H23NO3,301.16779361,Piper nigrum,Piper,KNApSAcK
+814,C00054897,112448-63-2,Dehydrotrichostin,C21H20O7,384.12090299,Piper cubeba,Piper,KNApSAcK
+815,C00054975,75022-26-3,"10,11-Dihydropipercide",C22H31NO3,357.23039386,Piper nigrum,Piper,KNApSAcK
+816,C00055009,76733-91-0,Coumaperine,C16H19NO2,257.14157886,Piper nigrum,Piper,KNApSAcK
+817,C00055010,77795-17-6,Dihydroferuperine,C17H23NO3,289.16779361,Piper nigrum,Piper,KNApSAcK
+818,C00055089,194345-50-1,3-Decanoyl-5-methylpyridine,C16H25NO,247.19361443,Piper retrofractum,Piper,KNApSAcK
+819,C00055137,116084-93-6,"10-Amino-2,3-dimethoxy-4-hydroxyphenanthrene-1-carboxylic acid lactam",C17H13NO4,295.08445791,Piper longum,Piper,KNApSAcK
+820,C00055154,1160839-96-2,Chabamide F,C32H34N2O6,542.24168683,Piper chaba,Piper,KNApSAcK
+821,C00055155,1160839-97-3,Chabamide G,C32H34N2O6,542.24168683,Piper chaba,Piper,KNApSAcK
+822,C00055160,93395-16-5,Cordigerin,C24H30O8,446.19406794,Piper cubeba,Piper,KNApSAcK
+823,C00055161,101751-71-7,Cubebinone,C23H26O8,430.16276781,Piper cubeba,Piper,KNApSAcK
+824,C00055185,479068-69-4,Chabamide,C34H38N2O6,570.27298696,Piper nigrum,Piper,KNApSAcK
+825,C00055276,485794-76-1,"1-[8-(1,3-Benzodioxol-5-yl)-1-oxo-7-octadecenyl]piperidine",C20H27NO3,329.19909374,Piper nigrum,Piper,KNApSAcK
+826,C00055284,62510-52-5,"1-[9-(1,3-Benzodioxol-5-yl)-1-oxo-8-nonenyl]pyrrolidine",C20H27NO3,329.19909374,Piper nigrum,Piper,KNApSAcK
+827,C00055285,117137-67-4,Brachyamide B,C20H25NO3,327.18344367,Piper nigrum,Piper,KNApSAcK
+828,C00055295,583-34-6,"1-[7-(1,3-Benzodioxol-5-yl)-1-oxo-2,4,6-heptatrienyl]piperidine",C19H21NO3,311.15214354,Piper nigrum,Piper,KNApSAcK
+829,C00055305,112448-74-5,Chalciporone,C16H21NO,243.1623143,Chalciporus piperatus,Piper,KNApSAcK
+830,C00055324,88660-11-1,"1-[11-(1,3-Benzodioxol-5-yl)-1-oxo-2,4,10-undecatrienyl]piperidine",C23H29NO3,367.2147438,Piper longum,Piper,KNApSAcK
+831,C00055709,85760-81-2,allo-Aromadendrene epoxide,C15H24O,220.18271539,Piper nigrum,Piper,KNApSAcK
+832,C00055729,149496-35-5,beta-Acoradienol,C15H24O,220.18271539,Piper nigrum,Piper,KNApSAcK
+833,C00055764,254-04-6,"1,2-Chromene",C9H8O,132.05751488,Piper friedrichsthalii,Piper,KNApSAcK
+834,C00055764,254-04-6,"1,2-Chromene",C9H8O,132.05751488,Piper auritum,Piper,KNApSAcK
+835,C00055774,1187195-00-1,"cis-Cadina-1(6),4-diene",C15H24,204.18780077,Piper nigrum,Piper,KNApSAcK
+836,C00055936,1139-17-9,Isolongifolol,C15H26O,222.19836545,Piper nigrum,Piper,KNApSAcK
+837,C00055973,115-99-1,Linalyl formate,C11H18O2,182.13067982,Piper nigrum,Piper,KNApSAcK
+838,C00055996,83-66-9,Musk ambrette,C12H16N2O5,268.10592164,Piper nigrum,Piper,KNApSAcK
+839,C00055997,257293-90-6,"Muurola-4,10(14)-dien-1-beta-ol",C15H24O,220.18271539,Piper nigrum,Piper,KNApSAcK
+840,C00056067,2215-77-2,4-Phenoxybenzoic acid,C13H10O3,214.06299419,Piper multiplinervium,Piper,KNApSAcK
+841,C00056067,2215-77-2,4-Phenoxybenzoic acid,C13H10O3,214.06299419,Piper melanocladum,Piper,KNApSAcK
+842,C00056067,2215-77-2,4-Phenoxybenzoic acid,C13H10O3,214.06299419,Piper garagaranum,Piper,KNApSAcK
+843,C00056067,2215-77-2,4-Phenoxybenzoic acid,C13H10O3,214.06299419,Piper friedrichsthalii,Piper,KNApSAcK
+844,C00056067,2215-77-2,4-Phenoxybenzoic acid,C13H10O3,214.06299419,Piper auritum,Piper,KNApSAcK
+845,C00056186,20085-13-6,"trans-Cadina-1,4-diene",C15H24,204.18780077,Piper nigrum,Piper,KNApSAcK
+846,C00056330,101-39-3,2-Methyl-3-phenyl-2-propenal,C10H10O,146.07316494,Mentha piperita,Piper,KNApSAcK
+847,C00056346,101751-72-8,Isoyatein,C22H24O7,400.15220312,Piper cubeba,Piper,KNApSAcK
+848,C00056374,1037482-48-6,"2',3'-Dihydroxy-alpha-sanshool",C16H25NO3,279.18344367,Zanthoxylum piperitum,Piper,KNApSAcK
+849,C00056375,1037482-49-7,"2',3'-Dihydroxy-beta-sanshool",C16H25NO3,279.18344367,Zanthoxylum piperitum,Piper,KNApSAcK
+850,C00056454,110979-01-6,"2-(4,8-Dimethyl-3,7-nonadienyl)-2-methyl-2H-1-benzopyran-6-carboxylic acid",C22H28O3,340.20384476,Piper auritum,Piper,KNApSAcK
+851,C00056455,110979-03-8,"2-(4,8-Dimethyl-3,7-nonadienyl)-3,4-dihydro-8-hydroxy-3-methylene-2H-1-benzopyran-6-carboxylic acid",C22H28O4,356.19875938,Piper auritum,Piper,KNApSAcK
+852,C00056456,110979-04-9,"3,4-Dihydroxy-5-(3,7,11-trimethyl-2,6,10-dodecatrienyl)benzoic acid",C22H30O4,358.21440945,Piper auritum,Piper,KNApSAcK
+853,C00056481,112448-60-9,Hemiariensin,C22H24O7,400.15220312,Piper cubeba,Piper,KNApSAcK
+854,C00056482,112448-72-3,Isochalciporone,C16H21NO,243.1623143,Chalciporus piperatus,Piper,KNApSAcK
+855,C00056511,1151654-72-6,"N-(3-Methylbutyl)-2,4-eicosadienamide",C25H47NO,377.36576513,Piper nigrum,Piper,KNApSAcK
+856,C00056604,119736-87-7,Longamide,C30H61NO,451.47531558,Piper longum,Piper,KNApSAcK
+857,C00056781,127793-87-7,"2-(Ethylamino)-4,5-dihydroxybenzamide",C9H12N2O3,196.08479226,Piper nigrum,Piper,KNApSAcK
+858,C00056801,10076-00-3,beta-Sanshool,C16H25NO,247.19361443,Zanthoxylum piperitum,Piper,KNApSAcK
+859,C00056810,1019852-78-8,Piperchabamide E,C17H21NO3,287.15214354,Piper chaba,Piper,KNApSAcK
+860,C00056860,112448-68-7,"Piperamide-C7:2 (2E,6E)",C18H21NO3,299.15214354,Piper sarmentosum,Piper,KNApSAcK
+861,C00056860,112448-68-7,"Piperamide-C7:2 (2E,6E)",C18H21NO3,299.15214354,Piper nigrum,Piper,KNApSAcK
+862,C00056861,112448-75-6,Norchalciporyl propionate,C16H21NO2,259.15722892,Chalciporus piperatus,Piper,KNApSAcK
+863,C00056892,1168152-56-4,Piperchabaoside A,C21H30O11,458.1788118,Piper chaba,Piper,KNApSAcK
+864,C00056894,117137-65-2,Piperamide-C5:1 (2E),C16H19NO3,273.13649348,Piper nigrum,Piper,KNApSAcK
+865,C00056895,117137-68-5,"Piperamide-C9:3 (2E,4E,8E)",C20H23NO3,325.16779361,Piper nigrum,Piper,KNApSAcK
+866,C00056946,1213780-72-3,Piperchabamide F,C21H29NO3,343.2147438,Piper chaba,Piper,KNApSAcK
+867,C00056947,1213780-74-5,Piperchabaoside B,C27H38O15,602.22107055,Piper chaba,Piper,KNApSAcK
+868,C00057030,134476-89-4,Piperenol A,C21H20O7,384.12090299,Piper cubeba,Piper,KNApSAcK
+869,C00057031,134476-91-8,Piperenol B,C21H20O7,384.12090299,Piper cubeba,Piper,KNApSAcK
+870,C00057032,134476-92-9,Piperenol A triacetate,C27H26O10,510.15259705,Piper cubeba,Piper,KNApSAcK
+871,C00057068,145237-20-3,Pipereicosalidine,C25H43NO,373.334465,Piper retrofractum,Piper,KNApSAcK
+872,C00057096,151391-69-4,"2,4,12-Octadecatrienoic acid isobutylamide",C22H39NO,333.30316487,Piper retrofractum,Piper,KNApSAcK
+873,C00057097,151391-71-8,"1-(2,4,12-Octadecatrienoyl)piperidine.",C23H39NO,345.30316487,Piper retrofractum,Piper,KNApSAcK
+874,C00057181,188709-97-9,Mono[5-methyl-2-(1-methylethyl)cyclohexyl] butanedioate,C14H24O4,256.16745925,Mentha piperita,Piper,KNApSAcK
+875,C00057206,194808-06-5,Pipericine,C22H41NO,335.31881494,Piper nigrum,Piper,KNApSAcK
+876,C00057228,20329-96-8,"Methyl 3,4,5-trimethoxycinnamate",C13H16O5,252.09977362,Piper longum,Piper,KNApSAcK
+877,C00057338,30505-89-6,Piperolein B,C21H29NO3,343.2147438,Piper nigrum,Piper,KNApSAcK
+878,C00057348,33046-41-2,6-Phenyl-3-hexen-2-one,C12H14O,174.10446507,Piper methysticum,Piper,KNApSAcK
+879,C00057434,54854-91-0,Sanshodiol,C20H22O6,358.14163844,Zanthoxylum piperitum,Piper,KNApSAcK
+880,C00057472,622405-48-5,Pipgulzarine,C23H33NO3,371.24604393,Piper nigrum,Piper,KNApSAcK
+881,C00057473,622405-49-6,Pipzorine,C24H45NO,363.35011507,Piper nigrum,Piper,KNApSAcK
+882,C00057474,622405-50-9,Piptahsine,C10H19NO2,185.14157886,Piper nigrum,Piper,KNApSAcK
+883,C00057529,74267-81-5,1-(1-Oxo-2-octadecenyl)piperidine,C23H43NO,349.334465,Piper nigrum,Piper,KNApSAcK
+884,C00057530,74267-84-8,"1-(1-Oxo-2,4-eicosadienyl)piperidin",C25H45NO,375.35011507,Piper retrofractum,Piper,KNApSAcK
+885,C00057535,74683-11-7,4-Nerolidylcatechol,C21H30O2,314.2245802,Piper umbellatum,Piper,KNApSAcK
+886,C00057535,74683-11-7,4-Nerolidylcatechol,C21H30O2,314.2245802,Piper peltatum,Piper,KNApSAcK
+887,C00057580,847552-82-3,Nigramide A,C32H36N2O6,544.2573369,Piper nigrum,Piper,KNApSAcK
+888,C00057581,847552-83-4,Nigramide B,C34H38N2O6,570.27298696,Piper nigrum,Piper,KNApSAcK
+889,C00057582,847552-84-5,Nigramide C,C32H36N2O6,544.2573369,Piper nigrum,Piper,KNApSAcK
+890,C00057583,847552-85-6,Nigramide D,C36H40N2O6,596.28863702,Piper nigrum,Piper,KNApSAcK
+891,C00057584,847552-86-7,Nigramide E,C36H40N2O6,596.28863702,Piper nigrum,Piper,KNApSAcK
+892,C00057585,847552-87-8,Nigramide F,C34H40N2O6,572.28863702,Piper nigrum,Piper,KNApSAcK
+893,C00057586,847552-88-9,Nigramide G,C33H38N2O6,558.27298696,Piper nigrum,Piper,KNApSAcK
+894,C00057587,847552-89-0,Nigramide H,C30H42N2O4,494.31445784,Piper nigrum,Piper,KNApSAcK
+895,C00057588,847552-90-3,Nigramide I,C32H44N2O4,520.33010791,Piper nigrum,Piper,KNApSAcK
+896,C00057589,847552-91-4,Nigramide J,C30H42N2O4,494.31445784,Piper nigrum,Piper,KNApSAcK
+897,C00057590,847552-92-5,Nigramide K,C29H42N2O4,482.31445784,Piper nigrum,Piper,KNApSAcK
+898,C00057591,847552-93-6,Nigramide L,C32H44N2O4,520.33010791,Piper nigrum,Piper,KNApSAcK
+899,C00057592,847552-94-7,Nigramide M,C31H42N2O4,506.31445784,Piper nigrum,Piper,KNApSAcK
+900,C00057593,847552-95-8,Nigramide N,C31H44N2O4,508.33010791,Piper nigrum,Piper,KNApSAcK
+901,C00057594,847552-96-9,Nigramide O,C28H50N2O2,446.38722885,Piper nigrum,Piper,KNApSAcK
+902,C00057595,847552-97-0,Nigramide P,C32H36N2O6,544.2573369,Piper nigrum,Piper,KNApSAcK
+903,C00057596,847552-98-1,Nigramide Q,C32H36N2O6,544.2573369,Piper nigrum,Piper,KNApSAcK
+904,C00057597,847552-99-2,Nigramide R,C34H38N2O6,570.27298696,Piper nigrum,Piper,KNApSAcK
+905,C00057598,847553-00-8,Nigramide S,C36H40N2O6,596.28863702,Piper nigrum,Piper,KNApSAcK
+906,C00057705,96386-33-3,Retrofractamide C,C20H27NO3,329.19909374,Piper retrofractum,Piper,KNApSAcK
+907,C00057706,96386-34-4,Retrofractamide D,C21H27NO3,341.19909374,Piper retrofractum,Piper,KNApSAcK
+908,C00058038,23434-88-0,Tetrahydropiperine,C17H23NO3,289.16779361,Piper longum,Piper,KNApSAcK
+909,C00058054,25173-72-2,"3,4,5-Trimethoxydihydrocinnamic acid",C12H16O5,240.09977362,Piper retrofractum,Piper,KNApSAcK
+910,C00058054,25173-72-2,"3,4,5-Trimethoxydihydrocinnamic acid",C12H16O5,240.09977362,Piper longum,Piper,KNApSAcK
+911,C00058121,49776-58-1,"5,6,7,8-Tetrahydroyangonin",C15H18O4,262.12050906,Piper methysticum,Piper,KNApSAcK
+912,C00063635,1086459-02-0,Hydropiperoside B,C52H52O22,1028.29502335,Polygonum hydropiper,Piper,KNApSAcK

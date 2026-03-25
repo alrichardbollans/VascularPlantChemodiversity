@@ -1,0 +1,159 @@
+,C_ID,CAS ID,example_compound_name,Molecular formula,Mw,Organism,knapsack_search_term,Source
+0,C00000010,118-34-3,Syringin,C17H24O9,372.14203237,Ephedra sinica,Ephedra,KNApSAcK
+1,C00000152,7400-08-0,p-Coumaric acid,C9H8O3,164.04734412,Ephedra alata,Ephedra,KNApSAcK
+2,C00000152,7400-08-0,p-Coumaric acid,C9H8O3,164.04734412,Ephedra equisetina,Ephedra,KNApSAcK
+3,C00000170,140-10-3,Cinnamate,C9H8O2,148.0524295,Ephedra sinica,Ephedra,KNApSAcK
+4,C00000615,501-16-6,Caffeic acid,C9H8O4,180.04225874,Ephedra sinica,Ephedra,KNApSAcK
+5,C00000674,491-70-3,"5,7,3',4'-Tetrahydroxyflavone",C15H10O6,286.04773805,Ephedra sinica,Ephedra,KNApSAcK
+6,C00000677,480-18-2,Dihydroquercetin,C15H12O7,304.05830274,Ephedra sinica,Ephedra,KNApSAcK
+7,C00000853,123-35-3,beta-Myrcene,C10H16,136.12520051,Ephedra sinica,Ephedra,KNApSAcK
+8,C00000856,99-96-7,4-hydroxybenzoic acid,C7H6O3,138.03169406,Ephedra aphylla,Ephedra,KNApSAcK
+9,C00000856,99-96-7,4-hydroxybenzoic acid,C7H6O3,138.03169406,Ephedra equisetina,Ephedra,KNApSAcK
+10,C00000937,2545-00-8,Afzelechin,C15H14O5,274.08412356,Ephedra sinica,Ephedra,KNApSAcK
+11,C00000947,154-23-4,(+)-Catechin,C15H14O6,290.07903818,Ephedra sinica,Ephedra,KNApSAcK
+12,C00000956,490-46-0,(-)-Epicatechin,C15H14O6,290.07903818,Ephedra nebrodensis,Ephedra,KNApSAcK
+13,C00000956,490-46-0,(-)-Epicatechin,C15H14O6,290.07903818,Ephedra sinica,Ephedra,KNApSAcK
+14,C00000970,520-26-3,Hesperidin,C28H34O15,610.18977042,Ephedra sinica,Ephedra,KNApSAcK
+15,C00000982,480-41-1,Naringenin,C15H12O5,272.06847349,Ephedra sinica,Ephedra,KNApSAcK
+16,C00001017,578-74-5,Apigenin 7-O-beta-D-glucopyranoside,C21H20O10,432.10564686,Ephedra campylopoda,Ephedra,KNApSAcK
+17,C00001048,527-95-7,Herbacetin,C15H10O7,302.04265268,Ephedra alata,Ephedra,KNApSAcK
+18,C00001048,527-95-7,Herbacetin,C15H10O7,302.04265268,Ephedra aphylla,Ephedra,KNApSAcK
+19,C00001048,527-95-7,Herbacetin,C15H10O7,302.04265268,Ephedra sinica,Ephedra,KNApSAcK
+20,C00001110,3681-93-4,Vitexin,C21H20O10,432.10564686,Ephedra sinica,Ephedra,KNApSAcK
+21,C00001198,144-62-7,Oxalic acid,C2H2O4,89.99530855,Ephedra equisetina,Ephedra,KNApSAcK
+22,C00001260,630-03-5,Nonacosane,C29H60,408.46950191,Ephedra intermedia,Ephedra,KNApSAcK
+23,C00001269,593-50-0,1-Triacontanol,C30H62O,438.4800666,Ephedra sinica,Ephedra,KNApSAcK
+24,C00001405,492-39-7,Cathine,C9H13NO,151.09971404,Ephedra spp.,Ephedra,KNApSAcK
+25,C00001409,299-42-3,L-Ephedrine,C10H15NO,165.11536411,Ephedra sinica,Ephedra,KNApSAcK
+26,C00001409,299-42-3,L-Ephedrine,C10H15NO,165.11536411,Ephedra pachyclada Boiss,Ephedra,KNApSAcK
+27,C00001409,299-42-3,L-Ephedrine,C10H15NO,165.11536411,Ephedra nebrodensis,Ephedra,KNApSAcK
+28,C00001409,299-42-3,L-Ephedrine,C10H15NO,165.11536411,Ephedra intermedia,Ephedra,KNApSAcK
+29,C00001409,299-42-3,L-Ephedrine,C10H15NO,165.11536411,Ephedra helvetica,Ephedra,KNApSAcK
+30,C00001409,299-42-3,L-Ephedrine,C10H15NO,165.11536411,Ephedra major,Ephedra,KNApSAcK
+31,C00001409,299-42-3,L-Ephedrine,C10H15NO,165.11536411,Ephedra distachya,Ephedra,KNApSAcK
+32,C00001409,299-42-3,L-Ephedrine,C10H15NO,165.11536411,Ephedra spp.,Ephedra,KNApSAcK
+33,C00001409,299-42-3,L-Ephedrine,C10H15NO,165.11536411,Ephedra vulgaris,Ephedra,KNApSAcK
+34,C00001409,299-42-3,L-Ephedrine,C10H15NO,165.11536411,Ephedra equisetina,Ephedra,KNApSAcK
+35,C00001409,299-42-3,L-Ephedrine,C10H15NO,165.11536411,Ephedra gerardiana,Ephedra,KNApSAcK
+36,C00001417,539-15-1,Hordenine,C10H15NO,165.11536411,Ephedra aphylla,Ephedra,KNApSAcK
+37,C00001426,64-04-0,Phenethylamine,C8H11N,121.08914936,Ephedra sinica,Ephedra,KNApSAcK
+38,C00001540,3778-29-8,6-Hydroxykynurenic acid,C10H7NO4,205.03750772,Ephedra foeminea ssp. foliata,Ephedra,KNApSAcK
+39,C00002631,21453-69-0,(+)-Lirioresinol B,C22H26O8,418.16276781,Ephedra alata,Ephedra,KNApSAcK
+40,C00002668,99-50-3,"3,4-Dihydroxybenzoic acid",C7H6O4,154.02660868,Ephedra aphylla,Ephedra,KNApSAcK
+41,C00002668,99-50-3,"3,4-Dihydroxybenzoic acid",C7H6O4,154.02660868,Ephedra equisetina,Ephedra,KNApSAcK
+42,C00002682,121-34-6,Vanillic acid,C8H8O4,168.04225874,Ephedra equisetina,Ephedra,KNApSAcK
+43,C00002724,327-97-9,3-O-Caffeoylquinic acid,C16H18O9,354.09508217,Ephedra sinica,Ephedra,KNApSAcK
+44,C00002729,583-17-5,2-Hydroxycinnamic acid,C9H8O3,164.04734412,Ephedra nebrodensis,Ephedra,KNApSAcK
+45,C00002752,537-73-5,Isoferulic acid,C10H10O4,194.05790881,Ephedra sinica,Ephedra,KNApSAcK
+46,C00002861,478-43-3,Rhein,C15H8O6,284.03208799,Ephedra sinica,Ephedra,KNApSAcK
+47,C00002930,88010-42-8,Mahuannin D,C30H24O9,528.14203237,Ephedra spp.,Ephedra,KNApSAcK
+48,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Ephedra campylopoda,Ephedra,KNApSAcK
+49,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Ephedra sinica,Ephedra,KNApSAcK
+50,C00003817,520-36-5,Apigenin,C15H10O5,270.05282343,Ephedra sinica,Ephedra,KNApSAcK
+51,C00004565,520-18-3,Kaempferol,C15H10O6,286.04773805,Ephedra sinica,Ephedra,KNApSAcK
+52,C00004612,24487-56-7,Pollenitin,C16H12O7,316.05830274,Ephedra aphylla,Ephedra,KNApSAcK
+53,C00004631,117-39-5,Quercetin,C15H10O7,302.04265268,Ephedra sinica,Ephedra,KNApSAcK
+54,C00005140,482-39-3,Afzelin,C21H20O10,432.10564686,Ephedra sinica,Ephedra,KNApSAcK
+55,C00005140,482-39-3,Afzelin,C21H20O10,432.10564686,Ephedra alata,Ephedra,KNApSAcK
+56,C00005337,35815-07-7,Herbacetin 7-glucoside,C21H20O12,464.09547611,Ephedra lomatolepis,Ephedra,KNApSAcK
+57,C00005337,35815-07-7,Herbacetin 7-glucoside,C21H20O12,464.09547611,Ephedra alata,Ephedra,KNApSAcK
+58,C00005354,30484-94-7,Pollenitin B,C22H22O12,478.11112617,Ephedra sinica,Ephedra,KNApSAcK
+59,C00005356,51857-20-6,Sexangularetin 3-glucoside,C22H22O12,478.11112617,Ephedra equisetina,Ephedra,KNApSAcK
+60,C00005364,95262-51-4,Sexangularetin 3-glucoside-7-rutinoside,C34H42O21,786.22185841,Ephedra alata,Ephedra,KNApSAcK
+61,C00005373,482-35-9,Hirsutrin,C21H20O12,464.09547611,Ephedra campylopoda,Ephedra,KNApSAcK
+62,C00005374,522-12-3,Quercetin 3-O-alpha-L-rhamnoside,C21H20O11,448.10056148,Ephedra alata,Ephedra,KNApSAcK
+63,C00005413,153-18-4,Quercetin 3-rutinoside,C27H30O16,610.15338491,Ephedra campylopoda,Ephedra,KNApSAcK
+64,C00005938,95262-52-5,Herbacetin 7-(6''-quinoylglucoside),C28H30O17,638.14829954,Ephedra alata,Ephedra,KNApSAcK
+65,C00006125,6991-10-2,Swertisin,C22H22O10,446.12129692,Ephedra sinica,Ephedra,KNApSAcK
+66,C00006178,35927-39-0,Lucenin 1,C26H28O15,580.14282023,Ephedra antisyphylitica,Ephedra,KNApSAcK
+67,C00006179,"12656-83-6,35927-40-3",Lucenin 3,C26H28O15,580.14282023,Ephedra spp.,Ephedra,KNApSAcK
+68,C00006229,23666-13-9,Vicenin,C27H30O15,594.15847029,Ephedra aphylla,Ephedra,KNApSAcK
+69,C00007235,480-17-1,Leucocyanidin,C15H14O7,306.0739528,Ephedra sinica,Ephedra,KNApSAcK
+70,C00008805,24808-04-6,(-)-Epiafzelechin,C15H14O5,274.08412356,Ephedra sp.,Ephedra,KNApSAcK
+71,C00008861,76502-76-6,Symplocoside,C22H26O11,466.14751167,Ephedra sinica,Ephedra,KNApSAcK
+72,C00009255,87686-71-3,Mahuannin C,C30H24O10,544.13694699,Ephedra sp.,Ephedra,KNApSAcK
+73,C00009256,82796-37-0,Mahuannin B,C30H24O10,544.13694699,Ephedra sp.,Ephedra,KNApSAcK
+74,C00009259,82765-89-7,"ent-Epiafzelechin(2alpha->7,4alpha->8)epiafzelechin",C30H24O10,544.13694699,Ephedra sp.,Ephedra,KNApSAcK
+75,C00009274,82001-39-6,Ephedrannin A,C30H20O11,556.10056148,Ephedra sp.,Ephedra,KNApSAcK
+76,C00009274,82001-39-6,Ephedrannin A,C30H20O11,556.10056148,Ephedra sinica,Ephedra,KNApSAcK
+77,C00009279,130853-74-6,Pavetannin A2,C30H24O12,576.12677623,Ephedra sp.,Ephedra,KNApSAcK
+78,C00009280,111466-30-9,Proanthocyanidin A5',C30H24O12,576.12677623,Ephedra sp.,Ephedra,KNApSAcK
+79,C00009282,159247-85-5,"ent-Epicatechin-(2alpha->7,4alpha->8)-ent-epicatechin",C30H24O12,576.12677623,Ephedra sp.,Ephedra,KNApSAcK
+80,C00013329,520-32-1,Tricin,C17H14O7,330.0739528,Ephedra sinica,Ephedra,KNApSAcK
+81,C00013829,194609-62-6,Herbacetin 3-rhamnoside-8-glucoside,C27H30O16,610.15338491,Ephedra aphylla,Ephedra,KNApSAcK
+82,C00019308,474-58-8,3-O-beta-D-Glucopyranosyl sitosterol,C35H60O6,576.43898965,Ephedra sinica,Ephedra,KNApSAcK
+83,C00019420,521-61-9,Physcion,C16H12O5,284.06847349,Ephedra sinica,Ephedra,KNApSAcK
+84,C00020637,491-52-1,Leucodelphinidin,C15H14O8,322.06886743,Ephedra sinica,Ephedra,KNApSAcK
+85,C00026395,91092-95-4,6-Methoxykynurenic acid,C11H9NO4,219.05315778,Ephedra pachyclada ssp.sinaica,Ephedra,KNApSAcK
+86,C00026453,492-27-3,Kynurenic acid,C10H7NO3,189.0425931,Ephedra pachyclada ssp.sinaica,Ephedra,KNApSAcK
+87,C00026494,13593-94-7,Transtorine,C10H7NO3,189.0425931,Ephedra transitoria,Ephedra,KNApSAcK
+88,C00029352,7299-40-3,cis-beta-Terpineol,C10H18O,154.1357652,Ephedra sinica,Ephedra,KNApSAcK
+89,C00029509,19716-26-8,Stigmasterol-3-O-beta-D-glucopyranoside,C35H58O6,574.42333958,Ephedra sinica,Ephedra,KNApSAcK
+90,C00029674,98-55-5,alpha-Terpineol,C10H18O,154.1357652,Ephedra sinica,Ephedra,KNApSAcK
+91,C00029961,621-82-9,Cinnamic acid,C9H8O2,148.0524295,Ephedra equisetina,Ephedra,KNApSAcK
+92,C00030759,112-61-8,Methyl octadecanoate,C19H38O2,298.28718046,Ephedra equisetina,Ephedra,KNApSAcK
+93,C00031097,90-82-4,(+)-Pseudoephedrine,C10H15NO,165.11536411,Ephedra intermedia,Ephedra,KNApSAcK
+94,C00031097,90-82-4,(+)-Pseudoephedrine,C10H15NO,165.11536411,Ephedra nebrodensis,Ephedra,KNApSAcK
+95,C00031097,90-82-4,(+)-Pseudoephedrine,C10H15NO,165.11536411,Ephedra ciliata SAM.,Ephedra,KNApSAcK
+96,C00031097,90-82-4,(+)-Pseudoephedrine,C10H15NO,165.11536411,Ephedra procera var.chrysocarpa.,Ephedra,KNApSAcK
+97,C00031097,90-82-4,(+)-Pseudoephedrine,C10H15NO,165.11536411,Ephedra sinica,Ephedra,KNApSAcK
+98,C00031097,90-82-4,(+)-Pseudoephedrine,C10H15NO,165.11536411,Ephedra spp.,Ephedra,KNApSAcK
+99,C00031097,90-82-4,(+)-Pseudoephedrine,C10H15NO,165.11536411,Ephedra sinca,Ephedra,KNApSAcK
+100,C00031097,90-82-4,(+)-Pseudoephedrine,C10H15NO,165.11536411,Ephedra distachya L.,Ephedra,KNApSAcK
+101,C00031097,90-82-4,(+)-Pseudoephedrine,C10H15NO,165.11536411,Ephedra equisetina Bge.,Ephedra,KNApSAcK
+102,C00031097,90-82-4,(+)-Pseudoephedrine,C10H15NO,165.11536411,Ephedra gerardiana,Ephedra,KNApSAcK
+103,C00032016,552-79-4,Methylephedrine,C11H17NO,179.13101417,Ephedra equisetina,Ephedra,KNApSAcK
+104,C00032016,552-79-4,Methylephedrine,C11H17NO,179.13101417,Ephedra distachya L.,Ephedra,KNApSAcK
+105,C00032016,552-79-4,Methylephedrine,C11H17NO,179.13101417,Ephedra gerardiana,Ephedra,KNApSAcK
+106,C00032016,552-79-4,Methylephedrine,C11H17NO,179.13101417,Ephedra helvetica,Ephedra,KNApSAcK
+107,C00032016,552-79-4,Methylephedrine,C11H17NO,179.13101417,Ephedra intermedia,Ephedra,KNApSAcK
+108,C00032016,552-79-4,Methylephedrine,C11H17NO,179.13101417,Ephedra likiangensis,Ephedra,KNApSAcK
+109,C00032016,552-79-4,Methylephedrine,C11H17NO,179.13101417,Ephedra minuta var.dioeca,Ephedra,KNApSAcK
+110,C00032016,552-79-4,Methylephedrine,C11H17NO,179.13101417,Ephedra monosperma,Ephedra,KNApSAcK
+111,C00032016,552-79-4,Methylephedrine,C11H17NO,179.13101417,Ephedra nebrodensis,Ephedra,KNApSAcK
+112,C00032016,552-79-4,Methylephedrine,C11H17NO,179.13101417,Ephedra przewalskii,Ephedra,KNApSAcK
+113,C00032016,552-79-4,Methylephedrine,C11H17NO,179.13101417,Ephedra saxatilis,Ephedra,KNApSAcK
+114,C00032016,552-79-4,Methylephedrine,C11H17NO,179.13101417,Ephedra sinca,Ephedra,KNApSAcK
+115,C00032016,552-79-4,Methylephedrine,C11H17NO,179.13101417,Ephedra sinica Stapf.(E.flava Porter Smith).,Ephedra,KNApSAcK
+116,C00032017,51018-28-1,Methylpseudoephedrine,C11H17NO,179.13101417,Ephedra sinica,Ephedra,KNApSAcK
+117,C00032017,51018-28-1,Methylpseudoephedrine,C11H17NO,179.13101417,Ephedra intermedia,Ephedra,KNApSAcK
+118,C00032017,51018-28-1,Methylpseudoephedrine,C11H17NO,179.13101417,Ephedra sinca,Ephedra,KNApSAcK
+119,C00032017,51018-28-1,Methylpseudoephedrine,C11H17NO,179.13101417,Ephedra nebrodensis,Ephedra,KNApSAcK
+120,C00035613,106-32-1,Ethyl octanoate,C10H20O2,172.14632988,Ephedra sinica,Ephedra,KNApSAcK
+121,C00051443,6915-15-7,Malic acid,C4H6O5,134.0215233,Ephedra equisetina,Ephedra,KNApSAcK
+122,C00051479,69168-08-7,Maokonine,C12H17NO3,223.12084342,Ephedra sinica,Ephedra,KNApSAcK
+123,C00052317,501-52-0,3-phenylpropanoic acid,C9H10O2,150.06807956,Ephedra sinica,Ephedra,KNApSAcK
+124,C00053808,487-35-4,Syringaresinol,C22H26O8,418.16276781,Ephedra alata,Ephedra,KNApSAcK
+125,C00054453,117857-93-9,"(2S,3S,4S)-2-(carboxycyclopropyl)glycine",C6H9NO4,159.05315778,Ephedra altissima,Ephedra,KNApSAcK
+126,C00055643,67061-79-4,"2,3,4-Trimethyl-5-phenyloxazolidine",C12H17NO,191.13101417,Ephedra sinica,Ephedra,KNApSAcK
+127,C00055671,66574-19-4,"3,4-Dimethyl-5-pheyloxazolidine",C11H15NO,177.11536411,Ephedra sinica,Ephedra,KNApSAcK
+128,C00055768,33294-81-4,"cis-3,4-Methanoproline",C6H9NO2,127.06332854,Ephedra foeminea ssp. foliata,Ephedra,KNApSAcK
+129,C00055789,492-41-1,(-)-Norephedrine,C9H13NO,151.09971404,Ephedra nebrodensis,Ephedra,KNApSAcK
+130,C00055789,492-41-1,(-)-Norephedrine,C9H13NO,151.09971404,Ephedra sinica,Ephedra,KNApSAcK
+131,C00055815,71461-13-7,Ephedradine A,C28H36N4O4,492.27365567,Ephedra sinica,Ephedra,KNApSAcK
+132,C00055816,71327-57-6,Ephedradine B,C29H38N4O5,522.28422035,Ephedra sinica,Ephedra,KNApSAcK
+133,C00055817,73276-37-6,Ephedradine C,C30H40N4O5,536.29987042,Ephedra sinica,Ephedra,KNApSAcK
+134,C00055818,81349-26-0,Ephedradine D,C29H38N4O5,522.28422035,Ephedra sinica,Ephedra,KNApSAcK
+135,C00055819,77474-33-0,Ephedralone,C11H9NO4,219.05315778,Ephedra alata,Ephedra,KNApSAcK
+136,C00055819,77474-33-0,Ephedralone,C11H9NO4,219.05315778,Ephedra aphylla,Ephedra,KNApSAcK
+137,C00055820,1173698-15-1,Ephedrannin B,C30H20O10,540.10564686,Ephedra sinica,Ephedra,KNApSAcK
+138,C00055821,1592431-55-4,Ephedrannin D1,C30H24O13,592.12169086,Ephedra sinica,Ephedra,KNApSAcK
+139,C00055822,1592431-94-1,Ephedrannin D2,C30H24O13,592.12169086,Ephedra sinica,Ephedra,KNApSAcK
+140,C00055823,1592431-58-7,Ephedrannin D3,C30H24O13,592.12169086,Ephedra sinica,Ephedra,KNApSAcK
+141,C00055824,1592431-61-2,Ephedrannin D4,C30H24O14,608.11660548,Ephedra sinica,Ephedra,KNApSAcK
+142,C00055825,1592431-97-4,Ephedrannin D5,C30H24O14,608.11660548,Ephedra sinica,Ephedra,KNApSAcK
+143,C00055826,1592431-66-7,Ephedrannin D6,C30H24O14,608.11660548,Ephedra sinica,Ephedra,KNApSAcK
+144,C00055827,1592431-74-7,Ephedrannin D7,C30H24O14,608.11660548,Ephedra sinica,Ephedra,KNApSAcK
+145,C00055828,1592431-81-6,Ephedrannin Te1,C60H46O28,1214.21756089,Ephedra sinica,Ephedra,KNApSAcK
+146,C00055829,1592431-83-8,Ephedrannin Te2,C60H46O28,1214.21756089,Ephedra sinica,Ephedra,KNApSAcK
+147,C00055830,1592431-86-1,Ephedrannin Te3,C60H46O27,1198.22264627,Ephedra sinica,Ephedra,KNApSAcK
+148,C00055831,1592431-88-3,Ephedrannin Te4,C60H46O27,1198.22264627,Ephedra sinica,Ephedra,KNApSAcK
+149,C00055832,1592431-90-7,Ephedrannin Te5,C60H46O27,1198.22264627,Ephedra sinica,Ephedra,KNApSAcK
+150,C00055833,1592431-76-9,Ephedrannin Tr1,C45H36O21,912.17490822,Ephedra sinica,Ephedra,KNApSAcK
+151,C00055834,1592431-80-5,Ephedrannin Tr2,C45H36O20,896.17999359,Ephedra sinica,Ephedra,KNApSAcK
+152,C00055835,16251-46-0,Ephedroxane,C11H13NO2,191.09462867,Ephedra sinica,Ephedra,KNApSAcK
+153,C00056002,103-67-3,N-Methylbenzylamine,C8H11N,121.08914936,Ephedra sinica,Ephedra,KNApSAcK
+154,C00056005,851455-85-1,Nebrodenside A,C17H24O7,340.15220312,Ephedra nebrodensis,Ephedra,KNApSAcK
+155,C00056006,851455-86-2,Nebrodenside B,C15H18O8,326.10016755,Ephedra nebrodensis,Ephedra,KNApSAcK
+156,C00056094,93-10-7,Quinaldic acid,C10H7NO2,173.04767848,Ephedra pachyclada,Ephedra,KNApSAcK
+157,C00056171,1124-11-4,Tetramethylpyrazine,C8H12N2,136.1000484,Ephedra sinica,Ephedra,KNApSAcK

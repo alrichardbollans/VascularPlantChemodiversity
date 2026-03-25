@@ -1,0 +1,831 @@
+,C_ID,CAS ID,example_compound_name,Molecular formula,Mw,Organism,knapsack_search_term,Source
+0,C00000152,7400-08-0,p-Coumaric acid,C9H8O3,164.04734412,Pelargonium reniforme,Pelargonium,KNApSAcK
+1,C00000163,473-16-5,alpha-Eudesmol,C15H26O,222.19836545,Pelargonium quercifolium,Pelargonium,KNApSAcK
+2,C00000615,501-16-6,Caffeic acid,C9H8O4,180.04225874,Pelargonium reniforme,Pelargonium,KNApSAcK
+3,C00000674,491-70-3,"5,7,3',4'-Tetrahydroxyflavone",C15H10O6,286.04773805,Pelargonium sidoides,Pelargonium,KNApSAcK
+4,C00000677,480-18-2,Dihydroquercetin,C15H12O7,304.05830274,Pelargonium reniforme,Pelargonium,KNApSAcK
+5,C00000844,106-22-9,Citronellol,C10H20O,156.15141526,Pelargonium hortorum,Pelargonium,KNApSAcK
+6,C00000844,106-22-9,Citronellol,C10H20O,156.15141526,Pelargonium capitatum,Pelargonium,KNApSAcK
+7,C00000844,106-22-9,Citronellol,C10H20O,156.15141526,Pelargonium tomentosum,Pelargonium,KNApSAcK
+8,C00000844,106-22-9,Citronellol,C10H20O,156.15141526,Pelargonium graveolens,Pelargonium,KNApSAcK
+9,C00000845,106-24-1,(E)-geraniol,C10H18O,154.1357652,Pelargonium graveolens,Pelargonium,KNApSAcK
+10,C00000845,106-24-1,(E)-geraniol,C10H18O,154.1357652,Pelargonium capitatum,Pelargonium,KNApSAcK
+11,C00000853,123-35-3,beta-Myrcene,C10H16,136.12520051,Pelargonium graveolens,Pelargonium,KNApSAcK
+12,C00000853,123-35-3,beta-Myrcene,C10H16,136.12520051,Pelargonium quercifolium,Pelargonium,KNApSAcK
+13,C00000853,123-35-3,beta-Myrcene,C10H16,136.12520051,Pelargonium tomentosum,Pelargonium,KNApSAcK
+14,C00000855,106-25-2,beta-Nerol,C10H18O,154.1357652,Pelargonium graveolens,Pelargonium,KNApSAcK
+15,C00000856,99-96-7,4-hydroxybenzoic acid,C7H6O3,138.03169406,Pelargonium reniforme,Pelargonium,KNApSAcK
+16,C00000937,2545-00-8,Afzelechin,C15H14O5,274.08412356,Pelargonium reniforme,Pelargonium,KNApSAcK
+17,C00000947,154-23-4,(+)-Catechin,C15H14O6,290.07903818,Pelargonium sidoides,Pelargonium,KNApSAcK
+18,C00000947,154-23-4,(+)-Catechin,C15H14O6,290.07903818,Pelargonium reniforme,Pelargonium,KNApSAcK
+19,C00000998,529-55-5,Naringenin 7-O-beta-D-glucoside,C21H22O10,434.12129692,Pelargonium reniforme,Pelargonium,KNApSAcK
+20,C00001055,4261-42-1,Isoorientin,C21H20O11,448.10056148,Pelargonium sidoides,Pelargonium,KNApSAcK
+21,C00001055,4261-42-1,Isoorientin,C21H20O11,448.10056148,Pelargonium reniforme,Pelargonium,KNApSAcK
+22,C00001059,38953-85-4,Isovitexin,C21H20O10,432.10564686,Pelargonium reniforme,Pelargonium,KNApSAcK
+23,C00001059,38953-85-4,Isovitexin,C21H20O10,432.10564686,Pelargonium sidoides,Pelargonium,KNApSAcK
+24,C00001071,529-44-2,Myricetin,C15H10O8,318.0375673,Pelargonium reniforme,Pelargonium,KNApSAcK
+25,C00001078,28608-75-5,Orientin,C21H20O11,448.10056148,Pelargonium reniforme,Pelargonium,KNApSAcK
+26,C00001078,28608-75-5,Orientin,C21H20O11,448.10056148,Pelargonium sidoides,Pelargonium,KNApSAcK
+27,C00001110,3681-93-4,Vitexin,C21H20O10,432.10564686,Pelargonium sidoides,Pelargonium,KNApSAcK
+28,C00001110,3681-93-4,Vitexin,C21H20O10,432.10564686,Pelargonium reniforme,Pelargonium,KNApSAcK
+29,C00001203,138-59-0,Shikimic acid,C7H10O5,174.05282343,Pelargonium sidoides,Pelargonium,KNApSAcK
+30,C00001203,138-59-0,Shikimic acid,C7H10O5,174.05282343,Pelargonium reniforme,Pelargonium,KNApSAcK
+31,C00001206,87-69-4,L-(+)-Tartaric acid,C4H6O6,150.01643793,Pelargonium spp.,Pelargonium,KNApSAcK
+32,C00001258,74-93-1,Methyl mercaptan,CH4S,48.00337086,Pelargonium graveolens,Pelargonium,KNApSAcK
+33,C00002335,20069-07-2,Elaeocarpidine,C17H21N3,267.17354769,Pelargonium graveolens,Pelargonium,KNApSAcK
+34,C00002378,2611-67-8,Cyanin,C27H31O16,611.16120995,Pelargonium dolomiticum,Pelargonium,KNApSAcK
+35,C00002384,16727-30-3,Malvin,C29H35O17,655.1874247,Pelargonium dolomiticum,Pelargonium,KNApSAcK
+36,C00002387,17334-58-6,Pelargonin,C27H31O15,595.16629532,Pelargonium dolomiticum,Pelargonium,KNApSAcK
+37,C00002387,17334-58-6,Pelargonin,C27H31O15,595.16629532,Pelargonium zonale,Pelargonium,KNApSAcK
+38,C00002473,574-84-5,Fraxetin,C10H8O5,208.03717337,Pelargonium sidoides,Pelargonium,KNApSAcK
+39,C00002499,92-61-5,Scopoletin,C10H8O4,192.04225874,Pelargonium reniforme,Pelargonium,KNApSAcK
+40,C00002499,92-61-5,Scopoletin,C10H8O4,192.04225874,Pelargonium sidoides,Pelargonium,KNApSAcK
+41,C00002501,55085-47-7,"5,6,7-Trimethoxycoumarin",C12H12O5,236.06847349,Pelargonium reniforme,Pelargonium,KNApSAcK
+42,C00002501,55085-47-7,"5,6,7-Trimethoxycoumarin",C12H12O5,236.06847349,Pelargonium sidoides,Pelargonium,KNApSAcK
+43,C00002647,149-91-7,Gallic acid,C7H6O5,170.0215233,Pelargonium reniforme,Pelargonium,KNApSAcK
+44,C00002647,149-91-7,Gallic acid,C7H6O5,170.0215233,Pelargonium sidoides,Pelargonium,KNApSAcK
+45,C00002652,554-37-0,Glucogallin,C13H16O10,332.07434673,Pelargonium sidoides,Pelargonium,KNApSAcK
+46,C00002652,554-37-0,Glucogallin,C13H16O10,332.07434673,Pelargonium reniforme,Pelargonium,KNApSAcK
+47,C00002668,99-50-3,"3,4-Dihydroxybenzoic acid",C7H6O4,154.02660868,Pelargonium reniforme,Pelargonium,KNApSAcK
+48,C00002668,99-50-3,"3,4-Dihydroxybenzoic acid",C7H6O4,154.02660868,Pelargonium sidoides,Pelargonium,KNApSAcK
+49,C00002682,121-34-6,Vanillic acid,C8H8O4,168.04225874,Pelargonium reniforme,Pelargonium,KNApSAcK
+50,C00002743,1135-24-6,Ferulic acid,C10H10O4,194.05790881,Pelargonium reniforme,Pelargonium,KNApSAcK
+51,C00002915,23094-69-1,Corilagin,C27H22O18,634.0806139,Pelargonium reniforme,Pelargonium,KNApSAcK
+52,C00003035,141-27-5,trans-Citral,C10H16O,152.12011513,Pelargonium graveolens,Pelargonium,KNApSAcK
+53,C00003036,106-26-3,cis-Citral,C10H16O,152.12011513,Pelargonium graveolens,Pelargonium,KNApSAcK
+54,C00003038,1117-61-9,(+)-Citronellol,C10H20O,156.15141526,Pelargonium odoratissimum,Pelargonium,KNApSAcK
+55,C00003040,99-87-6,p-Cymene,C10H14,134.10955045,Pelargonium capitatum,Pelargonium,KNApSAcK
+56,C00003040,99-87-6,p-Cymene,C10H14,134.10955045,Pelargonium quercifolium,Pelargonium,KNApSAcK
+57,C00003040,99-87-6,p-Cymene,C10H14,134.10955045,Pelargonium tomentosum,Pelargonium,KNApSAcK
+58,C00003046,105-87-3,Geranyl acetate,C12H20O2,196.14632988,Pelargonium odoratissimum,Pelargonium,KNApSAcK
+59,C00003046,105-87-3,Geranyl acetate,C12H20O2,196.14632988,Pelargonium graveolens,Pelargonium,KNApSAcK
+60,C00003047,78-70-6,(+-)-Linalool,C10H18O,154.1357652,Pelargonium graveolens,Pelargonium,KNApSAcK
+61,C00003051,99-83-2,alpha-Phellandrene,C10H16,136.12520051,Pelargonium graveolens,Pelargonium,KNApSAcK
+62,C00003054,89-81-6,Piperitone,C10H16O,152.12011513,Pelargonium graveolens,Pelargonium,KNApSAcK
+63,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Pelargonium reniforme,Pelargonium,KNApSAcK
+64,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Pelargonium sidoides,Pelargonium,KNApSAcK
+65,C00003795,520-28-5,Tectochrysin,C16H12O4,268.07355887,Pelargonium crispum,Pelargonium,KNApSAcK
+66,C00004565,520-18-3,Kaempferol,C15H10O6,286.04773805,Pelargonium reniforme,Pelargonium,KNApSAcK
+67,C00004569,3301-49-3,"Kaempferol 3,7-dimethyl ether",C17H14O6,314.07903818,Pelargonium fulgidum,Pelargonium,KNApSAcK
+68,C00004631,117-39-5,Quercetin,C15H10O7,302.04265268,Pelargonium sidoides,Pelargonium,KNApSAcK
+69,C00004631,117-39-5,Quercetin,C15H10O7,302.04265268,Pelargonium reniforme,Pelargonium,KNApSAcK
+70,C00004638,2068-02-2,"Quercetin 3,7-dimethyl ether",C17H14O7,330.0739528,Pelargonium fulgidum,Pelargonium,KNApSAcK
+71,C00004638,2068-02-2,"Quercetin 3,7-dimethyl ether",C17H14O7,330.0739528,Pelargonium quercifolium,Pelargonium,KNApSAcK
+72,C00005137,23627-87-4,Kaempferol 3-O-galactoside,C21H20O11,448.10056148,Pelargonium reniforme,Pelargonium,KNApSAcK
+73,C00005138,480-10-4,Astragalin,C21H20O11,448.10056148,Pelargonium graveolens,Pelargonium,KNApSAcK
+74,C00005138,480-10-4,Astragalin,C21H20O11,448.10056148,Pelargonium reniforme,Pelargonium,KNApSAcK
+75,C00005149,16290-07-6,Kaempferol 7-O-beta-D-glucopyranoside,C21H20O11,448.10056148,Pelargonium reniforme,Pelargonium,KNApSAcK
+76,C00005169,17650-84-9,Kaempferol 3-rutinoside,C27H30O15,594.15847029,Pelargonium reniforme,Pelargonium,KNApSAcK
+77,C00005373,482-35-9,Hirsutrin,C21H20O12,464.09547611,Pelargonium graveolens,Pelargonium,KNApSAcK
+78,C00005373,482-35-9,Hirsutrin,C21H20O12,464.09547611,Pelargonium reniforme,Pelargonium,KNApSAcK
+79,C00005373,482-35-9,Hirsutrin,C21H20O12,464.09547611,Pelargonium radula,Pelargonium,KNApSAcK
+80,C00005382,491-50-9,Quercetin 7-O-beta-D-glucopyranoside,C21H20O12,464.09547611,Pelargonium reniforme,Pelargonium,KNApSAcK
+81,C00005413,153-18-4,Quercetin 3-rutinoside,C27H30O16,610.15338491,Pelargonium radula,Pelargonium,KNApSAcK
+82,C00005413,153-18-4,Quercetin 3-rutinoside,C27H30O16,610.15338491,Pelargonium reniforme,Pelargonium,KNApSAcK
+83,C00005729,19833-12-6,Isomyricitrin,C21H20O13,480.09039073,Pelargonium reniforme,Pelargonium,KNApSAcK
+84,C00006688,132-37-6,"Peonidin-3,5-diglucoside",C28H33O16,625.17686001,Pelargonium sp.,Pelargonium,KNApSAcK
+85,C00006709,17670-06-3,Delphin,C27H31O17,627.15612457,Pelargonium dolomiticum,Pelargonium,KNApSAcK
+86,C00006728,25846-73-5,Petunin,C28H33O17,641.17177463,Pelargonium dolomiticum,Pelargonium,KNApSAcK
+87,C00006762,170660-30-7,Pelargonidin 3-glucoside-5-(6''-acetylglucoside),C29H33O16,637.17686001,Pelargonium dolomiticum,Pelargonium,KNApSAcK
+88,C00007234,480-20-6,(+)-Dihydrokaempferol,C15H12O6,288.06338812,Pelargonium sidoides,Pelargonium,KNApSAcK
+89,C00007234,480-20-6,(+)-Dihydrokaempferol,C15H12O6,288.06338812,Pelargonium reniforme,Pelargonium,KNApSAcK
+90,C00007368,16910-32-0,Obtusifoliol,C30H50O,426.38616622,Pelargonium hortorum,Pelargonium,KNApSAcK
+91,C00008699,27297-45-6,Dihydroquercetin-3-glucoside,C21H22O12,466.11112617,Pelargonium reniforme,Pelargonium,KNApSAcK
+92,C00008699,27297-45-6,Dihydroquercetin-3-glucoside,C21H22O12,466.11112617,Pelargonium sidoides,Pelargonium,KNApSAcK
+93,C00008709,14292-40-1,Taxifolin 7-O-beta-D-glucopyranoside,C21H22O12,466.11112617,Pelargonium reniforme,Pelargonium,KNApSAcK
+94,C00008817,970-73-0,(+)-Gallocatechin,C15H14O7,306.0739528,Pelargonium reniforme,Pelargonium,KNApSAcK
+95,C00008817,970-73-0,(+)-Gallocatechin,C15H14O7,306.0739528,Pelargonium sidoides,Pelargonium,KNApSAcK
+96,C00008818,970-74-1,(-)-Epigallocatechin,C15H14O7,306.0739528,Pelargonium sidoides,Pelargonium,KNApSAcK
+97,C00010335,60047-17-8,Linalyl oxide,C10H18O2,170.13067982,Pelargonium graveolens,Pelargonium,KNApSAcK
+98,C00010868,5989-27-5,(+)-Limonene,C10H16,136.12520051,Pelargonium graveolens,Pelargonium,KNApSAcK
+99,C00010872,555-10-2,beta-Phellandrene,C10H16,136.12520051,Pelargonium graveolens,Pelargonium,KNApSAcK
+100,C00010902,1196-31-2,(+)-Isomenthone,C10H18O,154.1357652,Pelargonium tomentosum,Pelargonium,KNApSAcK
+101,C00010904,18309-28-9,(-)-Isomenthone,C10H18O,154.1357652,Pelargonium graveolens,Pelargonium,KNApSAcK
+102,C00011720,23986-74-5,(-)-Germacrene D,C15H24,204.18780077,Pelargonium tomentosum,Pelargonium,KNApSAcK
+103,C00011720,23986-74-5,(-)-Germacrene D,C15H24,204.18780077,Pelargonium capitatum,Pelargonium,KNApSAcK
+104,C00011720,23986-74-5,(-)-Germacrene D,C15H24,204.18780077,Pelargonium quercifolium,Pelargonium,KNApSAcK
+105,C00011720,23986-74-5,(-)-Germacrene D,C15H24,204.18780077,Pelargonium graveolens,Pelargonium,KNApSAcK
+106,C00014083,372113-57-0,Isovitexin 2''-O-(6'''-(E)-feruloyl)glucoside 4'-O-glucoside,C43H48O23,932.25863784,Pelargonium reniforme,Pelargonium,KNApSAcK
+107,C00014084,267883-58-9,2''-O-Galloylisovitexin,C28H24O14,584.11660548,Pelargonium reniforme,Pelargonium,KNApSAcK
+108,C00014088,267883-59-0,Vitexin 2''-O-gallate,C28H24O14,584.11660548,Pelargonium sidoides,Pelargonium,KNApSAcK
+109,C00014088,267883-59-0,Vitexin 2''-O-gallate,C28H24O14,584.11660548,Pelargonium reniforme,Pelargonium,KNApSAcK
+110,C00014098,438000-11-4,Isoorientin 2''-O-gallate,C28H24O15,600.1115201,Pelargonium reniforme,Pelargonium,KNApSAcK
+111,C00014098,438000-11-4,Isoorientin 2''-O-gallate,C28H24O15,600.1115201,Pelargonium sidoides,Pelargonium,KNApSAcK
+112,C00014104,438000-12-5,Orientin 2''-O-gallate,C28H24O15,600.1115201,Pelargonium sidoides,Pelargonium,KNApSAcK
+113,C00014104,438000-12-5,Orientin 2''-O-gallate,C28H24O15,600.1115201,Pelargonium reniforme,Pelargonium,KNApSAcK
+114,C00014778,202661-54-9,Cyanidin 3-glucoside-5-(6-acetylglucoside),C29H33O17,653.17177463,Pelargonium dolomiticum,Pelargonium,KNApSAcK
+115,C00014818,202661-55-0,Delphinidin 3-glucoside-5-(6-acetylglucoside),C29H33O18,669.16668925,Pelargonium dolomiticum,Pelargonium,KNApSAcK
+116,C00014830,,Malvidin 3-glucoside-5-(6-acetylglucoside),C30H35O19,699.17725394,Pelargonium dolomiticum,Pelargonium,KNApSAcK
+117,C00014857,,Peonidin 3-glucoside-5-(6''-acetylglucoside),C30H35O17,667.1874247,Pelargonium dolomiticum,Pelargonium,KNApSAcK
+118,C00014858,202661-56-1,Petunidin 3-glucoside-5-(6''-acetylglucoside),C30H35O18,683.18233932,Pelargonium dolomiticum,Pelargonium,KNApSAcK
+119,C00017471,6831-16-9,(-)-9-Aristolene,C15H24,204.18780077,Pelargonium graveolens,Pelargonium,KNApSAcK
+120,C00019308,474-58-8,3-O-beta-D-Glucopyranosyl sitosterol,C35H60O6,576.43898965,Pelargonium reniforme,Pelargonium,KNApSAcK
+121,C00019318,486-28-2,Fraxinol,C11H10O5,222.05282343,Pelargonium reniforme,Pelargonium,KNApSAcK
+122,C00019766,43053-61-8,"7-Acetoxy-5,6-dimethoxycoumarin",C13H12O6,264.06338812,Pelargonium sidoides,Pelargonium,KNApSAcK
+123,C00019839,167105-92-2,"6,8-Dihydroxy-5,7-dimethoxycoumarin",C11H10O6,238.04773805,Pelargonium sidoides,Pelargonium,KNApSAcK
+124,C00019843,167105-91-1,"6,8-Dihydroxy-7-methoxycoumarin",C10H8O5,208.03717337,Pelargonium sidoides,Pelargonium,KNApSAcK
+125,C00019875,525-21-3,Fraxidin,C11H10O5,222.05282343,Pelargonium reniforme,Pelargonium,KNApSAcK
+126,C00020030,114371-80-1,"6,7,8-Trihydroxycoumarin",C9H6O5,194.0215233,Pelargonium reniforme,Pelargonium,KNApSAcK
+127,C00020030,114371-80-1,"6,7,8-Trihydroxycoumarin",C9H6O5,194.0215233,Pelargonium sidoides,Pelargonium,KNApSAcK
+128,C00020370,1143-45-9,Furopelargone A,C15H22O2,234.16197995,Pelargonium roseum,Pelargonium,KNApSAcK
+129,C00020371,1143-46-0,Furopelargone B1,C15H22O2,234.16197995,Pelargonium roseum,Pelargonium,KNApSAcK
+130,C00020372,18492-61-0,Furopelargone C,C15H20O2,232.14632988,Pelargonium roseum,Pelargonium,KNApSAcK
+131,C00020373,18492-62-1,Furopelargone D,C15H20O2,232.14632988,Pelargonium roseum,Pelargonium,KNApSAcK
+132,C00020551,66173-52-2,Artelin,C15H18O5,278.11542369,Pelargonium sidoides,Pelargonium,KNApSAcK
+133,C00029369,15051-81-7,10-epi-gamma-Eudesmol,C15H26O,222.19836545,Pelargonium graveolens,Pelargonium,KNApSAcK
+134,C00029533,623-05-2,p-Hydroxybenzyl alcohol,C7H8O2,124.0524295,Pelargonium reniforme,Pelargonium,KNApSAcK
+135,C00030345,39029-41-9,gamma-Cadinene,C15H24,204.18780077,Pelargonium graveolens,Pelargonium,KNApSAcK
+136,C00031014,2538-87-6,p-Coumaraldehyde,C9H8O2,148.0524295,Pelargonium reniforme,Pelargonium,KNApSAcK
+137,C00033581,83013-86-9,6'-O-Galloylsalidroside,C21H24O11,452.13186161,Pelargonium reniforme,Pelargonium,KNApSAcK
+138,C00034195,1006039-05-9,Reniformin,C28H40O6S,504.25455974,Pelargonium sidoides,Pelargonium,KNApSAcK
+139,C00034195,1006039-05-9,Reniformin,C28H40O6S,504.25455974,Pelargonium reniforme,Pelargonium,KNApSAcK
+140,C00035341,89-80-5,Menthone,C10H18O,154.1357652,Pelargonium tomentosum,Pelargonium,KNApSAcK
+141,C00035341,89-80-5,Menthone,C10H18O,154.1357652,Pelargonium graveolens,Pelargonium,KNApSAcK
+142,C00035393,517-46-4,Strictinin,C27H22O18,634.0806139,Pelargonium reniforme,Pelargonium,KNApSAcK
+143,C00035564,150-84-5,Citronellyl acetate,C12H22O2,198.16197995,Pelargonium graveolens,Pelargonium,KNApSAcK
+144,C00035565,105-85-1,Citronellol formate,C11H20O2,184.14632988,Pelargonium graveolens,Pelargonium,KNApSAcK
+145,C00035668,87392-62-9,Isostrictinin,C27H22O18,634.0806139,Pelargonium reniforme,Pelargonium,KNApSAcK
+146,C00035823,106-23-0,Citronellal,C10H18O,154.1357652,Pelargonium graveolens,Pelargonium,KNApSAcK
+147,C00035823,106-23-0,Citronellal,C10H18O,154.1357652,Pelargonium hortorum,Pelargonium,KNApSAcK
+148,C00036839,18490-95-4,Brevifolincarboxylic acid,C13H8O8,292.02191723,Pelargonium reniforme,Pelargonium,KNApSAcK
+149,C00037333,491-07-6,Isomenthone,C10H18O,154.1357652,Pelargonium graveolens,Pelargonium,KNApSAcK
+150,C00037605,302780-07-0,Pelargoniin A,C40H30O26,926.10253114,Pelargonium reniforme,Pelargonium,KNApSAcK
+151,C00037606,214554-71-9,Pelargoniin B,C26H22O18,622.0806139,Pelargonium reniforme,Pelargonium,KNApSAcK
+152,C00037607,302777-20-4,Pelargoniin D,C27H24O19,652.09117859,Pelargonium reniforme,Pelargonium,KNApSAcK
+153,C00037622,142674-53-1,Phyllanthusiin E,C13H8O8,292.02191723,Pelargonium reniforme,Pelargonium,KNApSAcK
+154,C00039442,50656-75-2,Isofraxetin,C10H8O5,208.03717337,Pelargonium reniforme,Pelargonium,KNApSAcK
+155,C00041085,142674-52-0,Phyllantusiin C,C40H30O26,926.10253114,Pelargonium reniforme,Pelargonium,KNApSAcK
+156,C00050406,43053-62-9,Umckalin,C11H10O5,222.05282343,Pelargonium sidoides,Pelargonium,KNApSAcK
+157,C00050490,156-38-7,p-Hydroxyphenyl acetic acid,C8H8O3,152.04734412,Pelargonium reniforme,Pelargonium,KNApSAcK
+158,C00050892,302780-06-9,Isocorilagin,C27H22O18,634.0806139,Pelargonium reniforme,Pelargonium,KNApSAcK
+159,C00053057,3033-23-6,cis-Rose oxide,C10H18O,154.1357652,Pelargonium graveolens,Pelargonium,KNApSAcK
+160,C00053362,24778-11-8,Isofraxoside,C16H18O10,370.0899968,Pelargonium sidoides,Pelargonium,KNApSAcK
+161,C00053451,20186-29-2,Magnolioside,C16H18O9,354.09508217,Pelargonium sidoides,Pelargonium,KNApSAcK
+162,C00053642,302776-74-5,Pelargoniin C,C26H24O18,624.09626397,Pelargonium reniforme,Pelargonium,KNApSAcK
+163,C00056484,1125-48-0,Epiphotocitral A,C10H16O,152.12011513,Pelargonium citronellum,Pelargonium,KNApSAcK
+164,C00064457,63768-12-7,6-Octen-1-ol,C8H16O,128.12011513,Pelargonium graveolens,Pelargonium,KNApSAcK
+165,C00064507,71-47-6,Formate,CHO2,44.99765428,Pelargonium graveolens,Pelargonium,KNApSAcK
+166,C00064536,7785-33-3,Geranyl tiglate,C15H24O2,236.17763001,Pelargonium graveolens,Pelargonium,KNApSAcK
+0,C00000845,106-24-1,(E)-geraniol,C10H18O,154.1357652,Erodium stephanianum,Erodium,KNApSAcK
+1,C00005247,89439-58-7,Kaempferol 3-rutinoside-4'-glucoside,C33H40O20,756.21129372,Erodium spp.,Erodium,KNApSAcK
+2,C00005374,522-12-3,Quercetin 3-O-alpha-L-rhamnoside,C21H20O11,448.10056148,Erodium stephanianum,Erodium,KNApSAcK
+3,C00005382,491-50-9,Quercetin 7-O-beta-D-glucopyranoside,C21H20O12,464.09547611,Erodium spp.,Erodium,KNApSAcK
+4,C00005387,20229-56-5,Spiraeoside,C21H20O12,464.09547611,Erodium spp.,Erodium,KNApSAcK
+5,C00005477,89439-59-8,Quercetin 3-rutinoside-4'-glucoside,C33H40O21,772.20620834,Erodium spp.,Erodium,KNApSAcK
+6,C00006675,62024-14-0,Cyanidin 3-rutinoside-5-glucoside,C33H41O20,757.21911875,Erodium sp.,Erodium,KNApSAcK
+7,C00006735,7228-78-6,Oenin,C23H25O12,493.13460127,Erodium cicutarium,Erodium,KNApSAcK
+0,C00000956,490-46-0,(-)-Epicatechin,C15H14O6,290.07903818,Geranium pratense,Geranium,KNApSAcK
+1,C00001059,38953-85-4,Isovitexin,C21H20O10,432.10564686,Geranium phaeum,Geranium,KNApSAcK
+2,C00001062,1592-70-7,Isokaempferide,C16H12O6,300.06338812,Geranium macrorrhizum L.,Geranium,KNApSAcK
+3,C00001396,73-22-3,L-Tryptophan,C11H12N2O2,204.08987764,Geranium pratense subsp.finitimum (Woronow) Knuth,Geranium,KNApSAcK
+4,C00002374,7084-24-4,Cyanidin 3-O-glucoside,C21H21O11.Cl,484.07723923,Geranium sylvaticum,Geranium,KNApSAcK
+5,C00002378,2611-67-8,Cyanin,C27H31O16,611.16120995,Geranium sylvaticum,Geranium,KNApSAcK
+6,C00002384,16727-30-3,Malvin,C29H35O17,655.1874247,Geranium eriostemon,Geranium,KNApSAcK
+7,C00002384,16727-30-3,Malvin,C29H35O17,655.1874247,Geranium sylvaticum,Geranium,KNApSAcK
+8,C00002647,149-91-7,Gallic acid,C7H6O5,170.0215233,Geranium pratense,Geranium,KNApSAcK
+9,C00002647,149-91-7,Gallic acid,C7H6O5,170.0215233,Geranium thunbergii,Geranium,KNApSAcK
+10,C00002647,149-91-7,Gallic acid,C7H6O5,170.0215233,Geranium macrorrhizum L.,Geranium,KNApSAcK
+11,C00002647,149-91-7,Gallic acid,C7H6O5,170.0215233,Geranium sibiricum,Geranium,KNApSAcK
+12,C00002670,87-66-1,Pyrogallol,C6H6O3,126.03169406,Geranium thunbergii,Geranium,KNApSAcK
+13,C00002911,23094-71-5,Chebulagic acid,C41H30O27,954.09744576,Geranium pratense,Geranium,KNApSAcK
+14,C00002915,23094-69-1,Corilagin,C27H22O18,634.0806139,Geranium thunbergii,Geranium,KNApSAcK
+15,C00002926,60976-49-0,Geraniin,C41H28O27,952.0817957,Geranium spp.,Geranium,KNApSAcK
+16,C00002933,14937-32-7,"1,2,3,4,6-Penta-O-galloyl-beta-D-glucose",C41H32O26,940.1181812,Geranium robertianum,Geranium,KNApSAcK
+17,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Geranium macrorrhizum L.,Geranium,KNApSAcK
+18,C00004569,3301-49-3,"Kaempferol 3,7-dimethyl ether",C17H14O6,314.07903818,Geranium macrorrhizum L.,Geranium,KNApSAcK
+19,C00004575,1429-28-3,"3,7,8,4'-Tetrahydroxyflavone",C15H10O6,286.04773805,Geranium collinum,Geranium,KNApSAcK
+20,C00004642,552-54-5,"Quercetin 7,3'-dimethyl ether",C17H14O7,330.0739528,Geranium macrorrhizum,Geranium,KNApSAcK
+21,C00004649,6068-80-0,"Quercetin 7,3',4'-trimethyl ether",C18H16O7,344.08960287,Geranium spp.,Geranium,KNApSAcK
+22,C00004653,1245-15-4,"5-Hydroxy-3,7,3',4'-tetramethoxyflavone",C19H18O7,358.10525293,Geranium macrorrhizum L.,Geranium,KNApSAcK
+23,C00004748,37751-25-0,5'-Hydroxymorin,C15H10O8,318.0375673,Geranium macrorrhizum,Geranium,KNApSAcK
+24,C00004773,27265-95-8,"Myricetin 7,3',4'-trimethyl ether",C18H16O8,360.08451749,Geranium spp.,Geranium,KNApSAcK
+25,C00004774,14290-57-4,"3',5-Dihydroxy-3,4',5',7-tetramethoxyflavone",C19H18O8,374.10016755,Geranium spp.,Geranium,KNApSAcK
+26,C00005140,482-39-3,Afzelin,C21H20O10,432.10564686,Geranium rotundifolium,Geranium,KNApSAcK
+27,C00005189,482-38-2,Kaempferitrin,C27H30O14,578.16355567,Geranium nepalense,Geranium,KNApSAcK
+28,C00005247,89439-58-7,Kaempferol 3-rutinoside-4'-glucoside,C33H40O20,756.21129372,Geranium yemens,Geranium,KNApSAcK
+29,C00005247,89439-58-7,Kaempferol 3-rutinoside-4'-glucoside,C33H40O20,756.21129372,Geranium rotundifolium,Geranium,KNApSAcK
+30,C00005370,6743-88-0,Reynoutrin,C20H18O11,434.08491142,Geranium niveum,Geranium,KNApSAcK
+31,C00005372,482-36-0,Hyperin,C21H20O12,464.09547611,Geranium wilfordii,Geranium,KNApSAcK
+32,C00005372,482-36-0,Hyperin,C21H20O12,464.09547611,Geranium niveum,Geranium,KNApSAcK
+33,C00005374,522-12-3,Quercetin 3-O-alpha-L-rhamnoside,C21H20O11,448.10056148,Geranium macrorrhizum L.,Geranium,KNApSAcK
+34,C00005376,22688-79-5,Miquelianin,C21H18O13,478.07474066,Geranium dissectum,Geranium,KNApSAcK
+35,C00005427,6892-74-6,"Quercetin 3,7-O-beta-diglucopyranoside",C27H30O17,626.14829954,Geranium dissectum,Geranium,KNApSAcK
+36,C00005737,41093-68-9,Myricetin-3-O-rutinoside,C27H30O17,626.14829954,Geranium mascatense,Geranium,KNApSAcK
+37,C00006698,6906-38-3,Myrtillin,C21H21O12.Cl,500.07215385,Geranium sylvaticum,Geranium,KNApSAcK
+38,C00006907,164266-06-2,Malvidin 3-(6''-acetylglucoside)-5-glucoside,C31H37O18,697.19798938,Geranium sylvaticum,Geranium,KNApSAcK
+39,C00009256,82796-37-0,Mahuannin B,C30H24O10,544.13694699,Geranium niveum,Geranium,KNApSAcK
+40,C00011153,476-66-4,Ellagic acid,C14H6O8,302.00626717,Geranium sibiricum,Geranium,KNApSAcK
+41,C00011153,476-66-4,Ellagic acid,C14H6O8,302.00626717,Geranium thunbergii,Geranium,KNApSAcK
+42,C00011728,6902-91-6,Germacrone,C15H22O,218.16706532,Geranium macrorrhizum,Geranium,KNApSAcK
+43,C00013275,226715-74-8,(+)-Geranin B,C30H24O11,560.13186161,Geranium niveum,Geranium,KNApSAcK
+44,C00013277,226715-59-9,(+)-Geranin A,C30H24O10,544.13694699,Geranium niveum,Geranium,KNApSAcK
+45,C00013283,385367-01-1,(+)-Geranin D,C45H34O15,814.18977042,Geranium niveum,Geranium,KNApSAcK
+46,C00013971,334475-75-1,Myricetin 3-(2''-galloylglucoside),C28H24O17,632.10134934,Geranium pratense,Geranium,KNApSAcK
+47,C00014830,,Malvidin 3-glucoside-5-(6-acetylglucoside),C30H35O19,699.17725394,Geranium Johnsons Blue,Geranium,KNApSAcK
+48,C00014831,35775-62-3,Malvidin 5-glucoside,C23H25O12,493.13460127,Geranium Johnsons Blue,Geranium,KNApSAcK
+49,C00019308,474-58-8,3-O-beta-D-Glucopyranosyl sitosterol,C35H60O6,576.43898965,Geranium macrorrhizum L.,Geranium,KNApSAcK
+50,C00020384,36577-33-0,"6,9-Guaiadiene",C15H24,204.18780077,Geranium bourbon,Geranium,KNApSAcK
+51,C00021883,5208-58-2,alpha-Bourbonene,C15H24,204.18780077,Geranium bourbon,Geranium,KNApSAcK
+52,C00021884,5208-59-3,beta-Bourbonene,C15H24,204.18780077,Geranium bourbon,Geranium,KNApSAcK
+53,C00021885,13844-03-6,Norbourbonone,C14H22O,206.16706532,Geranium bourbon,Geranium,KNApSAcK
+54,C00021974,62332-96-1,Germazone,C15H22O,218.16706532,Geranium macrorrhizum,Geranium,KNApSAcK
+55,C00030754,99-24-1,"Methyl 3,4,5-trihydroxybenzoate",C8H8O5,184.03717337,Geranium pratense subsp.finitimum (Woronow) Knuth,Geranium,KNApSAcK
+56,C00030754,99-24-1,"Methyl 3,4,5-trihydroxybenzoate",C8H8O5,184.03717337,Geranium niveum,Geranium,KNApSAcK
+57,C00035321,142705-57-5,Geraniinic acid B,C41H28O27,952.0817957,Geranium thunbergii,Geranium,KNApSAcK
+58,C00035322,246872-68-4,Geraniinic acid C,C41H28O27,952.0817957,Geranium thunbergii,Geranium,KNApSAcK
+59,C00035368,133145-19-4,Phyllanthusiin D,C44H32O27,992.11309582,Geranium thunbergii,Geranium,KNApSAcK
+60,C00036268,334475-78-4,(-)-6-Chloroepicatechin,C15H13ClO6,324.04006586,Geranium pratense subsp.finitimum (Woronow) Knuth,Geranium,KNApSAcK
+0,C00005376,22688-79-5,Miquelianin,C21H18O13,478.07474066,Monsonia spp.,Monsonia,KNApSAcK
+1,C00005387,20229-56-5,Spiraeoside,C21H20O12,464.09547611,Monsonia spp.,Monsonia,KNApSAcK
+0,C00001819,2086-83-1,Berberine,C20H18NO4,336.12358307,Eschscholtzia california,California,KNApSAcK
+1,C00001917,2447-54-3,Sanguinarine,C20H14NO4,332.09228294,Eschscholtzia california,California,KNApSAcK
+2,C00051761,35523-89-8,Saxitoxin,C10H17N7O4,299.13420208,Mytilus californianus,California,KNApSAcK
+0,C00011441,68776-16-9,Cycloeumorphinone,C15H20O4,264.13615913,Eumorpha sericea,Eumorpha,KNApSAcK
+1,C00011530,68776-18-1,Eumorphistonol,C15H20O3,248.1412445,Eumorpha prostrata,Eumorpha,KNApSAcK
+0,C00002082,33979-15-6,Clivorine,C21H27NO7,405.17875222,Ligularia elegans,Ligularia,KNApSAcK
+1,C00002082,33979-15-6,Clivorine,C21H27NO7,405.17875222,Ligularia dentata,Ligularia,KNApSAcK
+2,C00002082,33979-15-6,Clivorine,C21H27NO7,405.17875222,Ligularia clivorum,Ligularia,KNApSAcK
+3,C00002082,33979-15-6,Clivorine,C21H27NO7,405.17875222,Ligularia hodgsonii,Ligularia,KNApSAcK
+4,C00002107,480-78-4,Platyphylline,C18H27NO5,337.18892298,Ligularia japonica,Ligularia,KNApSAcK
+5,C00002116,130-01-8,Senecionine,C18H25NO5,335.17327292,Ligularia japonica,Ligularia,KNApSAcK
+6,C00002399,6906-88-3,6-Hydroxytremetone,C13H14O3,218.09429431,Ligularia stenocephala,Ligularia,KNApSAcK
+7,C00002399,6906-88-3,6-Hydroxytremetone,C13H14O3,218.09429431,Ligularia intermedia,Ligularia,KNApSAcK
+8,C00002412,4976-25-4,Tremetone,C13H14O2,202.09937969,Ligularia spp.,Ligularia,KNApSAcK
+9,C00002657,123-08-0,4-Hydroxybenzaldehyde,C7H6O2,122.03677944,Ligularia stenocephala Matsum.et Koidz.,Ligularia,KNApSAcK
+10,C00002683,5463-22-9,Vanillin,C8H8O3,152.04734412,Ligularia stenocephala Matsum.et Koidz.,Ligularia,KNApSAcK
+11,C00002683,5463-22-9,Vanillin,C8H8O3,152.04734412,Ligularia dentata Hara,Ligularia,KNApSAcK
+12,C00003225,19906-72-0,Bakkenolide A,C15H22O2,234.16197995,Ligularia calthaefolia,Ligularia,KNApSAcK
+13,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Ligularia odontomanes,Ligularia,KNApSAcK
+14,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Ligularia odontomanes,Ligularia,KNApSAcK
+15,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Ligularia dentata Hara,Ligularia,KNApSAcK
+16,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Ligularia sagitta,Ligularia,KNApSAcK
+17,C00011163,472-28-6,(-)-Butyrospermol,C30H50O,426.38616622,Ligularia dentata Hara,Ligularia,KNApSAcK
+18,C00012065,64234-03-3,"[1R-[1R*,2S*(Z),4S*,6R*,8R*(Z),9S*,10S*(Z),11R*]]-1,6-Dimethyl-9-(1-methylethenyl)-7-oxo-5,12-dioxatricyclo[9.1.0.04,6]dodecane-2,8,10-triyl ester 2-methyl-2-butenoic acid",C30H40O9,544.26723288,Ligularia spp.,Ligularia,KNApSAcK
+19,C00012066,64185-20-2,Ligularinone A,C25H34O7,446.23045344,Ligularia brachyphylla,Ligularia,KNApSAcK
+20,C00012066,64185-20-2,Ligularinone A,C25H34O7,446.23045344,Ligularia spp.,Ligularia,KNApSAcK
+21,C00012081,64185-22-4,Ligularinone B,C20H28O4,332.19875938,Ligularia spp.,Ligularia,KNApSAcK
+22,C00013228,64185-18-8,Liguhodgsonal,C14H16O2,216.11502975,Ligularia odontomanes,Ligularia,KNApSAcK
+23,C00013228,64185-18-8,Liguhodgsonal,C14H16O2,216.11502975,Ligularia japonica,Ligularia,KNApSAcK
+24,C00013228,64185-18-8,Liguhodgsonal,C14H16O2,216.11502975,Ligularia hodgsonii,Ligularia,KNApSAcK
+25,C00013228,64185-18-8,Liguhodgsonal,C14H16O2,216.11502975,Ligularia dentata,Ligularia,KNApSAcK
+26,C00013228,64185-18-8,Liguhodgsonal,C14H16O2,216.11502975,Ligularia spp.,Ligularia,KNApSAcK
+27,C00013228,64185-18-8,Liguhodgsonal,C14H16O2,216.11502975,Ligularia brachyphylla,Ligularia,KNApSAcK
+28,C00013228,64185-18-8,Liguhodgsonal,C14H16O2,216.11502975,Ligularia clivorum Maxim,Ligularia,KNApSAcK
+29,C00013229,64185-24-6,Ligujapone,C13H14O2,202.09937969,Ligularia dentata,Ligularia,KNApSAcK
+30,C00013229,64185-24-6,Ligujapone,C13H14O2,202.09937969,Ligularia spp.,Ligularia,KNApSAcK
+31,C00013229,64185-24-6,Ligujapone,C13H14O2,202.09937969,Ligularia odontomanes,Ligularia,KNApSAcK
+32,C00013229,64185-24-6,Ligujapone,C13H14O2,202.09937969,Ligularia japonica,Ligularia,KNApSAcK
+33,C00013233,72145-19-8,2-Hydroxyplatyphyllide,C14H14O3,230.09429431,Ligularia dentata,Ligularia,KNApSAcK
+34,C00013233,72145-19-8,2-Hydroxyplatyphyllide,C14H14O3,230.09429431,Ligularia intermedia,Ligularia,KNApSAcK
+35,C00013567,36061-18-4,(+)-Farfugin A,C15H18O,214.1357652,Ligularia macrophylla,Ligularia,KNApSAcK
+36,C00016988,77820-40-7,Isofukinone,C15H22O,218.16706532,Ligularia speciosa,Ligularia,KNApSAcK
+37,C00017000,10219-71-3,Eremoligenol,C15H26O,222.19836545,Ligularia fischeri,Ligularia,KNApSAcK
+38,C00017006,23849-98-1,"Furanoeremophilan-14beta,6alpha-olide",C15H18O3,246.12559444,Ligularia hodgsonii,Ligularia,KNApSAcK
+39,C00017302,62078-12-0,Ligolide,C16H22O4,278.15180919,Ligularia macrophylla,Ligularia,KNApSAcK
+40,C00017306,58848-38-7,"6beta,8beta-Dihydroxyeremophilenolide",C15H22O4,266.15180919,Ligularia fauriei,Ligularia,KNApSAcK
+41,C00017319,41702-76-5,"1beta,10beta-Epoxyfuranoeremophilan-6beta-ol",C15H20O3,248.1412445,Ligularia spp.,Ligularia,KNApSAcK
+42,C00017322,63366-01-8,"[1aR-[1aalpha,4beta,4abeta,5beta(Z),9aS*]]-1a,2,4,4a,5,9-Hexahydro-4,4a,6-trimethyl-3H-oxireno[8,8a]naphtho[2,3-b]furan-5-yl ester 4-hydroxy-2-methyl-2-butenoic acid",C20H26O5,346.17802394,Ligularia vorobierii,Ligularia,KNApSAcK
+43,C00017334,20489-24-1,(-)-Ligularenolide,C15H18O2,230.13067982,Ligularia sibirica,Ligularia,KNApSAcK
+44,C00017335,58947-65-2,"Eremophil-7(11)-en-6alpha,15:8alpha,12-diolide",C15H18O4,262.12050906,Ligularia fauriei,Ligularia,KNApSAcK
+45,C00017338,6750-13-6,Furoeremophilane,C15H22O,218.16706532,Ligularia fischeri,Ligularia,KNApSAcK
+46,C00017357,35101-40-7,Tetradymodiol,C15H22O3,250.15689457,Ligularia japonica,Ligularia,KNApSAcK
+47,C00017361,40267-27-4,"[4S-(4alpha,4aalpha,5alpha,8aalpha)]-4,5,6,7,8,9-Hexahydro-4-methoxy-3,4a,5-trimethyl-naphtho[2,3-b]furan-8a(4aH)-ol",C16H24O3,264.17254463,Ligularia japonica,Ligularia,KNApSAcK
+48,C00017368,4176-11-8,Petasalbin,C15H22O2,234.16197995,Ligularia sibirica,Ligularia,KNApSAcK
+49,C00017368,4176-11-8,Petasalbin,C15H22O2,234.16197995,Ligularia fischeri,Ligularia,KNApSAcK
+50,C00017372,900789-90-4,Ligularone,C15H22O2,234.16197995,Ligularia sibirica,Ligularia,KNApSAcK
+51,C00017372,900789-90-4,Ligularone,C15H22O2,234.16197995,Ligularia fischeri,Ligularia,KNApSAcK
+52,C00017373,70614-96-9,"[2aR-(2aalpha,5aalpha,9balpha,9calpha)]-2a,3,4,5,5a,6,9b,9c-Octahydro-9,9c-dimethyl-2H-naphtho[1,8-bc:3,2-b']difuran-2-one",C15H18O3,246.12559444,Ligularia hodgsonii,Ligularia,KNApSAcK
+53,C00017377,63366-05-2,",[1aR-[1aalpha,3alpha(Z),4beta,4abeta,5beta,9alphaS*]]-1a,2,4,4a,5,9-Hexahydro-5-hydroxy-4,4a,6-trimethyl-3H-oxireno[8,8a]naphtho[2,3-b]furan-3-yl ester 2-methyl-2-butenoic acid",C20H26O5,346.17802394,Ligularia vorobierii,Ligularia,KNApSAcK
+54,C00017378,63366-03-0,"[1aR-[1aalpha,3alpha(Z),4beta,4abeta,5beta,9aS*]]-5-(acetyloxy)-1a,2,4,4a,5,9-Hexahydro-4,4a,6-trimethyl-3H-oxireno[8,8a]naphtho[2,3-b]furan-3-yl ester 2-methyl-2-butenoic acid",C22H28O6,388.18858863,Ligularia vorobierii,Ligularia,KNApSAcK
+55,C00017379,63366-04-1,"[1aR-(1aalpha,3alpha,4beta,4abeta,5beta,9aS*)]- 1a,2,4,4a,5,9-Hexahydro-5-hydroxy-4,4a,6-trimethyl-3H-oxireno[8,8a]naphtho[2,3-b]furan-3-yl ester 2-methyl-2-propenoic acid",C19H24O5,332.16237388,Ligularia vorobierii,Ligularia,KNApSAcK
+56,C00017380,63366-02-9,"[1aR-(1aalpha,3alpha,4beta,4abeta,5beta,9aS*)]- 5-(Acetyloxy)-1a,2,4,4a,5,9-hexahydro-4,4a,6-trimethyl-3H-oxireno[8,8a]naphtho[2,3-b]furan-3-yl ester 2-methyl-2-propenoic acid",C21H26O6,374.17293856,Ligularia vorobierii,Ligularia,KNApSAcK
+57,C00017394,16148-24-6,10alpha-Furanoligularenone,C15H18O2,230.13067982,Ligularia spp.,Ligularia,KNApSAcK
+58,C00017399,58947-64-1,"8beta-Hydroxyeremophil-7(11)-ene-6alpha,15",C15H18O5,278.11542369,Ligularia fauriei,Ligularia,KNApSAcK
+59,C00017404,10250-03-0,6beta-Hydroxyeremophilenolide,C15H22O3,250.15689457,Ligularia fischeri,Ligularia,KNApSAcK
+60,C00017408,64185-26-8,Ligucalthaefolin,C20H24O5,344.16237388,Ligularia calthaefolia,Ligularia,KNApSAcK
+61,C00020361,21764-22-7,Liguloxide,C15H26O,222.19836545,Ligularia fischeri,Ligularia,KNApSAcK
+62,C00020362,21764-23-8,Liguloxidol,C15H26O2,238.19328007,Ligularia fischeri,Ligularia,KNApSAcK
+63,C00020363,18680-79-0,Liguloxidol acetate,C17H28O3,280.20384476,Ligularia fischeri,Ligularia,KNApSAcK
+64,C00022075,504-96-1,Neophytadiene,C20H38,278.29735121,Ligularia stenocephala Matsum.et Koidz.,Ligularia,KNApSAcK
+65,C00026211,60872-63-1,Ligularidine,C21H29NO7,407.19440229,Ligularia dentata Hara,Ligularia,KNApSAcK
+66,C00026212,90364-90-2,Ligularinine,C18H27NO5,337.18892298,Ligularia dentata Hara,Ligularia,KNApSAcK
+67,C00026213,90364-92-4,Ligularizine,C21H29NO8,423.18931691,Ligularia dentata Hara,Ligularia,KNApSAcK
+68,C00026215,90364-91-3,Neoligularidine,C21H29NO7,407.19440229,Ligularia dentata Hara,Ligularia,KNApSAcK
+69,C00029305,60102-39-8,(+)-Methyl abscisate,C16H22O4,278.15180919,Ligularia dentata Hara,Ligularia,KNApSAcK
+70,C00029321,365456-13-9,"(3E,6E,10E,14E,18E)-2,6,10,15,19,23-Hexamethyl-3,6,10,14,18,22-Tetracosahexaen-2-ol",C30H50O,426.38616622,Ligularia stenocephala Matsum.et Koidz.,Ligularia,KNApSAcK
+71,C00029337,22329-76-6,(E)-Methyl-4-hydroxy-3-methoxycinnamate,C11H12O4,208.07355887,Ligularia dentata Hara,Ligularia,KNApSAcK
+72,C00029342,943725-95-9,(R)-(+)-Ligulaodonin A,C22H22O7,398.13655306,Ligularia odontomanes,Ligularia,KNApSAcK
+73,C00029450,17249-61-5,"2-Acetyl-5,6-dimethoxybenzofuran",C12H12O4,220.07355887,Ligularia odontomanes,Ligularia,KNApSAcK
+74,C00029530,52249-85-1,4-Hydroxy-3-methoxyacetophenone,C16H16O4,272.104859,Ligularia stenocephala Matsum.et Koidz.,Ligularia,KNApSAcK
+75,C00029553,34293-09-9,"5,6-Dimethoxy-2-isopropenylbenzofuran",C13H14O3,218.09429431,Ligularia odontomanes,Ligularia,KNApSAcK
+76,C00029553,34293-09-9,"5,6-Dimethoxy-2-isopropenylbenzofuran",C13H14O3,218.09429431,Ligularia stenocephala MATSUM.ET KOIDZ,Ligularia,KNApSAcK
+77,C00029633,7372-30-7,Acetylursolic acid,C32H50O4,498.37091008,Ligularia sagitta,Ligularia,KNApSAcK
+78,C00029821,1058-61-3,Sitostenone,C29H48O,412.37051615,Ligularia dentata Hara,Ligularia,KNApSAcK
+79,C00030228,532-48-9,Euparin,C13H12O3,216.07864425,Ligularia odontomanes,Ligularia,KNApSAcK
+80,C00030228,532-48-9,Euparin,C13H12O3,216.07864425,Ligularia stenocephala MATSUM.ET KOIDZ,Ligularia,KNApSAcK
+81,C00030437,465-96-3,Gummosogenin,C30H48O3,456.3603454,Ligularia odontomanes,Ligularia,KNApSAcK
+82,C00030756,942-24-5,Methyl indole-3-carboxylate,C10H9NO2,175.06332854,Ligularia dentata Hara,Ligularia,KNApSAcK
+83,C00031394,23670-94-2,"Stigmast-4-en-3,6-dione",C29H46O2,426.34978071,Ligularia dentata Hara,Ligularia,KNApSAcK
+84,C00031545,863782-68-7,"2alpha,3alpha,19alpha-Trihydroxy-28-norurs-12-ene",C29H48O3,444.3603454,Ligularia tongolensis,Ligularia,KNApSAcK
+85,C00031975,876314-11-3,Ligulacephalin A,C26H28O6,436.18858863,Ligularia stenocephala MATSUM.ET KOIDZ,Ligularia,KNApSAcK
+86,C00031976,876314-12-4,Ligulacephalin B,C26H28O7,452.18350325,Ligularia stenocephala MATSUM.ET KOIDZ,Ligularia,KNApSAcK
+87,C00031977,876314-13-5,Ligulacephalin C,C26H26O6,434.17293856,Ligularia stenocephala MATSUM.ET KOIDZ,Ligularia,KNApSAcK
+88,C00042099,2748-98-3,3-(4'-Formylphenoxy)-4-methoxybenzaldehyde,C15H12O4,256.07355887,Ligularia dentata,Ligularia,KNApSAcK
+89,C00042697,214703-36-3,Ligudentatin A,C15H18O3,246.12559444,Ligularia dentata,Ligularia,KNApSAcK
+90,C00042698,214703-38-5,Ligudentatin B,C16H20O3,260.1412445,Ligularia dentata,Ligularia,KNApSAcK
+91,C00042699,130848-29-2,Ligudentatol,C14H18O,202.1357652,Ligularia dentata,Ligularia,KNApSAcK
+92,C00046197,165053-71-4,Nelumol B,C21H30O5,362.20932407,Ligularia nelumbifolia,Ligularia,KNApSAcK
+93,C00046198,165053-72-5,Nelumol C,C23H34O5,390.2406242,Ligularia nelumbifolia,Ligularia,KNApSAcK
+94,C00046199,165053-75-8,Nelumol D,C23H34O6,406.23553882,Ligularia nelumbifolia,Ligularia,KNApSAcK
+95,C00046200,445434-07-1,Nelumol E,C23H34O6,406.23553882,Ligularia nelumbifolia,Ligularia,KNApSAcK
+96,C00050505,4031-55-4,"(3R,4R,6S)-3,6-Dihydroxy-1-menthene",C10H18O2,170.13067982,Ligularia sagitta,Ligularia,KNApSAcK
+97,C00050523,69618-93-5,(+)-Farformolide B,C17H26O5,310.17802394,Ligularia sagitta,Ligularia,KNApSAcK
+98,C00050607,876057-10-2,"(R,R)-(+)-Ligulacephalin B",C26H28O7,452.18350325,Ligularia stenocephala,Ligularia,KNApSAcK
+99,C00050608,876057-08-8,"(S,S)-(+)-Ligulacephalin A",C26H28O6,436.18858863,Ligularia stenocephala,Ligularia,KNApSAcK
+100,C00050738,587833-66-7,"6beta-(2'-Methylbutanoyloxy)-10beta-hydroxy-8alpha-methoxyeremophil-7(11)-en-12,8beta-olide",C21H32O6,380.21988875,Ligularia sagitta,Ligularia,KNApSAcK
+101,C00050739,587833-65-6,"6beta-(2'-Methylbutanoyloxy)-10beta-hydroxy-8beta-methoxyeremophil-7(11)-en-12,8alpha-olide",C21H32O6,380.21988875,Ligularia sagitta,Ligularia,KNApSAcK
+102,C00051247,876057-09-9,"(R,R)-(-)-Ligulacephalin A",C26H26O6,434.17293856,Ligularia stenocephala,Ligularia,KNApSAcK
+103,C00051272,856148-71-5,Ligudicin A,C15H22O2,234.16197995,Ligularia dictyoneura,Ligularia,KNApSAcK
+104,C00051273,856148-73-7,Ligudicin C,C15H24O2,236.17763001,Ligularia dictyoneura,Ligularia,KNApSAcK
+105,C00051274,856148-75-9,Ligudicin D,C15H22O2,234.16197995,Ligularia dictyoneura,Ligularia,KNApSAcK
+0,C00000001,545-97-1,Gibberellin A1,C19H24O6,348.1572885,Trifolium repens,Trifolium,KNApSAcK
+1,C00000004,468-44-0,Gibberellin A4,C19H24O5,332.16237388,Trifolium repens,Trifolium,KNApSAcK
+2,C00000009,427-77-0,Gibberellin A9,C19H24O4,316.16745925,Trifolium repens,Trifolium,KNApSAcK
+3,C00000019,6980-44-5,Gibberellin A19,C20H26O6,362.17293856,Trifolium repens,Trifolium,KNApSAcK
+4,C00000020,19143-87-4,Gibberellin A20,C19H24O5,332.16237388,Trifolium repens,Trifolium,KNApSAcK
+5,C00000044,36434-15-8,Gibberellin A44,C20H26O5,346.17802394,Trifolium repens,Trifolium,KNApSAcK
+6,C00000152,7400-08-0,p-Coumaric acid,C9H8O3,164.04734412,Trifolium alpestre,Trifolium,KNApSAcK
+7,C00000152,7400-08-0,p-Coumaric acid,C9H8O3,164.04734412,Trifolium medium,Trifolium,KNApSAcK
+8,C00000152,7400-08-0,p-Coumaric acid,C9H8O3,164.04734412,Trifolium pratense L.,Trifolium,KNApSAcK
+9,C00000207,65-85-0,Benzoic acid,C7H6O2,122.03677944,Trifolium incarnatum,Trifolium,KNApSAcK
+10,C00000256,595-15-3,Soyasapogenol B,C30H50O3,458.37599546,Trifolium resupinatum,Trifolium,KNApSAcK
+11,C00000256,595-15-3,Soyasapogenol B,C30H50O3,458.37599546,Trifolium pratense,Trifolium,KNApSAcK
+12,C00000256,595-15-3,Soyasapogenol B,C30H50O3,458.37599546,Trifolium spp.,Trifolium,KNApSAcK
+13,C00000257,1890-99-9,Xenognosin B,C16H12O5,284.06847349,Trifolium repens,Trifolium,KNApSAcK
+14,C00000604,29388-59-8,(-)-Secoisolariciresinol,C20H26O6,362.17293856,Trifolium pratense,Trifolium,KNApSAcK
+15,C00000606,580-72-3,(-)-Matairesinol,C20H22O6,358.14163844,Trifolium pratense,Trifolium,KNApSAcK
+16,C00000615,501-16-6,Caffeic acid,C9H8O4,180.04225874,Trifolium pratense,Trifolium,KNApSAcK
+17,C00000651,469-01-2,(+)-Pisatin,C17H14O6,314.07903818,Trifolium pratense,Trifolium,KNApSAcK
+18,C00000674,491-70-3,"5,7,3',4'-Tetrahydroxyflavone",C15H10O6,286.04773805,Trifolium pannonicum,Trifolium,KNApSAcK
+19,C00000674,491-70-3,"5,7,3',4'-Tetrahydroxyflavone",C15H10O6,286.04773805,Trifolium repens,Trifolium,KNApSAcK
+20,C00000674,491-70-3,"5,7,3',4'-Tetrahydroxyflavone",C15H10O6,286.04773805,Trifolium pratense,Trifolium,KNApSAcK
+21,C00000674,491-70-3,"5,7,3',4'-Tetrahydroxyflavone",C15H10O6,286.04773805,Trifolium subterraneum,Trifolium,KNApSAcK
+22,C00000803,5989-54-8,(-)-Limonene,C10H16,136.12520051,Trifolium pratense,Trifolium,KNApSAcK
+23,C00000805,80-56-8,alpha-Pinene,C10H16,136.12520051,Trifolium repens L.,Trifolium,KNApSAcK
+24,C00000816,127-91-3,beta-Pinene,C10H16,136.12520051,Trifolium repens L.,Trifolium,KNApSAcK
+25,C00000823,138-86-3,Limonene,C10H16,136.12520051,Trifolium repens L.,Trifolium,KNApSAcK
+26,C00000853,123-35-3,beta-Myrcene,C10H16,136.12520051,Trifolium pratense,Trifolium,KNApSAcK
+27,C00000855,106-25-2,beta-Nerol,C10H18O,154.1357652,Trifolium repens,Trifolium,KNApSAcK
+28,C00000856,99-96-7,4-hydroxybenzoic acid,C7H6O3,138.03169406,Trifolium pratense,Trifolium,KNApSAcK
+29,C00000947,154-23-4,(+)-Catechin,C15H14O6,290.07903818,Trifolium pratense,Trifolium,KNApSAcK
+30,C00000956,490-46-0,(-)-Epicatechin,C15H14O6,290.07903818,Trifolium pratense,Trifolium,KNApSAcK
+31,C00000958,989-51-5,epi-Gallocatechin 3-O-gallate,C22H18O11,458.08491142,Trifolium pratense,Trifolium,KNApSAcK
+32,C00000977,578-86-9,Liquiritigenin,C15H12O4,256.07355887,Trifolium subterraneum,Trifolium,KNApSAcK
+33,C00000982,480-41-1,Naringenin,C15H12O5,272.06847349,Trifolium pratense,Trifolium,KNApSAcK
+34,C00001015,1617-53-4,Amentoflavone,C30H18O10,538.0899968,Trifolium pratense,Trifolium,KNApSAcK
+35,C00001017,578-74-5,Apigenin 7-O-beta-D-glucopyranoside,C21H20O10,432.10564686,Trifolium pratense,Trifolium,KNApSAcK
+36,C00001022,491-67-8,Baicalein,C15H10O5,270.05282343,Trifolium pratense,Trifolium,KNApSAcK
+37,C00001024,21967-41-9,Baicalin,C21H18O11,446.08491142,Trifolium pratense,Trifolium,KNApSAcK
+38,C00001029,491-71-4,Chrysoeriol,C16H12O6,300.06338812,Trifolium pratense,Trifolium,KNApSAcK
+39,C00001051,4324-55-4,6-Hydroxykaempferol,C15H10O7,302.04265268,Trifolium repens,Trifolium,KNApSAcK
+40,C00001071,529-44-2,Myricetin,C15H10O8,318.0375673,Trifolium pratense,Trifolium,KNApSAcK
+41,C00001071,529-44-2,Myricetin,C15H10O8,318.0375673,Trifolium repens,Trifolium,KNApSAcK
+42,C00001110,3681-93-4,Vitexin,C21H20O10,432.10564686,Trifolium pratense,Trifolium,KNApSAcK
+43,C00001208,109-52-4,pentanoic acid,C5H10O2,102.06807956,Trifolium pratense,Trifolium,KNApSAcK
+44,C00001221,143-07-7,Lauric acid,C12H24O2,200.17763001,Trifolium pratense,Trifolium,KNApSAcK
+45,C00001233,57-10-3,Palmitic acid,C16H32O2,256.24023027,Trifolium pratense,Trifolium,KNApSAcK
+46,C00001265,629-62-9,n-Pentadecane,C15H32,212.25040102,Trifolium pratense,Trifolium,KNApSAcK
+47,C00001269,593-50-0,1-Triacontanol,C30H62O,438.4800666,Trifolium repens,Trifolium,KNApSAcK
+48,C00001341,70-47-3,L-Asparagine,C4H8N2O3,132.05349214,Trifolium repens L.,Trifolium,KNApSAcK
+49,C00001341,70-47-3,L-Asparagine,C4H8N2O3,132.05349214,Trifolium pratense L.,Trifolium,KNApSAcK
+50,C00001351,52-90-4,L-Cysteine,C3H7NO2S,121.01974921,Trifolium repens L.,Trifolium,KNApSAcK
+51,C00001351,52-90-4,L-Cysteine,C3H7NO2S,121.01974921,Trifolium pratense L.,Trifolium,KNApSAcK
+52,C00001358,56-86-0,L-Glutamic acid,C5H9NO4,147.05315778,Trifolium repens L.,Trifolium,KNApSAcK
+53,C00001358,56-86-0,L-Glutamic acid,C5H9NO4,147.05315778,Trifolium pratense L.,Trifolium,KNApSAcK
+54,C00001363,71-00-1,L-Histidine,C6H9N3O2,155.06947655,Trifolium repens L.,Trifolium,KNApSAcK
+55,C00001363,71-00-1,L-Histidine,C6H9N3O2,155.06947655,Trifolium pratense L.,Trifolium,KNApSAcK
+56,C00001378,56-87-1,L-Lysine,C6H14N2O2,146.10552771,Trifolium pratense L.,Trifolium,KNApSAcK
+57,C00001396,73-22-3,L-Tryptophan,C11H12N2O2,204.08987764,Trifolium repens L.,Trifolium,KNApSAcK
+58,C00001396,73-22-3,L-Tryptophan,C11H12N2O2,204.08987764,Trifolium pratense L.,Trifolium,KNApSAcK
+59,C00001403,462-94-2,Cadaverine,C5H14N2,102.11569846,Trifolium subterraneum,Trifolium,KNApSAcK
+60,C00001431,124-20-9,Spermidine,C7H19N3,145.15789763,Trifolium subterraneum,Trifolium,KNApSAcK
+61,C00001432,71-44-3,Spermine,C10H26N4,202.21574686,Trifolium subterraneum,Trifolium,KNApSAcK
+62,C00001446,554-35-8,Linamarin,C10H17NO6,247.10558728,Trifolium nigrescens,Trifolium,KNApSAcK
+63,C00001446,554-35-8,Linamarin,C10H17NO6,247.10558728,Trifolium repens,Trifolium,KNApSAcK
+64,C00001448,534-67-8,Lotaustralin,C11H19NO6,261.12123735,Trifolium repens,Trifolium,KNApSAcK
+65,C00001448,534-67-8,Lotaustralin,C11H19NO6,261.12123735,Trifolium nigrescens,Trifolium,KNApSAcK
+66,C00001555,535-83-1,Trigonelline,C7H7NO2,137.04767848,Trifolium pratense,Trifolium,KNApSAcK
+67,C00002073,20084-93-9,Slaframine,C10H18N2O2,198.13682783,Trifolium repens,Trifolium,KNApSAcK
+68,C00002151,484-29-7,Dictamine,C12H9NO2,199.06332854,Haplophyllum mytrifolium,Trifolium,KNApSAcK
+69,C00002159,524-15-2,gamma-Fagarine,C13H11NO3,229.07389323,Haplophyllum mytrifolium,Trifolium,KNApSAcK
+70,C00002384,16727-30-3,Malvin,C29H35O17,655.1874247,Trifolium pratense,Trifolium,KNApSAcK
+71,C00002463,2034-69-7,Daphnoretin,C19H12O7,352.05830274,Trifolium repens,Trifolium,KNApSAcK
+72,C00002471,305-01-1,Aesculetin,C9H6O4,178.02660868,Trifolium pratense,Trifolium,KNApSAcK
+73,C00002499,92-61-5,Scopoletin,C10H8O4,192.04225874,Trifolium pratense,Trifolium,KNApSAcK
+74,C00002503,93-35-6,Umbelliferone,C9H6O3,162.03169406,Trifolium pratense,Trifolium,KNApSAcK
+75,C00002509,51068-94-1,Betavulgarin,C17H12O6,312.06338812,Trifolium spp.,Trifolium,KNApSAcK
+76,C00002510,491-80-5,Biochanin A,C16H12O5,284.06847349,Trifolium caucasicum,Trifolium,KNApSAcK
+77,C00002510,491-80-5,Biochanin A,C16H12O5,284.06847349,Trifolium repensl,Trifolium,KNApSAcK
+78,C00002510,491-80-5,Biochanin A,C16H12O5,284.06847349,Trifolium repens,Trifolium,KNApSAcK
+79,C00002510,491-80-5,Biochanin A,C16H12O5,284.06847349,Trifolium pratense,Trifolium,KNApSAcK
+80,C00002510,491-80-5,Biochanin A,C16H12O5,284.06847349,Trifolium pannonicum,Trifolium,KNApSAcK
+81,C00002510,491-80-5,Biochanin A,C16H12O5,284.06847349,Trifolium alpestre,Trifolium,KNApSAcK
+82,C00002510,491-80-5,Biochanin A,C16H12O5,284.06847349,Trifolium apertum,Trifolium,KNApSAcK
+83,C00002510,491-80-5,Biochanin A,C16H12O5,284.06847349,Trifolium canescens,Trifolium,KNApSAcK
+84,C00002510,491-80-5,Biochanin A,C16H12O5,284.06847349,Trifolium trichocephalum,Trifolium,KNApSAcK
+85,C00002510,491-80-5,Biochanin A,C16H12O5,284.06847349,Trifolium incarnatum,Trifolium,KNApSAcK
+86,C00002510,491-80-5,Biochanin A,C16H12O5,284.06847349,Trifolium medium,Trifolium,KNApSAcK
+87,C00002510,491-80-5,Biochanin A,C16H12O5,284.06847349,Trifolium riograndense,Trifolium,KNApSAcK
+88,C00002514,479-13-0,Coumestrol,C15H8O5,268.03717337,Trifolium subterraneum,Trifolium,KNApSAcK
+89,C00002514,479-13-0,Coumestrol,C15H8O5,268.03717337,Trifolium pratense,Trifolium,KNApSAcK
+90,C00002514,479-13-0,Coumestrol,C15H8O5,268.03717337,Trifolium repens,Trifolium,KNApSAcK
+91,C00002514,479-13-0,Coumestrol,C15H8O5,268.03717337,Trifolium fragiferum,Trifolium,KNApSAcK
+92,C00002518,552-66-9,Daidzin,C21H20O9,416.11073224,Trifolium pratense,Trifolium,KNApSAcK
+93,C00002525,485-72-3,Formononetin,C16H12O4,268.07355887,Trifolium alpestre,Trifolium,KNApSAcK
+94,C00002525,485-72-3,Formononetin,C16H12O4,268.07355887,Trifolium riograndense,Trifolium,KNApSAcK
+95,C00002525,485-72-3,Formononetin,C16H12O4,268.07355887,Trifolium willdenovii,Trifolium,KNApSAcK
+96,C00002525,485-72-3,Formononetin,C16H12O4,268.07355887,Trifolium subterraneum,Trifolium,KNApSAcK
+97,C00002525,485-72-3,Formononetin,C16H12O4,268.07355887,"Trifolium pratense,",Trifolium,KNApSAcK
+98,C00002525,485-72-3,Formononetin,C16H12O4,268.07355887,Trifolium pratense,Trifolium,KNApSAcK
+99,C00002525,485-72-3,Formononetin,C16H12O4,268.07355887,Trifolium medium,Trifolium,KNApSAcK
+100,C00002525,485-72-3,Formononetin,C16H12O4,268.07355887,Trifolium repens,Trifolium,KNApSAcK
+101,C00002526,446-72-0,Genistein,C15H10O5,270.05282343,Trifolium globosum,Trifolium,KNApSAcK
+102,C00002526,446-72-0,Genistein,C15H10O5,270.05282343,Trifolium repens,Trifolium,KNApSAcK
+103,C00002526,446-72-0,Genistein,C15H10O5,270.05282343,Trifolium pratense,Trifolium,KNApSAcK
+104,C00002526,446-72-0,Genistein,C15H10O5,270.05282343,Trifolium pannonicum,Trifolium,KNApSAcK
+105,C00002526,446-72-0,Genistein,C15H10O5,270.05282343,Trifolium spp.,Trifolium,KNApSAcK
+106,C00002526,446-72-0,Genistein,C15H10O5,270.05282343,Trifolium campestre,Trifolium,KNApSAcK
+107,C00002526,446-72-0,Genistein,C15H10O5,270.05282343,Trifolium riograndense,Trifolium,KNApSAcK
+108,C00002528,529-59-9,Genistein 7-O-glucoside,C21H20O10,432.10564686,Trifolium pratense,Trifolium,KNApSAcK
+109,C00002536,61135-95-3,4-Hydroxyhomopterocarpin,C17H16O5,300.09977362,Trifolium pallescens,Trifolium,KNApSAcK
+110,C00002536,61135-95-3,4-Hydroxyhomopterocarpin,C17H16O5,300.09977362,Trifolium hybridum,Trifolium,KNApSAcK
+111,C00002539,41653-81-0,Irilone,C16H10O6,298.04773805,Trifolium pratense,Trifolium,KNApSAcK
+112,C00002546,2035-15-6,(-)-Maackiain,C16H12O5,284.06847349,Trifolium medium,Trifolium,KNApSAcK
+113,C00002546,2035-15-6,(-)-Maackiain,C16H12O5,284.06847349,Trifolium africanum,Trifolium,KNApSAcK
+114,C00002546,2035-15-6,(-)-Maackiain,C16H12O5,284.06847349,Trifolium alpestre,Trifolium,KNApSAcK
+115,C00002546,2035-15-6,(-)-Maackiain,C16H12O5,284.06847349,Trifolium angulatum,Trifolium,KNApSAcK
+116,C00002546,2035-15-6,(-)-Maackiain,C16H12O5,284.06847349,Trifolium bullatum,Trifolium,KNApSAcK
+117,C00002546,2035-15-6,(-)-Maackiain,C16H12O5,284.06847349,Trifolium clusii,Trifolium,KNApSAcK
+118,C00002546,2035-15-6,(-)-Maackiain,C16H12O5,284.06847349,Trifolium congestum,Trifolium,KNApSAcK
+119,C00002546,2035-15-6,(-)-Maackiain,C16H12O5,284.06847349,Trifolium dalmaticum,Trifolium,KNApSAcK
+120,C00002546,2035-15-6,(-)-Maackiain,C16H12O5,284.06847349,Trifolium diffusum,Trifolium,KNApSAcK
+121,C00002546,2035-15-6,(-)-Maackiain,C16H12O5,284.06847349,Trifolium heldreichianum,Trifolium,KNApSAcK
+122,C00002546,2035-15-6,(-)-Maackiain,C16H12O5,284.06847349,Trifolium ligusticum,Trifolium,KNApSAcK
+123,C00002546,2035-15-6,(-)-Maackiain,C16H12O5,284.06847349,Trifolium miegeanum,Trifolium,KNApSAcK
+124,C00002546,2035-15-6,(-)-Maackiain,C16H12O5,284.06847349,Trifolium montanum,Trifolium,KNApSAcK
+125,C00002546,2035-15-6,(-)-Maackiain,C16H12O5,284.06847349,Trifolium ornithopodioides,Trifolium,KNApSAcK
+126,C00002546,2035-15-6,(-)-Maackiain,C16H12O5,284.06847349,Trifolium pallidum,Trifolium,KNApSAcK
+127,C00002546,2035-15-6,(-)-Maackiain,C16H12O5,284.06847349,Trifolium patulum,Trifolium,KNApSAcK
+128,C00002546,2035-15-6,(-)-Maackiain,C16H12O5,284.06847349,Trifolium pauciflorum,Trifolium,KNApSAcK
+129,C00002546,2035-15-6,(-)-Maackiain,C16H12O5,284.06847349,Trifolium phleoides,Trifolium,KNApSAcK
+130,C00002546,2035-15-6,(-)-Maackiain,C16H12O5,284.06847349,Trifolium pignantii,Trifolium,KNApSAcK
+131,C00002546,2035-15-6,(-)-Maackiain,C16H12O5,284.06847349,Trifolium pratense L.,Trifolium,KNApSAcK
+132,C00002546,2035-15-6,(-)-Maackiain,C16H12O5,284.06847349,Trifolium purpureum,Trifolium,KNApSAcK
+133,C00002546,2035-15-6,(-)-Maackiain,C16H12O5,284.06847349,Trifolium saxatile,Trifolium,KNApSAcK
+134,C00002546,2035-15-6,(-)-Maackiain,C16H12O5,284.06847349,Trifolium spp.,Trifolium,KNApSAcK
+135,C00002546,2035-15-6,(-)-Maackiain,C16H12O5,284.06847349,Trifolium tenuifolium,Trifolium,KNApSAcK
+136,C00002546,2035-15-6,(-)-Maackiain,C16H12O5,284.06847349,Trifolium trichocephalum,Trifolium,KNApSAcK
+137,C00002546,2035-15-6,(-)-Maackiain,C16H12O5,284.06847349,Trifolium vavilovii,Trifolium,KNApSAcK
+138,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium alexandrinum,Trifolium,KNApSAcK
+139,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium usambarense,Trifolium,KNApSAcK
+140,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium vavilovii,Trifolium,KNApSAcK
+141,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium vesiculosum,Trifolium,KNApSAcK
+142,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium willdenovii,Trifolium,KNApSAcK
+143,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium wormskioldii,Trifolium,KNApSAcK
+144,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium cernuum,Trifolium,KNApSAcK
+145,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium burchellianum,Trifolium,KNApSAcK
+146,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium physodes,Trifolium,KNApSAcK
+147,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium palaestinum,Trifolium,KNApSAcK
+148,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium tomentosum,Trifolium,KNApSAcK
+149,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium thalii,Trifolium,KNApSAcK
+150,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium canescens,Trifolium,KNApSAcK
+151,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium sylvaticum,Trifolium,KNApSAcK
+152,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium suffocatum,Trifolium,KNApSAcK
+153,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium subterraneum,Trifolium,KNApSAcK
+154,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium striatum,Trifolium,KNApSAcK
+155,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium stellatum,Trifolium,KNApSAcK
+156,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium squamosum,Trifolium,KNApSAcK
+157,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium spumosum,Trifolium,KNApSAcK
+158,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium semipilosum,Trifolium,KNApSAcK
+159,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium scabrum,Trifolium,KNApSAcK
+160,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium saxatile,Trifolium,KNApSAcK
+161,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium salmoneum,Trifolium,KNApSAcK
+162,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium rueppellianum,Trifolium,KNApSAcK
+163,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium rubens,Trifolium,KNApSAcK
+164,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium retusum,Trifolium,KNApSAcK
+165,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium resupinatum,Trifolium,KNApSAcK
+166,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium repens,Trifolium,KNApSAcK
+167,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium purpureum,Trifolium,KNApSAcK
+168,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium pratense,Trifolium,KNApSAcK
+169,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium plebeium,Trifolium,KNApSAcK
+170,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium pignantii,Trifolium,KNApSAcK
+171,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium phleoides,Trifolium,KNApSAcK
+172,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium pauciflorum,Trifolium,KNApSAcK
+173,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium patulum,Trifolium,KNApSAcK
+174,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium parryi,Trifolium,KNApSAcK
+175,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium parnassii,Trifolium,KNApSAcK
+176,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium pannonicum,Trifolium,KNApSAcK
+177,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium pallidum,Trifolium,KNApSAcK
+178,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium pallescens,Trifolium,KNApSAcK
+179,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium ornithopodioides,Trifolium,KNApSAcK
+180,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium ochroleucon,Trifolium,KNApSAcK
+181,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium obscurum,Trifolium,KNApSAcK
+182,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium noricum,Trifolium,KNApSAcK
+183,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium nigrescens,Trifolium,KNApSAcK
+184,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium mutabile,Trifolium,KNApSAcK
+185,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium montanum,Trifolium,KNApSAcK
+186,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium miegeanum,Trifolium,KNApSAcK
+187,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium michelianum,Trifolium,KNApSAcK
+188,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium medium,Trifolium,KNApSAcK
+189,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium masaiense,Trifolium,KNApSAcK
+190,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium lupinaster,Trifolium,KNApSAcK
+191,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium ligusticum,Trifolium,KNApSAcK
+192,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium lappaceum,Trifolium,KNApSAcK
+193,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium isthmocarpum,Trifolium,KNApSAcK
+194,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium incarnatum,Trifolium,KNApSAcK
+195,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium hirtum,Trifolium,KNApSAcK
+196,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium heldreichianum,Trifolium,KNApSAcK
+197,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium glomeratum,Trifolium,KNApSAcK
+198,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium globosum,Trifolium,KNApSAcK
+199,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium glanduliferum,Trifolium,KNApSAcK
+200,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium fucatum,Trifolium,KNApSAcK
+201,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium fragiferum,Trifolium,KNApSAcK
+202,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium eriosphaerum,Trifolium,KNApSAcK
+203,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium echinatum,Trifolium,KNApSAcK
+204,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium diffusum,Trifolium,KNApSAcK
+205,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium dichroanthum,Trifolium,KNApSAcK
+206,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium dasyurum,Trifolium,KNApSAcK
+207,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium dalmaticum,Trifolium,KNApSAcK
+208,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium congestum,Trifolium,KNApSAcK
+209,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium clypeatum,Trifolium,KNApSAcK
+210,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium clusii,Trifolium,KNApSAcK
+211,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium cherleri,Trifolium,KNApSAcK
+212,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium bullatum,Trifolium,KNApSAcK
+213,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium bocconei,Trifolium,KNApSAcK
+214,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium bivonae,Trifolium,KNApSAcK
+215,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium apertum,Trifolium,KNApSAcK
+216,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium angustifolium,Trifolium,KNApSAcK
+217,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium angulatum,Trifolium,KNApSAcK
+218,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium ambiguum,Trifolium,KNApSAcK
+219,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium alpinum,Trifolium,KNApSAcK
+220,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium alpestre,Trifolium,KNApSAcK
+221,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium tenuifolium,Trifolium,KNApSAcK
+222,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium africanum,Trifolium,KNApSAcK
+223,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium trichocephalum,Trifolium,KNApSAcK
+224,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium tumens,Trifolium,KNApSAcK
+225,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Trifolium uniflorum,Trifolium,KNApSAcK
+226,C00002553,486-62-4,Ononin,C22H22O9,430.1263823,Trifolium spp.,Trifolium,KNApSAcK
+227,C00002553,486-62-4,Ononin,C22H22O9,430.1263823,Trifolium montanum,Trifolium,KNApSAcK
+228,C00002553,486-62-4,Ononin,C22H22O9,430.1263823,Trifolium pratense,Trifolium,KNApSAcK
+229,C00002563,2284-31-3,Pratensein,C16H12O6,300.06338812,Trifolium repens,Trifolium,KNApSAcK
+230,C00002563,2284-31-3,Pratensein,C16H12O6,300.06338812,Trifolium subterraneum,Trifolium,KNApSAcK
+231,C00002563,2284-31-3,Pratensein,C16H12O6,300.06338812,Trifolium pratense,Trifolium,KNApSAcK
+232,C00002564,552-59-0,Prunetin,C16H12O5,284.06847349,Trifolium pratense,Trifolium,KNApSAcK
+233,C00002565,90-29-9,Pseudobaptigenin,C16H10O5,282.05282343,Trifolium pratense,Trifolium,KNApSAcK
+234,C00002565,90-29-9,Pseudobaptigenin,C16H10O5,282.05282343,Trifolium repens,Trifolium,KNApSAcK
+235,C00002570,41743-86-6,Sativan,C17H18O4,286.12050906,Trifolium spp.,Trifolium,KNApSAcK
+236,C00002584,66211-83-4,Vestitone,C16H14O5,286.08412356,Trifolium repens,Trifolium,KNApSAcK
+237,C00002647,149-91-7,Gallic acid,C7H6O5,170.0215233,Trifolium pratense,Trifolium,KNApSAcK
+238,C00002648,490-79-9,Gentisic acid,C7H6O4,154.02660868,Trifolium pratense,Trifolium,KNApSAcK
+239,C00002668,99-50-3,"3,4-Dihydroxybenzoic acid",C7H6O4,154.02660868,Trifolium pratense,Trifolium,KNApSAcK
+240,C00002682,121-34-6,Vanillic acid,C8H8O4,168.04225874,Trifolium pratense,Trifolium,KNApSAcK
+241,C00002724,327-97-9,3-O-Caffeoylquinic acid,C16H18O9,354.09508217,Trifolium medium,Trifolium,KNApSAcK
+242,C00002724,327-97-9,3-O-Caffeoylquinic acid,C16H18O9,354.09508217,Trifolium pratense L.,Trifolium,KNApSAcK
+243,C00002724,327-97-9,3-O-Caffeoylquinic acid,C16H18O9,354.09508217,Trifolium alpestre,Trifolium,KNApSAcK
+244,C00002729,583-17-5,2-Hydroxycinnamic acid,C9H8O3,164.04734412,Trifolium pratense,Trifolium,KNApSAcK
+245,C00002743,1135-24-6,Ferulic acid,C10H10O4,194.05790881,Trifolium pratense,Trifolium,KNApSAcK
+246,C00002765,53755-04-7,Phaseolic acid,C13H12O8,296.05321736,Trifolium pratense,Trifolium,KNApSAcK
+247,C00002776,530-59-6,Sinapic acid,C11H12O5,224.06847349,Trifolium pratense,Trifolium,KNApSAcK
+248,C00002855,55954-61-5,Pseudohypericin,C30H16O9,520.07943211,Hypericum triquetrifolium,Trifolium,KNApSAcK
+249,C00002903,501-36-0,Resveratrol,C14H12O3,228.07864425,Trifolium campestre,Trifolium,KNApSAcK
+250,C00002903,501-36-0,Resveratrol,C14H12O3,228.07864425,Trifolium dubium,Trifolium,KNApSAcK
+251,C00002923,68964-95-4,Prodelphinidin B4,C30H26O14,610.13225554,Trifolium repens L.,Trifolium,KNApSAcK
+252,C00003029,79-92-5,Camphene,C10H16,136.12520051,Trifolium repens L.,Trifolium,KNApSAcK
+253,C00003040,99-87-6,p-Cymene,C10H14,134.10955045,Trifolium repens L.,Trifolium,KNApSAcK
+254,C00003040,99-87-6,p-Cymene,C10H14,134.10955045,Trifolium pratense,Trifolium,KNApSAcK
+255,C00003047,78-70-6,(+-)-Linalool,C10H18O,154.1357652,Trifolium repens L.,Trifolium,KNApSAcK
+256,C00003060,99-86-5,alpha-Terpinene,C10H16,136.12520051,Trifolium repens L.,Trifolium,KNApSAcK
+257,C00003110,87-44-5,beta-Caryophyllene,C15H24,204.18780077,Trifolium repens L.,Trifolium,KNApSAcK
+258,C00003401,143572-84-3,Orobanchyl acetate,C21H24O7,388.15220312,Trifolium pratense L.,Trifolium,KNApSAcK
+259,C00003467,150-86-7,Phytol,C20H40O,296.3079159,Trifolium pratense,Trifolium,KNApSAcK
+260,C00003553,51330-27-9,Soyasaponin I,C48H78O18,942.51881569,Trifolium argutum,Trifolium,KNApSAcK
+261,C00003553,51330-27-9,Soyasaponin I,C48H78O18,942.51881569,Trifolium repens,Trifolium,KNApSAcK
+262,C00003553,51330-27-9,Soyasaponin I,C48H78O18,942.51881569,Trifolium resupinatum,Trifolium,KNApSAcK
+263,C00003800,2196-14-7,"7,4'-Dihydroxyflavone",C15H10O4,254.05790881,Trifolium repens,Trifolium,KNApSAcK
+264,C00003800,2196-14-7,"7,4'-Dihydroxyflavone",C15H10O4,254.05790881,Trifolium subterraneum,Trifolium,KNApSAcK
+265,C00003801,32272-23-4,Isopratol,C16H12O4,268.07355887,Trifolium hybridum,Trifolium,KNApSAcK
+266,C00003817,520-36-5,Apigenin,C15H10O5,270.05282343,Trifolium pratense,Trifolium,KNApSAcK
+267,C00003820,480-44-4,Acacetin,C16H12O5,284.06847349,Trifolium repens,Trifolium,KNApSAcK
+268,C00003825,2150-11-0,"3',4',7-Trihydroxyflavone",C15H10O5,270.05282343,Trifolium repens,Trifolium,KNApSAcK
+269,C00003825,2150-11-0,"3',4',7-Trihydroxyflavone",C15H10O5,270.05282343,Trifolium subterraneum,Trifolium,KNApSAcK
+270,C00003826,21583-32-4,Geraldone,C16H12O5,284.06847349,Trifolium subterraneum,Trifolium,KNApSAcK
+271,C00003826,21583-32-4,Geraldone,C16H12O5,284.06847349,Trifolium repens,Trifolium,KNApSAcK
+272,C00004133,24502-03-2,"7,3',4'-Trihydroxyflavone 7-glucoside",C21H20O10,432.10564686,Trifolium subterraneum,Trifolium,KNApSAcK
+273,C00004137,33275-43-3,"7,4'-Dihydroxy-3'-methoxyflavone 7-glucoside",C22H22O10,446.12129692,Trifolium subterraneum,Trifolium,KNApSAcK
+274,C00004266,5373-11-5,Cinaroside,C21H20O11,448.10056148,Trifolium pratense,Trifolium,KNApSAcK
+275,C00004540,2034-65-3,"4',7-Dihydroxyflavonol",C15H10O5,270.05282343,Trifolium repens,Trifolium,KNApSAcK
+276,C00004540,2034-65-3,"4',7-Dihydroxyflavonol",C15H10O5,270.05282343,Trifolium subterraneum,Trifolium,KNApSAcK
+277,C00004565,520-18-3,Kaempferol,C15H10O6,286.04773805,Trifolium pratense,Trifolium,KNApSAcK
+278,C00004579,528-48-3,Fisetin,C15H10O6,286.04773805,Trifolium subterraneum,Trifolium,KNApSAcK
+279,C00004581,21511-25-1,Geraldol,C16H12O6,300.06338812,Trifolium subterraneum,Trifolium,KNApSAcK
+280,C00004631,117-39-5,Quercetin,C15H10O7,302.04265268,Trifolium pratense,Trifolium,KNApSAcK
+281,C00004634,90-19-7,Rhamnetin,C16H12O7,316.05830274,Trifolium repens,Trifolium,KNApSAcK
+282,C00004635,480-19-3,Isorhamnetin,C16H12O7,316.05830274,Trifolium subterraneum,Trifolium,KNApSAcK
+283,C00004635,480-19-3,Isorhamnetin,C16H12O7,316.05830274,Trifolium pratense,Trifolium,KNApSAcK
+284,C00004635,480-19-3,Isorhamnetin,C16H12O7,316.05830274,Trifolium repens,Trifolium,KNApSAcK
+285,C00005129,24502-04-3,Resokaempferol 4'-glucoside,C21H20O10,432.10564686,Trifolium subterraneum,Trifolium,KNApSAcK
+286,C00005137,23627-87-4,Kaempferol 3-O-galactoside,C21H20O11,448.10056148,Trifolium repens L.,Trifolium,KNApSAcK
+287,C00005137,23627-87-4,Kaempferol 3-O-galactoside,C21H20O11,448.10056148,Trifolium pratense,Trifolium,KNApSAcK
+288,C00005138,480-10-4,Astragalin,C21H20O11,448.10056148,Trifolium pratense,Trifolium,KNApSAcK
+289,C00005149,16290-07-6,Kaempferol 7-O-beta-D-glucopyranoside,C21H20O11,448.10056148,Trifolium montanum,Trifolium,KNApSAcK
+290,C00005305,24502-05-4,Geraldol 4'-glucoside,C22H22O11,462.11621155,Trifolium subterraneum,Trifolium,KNApSAcK
+291,C00005372,482-36-0,Hyperin,C21H20O12,464.09547611,Trifolium repens L.,Trifolium,KNApSAcK
+292,C00005372,482-36-0,Hyperin,C21H20O12,464.09547611,Trifolium montanum,Trifolium,KNApSAcK
+293,C00005372,482-36-0,Hyperin,C21H20O12,464.09547611,Trifolium pratense,Trifolium,KNApSAcK
+294,C00005373,482-35-9,Hirsutrin,C21H20O12,464.09547611,Trifolium subterraneum,Trifolium,KNApSAcK
+295,C00005373,482-35-9,Hirsutrin,C21H20O12,464.09547611,Trifolium pratense,Trifolium,KNApSAcK
+296,C00005374,522-12-3,Quercetin 3-O-alpha-L-rhamnoside,C21H20O11,448.10056148,Trifolium pratense,Trifolium,KNApSAcK
+297,C00005374,522-12-3,Quercetin 3-O-alpha-L-rhamnoside,C21H20O11,448.10056148,Trifolium montanum,Trifolium,KNApSAcK
+298,C00005413,153-18-4,Quercetin 3-rutinoside,C27H30O16,610.15338491,Trifolium pratense,Trifolium,KNApSAcK
+299,C00005728,15648-86-9,Myricetin 3-O-galactopyranoside,C21H20O13,480.09039073,Trifolium repens,Trifolium,KNApSAcK
+300,C00005728,15648-86-9,Myricetin 3-O-galactopyranoside,C21H20O13,480.09039073,Trifolium pannonicum,Trifolium,KNApSAcK
+301,C00006094,3681-99-0,Puerarin,C21H20O9,416.11073224,Trifolium pratense,Trifolium,KNApSAcK
+302,C00006648,62058-43-9,Pelargonidin 3-rutinoside-5-glucoside,C33H41O19,741.22420413,Trifolium medium,Trifolium,KNApSAcK
+303,C00006657,33012-73-6,Sambicyanin,C26H29O15.Cl,616.11949797,Trifolium incarnatum,Trifolium,KNApSAcK
+304,C00006681,6906-39-4,Oxycoccicyanin,C22H23O11.Cl,498.09288929,Trifolium incarnatum,Trifolium,KNApSAcK
+305,C00006925,961-29-5,Isoliquiritigenin,C15H12O4,256.07355887,Trifolium subterraneum,Trifolium,KNApSAcK
+306,C00006942,34000-39-0,Homobutein,C16H14O5,286.08412356,Trifolium subterraneum,Trifolium,KNApSAcK
+307,C00007184,5041-81-6,Isoliquiritoside,C21H22O9,418.1263823,Trifolium subterraneum,Trifolium,KNApSAcK
+308,C00007221,33275-44-4,Homobutein 4-glucoside,C22H24O10,448.13694699,Trifolium subterraneum,Trifolium,KNApSAcK
+309,C00007630,20307-83-9,beta-Sesquiphellandrene,C15H24,204.18780077,Trifolium repens L.,Trifolium,KNApSAcK
+310,C00008817,970-73-0,(+)-Gallocatechin,C15H14O7,306.0739528,Trifolium globosum,Trifolium,KNApSAcK
+311,C00008817,970-73-0,(+)-Gallocatechin,C15H14O7,306.0739528,Trifolium campestre,Trifolium,KNApSAcK
+312,C00008817,970-73-0,(+)-Gallocatechin,C15H14O7,306.0739528,Trifolium pannonicum,Trifolium,KNApSAcK
+313,C00008817,970-73-0,(+)-Gallocatechin,C15H14O7,306.0739528,Trifolium repens,Trifolium,KNApSAcK
+314,C00008818,970-74-1,(-)-Epigallocatechin,C15H14O7,306.0739528,Trifolium repens,Trifolium,KNApSAcK
+315,C00009380,486-66-8,Daidzein,C15H10O4,254.05790881,Trifolium repens,Trifolium,KNApSAcK
+316,C00009380,486-66-8,Daidzein,C15H10O4,254.05790881,Trifolium riograndense,Trifolium,KNApSAcK
+317,C00009380,486-66-8,Daidzein,C15H10O4,254.05790881,Trifolium pratense,Trifolium,KNApSAcK
+318,C00009383,7678-85-5,2'-Hydroxydaidzein,C15H10O5,270.05282343,Trifolium repens,Trifolium,KNApSAcK
+319,C00009389,20575-57-9,Calycosin,C16H12O5,284.06847349,Trifolium repens,Trifolium,KNApSAcK
+320,C00009389,20575-57-9,Calycosin,C16H12O5,284.06847349,Trifolium pratense,Trifolium,KNApSAcK
+321,C00009392,40957-83-3,Glycitein,C16H12O5,284.06847349,Trifolium pratense,Trifolium,KNApSAcK
+322,C00009392,40957-83-3,Glycitein,C16H12O5,284.06847349,Trifolium repens,Trifolium,KNApSAcK
+323,C00009535,75519-15-2,2'-Hydroxydihydrodaidzein,C15H12O5,272.06847349,Trifolium repens,Trifolium,KNApSAcK
+324,C00009610,61135-91-9,"3,9-Dihydroxypterocarpan",C15H12O4,256.07355887,Trifolium repens,Trifolium,KNApSAcK
+325,C00009613,606-91-7,(-)-Homopterocarpin,C17H16O4,284.104859,Trifolium hybridum,Trifolium,KNApSAcK
+326,C00009620,14756-82-2,4-Methoxymedicarpin,C17H16O5,300.09977362,Trifolium repens,Trifolium,KNApSAcK
+327,C00009620,14756-82-2,4-Methoxymedicarpin,C17H16O5,300.09977362,Trifolium pallescens,Trifolium,KNApSAcK
+328,C00009620,14756-82-2,4-Methoxymedicarpin,C17H16O5,300.09977362,Trifolium cherleri,Trifolium,KNApSAcK
+329,C00009623,2694-69-1,4-Methoxymaackiain,C17H14O6,314.07903818,Trifolium hybridum,Trifolium,KNApSAcK
+330,C00009632,73520-83-9,Trifolian,C17H14O7,330.0739528,Trifolium pratense,Trifolium,KNApSAcK
+331,C00009675,61135-92-0,6a-Hydroxymedicarpin,C16H14O5,286.08412356,Trifolium pratense,Trifolium,KNApSAcK
+332,C00009677,14602-93-8,(+)-6a-Hydroxymaackiain,C16H12O6,300.06338812,Trifolium pratense,Trifolium,KNApSAcK
+333,C00009678,61135-98-6,"6a,7-Dihydroxymedicarpin",C16H14O6,302.07903818,Trifolium pratense,Trifolium,KNApSAcK
+334,C00009679,61135-99-7,"6a,7-Dihydroxymaackiain",C16H12O7,316.05830274,Trifolium pratense,Trifolium,KNApSAcK
+335,C00009707,94105-90-5,Equol,C15H14O3,242.09429431,Trifolium pratense,Trifolium,KNApSAcK
+336,C00009709,63631-42-5,Isovestitol,C16H16O4,272.104859,Trifolium spp.,Trifolium,KNApSAcK
+337,C00009711,60102-29-6,Isosativan,C17H18O4,286.12050906,Trifolium spp.,Trifolium,KNApSAcK
+338,C00009712,63631-41-4,Arvensan,C17H18O4,286.12050906,Trifolium dalmaticum,Trifolium,KNApSAcK
+339,C00009712,63631-41-4,Arvensan,C17H18O4,286.12050906,Trifolium stellatum,Trifolium,KNApSAcK
+340,C00009712,63631-41-4,Arvensan,C17H18O4,286.12050906,Trifolium arvense,Trifolium,KNApSAcK
+341,C00009757,1690-62-6,9-O-Methylcoumestrol,C16H10O5,282.05282343,Trifolium pratense,Trifolium,KNApSAcK
+342,C00009757,1690-62-6,9-O-Methylcoumestrol,C16H10O5,282.05282343,Trifolium repens,Trifolium,KNApSAcK
+343,C00009758,33280-69-2,"Repensol3,7,9-Trihydroxycoumestan",C15H8O6,284.03208799,Trifolium repens,Trifolium,KNApSAcK
+344,C00009760,1983-72-8,Medicagol,C16H8O6,296.03208799,Trifolium pratense,Trifolium,KNApSAcK
+345,C00009762,1857-26-7,Trifoliol,C16H10O6,298.04773805,Trifolium repens,Trifolium,KNApSAcK
+346,C00009945,139051-61-9,Senegalensin,C25H26O6,422.17293856,Trifolium pratense,Trifolium,KNApSAcK
+347,C00010083,34232-16-1,Formononetin 7-O-beta-D-glucoside-6''-O-malonate,C25H24O12,516.12677623,Trifolium spp.,Trifolium,KNApSAcK
+348,C00010085,63347-43-3,Pseudobaptigenin 7-O-glucoside,C22H20O10,444.10564686,Trifolium pratense,Trifolium,KNApSAcK
+349,C00010110,51011-05-3,Genistein 7-O-beta-D-glucoside 6''-O-malonate,C24H22O13,518.10604079,Trifolium subterraneum,Trifolium,KNApSAcK
+350,C00010112,5928-26-7,Biochanin A 7-O-glucoside,C22H22O10,446.12129692,Trifolium pratense,Trifolium,KNApSAcK
+351,C00010117,34232-17-2,Bichanin A 7-O-glucoside-6''-malonate,C25H24O13,532.12169086,Trifolium spp.,Trifolium,KNApSAcK
+352,C00010118,154-36-9,Prunetin 4'-O-glucoside,C22H22O10,446.12129692,Trifolium spp.,Trifolium,KNApSAcK
+353,C00010118,154-36-9,Prunetin 4'-O-glucoside,C22H22O10,446.12129692,Trifolium pratense,Trifolium,KNApSAcK
+354,C00010121,50868-47-8,Irilone 4'-O-glucoside,C22H20O11,460.10056148,Trifolium pratense,Trifolium,KNApSAcK
+355,C00010122,36191-03-4,Pratensein 7-O-glucoside,C22H22O11,462.11621155,Trifolium spp.,Trifolium,KNApSAcK
+356,C00010159,122130-27-2,Formononetin 7-O-(2''-p-hydroxybenzoylglucoside),C29H26O11,550.14751167,Trifolium repens,Trifolium,KNApSAcK
+357,C00010160,114272-30-9,Calycosin 7-O-galactoside,C22H22O10,446.12129692,Trifolium pratense,Trifolium,KNApSAcK
+358,C00010164,106915-84-8,Genistein 7-O-(2''-p-coumaroylglucoside),C30H26O12,578.1424263,Trifolium repens,Trifolium,KNApSAcK
+359,C00010183,52766-70-8,(-)-Medicocarpin,C22H24O9,432.14203237,Trifolium spp.,Trifolium,KNApSAcK
+360,C00010183,52766-70-8,(-)-Medicocarpin,C22H24O9,432.14203237,Trifolium repens,Trifolium,KNApSAcK
+361,C00010186,6807-83-6,Trifolirhizin,C22H22O10,446.12129692,Trifolium pratense,Trifolium,KNApSAcK
+362,C00010187,114761-94-3,Maackiain 3-O-galactoside,C22H22O10,446.12129692,Trifolium pratense,Trifolium,KNApSAcK
+363,C00014379,197247-00-0,"3,5,7,3',4'-Pentahydroxy- 6'-hydroxymethylflavanone",C16H14O8,334.06886743,Trifolium alexandrium,Trifolium,KNApSAcK
+364,C00018937,81267-65-4,Haginin E,C15H12O3,240.07864425,Trifolium pratense,Trifolium,KNApSAcK
+365,C00019079,714951-96-9,Scanderone,C25H24O5,404.16237388,Trifolium pratense,Trifolium,KNApSAcK
+366,C00019308,474-58-8,3-O-beta-D-Glucopyranosyl sitosterol,C35H60O6,576.43898965,Trifolium resupinatum,Trifolium,KNApSAcK
+367,C00020217,487-24-1,Pratol,C16H12O4,268.07355887,Trifolium pratense,Trifolium,KNApSAcK
+368,C00020647,643-84-5,Malvidin,C17H15O7,331.08177783,Trifolium pratense,Trifolium,KNApSAcK
+369,C00023742,54854-92-1,Stemphone,C30H42O8,530.28796832,Trifolium pratense,Trifolium,KNApSAcK
+370,C00025455,6516-48-9,Oreodine,C22H25NO6,399.16818754,Papaver trifolium Boiss,Trifolium,KNApSAcK
+371,C00029509,19716-26-8,Stigmasterol-3-O-beta-D-glucopyranoside,C35H58O6,574.42333958,Trifolium resupinatum,Trifolium,KNApSAcK
+372,C00029674,98-55-5,alpha-Terpineol,C10H18O,154.1357652,Trifolium repens L.,Trifolium,KNApSAcK
+373,C00029816,79-77-6,beta-Ionone,C13H20O,192.15141526,Trifolium pratense,Trifolium,KNApSAcK
+374,C00029961,621-82-9,Cinnamic acid,C9H8O2,148.0524295,Trifolium pratense,Trifolium,KNApSAcK
+375,C00030480,502-69-2,"6,10,14-Trimethyl-2-pentadecanone",C18H36O,268.27661577,Trifolium pratense,Trifolium,KNApSAcK
+376,C00030828,124-19-6,Nonadienal,C9H18O,142.1357652,Trifolium pratense,Trifolium,KNApSAcK
+377,C00030958,629-99-2,n-Pentacosane,C25H52,352.40690166,Trifolium pratense,Trifolium,KNApSAcK
+378,C00032443,1120-21-4,n-Undecane,C11H24,156.18780077,Trifolium pratense,Trifolium,KNApSAcK
+379,C00032762,130444-08-5,Bersimoside I,C60H98O28,1266.62446255,Trifolium incarnatum,Trifolium,KNApSAcK
+380,C00034452,100-52-7,Benzaldehyde,C7H6O,106.04186481,Trifolium pratense,Trifolium,KNApSAcK
+381,C00034818,6537-80-0,Cichoric acid,C22H18O12,474.07982604,Trifolium repens L.,Trifolium,KNApSAcK
+382,C00035043,80-26-2,alpha-terpineol acetate,C12H20O2,196.14632988,Trifolium repens L.,Trifolium,KNApSAcK
+383,C00035639,544-76-3,Hexadecane,C16H34,226.26605108,Trifolium pratense,Trifolium,KNApSAcK
+384,C00035778,108-38-3,"1,3-Dimethylbenzene",C8H10,106.07825032,Trifolium pratense,Trifolium,KNApSAcK
+385,C00035879,629-59-4,n-Tetradecane,C14H30,198.23475096,Trifolium pratense,Trifolium,KNApSAcK
+386,C00036546,544-12-7,3-Hexen-1-ol,C6H12O,100.08881501,Trifolium pratense,Trifolium,KNApSAcK
+387,C00037051,5948-04-9,Dihydrocarvone,C10H16O,152.12011513,Trifolium pratense,Trifolium,KNApSAcK
+388,C00037587,220493-65-2,Orobanchol,C19H22O6,346.14163844,Trifolium pratense,Trifolium,KNApSAcK
+389,C00037940,263866-54-2,Trifochalcanoloside I,C22H26O10,450.15259705,Trifolium alexandrinum,Trifolium,KNApSAcK
+390,C00037941,263867-58-9,Trifochalcanoloside II,C22H26O11,466.14751167,Trifolium alexandrinum,Trifolium,KNApSAcK
+391,C00037942,263867-60-3,Trifochalcanoloside III,C23H30O12,498.17372642,Trifolium alexandrinum,Trifolium,KNApSAcK
+392,C00040337,55319-36-3,Soyasaponin II,C47H76O17,912.508251,Trifolium resupinatum,Trifolium,KNApSAcK
+393,C00040337,55319-36-3,Soyasaponin II,C47H76O17,912.508251,Trifolium repens,Trifolium,KNApSAcK
+394,C00045682,15575-52-7,Bicoumol,C18H10O6,322.04773805,Trifolium repens,Trifolium,KNApSAcK
+395,C00048375,124-18-5,Decane,C10H22,142.1721507,Trifolium pratense,Trifolium,KNApSAcK
+396,C00048544,86764-13-8,Soyasaponin I methyl ester,C49H80O18,956.53446575,Trifolium repens,Trifolium,KNApSAcK
+397,C00049078,56866-29-6,2'-O-Methylvestitol,C17H18O4,286.12050906,Trifolium spp.,Trifolium,KNApSAcK
+398,C00051588,108-88-3,Toluene,C7H8,92.06260026,Trifolium pratense,Trifolium,KNApSAcK
+399,C00052276,1632-73-1,Fenchol,C10H18O,154.1357652,Trifolium pratense,Trifolium,KNApSAcK
+400,C00052854,82793-03-1,Azukisaponin II,C42H68O14,796.46090688,Trifolium repens,Trifolium,KNApSAcK
+401,C00053792,595-14-2,Soyasapogenol C,C30H48O2,440.36543078,Trifolium repens,Trifolium,KNApSAcK
+402,C00053794,104033-83-2,Soyasapogenol F,C30H50O3,458.37599546,Trifolium pratense,Trifolium,KNApSAcK
+403,C00054019,78-93-3,2-Butanone,C4H8O,72.05751488,Trifolium repens,Trifolium,KNApSAcK
+404,C00054232,72659-75-7,6''-O-Acetylhyperin,C23H22O13,506.10604079,Trifolium repens,Trifolium,KNApSAcK
+405,C00055129,295323-77-2,6''-O-Acetyltrifolin,C23H22O12,490.11112617,Trifolium repens,Trifolium,KNApSAcK
+406,C00055199,143519-23-7,Caraganin B,C36H54O11,662.36661257,Trifolium argutum,Trifolium,KNApSAcK
+407,C00055199,143519-23-7,Caraganin B,C36H54O11,662.36661257,Trifolium repens,Trifolium,KNApSAcK
+408,C00055200,143519-24-8,Cloversaponin III,C42H64O16,824.419436,Trifolium repens,Trifolium,KNApSAcK
+409,C00055201,143519-25-9,Cloversaponin V,C41H62O15,794.40887131,Trifolium repens,Trifolium,KNApSAcK
+410,C00055234,74276-54-3,"3,4',5-Biphenyltriol",C12H10O3,202.06299419,Trifolium repens,Trifolium,KNApSAcK
+411,C00055480,143519-22-6,Cloversaponin I,C36H56O9,632.39243339,Trifolium repens,Trifolium,KNApSAcK
+412,C00055481,123565-44-6,Cloversaponin IV,C41H66O13,766.4503422,Trifolium repens,Trifolium,KNApSAcK
+413,C00055651,340025-95-8,2(4H)-benzofuranone,C8H6O2,134.03677944,Trifolium pratense,Trifolium,KNApSAcK
+414,C00055954,110-27-0,1-Methylethyl tetradecanoate,C17H34O2,270.25588033,Trifolium pratense,Trifolium,KNApSAcK
+415,C00056358,1028459-94-0,Formononetin 7-galactoside,C22H22O9,430.1263823,Trifolium pratense,Trifolium,KNApSAcK
+416,C00056433,1085157-94-3,Genistein 7-galactoside,C21H20O10,432.10564686,Trifolium pratense,Trifolium,KNApSAcK
+417,C00056723,124902-00-7,"2,3-Dihydroxy-2,4-cyclopentadien-1-one",C5H4O3,112.01604399,Trifolium repens,Trifolium,KNApSAcK
+418,C00057076,147710-51-8,Pratenol B,C15H12O7,304.05830274,Trifolium pratense,Trifolium,KNApSAcK
+419,C00057082,147838-41-3,Pratenol A,C14H12O5,260.06847349,Trifolium pratense,Trifolium,KNApSAcK
+420,C00057334,295323-76-1,Myricetin 3-(6-acetylgalactoside),C23H22O14,522.10095541,Trifolium repens,Trifolium,KNApSAcK
+421,C00057900,149048-07-7,"5,6,7,8-Tetrahydroxy-4'-methoxyflavone",C16H12O7,316.05830274,Trifolium repens,Trifolium,KNApSAcK
+422,C00058078,3187-52-8,Variabilin,C17H16O5,300.09977362,Trifolium pratense,Trifolium,KNApSAcK
+423,C00058183,71785-06-3,"5,6,7,8-Tetrahydroxy-3-methoxyflavone",C16H12O7,316.05830274,Trifolium repens,Trifolium,KNApSAcK
+424,C00063619,106-69-4,"1,2,6-Hexanetriol",C6H14O3,134.09429431,Trifolium pratense,Trifolium,KNApSAcK
+425,C00063631,108-85-0,1-Bromocyclohexane,C6H11Br,162.00441325,Trifolium pratense,Trifolium,KNApSAcK
+426,C00063861,142383-27-5,Soyasaponin II methyl ester,C48H78O17,926.52390107,Trifolium repens,Trifolium,KNApSAcK
+427,C00063870,143-28-2,Ocenol,C18H36O,268.27661577,Trifolium pratense,Trifolium,KNApSAcK
+428,C00063874,143519-26-0,Cloversaponin I methyl ester,C37H58O9,646.40808345,Trifolium repens,Trifolium,KNApSAcK
+429,C00063875,143519-29-3,Cloversaponin IV methyl ester,C42H68O13,780.46599226,Trifolium repens,Trifolium,KNApSAcK
+430,C00064174,221054-79-1,Isoequol,C15H14O3,242.09429431,Trifolium pratense,Trifolium,KNApSAcK
+431,C00064206,24157-81-1,"2,6-Diisopropylnaphthalene",C16H20,212.15650064,Trifolium pratense,Trifolium,KNApSAcK
+432,C00064414,56862-62-5,10-Methylnonadecane,C20H42,282.32865134,Trifolium pratense,Trifolium,KNApSAcK
+433,C00064424,59177-47-8,4-Bromo-1-methyl-5-nitroimidazole,C4H4BrN3O2,204.94868929,Trifolium pratense,Trifolium,KNApSAcK
+434,C00064526,75-19-4,Cyclopropane,C3H6,42.04695019,Trifolium pratense,Trifolium,KNApSAcK
+435,C00064585,86361-64-0,Astragaloside VIII,C47H76O17,912.508251,Trifolium repens,Trifolium,KNApSAcK
+0,C00000004,468-44-0,Gibberellin A4,C19H24O5,332.16237388,Malva sylvestris,Malva,KNApSAcK
+1,C00000009,427-77-0,Gibberellin A9,C19H24O4,316.16745925,Malva sylvestris,Malva,KNApSAcK
+2,C00000012,1164-45-0,Gibberellin A12,C20H28O4,332.19875938,Malva sylvestris,Malva,KNApSAcK
+3,C00000015,13744-18-8,Gibberellin A15,C20H26O4,330.18310932,Malva sylvestris,Malva,KNApSAcK
+4,C00000017,18411-79-5,Gibberellin A17,C20H26O7,378.16785319,Malva sylvestris,Malva,KNApSAcK
+5,C00000020,19143-87-4,Gibberellin A20,C19H24O5,332.16237388,Malva sylvestris,Malva,KNApSAcK
+6,C00000044,36434-15-8,Gibberellin A44,C20H26O5,346.17802394,Malva sylvestris,Malva,KNApSAcK
+7,C00000053,51576-08-0,Gibberellin A53,C20H28O5,348.193674,Malva sylvestris,Malva,KNApSAcK
+8,C00000067,105593-16-6,Gibberellin A67,C19H24O6,348.1572885,Malva sylvestris,Malva,KNApSAcK
+9,C00000068,71177-41-8,Gibberellin A68,C19H22O6,346.14163844,Malva sylvestris,Malva,KNApSAcK
+10,C00000152,7400-08-0,p-Coumaric acid,C9H8O3,164.04734412,Malva silvestris,Malva,KNApSAcK
+11,C00000206,69-72-7,Salicylic acid,C7H6O3,138.03169406,Malva silvestris,Malva,KNApSAcK
+12,C00000218,6894-38-8,(-)-Jasmonic acid,C12H18O3,210.12559444,Malva sylvestris,Malva,KNApSAcK
+13,C00000219,1211-29-6,Methyl jasmonate,C13H20O3,224.1412445,Malva sylvestris,Malva,KNApSAcK
+14,C00000856,99-96-7,4-hydroxybenzoic acid,C7H6O3,138.03169406,Malva silvestris,Malva,KNApSAcK
+15,C00002384,16727-30-3,Malvin,C29H35O17,655.1874247,Malva sylvestris,Malva,KNApSAcK
+16,C00002499,92-61-5,Scopoletin,C10H8O4,192.04225874,Malva sylvestris,Malva,KNApSAcK
+17,C00002743,1135-24-6,Ferulic acid,C10H10O4,194.05790881,Malva silvestris,Malva,KNApSAcK
+18,C00003647,474-62-4,Campesterol,C28H48O,400.37051615,Malva parviflora,Malva,KNApSAcK
+19,C00003648,57-88-5,Cholesterol,C27H46O,386.35486609,Malva parviflora,Malva,KNApSAcK
+20,C00003652,57-87-4,Ergosterol,C28H44O,396.33921603,Malva parviflora,Malva,KNApSAcK
+21,C00003674,83-48-7,beta-Stigmasterol,C29H48O,412.37051615,Malva parviflora,Malva,KNApSAcK
+22,C00003737,638-95-9,alpha-Amyrin,C30H50O,426.38616622,Malva parviflora,Malva,KNApSAcK
+23,C00003738,559-70-6,beta-Amyrin,C30H50O,426.38616622,Malva parviflora,Malva,KNApSAcK
+24,C00004427,63109-34-2,8-Hydroxyluteolin 8-glucoside-3'-sulfate,C21H20O15S,544.0522907,Malva sylvestris,Malva,KNApSAcK
+25,C00004434,135010-46-7,8-Hydroxyluteolin 4'-methyl ether 8-glucuronide,C22H20O13,492.09039073,Malva sylvestris,Malva,KNApSAcK
+26,C00004987,,Gossypetin 3-O-sulfate,C15H10O11S,397.99438189,Malva sylvestris,Malva,KNApSAcK
+27,C00006075,63109-35-3,Gossypetin 8-glucoside-3-sulfate,C21H20O16S,560.04720532,Malva sylvestris,Malva,KNApSAcK
+28,C00006076,,Gossypetin 8-glucuronide-3-sulfate,C21H18O17S,574.02646988,Malva sylvestris,Malva,KNApSAcK
+29,C00006614,13306-05-3,Cyanidin,C15H11O6,287.05556308,Malva sylvestris,Malva,KNApSAcK
+30,C00006735,7228-78-6,Oenin,C23H25O12,493.13460127,Malva sylvestris,Malva,KNApSAcK
+31,C00006908,121748-28-5,Malonylmalvin,C32H37O20,741.18781863,Malva sylvestris,Malva,KNApSAcK
+32,C00011685,3600-95-1,Perezone,C15H20O3,248.1412445,Jungia malvaefolia,Malva,KNApSAcK
+33,C00020046,77401-25-3,"2,7-Dihydroxycadalene",C15H18O2,230.13067982,Xanthomonas campestris pv.malvacearum,Malva,KNApSAcK
+34,C00020116,41653-72-9,Lacinilene C,C15H18O3,246.12559444,Xanthomonas campestris pv.malvacearum,Malva,KNApSAcK
+35,C00020254,62885-78-3,Jungianol,C15H20O,216.15141526,Jungia malvaefolia,Malva,KNApSAcK
+36,C00029471,501-97-3,3-(4-Hydroxyphenyl)propionic acid,C9H10O3,166.06299419,Malva silvestris,Malva,KNApSAcK
+37,C00029533,623-05-2,p-Hydroxybenzyl alcohol,C7H8O2,124.0524295,Malva silvestris,Malva,KNApSAcK
+38,C00029536,100-09-4,4-Methoxybenzoic acid,C8H8O3,152.04734412,Malva silvestris,Malva,KNApSAcK
+39,C00034050,915764-62-4,Malvone A,C12H10O5,234.05282343,Malva sylvestris,Malva,KNApSAcK
+40,C00034769,90111-34-5,4-Hydroxy-2-methoxybenzoic acid,C8H8O4,168.04225874,Malva silvestris,Malva,KNApSAcK
+41,C00034770,2901-78-2,4-Hydroxy-3-methoxydihydrocinnamic acid,C17H17NO5,315.11067266,Malva silvestris,Malva,KNApSAcK
+42,C00034908,22153-44-2,Tribuloside,C30H26O13,594.13734092,Malva parviflora,Malva,KNApSAcK
+43,C00051451,47863-30-9,"Malvidin-3,5-diglucoside",C29H35O17,655.1874247,Malva sylvestris,Malva,KNApSAcK
+44,C00056076,13270-60-5,"2-(3,4-Dihydroxy-5-methoxyphenyl)-3,5,7-trihydroxy-1-benzopyrylium(1+)",C16H13O7,317.06612777,Malva sylvestris,Malva,KNApSAcK

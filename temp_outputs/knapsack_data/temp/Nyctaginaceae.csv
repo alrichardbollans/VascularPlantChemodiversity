@@ -1,0 +1,1071 @@
+,C_ID,CAS ID,example_compound_name,Molecular formula,Mw,Organism,knapsack_search_term,Source
+0,C00001016,5128-44-9,"5-Hydroxy-7,4'-dimethoxyflavone",C17H14O5,298.08412356,Mirabilis viscosa,Mirabilis,KNApSAcK
+1,C00001060,491-54-3,Kaempferide,C16H12O6,300.06338812,Mirabilis viscosa,Mirabilis,KNApSAcK
+2,C00001357,59-92-7,"3,4-Dihydroxyphenylalanine",C9H11NO4,197.06880785,Mirabilis jalapa,Mirabilis,KNApSAcK
+3,C00001361,56-40-6,Glycine,C2H5NO2,75.03202841,Mirabilis jalpa,Mirabilis,KNApSAcK
+4,C00001396,73-22-3,L-Tryptophan,C11H12N2O2,204.08987764,Mirabilis jalpa,Mirabilis,KNApSAcK
+5,C00001555,535-83-1,Trigonelline,C7H7NO2,137.04767848,Mirabilis jalapa,Mirabilis,KNApSAcK
+6,C00001582,18766-66-0,Betalamic acid,C9H9NO5,211.04807241,Mirabilis jalapa,Mirabilis,KNApSAcK
+7,C00001591,2181-75-1,Indicaxanthin,C14H16N2O6,308.10083626,Mirabilis jalapa,Mirabilis,KNApSAcK
+8,C00001595,5296-79-7,Miraxanthin I,C14H18N2O7S,358.08347168,Mirabilis jalapa,Mirabilis,KNApSAcK
+9,C00001596,5375-63-3,Miraxanthin II,C13H14N2O8,326.07501544,Mirabilis jalapa,Mirabilis,KNApSAcK
+10,C00001597,5589-85-5,Miraxanthin III,C17H18N2O5,330.1215717,Mirabilis jalapa,Mirabilis,KNApSAcK
+11,C00001598,5375-64-4,Miraxanthin V,C17H18N2O6,346.11648632,Mirabilis jalapa,Mirabilis,KNApSAcK
+12,C00001607,904-62-1,Vulgaxanthin I,C14H17N3O7,339.10664992,Mirabilis jalapa,Mirabilis,KNApSAcK
+13,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Mirabilis jalpa,Mirabilis,KNApSAcK
+14,C00003738,559-70-6,beta-Amyrin,C30H50O,426.38616622,Mirabilis jalpa,Mirabilis,KNApSAcK
+15,C00003867,25739-41-7,Velutin,C17H14O6,314.07903818,Mirabilis viscosa,Mirabilis,KNApSAcK
+16,C00004567,569-92-6,Rhamnocitrin,C16H12O6,300.06338812,Mirabilis viscosa,Mirabilis,KNApSAcK
+17,C00004569,3301-49-3,"Kaempferol 3,7-dimethyl ether",C17H14O6,314.07903818,Mirabilis viscosa,Mirabilis,KNApSAcK
+18,C00004570,20869-95-8,Ermanin,C17H14O6,314.07903818,Mirabilis viscosa,Mirabilis,KNApSAcK
+19,C00004571,15486-33-6,"Kaempferol 7,4'-dimethyl ether",C17H14O6,314.07903818,Mirabilis viscosa,Mirabilis,KNApSAcK
+20,C00004573,15486-34-7,"3,7,4'-Tri-O-methylkaempferol",C18H16O6,328.09468824,Mirabilis viscosa,Mirabilis,KNApSAcK
+21,C00004600,35214-88-1,"3,5,7-Trihydroxy-6,4'-dimethoxyflavone",C17H14O7,330.0739528,Mirabilis viscosa,Mirabilis,KNApSAcK
+22,C00004635,480-19-3,Isorhamnetin,C16H12O7,316.05830274,Mirabilis viscosa,Mirabilis,KNApSAcK
+23,C00004638,2068-02-2,"Quercetin 3,7-dimethyl ether",C17H14O7,330.0739528,Mirabilis viscosa,Mirabilis,KNApSAcK
+24,C00004639,4382-17-6,"3,3'-Dimethylquercetin",C17H14O7,330.0739528,Mirabilis viscosa,Mirabilis,KNApSAcK
+25,C00004642,552-54-5,"Quercetin 7,3'-dimethyl ether",C17H14O7,330.0739528,Mirabilis viscosa,Mirabilis,KNApSAcK
+26,C00004646,33708-72-4,Pachypodol,C18H16O7,344.08960287,Mirabilis viscosa,Mirabilis,KNApSAcK
+27,C00004649,6068-80-0,"Quercetin 7,3',4'-trimethyl ether",C18H16O7,344.08960287,Mirabilis viscosa,Mirabilis,KNApSAcK
+28,C00004653,1245-15-4,"5-Hydroxy-3,7,3',4'-tetramethoxyflavone",C19H18O7,358.10525293,Mirabilis viscosa,Mirabilis,KNApSAcK
+29,C00004693,10173-01-0,Jaceidin,C18H16O8,360.08451749,Mirabilis viscosa,Mirabilis,KNApSAcK
+30,C00009984,117176-19-9,Boeravinone C,C18H16O7,344.08960287,Mirabilis jalapa,Mirabilis,KNApSAcK
+31,C00011816,90039-64-8,"8beta-(2-Methylbutanoyl)-14-hydroxy-1(10),4E,11(13)-germacratrien-12,6beta-olide",C20H28O5,348.193674,Wunderlichia mirabilis,Mirabilis,KNApSAcK
+32,C00012215,80368-05-4,Wunderolide,C20H24O5,344.16237388,Wunderlichia mirabilis,Mirabilis,KNApSAcK
+33,C00012222,70224-78-1,"[S-(E,E)]-5,8,9,11a-Tetrahydro-3,6,10-trimethylcyclodeca[b]furan-2,4-dione",C15H18O3,246.12559444,Wunderlichia mirabilis,Mirabilis,KNApSAcK
+34,C00012863,90039-66-0,"2,3,3a,4,4a,7,8,8a,9,9a-Decahydro-7-hydroxy-5,8a-dimethyl-3-methylene-2-oxonaphtho[2,3-b]furan-8-yl ester 2-methylbutanoic acid",C20H28O5,348.193674,Wunderlichia mirabilis,Mirabilis,KNApSAcK
+35,C00013574,90081-38-2,13-Deoxyisoonoceriolide,C15H18O2,230.13067982,Wunderlichia mirabilis,Mirabilis,KNApSAcK
+36,C00013575,80368-27-0,"[3aS-(3aalpha,4alpha,4aalpha,5aalpha,6aalpha,6bbeta,7abeta)]-Decahydro-4-hydroxy-6b-methyl-3,5-bis(methylene)cycloprop[2,3]indeno[5,6-b]furan-2(3H)-one",C15H18O3,246.12559444,Wunderlichia mirabilis,Mirabilis,KNApSAcK
+37,C00015778,105093-75-2,Gnetin F,C28H24O6,456.1572885,Welwitschia mirabilis,Mirabilis,KNApSAcK
+38,C00015779,105108-08-5,Gnetin G,C28H22O7,470.13655306,Welwitschia mirabilis,Mirabilis,KNApSAcK
+39,C00015780,105132-92-1,Gnetin H,C42H32O9,680.20463262,Welwitschia mirabilis,Mirabilis,KNApSAcK
+40,C00015781,105093-74-1,Gnetin I,C42H32O9,680.20463262,Welwitschia mirabilis,Mirabilis,KNApSAcK
+41,C00019405,137810-40-3,Boeravinone F,C17H10O7,326.04265268,Mirabilis jalapa,Mirabilis,KNApSAcK
+42,C00019747,485811-81-2,Mirabijalone A,C19H18O7,358.10525293,Mirabilis jalapa,Mirabilis,KNApSAcK
+43,C00019748,485811-82-3,Mirabijalone B,C18H14O7,342.0739528,Mirabilis jalapa,Mirabilis,KNApSAcK
+44,C00019749,485811-83-4,Mirabijalone C,C24H26O12,506.1424263,Mirabilis jalapa,Mirabilis,KNApSAcK
+45,C00019750,485811-84-5,Mirabijalone D,C18H14O7,342.0739528,Mirabilis jalapa,Mirabilis,KNApSAcK
+46,C00019751,333798-10-0,9-O-Methyl-4-hydroxyboeravinone B,C18H14O7,342.0739528,Mirabilis jalapa,Mirabilis,KNApSAcK
+47,C00021713,90039-69-3,1-Hydroxymirabolide,C15H22O3,250.15689457,Wunderlichia mirabilis,Mirabilis,KNApSAcK
+48,C00029135,258273-52-8,Tokaramide A,C23H36N6O5,476.2747183,Theonella aff. mirabilis,Mirabilis,KNApSAcK
+49,C00029135,258273-52-8,Tokaramide A,C23H36N6O5,476.2747183,Theonella cf mirabilis,Mirabilis,KNApSAcK
+50,C00032001,564-43-2,Manogenin,C27H42O5,446.30322445,Agave mirabilis,Mirabilis,KNApSAcK
+51,C00039771,960223-81-8,Mirabamide A,C72H114ClN13O25,1595.773734,Siliquariaspongia mirabilis,Mirabilis,KNApSAcK
+52,C00039772,960223-82-9,Mirabamide B,C72H111ClN12O25,1578.7471849,Siliquariaspongia mirabilis,Mirabilis,KNApSAcK
+53,C00039773,960223-83-0,Mirabamide C,C66H104ClN13O21,1449.71582519,Siliquariaspongia mirabilis,Mirabilis,KNApSAcK
+54,C00039774,960223-84-1,Mirabamide D,C72H115N13O25,1561.81270632,Siliquariaspongia mirabilis,Mirabilis,KNApSAcK
+55,C00039775,186648-83-9,Mirabilin,C58H94O28,1238.59316242,Siliquariaspongia mirabilis,Mirabilis,KNApSAcK
+56,C00039776,312322-94-4,Miraziridine A,C30H52N8O9,668.38572532,Theonella aff. mirabilis,Mirabilis,KNApSAcK
+57,C00042483,866365-79-9,Echinamine A,C12H11NO6,265.05863709,Scaphechinus mirabilis,Mirabilis,KNApSAcK
+58,C00042484,866365-80-2,Echinamine B,C12H11NO6,265.05863709,Scaphechinus mirabilis,Mirabilis,KNApSAcK
+59,C00043262,122535-46-0,Aleurodiscal,C30H46O6,502.3294392,Aleurodiscus mirabilis,Mirabilis,KNApSAcK
+60,C00048774,182145-37-5,Mirabilin A,C17H25N3,271.20484782,Siliquariaspongia mirabilis,Mirabilis,KNApSAcK
+61,C00048775,182266-75-7,Mirabilin B,C15H23N3,245.18919776,Siliquariaspongia mirabilis,Mirabilis,KNApSAcK
+62,C00048775,182266-75-7,Mirabilin B,C15H23N3,245.18919776,Arenochalina mirabilis,Mirabilis,KNApSAcK
+63,C00048776,182266-76-8,Mirabilin C,C17H25N3,271.20484782,Siliquariaspongia mirabilis,Mirabilis,KNApSAcK
+64,C00051980,,"4,5-seco-DOPA",C9H11NO6,229.05863709,Mirabilis jalapa,Mirabilis,KNApSAcK
+0,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Pisonia albida,Pisonia,KNApSAcK
+0,C00019734,154512-18-2,Abronisoflavone,C16H12O5,284.06847349,Abronia latifolia,Abronia,KNApSAcK
+0,C00002631,21453-69-0,(+)-Lirioresinol B,C22H26O8,418.16276781,Boerhavia diffusa,Boerhavia,KNApSAcK
+1,C00003992,93290-61-0,"5,7-Dihydroxy-3',4'-dimethoxy-6,8-dimethylflavone",C19H18O6,342.11033831,Boerhavia diffusa,Boerhavia,KNApSAcK
+2,C00009982,106915-82-6,"(-)-4,9,11,12a-Tetrahydroxyrotenone",C16H12O7,316.05830274,Boerhavia coccinea,Boerhavia,KNApSAcK
+3,C00009983,106915-81-5,"(-)-4,11,12a-Trihydroxy-9-methoxyrotenone",C17H14O7,330.0739528,Boerhavia coccinea,Boerhavia,KNApSAcK
+4,C00009984,117176-19-9,Boeravinone C,C18H16O7,344.08960287,Boerhavia diffusa,Boerhavia,KNApSAcK
+5,C00009987,128486-15-7,Repenone,C18H12O8,356.05321736,Boerhavia repens,Boerhavia,KNApSAcK
+6,C00009988,128486-16-8,Repenol,C18H12O9,372.04813198,Boerhavia repens,Boerhavia,KNApSAcK
+7,C00009989,114567-34-9,Boeravinone B,C17H12O6,312.06338812,Boerhavia diffusa,Boerhavia,KNApSAcK
+8,C00009990,114567-33-8,Boeravinone A,C18H14O6,326.07903818,Boerhavia diffusa,Boerhavia,KNApSAcK
+9,C00019163,132915-53-8,Coccineone A,C15H8O6,284.03208799,Boerhavia coccinea,Boerhavia,KNApSAcK
+10,C00019164,135626-13-0,Coccineone B,C16H10O6,298.04773805,Boerhavia coccinea,Boerhavia,KNApSAcK
+11,C00019361,219686-52-9,Diffusarotenoid,C22H20O7,396.12090299,Boerhavia diffusa,Boerhavia,KNApSAcK
+12,C00019362,219686-54-1,Boerhavilanostenyl benzoate,C43H64O8,708.46011902,Boerhavia diffusa,Boerhavia,KNApSAcK
+13,C00019403,137786-99-3,Boeravinone D,C18H14O7,342.0739528,Boerhavia diffusa,Boerhavia,KNApSAcK
+14,C00019404,137787-00-9,Boeravinone E,C17H12O7,328.05830274,Boerhavia diffusa,Boerhavia,KNApSAcK
+15,C00019405,137810-40-3,Boeravinone F,C17H10O7,326.04265268,Boerhavia diffusa,Boerhavia,KNApSAcK
+0,C00002585,524-12-9,Wedelolactone,C16H10O7,314.04265268,Wedelia calendulacea,Wedelia,KNApSAcK
+1,C00003310,5938-03-4,Ivalin,C15H20O3,248.1412445,Wedelia spp.,Wedelia,KNApSAcK
+2,C00004642,552-54-5,"Quercetin 7,3'-dimethyl ether",C17H14O7,330.0739528,Wedelia biflora,Wedelia,KNApSAcK
+3,C00009765,6468-55-9,Demethylwedelolactone,C15H8O7,300.02700261,Wedelia chinensis,Wedelia,KNApSAcK
+4,C00009765,6468-55-9,Demethylwedelolactone,C15H8O7,300.02700261,Wedelia calendulacea,Wedelia,KNApSAcK
+5,C00010052,100288-12-8,Norwedelic acid,C15H10O8,318.0375673,Wedelia calendulacea,Wedelia,KNApSAcK
+6,C00012361,63597-81-9,Simsiolide,C15H20O4,264.13615913,Wedelia trilobata,Wedelia,KNApSAcK
+7,C00014127,207906-24-9,"7,4'-Dihydroxy-8,3'-dimethoxyflavanone",C17H16O6,316.09468824,Wedelia asperrima,Wedelia,KNApSAcK
+8,C00014429,207906-25-0,"2',4',4-Trihydroxy-3',3-methoxychalcone",C17H16O6,316.09468824,Wedelia asperrima,Wedelia,KNApSAcK
+9,C00014508,89648-27-1,Homobutein 4'-O-glucoside,C22H24O10,448.13694699,Wedelia asperrima,Wedelia,KNApSAcK
+10,C00014514,207906-26-1,"2',4',4-Trihydroxy-3',3-dimethoxychalcone 4'-O-glucoside",C23H26O11,478.14751167,Wedelia asperrima,Wedelia,KNApSAcK
+0,C00000091,1637-39-4,trans-Zeatin,C10H13N5O,219.11201007,Bougainvillea root sap,Bougainvillea,KNApSAcK
+1,C00001168,10284-63-6,D-Pinitol,C7H14O6,194.07903818,Bougainvillea glabra,Bougainvillea,KNApSAcK
+2,C00001585,30513-63-4,2'-O-Glucosylbetanin,C30H36N2O18,712.19631236,Bougainvillea x buttiana Mrs. Butt,Bougainvillea,KNApSAcK
+3,C00050878,32100-97-3,Isobetanidin-6-O-beta-sophoroside,C30H36N2O18,712.19631236,Bougainvillea glabra,Bougainvillea,KNApSAcK
+0,C00001357,59-92-7,"3,4-Dihydroxyphenylalanine",C9H11NO4,197.06880785,Mirabilis jalapa,Jalapa,KNApSAcK
+1,C00001555,535-83-1,Trigonelline,C7H7NO2,137.04767848,Mirabilis jalapa,Jalapa,KNApSAcK
+2,C00001582,18766-66-0,Betalamic acid,C9H9NO5,211.04807241,Mirabilis jalapa,Jalapa,KNApSAcK
+3,C00001591,2181-75-1,Indicaxanthin,C14H16N2O6,308.10083626,Mirabilis jalapa,Jalapa,KNApSAcK
+4,C00001595,5296-79-7,Miraxanthin I,C14H18N2O7S,358.08347168,Mirabilis jalapa,Jalapa,KNApSAcK
+5,C00001596,5375-63-3,Miraxanthin II,C13H14N2O8,326.07501544,Mirabilis jalapa,Jalapa,KNApSAcK
+6,C00001597,5589-85-5,Miraxanthin III,C17H18N2O5,330.1215717,Mirabilis jalapa,Jalapa,KNApSAcK
+7,C00001598,5375-64-4,Miraxanthin V,C17H18N2O6,346.11648632,Mirabilis jalapa,Jalapa,KNApSAcK
+8,C00001607,904-62-1,Vulgaxanthin I,C14H17N3O7,339.10664992,Mirabilis jalapa,Jalapa,KNApSAcK
+9,C00009984,117176-19-9,Boeravinone C,C18H16O7,344.08960287,Mirabilis jalapa,Jalapa,KNApSAcK
+10,C00019405,137810-40-3,Boeravinone F,C17H10O7,326.04265268,Mirabilis jalapa,Jalapa,KNApSAcK
+11,C00019747,485811-81-2,Mirabijalone A,C19H18O7,358.10525293,Mirabilis jalapa,Jalapa,KNApSAcK
+12,C00019748,485811-82-3,Mirabijalone B,C18H14O7,342.0739528,Mirabilis jalapa,Jalapa,KNApSAcK
+13,C00019749,485811-83-4,Mirabijalone C,C24H26O12,506.1424263,Mirabilis jalapa,Jalapa,KNApSAcK
+14,C00019750,485811-84-5,Mirabijalone D,C18H14O7,342.0739528,Mirabilis jalapa,Jalapa,KNApSAcK
+15,C00019751,333798-10-0,9-O-Methyl-4-hydroxyboeravinone B,C18H14O7,342.0739528,Mirabilis jalapa,Jalapa,KNApSAcK
+16,C00051980,,"4,5-seco-DOPA",C9H11NO6,229.05863709,Mirabilis jalapa,Jalapa,KNApSAcK
+0,C00000136,470-82-6,"1,8-Cineol",C10H18O,154.1357652,Valeriana officinalis,Valeriana,KNApSAcK
+1,C00000149,6750-60-3,Espatulenol,C15H24O,220.18271539,Valeriana officinalis,Valeriana,KNApSAcK
+2,C00000155,89-83-8,m-Thymol,C10H14O,150.10446507,Valeriana officinalis,Valeriana,KNApSAcK
+3,C00000163,473-16-5,alpha-Eudesmol,C15H26O,222.19836545,Valeriana officinalis,Valeriana,KNApSAcK
+4,C00000164,473-15-4,(+)-beta-Eudesmol,C15H26O,222.19836545,Valeriana officinalis,Valeriana,KNApSAcK
+5,C00000184,2867-05-2,alpha-Thujene,C10H16,136.12520051,Valeriana jatamansi,Valeriana,KNApSAcK
+6,C00000184,2867-05-2,alpha-Thujene,C10H16,136.12520051,Valeriana officinalis,Valeriana,KNApSAcK
+7,C00000218,6894-38-8,(-)-Jasmonic acid,C12H18O3,210.12559444,Valeriana officinalis,Valeriana,KNApSAcK
+8,C00000219,1211-29-6,Methyl jasmonate,C13H20O3,224.1412445,Valeriana officinalis,Valeriana,KNApSAcK
+9,C00000357,66-25-1,Hexanal,C6H12O,100.08881501,Valeriana officinalis,Valeriana,KNApSAcK
+10,C00000580,501-98-4,(E)-p-Coumaric acid,C9H8O3,164.04734412,Valeriana officinalis,Valeriana,KNApSAcK
+11,C00000615,501-16-6,Caffeic acid,C9H8O4,180.04225874,Valeriana jatamansii,Valeriana,KNApSAcK
+12,C00000615,501-16-6,Caffeic acid,C9H8O4,180.04225874,Valeriana officinalis,Valeriana,KNApSAcK
+13,C00000619,97-53-0,Eugenol,C10H12O2,164.08372963,Valeriana officinalis,Valeriana,KNApSAcK
+14,C00000674,491-70-3,"5,7,3',4'-Tetrahydroxyflavone",C15H10O6,286.04773805,Valeriana amurensis,Valeriana,KNApSAcK
+15,C00000682,2955-23-9,Olivil,C20H24O7,376.15220312,Valeriana officinalis,Valeriana,KNApSAcK
+16,C00000805,80-56-8,alpha-Pinene,C10H16,136.12520051,Valeriana jatamansii,Valeriana,KNApSAcK
+17,C00000805,80-56-8,alpha-Pinene,C10H16,136.12520051,Valeriana officinalis var.latifolia,Valeriana,KNApSAcK
+18,C00000816,127-91-3,beta-Pinene,C10H16,136.12520051,Valeriana officinalis var.latifolia,Valeriana,KNApSAcK
+19,C00000819,76-22-2,(+)-Camphor,C10H16O,152.12011513,Valeriana jatamansi,Valeriana,KNApSAcK
+20,C00000819,76-22-2,(+)-Camphor,C10H16O,152.12011513,Valeriana officinalis,Valeriana,KNApSAcK
+21,C00000823,138-86-3,Limonene,C10H16,136.12520051,Valeriana jatamansi,Valeriana,KNApSAcK
+22,C00000823,138-86-3,Limonene,C10H16,136.12520051,Valeriana officinalis,Valeriana,KNApSAcK
+23,C00000831,471-16-9,Sabinol,C10H16O,152.12011513,Valeriana officinalis,Valeriana,KNApSAcK
+24,C00000831,471-16-9,Sabinol,C10H16O,152.12011513,Valeriana jatamansi,Valeriana,KNApSAcK
+25,C00000839,13466-78-9,3-Carene,C10H16,136.12520051,Valeriana officinalis,Valeriana,KNApSAcK
+26,C00000842,20347-65-3,(+)-Bornyl acetate,C12H20O2,196.14632988,Valeriana officinalis,Valeriana,KNApSAcK
+27,C00000844,106-22-9,Citronellol,C10H20O,156.15141526,Valeriana officinalis,Valeriana,KNApSAcK
+28,C00000848,358-71-4,Isopentenyl diphosphate,C5H12O7P2,246.00582572,Valeriana officinalis,Valeriana,KNApSAcK
+29,C00000853,123-35-3,beta-Myrcene,C10H16,136.12520051,Valeriana officinalis,Valeriana,KNApSAcK
+30,C00000861,586-62-9,alpha-Terpinolene,C10H16,136.12520051,Valeriana officinalis,Valeriana,KNApSAcK
+31,C00000907,13058-04-3,Farnesyl pyrophosphate,C15H28O7P2,382.13102623,Valeriana officinalis,Valeriana,KNApSAcK
+32,C00000908,6699-20-3,Geranylgeranyl diphosphate,C20H36O7P2,450.19362648,Valeriana officinalis,Valeriana,KNApSAcK
+33,C00001036,520-34-3,Diosmetin,C16H12O6,300.06338812,Valeriana spryginii,Valeriana,KNApSAcK
+34,C00001036,520-34-3,Diosmetin,C16H12O6,300.06338812,Valeriana laxiflora,Valeriana,KNApSAcK
+35,C00001096,27782-63-4,Santin,C18H16O7,344.08960287,Valeriana laxiflora,Valeriana,KNApSAcK
+36,C00001189,503-74-2,3-Methylbutanoic acid,C5H10O2,102.06807956,Valeriana spp.,Valeriana,KNApSAcK
+37,C00001189,503-74-2,3-Methylbutanoic acid,C5H10O2,102.06807956,Valeriana officinalis,Valeriana,KNApSAcK
+38,C00001208,109-52-4,pentanoic acid,C5H10O2,102.06807956,Valeriana officinalis,Valeriana,KNApSAcK
+39,C00001211,112-85-6,Behenic acid,C22H44O2,340.33413065,Valeriana officinalis,Valeriana,KNApSAcK
+40,C00001232,112-80-1,Oleic acid,C18H34O2,282.25588033,Valeriana officinalis,Valeriana,KNApSAcK
+41,C00001233,57-10-3,Palmitic acid,C16H32O2,256.24023027,Valeriana officinalis,Valeriana,KNApSAcK
+42,C00001265,629-62-9,n-Pentadecane,C15H32,212.25040102,Valeriana officinalis,Valeriana,KNApSAcK
+43,C00001961,524-03-8,Actinidine,C10H13N,147.10479942,Valeriana officinalis,Valeriana,KNApSAcK
+44,C00001979,15794-92-0,N-(p-Hydroxyphenethyl)actinidine,C18H22NO,268.17013933,Valeriana officinalis,Valeriana,KNApSAcK
+45,C00001986,30634-66-3,Valerianine,C11H15NO,177.11536411,Valeriana officinalis,Valeriana,KNApSAcK
+46,C00002568,83-79-4,Rotenone,C23H22O6,394.14163844,Valeriana officinalis,Valeriana,KNApSAcK
+47,C00002647,149-91-7,Gallic acid,C7H6O5,170.0215233,Valeriana officinalis,Valeriana,KNApSAcK
+48,C00002724,327-97-9,3-O-Caffeoylquinic acid,C16H18O9,354.09508217,Valeriana jatamansii,Valeriana,KNApSAcK
+49,C00002724,327-97-9,3-O-Caffeoylquinic acid,C16H18O9,354.09508217,Valeriana prionophylla,Valeriana,KNApSAcK
+50,C00002727,531-29-3,Coniferin,C16H22O8,342.13146768,Valeriana officinalis,Valeriana,KNApSAcK
+51,C00002743,1135-24-6,Ferulic acid,C10H10O4,194.05790881,Valeriana officinalis,Valeriana,KNApSAcK
+52,C00002743,1135-24-6,Ferulic acid,C10H10O4,194.05790881,Valeriana laxiflora,Valeriana,KNApSAcK
+53,C00002752,537-73-5,Isoferulic acid,C10H10O4,194.05790881,Valeriana officinalis,Valeriana,KNApSAcK
+54,C00003028,507-70-0,Borneol,C10H18O,154.1357652,Valeriana jatamansi,Valeriana,KNApSAcK
+55,C00003028,507-70-0,Borneol,C10H18O,154.1357652,Valeriana officinalis,Valeriana,KNApSAcK
+56,C00003029,79-92-5,Camphene,C10H16,136.12520051,Valeriana officinalis,Valeriana,KNApSAcK
+57,C00003040,99-87-6,p-Cymene,C10H14,134.10955045,Valeriana jatamansii,Valeriana,KNApSAcK
+58,C00003040,99-87-6,p-Cymene,C10H14,134.10955045,Valeriana jatamansi,Valeriana,KNApSAcK
+59,C00003040,99-87-6,p-Cymene,C10H14,134.10955045,Valeriana officinalis var.latifolia,Valeriana,KNApSAcK
+60,C00003047,78-70-6,(+-)-Linalool,C10H18O,154.1357652,Valeriana officinalis,Valeriana,KNApSAcK
+61,C00003050,2111-75-3,Perilla aldehyde,C10H14O,150.10446507,Valeriana officinalis,Valeriana,KNApSAcK
+62,C00003060,99-86-5,alpha-Terpinene,C10H16,136.12520051,Valeriana officinalis,Valeriana,KNApSAcK
+63,C00003061,99-85-4,gamma-Terpinene,C10H16,136.12520051,Valeriana officinalis,Valeriana,KNApSAcK
+64,C00003078,18296-45-2,Didrovaltrate,C22H32O8,424.209718,Valeriana jatamansi,Valeriana,KNApSAcK
+65,C00003078,18296-45-2,Didrovaltrate,C22H32O8,424.209718,Valeriana spp.,Valeriana,KNApSAcK
+66,C00003101,18296-44-1,Valtrate,C22H30O8,422.19406794,Valeriana officinalis,Valeriana,KNApSAcK
+67,C00003101,18296-44-1,Valtrate,C22H30O8,422.19406794,Valeriana micropterina,Valeriana,KNApSAcK
+68,C00003101,18296-44-1,Valtrate,C22H30O8,422.19406794,Valeriana priophylla,Valeriana,KNApSAcK
+69,C00003101,18296-44-1,Valtrate,C22H30O8,422.19406794,Valeriana sorbifolia,Valeriana,KNApSAcK
+70,C00003101,18296-44-1,Valtrate,C22H30O8,422.19406794,Valeriana condamoana,Valeriana,KNApSAcK
+71,C00003101,18296-44-1,Valtrate,C22H30O8,422.19406794,Valeriana spp.,Valeriana,KNApSAcK
+72,C00003101,18296-44-1,Valtrate,C22H30O8,422.19406794,Valeriana wallichi,Valeriana,KNApSAcK
+73,C00003101,18296-44-1,Valtrate,C22H30O8,422.19406794,Valeriana jatamansi,Valeriana,KNApSAcK
+74,C00003101,18296-44-1,Valtrate,C22H30O8,422.19406794,Valeriana pulchella,Valeriana,KNApSAcK
+75,C00003110,87-44-5,beta-Caryophyllene,C15H24,204.18780077,Valeriana jatamansi,Valeriana,KNApSAcK
+76,C00003110,87-44-5,beta-Caryophyllene,C15H24,204.18780077,Valeriana officinalis,Valeriana,KNApSAcK
+77,C00003116,18431-82-8,beta-Chamigrene,C15H24,204.18780077,Valeriana officinalis,Valeriana,KNApSAcK
+78,C00003118,3856-25-5,alpha-Copaene,C15H24,204.18780077,Valeriana officinalis,Valeriana,KNApSAcK
+79,C00003134,15423-57-1,Germacrene B,C15H24,204.18780077,Valeriana officinalis,Valeriana,KNApSAcK
+80,C00003139,489-86-1,Guaiol,C15H26O,222.19836545,Valeriana officinalis,Valeriana,KNApSAcK
+81,C00003139,489-86-1,Guaiol,C15H26O,222.19836545,Valeriana jatamansi,Valeriana,KNApSAcK
+82,C00003147,6753-98-6,alpha-Caryophyllene (obsol.),C15H24,204.18780077,Valeriana jatamansi,Valeriana,KNApSAcK
+83,C00003147,6753-98-6,alpha-Caryophyllene (obsol.),C15H24,204.18780077,Valeriana officinalis,Valeriana,KNApSAcK
+84,C00003161,577-27-5,Ledol,C15H26O,222.19836545,Valeriana jatamansi,Valeriana,KNApSAcK
+85,C00003161,577-27-5,Ledol,C15H26O,222.19836545,Valeriana officinalis,Valeriana,KNApSAcK
+86,C00003166,142-50-7,Nerolidol,C15H26O,222.19836545,Valeriana officinalis,Valeriana,KNApSAcK
+87,C00003166,142-50-7,Nerolidol,C15H26O,222.19836545,Valeriana jatamansi,Valeriana,KNApSAcK
+88,C00003168,5986-55-0,Patchouli alcohol,C15H26O,222.19836545,Valeriana officinalis,Valeriana,KNApSAcK
+89,C00003186,17066-67-0,beta-Eudesmene,C15H24,204.18780077,Valeriana officinalis,Valeriana,KNApSAcK
+90,C00003197,3569-10-6,Valerenic acid,C15H22O2,234.16197995,Valeriana officinalis,Valeriana,KNApSAcK
+91,C00003197,3569-10-6,Valerenic acid,C15H22O2,234.16197995,Valeriana hardwickii,Valeriana,KNApSAcK
+92,C00003203,14912-44-8,alpha-Ylangene,C15H24,204.18780077,Valeriana officinalis,Valeriana,KNApSAcK
+93,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Valeriana officinalis,Valeriana,KNApSAcK
+94,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Valeriana laxiflora,Valeriana,KNApSAcK
+95,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Valeriana laxiflora,Valeriana,KNApSAcK
+96,C00003820,480-44-4,Acacetin,C16H12O5,284.06847349,Valeriana spryginii,Valeriana,KNApSAcK
+97,C00003820,480-44-4,Acacetin,C16H12O5,284.06847349,Valeriana chionophila,Valeriana,KNApSAcK
+98,C00003820,480-44-4,Acacetin,C16H12O5,284.06847349,Valeriana fedtschenkoi,Valeriana,KNApSAcK
+99,C00004157,17306-46-6,Rhoifolin,C27H30O14,578.16355567,Valeriana hardwickii,Valeriana,KNApSAcK
+100,C00004205,480-36-4,Acacetin-7-O-rutinoside,C28H32O14,592.17920573,Valeriana hardwickii,Valeriana,KNApSAcK
+101,C00004211,63947-68-2,Acacetin 7-[2'''-(2-methylbutyryl)rutinoside],C33H40O15,676.23672061,Valeriana wallichii,Valeriana,KNApSAcK
+102,C00004212,63947-69-3,Acacetin 7-[3'''-(2-methylbutyryl)rutinoside],C33H40O15,676.23672061,Valeriana wallichii,Valeriana,KNApSAcK
+103,C00004266,5373-11-5,Cinaroside,C21H20O11,448.10056148,Valeriana fedtschenkoi,Valeriana,KNApSAcK
+104,C00004266,5373-11-5,Cinaroside,C21H20O11,448.10056148,Valeriana chionophila,Valeriana,KNApSAcK
+105,C00004631,117-39-5,Quercetin,C15H10O7,302.04265268,Valeriana officinalis,Valeriana,KNApSAcK
+106,C00005374,522-12-3,Quercetin 3-O-alpha-L-rhamnoside,C21H20O11,448.10056148,Valeriana chionophila,Valeriana,KNApSAcK
+107,C00005374,522-12-3,Quercetin 3-O-alpha-L-rhamnoside,C21H20O11,448.10056148,Valeriana fedtschenkoi,Valeriana,KNApSAcK
+108,C00006614,13306-05-3,Cyanidin,C15H11O6,287.05556308,Valeriana spryginii,Valeriana,KNApSAcK
+109,C00007190,487-36-5,(+)-Pinoresinol,C20H22O6,358.14163844,Valeriana officinalis,Valeriana,KNApSAcK
+110,C00007191,81426-17-7,(+)-8-Hydroxypinoresinol,C20H22O7,374.13655306,Valeriana laxiflora,Valeriana,KNApSAcK
+111,C00007191,81426-17-7,(+)-8-Hydroxypinoresinol,C20H22O7,374.13655306,Valeriana prionophylla,Valeriana,KNApSAcK
+112,C00007191,81426-17-7,(+)-8-Hydroxypinoresinol,C20H22O7,374.13655306,Valeriana officinalis,Valeriana,KNApSAcK
+113,C00007242,495-61-4,beta-Bisabolene,C15H24,204.18780077,Valeriana officinalis,Valeriana,KNApSAcK
+114,C00007268,372-97-4,"(2E,6E)-Farnesyl diphosphate",C15H28O7P2,382.13102623,Valeriana officinalis,Valeriana,KNApSAcK
+115,C00007453,33880-83-0,beta-Elemene,C15H24,204.18780077,Valeriana officinalis,Valeriana,KNApSAcK
+116,C00007636,483-76-1,delta-Cadinene,C15H24,204.18780077,Valeriana officinalis,Valeriana,KNApSAcK
+117,C00007636,483-76-1,delta-Cadinene,C15H24,204.18780077,Ocotea valeriana,Valeriana,KNApSAcK
+118,C00010581,31078-10-1,Isovaltrate,C22H30O8,422.19406794,Valeriana condamoana,Valeriana,KNApSAcK
+119,C00010581,31078-10-1,Isovaltrate,C22H30O8,422.19406794,Valeriana edulis,Valeriana,KNApSAcK
+120,C00010581,31078-10-1,Isovaltrate,C22H30O8,422.19406794,Valeriana jatamansi,Valeriana,KNApSAcK
+121,C00010581,31078-10-1,Isovaltrate,C22H30O8,422.19406794,Valeriana jatamansii,Valeriana,KNApSAcK
+122,C00010581,31078-10-1,Isovaltrate,C22H30O8,422.19406794,Valeriana micropterina,Valeriana,KNApSAcK
+123,C00010581,31078-10-1,Isovaltrate,C22H30O8,422.19406794,Valeriana pulchella,Valeriana,KNApSAcK
+124,C00010581,31078-10-1,Isovaltrate,C22H30O8,422.19406794,Valeriana officinalis,Valeriana,KNApSAcK
+125,C00010581,31078-10-1,Isovaltrate,C22H30O8,422.19406794,Valeriana priophylla,Valeriana,KNApSAcK
+126,C00010581,31078-10-1,Isovaltrate,C22H30O8,422.19406794,Valeriana sorbifolia,Valeriana,KNApSAcK
+127,C00010586,64703-85-1,Kanokoside A,C21H32O12,476.18937649,Valeriana officinalis,Valeriana,KNApSAcK
+128,C00010587,64703-87-3,Kanokoside C,C27H42O17,638.24219992,Valeriana officinalis,Valeriana,KNApSAcK
+129,C00010645,53962-20-2,Patrinoside,C21H34O11,462.21011193,Valeriana officinalis,Valeriana,KNApSAcK
+130,C00010647,64703-88-4,Kanokoside D,C27H44O16,624.26293536,Valeriana officinalis,Valeriana,KNApSAcK
+131,C00010723,29505-31-5,Valerosidate,C21H34O11,462.21011193,Valeriana spp.,Valeriana,KNApSAcK
+132,C00010723,29505-31-5,Valerosidate,C21H34O11,462.21011193,Valeriana jatamansi,Valeriana,KNApSAcK
+133,C00010723,29505-31-5,Valerosidate,C21H34O11,462.21011193,Valeriana officinalis,Valeriana,KNApSAcK
+134,C00010723,29505-31-5,Valerosidate,C21H34O11,462.21011193,Valeriana jatamansii,Valeriana,KNApSAcK
+135,C00010724,25161-41-5,Acevaltrate,C24H32O10,480.19954724,Valeriana jatamansi,Valeriana,KNApSAcK
+136,C00010724,25161-41-5,Acevaltrate,C24H32O10,480.19954724,Valeriana spp,Valeriana,KNApSAcK
+137,C00010724,25161-41-5,Acevaltrate,C24H32O10,480.19954724,Valeriana spp.,Valeriana,KNApSAcK
+138,C00010724,25161-41-5,Acevaltrate,C24H32O10,480.19954724,Valeriana wallichi,Valeriana,KNApSAcK
+139,C00010724,25161-41-5,Acevaltrate,C24H32O10,480.19954724,Valeriana officinalis,Valeriana,KNApSAcK
+140,C00010866,1076-56-8,3-Methoxy-p-cymene,C11H16O,164.12011513,Valeriana officinalis,Valeriana,KNApSAcK
+141,C00010868,5989-27-5,(+)-Limonene,C10H16,136.12520051,Valeriana jatamansii,Valeriana,KNApSAcK
+142,C00010868,5989-27-5,(+)-Limonene,C10H16,136.12520051,Valeriana officinalis var.latifolia,Valeriana,KNApSAcK
+143,C00010872,555-10-2,beta-Phellandrene,C10H16,136.12520051,Valeriana officinalis,Valeriana,KNApSAcK
+144,C00010874,99-84-3,beta-Terpinen,C10H16,136.12520051,Valeriana officinalis,Valeriana,KNApSAcK
+145,C00010934,586-82-3,p-Menth-3-en-1-ol,C10H18O,154.1357652,Valeriana officinalis,Valeriana,KNApSAcK
+146,C00011058,471-84-1,(-)-alpha-Fenchene,C10H16,136.12520051,Valeriana officinalis,Valeriana,KNApSAcK
+147,C00011067,508-32-7,Teresantanane,C10H16,136.12520051,Valeriana officinalis,Valeriana,KNApSAcK
+148,C00011153,476-66-4,Ellagic acid,C14H6O8,302.00626717,Valeriana officinalis,Valeriana,KNApSAcK
+149,C00011717,34323-15-4,Germacrene C,C15H24,204.18780077,Valeriana officinalis,Valeriana,KNApSAcK
+150,C00011720,23986-74-5,(-)-Germacrene D,C15H24,204.18780077,Valeriana officinalis,Valeriana,KNApSAcK
+151,C00011720,23986-74-5,(-)-Germacrene D,C15H24,204.18780077,Ocotea valeriana,Valeriana,KNApSAcK
+152,C00012005,639-99-6,(-)-Elemol,C15H26O,222.19836545,Valeriana officinalis,Valeriana,KNApSAcK
+153,C00012011,20307-84-0,delta-Elemene,C15H24,204.18780077,Valeriana officinalis,Valeriana,KNApSAcK
+154,C00012012,29873-99-2,(-)-gamma-Elemene,C15H24,204.18780077,Valeriana officinalis,Valeriana,KNApSAcK
+155,C00012014,5951-67-7,alpha-Elemene,C15H24,204.18780077,Valeriana officinalis,Valeriana,KNApSAcK
+156,C00012425,24703-35-3,(+)-Bicyclogermacrene,C15H24,204.18780077,Valeriana officinalis,Valeriana,KNApSAcK
+157,C00012471,68832-35-9,(+)-9-epi-beta-Caryophyllene,C15H24,204.18780077,Valeriana officinalis,Valeriana,KNApSAcK
+158,C00012483,1139-30-6,(-)-beta-Caryophyllene epoxide,C15H24O,220.18271539,Valeriana officinalis,Valeriana,KNApSAcK
+159,C00012813,16641-47-7,Kongol,C15H26O,222.19836545,Valeriana officinalis L.,Valeriana,KNApSAcK
+160,C00013329,520-32-1,Tricin,C17H14O7,330.0739528,Valeriana laxiflora,Valeriana,KNApSAcK
+161,C00013386,5526-57-8,6-Methylapigenin,C16H12O5,284.06847349,Valeriana wallichii,Valeriana,KNApSAcK
+162,C00013627,194602-91-0,Acacetin 7-(2G-rhamnosyl)-rutinoside,C34H42O18,738.23711454,Valeriana hardwickii,Valeriana,KNApSAcK
+163,C00016959,527-90-2,(+)-Maaliol,C15H26O,222.19836545,Valeriana wallichii,Valeriana,KNApSAcK
+164,C00016959,527-90-2,(+)-Maaliol,C15H26O,222.19836545,Valeriana officinalis,Valeriana,KNApSAcK
+165,C00016987,4674-50-4,(+)-Nootkatone,C15H22O,218.16706532,Valeriana officinalis,Valeriana,KNApSAcK
+166,C00016987,4674-50-4,(+)-Nootkatone,C15H22O,218.16706532,Valeriana jatamansi,Valeriana,KNApSAcK
+167,C00016999,20489-45-6,(+)-Valerianol,C15H26O,222.19836545,Valeriana officinalis,Valeriana,KNApSAcK
+168,C00017513,2658-82-4,Fauronyl acetate,C17H28O3,280.20384476,Valeriana officinalis var. latifolia,Valeriana,KNApSAcK
+169,C00017514,2649-70-9,Kanokonol,C15H26O2,238.19328007,Valeriana wallichi,Valeriana,KNApSAcK
+170,C00017514,2649-70-9,Kanokonol,C15H26O2,238.19328007,Valeriana wallichii,Valeriana,KNApSAcK
+171,C00017515,5090-54-0,(-)-Valeranone,C15H26O,222.19836545,Valeriana officinalis,Valeriana,KNApSAcK
+172,C00019064,508-02-1,Oleanolic acid,C30H48O3,456.3603454,Valeriana laxiflora,Valeriana,KNApSAcK
+173,C00020065,481-34-5,(-)-alpha-Cadinol,C15H26O,222.19836545,Ocotea valeriana,Valeriana,KNApSAcK
+174,C00020066,5937-11-1,epi-alpha-Cadinol,C15H26O,222.19836545,Valeriana officinalis,Valeriana,KNApSAcK
+175,C00020067,21391-99-1,alpha-Calacorene,C15H20,200.15650064,Valeriana officinalis,Valeriana,KNApSAcK
+176,C00020130,24268-39-1,gamma-Muurolene,C15H24,204.18780077,Valeriana officinalis,Valeriana,KNApSAcK
+177,C00020135,105661-29-8,14-Hydroxy alpha-muurolene,C15H24O,220.18271539,Valeriana officinalis,Valeriana,KNApSAcK
+178,C00020354,103223-36-5,Cyclokessyl acetate,C17H26O3,278.1881947,Valeriana fauriei,Valeriana,KNApSAcK
+179,C00020377,3691-12-1,alpha-Guaiene,C15H24,204.18780077,Valeriana officinalis,Valeriana,KNApSAcK
+180,C00020395,87827-55-2,Alismol,C15H24O,220.18271539,Valeriana officinalis,Valeriana,KNApSAcK
+181,C00020409,6090-27-3,Nardol,C15H26O,222.19836545,Valeriana sp.,Valeriana,KNApSAcK
+182,C00020421,6894-57-1,Kessoglycol,C15H26O3,254.1881947,Valeriana officinalis,Valeriana,KNApSAcK
+183,C00020422,3321-65-1,alpha-Kessyl alcohol,C15H26O2,238.19328007,Valeriana officinalis,Valeriana,KNApSAcK
+184,C00020423,3321-66-2,Kessane,C15H26O,222.19836545,Valeriana officinalis,Valeriana,KNApSAcK
+185,C00021213,489-41-8,(-)-Globulol,C15H26O,222.19836545,Valeriana officinalis,Valeriana,KNApSAcK
+186,C00021220,21747-46-6,Viridiflorene,C15H24,204.18780077,Valeriana officinalis,Valeriana,KNApSAcK
+187,C00021227,489-40-7,alpha-Gurjunene,C15H24,204.18780077,Valeriana officinalis,Valeriana,KNApSAcK
+188,C00021229,25246-27-9,allo-Aromadendrene,C15H24,204.18780077,Valeriana officinalis,Valeriana,KNApSAcK
+189,C00021290,514-51-2,beta-Patchoulene,C15H24,204.18780077,Valeriana wallichii,Valeriana,KNApSAcK
+190,C00021291,1619-16-5,Valerenolic acid,C15H22O3,250.15689457,Valeriana officinalis,Valeriana,KNApSAcK
+191,C00021292,84638-55-1,Acetylvalerenolic acid,C17H24O4,292.16745925,Valeriana officinalis,Valeriana,KNApSAcK
+192,C00021294,101628-22-2,Valerenol,C15H24O,220.18271539,Valeriana officinalis,Valeriana,KNApSAcK
+193,C00021295,4176-16-3,Valerenal,C15H22O,218.16706532,Valeriana officinalis,Valeriana,KNApSAcK
+194,C00021434,84014-68-6,(+)-Pacifigorgiol,C15H26O,222.19836545,Valeriana officinalis,Valeriana,KNApSAcK
+195,C00021435,90988-77-5,(-)-Pacifigorgiol,C15H26O,222.19836545,Valeriana officinalis,Valeriana,KNApSAcK
+196,C00021436,90138-52-6,Tamariscol,C15H26O,222.19836545,Valeriana officinalis,Valeriana,KNApSAcK
+197,C00021833,56684-97-0,beta-Panasinsene,C15H24,204.18780077,Valeriana jatamansii,Valeriana,KNApSAcK
+198,C00021917,21682-87-1,Faurinone,C15H26O,222.19836545,Valeriana officinalis,Valeriana,KNApSAcK
+199,C00021963,6892-80-4,Widdrol,C15H26O,222.19836545,Valeriana officinalis,Valeriana,KNApSAcK
+200,C00021968,4586-22-5,alpha-Caryophyllene alcohol,C15H26O,222.19836545,Valeriana officinalis,Valeriana,KNApSAcK
+201,C00029349,87978-33-4,(Z)-alpha-trans-Bergamotol acetate,C17H26O2,262.19328007,Valeriana officinalis,Valeriana,KNApSAcK
+202,C00029369,15051-81-7,10-epi-gamma-Eudesmol,C15H26O,222.19836545,Valeriana officinalis,Valeriana,KNApSAcK
+203,C00029544,562-74-3,4-Terpineol,C10H18O,154.1357652,Valeriana officinalis,Valeriana,KNApSAcK
+204,C00029633,7372-30-7,Acetylursolic acid,C32H50O4,498.37091008,Valeriana laxiflora,Valeriana,KNApSAcK
+205,C00029674,98-55-5,alpha-Terpineol,C10H18O,154.1357652,Valeriana jatamansi,Valeriana,KNApSAcK
+206,C00029674,98-55-5,alpha-Terpineol,C10H18O,154.1357652,Valeriana officinalis var.latifolia,Valeriana,KNApSAcK
+207,C00029816,79-77-6,beta-Ionone,C13H20O,192.15141526,Valeriana officinalis,Valeriana,KNApSAcK
+208,C00029844,76-49-3,Borneol acetate,C12H20O2,196.14632988,Valeriana jatamansi,Valeriana,KNApSAcK
+209,C00029844,76-49-3,Borneol acetate,C12H20O2,196.14632988,Valeriana officinalis,Valeriana,KNApSAcK
+210,C00030345,39029-41-9,gamma-Cadinene,C15H24,204.18780077,Valeriana officinalis,Valeriana,KNApSAcK
+211,C00030755,112-39-0,Methyl hexadecanoate,C17H34O2,270.25588033,Valeriana officinalis,Valeriana,KNApSAcK
+212,C00031031,69251-96-3,Pinoresinol O-beta-D-glucopyranoside,C26H32O11,520.19446187,Valeriana officinalis,Valeriana,KNApSAcK
+213,C00031032,63902-38-5,(+)-Pinoresinol di-O-beta-D-glucopyranoside,C32H42O16,682.2472853,Valeriana officinalis,Valeriana,KNApSAcK
+214,C00031258,3387-41-5,4(10)-Thujene,C10H16,136.12520051,Valeriana jatamansi,Valeriana,KNApSAcK
+215,C00031258,3387-41-5,4(10)-Thujene,C10H16,136.12520051,Valeriana officinalis,Valeriana,KNApSAcK
+216,C00032470,351222-66-7,"Valerena-4,7(11)-diene",C15H24,204.18780077,Valeriana officinalis,Valeriana,KNApSAcK
+217,C00033916,23811-08-7,Hinesol,C15H26O,222.19836545,Valeriana officinalis,Valeriana,KNApSAcK
+218,C00034456,73464-47-8,beta-Gurjunene,C15H24,204.18780077,Valeriana officinalis,Valeriana,KNApSAcK
+219,C00034456,73464-47-8,beta-Gurjunene,C15H24,204.18780077,Valeriana jatamansi,Valeriana,KNApSAcK
+220,C00034741,4630-07-3,Valencene,C15H24,204.18780077,Valeriana officinalis,Valeriana,KNApSAcK
+221,C00035043,80-26-2,alpha-terpineol acetate,C12H20O2,196.14632988,Valeriana officinalis,Valeriana,KNApSAcK
+222,C00035098,78148-59-1,epi-alpha-Bisabolol,C15H26O,222.19836545,Valeriana officinalis,Valeriana,KNApSAcK
+223,C00035439,10067-28-4,cis-Lanceol,C15H24O,220.18271539,Valeriana officinalis,Valeriana,KNApSAcK
+224,C00035564,150-84-5,Citronellyl acetate,C12H22O2,198.16197995,Valeriana officinalis,Valeriana,KNApSAcK
+225,C00036239,2198-92-7,Verrucarol,C15H22O4,266.15180919,Valeriana officinalis,Valeriana,KNApSAcK
+226,C00036271,515-13-9,(-)-beta-Elemene,C15H24,204.18780077,Valeriana officinalis,Valeriana,KNApSAcK
+227,C00036285,292037-76-4,"(-)-Pacifigorgia-1(6),10-diene",C15H24,204.18780077,Valeriana officinalis,Valeriana,KNApSAcK
+228,C00036286,351222-62-3,"(-)-Pacifigorgia-1(9),10-diene",C15H24,204.18780077,Valeriana officinalis,Valeriana,KNApSAcK
+229,C00036290,351413-96-2,(-)-Tamariscene,C15H24,204.18780077,Valeriana officinalis,Valeriana,KNApSAcK
+230,C00036308,28028-64-0,D-germacrene,C15H24,204.18780077,Valeriana officinalis,Valeriana,KNApSAcK
+231,C00036316,351222-70-3,"(+)-Pacifigorgia-1(6),10-diene",C15H24,204.18780077,Valeriana officinalis,Valeriana,KNApSAcK
+232,C00036319,351222-68-9,(+)-Tamariscene,C15H24,204.18780077,Valeriana officinalis,Valeriana,KNApSAcK
+233,C00036439,81495-71-8,1-Hydroxypinoresinol 1-glucoside,C26H32O12,536.18937649,Valeriana officinalis,Valeriana,KNApSAcK
+234,C00037531,515-00-4,Myrtenol,C10H16O,152.12011513,Valeriana officinalis,Valeriana,KNApSAcK
+235,C00038054,473-04-1,(-)-Eudesm-7(11)-en-4alpha-ol,C15H26O,222.19836545,Valeriana officinalis,Valeriana,KNApSAcK
+236,C00038791,4501-31-9,cis-p-Coumaric acid,C9H8O3,164.04734412,Valeriana officinalis,Valeriana,KNApSAcK
+237,C00040277,98260-42-5,1-Seneciovaltrate,C22H28O8,420.17841787,Valeriana officinalis,Valeriana,KNApSAcK
+238,C00040277,98260-42-5,1-Seneciovaltrate,C22H28O8,420.17841787,Valeriana sorbifolia,Valeriana,KNApSAcK
+239,C00040333,1000412-72-5,Sorbifolivaltrate A,C25H34O8,462.22536806,Valeriana sorbifolia,Valeriana,KNApSAcK
+240,C00040334,1000588-28-2,Sorbifolivaltrate B,C23H30O8,434.19406794,Valeriana sorbifolia,Valeriana,KNApSAcK
+241,C00040335,1000412-73-6,Sorbifolivaltrate C,C30H46O11,582.30401231,Valeriana sorbifolia,Valeriana,KNApSAcK
+242,C00040336,1000588-29-3,Sorbifolivaltrate D,C28H40O10,536.2621475,Valeriana sorbifolia,Valeriana,KNApSAcK
+243,C00040615,1026748-04-8,Valeriotetrate B,C35H50O14,694.32005631,Valeriana wallichii,Valeriana,KNApSAcK
+244,C00040616,1026748-03-7,Valeriotetrate C,C37H58O15,742.37757118,Valeriana wallichii,Valeriana,KNApSAcK
+245,C00040618,58523-23-2,Valtrate hydrine B3,C27H40O11,540.25706212,Valeriana sorbifolia,Valeriana,KNApSAcK
+246,C00040619,98260-47-0,Valtrate hydrine B7,C27H38O10,522.24649744,Valeriana sorbifolia,Valeriana,KNApSAcK
+247,C00040620,98260-48-1,Valtrate hydrine B8,C29H42O12,582.26762681,Valeriana alliarifolia,Valeriana,KNApSAcK
+248,C00043511,745835-63-6,Fraxiresinol 4'-O-beta-D-glucopyranoside,C27H34O13,566.19994117,Valeriana prionophylla,Valeriana,KNApSAcK
+249,C00043847,82667-99-0,Prinsepiol,C20H22O8,390.13146768,Valeriana prionophylla,Valeriana,KNApSAcK
+250,C00043847,82667-99-0,Prinsepiol,C20H22O8,390.13146768,Valeriana laxiflora,Valeriana,KNApSAcK
+251,C00043848,536745-95-6,Prinsepiol 4-O-beta-D-glucopyranoside,C26H32O13,552.18429111,Valeriana officinalis,Valeriana,KNApSAcK
+252,C00043848,536745-95-6,Prinsepiol 4-O-beta-D-glucopyranoside,C26H32O13,552.18429111,Valeriana prionophylla,Valeriana,KNApSAcK
+253,C00044826,621-59-0,Isovanillin,C8H8O3,152.04734412,Valeriana officinalis,Valeriana,KNApSAcK
+254,C00045502,480998-97-8,10-Acetoxy-1-homovaltrate hydrin,C25H36O10,496.23084737,Valeriana jatamansi,Valeriana,KNApSAcK
+255,C00045509,480998-96-7,11-Homohydroxyldihydrovaltrate,C23H34O9,454.22028269,Valeriana jatamansi,Valeriana,KNApSAcK
+256,C00045526,480998-94-5,1-Homoacevaltrate,C25H34O10,494.21519731,Valeriana jatamansi,Valeriana,KNApSAcK
+257,C00045527,480998-95-6,1-Homoisoacevaltrate,C25H34O10,494.21519731,Valeriana jatamansi,Valeriana,KNApSAcK
+258,C00045855,96681-65-1,Dihomovaltrate,C24H34O8,450.22536806,Valeriana jatamansi,Valeriana,KNApSAcK
+259,C00046607,644-30-4,alpha-Curcumene,C15H22,202.1721507,Valeriana officinalis,Valeriana,KNApSAcK
+260,C00047365,96889-90-6,5-Hydroxydidrovaltrate,C22H32O9,440.20463262,Valeriana jatamansi,Valeriana,KNApSAcK
+261,C00047433,81659-07-6,Didrovaltrate acetoxy hydrin,C24H36O10,484.23084737,Valeriana jatamansi,Valeriana,KNApSAcK
+262,C00047463,28325-56-6,IVHD-valtrate,C27H40O11,540.25706212,Valeriana officinalis,Valeriana,KNApSAcK
+263,C00047463,28325-56-6,IVHD-valtrate,C27H40O11,540.25706212,Valeriana jatamansi,Valeriana,KNApSAcK
+264,C00047464,1134138-64-9,Jatamanvaltrate A,C34H52O15,700.33062099,Valeriana jatamansi,Valeriana,KNApSAcK
+265,C00047465,1134138-66-1,Jatamanvaltrate B,C32H50O13,642.32514168,Valeriana jatamansi,Valeriana,KNApSAcK
+266,C00047465,1134138-66-1,Jatamanvaltrate B,C32H50O13,642.32514168,Valeriana officinalis,Valeriana,KNApSAcK
+267,C00047466,1134138-68-3,Jatamanvaltrate C,C29H44O13,600.27819149,Valeriana officinalis,Valeriana,KNApSAcK
+268,C00047466,1134138-68-3,Jatamanvaltrate C,C29H44O13,600.27819149,Valeriana jatamansi,Valeriana,KNApSAcK
+269,C00047467,1134138-70-7,Jatamanvaltrate D,C34H46O14,678.28875618,Valeriana jatamansi,Valeriana,KNApSAcK
+270,C00047468,1134138-72-9,Jatamanvaltrate E,C28H44O12,572.28327687,Valeriana jatamansi,Valeriana,KNApSAcK
+271,C00047469,1133442-72-4,Jatamanvaltrate F,C29H44O12,584.28327687,Valeriana jatamansi,Valeriana,KNApSAcK
+272,C00047470,1134138-74-1,Jatamanvaltrate G,C22H34O9,442.22028269,Valeriana jatamansi,Valeriana,KNApSAcK
+273,C00047471,1134138-76-3,Jatamanvaltrate H,C22H34O9,442.22028269,Valeriana jatamansi,Valeriana,KNApSAcK
+274,C00047472,1134138-78-5,Jatamanvaltrate I,C29H36O11,560.22576199,Valeriana jatamansi,Valeriana,KNApSAcK
+275,C00047473,1134138-80-9,Jatamanvaltrate J,C22H32O9,440.20463262,Valeriana jatamansi,Valeriana,KNApSAcK
+276,C00047474,1134138-83-2,Jatamanvaltrate K,C22H32O9,440.20463262,Valeriana jatamansi,Valeriana,KNApSAcK
+277,C00047475,1134138-86-5,Jatamanvaltrate L,C25H38O10,498.24649744,Valeriana jatamansi,Valeriana,KNApSAcK
+278,C00047476,1134138-89-8,Jatamanvaltrate M,C19H28O8,384.17841787,Valeriana jatamansi,Valeriana,KNApSAcK
+279,C00047606,904891-20-9,Valeriotetrate A,C37H58O15,742.37757118,Valeriana jatamansi,Valeriana,KNApSAcK
+280,C00047607,862255-64-9,Valeriotriate B,C27H42O12,558.26762681,Valeriana jatamansi,Valeriana,KNApSAcK
+281,C00047607,862255-64-9,Valeriotriate B,C27H42O12,558.26762681,Valeriana officinalis,Valeriana,KNApSAcK
+282,C00048016,1181224-14-5,Mononorvalerenone,C14H22O2,222.16197995,Valeriana officinalis,Valeriana,KNApSAcK
+283,C00048232,1181224-12-3,Volvaltrate A,C17H24O8,356.14711774,Valeriana officinalis,Valeriana,KNApSAcK
+284,C00048233,1181224-13-4,Volvaltrate B,C27H41ClO11,576.23373986,Valeriana officinalis,Valeriana,KNApSAcK
+285,C00048432,124-76-5,Isoborneol,C10H18O,154.1357652,Valeriana officinalis,Valeriana,KNApSAcK
+286,C00050623,886054-12-2,10-Isovaleryl kanokoside C,C32H50O18,722.2997148,Valeriana officinalis,Valeriana,KNApSAcK
+287,C00050661,94414-19-4,23-Hydroxyursolic acid,C30H48O4,472.35526002,Valeriana laxiflora,Valeriana,KNApSAcK
+288,C00051136,13835-51-3,Kessoglycol diacetate,C19H30O5,338.20932407,Valeriana officinalis var.latifolia,Valeriana,KNApSAcK
+289,C00051137,3525-77-7,Kessyl acetate,C17H28O3,280.20384476,Valeriana officinalis var.latifolia,Valeriana,KNApSAcK
+290,C00051558,1120-28-1,Methyl eicosanoate,C21H42O2,326.31848058,Valeriana jatamansii,Valeriana,KNApSAcK
+291,C00052035,,DMAPP,C5H12O7P2,246.00582572,Valeriana officinalis,Valeriana,KNApSAcK
+292,C00052422,4017-77-0,"trans-p-2,8-menthadien-1-ol",C10H16O,152.12011513,Valeriana officinalis,Valeriana,KNApSAcK
+293,C00052807,57129-54-1,alpha-Thujenal,C10H14O,150.10446507,Valeriana officinalis,Valeriana,KNApSAcK
+294,C00053072,372162-07-7,cis-beta-Guaiene,C15H24,204.18780077,Valeriana officinalis,Valeriana,KNApSAcK
+295,C00053349,7779-73-9,Isobornyl isovalerate,C15H26O2,238.19328007,Valeriana officinalis,Valeriana,KNApSAcK
+296,C00053478,1079-01-2,Myrtenyl acetate,C12H18O2,194.13067982,Valeriana officinalis,Valeriana,KNApSAcK
+297,C00053889,55528-90-0,Valeranone,C15H26O,222.19836545,Valeriana officinalis,Valeriana,KNApSAcK
+298,C00054023,7549-37-3,"1,1-Dimethoxy-3,7-dimethylocta-2,6-diene",C12H22O2,198.16197995,Valeriana officinalis,Valeriana,KNApSAcK
+299,C00054660,73607-00-8,"3-Acetyl-2,7-naphthyridine",C10H8N2O,172.06366289,Valeriana officinalis,Valeriana,KNApSAcK
+300,C00055376,78700-02-4,1-alpha-Acevaltrate,C24H32O10,480.19954724,Valeriana officinalis,Valeriana,KNApSAcK
+301,C00055376,78700-02-4,1-alpha-Acevaltrate,C24H32O10,480.19954724,Valeriana sp.,Valeriana,KNApSAcK
+302,C00055377,53773-14-1,Deacetylisovaltrate,C20H28O7,380.18350325,Valeriana officinalis,Valeriana,KNApSAcK
+303,C00055378,52475-59-9,Deacetylvaltrate,C20H28O7,380.18350325,Valeriana spp.,Valeriana,KNApSAcK
+304,C00055383,15794-93-1,"6,7-Dihydro-4-(hydroxymethyl)-2-(p-hydroxyphenethyl)-7-methyl-5H-2-pyrindinium",C18H22NO2+,284.16505395,Valeriana officinalis,Valeriana,KNApSAcK
+305,C00055699,18319-35-2,8-Cedren-13-ol,C15H24O,220.18271539,Valeriana officinalis,Valeriana,KNApSAcK
+306,C00055719,85710-39-0,Aromadendrene oxide,C15H24O,220.18271539,Valeriana officinalis,Valeriana,KNApSAcK
+307,C00055838,88728-58-9,(-)-Epiglobulol,C15H26O,222.19836545,Valeriana officinalis,Valeriana,KNApSAcK
+308,C00055976,65556-52-7,Longipinocarvone,C15H22O,218.16706532,Valeriana officinalis,Valeriana,KNApSAcK
+309,C00056075,18736-36-2,Peonidin,C16H13O6,301.07121315,Valeriana spryginii,Valeriana,KNApSAcK
+310,C00056076,13270-60-5,"2-(3,4-Dihydroxy-5-methoxyphenyl)-3,5,7-trihydroxy-1-benzopyrylium(1+)",C16H13O7,317.06612777,Valeriana spryginii,Valeriana,KNApSAcK
+311,C00056572,1179511-22-8,"4,5-Epoxy-7(11)-valerenen-12-al",C15H22O2,234.16197995,Valeriana officinalis,Valeriana,KNApSAcK
+312,C00056956,1225016-09-0,Monovalerianester A,C15H22O7,314.13655306,Valeriana officinalis,Valeriana,KNApSAcK
+313,C00057375,37900-23-5,beta-Selinene epoxide,C15H24O,220.18271539,Valeriana officinalis,Valeriana,KNApSAcK
+314,C00057835,1247014-34-1,Volvalerenic acid A,C15H22O2,234.16197995,Valeriana officinalis var. latifolia,Valeriana,KNApSAcK
+315,C00057844,1254950-18-9,Volvalerenone A,C14H20O4,252.13615913,Valeriana officinalis,Valeriana,KNApSAcK
+316,C00057944,162232-32-8,Valdiate,C17H26O5,310.17802394,Valeriana officinalis var. sambucifolia,Valeriana,KNApSAcK
+317,C00057964,173693-49-7,Valeracetate,C17H28O3,280.20384476,Valeriana officinalis,Valeriana,KNApSAcK
+318,C00058127,51771-49-4,Valechlorin,C22H31ClO8,458.17074568,Valeriana officinalis,Valeriana,KNApSAcK
+319,C00058127,51771-49-4,Valechlorin,C22H31ClO8,458.17074568,Valeriana hardwickii,Valeriana,KNApSAcK
+320,C00058918,101527-74-6,trans-Valerenyl acetate,C17H26O2,262.19328007,Valeriana officinalis,Valeriana,KNApSAcK
+321,C00058919,101527-78-0,cis-Valerenyl acetate,C17H26O2,262.19328007,Valeriana officinalis,Valeriana,KNApSAcK
+322,C00059056,10588-10-0,Isobutyl valerate,C9H18O2,158.13067982,Valeriana officinalis,Valeriana,KNApSAcK
+323,C00059260,1139-08-8,Isolongifolan-8-ol,C15H26O,222.19836545,Valeriana officinalis,Valeriana,KNApSAcK
+324,C00059340,1179511-23-9,"(2E)-2-Methyl-3-[(1aS,3aR,4R,7S,7aS)-octahydro-1a,4-dimethylindeno[1,7a-b]oxiren-7-yl]-2-propen-1-ol, 1-acetate",C17H26O3,278.1881947,Valeriana officinalis,Valeriana,KNApSAcK
+325,C00059350,118374-08-6,(-)-Angelicoidenol-2-O-beta-D-glucopyranoside,C16H28O7,332.18350325,Valeriana officinalis,Valeriana,KNApSAcK
+326,C00059411,1203-21-0,trans-Verbenyl acetate,C12H18O2,194.13067982,Valeriana officinalis,Valeriana,KNApSAcK
+327,C00059450,1224881-32-6,"(1aR,4S,4aR,7R,7aR,7bR)-Decahydro-7-(hydroxymethyl)-1,1,4-trimethyl-1H-cycloprop[e]azulene-4,7-diol",C15H26O3,254.1881947,Valeriana officinalis,Valeriana,KNApSAcK
+328,C00059494,1251740-36-9,"1,5-Dihydroxy-3,8-epopxyvalechlorine",C12H15ClO6,290.05571592,Valeriana officinalis,Valeriana,KNApSAcK
+329,C00059664,1331865-88-3,Valerol A,C15H26O2,238.19328007,Valeriana officinalis,Valeriana,KNApSAcK
+330,C00059696,1346657-09-7,Kessyl 3-acetate,C17H28O3,280.20384476,Valeriana officinalis,Valeriana,KNApSAcK
+331,C00059703,13481-95-3,Methyl 10-octadecenoate,C19H36O2,296.27153039,Valeriana officinalis,Valeriana,KNApSAcK
+332,C00059724,1354747-33-3,Ganxinoside A,C16H28O7,332.18350325,Valeriana officinalis,Valeriana,KNApSAcK
+333,C00059744,136379-74-3,"(1aalpha,4alpha,4abeta,7alpha,7abeta,7balpha)-(+-)-Decahydro-1,1,4,7-tetramethyl-4,7-epoxy-1H-cycloprop[e]azulene",C15H24O,220.18271539,Valeriana officinalis,Valeriana,KNApSAcK
+334,C00059842,139757-62-3,trans-Sabinyl acetate,C12H18O2,194.13067982,Valeriana officinalis,Valeriana,KNApSAcK
+335,C00059937,14360-50-0,2-Hexanoylfuran,C10H14O2,166.09937969,Valeriana officinalis,Valeriana,KNApSAcK
+336,C00060011,147511-74-8,Orientalol C,C15H24O2,236.17763001,Valeriana officinalis,Valeriana,KNApSAcK
+337,C00060057,151228-11-4,(+)-Cycloolivil 6-O-beta-D-glucopyranoside,C26H34O12,538.20502655,Valeriana officinalis,Valeriana,KNApSAcK
+338,C00060275,16641-26-2,"(1R,8aS)-1,2,3,5,6,7,8,8a-Octahydro-1,8a-dimethyl-7-(1-methylethylidene)naphthalene",C15H24,204.18780077,Valeriana officinalis,Valeriana,KNApSAcK
+339,C00060276,16641-27-3,"(4R,4aS,6R,8aR)-Octahydro-6-(1-hydroxy-1-methylethyl)-4,4a-dimethyl-1(2H)-naphthalenone",C15H26O2,238.19328007,Valeriana officinalis,Valeriana,KNApSAcK
+340,C00060277,16641-28-4,"4betaH,5alpha-Eremophilan-1-one",C15H26O,222.19836545,Valeriana officinalis,Valeriana,KNApSAcK
+341,C00060278,16641-29-5,"4betaH,5alpha-Eremophilan-1-one, cyclic ethylene mercaptole",C17H30S2,298.17889242,Valeriana officinalis,Valeriana,KNApSAcK
+342,C00060279,16643-70-2,"Eremophilane-1,10,11-triol",C15H28O3,256.20384476,Valeriana officinalis,Valeriana,KNApSAcK
+343,C00060410,17806-59-6,Kessanyl acetate,C17H28O3,280.20384476,Valeriana officinalis,Valeriana,KNApSAcK
+344,C00060434,17959-01-2,2-Methyl-6-(1-phenylethyl)phenol,C15H16O,212.12011513,Valeriana officinalis,Valeriana,KNApSAcK
+345,C00060476,1808-26-0,Ethyl arachidonate,C22H36O2,332.27153039,Valeriana officinalis,Valeriana,KNApSAcK
+346,C00060775,21112-37-8,"2-tert-Butyl-1,4-dimethoxybenzene",C12H18O2,194.13067982,Valeriana officinalis,Valeriana,KNApSAcK
+347,C00060811,217969-13-6,(-)-Angelicoidenol-2-O-beta-D-apiofuranosyl-(1->6)-beta-D-glucopyranoside,C21H36O11,464.22576199,Valeriana officinalis,Valeriana,KNApSAcK
+348,C00060893,22489-49-2,"4betaH,5alpha-Eremophil-1(10)-en-11-ol, 3,5-dinitrobenzoate",C22H28N2O6,416.19473664,Valeriana officinalis,Valeriana,KNApSAcK
+349,C00060894,22489-51-6,Dihydrovalerianol,C15H28O,224.21401552,Valeriana officinalis,Valeriana,KNApSAcK
+350,C00061116,25679-28-1,cis-Anethole,C10H12O,148.08881501,Valeriana officinalis,Valeriana,KNApSAcK
+351,C00061297,291774-65-7,"1,3-Dimethoxy-2-methyl-5-(1-methylethyl)benzene",C12H18O2,194.13067982,Valeriana officinalis,Valeriana,KNApSAcK
+352,C00061298,291774-66-8,"3-[(4S,7R,7aR)-2,4,5,6,7,7a-Hexahydro-3,7-dimethyl-1H-inden-4-yl]-2-methyl-2-propen-1-yl 3-methylbutanoate",C20H32O2,304.24023027,Valeriana officinalis,Valeriana,KNApSAcK
+353,C00061299,291774-67-9,"3-[(4S,7R,7aR)-2,4,5,6,7,7a-Hexahydro-3,7-dimethyl-1H-inden-4-yl]-2-methyl-2-propen-1-yl hexanoate",C21H34O2,318.25588033,Valeriana officinalis,Valeriana,KNApSAcK
+354,C00061393,3155-71-3,Boronal,C14H22O,206.16706532,Valeriana officinalis,Valeriana,KNApSAcK
+355,C00061396,31756-50-0,"rel-(1R,4S,4aS,6R,8aR)-Decahydro-4,8a-dimethyl-6-(1-methylethenyl)-1-naphthalenol",C15H26O,222.19836545,Valeriana officinalis,Valeriana,KNApSAcK
+356,C00061492,33900-84-4,Myrtenyl isovalerate,C15H24O2,236.17763001,Valeriana officinalis,Valeriana,KNApSAcK
+357,C00061553,351222-63-4,Pacifigorgiadiene A,C15H24,204.18780077,Valeriana officinalis,Valeriana,KNApSAcK
+358,C00061554,351222-64-5,Pacifigorgiadiene B,C15H24,204.18780077,Valeriana officinalis,Valeriana,KNApSAcK
+359,C00061555,351222-65-6,"Pacifigorgia-2(10),11-diene",C15H24,204.18780077,Valeriana officinalis,Valeriana,KNApSAcK
+360,C00061556,351222-69-0,"(+)-Pacifigorgia-1(9),10-diene",C15H24,204.18780077,Valeriana officinalis,Valeriana,KNApSAcK
+361,C00061631,367936-34-3,Rulepidol,C15H22O2,234.16197995,Valeriana officinalis,Valeriana,KNApSAcK
+362,C00061843,464-49-3,(+)-2-Bornanone,C10H16O,152.12011513,Valeriana officinalis,Valeriana,KNApSAcK
+363,C00062016,51317-08-9,Eudesmol,C15H28O,224.21401552,Valeriana officinalis,Valeriana,KNApSAcK
+364,C00062114,536746-00-6,(+)-Prinsepiol,C20H22O8,390.13146768,Valeriana officinalis,Valeriana,KNApSAcK
+365,C00062188,55334-36-6,Hexadecyl isovalerate,C21H42O2,326.31848058,Valeriana officinalis,Valeriana,KNApSAcK
+366,C00062385,60031-93-8,Elemol acetate,C17H28O2,264.20893014,Valeriana officinalis,Valeriana,KNApSAcK
+367,C00062592,649758-22-5,Sinenoside I,C26H34O12,538.20502655,Valeriana officinalis,Valeriana,KNApSAcK
+368,C00062623,659-70-1,Isoamyl isovalerate,C10H20O2,172.14632988,Valeriana officinalis,Valeriana,KNApSAcK
+369,C00062817,72896-51-6,(+)-8-Hydroxypinoresinol 4-O-beta-D-glucopyranoside,C26H32O12,536.18937649,Valeriana officinalis,Valeriana,KNApSAcK
+370,C00063064,81446-27-7,"(+)-1-Hydroxy-2,6-bisepipinoresinol",C20H22O7,374.13655306,Valeriana officinalis,Valeriana,KNApSAcK
+371,C00063199,862415-60-9,"(4aR,6R,7R,7aR)-Hexahydro-6-hydroxy-7-(hydroxymethyl)-4-methylenecyclopenta[c]pyran-1(3H)-one",C10H14O4,198.08920894,Valeriana officinalis,Valeriana,KNApSAcK
+372,C00063463,944746-27-4,Lanicepside A,C26H34O12,538.20502655,Valeriana officinalis,Valeriana,KNApSAcK
+373,C00063632,108006-27-5,AHD-valtrate,C24H34O11,498.21011193,Valeriana jatamansi,Valeriana,KNApSAcK
+374,C00063654,111931-58-9,Valeriananoid A,C15H24O2,236.17763001,Valeriana jatamansi,Valeriana,KNApSAcK
+375,C00063846,1404479-75-9,Jatamandoid A,C25H39ClO10,534.22317518,Valeriana jatamansi,Valeriana,KNApSAcK
+376,C00063854,1417724-83-4,Jatamanin O,C17H23ClO7,374.1132308,Valeriana jatamansi,Valeriana,KNApSAcK
+377,C00063927,152841-87-7,Diavaltrate,C19H24O8,380.14711774,Valeriana officinalis,Valeriana,KNApSAcK
+378,C00063950,1610359-75-5,Jatamanvaltrate P,C27H40O10,524.2621475,Valeriana jatamansi,Valeriana,KNApSAcK
+379,C00063951,1610359-76-6,Jatamanvaltrate Q,C32H48O12,624.314577,Valeriana jatamansi,Valeriana,KNApSAcK
+380,C00064057,1810033-95-4,Valerjatadoid B,C32H48O12,624.314577,Valeriana jatamansi,Valeriana,KNApSAcK
+381,C00064060,1821385-68-5,Jatamanvaltrate R,C24H38O8,454.25666819,Valeriana jatamansi,Valeriana,KNApSAcK
+382,C00064061,1821386-37-1,Jatamanvaltrate S,C24H38O8,454.25666819,Valeriana jatamansi,Valeriana,KNApSAcK
+383,C00064063,18361-41-6,Homodidrovaltrate,C23H34O8,438.22536806,Valeriana jatamansi,Valeriana,KNApSAcK
+384,C00064075,1897442-23-7,Jatamanin Q,C10H18O4,202.12050906,Valeriana jatamansi,Valeriana,KNApSAcK
+385,C00064076,1897442-24-8,Valeriananoid D,C25H34O5,414.2406242,Valeriana jatamansi,Valeriana,KNApSAcK
+386,C00064077,1897442-25-9,Valeriananoid E,C33H58O3,502.43859572,Valeriana jatamansi,Valeriana,KNApSAcK
+387,C00064102,195058-16-3,Valeriananoid B,C15H26O2,238.19328007,Valeriana jatamansi,Valeriana,KNApSAcK
+388,C00064103,195058-17-4,Valeriananoid C,C17H28O3,280.20384476,Valeriana jatamansi,Valeriana,KNApSAcK
+389,C00064247,27765-23-7,1-beta-Acevaltratum,C24H32O10,480.19954724,Valeriana officinalis,Valeriana,KNApSAcK
+390,C00064421,58560-51-3,Isodidrovaltrate,C22H32O8,424.209718,Valeriana jatamansi,Valeriana,KNApSAcK
+0,C00003062,499-44-5,beta-Thujaplicin,C10H12O2,164.08372963,Cupressus abramisiana,Ramisia,KNApSAcK
+1,C00003063,672-76-4,gamma-Thujaplicin,C10H12O2,164.08372963,Cupressus abramisiana,Ramisia,KNApSAcK
+0,C00000947,154-23-4,(+)-Catechin,C15H14O6,290.07903818,Elaeagnus angustifolia,Elaeagnus,KNApSAcK
+1,C00000956,490-46-0,(-)-Epicatechin,C15H14O6,290.07903818,Elaeagnus angustifolia,Elaeagnus,KNApSAcK
+2,C00001699,2254-36-6,Calligonine,C12H14N2,186.11569846,Elaeagnus angustifolia,Elaeagnus,KNApSAcK
+3,C00001735,304-21-2,Harmaline,C13H14N2O,214.11061308,Elaeagnus angustifolia,Elaeagnus,KNApSAcK
+4,C00001736,486-84-0,1-Methyl-beta-carboline,C12H10N2,182.08439833,Elaeagnus angustifolia L.,Elaeagnus,KNApSAcK
+5,C00001737,442-51-3,Harmine,C13H12N2O,212.09496302,Elaeagnus angustifolia,Elaeagnus,KNApSAcK
+6,C00001774,17019-01-1,Tetrahydroharmine,C13H16N2O,216.12626315,Elaeagnus angustifolia,Elaeagnus,KNApSAcK
+7,C00002682,121-34-6,Vanillic acid,C8H8O4,168.04225874,Elaeagnus pungens,Elaeagnus,KNApSAcK
+8,C00003256,37936-58-6,Eremanthine,C15H18O2,230.13067982,Eremanthus elaeagnus,Elaeagnus,KNApSAcK
+9,C00003257,58030-93-6,Eremantholide A,C19H24O6,348.1572885,Eremanthus elaeagnus,Elaeagnus,KNApSAcK
+10,C00005165,19895-95-5,Kaempferol 3-O-sophoroside,C27H30O16,610.15338491,Elaeagnus multiflora,Elaeagnus,KNApSAcK
+11,C00005229,55136-76-0,Kaempferol 3-O-sophoroside 7-O-beta-D-glucopyranoside:Kaempferol 3-sophoroside-7-glucoside,C33H40O21,772.20620834,Elaeagnus multiflora,Elaeagnus,KNApSAcK
+12,C00005239,34336-18-0,Kaempferol 3-rutinoside-7-glucoside,C33H40O20,756.21129372,Elaeagnus multiflora,Elaeagnus,KNApSAcK
+13,C00005248,135264-85-6,Kaempferol 3-glucoside-7-sophoroside,C33H40O21,772.20620834,Elaeagnus multiflora,Elaeagnus,KNApSAcK
+14,C00005248,135264-85-6,Kaempferol 3-glucoside-7-sophoroside,C33H40O21,772.20620834,Elaeagnus montana,Elaeagnus,KNApSAcK
+15,C00005481,144396-08-7,Quercetin 3-glucoside-7-sophoroside,C33H40O22,788.20112297,Elaeagnus montana,Elaeagnus,KNApSAcK
+16,C00005544,74137-43-2,Isorhamnetin 3-sophoroside,C28H32O17,640.1639496,Elaeagnus montana,Elaeagnus,KNApSAcK
+17,C00005579,17331-29-2,Isorhamnetin 3-sophoroside-7-glucoside,C34H42O22,802.21677303,Elaeagnus montana,Elaeagnus,KNApSAcK
+18,C00005579,17331-29-2,Isorhamnetin 3-sophoroside-7-glucoside,C34H42O22,802.21677303,Elaeagnus multiflora,Elaeagnus,KNApSAcK
+19,C00012403,69883-96-1,Eremantholide B,C20H26O6,362.17293856,Eremanthus elaeagnus,Elaeagnus,KNApSAcK
+20,C00012404,69883-97-2,Eremantholide C,C19H22O6,346.14163844,Eremanthus elaeagnus,Elaeagnus,KNApSAcK
+21,C00013772,331448-63-6,Kaempferol 3-(4''-p-coumaroylglucoside),C30H26O13,594.13734092,Elaeagnus bockii,Elaeagnus,KNApSAcK
+22,C00013891,404843-89-6,Quercetin 3-(6''-(E)-sinapoylsophoroside)-7-rhamnoside,C44H50O25,978.26411715,Elaeagnus bockii,Elaeagnus,KNApSAcK
+23,C00019064,508-02-1,Oleanolic acid,C30H48O3,456.3603454,Elaeagnus angustifolia,Elaeagnus,KNApSAcK
+24,C00026693,176300-92-8,Elacomine,C15H20N2O2,260.1524779,Elaeagnus commutata,Elaeagnus,KNApSAcK
+25,C00030807,906-33-2,5-Caffeoylquinic acid,C16H18O9,354.09508217,Elaeagnus angustifolia,Elaeagnus,KNApSAcK
+26,C00042574,487-03-6,Harmol,C12H10N2O,198.07931296,Elaeagnus angustifolia,Elaeagnus,KNApSAcK
+27,C00050677,13100-00-0,"2-Methyl-1,2,3,4-tetrahydro-beta-carboline",C12H14N2,186.11569846,Elaeagnus angustifolia,Elaeagnus,KNApSAcK
+28,C00051813,,Dihydro-beta-carboline,C12H12N2,184.1000484,Elaeagnus angustifolia,Elaeagnus,KNApSAcK
+29,C00051815,,Elaeagnine,C12H14N2,186.11569846,Elaeagnus angustifolia,Elaeagnus,KNApSAcK
+30,C00054103,525-41-7,"3,4-Dihydro-1-methyl-beta-carboline",C12H12N2,184.1000484,Elaeagnus angustifolia,Elaeagnus,KNApSAcK
+31,C00054104,57116-40-2,Nb-Methyltetrahydroharmol,C13H16N2O,216.12626315,Elaeagnus angustifolia,Elaeagnus,KNApSAcK
+32,C00056400,105798-56-9,11-Hydroxy-9-tridecenoic acid,C13H24O3,228.17254463,Elaeagnus angustifolia,Elaeagnus,KNApSAcK
+33,C00057972,17952-75-9,Tetrahydroharmol,C12H14N2O,202.11061308,Elaeagnus angustifolia,Elaeagnus,KNApSAcK
+0,C00000297,66-97-7,Ficusin,C11H6O3,186.03169406,Dorstenia lindeniana,Lindenia,KNApSAcK
+1,C00000575,484-20-8,5-Methoxypsoralen,C12H8O4,216.04225874,Dorstenia lindeniana,Lindenia,KNApSAcK
+2,C00000583,482-27-9,Isopimpinellin,C13H10O5,246.05282343,Dorstenia lindeniana,Lindenia,KNApSAcK
+3,C00001835,483-17-0,Cephaeline,C28H38N2O4,466.28315772,Dorstenia lindeniana,Lindenia,KNApSAcK
+4,C00002493,131-12-4,Pimpinellin,C13H10O5,246.05282343,Dorstenia lindeniana,Lindenia,KNApSAcK
+5,C00037321,482-48-4,Isobergapten,C12H8O4,216.04225874,Dorstenia lindeniana,Lindenia,KNApSAcK
+0,C00002471,305-01-1,Aesculetin,C9H6O4,178.02660868,Fraxinus paxiana,Axia,KNApSAcK
+1,C00002472,531-75-9,Aesculin,C15H16O9,340.07943211,Fraxinus paxiana,Axia,KNApSAcK
+2,C00002474,524-30-1,Fraxin,C16H18O10,370.0899968,Fraxinus paxiana,Axia,KNApSAcK
+3,C00038944,881388-87-0,Daphniyunnine A,C23H31NO3,369.23039386,Daphniphyllum paxianum,Axia,KNApSAcK
+4,C00038945,881388-89-2,Daphniyunnine C,C21H27NO2,325.20417911,Daphniphyllum paxianum,Axia,KNApSAcK
+5,C00038946,881388-90-5,Daphniyunnine D,C21H27NO3,341.19909374,Daphniphyllum paxianum,Axia,KNApSAcK
+6,C00038947,881388-91-6,Daphniyunnine E,C21H27NO3,341.19909374,Daphniphyllum paxianum,Axia,KNApSAcK
+7,C00039649,857672-34-5,Longistylumphylline A,C23H29NO3,367.2147438,Daphniphyllum paxianum,Axia,KNApSAcK
+8,C00039757,956222-85-8,Methyl longistylumphylline B,C24H35NO3,385.26169399,Daphniphyllum paxianum,Axia,KNApSAcK
+0,C00000615,501-16-6,Caffeic acid,C9H8O4,180.04225874,Cordia macleodii,Cordia,KNApSAcK
+1,C00000856,99-96-7,4-hydroxybenzoic acid,C7H6O3,138.03169406,Cordia macleodii,Cordia,KNApSAcK
+2,C00001165,69-65-8,D-Mannitol,C6H14O6,182.07903818,Cordia sinensis,Cordia,KNApSAcK
+3,C00002650,10457-66-6,Geranylhydroquinone,C16H22O2,246.16197995,Cordia eleagnoides,Cordia,KNApSAcK
+4,C00002724,327-97-9,3-O-Caffeoylquinic acid,C16H18O9,354.09508217,Cordia macleodii,Cordia,KNApSAcK
+5,C00002743,1135-24-6,Ferulic acid,C10H10O4,194.05790881,Cordia macleodii,Cordia,KNApSAcK
+6,C00002826,61977-06-8,Geranylbenzoquinone,C16H20O2,244.14632988,Cordia alliodora,Cordia,KNApSAcK
+7,C00003750,1617-68-1,Lupeol acetate,C32H52O2,468.3967309,Cordia buddleioides,Cordia,KNApSAcK
+8,C00004565,520-18-3,Kaempferol,C15H10O6,286.04773805,Cordia macleodii,Cordia,KNApSAcK
+9,C00004631,117-39-5,Quercetin,C15H10O7,302.04265268,Cordia macleodii,Cordia,KNApSAcK
+10,C00004646,33708-72-4,Pachypodol,C18H16O7,344.08960287,Cordia multispicata,Cordia,KNApSAcK
+11,C00004653,1245-15-4,"5-Hydroxy-3,7,3',4'-tetramethoxyflavone",C19H18O7,358.10525293,Cordia multispicata,Cordia,KNApSAcK
+12,C00004712,479-90-3,Artemetin,C20H20O8,388.11581762,Cordia verbenacea,Cordia,KNApSAcK
+13,C00004818,90357-63-4,Brickellin,C20H20O9,404.11073224,Cordia verbenacea,Cordia,KNApSAcK
+14,C00005413,153-18-4,Quercetin 3-rutinoside,C27H30O16,610.15338491,Cordia macleodii,Cordia,KNApSAcK
+15,C00006551,118045-66-2,Calodenin B,C30H20O9,524.11073224,Cordia goetzei,Cordia,KNApSAcK
+16,C00006605,117458-38-5,Cordigol,C30H24O9,528.14203237,Cordia goetzei,Cordia,KNApSAcK
+17,C00008298,66513-83-5,Hesperetin 7-O-rhamnoside,C22H24O10,448.13694699,Cordia obliqua,Cordia,KNApSAcK
+18,C00008717,74545-40-7,"Taxifolin 3,5-dirhamnoside",C27H32O15,596.17412036,Cordia obliqua,Cordia,KNApSAcK
+19,C00009411,2746-85-2,Fujikinetin methyl ether,C18H14O6,326.07903818,Cordia africana,Cordia,KNApSAcK
+20,C00009418,51986-37-9,"6-Hydroxy-7,2'-dimethoxy-4',5'-methylenedioxyisoflavone",C18H14O7,342.0739528,Cordia africana,Cordia,KNApSAcK
+21,C00009420,24126-93-0,"6,7,3',4'-Tetramethoxyisoflavone",C19H18O6,342.11033831,Cordia africana,Cordia,KNApSAcK
+22,C00009421,24195-15-1,Milldurone,C19H16O7,356.08960287,Cordia africana,Cordia,KNApSAcK
+23,C00009422,24203-70-1,"6,7,3'-Trimethoxy-4',5'-methylenedioxyisoflavone",C19H16O7,356.08960287,Cordia africana,Cordia,KNApSAcK
+24,C00009428,24203-68-7,"6,7,2',4',5'-Pentamethoxyisoflavone",C20H20O7,372.12090299,Cordia africana,Cordia,KNApSAcK
+25,C00009482,51986-39-1,Odorantin,C19H16O7,356.08960287,Cordia africana,Cordia,KNApSAcK
+26,C00009491,51986-38-0,"5,6,7,8-Tetramethoxy-3',4'-methylenedioxyisoflavone",C20H18O8,386.10016755,Cordia africana,Cordia,KNApSAcK
+27,C00012868,95732-44-8,Subcordatolide C,C19H26O5,334.17802394,Cordia subcordata,Cordia,KNApSAcK
+28,C00013843,,Quercetin 3-glucosyl-(1->2)-glucuronide,C27H28O18,640.12756409,Cordia macleodii,Cordia,KNApSAcK
+29,C00014692,117458-37-4,Cordigone,C30H24O9,528.14203237,Cordia goetzei,Cordia,KNApSAcK
+30,C00029495,119067-01-5,3-Epipomolic acid,C30H48O4,472.35526002,Cordia multispicata,Cordia,KNApSAcK
+31,C00030636,22626-26-2,Lantic acid,C30H46O4,470.33960996,Cordia multispicata,Cordia,KNApSAcK
+32,C00032465,6246-46-4,Ursonic acid,C30H46O3,454.34469533,Cordia multispicata,Cordia,KNApSAcK
+33,C00033103,467-81-2,Lantadene A,C35H52O5,552.38147477,Cordia multispicata,Cordia,KNApSAcK
+34,C00033104,467-82-3,Lantadene B,C35H52O5,552.38147477,Cordia multispicata,Cordia,KNApSAcK
+35,C00033322,13849-90-6,Pomonic acid,C30H46O4,470.33960996,Cordia multispicata,Cordia,KNApSAcK
+36,C00036932,129277-50-5,Cordiaquinone A,C21H26O3,326.1881947,Cordia curassavica,Cordia,KNApSAcK
+37,C00036933,129196-56-1,Cordiaquinone B,C21H24O3,324.17254463,Cordia curassavica,Cordia,KNApSAcK
+38,C00036933,129196-56-1,Cordiaquinone B,C21H24O3,324.17254463,Cordia linnaei,Cordia,KNApSAcK
+39,C00036934,265999-94-8,Cordiaquinone J,C21H24O3,324.17254463,Cordia curassavica,Cordia,KNApSAcK
+40,C00036935,265999-95-9,Cordiaquinone K,C21H22O3,322.15689457,Cordia curassavica,Cordia,KNApSAcK
+41,C00038839,38176-74-8,Cordiachrome A,C16H18O2,242.13067982,Cordia fragrantissima,Cordia,KNApSAcK
+42,C00038840,38044-02-9,Cordiachrome B,C16H18O2,242.13067982,Cordia fragrantissima,Cordia,KNApSAcK
+43,C00038841,38044-03-0,Cordiachrome C,C16H18O2,242.13067982,Cordia fragrantissima,Cordia,KNApSAcK
+44,C00038842,63025-47-8,Cordiaquinol C,C16H20O2,244.14632988,Cordia fragrantissima,Cordia,KNApSAcK
+45,C00038842,63025-47-8,Cordiaquinol C,C16H20O2,244.14632988,Cordia alliodora,Cordia,KNApSAcK
+46,C00038843,1005383-26-5,Cordiaquinol I,C16H16O4,272.104859,Cordia fragrantissima,Cordia,KNApSAcK
+47,C00038844,1005383-28-7,Cordiaquinol J,C16H22O3,262.15689457,Cordia fragrantissima,Cordia,KNApSAcK
+48,C00038845,1005383-30-1,Cordiaquinol K,C16H20O4,276.13615913,Cordia fragrantissima,Cordia,KNApSAcK
+49,C00044648,85045-04-1,Cordialin A,C30H46O5,486.33452458,Cordia multispicata,Cordia,KNApSAcK
+50,C00044648,85045-04-1,Cordialin A,C30H46O5,486.33452458,Cordia verbenacea,Cordia,KNApSAcK
+51,C00044649,263723-40-6,Cordianol A,C30H50O6,506.36073933,Cordia multispicata,Cordia,KNApSAcK
+52,C00044650,263723-41-7,Cordianol B,C30H48O5,488.35017464,Cordia multispicata,Cordia,KNApSAcK
+53,C00044651,263723-42-8,Cordianol C,C31H52O6,520.37638939,Cordia multispicata,Cordia,KNApSAcK
+54,C00044652,263723-43-9,Cordianol D,C30H48O5,488.35017464,Cordia multispicata,Cordia,KNApSAcK
+55,C00044653,263723-44-0,Cordianol E,C30H46O5,486.33452458,Cordia multispicata,Cordia,KNApSAcK
+56,C00044654,263723-45-1,Cordianol F,C32H50O6,530.36073933,Cordia multispicata,Cordia,KNApSAcK
+57,C00044655,263723-46-2,Cordianol G,C30H48O4,472.35526002,Cordia multispicata,Cordia,KNApSAcK
+58,C00044656,263723-47-3,Cordianol H,C30H48O4,472.35526002,Cordia multispicata,Cordia,KNApSAcK
+59,C00044657,613668-32-9,Cordianol I,C31H52O6,520.37638939,Cordia multispicata,Cordia,KNApSAcK
+60,C00047903,1151767-62-2,Globiferin,C16H18O2,242.13067982,Cordia globifera,Cordia,KNApSAcK
+61,C00050491,306-23-0,p-Hydroxyphenyl lactic acid,C9H10O4,182.05790881,Cordia macleodii,Cordia,KNApSAcK
+62,C00050812,561-47-7,Icterogenin,C35H52O6,568.37638939,Cordia multispicata,Cordia,KNApSAcK
+63,C00051199,32303-26-7,Lantanolic acid,C30H46O4,470.33960996,Cordia multispicata,Cordia,KNApSAcK
+64,C00051603,658080-89-8,Microphyllaquinone,C27H20O6,440.12598837,Cordia globosa,Cordia,KNApSAcK
+0,C00000165,1209-71-8,gamma-Eudesmol,C15H26O,222.19836545,Callitris columellaris,Columella,KNApSAcK
+1,C00002597,19186-35-7,Anthricin,C22H22O7,398.13655306,Callitris columellaris,Columella,KNApSAcK
+2,C00012020,66964-63-4,Callitrin,C15H22O2,234.16197995,Callitris columellaris,Columella,KNApSAcK
+3,C00012379,57759-35-0,"[3R-(3R*,3aR*,5E,9E,11aS*)]-3a,4,7,8,11,11a-Hexahydro-3,6,10-trimethylcyclodeca[b]furan-2(3H)-one",C15H22O2,234.16197995,Callitris columellaris,Columella,KNApSAcK
+4,C00012765,4666-84-6,Cryptomeridiol,C15H28O2,240.20893014,Callitris columellaris,Columella,KNApSAcK
+5,C00012877,66964-62-3,Callitrisin,C15H20O2,232.14632988,Callitris columellaris,Columella,KNApSAcK
+6,C00012878,66964-61-2,"[3R-(3alpha,3aalpha,4abeta,8aalpha,9aalpha)]-Decahydro-3,8a-dimethyl-5-methylenenaphtho[2,3-b]furan-2(3H)-one",C15H22O2,234.16197995,Callitris columellaris,Columella,KNApSAcK
+7,C00020907,66873-37-8,Columellarin,C15H20O2,232.14632988,Callitris columellaris,Columella,KNApSAcK
+8,C00020908,66873-38-9,Dihydrocolumellarin,C15H22O2,234.16197995,Callitris columellaris,Columella,KNApSAcK
+9,C00023275,31323-66-7,Myrceocommunic acid,C20H30O2,302.2245802,Callitris columellaris,Columella,KNApSAcK
+0,C00000804,546-80-5,(-)-3-Isothujone,C10H16O,152.12011513,Chenopodium ambrosioides,Chenopodium,KNApSAcK
+1,C00000819,76-22-2,(+)-Camphor,C10H16O,152.12011513,Chenopodium ambrosioides,Chenopodium,KNApSAcK
+2,C00000828,67690-48-6,(+)-Sabinone,C10H14O,150.10446507,Chenopodium ambrosioides,Chenopodium,KNApSAcK
+3,C00000831,471-16-9,Sabinol,C10H16O,152.12011513,Chenopodium ambrosioides,Chenopodium,KNApSAcK
+4,C00000836,471-15-8,beta-Thujone,C10H16O,152.12011513,Chenopodium ambrosioides,Chenopodium,KNApSAcK
+5,C00000902,124847-17-2,Traversiadiene,C20H32,272.25040102,Chenopodium transversiana,Chenopodium,KNApSAcK
+6,C00001048,527-95-7,Herbacetin,C15H10O7,302.04265268,Chenopodium murale,Chenopodium,KNApSAcK
+7,C00001357,59-92-7,"3,4-Dihydroxyphenylalanine",C9H11NO4,197.06880785,Chenopodium quinoa,Chenopodium,KNApSAcK
+8,C00001429,50-67-9,5-Hydroxytryptamine,C10H12N2O,176.09496302,Chenopodium rubrum,Chenopodium,KNApSAcK
+9,C00001434,61-54-1,Tryptamine,C10H12N2,160.1000484,Chenopodium rubrum,Chenopodium,KNApSAcK
+10,C00001581,15167-84-7,Amaranthin,C30H34N2O19,726.17557692,Chenopodium amaranticolor,Chenopodium,KNApSAcK
+11,C00001582,18766-66-0,Betalamic acid,C9H9NO5,211.04807241,Chenopodium quinoa,Chenopodium,KNApSAcK
+12,C00001583,2181-76-2,Betanidin,C18H16N2O8,388.0906655,Chenopodium quinoa,Chenopodium,KNApSAcK
+13,C00001584,7659-95-2,Betanin,C24H26N2O13,550.14348893,Chenopodium quinoa,Chenopodium,KNApSAcK
+14,C00001586,114847-18-6,Celosianin II,C40H42N2O22,902.22292105,Chenopodium rubrum,Chenopodium,KNApSAcK
+15,C00001587,71199-31-0,DOPA-betaxanthin,C18H18N2O8,390.10631557,Chenopodium quinoa,Chenopodium,KNApSAcK
+16,C00001604,135545-98-1,Tyrosine-betaxanthin,C18H18N2O7,374.11140095,Chenopodium quinoa,Chenopodium,KNApSAcK
+17,C00002499,92-61-5,Scopoletin,C10H8O4,192.04225874,Chenopodium murale,Chenopodium,KNApSAcK
+18,C00003027,512-85-6,Ascaridole,C10H16O2,168.11502975,Chenopodium ambrosioides var. anthelminticum,Chenopodium,KNApSAcK
+19,C00003027,512-85-6,Ascaridole,C10H16O2,168.11502975,Chenopodium botrys,Chenopodium,KNApSAcK
+20,C00003027,512-85-6,Ascaridole,C10H16O2,168.11502975,Chenopodium spp.,Chenopodium,KNApSAcK
+21,C00003040,99-87-6,p-Cymene,C10H14,134.10955045,Chenopodium ambrosioides,Chenopodium,KNApSAcK
+22,C00003516,510-30-5,Echinocystic acid,C30H48O4,472.35526002,Chenopodium ambrosioides,Chenopodium,KNApSAcK
+23,C00003794,480-40-0,Chrysin,C15H10O4,254.05790881,Chenopodium graveolens,Chenopodium,KNApSAcK
+24,C00003890,18085-97-7,Jaceosidin,C17H14O7,330.0739528,Chenopodium ambrosioides,Chenopodium,KNApSAcK
+25,C00004515,147526-77-0,"7,3',4'-Trihydroxy-6-methoxyflavone 7-rhamnoside-3'-xyloside",C27H30O14,578.16355567,Chenopodium ambrosioides,Chenopodium,KNApSAcK
+26,C00004565,520-18-3,Kaempferol,C15H10O6,286.04773805,Chenopodium murale,Chenopodium,KNApSAcK
+27,C00005140,482-39-3,Afzelin,C21H20O10,432.10564686,Chenopodium murale,Chenopodium,KNApSAcK
+28,C00005149,16290-07-6,Kaempferol 7-O-beta-D-glucopyranoside,C21H20O11,448.10056148,Chenopodium murale,Chenopodium,KNApSAcK
+29,C00005150,20196-89-8,Kaempferol 7-O-rhamnoside,C21H20O10,432.10564686,Chenopodium murale,Chenopodium,KNApSAcK
+30,C00005150,20196-89-8,Kaempferol 7-O-rhamnoside,C21H20O10,432.10564686,Chenopodium ambrosioides,Chenopodium,KNApSAcK
+31,C00005155,132294-84-9,Kaempferol 3-apiosyl-(1->2)-galactoside,C26H28O15,580.14282023,Chenopodium quinoa,Chenopodium,KNApSAcK
+32,C00005159,108906-96-3,Kaempferol 3-rhamnosyl-(1->2)-galactoside,C27H30O15,594.15847029,Chenopodium fremontii,Chenopodium,KNApSAcK
+33,C00005160,17297-56-2,kaempferol 3-O-robinobioside,C27H30O15,594.15847029,Chenopodium pallidicaule,Chenopodium,KNApSAcK
+34,C00005160,17297-56-2,kaempferol 3-O-robinobioside,C27H30O15,594.15847029,Chenopodium fremontii,Chenopodium,KNApSAcK
+35,C00005165,19895-95-5,Kaempferol 3-O-sophoroside,C27H30O16,610.15338491,Chenopodium fremontii,Chenopodium,KNApSAcK
+36,C00005187,132618-21-4,Kaempferol 3-rhamnoside-7-xyloside,C26H28O14,564.14790561,Chenopodium ambrosioides,Chenopodium,KNApSAcK
+37,C00005189,482-38-2,Kaempferitrin,C27H30O14,578.16355567,Chenopodium murale,Chenopodium,KNApSAcK
+38,C00005195,132536-65-3,Kaempferol 3-rhamnoside-4'-xyloside,C26H28O14,564.14790561,Chenopodium ambrosioides,Chenopodium,KNApSAcK
+39,C00005204,132185-73-0,Kaempferol 3-(2Gal-apiosylrobinobioside),C32H38O19,726.20072904,Chenopodium quinoa,Chenopodium,KNApSAcK
+40,C00005206,109008-28-8,Mauritianin,C33H40O19,740.2163791,Chenopodium quinoa,Chenopodium,KNApSAcK
+41,C00005270,99878-05-4,Rhamnocitrin 3-galactoside,C22H22O11,462.11621155,Chenopodium fremontii,Chenopodium,KNApSAcK
+42,C00005271,41545-37-3,Rhamnocitrin 3-glucoside,C22H22O11,462.11621155,Chenopodium fremontii,Chenopodium,KNApSAcK
+43,C00005374,522-12-3,Quercetin 3-O-alpha-L-rhamnoside,C21H20O11,448.10056148,Chenopodium murale,Chenopodium,KNApSAcK
+44,C00005401,52525-35-6,Quercetin 3-O-rhamnosyl-(1->6)-galactoside,C27H30O16,610.15338491,Chenopodium fremontii,Chenopodium,KNApSAcK
+45,C00005409,18609-17-1,Quercetin 3-O-sophoroside,C27H30O17,626.14829954,Chenopodium fremontii,Chenopodium,KNApSAcK
+46,C00005442,165880-62-6,Quercetin 3-(2Gal-apiosylrobinobioside),C32H38O20,742.19564366,Chenopodium pallidicaule,Chenopodium,KNApSAcK
+47,C00005444,124151-38-8,Quercetin 3-(2Gal-rhamnosyl-robinobioside),C33H40O20,756.21129372,Chenopodium pallidicaule,Chenopodium,KNApSAcK
+48,C00005451,63947-67-1,Quercetin 3-(2G-apiosylrutinoside),C32H38O20,742.19564366,Chenopodium pallidicaule,Chenopodium,KNApSAcK
+49,C00005506,27875-34-9,Rhamnetin 3-glucoside,C22H22O12,478.11112617,Chenopodium fremontii,Chenopodium,KNApSAcK
+50,C00005538,53584-69-3,Isorhamnetin 3-O-robinobioside,C28H32O16,624.16903498,Chenopodium spp.,Chenopodium,KNApSAcK
+51,C00005568,107656-83-7,Isorhamnetin 3-rhamnosyl-(1->2)-[rhamnosyl-(1->6)-galactoside],C34H42O20,770.22694379,Chenopodium pallidicaule,Chenopodium,KNApSAcK
+52,C00005571,165605-18-5,Isorhamnetin 3-(2G-apiosylrutinoside),C33H40O20,756.21129372,Chenopodium pallidicaule,Chenopodium,KNApSAcK
+53,C00010820,61616-16-8,"(1alpha,4alpha,7S*)-5-methylethyl)-2,3-dioxabicyclo[2.2.2]oct-5-ene",C10H16O2,168.11502975,Chenopodium multifidum,Chenopodium,KNApSAcK
+54,C00010849,78085-73-1,(4S-trans)-4-Hydroxy-2-methyl-5-(1-methylethyl)-2-cyclohexen-1-one,C10H16O2,168.11502975,Chenopodium multifidum,Chenopodium,KNApSAcK
+55,C00010850,78085-72-0,(4S-cis)-4-Hydroxy-2-methyl-5-(1-methylethyl)-2-cyclohexen-1-one,C10H16O2,168.11502975,Chenopodium multifidum,Chenopodium,KNApSAcK
+56,C00010921,89771-40-4,"[1S-(1alpha,2alpha,5alpha)]-2-Methyl-5-(1-methylethyl)-3-cyclohexene-1,2-diol",C10H18O2,170.13067982,Chenopodium multifidum,Chenopodium,KNApSAcK
+57,C00010922,89771-42-6,"[1R-(1alpha,2alpha,5beta)]-2-Methyl-5-(1-methylethyl)-3-cyclohexene-1,2-diol",C10H18O2,170.13067982,Chenopodium multifidum,Chenopodium,KNApSAcK
+58,C00010923,89771-41-5,"[1S-(1alpha,2beta,5alpha)]-2-Methyl-5-(1-methylethyl)-3-cyclohexene-1,2-diol",C10H18O2,170.13067982,Chenopodium multifidum,Chenopodium,KNApSAcK
+59,C00011043,19890-00-7,(-)-Pinocarvone,C10H14O,150.10446507,Chenopodium ambrosioides,Chenopodium,KNApSAcK
+60,C00011061,497-33-6,gamma-Fenchene,C10H16,136.12520051,Chenopodium botrys,Chenopodium,KNApSAcK
+61,C00012000,64373-81-5,"8alpha,11-Elemadiol",C15H26O2,238.19328007,Chenopodium graveolens,Chenopodium,KNApSAcK
+62,C00012698,70902-19-1,"[4aR-(4aalpha,5alpha,6beta,8abeta)]-4a,5,6,7,8,8a-Hexahydro-5-hydroxy-6-(1-hydroxy-1-methylethyl)-4,8a-dimethyl-2(1H)-naphthalenone",C15H24O3,252.17254463,Chenopodium botrys,Chenopodium,KNApSAcK
+63,C00012699,74799-30-7,"[4aR-(4aalpha,5alpha,6beta,8abeta)]-5-(Acetyloxy)-4a,5,6,7,8,8a-hexahydro-6-(1-hydroxy-1-methylethyl)-4,8a-dimethyl-2(1H)-naphthalenone",C17H26O4,294.18310932,Chenopodium botrys,Chenopodium,KNApSAcK
+64,C00012735,67996-63-8,"[1S-(1alpha,2beta,4abeta,8aalpha)]-1,2,3,4,4a,5,6,8a-Octahydro-4a,8-dimethyl-2-(1-methylethenyl)-1-naphthalenol acetate",C17H26O2,262.19328007,Chenopodium botrys,Chenopodium,KNApSAcK
+65,C00012769,74841-83-1,Chenopotetraol,C15H28O4,272.19875938,Chenopodium botrys,Chenopodium,KNApSAcK
+66,C00012770,74799-34-1,"[1S-(1alpha,2beta,4abeta,7beta,8alpha,8aalpha)]-Decahydro-7-(1-hydroxy-1-methylethyl)-1,4a-dimethyl-1,2,8-naphthalenetriol",C15H28O4,272.19875938,Chenopodium botrys,Chenopodium,KNApSAcK
+67,C00012773,41929-25-3,Pigmol,C15H28O3,256.20384476,Chenopodium botrys,Chenopodium,KNApSAcK
+68,C00012774,74799-31-8,"[1R-(1alpha,4abeta,7beta,8alpha,8aalpha)]-Decahydro-7-(1-hydroxy-1-methylethyl)-1,4a-dimethyl-1,8-naphthalenediol 1-acetate",C17H30O4,298.21440945,Chenopodium botrys,Chenopodium,KNApSAcK
+69,C00012777,67996-31-0,alpha-Chenopodiol,C15H26O2,238.19328007,Chenopodium botrys,Chenopodium,KNApSAcK
+70,C00012783,68127-21-9,beta-Chenopodiol,C15H26O2,238.19328007,Chenopodium botrys,Chenopodium,KNApSAcK
+71,C00012784,74841-79-5,"[1R-(1alpha,2beta,4abeta,8aalpha)]-1-(Acetyloxy)decahydro-alpha,alpha,4a-trimethyl-8-methylene-2-naphthalenemethanol",C17H28O3,280.20384476,Chenopodium botrys,Chenopodium,KNApSAcK
+72,C00012793,74799-43-2,Isochenopotriol,C15H26O3,254.1881947,Chenopodium botrys,Chenopodium,KNApSAcK
+73,C00012796,70902-38-4,Chenopotriol,C15H26O3,254.1881947,Chenopodium botrys,Chenopodium,KNApSAcK
+74,C00012797,74799-33-0,"[1R-(1alpha,2beta,4abeta,7beta,8aalpha)]-Decahydro-2-(1-hydroxy-1-methylethyl)-4a-methyl-8-methylene-1,7-naphthalenediol",C15H26O3,254.1881947,Chenopodium botrys,Chenopodium,KNApSAcK
+75,C00012843,74799-42-1,Chenopodienolone,C15H22O2,234.16197995,Chenopodium botrys,Chenopodium,KNApSAcK
+76,C00013596,2306-27-6,Sinensetin,C20H20O7,372.12090299,Chenopodium championii,Chenopodium,KNApSAcK
+77,C00013596,2306-27-6,Sinensetin,C20H20O7,372.12090299,Chenopodium botrys,Chenopodium,KNApSAcK
+78,C00013694,,Nepetin 7-rhamnoside-3'-xyloside,C27H30O15,594.15847029,Chenopodium ambrosioides,Chenopodium,KNApSAcK
+79,C00013755,262852-69-7,Kaempferol 3-xylosyl-(1->4)-rhamnoside-7-rhamnoside,C32H38O18,710.20581441,Chenopodium murale,Chenopodium,KNApSAcK
+80,C00013756,238736-48-6,Kaempferol 3-rhamnoside-7-xylosyl-(1->2)-rhamnoside,C32H38O18,710.20581441,Chenopodium murale,Chenopodium,KNApSAcK
+81,C00013757,262852-68-6,Kaempferol 3-apiosyl-(1->4)-rhamnoside-7-rhamnoside,C32H38O18,710.20581441,Chenopodium murale,Chenopodium,KNApSAcK
+82,C00020405,65647-30-5,Pleocarpenene,C15H26O2,238.19328007,Chenopodium botrys,Chenopodium,KNApSAcK
+83,C00020406,74799-29-4,11-Acetoxy-10(14)-guaien-4alpha-ol,C17H28O3,280.20384476,Chenopodium botrys,Chenopodium,KNApSAcK
+84,C00022191,50281-38-4,Apo-9-zeaxanthinone,C13H20O2,208.14632988,Chenopodium album,Chenopodium,KNApSAcK
+85,C00029946,51415-02-2,Chikusetsusaponin IVa,C42H66O14,794.44525682,Chenopodium quinoa Wild.,Chenopodium,KNApSAcK
+86,C00030509,129095-76-7,Ilexoside XLVIII,C42H66O15,810.44017144,Chenopodium quinoa Wild.,Chenopodium,KNApSAcK
+87,C00033200,96990-19-1,Momordin IIc,C47H74O18,926.48751556,Chenopodium quinoa,Chenopodium,KNApSAcK
+88,C00033566,1036373-74-6,3-O-alpha-L-arabinopyranosylserjanic acid 28-O-beta-D-glucopyranosyl ester,C42H66O14,794.44525682,Chenopodium quinoa Wild.,Chenopodium,KNApSAcK
+89,C00034186,191480-31-6,Quinoasaponin 1,C47H76O18,928.50316563,Chenopodium quinoa Wild.,Chenopodium,KNApSAcK
+90,C00034187,116107-22-3,Quinoasaponin 2,C48H78O19,958.51373031,Chenopodium quinoa Wild.,Chenopodium,KNApSAcK
+91,C00034188,116128-45-1,Quinoasaponin 3,C42H66O15,810.44017144,Chenopodium quinoa Wild.,Chenopodium,KNApSAcK
+92,C00034189,191480-32-7,Quinoasaponin 4,C48H76O20,972.49299487,Chenopodium quinoa Wild.,Chenopodium,KNApSAcK
+93,C00034190,116107-24-5,Quinoasaponin 5,C49H78O21,1002.50355956,Chenopodium quinoa Wild.,Chenopodium,KNApSAcK
+94,C00034191,128887-87-6,Quinoasaponin 8,C54H86O25,1134.5458183,Chenopodium quinoa Wild.,Chenopodium,KNApSAcK
+95,C00035142,666-48-43-9,N-trans-Feruloyl tyramine,C18H19NO4,313.1314081,Chenopodium album,Chenopodium,KNApSAcK
+96,C00043138,52210-15-8,"(6R,9R)-9-Hydroxy-4-megastigmen-3-one",C13H20O2,208.14632988,Chenopodium album,Chenopodium,KNApSAcK
+97,C00043139,761409-25-0,"(6S,7E,9E,11E)-3-Oxo-13-apo-alpha-caroten-13-one",C18H24O3,288.17254463,Chenopodium album,Chenopodium,KNApSAcK
+98,C00043179,99810-23-8,"3,6,9-Trihydroxy-4-megastigmene",C13H24O3,228.17254463,Chenopodium album,Chenopodium,KNApSAcK
+99,C00043180,63335-70-6,"3,9-Dihydroxy-4-megastigmene",C13H24O2,212.17763001,Chenopodium album,Chenopodium,KNApSAcK
+100,C00045563,14398-34-6,3-Hydroxy-beta-ionone,C13H20O2,208.14632988,Chenopodium album,Chenopodium,KNApSAcK
+101,C00050601,425394-91-8,"(-)-(1R,4S)-p-Mentha-2,8-dien-1-hydroperoxide",C10H16O2,168.11502975,Chenopodium ambrosioides,Chenopodium,KNApSAcK
+102,C00050602,265110-78-9,"(-)-(1S,4S)-p-Mentha-2,8-dien-1-hydroperoxide",C10H16O2,168.11502975,Chenopodium ambrosioides,Chenopodium,KNApSAcK
+103,C00050603,77026-83-6,"(-)-(2R,4S)-p-Mentha-1(7),8-dien-2-hydroperoxide",C10H16O2,168.11502975,Chenopodium ambrosioides,Chenopodium,KNApSAcK
+104,C00050604,77026-84-7,"(-)-(2S,4S)-p-Mentha-1(7),8-dien-2-hydroperoxide",C10H16O2,168.11502975,Chenopodium ambrosioides,Chenopodium,KNApSAcK
+105,C00051834,,Dopaxanthin-quinone,C18H16N2O8,388.0906655,Chenopodium quinoa,Chenopodium,KNApSAcK
+106,C00051835,18766-67-1,Cyclo-DOPA,C9H9NO4,195.05315778,Chenopodium quinoa,Chenopodium,KNApSAcK
+107,C00051836,,Leuko-DOPA-chrome-glucoside,C15H18O8,326.10016755,Chenopodium quinoa,Chenopodium,KNApSAcK
+108,C00051838,4430-97-1,o-DOPA-quinone,C9H9NO4,195.05315778,Chenopodium quinoa,Chenopodium,KNApSAcK
+109,C00051980,,"4,5-seco-DOPA",C9H11NO6,229.05863709,Chenopodium quinoa,Chenopodium,KNApSAcK
+110,C00051985,608-07-1,5-Methoxytryptamine,C11H14N2O,190.11061308,Chenopodium rubrum,Chenopodium,KNApSAcK
+111,C00052006,73-31-4,Melatonin,C13H16N2O2,232.12117777,Chenopodium rubrum,Chenopodium,KNApSAcK
+112,C00053981,911062-62-9,Chenoalbuside,C23H28O12,496.15807636,Chenopodium album,Chenopodium,KNApSAcK
+113,C00054246,146671-16-1,Chenopodin,C92H154N26O37S,2247.06889086,Chenopodium quinoa,Chenopodium,KNApSAcK
+114,C00056727,125002-88-2,N-trans-Isoferuloyl-3-O-methyldopamine,C19H21NO5,343.14197279,Chenopodium album,Chenopodium,KNApSAcK
+115,C00056965,123597-11-5,Quinoside A,C53H86O23,1090.55598906,Chenopodium quinoa,Chenopodium,KNApSAcK
+116,C00056989,125407-60-5,"13-Oxo-9,11-tridecadienoic acid",C13H20O3,224.1412445,Chenopodium album,Chenopodium,KNApSAcK
+117,C00058178,68985-14-8,1-O-Vanilloyl-beta-D-glucose,C14H18O9,330.09508217,Chenopodium quinoa,Chenopodium,KNApSAcK
+0,C00000136,470-82-6,"1,8-Cineol",C10H18O,154.1357652,Psidium guajava,Psidium,KNApSAcK
+1,C00000149,6750-60-3,Espatulenol,C15H24O,220.18271539,Psidium guajava,Psidium,KNApSAcK
+2,C00000152,7400-08-0,p-Coumaric acid,C9H8O3,164.04734412,Psidium guajava,Psidium,KNApSAcK
+3,C00000156,499-75-2,Carvacrol,C10H14O,150.10446507,Psidium guajava,Psidium,KNApSAcK
+4,C00000164,473-15-4,(+)-beta-Eudesmol,C15H26O,222.19836545,Psidium guajava,Psidium,KNApSAcK
+5,C00000165,1209-71-8,gamma-Eudesmol,C15H26O,222.19836545,Psidium guajava,Psidium,KNApSAcK
+6,C00000351,6728-26-3,(2E)-2-Hexanal,C6H10O,98.07316494,Psidium guajava,Psidium,KNApSAcK
+7,C00000353,6789-80-6,cis-3-Hexenal,C6H10O,98.07316494,Psidium guajava,Psidium,KNApSAcK
+8,C00000354,928-95-0,(E)-2-Hexenol,C6H12O,100.08881501,Psidium guajava,Psidium,KNApSAcK
+9,C00000357,66-25-1,Hexanal,C6H12O,100.08881501,Psidium guajava,Psidium,KNApSAcK
+10,C00000358,111-27-3,Hexan-1-ol,C6H14O,102.10446507,Psidium guajava,Psidium,KNApSAcK
+11,C00000615,501-16-6,Caffeic acid,C9H8O4,180.04225874,Psidium guajava,Psidium,KNApSAcK
+12,C00000619,97-53-0,Eugenol,C10H12O2,164.08372963,Psidium guajava,Psidium,KNApSAcK
+13,C00000620,97-54-1,Isoeugenol,C10H12O2,164.08372963,Psidium guajava,Psidium,KNApSAcK
+14,C00000803,5989-54-8,(-)-Limonene,C10H16,136.12520051,Psidium guajava,Psidium,KNApSAcK
+15,C00000804,546-80-5,(-)-3-Isothujone,C10H16O,152.12011513,Psidium guajava,Psidium,KNApSAcK
+16,C00000805,80-56-8,alpha-Pinene,C10H16,136.12520051,Psidium guajava,Psidium,KNApSAcK
+17,C00000806,18172-67-3,(-)-beta-Pinene,C10H16,136.12520051,Psidium guajava,Psidium,KNApSAcK
+18,C00000816,127-91-3,beta-Pinene,C10H16,136.12520051,Psidium guajava,Psidium,KNApSAcK
+19,C00000823,138-86-3,Limonene,C10H16,136.12520051,Psidium guajava,Psidium,KNApSAcK
+20,C00000843,3338-55-4,cis-beta-Ocimene,C10H16,136.12520051,Psidium guajava,Psidium,KNApSAcK
+21,C00000845,106-24-1,(E)-geraniol,C10H18O,154.1357652,Psidium guajava,Psidium,KNApSAcK
+22,C00000853,123-35-3,beta-Myrcene,C10H16,136.12520051,Psidium guajava,Psidium,KNApSAcK
+23,C00000861,586-62-9,alpha-Terpinolene,C10H16,136.12520051,Psidium guajava,Psidium,KNApSAcK
+24,C00000862,3779-61-1,trans-beta-Ocimene,C10H16,136.12520051,Psidium guajava,Psidium,KNApSAcK
+25,C00000911,502-65-8,Lycopene,C40H56,536.43820179,Psidium guajava,Psidium,KNApSAcK
+26,C00000913,27664-65-9,15-cis-Phytofluene,C40H62,542.48515198,Psidium guajava,Psidium,KNApSAcK
+27,C00000919,7235-40-7,beta-Carotene,C40H56,536.43820179,Psidium guajava,Psidium,KNApSAcK
+28,C00000920,472-70-8,beta-Cryptoxanthin,C40H56O,552.43311641,Psidium guajava,Psidium,KNApSAcK
+29,C00000926,472-93-5,gamma-Carotene,C40H56,536.43820179,Psidium guajava,Psidium,KNApSAcK
+30,C00000947,154-23-4,(+)-Catechin,C15H14O6,290.07903818,Psidium guajava,Psidium,KNApSAcK
+31,C00000956,490-46-0,(-)-Epicatechin,C15H14O6,290.07903818,Psidium guajava,Psidium,KNApSAcK
+32,C00000982,480-41-1,Naringenin,C15H12O5,272.06847349,Psidium guajava,Psidium,KNApSAcK
+33,C00001071,529-44-2,Myricetin,C15H10O8,318.0375673,Psidium guajava,Psidium,KNApSAcK
+34,C00001115,533-67-5,Deoxyribose,C5H10O4,134.05790881,Psidium guajava,Psidium,KNApSAcK
+35,C00001120,685-73-4,D-Galacturonic acid,C6H10O7,194.04265268,Psidium guajava,Psidium,KNApSAcK
+36,C00001122,492-62-6,alpha-D-Glucose,C6H12O6,180.06338812,Psidium guajava,Psidium,KNApSAcK
+37,C00001151,57-50-1,D-Sucrose,C12H22O11,342.11621155,Psidium guajava,Psidium,KNApSAcK
+38,C00001178,124-04-9,Adipic acid,C6H10O4,146.05790881,Psidium guajava,Psidium,KNApSAcK
+39,C00001179,50-81-7,(+)-Ascorbic acid,C6H8O6,176.03208799,Psidium guajava,Psidium,KNApSAcK
+40,C00001254,110-43-0,2-Heptanone,C7H14O,114.10446507,Psidium guajava,Psidium,KNApSAcK
+41,C00002647,149-91-7,Gallic acid,C7H6O5,170.0215233,Psidium guajava,Psidium,KNApSAcK
+42,C00002664,108-95-2,Phenol,C6H6O,94.04186481,Psidium guajava,Psidium,KNApSAcK
+43,C00002668,99-50-3,"3,4-Dihydroxybenzoic acid",C7H6O4,154.02660868,Psidium guajava,Psidium,KNApSAcK
+44,C00002682,121-34-6,Vanillic acid,C8H8O4,168.04225874,Psidium guajava,Psidium,KNApSAcK
+45,C00002741,93-15-2,Methyleugenol,C11H14O2,178.09937969,Psidium guajava,Psidium,KNApSAcK
+46,C00002743,1135-24-6,Ferulic acid,C10H10O4,194.05790881,Psidium guajava,Psidium,KNApSAcK
+47,C00002770,20283-92-5,Labiatenic acid,C18H16O8,360.08451749,Psidium guajava,Psidium,KNApSAcK
+48,C00002909,79786-00-8,Casuarictin,C41H28O26,936.08688107,Psidium guajava,Psidium,KNApSAcK
+49,C00002910,79786-01-9,Casuarinin,C41H28O26,936.08688107,Psidium guajava,Psidium,KNApSAcK
+50,C00002926,60976-49-0,Geraniin,C41H28O27,952.0817957,Psidium guajava,Psidium,KNApSAcK
+51,C00002932,7045-42-3,Pedunculagin,C34H24O22,784.07592246,Psidium guajava,Psidium,KNApSAcK
+52,C00002938,79786-08-6,Tellimagrandin I,C34H26O22,786.09157252,Psidium guajava,Psidium,KNApSAcK
+53,C00003028,507-70-0,Borneol,C10H18O,154.1357652,Psidium guajava,Psidium,KNApSAcK
+54,C00003029,79-92-5,Camphene,C10H16,136.12520051,Psidium guajava,Psidium,KNApSAcK
+55,C00003040,99-87-6,p-Cymene,C10H14,134.10955045,Psidium guajava,Psidium,KNApSAcK
+56,C00003051,99-83-2,alpha-Phellandrene,C10H16,136.12520051,Psidium guajava,Psidium,KNApSAcK
+57,C00003060,99-86-5,alpha-Terpinene,C10H16,136.12520051,Psidium guajava,Psidium,KNApSAcK
+58,C00003061,99-85-4,gamma-Terpinene,C10H16,136.12520051,Psidium guajava,Psidium,KNApSAcK
+59,C00003110,87-44-5,beta-Caryophyllene,C15H24,204.18780077,Psidium guajava,Psidium,KNApSAcK
+60,C00003111,469-61-4,alpha-Cedrene,C15H24,204.18780077,Psidium guajava,Psidium,KNApSAcK
+61,C00003116,18431-82-8,beta-Chamigrene,C15H24,204.18780077,Psidium guajava,Psidium,KNApSAcK
+62,C00003118,3856-25-5,alpha-Copaene,C15H24,204.18780077,Psidium guajava,Psidium,KNApSAcK
+63,C00003120,17699-14-8,alpha-Cubebene,C15H24,204.18780077,Psidium guajava,Psidium,KNApSAcK
+64,C00003124,887-08-1,Daucol,C15H26O2,238.19328007,Psidium guajava,Psidium,KNApSAcK
+65,C00003130,502-61-4,alpha-Farnesene,C15H24,204.18780077,Psidium guajava,Psidium,KNApSAcK
+66,C00003131,18794-84-8,E-beta-farnesene,C15H24,204.18780077,Psidium guajava,Psidium,KNApSAcK
+67,C00003132,4602-84-0,"trans,trans-Farnesol",C15H26O,222.19836545,Psidium guajava,Psidium,KNApSAcK
+68,C00003134,15423-57-1,Germacrene B,C15H24,204.18780077,Psidium guajava,Psidium,KNApSAcK
+69,C00003147,6753-98-6,alpha-Caryophyllene (obsol.),C15H24,204.18780077,Psidium guajava,Psidium,KNApSAcK
+70,C00003161,577-27-5,Ledol,C15H26O,222.19836545,Psidium guajava,Psidium,KNApSAcK
+71,C00003182,115-71-9,cis-alpha-Santalol,C15H24O,220.18271539,Psidium guajava,Psidium,KNApSAcK
+72,C00003186,17066-67-0,beta-Eudesmene,C15H24,204.18780077,Psidium guajava,Psidium,KNApSAcK
+73,C00003648,57-88-5,Cholesterol,C27H46O,386.35486609,Psidium guajava,Psidium,KNApSAcK
+74,C00003739,464-92-6,Asiatic acid,C30H48O5,488.35017464,Psidium guajava,Psidium,KNApSAcK
+75,C00003776,127-40-2,Lutein,C40H56O2,568.42803103,Psidium guajava,Psidium,KNApSAcK
+76,C00003785,3763-55-1,Rubixanthin,C40H56O,552.43311641,Psidium guajava,Psidium,KNApSAcK
+77,C00003817,520-36-5,Apigenin,C15H10O5,270.05282343,Psidium guajava,Psidium,KNApSAcK
+78,C00004624,480-16-0,Morin,C15H10O7,302.04265268,Psidium guajava,Psidium,KNApSAcK
+79,C00004631,117-39-5,Quercetin,C15H10O7,302.04265268,Psidium guajava,Psidium,KNApSAcK
+80,C00004635,480-19-3,Isorhamnetin,C16H12O7,316.05830274,Psidium guaijava,Psidium,KNApSAcK
+81,C00005367,572-30-5,Avicularin,C20H18O11,434.08491142,Psidium guajava,Psidium,KNApSAcK
+82,C00005368,22255-13-6,Guaijaverin,C20H18O11,434.08491142,Psidium guajava,Psidium,KNApSAcK
+83,C00005370,6743-88-0,Reynoutrin,C20H18O11,434.08491142,Psidium guajava,Psidium,KNApSAcK
+84,C00005372,482-36-0,Hyperin,C21H20O12,464.09547611,Psidium guajava,Psidium,KNApSAcK
+85,C00005373,482-35-9,Hirsutrin,C21H20O12,464.09547611,Psidium guajava,Psidium,KNApSAcK
+86,C00005373,482-35-9,Hirsutrin,C21H20O12,464.09547611,Psidium guaijava,Psidium,KNApSAcK
+87,C00005374,522-12-3,Quercetin 3-O-alpha-L-rhamnoside,C21H20O11,448.10056148,Psidium guajava,Psidium,KNApSAcK
+88,C00005376,22688-79-5,Miquelianin,C21H18O13,478.07474066,Psidium guaijava,Psidium,KNApSAcK
+89,C00005525,5041-82-7,Isorhamnetin 3-O-beta-D-glucopyranoside,C22H22O12,478.11112617,Psidium guaijava,Psidium,KNApSAcK
+90,C00007235,480-17-1,Leucocyanidin,C15H14O7,306.0739528,Psidium guajava,Psidium,KNApSAcK
+91,C00007242,495-61-4,beta-Bisabolene,C15H24,204.18780077,Psidium guajava,Psidium,KNApSAcK
+92,C00007290,58-86-6,D-Xylose,C5H10O5,150.05282343,Psidium guajava,Psidium,KNApSAcK
+93,C00007632,,(E)-alpha-Bisabolene,C15H24,204.18780077,Psidium guajava,Psidium,KNApSAcK
+94,C00007636,483-76-1,delta-Cadinene,C15H24,204.18780077,Psidium guajava,Psidium,KNApSAcK
+95,C00007994,135383-81-2,"3'-Formyl-2',4',6'-trihydroxydihydrochalcone",C16H14O5,286.08412356,Psidium acutangulum,Psidium,KNApSAcK
+96,C00007996,133034-13-6,"3'-Formyl-2',4',6'-trihydroxy-5'-methyldihydrochalcone",C17H16O5,300.09977362,Psidium acutangulum,Psidium,KNApSAcK
+97,C00008817,970-73-0,(+)-Gallocatechin,C15H14O7,306.0739528,Psidium guajava,Psidium,KNApSAcK
+98,C00009075,20315-25-7,Procyanidin B1,C30H26O12,578.1424263,Psidium guajava,Psidium,KNApSAcK
+99,C00009117,78362-04-6,Prodelphinidin B1,C30H26O14,610.13225554,Psidium guajava,Psidium,KNApSAcK
+100,C00009334,145826-26-2,Psidinin A,C55H36O31,1192.12405444,Psidium guajava,Psidium,KNApSAcK
+101,C00009335,145826-27-3,Psidinin B,C55H36O31,1192.12405444,Psidium guajava,Psidium,KNApSAcK
+102,C00009336,145826-28-4,Psidinin C,C55H38O31,1194.1397045,Psidium guajava,Psidium,KNApSAcK
+103,C00009337,145826-29-5,Psiguavin,C55H34O31,1190.10840438,Psidium guajava,Psidium,KNApSAcK
+104,C00009338,145826-23-9,Guajavin B,C56H38O32,1222.13461913,Psidium guajava,Psidium,KNApSAcK
+105,C00009339,145826-25-1,Eugenigrandin A,C56H38O32,1222.13461913,Psidium guajava,Psidium,KNApSAcK
+106,C00009340,145826-24-0,Guajavin A,C56H40O32,1224.15026919,Psidium guajava,Psidium,KNApSAcK
+107,C00009341,172617-79-7,Stachyuranin A,C62H42O36,1362.14557774,Psidium guajava,Psidium,KNApSAcK
+108,C00009358,108906-66-7,Acutissimin A,C56H38O31,1206.1397045,Psidium guajava,Psidium,KNApSAcK
+109,C00009359,108906-65-6,Acutissimin B,C56H38O31,1206.1397045,Psidium guajava,Psidium,KNApSAcK
+110,C00009363,118964-16-2,Mongolicain A,C63H42O36,1374.14557774,Psidium guajava,Psidium,KNApSAcK
+111,C00009364,105581-34-8,Guavin A,C56H40O32,1224.15026919,Psidium guajava,Psidium,KNApSAcK
+112,C00009365,105581-31-5,Guavin C,C56H40O33,1240.14518381,Psidium guajava,Psidium,KNApSAcK
+113,C00009366,107937-15-5,Guavin D,C51H38O29,1114.14987526,Psidium guajava,Psidium,KNApSAcK
+114,C00009373,97775-88-7,Stenophyllanin A,C56H40O31,1208.15535457,Psidium guajava,Psidium,KNApSAcK
+115,C00009380,486-66-8,Daidzein,C15H10O4,254.05790881,Psidium guajava,Psidium,KNApSAcK
+116,C00009392,40957-83-3,Glycitein,C16H12O5,284.06847349,Psidium guajava,Psidium,KNApSAcK
+117,C00010693,79617-00-8,Stansioside,C16H24O9,360.14203237,Campsidium valdivianum,Psidium,KNApSAcK
+118,C00010694,72396-01-1,Yuheinoside,C16H24O9,360.14203237,Campsidium valdivianum,Psidium,KNApSAcK
+119,C00010866,1076-56-8,3-Methoxy-p-cymene,C11H16O,164.12011513,Psidium guajava,Psidium,KNApSAcK
+120,C00010905,1195-32-0,4-Isopropenyl-1-methylbenzene,C10H12,132.09390038,Psidium guajava,Psidium,KNApSAcK
+121,C00010933,18479-68-0,p-Menth-1-en-9-ol,C10H18O,154.1357652,Psidium guajava,Psidium,KNApSAcK
+122,C00011153,476-66-4,Ellagic acid,C14H6O8,302.00626717,Psidium guajava,Psidium,KNApSAcK
+123,C00011606,15352-77-9,beta-Bisabolol,C15H26O,222.19836545,Psidium guajava,Psidium,KNApSAcK
+124,C00012005,639-99-6,(-)-Elemol,C15H26O,222.19836545,Psidium guajava,Psidium,KNApSAcK
+125,C00012443,19888-33-6,Humulene epoxide,C15H24O,220.18271539,Psidium guajava,Psidium,KNApSAcK
+126,C00012471,68832-35-9,(+)-9-epi-beta-Caryophyllene,C15H24,204.18780077,Psidium guajava,Psidium,KNApSAcK
+127,C00012474,118-65-0,Isocaryophyllene,C15H24,204.18780077,Psidium guajava,Psidium,KNApSAcK
+128,C00012483,1139-30-6,(-)-beta-Caryophyllene epoxide,C15H24O,220.18271539,Psidium guajava,Psidium,KNApSAcK
+129,C00012811,118173-08-3,Selin-6-en-4alpha-ol,C15H26O,222.19836545,Psidium guajava,Psidium,KNApSAcK
+130,C00012813,16641-47-7,Kongol,C15H26O,222.19836545,Psidium guajava,Psidium,KNApSAcK
+131,C00013836,201463-36-7,Quercetin 4'-glucuronide,C21H18O13,478.07474066,Psidium guajava,Psidium,KNApSAcK
+132,C00019308,474-58-8,3-O-beta-D-Glucopyranosyl sitosterol,C35H60O6,576.43898965,Psidium guajava,Psidium,KNApSAcK
+133,C00019681,59-23-4,D-Galactose,C6H12O6,180.06338812,Psidium guajava,Psidium,KNApSAcK
+134,C00020065,481-34-5,(-)-alpha-Cadinol,C15H26O,222.19836545,Psidium guajava,Psidium,KNApSAcK
+135,C00020066,5937-11-1,epi-alpha-Cadinol,C15H26O,222.19836545,Psidium guajava,Psidium,KNApSAcK
+136,C00020067,21391-99-1,alpha-Calacorene,C15H20,200.15650064,Psidium guajava,Psidium,KNApSAcK
+137,C00020074,483-77-2,Calamenene,C15H22,202.1721507,Psidium guajava,Psidium,KNApSAcK
+138,C00020112,483-78-3,Cadalene,C15H18,198.14085057,Psidium guajava,Psidium,KNApSAcK
+139,C00020130,24268-39-1,gamma-Muurolene,C15H24,204.18780077,Psidium guajava,Psidium,KNApSAcK
+140,C00020145,19912-67-5,1-Epicubenol,C15H26O,222.19836545,Psidium guajava,Psidium,KNApSAcK
+141,C00020154,19912-62-0,tau-Muurolol,C15H26O,222.19836545,Psidium guajava,Psidium,KNApSAcK
+142,C00020383,22567-17-5,gamma-gurjunene epoxide,C15H24,204.18780077,Psidium guajava,Psidium,KNApSAcK
+143,C00021217,552-02-3,Viridiflorol,C15H26O,222.19836545,Psidium guajava,Psidium,KNApSAcK
+144,C00021227,489-40-7,alpha-Gurjunene,C15H24,204.18780077,Psidium guajava,Psidium,KNApSAcK
+145,C00021229,25246-27-9,allo-Aromadendrene,C15H24,204.18780077,Psidium guajava,Psidium,KNApSAcK
+146,C00021230,489-39-4,(+)-Aromadendrene,C15H24,204.18780077,Psidium guajava,Psidium,KNApSAcK
+147,C00021310,53111-25-4,gamma-Himachalene,C15H24,204.18780077,Psidium guajava,Psidium,KNApSAcK
+148,C00021651,72203-99-7,Axenol,C15H26O,222.19836545,Psidium guajava,Psidium,KNApSAcK
+149,C00021968,4586-22-5,alpha-Caryophyllene alcohol,C15H26O,222.19836545,Psidium guajava,Psidium,KNApSAcK
+150,C00022949,220827-60-1,"(3S,5R,8S)-5,8-Epoxy-5,8-dihydro-beta,beta-caroten-3-ol",C40H56O2,568.42803103,Psidium guajava,Psidium,KNApSAcK
+151,C00023248,13312-52-2,"(9Z)-beta,beta-Carotene",C40H56,536.43820179,Psidium guajava,Psidium,KNApSAcK
+152,C00023249,6811-73-0,"(13Z)-beta,beta-Carotene",C40H56,536.43820179,Psidium guajava,Psidium,KNApSAcK
+153,C00023250,19361-58-1,"(15Z)-beta,beta-Carotene",C40H56,536.43820179,Psidium guajava,Psidium,KNApSAcK
+154,C00023251,64727-64-6,9-cis-Lycopene,C40H56,536.43820179,Psidium guajava,Psidium,KNApSAcK
+155,C00023252,13018-46-7,(13Z)-Lycopene,C40H56,536.43820179,Psidium guajava,Psidium,KNApSAcK
+156,C00023253,59092-07-8,15-cis-Lycopene,C40H56,536.43820179,Psidium guajava,Psidium,KNApSAcK
+157,C00023254,59491-56-4,(8'R)-Neochrome,C40H56O4,600.41786028,Psidium guajava,Psidium,KNApSAcK
+158,C00029339,40716-66-3,"(6E)-3,7,11-Trimethyl-1,6,10-dodecatrien-3-ol",C15H26O,222.19836545,Psidium guajava,Psidium,KNApSAcK
+159,C00029345,25152-85-6,(3Z)-Hexenyl benzoate,C13H16O2,204.11502975,Psidium guajava,Psidium,KNApSAcK
+160,C00029350,28973-97-9,cis-beta-Farnesene,C15H24,204.18780077,Psidium guajava,Psidium,KNApSAcK
+161,C00029369,15051-81-7,10-epi-gamma-Eudesmol,C15H26O,222.19836545,Psidium guajava,Psidium,KNApSAcK
+162,C00029451,4547-24-4,"2alpha,3beta-Dihydroxyurs-12-en-28-oic acid",C30H48O4,472.35526002,Psidium guajava,Psidium,KNApSAcK
+163,C00029452,554-61-0,2-Carene,C10H16,136.12520051,Psidium guajava,Psidium,KNApSAcK
+164,C00029463,821-55-6,2-Nonanone,C9H18O,142.1357652,Psidium guajava,Psidium,KNApSAcK
+165,C00029544,562-74-3,4-Terpineol,C10H18O,154.1357652,Psidium guajava,Psidium,KNApSAcK
+166,C00029633,7372-30-7,Acetylursolic acid,C32H50O4,498.37091008,Psidium guajava,Psidium,KNApSAcK
+167,C00029671,10208-80-7,alpha-Muurolene,C15H24,204.18780077,Psidium guajava,Psidium,KNApSAcK
+168,C00029672,473-13-2,(-)-alpha-Selinene,C15H24,204.18780077,Psidium guajava,Psidium,KNApSAcK
+169,C00029674,98-55-5,alpha-Terpineol,C10H18O,154.1357652,Psidium guajava,Psidium,KNApSAcK
+170,C00029679,515-69-5,alpha-Bisabolol,C15H26O,222.19836545,Psidium guajava,Psidium,KNApSAcK
+171,C00029724,465-00-9,Arjunolic acid,C30H48O5,488.35017464,Psidium guajava,Psidium,KNApSAcK
+172,C00029844,76-49-3,Borneol acetate,C12H20O2,196.14632988,Psidium guajava,Psidium,KNApSAcK
+173,C00029866,29837-12-5,"Cadina-1,4-diene",C15H24,204.18780077,Psidium guajava,Psidium,KNApSAcK
+174,C00029917,28231-03-0,Cedr-8(15)-en-9-ol,C15H24O,220.18271539,Psidium guajava,Psidium,KNApSAcK
+175,C00029970,18252-46-5,cis-alpha-Bergamotene,C15H24,204.18780077,Psidium guajava,Psidium,KNApSAcK
+176,C00030345,39029-41-9,gamma-Cadinene,C15H24,204.18780077,Psidium guajava,Psidium,KNApSAcK
+177,C00030758,112-12-9,2-Undecanone,C11H22O,170.16706532,Psidium guajava,Psidium,KNApSAcK
+178,C00030828,124-19-6,Nonadienal,C9H18O,142.1357652,Psidium guajava,Psidium,KNApSAcK
+179,C00031107,124960-53-8,Pterocarinin A,C46H36O30,1068.12913982,Psidium guajava,Psidium,KNApSAcK
+180,C00032864,536-60-7,Cumin alcohol,C10H14O,150.10446507,Psidium guajava,Psidium,KNApSAcK
+181,C00033734,21284-22-0,Cubenol,C15H26O,222.19836545,Psidium guajava,Psidium,KNApSAcK
+182,C00033848,57-48-7,D-Fructose,C6H12O6,180.06338812,Psidium guajava,Psidium,KNApSAcK
+183,C00033916,23811-08-7,Hinesol,C15H26O,222.19836545,Psidium guajava,Psidium,KNApSAcK
+184,C00034198,50-69-1,Ribose,C5H10O5,150.05282343,Psidium guajava,Psidium,KNApSAcK
+185,C00034452,100-52-7,Benzaldehyde,C7H6O,106.04186481,Psidium guajava,Psidium,KNApSAcK
+186,C00034456,73464-47-8,beta-Gurjunene,C15H24,204.18780077,Psidium guajava,Psidium,KNApSAcK
+187,C00034741,4630-07-3,Valencene,C15H24,204.18780077,Psidium guajava,Psidium,KNApSAcK
+188,C00035072,103-54-8,Cinnamyl acetate,C11H12O2,176.08372963,Psidium guajava,Psidium,KNApSAcK
+189,C00035092,106-28-5,trans-Farnesol,C15H26O,222.19836545,Psidium guajava,Psidium,KNApSAcK
+190,C00035098,78148-59-1,epi-alpha-Bisabolol,C15H26O,222.19836545,Psidium guajava,Psidium,KNApSAcK
+191,C00035100,2438-80-4,Fucose,C6H12O5,164.06847349,Psidium guajava,Psidium,KNApSAcK
+192,C00035115,122-97-4,3-Phenylpropanol,C9H12O,136.08881501,Psidium guajava,Psidium,KNApSAcK
+193,C00035138,141-12-8,Neryl acetate,C12H20O2,196.14632988,Psidium guajava,Psidium,KNApSAcK
+194,C00035167,26560-14-5,Zataroside A,C15H24,204.18780077,Psidium guajava,Psidium,KNApSAcK
+195,C00035393,517-46-4,Strictinin,C27H22O18,634.0806139,Psidium guajava,Psidium,KNApSAcK
+196,C00035441,13062-00-5,(Z)-gamma-Bisabolene,C15H24,204.18780077,Psidium guajava,Psidium,KNApSAcK
+197,C00035451,73365-77-2,"1,10-Di-epi-cubenol",C15H26O,222.19836545,Psidium guajava,Psidium,KNApSAcK
+198,C00035612,123-66-0,Ethyl hexanoate,C8H16O2,144.11502975,Psidium guajava,Psidium,KNApSAcK
+199,C00035613,106-32-1,Ethyl octanoate,C10H20O2,172.14632988,Psidium guajava,Psidium,KNApSAcK
+200,C00035668,87392-62-9,Isostrictinin,C27H22O18,634.0806139,Psidium guajava,Psidium,KNApSAcK
+201,C00035701,142-92-7,1-Hexyl acetate,C8H16O2,144.11502975,Psidium guajava,Psidium,KNApSAcK
+202,C00036247,28973-98-0,"(E,Z)-alpha-Farnesene",C15H24,204.18780077,Psidium guajava,Psidium,KNApSAcK
+203,C00036308,28028-64-0,D-germacrene,C15H24,204.18780077,Psidium guajava,Psidium,KNApSAcK
+204,C00036714,5989-08-2,alpha-Longipinene,C15H24,204.18780077,Psidium guajava,Psidium,KNApSAcK
+205,C00037022,189165-79-5,delta-Amorphene,C15H24,204.18780077,Psidium guajava,Psidium,KNApSAcK
+206,C00037223,489466-28-6,Guavacoumaric acid,C39H54O7,634.38695408,Psidium guajava,Psidium,KNApSAcK
+207,C00037224,488798-20-5,Guavanoic acid,C32H50O6,530.36073933,Psidium guajava,Psidium,KNApSAcK
+208,C00037295,338744-15-3,Ilelatifol D,C30H46O4,470.33960996,Psidium guajava,Psidium,KNApSAcK
+209,C00037334,112693-17-1,Isoneriucoumaric acid,C39H54O6,618.39203946,Psidium guajava,Psidium,KNApSAcK
+210,C00037357,63303-42-4,Jacoumaric acid,C39H54O6,618.39203946,Psidium guajava,Psidium,KNApSAcK
+211,C00037928,73209-42-4,trans-Calamenene,C15H22,202.1721507,Psidium guajava,Psidium,KNApSAcK
+212,C00037978,35959-05-8,"11,12-Dehydroursolic acid lactone",C30H46O3,454.34469533,Psidium guajava,Psidium,KNApSAcK
+213,C00038054,473-04-1,(-)-Eudesm-7(11)-en-4alpha-ol,C15H26O,222.19836545,Psidium guajava,Psidium,KNApSAcK
+214,C00041349,147-81-9,Arabinose,C5H10O5,150.05282343,Psidium guajava,Psidium,KNApSAcK
+215,C00042119,180005-32-7,"3beta,13beta-Dihydroxyurs-11-en-28-oic acid",C30H48O4,472.35526002,Psidium guajava,Psidium,KNApSAcK
+216,C00042346,24312-00-3,Castalagin,C41H26O26,934.07123101,Psidium guajava,Psidium,KNApSAcK
+217,C00043104,36001-47-5,Vescalagin,C41H26O26,934.07123101,Psidium guajava,Psidium,KNApSAcK
+218,C00048310,673-84-7,"2,6-Dimethyl-2,4,6-octatriene",C10H16,136.12520051,Psidium guajava,Psidium,KNApSAcK
+219,C00048328,50277-34-4,beta-Calacorene,C15H20,200.15650064,Psidium guajava,Psidium,KNApSAcK
+220,C00048329,18252-44-3,beta-Copaene,C15H24,204.18780077,Psidium guajava,Psidium,KNApSAcK
+221,C00048964,3681-71-8,cis-3-Hexenyl acetate,C8H14O2,142.09937969,Psidium guajava,Psidium,KNApSAcK
+222,C00050033,79786-04-2,Casuariin,C34H24O22,784.07592246,Psidium guajava,Psidium,KNApSAcK
+223,C00050424,513-86-0,3-hydroxy-2-Butanone,C4H8O2,88.0524295,Psidium guajava,Psidium,KNApSAcK
+224,C00050441,3458-28-4,D-Mannose,C6H12O6,180.06338812,Psidium guajava,Psidium,KNApSAcK
+225,C00050446,105-54-4,Ethyl butanoate,C6H12O2,116.08372963,Psidium guajava,Psidium,KNApSAcK
+226,C00050465,576-37-4,Glucuronic acid,C6H10O7,194.04265268,Psidium guajava,Psidium,KNApSAcK
+227,C00050471,110-19-0,Isobutyl acetate,C6H12O2,116.08372963,Psidium guajava,Psidium,KNApSAcK
+228,C00050481,623-42-7,Methyl butanoate,C5H10O2,102.06807956,Psidium guajava,Psidium,KNApSAcK
+229,C00050482,106-70-7,Methyl hexanoate,C7H14O2,130.09937969,Psidium guajava,Psidium,KNApSAcK
+230,C00051348,476-67-5,Luteic acid,C14H8O9,320.01683186,Psidium guajava,Psidium,KNApSAcK
+231,C00051686,203734-36-5,Myrciaphenone B,C21H22O13,482.10604079,Psidium guajava,Psidium,KNApSAcK
+232,C00052557,244226-09-3,14-Hydroxy-9-epi-(E)-caryophyllene,C15H24O,220.18271539,Psidium guajava,Psidium,KNApSAcK
+233,C00052681,577-85-5,3-Hydroxyflavone,C15H10O3,238.06299419,Psidium guajava,Psidium,KNApSAcK
+234,C00052695,122-72-5,1-Acetoxy-3-phenylpropane,C11H14O2,178.09937969,Psidium guajava,Psidium,KNApSAcK
+235,C00052803,17627-44-0,alpha-Bisabolene,C15H24,204.18780077,Psidium guajava,Psidium,KNApSAcK
+236,C00052890,10544-63-5,Ethyl crotonate,C6H10O2,114.06807956,Psidium guajava,Psidium,KNApSAcK
+237,C00052985,15706-73-7,Butyl-2-methylbutyrate,C9H18O2,158.13067982,Psidium guajava,Psidium,KNApSAcK
+238,C00053005,16491-36-4,cis-3-Hexenyl butyrate,C10H18O2,170.13067982,Psidium guajava,Psidium,KNApSAcK
+239,C00053078,41519-23-7,cis-3-Hexenyl isobutyrate,C10H18O2,170.13067982,Psidium guajava,Psidium,KNApSAcK
+240,C00053157,93-89-0,Ethyl benzoate,C9H10O2,150.06807956,Psidium guajava,Psidium,KNApSAcK
+241,C00053167,96-48-0,gamma Butyrolactone,C4H6O2,86.03677944,Psidium guajava,Psidium,KNApSAcK
+242,C00053196,695-06-7,gamma-Caprolactone,C6H10O2,114.06807956,Psidium guajava,Psidium,KNApSAcK
+243,C00053254,459-80-3,Geranic acid,C10H16O2,168.11502975,Psidium guajava,Psidium,KNApSAcK
+244,C00053272,1402066-93-6,Guadial A,C25H26O5,406.17802394,Psidium guajava,Psidium,KNApSAcK
+245,C00053273,1783802-72-1,Guadial B,C25H26O5,406.17802394,Psidium guajava,Psidium,KNApSAcK
+246,C00053274,1783802-73-2,Guadial C,C25H26O5,406.17802394,Psidium guajava,Psidium,KNApSAcK
+247,C00053275,959860-49-2,Guajadial,C30H34O5,474.2406242,Psidium guajava,Psidium,KNApSAcK
+248,C00053276,1414455-03-0,Guajadial B,C30H34O5,474.2406242,Psidium guajava,Psidium,KNApSAcK
+249,C00053277,1529775-02-7,Guajadial C,C30H34O5,474.2406242,Psidium guajava,Psidium,KNApSAcK
+250,C00053278,1529775-04-9,Guajadial D,C30H34O5,474.2406242,Psidium guajava,Psidium,KNApSAcK
+251,C00053279,1529775-06-1,Guajadial E,C30H34O5,474.2406242,Psidium guajava,Psidium,KNApSAcK
+252,C00053280,1529775-08-3,Guajadial F,C30H34O5,474.2406242,Psidium guajava,Psidium,KNApSAcK
+253,C00053712,1207181-35-8,Psidial A,C30H34O5,474.2406242,Psidium guajava,Psidium,KNApSAcK
+254,C00053713,1254173-26-6,Psiguadial B,C30H34O5,474.2406242,Psidium guajava,Psidium,KNApSAcK
+255,C00053714,1402066-94-7,Psiguadial C,C30H34O6,490.23553882,Psidium guajava,Psidium,KNApSAcK
+256,C00053715,1402066-95-8,Psiguadial D,C30H34O5,474.2406242,Psidium guajava,Psidium,KNApSAcK
+257,C00053716,2108086-50-4,Psiguajavadial A,C25H26O5,406.17802394,Psidium guajava,Psidium,KNApSAcK
+258,C00053717,2108086-51-5,Psiguajavadial B,C30H34O5,474.2406242,Psidium guajava,Psidium,KNApSAcK
+259,C00053738,30370-87-7,Quercetin-3-O-arabinoside,C20H18O11,434.08491142,Psidium guajava,Psidium,KNApSAcK
+260,C00054043,147852-83-3,N-(Tetrahydro-2-oxo-3-furanyl)hexanamide,C10H17NO3,199.12084342,Psidium guajava,Psidium,KNApSAcK
+261,C00054044,177158-20-2,C7-HSL,C11H19NO3,213.13649348,Psidium guajava,Psidium,KNApSAcK
+262,C00054080,143986-30-5,"3,4-Dihydroxybenzoyl beta-D-xylopyranoside",C12H14O8,286.06886743,Psidium guajava,Psidium,KNApSAcK
+263,C00054256,69297-40-1,3beta-O-cis-p-Coumaroylmaslinic acid,C39H54O6,618.39203946,Psidium guajava,Psidium,KNApSAcK
+264,C00054257,35482-91-8,3beta-O-trans-p-Coumaroylmaslinic acid,C39H54O6,618.39203946,Psidium guajava,Psidium,KNApSAcK
+265,C00054971,19833-16-0,"Arabinopyranose cyclic 3,4-(4,4',5,5',6,6'-hexahydroxydiphenate)",C19H16O13,452.0590906,Psidium guajava,Psidium,KNApSAcK
+266,C00055109,2455-85-8,Amritoside,C26H26O18,626.11191403,Psidium guajava,Psidium,KNApSAcK
+267,C00055518,1169758-29-5,Diguajadial,C60H66O9,930.47068371,Psidium guajava,Psidium,KNApSAcK
+268,C00055585,31501-11-8,cis-3-Hexenyl hexanoate,C12H22O2,198.16197995,Psidium guajava,Psidium,KNApSAcK
+269,C00055589,16635-54-4,(2Z)-2-Hexenal,C6H10O,98.07316494,Psidium guajava,Psidium,KNApSAcK
+270,C00055685,54868-40-5,"4,5-di-epi-Aristolochene",C15H24,204.18780077,Psidium guajava,Psidium,KNApSAcK
+271,C00056798,1006033-02-8,Psidiumoic acid,C32H52O5,516.38147477,Psidium guajava,Psidium,KNApSAcK
+272,C00056939,1207181-36-9,Psidial B,C30H36O6,492.25118888,Psidium guajava,Psidium,KNApSAcK
+273,C00056940,1207181-37-0,Psidial C,C30H36O6,492.25118888,Psidium guajava,Psidium,KNApSAcK
+274,C00056990,1254173-25-5,Psiguadial A,C30H34O5,474.2406242,Psidium guajava,Psidium,KNApSAcK
+275,C00057343,3194-15-8,1-(2-Furyl)-1-propanone,C7H8O2,124.0524295,Psidium guajava,Psidium,KNApSAcK
+276,C00057412,499242-91-0,Quercetin 3-(2-galloylglucoside) 4'-vinylpropanoate,C33H30O18,714.14321416,Psidium guajava,Psidium,KNApSAcK
+277,C00057839,125288-23-5,"3,4,5-Trimethoxyphenyl 2,6-digalloylglucoside",C29H30O17,650.14829954,Psidium guajava,Psidium,KNApSAcK
+278,C00059005,104245-48-9,alpha-Muurolol,C15H28O,224.21401552,Psidium guajava,Psidium,KNApSAcK
+279,C00059446,1219603-97-0,"(2aR,4aS,10S,10aR,13aS)-1,2,2a,3,4,4a,10,10a,11,12,13,13a-Dodecahydro-7,9-dihydroxy-2,2,4a-trimethyl-13-methylene-10-phenylbenzo[b]cyclobuta[5,6]cyclonona[1,2-e]pyran-6,8-dicarboxaldehyde",C30H34O5,474.2406242,Psidium guajava,Psidium,KNApSAcK
+280,C00059674,1334652-21-9,Psiguanin B,C30H50O6,506.36073933,Psidium guajava,Psidium,KNApSAcK
+281,C00059675,1334652-22-0,Psiguanin D,C30H50O6,506.36073933,Psidium guajava,Psidium,KNApSAcK
+282,C00059839,1397162-81-0,Psiguanin A,C30H48O4,472.35526002,Psidium guajava,Psidium,KNApSAcK
+283,C00059840,1397162-89-8,Psiguanin C,C30H50O6,506.36073933,Psidium guajava,Psidium,KNApSAcK
+284,C00059894,142-83-6,"(2E,4E)-2,4-Hexadienal",C6H8O,96.05751488,Psidium guajava,Psidium,KNApSAcK
+285,C00060003,14727-47-0,trans-Isolongifolanone,C15H24O,220.18271539,Psidium guajava,Psidium,KNApSAcK
+286,C00060020,1481-83-0,Flavan-3-ol,C15H14O2,226.09937969,Psidium guajava,Psidium,KNApSAcK
+287,C00060105,15514-06-4,Procyanidin B,C30H26O12,578.1424263,Psidium guajava,Psidium,KNApSAcK
+288,C00060112,155800-17-2,3beta-cis-p-Coumaroyloxy-2alpha-hydroxyurs-12-en-28-oic acid,C39H54O6,618.39203946,Psidium guajava,Psidium,KNApSAcK
+289,C00060113,155800-18-3,3beta-O-trans-Feruloyl-2alpha-hydroxyurs-12-en-28-oic acid,C40H56O7,648.40260414,Psidium guajava,Psidium,KNApSAcK
+290,C00060114,155800-20-7,3beta-O-cis-Feruloyl-2alpha-hydroxyurs-12-en-28-oic acid,C40H56O7,648.40260414,Psidium guajava,Psidium,KNApSAcK
+291,C00060378,1745-81-9,2-Propenyl-2-phenol,C9H10O,134.07316494,Psidium guajava,Psidium,KNApSAcK
+292,C00060579,189272-68-2,Eucalyptolic acid,C40H56O7,648.40260414,Psidium guajava,Psidium,KNApSAcK
+293,C00060635,19549-86-1,"2,6-Dimethyl-1,3,6-heptatriene",C9H14,122.10955045,Psidium guajava,Psidium,KNApSAcK
+294,C00060751,20754-04-5,3-Methyl-4-octanone,C9H18O,142.1357652,Psidium guajava,Psidium,KNApSAcK
+295,C00061013,2407-43-4,5-Ethyl-2(5H)-furanone,C6H8O2,112.0524295,Psidium guajava,Psidium,KNApSAcK
+296,C00061240,281-23-2,"Tricyclo[3.3.1.13,7]decane",C10H16,136.12520051,Psidium guajava,Psidium,KNApSAcK
+297,C00061287,289680-28-0,6beta-Hydroxymaslinic acid,C30H48O5,488.35017464,Psidium guajava,Psidium,KNApSAcK
+298,C00061289,28973-99-1,"(3Z,6Z)-alpha-Farnesene",C15H24,204.18780077,Psidium guajava,Psidium,KNApSAcK
+299,C00061297,291774-65-7,"1,3-Dimethoxy-2-methyl-5-(1-methylethyl)benzene",C12H18O2,194.13067982,Psidium guajava,Psidium,KNApSAcK
+300,C00061316,29548-16-1,p-Menth-1(7)-en-9-ol,C10H18O,154.1357652,Psidium guajava,Psidium,KNApSAcK
+301,C00061608,3615-41-6,L-(+)-Rhamnose,C6H12O5,164.06847349,Psidium guajava,Psidium,KNApSAcK
+302,C00061641,372955-16-3,Guavinoside A,C26H24O13,544.12169086,Psidium guajava,Psidium,KNApSAcK
+303,C00061642,372955-18-5,Guavinoside B,C28H28O13,572.15299098,Psidium guajava,Psidium,KNApSAcK
+304,C00061884,475256-35-0,Morin-3-O-alpha-L-lyxopyranoside,C20H18O11,434.08491142,Psidium guajava,Psidium,KNApSAcK
+305,C00061885,475256-37-2,Morin-3-O-alpha-L-arabopyranoside,C20H18O11,434.08491142,Psidium guajava,Psidium,KNApSAcK
+306,C00061930,491-04-3,3-Carvomenthenol,C10H18O,154.1357652,Psidium guajava,Psidium,KNApSAcK
+307,C00061977,504-17-6,Thiobarbituric acid,C4H4N2O2S,143.99934812,Psidium guajava,Psidium,KNApSAcK
+308,C00062002,50895-55-1,gamma-Cadinol,C15H26O,222.19836545,Psidium guajava,Psidium,KNApSAcK
+309,C00062006,50986-18-0,Arabinoside,C5H10O5,150.05282343,Psidium guajava,Psidium,KNApSAcK
+310,C00062136,540-10-3,Cetin,C32H64O2,480.49063129,Psidium guajava,Psidium,KNApSAcK
+311,C00062363,59491-55-3,(8'S)-Neochrome,C40H56O4,600.41786028,Psidium guajava,Psidium,KNApSAcK
+312,C00062490,624742-84-3,Guavinoside C,C27H22O15,586.09587004,Psidium guajava,Psidium,KNApSAcK
+313,C00062719,69671-13-2,Calamanene,C15H22,202.1721507,Psidium guajava,Psidium,KNApSAcK
+314,C00063032,79768-25-5,14-Hydroxyisocaryophyllene,C15H24O,220.18271539,Psidium guajava,Psidium,KNApSAcK
+315,C00063038,8000-41-7,Terpineol,C10H18O,154.1357652,Psidium guajava,Psidium,KNApSAcK
+316,C00063117,84236-09-9,"[1R-(1alpha,4alpha,4aalpha)]-1,2,3,4,4a,5,6,7-Octahydro-4-methyl-7-methylene-1-(1-methylethyl)-naphthalene",C15H24,204.18780077,Psidium guajava,Psidium,KNApSAcK
+317,C00063295,88847-10-3,"(S)-2,3-HHDP-6-O-galloyl-D-glucose",C27H22O18,634.0806139,Psidium guajava,Psidium,KNApSAcK
+318,C00063467,94530-90-2,Guavin B,C33H26O17,694.11699941,Psidium guajava,Psidium,KNApSAcK
+0,C00001408,51-61-6,Dopamine,C8H11NO2,153.0789786,Hermidium alipes,Hermidium,KNApSAcK

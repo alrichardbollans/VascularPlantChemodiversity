@@ -1,0 +1,1056 @@
+,C_ID,CAS ID,example_compound_name,Molecular formula,Mw,Organism,knapsack_search_term,Source
+0,C00000627,6216-81-5,Lirioresinol B,C22H26O8,418.16276781,Drypetes molunduana Pax and Hoffm,Drypetes,KNApSAcK
+1,C00001467,36286-64-3,Glucocleomin,C12H23NO10S2,405.07633742,Drypetes roxburghii,Drypetes,KNApSAcK
+2,C00001479,18432-16-1,Glucoputranjivin,C10H19NO9S2,361.05012267,Drypetes roxburghii,Drypetes,KNApSAcK
+3,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Drypetes inaequalis,Drypetes,KNApSAcK
+4,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Drypetes tessmanniana,Drypetes,KNApSAcK
+5,C00003674,83-48-7,beta-Stigmasterol,C29H48O,412.37051615,Drypetes inaequalis,Drypetes,KNApSAcK
+6,C00003747,559-74-0,3-Friedelanone,C30H50O,426.38616622,Drypetes tessmanniana,Drypetes,KNApSAcK
+7,C00003747,559-74-0,3-Friedelanone,C30H50O,426.38616622,Drypetes inaequalis,Drypetes,KNApSAcK
+8,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Drypetes tessmanniana,Drypetes,KNApSAcK
+9,C00007342,35610-41-4,4-Hydroxybutylglucosinolate,C11H21NO10S2,391.06068736,Drypetes gossweileri,Drypetes,KNApSAcK
+10,C00019064,508-02-1,Oleanolic acid,C30H48O3,456.3603454,Drypetes inaequalis,Drypetes,KNApSAcK
+11,C00019065,545-48-2,Erythrodiol,C30H50O2,442.38108084,Drypetes molunduana Pax and Hoffm,Drypetes,KNApSAcK
+12,C00029487,279255-75-3,"3beta,6alpha-Dihydroxylup-20(29)-ene",C30H50O2,442.38108084,Drypetes tessmanniana,Drypetes,KNApSAcK
+13,C00030459,465-99-6,Hederagenin,C30H48O4,472.35526002,Drypetes molunduana Pax and Hoffm,Drypetes,KNApSAcK
+14,C00031116,511-82-0,Queretaroic acid,C30H48O4,472.35526002,Drypetes inaequalis,Drypetes,KNApSAcK
+15,C00033565,4339-72-4,3-Acetyl oleanolic acid,C32H50O4,498.37091008,Drypetes molunduana Pax and Hoffm,Drypetes,KNApSAcK
+16,C00037072,307924-65-8,Drypemolundein A,C15H14O4,258.08920894,Drypetes molunduana Pax and Hoffm,Drypetes,KNApSAcK
+17,C00037073,307924-66-9,Drypemolundein B,C30H48O2,440.36543078,Drypetes molunduana Pax and Hoffm,Drypetes,KNApSAcK
+18,C00045528,349655-27-2,1-Hydroxy-7-hydroxymethyl-6-methoxyxanthone,C15H12O5,272.06847349,Drypetes littoralis,Drypetes,KNApSAcK
+19,C00045868,350686-44-1,Drypetenone A,C19H20O4,312.13615913,Drypetes littoralis,Drypetes,KNApSAcK
+20,C00045869,350686-45-2,Drypetenone B,C19H22O4,314.15180919,Drypetes littoralis,Drypetes,KNApSAcK
+21,C00045870,350686-46-3,Drypetenone C,C20H22O5,342.14672381,Drypetes littoralis,Drypetes,KNApSAcK
+22,C00048287,76235-99-9,3-Oxofriedelan-25-al,C30H48O2,440.36543078,Drypetes inaequalis,Drypetes,KNApSAcK
+23,C00048533,25488-57-7,Serjanic acid,C31H48O5,500.35017464,Drypetes inaequalis,Drypetes,KNApSAcK
+0,C00002145,7689-03-4,Camptothecin,C20H16N2O4,348.11100701,Merrilliodendron megacarpum,Liodendron,KNApSAcK
+0,C00001015,1617-53-4,Amentoflavone,C30H18O10,538.0899968,Putranjiva roxburghii,Putranjiva,KNApSAcK
+1,C00006490,22136-74-9,Podocarpusflavone,C31H20O10,552.10564686,Putranjiva roxburghii,Putranjiva,KNApSAcK
+2,C00006492,23624-21-7,Podocarpusflavone B,C32H22O10,566.12129692,Putranjiva roxburghii,Putranjiva,KNApSAcK
+3,C00040121,51161-59-2,Putranoside D,C53H84O22,1072.54542437,Putranjiva roxburghii,Putranjiva,KNApSAcK
+4,C00041798,20711-14-2,Putranjivic acid,C30H50O2,442.38108084,Putranjiva roxburghii,Putranjiva,KNApSAcK
+0,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Xylosma congestum,Xylosma,KNApSAcK
+0,C00002903,501-36-0,Resveratrol,C14H12O3,228.07864425,Hopea utilis,Hopea,KNApSAcK
+1,C00002905,62218-08-0,(-)-epsilon-Viniferin,C28H22O6,454.14163844,Hopea parviflora,Hopea,KNApSAcK
+2,C00002905,62218-08-0,(-)-epsilon-Viniferin,C28H22O6,454.14163844,Hopea utilis,Hopea,KNApSAcK
+3,C00002981,477-90-7,Bergenin,C14H16O9,328.07943211,Hopea utilis,Hopea,KNApSAcK
+4,C00003742,14351-28-1,Dammarenediol-I,C30H52O2,444.3967309,Hopea odorata,Hopea,KNApSAcK
+5,C00007190,487-36-5,(+)-Pinoresinol,C20H22O6,358.14163844,Brunfelsia hopeana,Hopea,KNApSAcK
+6,C00007205,14464-90-5,(+)-Lyoniresinol,C22H28O8,420.17841787,Hopea utilis,Hopea,KNApSAcK
+7,C00015736,130608-11-6,(+)-Ampelopsin A,C28H22O7,470.13655306,Hopea utilis,Hopea,KNApSAcK
+8,C00015742,99646-13-6,Balanocarpol,C28H22O7,470.13655306,Hopea utilis,Hopea,KNApSAcK
+9,C00015742,99646-13-6,Balanocarpol,C28H22O7,470.13655306,Hopea malibato,Hopea,KNApSAcK
+10,C00015742,99646-13-6,Balanocarpol,C28H22O7,470.13655306,Hopea jucunda,Hopea,KNApSAcK
+11,C00015756,75514-29-3,Copalliferol A,C42H32O9,680.20463262,Hopea cordifolia,Hopea,KNApSAcK
+12,C00015786,17912-85-5,Hopeaphenol,C56H42O12,906.26762681,Hopea parviflora,Hopea,KNApSAcK
+13,C00015786,17912-85-5,Hopeaphenol,C56H42O12,906.26762681,Hopea odorata,Hopea,KNApSAcK
+14,C00029278,280561-81-1,(-)-Ampelopsin A,C28H22O7,470.13655306,Hopea parviflora,Hopea,KNApSAcK
+15,C00029289,287101-83-1,Vaticanol B,C56H42O12,906.26762681,Hopea utilis,Hopea,KNApSAcK
+16,C00033157,204644-70-2,Malibatol A,C28H20O7,468.12090299,Hopea utilis,Hopea,KNApSAcK
+17,C00033157,204644-70-2,Malibatol A,C28H20O7,468.12090299,Hopea malibato,Hopea,KNApSAcK
+18,C00036301,280551-88-4,(+)-Balanocarpol,C28H22O7,470.13655306,Hopea parviflora,Hopea,KNApSAcK
+19,C00036317,280551-87-3,(+)-Parviflorol,C21H16O7,380.08960287,Hopea parviflora,Hopea,KNApSAcK
+20,C00049785,204644-73-5,Dibalanocarpol,C56H42O14,938.25745605,Hopea malibato,Hopea,KNApSAcK
+21,C00049817,204644-72-4,Malibatol B,C28H20O9,500.11073224,Hopea malibato,Hopea,KNApSAcK
+0,C00000010,118-34-3,Syringin,C17H24O9,372.14203237,Ilex chinensis,Ilex,KNApSAcK
+1,C00000010,118-34-3,Syringin,C17H24O9,372.14203237,Ilex paraguariensis,Ilex,KNApSAcK
+2,C00000152,7400-08-0,p-Coumaric acid,C9H8O3,164.04734412,Ilex paraguariensis,Ilex,KNApSAcK
+3,C00000613,3690-05-9,p-Coumaryl alcohol,C9H10O2,150.06807956,Ilex paraguariensis,Ilex,KNApSAcK
+4,C00000614,458-35-5,Coniferyl alcohol,C10H12O3,180.07864425,Ilex paraguariensis,Ilex,KNApSAcK
+5,C00000615,501-16-6,Caffeic acid,C9H8O4,180.04225874,Ilex paraguariensis,Ilex,KNApSAcK
+6,C00000615,501-16-6,Caffeic acid,C9H8O4,180.04225874,Ilex chinensis,Ilex,KNApSAcK
+7,C00000907,13058-04-3,Farnesyl pyrophosphate,C15H28O7P2,382.13102623,Ilex asprella,Ilex,KNApSAcK
+8,C00001209,506-30-9,Arachidic acid,C20H40O2,312.30283052,Ilex integra,Ilex,KNApSAcK
+9,C00001224,60-33-3,Linoleic acid,C18H32O2,280.24023027,Ilex integra,Ilex,KNApSAcK
+10,C00001490,73-24-5,Adenine,C5H5N5,135.0544952,Ilex paraguariensis,Ilex,KNApSAcK
+11,C00001492,58-08-2,Caffeine,C8H10N4O2,194.08037559,Ilex paraguariensis,Ilex,KNApSAcK
+12,C00001492,58-08-2,Caffeine,C8H10N4O2,194.08037559,Ilex paraguayensis,Ilex,KNApSAcK
+13,C00001492,58-08-2,Caffeine,C8H10N4O2,194.08037559,Ilex cornuta,Ilex,KNApSAcK
+14,C00001509,83-67-0,Theobromine,C7H8N4O2,180.06472553,Ilex perado,Ilex,KNApSAcK
+15,C00001509,83-67-0,Theobromine,C7H8N4O2,180.06472553,Ilex paraguariensis A.St.-Hil.,Ilex,KNApSAcK
+16,C00001510,58-55-9,Theophylline,C7H8N4O2,180.06472553,Ilex paraguariensi,Ilex,KNApSAcK
+17,C00001510,58-55-9,Theophylline,C7H8N4O2,180.06472553,Ilex paraguariensis,Ilex,KNApSAcK
+18,C00002499,92-61-5,Scopoletin,C10H8O4,192.04225874,Ilex pubescens var.glaber,Ilex,KNApSAcK
+19,C00002631,21453-69-0,(+)-Lirioresinol B,C22H26O8,418.16276781,Ilex asprella,Ilex,KNApSAcK
+20,C00002668,99-50-3,"3,4-Dihydroxybenzoic acid",C7H6O4,154.02660868,Ilex chinensis,Ilex,KNApSAcK
+21,C00002693,1197-09-7,"3',4'-Dihydroxyacetophenone",C8H8O3,152.04734412,Ilex pubescens var. glabra,Ilex,KNApSAcK
+22,C00002725,104-55-2,Cinnamaldehyde,C9H8O,132.05751488,Ilex paraguariensis,Ilex,KNApSAcK
+23,C00002727,531-29-3,Coniferin,C16H22O8,342.13146768,Ilex paraguariensis,Ilex,KNApSAcK
+24,C00002728,458-36-6,Coniferaldehyde,C10H10O3,178.06299419,Ilex paraguariensis,Ilex,KNApSAcK
+25,C00002743,1135-24-6,Ferulic acid,C10H10O4,194.05790881,Ilex paraguariensis,Ilex,KNApSAcK
+26,C00002775,4206-58-0,Sinapaldehyde,C11H12O4,208.07355887,Ilex paraguariensis,Ilex,KNApSAcK
+27,C00002776,530-59-6,Sinapic acid,C11H12O5,224.06847349,Ilex paraguariensis,Ilex,KNApSAcK
+28,C00002778,537-33-7,Sinapyl alcohol,C11H14O4,210.08920894,Ilex paraguariensis,Ilex,KNApSAcK
+29,C00003531,85344-31-6,Ilexolide A,C35H54O7,586.38695408,Ilex pubescens,Ilex,KNApSAcK
+30,C00003737,638-95-9,alpha-Amyrin,C30H50O,426.38616622,Ilex pubescens,Ilex,KNApSAcK
+31,C00003737,638-95-9,alpha-Amyrin,C30H50O,426.38616622,Ilex asprella,Ilex,KNApSAcK
+32,C00003738,559-70-6,beta-Amyrin,C30H50O,426.38616622,Ilex pubescens,Ilex,KNApSAcK
+33,C00003738,559-70-6,beta-Amyrin,C30H50O,426.38616622,Ilex asprella,Ilex,KNApSAcK
+34,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Ilex latifolia,Ilex,KNApSAcK
+35,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Ilex cornuta,Ilex,KNApSAcK
+36,C00003755,111-02-4,All-trans-squalene,C30H50,410.39125159,Ilex asprella,Ilex,KNApSAcK
+37,C00005851,20316-62-5,Kaempferol 3-O-beta-D-(6''-E-p-coumaroyl)glucopyranoside,C30H26O13,594.13734092,Quercus ilex,Ilex,KNApSAcK
+38,C00005854,121651-61-4,"Kaempferol 3-(2'',6''-di-(E)-p-coumarylglucoside)",C39H32O15,740.17412036,Quercus ilex,Ilex,KNApSAcK
+39,C00006635,,Pelargonidin 3-sambubioside,C26H29O14,565.15573064,Ilex aquifolium,Ilex,KNApSAcK
+40,C00006658,"38820-68-7,18376-31-3",Cyanidin 3-sophoroside,C27H31O16,611.16120995,Ilex pubescens,Ilex,KNApSAcK
+41,C00007222,146-80-5,Xanthosine,C10H12N4O6,284.07568415,Ilex paraguariensis,Ilex,KNApSAcK
+42,C00007224,131-99-7,IMP,C10H13N4O8P,348.04709991,Ilex paraguariensis,Ilex,KNApSAcK
+43,C00007264,30802-02-9,Feruloyl-CoA,C31H44N7O19P3S,943.16255248,Ilex paraguariensis,Ilex,KNApSAcK
+44,C00007281,53034-79-0,caffeoyl-CoA,C30H42N7O19P3S,929.14690242,Ilex paraguariensis,Ilex,KNApSAcK
+45,C00007282,7200-26-2,"(S)-2,3-Epoxysqualene",C30H50O,426.38616622,Ilex asprella,Ilex,KNApSAcK
+46,C00007282,7200-26-2,"(S)-2,3-Epoxysqualene",C30H50O,426.38616622,Ilex pubescens,Ilex,KNApSAcK
+47,C00007283,54429-80-0,Sinapoyl-CoA,C32H46N7O20P3S,973.17311717,Ilex paraguariensis,Ilex,KNApSAcK
+48,C00007326,552-62-5,7-Methylxanthine,C6H6N4O2,166.04907547,Ilex paraguariensis,Ilex,KNApSAcK
+49,C00007336,1782-55-4,5-Hydroxyferulic acid,C10H10O5,210.05282343,Ilex paraguariensis,Ilex,KNApSAcK
+50,C00007337,1782-47-4,5-Hydroxyconiferyl alcohol,C10H12O4,196.07355887,Ilex paraguariensis,Ilex,KNApSAcK
+51,C00007361,59862-14-5,5-Hydroxyferuloyl-CoA,C31H44N7O20P3S,959.1574671,Ilex paraguariensis,Ilex,KNApSAcK
+52,C00007396,523-98-8,Xanthosine 5'-monophosphate,C10H13N4O9P,364.04201454,Ilex paraguariensis,Ilex,KNApSAcK
+53,C00007426,506-12-7,Heptadecanoic acid,C17H34O2,270.25588033,Ilex integra,Ilex,KNApSAcK
+54,C00007511,68149-78-0,Caffeoyl aldehyde,C9H8O3,164.04734412,Ilex paraguariensis,Ilex,KNApSAcK
+55,C00007572,29885-96-9,7-Methylxanthosine,C11H15N4O6,299.09915924,Ilex paraguariensis,Ilex,KNApSAcK
+56,C00019064,508-02-1,Oleanolic acid,C30H48O3,456.3603454,Ilex pubescens,Ilex,KNApSAcK
+57,C00019064,508-02-1,Oleanolic acid,C30H48O3,456.3603454,Ilex asprella,Ilex,KNApSAcK
+58,C00019347,61-19-8,AMP,C10H14N5O7P,347.06308433,Ilex paraguariensis,Ilex,KNApSAcK
+59,C00029412,70868-78-9,19alpha-Hydroxyasiatic acid,C30H48O6,504.34508927,Quercus ilex,Ilex,KNApSAcK
+60,C00029633,7372-30-7,Acetylursolic acid,C32H50O4,498.37091008,Ilex pubescens,Ilex,KNApSAcK
+61,C00029633,7372-30-7,Acetylursolic acid,C32H50O4,498.37091008,Ilex cornuta,Ilex,KNApSAcK
+62,C00029633,7372-30-7,Acetylursolic acid,C32H50O4,498.37091008,Ilex integra,Ilex,KNApSAcK
+63,C00029633,7372-30-7,Acetylursolic acid,C32H50O4,498.37091008,Ilex asprella,Ilex,KNApSAcK
+64,C00029834,23526-45-6,(+)-Blumenol A,C13H20O3,224.1412445,Ilex pubescens,Ilex,KNApSAcK
+65,C00030509,129095-76-7,Ilexoside XLVIII,C42H66O15,810.44017144,Ilex rotunda,Ilex,KNApSAcK
+66,C00030807,906-33-2,5-Caffeoylquinic acid,C16H18O9,354.09508217,Ilex paraguariensis,Ilex,KNApSAcK
+67,C00030868,943021-88-3,Oblonganoside A,C38H58O10,674.40299807,Ilex oblonga,Ilex,KNApSAcK
+68,C00030869,943021-89-4,Oblonganoside B,C41H64O12,748.43977751,Ilex oblonga,Ilex,KNApSAcK
+69,C00030870,943021-90-7,Oblonganoside C,C41H64O13,764.43469213,Ilex oblonga,Ilex,KNApSAcK
+70,C00030871,943021-91-8,Oblonganoside D,C41H64O12,748.43977751,Ilex oblonga,Ilex,KNApSAcK
+71,C00030872,943021-92-9,Oblonganoside E,C36H56O10,648.38734801,Ilex oblonga,Ilex,KNApSAcK
+72,C00030873,943021-93-0,Oblonganoside F,C41H64O13,764.43469213,Ilex oblonga,Ilex,KNApSAcK
+73,C00031014,2538-87-6,p-Coumaraldehyde,C9H8O2,148.0524295,Ilex paraguariensis,Ilex,KNApSAcK
+74,C00031074,13849-91-7,Pomolic acid,C30H48O4,472.35526002,Ilex pubescens,Ilex,KNApSAcK
+75,C00031074,13849-91-7,Pomolic acid,C30H48O4,472.35526002,Ilex asprella,Ilex,KNApSAcK
+76,C00031198,20137-37-5,Rotundic acid,C30H48O5,488.35017464,Ilex rotunda,Ilex,KNApSAcK
+77,C00031198,20137-37-5,Rotundic acid,C30H48O5,488.35017464,Ilex asprella,Ilex,KNApSAcK
+78,C00031198,20137-37-5,Rotundic acid,C30H48O5,488.35017464,Ilex chinensis,Ilex,KNApSAcK
+79,C00031198,20137-37-5,Rotundic acid,C30H48O5,488.35017464,Ilex integra,Ilex,KNApSAcK
+80,C00032467,545-46-0,Uvaol,C30H50O2,442.38108084,Ilex latifolia,Ilex,KNApSAcK
+81,C00033050,864234-27-5,Ilekudinoside K,C42H64O13,776.43469213,Ilex latifolia THUNB,Ilex,KNApSAcK
+82,C00033050,864234-27-5,Ilekudinoside K,C42H64O13,776.43469213,Ilex kudingcha,Ilex,KNApSAcK
+83,C00033095,173792-64-8,Kudinoside G,C53H86O22,1074.56107443,Ilex kudincha,Ilex,KNApSAcK
+84,C00033095,173792-64-8,Kudinoside G,C53H86O22,1074.56107443,Ilex kudingcha,Ilex,KNApSAcK
+85,C00033095,173792-64-8,Kudinoside G,C53H86O22,1074.56107443,Ilex latifolia THUNB,Ilex,KNApSAcK
+86,C00033105,194660-77-0,Latifoloside C,C53H86O22,1074.56107443,Ilex kudincha,Ilex,KNApSAcK
+87,C00033105,194660-77-0,Latifoloside C,C53H86O22,1074.56107443,Ilex latifolia THUNB,Ilex,KNApSAcK
+88,C00033106,194661-51-3,Latifoloside E,C53H86O22,1074.56107443,Ilex latifolia THUNB,Ilex,KNApSAcK
+89,C00033107,330659-56-8,Latifoloside I,C48H80O17,928.53955113,Ilex latifolia THUNB,Ilex,KNApSAcK
+90,C00033108,394698-49-8,Latifoloside J,C53H86O21,1058.56615981,Ilex latifolia THUNB,Ilex,KNApSAcK
+91,C00033109,354537-14-7,Latifoloside K,C53H84O21,1056.55050975,Ilex latifolia THUNB,Ilex,KNApSAcK
+92,C00033110,243635-66-7,Ilekudinoside E,C47H76O18,928.50316563,Ilex kudingcha,Ilex,KNApSAcK
+93,C00033110,243635-66-7,Ilekudinoside E,C47H76O18,928.50316563,Ilex latifolia THUNB,Ilex,KNApSAcK
+94,C00035162,55306-03-1,Sericic acid,C30H48O6,504.34508927,Quercus ilex,Ilex,KNApSAcK
+95,C00035163,55306-04-2,Sericoside,C36H58O11,666.3979127,Quercus ilex,Ilex,KNApSAcK
+96,C00037296,147235-21-0,Ilekudinoside D,C41H66O14,782.44525682,Ilex integra,Ilex,KNApSAcK
+97,C00037296,147235-21-0,Ilekudinoside D,C41H66O14,782.44525682,Ilex kudingcha,Ilex,KNApSAcK
+98,C00037720,55965-02-1,Latifoloside A,C47H76O17,912.508251,Ilex latifolia,Ilex,KNApSAcK
+99,C00037720,55965-02-1,Latifoloside A,C47H76O17,912.508251,Ilex kudincha,Ilex,KNApSAcK
+100,C00037721,55965-03-2,Latifoloside B,C47H76O17,912.508251,Ilex latifolia,Ilex,KNApSAcK
+101,C00037738,148031-74-7,Ilexoside L,C42H66O15,810.44017144,Ilex rotunda,Ilex,KNApSAcK
+102,C00039403,148031-75-8,Ilexoside LI,C48H76O20,972.49299487,Ilex rotunda,Ilex,KNApSAcK
+103,C00039404,125481-27-8,Ilexoside XLIX,C48H76O20,972.49299487,Ilex rotunda,Ilex,KNApSAcK
+104,C00039405,148031-72-5,Ilexoside XLVI,C42H66O16,826.43508606,Ilex rotunda,Ilex,KNApSAcK
+105,C00039406,148031-73-6,Ilexoside XLVII,C42H66O16,826.43508606,Ilex rotunda,Ilex,KNApSAcK
+106,C00039406,148031-73-6,Ilexoside XLVII,C42H66O16,826.43508606,Ilex kudincha,Ilex,KNApSAcK
+107,C00039407,149475-50-3,Ilexoside XXXI,C42H66O15,810.44017144,Ilex rotunda,Ilex,KNApSAcK
+108,C00039930,611-59-6,Paraxanthine,C7H8N4O2,180.06472553,Ilex paraguariensis,Ilex,KNApSAcK
+109,C00041033,194660-83-8,Latifoloside D,C47H76O17,912.508251,Ilex latifolia,Ilex,KNApSAcK
+110,C00041034,220997-51-3,Latifoloside G,C59H96O26,1220.61898324,Ilex latifolia,Ilex,KNApSAcK
+111,C00041034,220997-51-3,Latifoloside G,C59H96O26,1220.61898324,Ilex kudincha,Ilex,KNApSAcK
+112,C00041035,220997-52-4,Latifoloside H,C59H96O26,1220.61898324,Ilex latifolia,Ilex,KNApSAcK
+113,C00041035,220997-52-4,Latifoloside H,C59H96O26,1220.61898324,Ilex kudincha,Ilex,KNApSAcK
+114,C00042604,243635-70-3,Ilekudinoside I,C41H64O14,780.42960675,Ilex kudincha,Ilex,KNApSAcK
+115,C00042604,243635-70-3,Ilekudinoside I,C41H64O14,780.42960675,Ilex kudingcha,Ilex,KNApSAcK
+116,C00042605,864234-28-6,Ilekudinoside L,C41H64O14,780.42960675,Ilex kudingcha,Ilex,KNApSAcK
+117,C00042606,864234-29-7,Ilekudinoside M,C41H64O13,764.43469213,Ilex kudingcha,Ilex,KNApSAcK
+118,C00042607,864234-30-0,Ilekudinoside N,C42H64O14,792.42960675,Ilex kudingcha,Ilex,KNApSAcK
+119,C00042608,864234-31-1,Ilekudinoside O,C41H62O13,762.41904207,Ilex kudingcha,Ilex,KNApSAcK
+120,C00042609,864234-32-2,Ilekudinoside P,C41H62O13,762.41904207,Ilex kudingcha,Ilex,KNApSAcK
+121,C00042610,864234-33-3,Ilekudinoside Q,C42H66O14,794.44525682,Ilex kudingcha,Ilex,KNApSAcK
+122,C00042611,864234-34-4,Ilekudinoside R,C41H64O13,764.43469213,Ilex kudingcha,Ilex,KNApSAcK
+123,C00042612,864234-35-5,Ilekudinoside S,C42H66O14,794.44525682,Ilex kudingcha,Ilex,KNApSAcK
+124,C00042652,181362-75-4,Kudinoside A,C47H74O18,926.48751556,Ilex kudingcha,Ilex,KNApSAcK
+125,C00042653,181362-77-6,Kudinoside C,C53H84O23,1088.54033899,Ilex kudingcha,Ilex,KNApSAcK
+126,C00042654,173792-61-5,Kudinoside D,C47H72O17,908.47695088,Ilex kudingcha,Ilex,KNApSAcK
+127,C00042655,173792-62-6,Kudinoside E,C53H82O22,1070.52977431,Ilex kudingcha,Ilex,KNApSAcK
+128,C00042656,173792-63-7,Kudinoside F,C47H74O18,926.48751556,Ilex kudingcha,Ilex,KNApSAcK
+129,C00042872,850878-24-9,Pubescenoside A,C20H26O11,442.14751167,Ilex pubescens,Ilex,KNApSAcK
+130,C00042873,850878-25-0,Pubescenoside B,C20H26O11,442.14751167,Ilex pubescens,Ilex,KNApSAcK
+131,C00043196,1076-22-8,3-Methylxanthine,C6H6N4O2,166.04907547,Ilex paraguariensis,Ilex,KNApSAcK
+132,C00044271,211815-98-4,Ilekudinoside A,C53H86O21,1058.56615981,Ilex kudingcha,Ilex,KNApSAcK
+133,C00044271,211815-98-4,Ilekudinoside A,C53H86O21,1058.56615981,Ilex kudincha,Ilex,KNApSAcK
+134,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Ilex cassine,Ilex,KNApSAcK
+135,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Quercus ilex,Ilex,KNApSAcK
+136,C00048048,42719-32-4,Pedunculoside,C36H58O10,650.40299807,Ilex rotunda,Ilex,KNApSAcK
+137,C00048048,42719-32-4,Pedunculoside,C36H58O10,650.40299807,Ilex integra,Ilex,KNApSAcK
+138,C00048048,42719-32-4,Pedunculoside,C36H58O10,650.40299807,Ilex pedunculosa,Ilex,KNApSAcK
+139,C00049559,243635-45-2,Ilekudinoside B,C42H66O15,810.44017144,Ilex kudingcha,Ilex,KNApSAcK
+140,C00049559,243635-45-2,Ilekudinoside B,C42H66O15,810.44017144,Ilex kudincha,Ilex,KNApSAcK
+141,C00049560,243635-62-3,Ilekudinoside C,C41H66O14,782.44525682,Ilex kudingcha,Ilex,KNApSAcK
+142,C00049560,243635-62-3,Ilekudinoside C,C41H66O14,782.44525682,Ilex kudincha,Ilex,KNApSAcK
+143,C00049561,243635-67-8,Ilekudinoside F,C65H104O31,1380.65615661,Ilex kudincha,Ilex,KNApSAcK
+144,C00049561,243635-67-8,Ilekudinoside F,C65H104O31,1380.65615661,Ilex kudingcha,Ilex,KNApSAcK
+145,C00049562,243635-68-9,Ilekudinoside G,C53H84O22,1072.54542437,Ilex kudingcha,Ilex,KNApSAcK
+146,C00049562,243635-68-9,Ilekudinoside G,C53H84O22,1072.54542437,Ilex kudincha,Ilex,KNApSAcK
+147,C00049563,243635-69-0,Ilekudinoside H,C53H84O23,1088.54033899,Ilex kudingcha,Ilex,KNApSAcK
+148,C00049563,243635-69-0,Ilekudinoside H,C53H84O23,1088.54033899,Ilex kudincha,Ilex,KNApSAcK
+149,C00049564,243635-71-4,Ilekudinoside J,C42H66O15,810.44017144,Ilex kudincha,Ilex,KNApSAcK
+150,C00049564,243635-71-4,Ilekudinoside J,C42H66O15,810.44017144,Ilex kudingcha,Ilex,KNApSAcK
+151,C00049565,117804-09-8,Cynarasaponin C,C42H66O14,794.44525682,Ilex kudincha,Ilex,KNApSAcK
+152,C00050771,55822-21-4,alpha-Kudinlactone,C30H44O4,468.32395989,Ilex kudingcha,Ilex,KNApSAcK
+153,C00050773,173792-60-4,beta-Kudinlactone,C30H46O5,486.33452458,Ilex kudingcha,Ilex,KNApSAcK
+154,C00050814,242794-71-4,Ilekudinol A,C29H42O4,454.30830983,Ilex kudingcha,Ilex,KNApSAcK
+155,C00050814,242794-71-4,Ilekudinol A,C29H42O4,454.30830983,Ilex asprella,Ilex,KNApSAcK
+156,C00050815,242794-72-5,Ilekudinol B,C29H44O4,456.32395989,Ilex kudingcha,Ilex,KNApSAcK
+157,C00050815,242794-72-5,Ilekudinol B,C29H44O4,456.32395989,Ilex asprella,Ilex,KNApSAcK
+158,C00050816,242794-73-6,Ilekudinol C,C30H50O3,458.37599546,Ilex kudingcha,Ilex,KNApSAcK
+159,C00050817,88255-95-2,Ilexoside II,C47H76O18,928.50316563,Ilex integra,Ilex,KNApSAcK
+160,C00050817,88255-95-2,Ilexoside II,C47H76O18,928.50316563,Ilex cornuta,Ilex,KNApSAcK
+161,C00051161,181362-76-5,Kudinoside B,C47H74O19,942.48243018,Ilex kudingcha,Ilex,KNApSAcK
+162,C00051162,258343-38-3,Kudinoside J,C35H52O8,600.36621864,Ilex kudingcha,Ilex,KNApSAcK
+163,C00051504,164178-27-2,Matesaponin 2,C53H86O21,1058.56615981,Ilex paraguariensis,Ilex,KNApSAcK
+164,C00051505,164178-28-3,Araliasaponin X,C53H86O22,1074.56107443,Ilex paraguariensis,Ilex,KNApSAcK
+165,C00051506,164178-29-4,Matesaponin 4,C59H96O26,1220.61898324,Ilex paraguariensis,Ilex,KNApSAcK
+166,C00051507,178330-60-4,Matesaponin 5,C65H106O31,1382.67180667,Ilex paraguariensis,Ilex,KNApSAcK
+167,C00051958,84567-50-0,7-Methyl-XMP,C11H16N5O8P,377.07364902,Ilex paraguariensis,Ilex,KNApSAcK
+168,C00052565,6812-98-2,19-dehydroursolic acid,C30H46O3,454.34469533,Ilex pubescens,Ilex,KNApSAcK
+169,C00052565,6812-98-2,19-dehydroursolic acid,C30H46O3,454.34469533,Ilex asprella,Ilex,KNApSAcK
+170,C00052737,249647-14-1,5-Hydroxyconiferaldehyde,C10H10O4,194.05790881,Ilex paraguariensis,Ilex,KNApSAcK
+171,C00052837,2377393-56-9,Asprelloside A,C41H66O16S,846.40715679,Ilex asprella,Ilex,KNApSAcK
+172,C00052838,2377393-57-0,Asprelloside B,C41H66O19S2,926.36397139,Ilex asprella,Ilex,KNApSAcK
+173,C00052839,2377393-58-1,Asprelloside C,C41H66O19S2,926.36397139,Ilex asprella,Ilex,KNApSAcK
+174,C00052840,2377393-60-5,Asprelloside D,C47H74O17,910.49260094,Ilex asprella,Ilex,KNApSAcK
+175,C00052841,2377393-61-6,Asprelloside E,C47H74O17,910.49260094,Ilex asprella,Ilex,KNApSAcK
+176,C00052842,2377393-63-8,Asprelloside F,C42H64O17S,872.38642135,Ilex asprella,Ilex,KNApSAcK
+177,C00052843,2377393-65-0,Asprelloside G,C47H74O17,910.49260094,Ilex asprella,Ilex,KNApSAcK
+178,C00052844,2377393-66-1,Asprelloside H,C41H66O15S,830.41224217,Ilex asprella,Ilex,KNApSAcK
+179,C00052845,2377393-68-3,Asprelloside I,C47H76O17,912.508251,Ilex asprella,Ilex,KNApSAcK
+180,C00052846,2377393-70-7,Asprelloside J,C36H56O13S,728.34416261,Ilex asprella,Ilex,KNApSAcK
+181,C00052847,2377393-71-8,Asprelloside K,C47H76O17,912.508251,Ilex asprella,Ilex,KNApSAcK
+182,C00053051,25429-38-3,Coumaric acid,C9H8O3,164.04734412,Ilex paraguariensis,Ilex,KNApSAcK
+183,C00053058,315697-09-7,Dammarenyl cation,C30H51O,427.39399125,Ilex asprella,Ilex,KNApSAcK
+184,C00053066,3598-26-3,Caffeoyl alcohol,C9H10O3,166.06299419,Ilex paraguariensis,Ilex,KNApSAcK
+185,C00053337,1610418-30-8,Ilexasprellanosides D,C36H56O11,664.38226263,Ilex pubescens,Ilex,KNApSAcK
+186,C00053337,1610418-30-8,Ilexasprellanosides D,C36H56O11,664.38226263,Ilex asprella,Ilex,KNApSAcK
+187,C00053338,108524-94-3,Ilexgenin A,C30H46O6,502.3294392,Ilex asprella,Ilex,KNApSAcK
+188,C00053338,108524-94-3,Ilexgenin A,C30H46O6,502.3294392,Ilex pubescens,Ilex,KNApSAcK
+189,C00053339,108524-93-2,Ilexsaponin A1,C36H56O11,664.38226263,Ilex asprella,Ilex,KNApSAcK
+190,C00053339,108524-93-2,Ilexsaponin A1,C36H56O11,664.38226263,Ilex pubescens,Ilex,KNApSAcK
+191,C00053340,108906-69-0,Ilexsaponin B2,C47H76O17,912.508251,Ilex asprella,Ilex,KNApSAcK
+192,C00053340,108906-69-0,Ilexsaponin B2,C47H76O17,912.508251,Ilex pubescens,Ilex,KNApSAcK
+193,C00053913,35286-58-9,Ziyuglycoside I,C41H66O13,766.4503422,Ilex asprella,Ilex,KNApSAcK
+194,C00053913,35286-58-9,Ziyuglycoside I,C41H66O13,766.4503422,Ilex pubescens,Ilex,KNApSAcK
+195,C00055653,83725-24-0,28-O-beta-D-glucopyranosyl pomolic acid,C36H58O9,634.40808345,Ilex asprella,Ilex,KNApSAcK
+196,C00055723,152509-92-7,Asprellic acid A,C48H60O8,764.42881889,Ilex asprella,Ilex,KNApSAcK
+197,C00055724,1567734-44-4,asprellol B,C29H36O6,480.25118888,Ilex asprella,Ilex,KNApSAcK
+198,C00055725,1567734-46-6,asprellol C,C29H38O6,482.26683895,Ilex asprella,Ilex,KNApSAcK
+199,C00055746,489469-89-8,Brevicuspisaponin 3,C41H66O13,766.4503422,Ilex asprella,Ilex,KNApSAcK
+200,C00055781,102848-65-7,cornutaside A,C43H68O14,808.46090688,Ilex asprella,Ilex,KNApSAcK
+201,C00055841,116348-15-3,Eriantic acid B,C30H48O5,488.35017464,Ilex asprella,Ilex,KNApSAcK
+202,C00055890,1458681-38-3,Gardeniside B,C37H58O10,662.40299807,Ilex asprella,Ilex,KNApSAcK
+203,C00055930,326601-71-2,Ilelatifol B,C29H42O5,470.30322445,Ilex asprella,Ilex,KNApSAcK
+204,C00055931,1408381-14-5,Ilemaminoside A,C35H56O8,604.39751876,Ilex asprella,Ilex,KNApSAcK
+205,C00055932,1361000-64-7,Ilexasoside A,C37H58O10,662.40299807,Ilex asprella,Ilex,KNApSAcK
+206,C00055933,109008-39-1,Ilexgenin B,C30H48O4,472.35526002,Ilex asprella,Ilex,KNApSAcK
+207,C00056021,517893-04-8,Oblonganoside H,C41H66O13,766.4503422,Ilex asprella,Ilex,KNApSAcK
+208,C00056270,196093-13-7,Ulmoidol,C29H42O5,470.30322445,Ilex asprella,Ilex,KNApSAcK
+209,C00056410,1068611-88-0,Ilexpernoside H,C47H76O18,928.50316563,Ilex paraguariensis,Ilex,KNApSAcK
+210,C00056526,1158228-10-4,Mateglycoside A,C59H96O26,1220.61898324,Ilex paraguariensis,Ilex,KNApSAcK
+211,C00056527,1158228-12-6,Mateglycoside C,C41H66O13,766.4503422,Ilex paraguariensis,Ilex,KNApSAcK
+212,C00056689,1232679-68-3,Matenoside A,C21H32O8,412.209718,Ilex paraguariensis,Ilex,KNApSAcK
+213,C00056690,1232679-70-7,Matenoside B,C21H34O8,414.22536806,Ilex paraguariensis,Ilex,KNApSAcK
+214,C00056917,1193953-66-0,Pyrrolezanthine 6-methyl ether,C15H17NO3,259.12084342,Ilex paraguariensis,Ilex,KNApSAcK
+215,C00057617,87340-30-5,Quercilicoside A,C36H58O11,666.3979127,Quercus ilex,Ilex,KNApSAcK
+216,C00059989,146713-87-3,Ilexoside XIX,C54H86O23,1102.55598906,Ilex integra,Ilex,KNApSAcK
+217,C00060000,147235-19-6,Ilexoside XXV,C42H68O14,796.46090688,Ilex integra,Ilex,KNApSAcK
+218,C00060001,147235-20-9,Ilexoside XXVI,C48H78O19,958.51373031,Ilex integra,Ilex,KNApSAcK
+219,C00060002,147235-22-1,Ilexoside XXVIII,C41H66O15,798.44017144,Ilex integra,Ilex,KNApSAcK
+220,C00061178,26764-25-0,Octadecadienoic acid,C18H32O2,280.24023027,Ilex integra,Ilex,KNApSAcK
+221,C00061366,30643-68-6,Nonadecadienoic acid,C19H34O2,294.25588033,Ilex integra,Ilex,KNApSAcK
+222,C00062855,742070-66-2,"(12E,14E,17E)-11-Hydroxy-12,14,17-eicosatrienoic acid",C20H34O3,322.25079495,Ilex integra,Ilex,KNApSAcK
+223,C00062856,742070-67-3,"(12E,14E,17E)-11-Hydroxy-12,14,17-eicosatrienoic acid methyl ester",C21H36O3,336.26644502,Ilex integra,Ilex,KNApSAcK
+0,C00002189,50333-13-6,N-Methylflindersine,C15H15NO2,241.11027873,Almeidea guyanensis,Guya,KNApSAcK
+1,C00002198,83-95-4,Skimmianine,C14H13NO4,259.08445791,Almeidea guyanensis,Guya,KNApSAcK
+2,C00006186,70521-81-2,Almeidein,C26H28O13,548.15299098,Almeidea guyanensis,Guya,KNApSAcK
+3,C00006191,101843-07-6,Molludistin 2''-O-xyloside,C26H28O13,548.15299098,Almeidea guyanensis,Guya,KNApSAcK
+4,C00006237,101843-08-7,6-C-Glucopyranosyl-8-C-arabinopyranosylgenkwanin,C27H30O14,578.16355567,Almeidea guyanensis,Guya,KNApSAcK
+5,C00006248,70521-83-4,Isomolludistin 2''-O-glucoside,C27H30O14,578.16355567,Almeidea guyanensis,Guya,KNApSAcK
+6,C00006249,70521-82-3,Molludistin 2''-O-glucoside,C27H30O14,578.16355567,Almeidea guyanensis,Guya,KNApSAcK
+7,C00006372,73140-47-3,"6,8-Di-C-alpha-L-arabinopyranosylapigenin",C25H26O13,534.13734092,Almeidea guyanensis,Guya,KNApSAcK
+8,C00008293,69284-90-8,Eriodictyol 3'-O-glucoside,C21H22O11,450.11621155,Helosis guyanensis,Guya,KNApSAcK
+9,C00025428,6391-67-9,N-Methylkhaplofoline,C15H17NO2,243.12592879,Almeidea guyanensis,Guya,KNApSAcK
+10,C00026403,88839-93-4,Almeine,C15H15NO2,241.11027873,Almeidea guyanensis,Guya,KNApSAcK
+11,C00026465,22826-43-3,N-Methylatanine,C16H19NO2,257.14157886,Almeidea guyanensis,Guya,KNApSAcK
+12,C00037133,523-66-0,Evolitrine,C13H11NO3,229.07389323,Almeidea guyanensis,Guya,KNApSAcK
+0,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Coffea humblotiana,Humblotia,KNApSAcK
+1,C00007322,23290-26-8,delta7-Avenasterol,C29H48O,412.37051615,Coffea humblotiana,Humblotia,KNApSAcK
+2,C00032163,83-45-4,"(3beta,5alpha)-Stigmastan-3-ol",C29H52O,416.40181628,Coffea humblotiana,Humblotia,KNApSAcK
+3,C00033727,2364-23-0,Clerosterol,C29H48O,412.37051615,Coffea humblotiana,Humblotia,KNApSAcK
+4,C00033758,6869-99-4,delta7-Stigmastenol,C29H50O,414.38616622,Coffea humblotiana,Humblotia,KNApSAcK
+0,C00002507,550-79-8,Afrormosin,C17H14O5,298.08412356,Myroxylon peruiferum,Myroxylon,KNApSAcK
+1,C00002507,550-79-8,Afrormosin,C17H14O5,298.08412356,Myroxylon balsamum,Myroxylon,KNApSAcK
+2,C00002510,491-80-5,Biochanin A,C16H12O5,284.06847349,Myroxylon peruiferum,Myroxylon,KNApSAcK
+3,C00002525,485-72-3,Formononetin,C16H12O4,268.07355887,Myroxylon balsamum,Myroxylon,KNApSAcK
+4,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Myroxylon balsamum,Myroxylon,KNApSAcK
+5,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Myroxylon peruiferum,Myroxylon,KNApSAcK
+6,C00002579,897-46-1,Texasin,C16H12O5,284.06847349,Myroxylon peruiferum,Myroxylon,KNApSAcK
+7,C00003166,142-50-7,Nerolidol,C15H26O,222.19836545,Myroxylon pereirae,Myroxylon,KNApSAcK
+8,C00004579,528-48-3,Fisetin,C15H10O6,286.04773805,Myroxylon peruiferum,Myroxylon,KNApSAcK
+9,C00009389,20575-57-9,Calycosin,C16H12O5,284.06847349,Myroxylon balsamum,Myroxylon,KNApSAcK
+10,C00009405,1621-61-0,Cabreuvin,C18H16O5,312.09977362,Myroxylon balsamum,Myroxylon,KNApSAcK
+11,C00009405,1621-61-0,Cabreuvin,C18H16O5,312.09977362,Myroxylon peruiferum,Myroxylon,KNApSAcK
+12,C00009408,53947-99-2,3'-Hydroxy-8-O-methylretusin,C17H14O6,314.07903818,Myroxylon balsamum,Myroxylon,KNApSAcK
+13,C00009414,71973-12-1,"2'-Hydroxy-7,3',4'-trimethoxyisoflavone",C18H16O6,328.09468824,Myroxylon peruiferum,Myroxylon,KNApSAcK
+14,C00009534,4626-22-6,Dihydroformononetin,C16H14O4,270.08920894,Myroxylon balsamum,Myroxylon,KNApSAcK
+15,C00009536,67492-31-3,3'-Hydroxydihydroformononetin,C16H14O5,286.08412356,Myroxylon balsamum,Myroxylon,KNApSAcK
+16,C00009546,71973-13-2,3'-Methoxyisosativanone,C18H18O6,330.11033831,Myroxylon peruiferum,Myroxylon,KNApSAcK
+17,C00009625,22973-36-0,4-Methoxyhomopterocarpin,C18H18O5,314.11542369,Myroxylon peruiferum,Myroxylon,KNApSAcK
+18,C00009757,1690-62-6,9-O-Methylcoumestrol,C16H10O5,282.05282343,Myroxylon balsamum,Myroxylon,KNApSAcK
+19,C00009768,5252-40-4,"3-Hydroxy-8,9-dimethoxycoumestan",C17H12O6,312.06338812,Myroxylon balsamum,Myroxylon,KNApSAcK
+20,C00009806,67492-33-5,"2',4'-Dihydroxy-5,6-dimethoxy-2-phenylbenzofuran",C16H14O5,286.08412356,Myroxylon balsamum,Myroxylon,KNApSAcK
+21,C00021226,112421-19-9,4-Aromadendrene,C15H24,204.18780077,Myroxylon balsamum var.balsamum,Myroxylon,KNApSAcK
+22,C00029961,621-82-9,Cinnamic acid,C9H8O2,148.0524295,Myroxylon pereirae,Myroxylon,KNApSAcK
+23,C00051588,108-88-3,Toluene,C7H8,92.06260026,Myroxylon balsamum,Myroxylon,KNApSAcK
+24,C00058059,268541-26-0,Triptohypol F,C31H52O2,456.3967309,Myroxylon balsamum,Myroxylon,KNApSAcK
+0,C00001806,641-17-8,(-)-Anolobine,C17H15NO3,281.10519335,Guatteria goudotiana,Guatteria,KNApSAcK
+1,C00001806,641-17-8,(-)-Anolobine,C17H15NO3,281.10519335,Guatteria tonduzii,Guatteria,KNApSAcK
+2,C00001807,1862-41-5,Anonaine,C17H15NO2,265.11027873,Guatteria oliviformis,Guatteria,KNApSAcK
+3,C00001813,3912-57-0,Atherospermidine,C18H11NO4,305.06880785,Guatteria psilopus,Guatteria,KNApSAcK
+4,C00001869,3019-51-0,(S)-Isoboldine,C19H21NO4,327.14705817,Guatteria goudotiana,Guatteria,KNApSAcK
+5,C00001870,477-62-3,Isochondodendrine,C36H38N2O6,594.27298696,Guatteria megalophylla,Guatteria,KNApSAcK
+6,C00001872,475-67-2,Isocorydine,C20H23NO4,341.16270823,Guatteria oliviformis,Guatteria,KNApSAcK
+7,C00001878,475-75-2,Liriodenine,C17H9NO3,275.05824316,Guatteria oliviformis,Guatteria,KNApSAcK
+8,C00001878,475-75-2,Liriodenine,C17H9NO3,275.05824316,Guatteria multivenia,Guatteria,KNApSAcK
+9,C00001910,485-19-8,(+)-Reticuline,C19H23NO4,329.16270823,Guatteria goudotiana,Guatteria,KNApSAcK
+10,C00001928,517-71-5,(+)-Xylopine,C18H17NO3,295.12084342,Guatteria amplifolia,Guatteria,KNApSAcK
+11,C00005132,5041-67-8,Juglanin,C20H18O10,418.0899968,Guatteria rupestris,Guatteria,KNApSAcK
+12,C00005132,5041-67-8,Juglanin,C20H18O10,418.0899968,Guatteria villosissima,Guatteria,KNApSAcK
+13,C00005138,480-10-4,Astragalin,C21H20O11,448.10056148,Guatteria villosissima,Guatteria,KNApSAcK
+14,C00005138,480-10-4,Astragalin,C21H20O11,448.10056148,Guatteria rupestris,Guatteria,KNApSAcK
+15,C00005140,482-39-3,Afzelin,C21H20O10,432.10564686,Guatteria rupestris,Guatteria,KNApSAcK
+16,C00005373,482-35-9,Hirsutrin,C21H20O12,464.09547611,Guatteria villosissima,Guatteria,KNApSAcK
+17,C00005373,482-35-9,Hirsutrin,C21H20O12,464.09547611,Guatteria australis,Guatteria,KNApSAcK
+18,C00005373,482-35-9,Hirsutrin,C21H20O12,464.09547611,Guatteria notabilis,Guatteria,KNApSAcK
+19,C00005373,482-35-9,Hirsutrin,C21H20O12,464.09547611,Guatteria rupestris,Guatteria,KNApSAcK
+20,C00005427,6892-74-6,"Quercetin 3,7-O-beta-diglucopyranoside",C27H30O17,626.14829954,Guatteria australis,Guatteria,KNApSAcK
+21,C00024769,85769-39-7,Gouregine,C20H19NO5,353.12632273,Guatteria ouregou,Guatteria,KNApSAcK
+22,C00025233,483-45-4,(-)-Coreximine,C19H21NO4,327.14705817,Guatteria foliosa,Guatteria,KNApSAcK
+23,C00025233,483-45-4,(-)-Coreximine,C19H21NO4,327.14705817,Guatteria ouregou Dun.,Guatteria,KNApSAcK
+24,C00025238,6872-75-9,(-)-Discretine,C20H23NO4,341.16270823,Guatteria scandens,Guatteria,KNApSAcK
+25,C00025238,6872-75-9,(-)-Discretine,C20H23NO4,341.16270823,Guatteria discolor,Guatteria,KNApSAcK
+26,C00025269,15401-66-8,(+)-Nornantenine,C19H19NO4,325.1314081,Guatteria dumetorum,Guatteria,KNApSAcK
+27,C00025319,23740-25-2,Lanuginosine,C18H11NO4,305.06880785,Guatteria multivenia,Guatteria,KNApSAcK
+28,C00025319,23740-25-2,Lanuginosine,C18H11NO4,305.06880785,Guatteria boliviana,Guatteria,KNApSAcK
+29,C00025351,53755-51-4,Tiliageine,C37H40N2O6,608.28863702,Guatteria boliviana,Guatteria,KNApSAcK
+30,C00025625,548-08-3,(-)-Roemerine,C18H17NO2,279.12592879,Guatteria oliviformis,Guatteria,KNApSAcK
+31,C00025626,21059-86-9,(-)-Roemeroline,C18H17NO3,295.12084342,Guatteria tonduzii,Guatteria,KNApSAcK
+32,C00025655,517-56-6,(+)-Corytuberine,C19H21NO4,327.14705817,Guatteria goudotiana,Guatteria,KNApSAcK
+33,C00025675,2169-44-0,(+)-N-Methyllaurotetanine,C20H23NO4,341.16270823,Guatteria goudotiana,Guatteria,KNApSAcK
+34,C00025681,110360-01-5,Pangkorimine,C34H32N2O6,564.22603677,Guatteria boliviana,Guatteria,KNApSAcK
+35,C00025876,1394-44-1,Funiferine,C38H42N2O6,622.30428709,Guatteria boliviana,Guatteria,KNApSAcK
+36,C00025890,5140-38-5,Homomoschatoline,C19H15NO4,321.10010798,Guatteria dielsiana,Guatteria,KNApSAcK
+37,C00025890,5140-38-5,Homomoschatoline,C19H15NO4,321.10010798,Guatteria tonduzii,Guatteria,KNApSAcK
+38,C00025924,64091-05-0,Juziphine,C18H21NO3,299.15214354,Guatteria goudotiana,Guatteria,KNApSAcK
+39,C00025935,15444-20-9,Lysicamine,C18H13NO3,291.08954329,Guatteria lehmanii,Guatteria,KNApSAcK
+40,C00025935,15444-20-9,Lysicamine,C18H13NO3,291.08954329,Guatteria multivenia,Guatteria,KNApSAcK
+41,C00025992,76788-85-7,Oxoanolobine,C17H19NO4,301.1314081,Guatteria melosma,Guatteria,KNApSAcK
+42,C00026002,25650-75-3,Pallidine,C19H21NO4,327.14705817,Guatteria goudotiana,Guatteria,KNApSAcK
+43,C00026088,6018-40-2,Corypalmine,C20H23NO4,341.16270823,Guatteria discolor,Guatteria,KNApSAcK
+44,C00026090,1356-73-6,(-)-Discretamine,C19H21NO4,327.14705817,Guatteria discolor,Guatteria,KNApSAcK
+45,C00027120,16625-57-3,Argentinine,C19H21NO2,295.15722892,Guatteria goudotiana,Guatteria,KNApSAcK
+46,C00027120,16625-57-3,Argentinine,C19H21NO2,295.15722892,Guatteria foliosa,Guatteria,KNApSAcK
+47,C00027240,121960-20-1,(-)-Antioquine,C37H40N2O6,608.28863702,Guatteria boliviana,Guatteria,KNApSAcK
+48,C00027372,302778-46-7,Guatteboline,C35H34N2O6,578.24168683,Guatteria boliviana,Guatteria,KNApSAcK
+49,C00027409,128-76-7,Laurotetanine,C19H21NO4,327.14705817,Guatteria goudotiana,Guatteria,KNApSAcK
+50,C00027468,302776-37-0,Philogaline,C35H32N2O6,576.22603677,Guatteria boliviana,Guatteria,KNApSAcK
+51,C00027474,302776-35-8,Puertogaline A,C34H30N2O6,562.21038671,Guatteria boliviana,Guatteria,KNApSAcK
+52,C00027475,302776-36-9,Puertogaline B,C35H32N2O6,576.22603677,Guatteria boliviana,Guatteria,KNApSAcK
+53,C00027482,6787-93-5,Sepeerine,C36H38N2O6,594.27298696,Guatteria boliviana,Guatteria,KNApSAcK
+54,C00027510,41645-66-3,3-Hydroxynuciferine,C19H21NO3,311.15214354,Guatteria foliosa,Guatteria,KNApSAcK
+55,C00027551,70560-83-7,Isodomesticine,C19H19NO4,325.1314081,Guatteria goudotiana,Guatteria,KNApSAcK
+56,C00027748,82644-36-8,3-Hydroxynornuciferine,C18H19NO3,297.13649348,Guatteria melosma,Guatteria,KNApSAcK
+57,C00027748,82644-36-8,3-Hydroxynornuciferine,C18H19NO3,297.13649348,Guatteria goudotiana,Guatteria,KNApSAcK
+58,C00028142,55898-15-2,Dehydronantenine,C20H19NO4,337.1314081,Guatteria goudotiana,Guatteria,KNApSAcK
+59,C00028143,40158-86-9,Dehydroneolitsine,C19H15NO4,321.10010798,Guatteria goudotiana,Guatteria,KNApSAcK
+60,C00028188,125581-66-0,Dielsine,C37H38N2O7,622.26790158,Guatteria dielsiana,Guatteria,KNApSAcK
+61,C00028239,61619-35-0,Elmerillicine,C18H17NO4,311.11575804,Guatteria foliosa,Guatteria,KNApSAcK
+62,C00028311,121985-88-4,Goudotianine,C20H21NO4,339.14705817,Guatteria goudotiana,Guatteria,KNApSAcK
+63,C00028673,2466-42-4,Neolitsine,C19H17NO4,323.11575804,Guatteria goudotiana,Guatteria,KNApSAcK
+64,C00028720,158182-27-5,Norguattevaline,C18H19NO4,313.1314081,Guatteria foliosa,Guatteria,KNApSAcK
+65,C00028723,80151-84-4,Norisodomesticine,C18H17NO4,311.11575804,Guatteria goudotiana,Guatteria,KNApSAcK
+66,C00028768,27510-33-4,O-Methylpallidine,C20H23NO4,341.16270823,Guatteria multivenia,Guatteria,KNApSAcK
+67,C00033146,265319-50-4,Madolin K,C15H22O2,234.16197995,Guatteria multivenia,Guatteria,KNApSAcK
+68,C00037712,38784-82-6,Quercetin 3-O-arabinoside-7-O-arabinoside,C26H28O15,580.14282023,Guatteria pogonopus,Guatteria,KNApSAcK
+69,C00037713,125591-69-7,Quercetin 3-O-galactoside-7-O-galactoside,C27H30O17,626.14829954,Guatteria villosissima,Guatteria,KNApSAcK
+70,C00045581,105418-67-5,6-Methoxyonychine,C14H11NO2,225.0789786,Guatteria dielsiana,Guatteria,KNApSAcK
+71,C00045857,442682-42-0,Dihydromadolin K,C15H24O2,236.17763001,Guatteria multivenia,Guatteria,KNApSAcK
+72,C00045980,84679-87-8,Guadiscine,C20H19NO3,321.13649348,Guatteria multivenia,Guatteria,KNApSAcK
+73,C00045980,84679-87-8,Guadiscine,C20H19NO3,321.13649348,Guatteria discolor,Guatteria,KNApSAcK
+74,C00045981,443129-78-0,Guatterin A,C15H24O2,236.17763001,Guatteria multivenia,Guatteria,KNApSAcK
+75,C00046110,327185-01-3,Madolin W,C15H22O2,234.16197995,Guatteria multivenia,Guatteria,KNApSAcK
+76,C00046241,58787-04-5,Onychine,C13H9NO,195.06841392,Guatteria dielsiana,Guatteria,KNApSAcK
+77,C00049446,104696-15-3,Dielsiquinone,C15H11NO4,269.06880785,Guatteria dielsiana,Guatteria,KNApSAcK
+0,C00002335,20069-07-2,Elaeocarpidine,C17H21N3,267.17354769,Elaeocarpus archboldianus,Elaeocarpus,KNApSAcK
+1,C00002335,20069-07-2,Elaeocarpidine,C17H21N3,267.17354769,Elaeocarpus sphaericus,Elaeocarpus,KNApSAcK
+2,C00002335,20069-07-2,Elaeocarpidine,C17H21N3,267.17354769,Elaeocarpus polydactylus,Elaeocarpus,KNApSAcK
+3,C00002335,20069-07-2,Elaeocarpidine,C17H21N3,267.17354769,Elaeocarpus densiflorus,Elaeocarpus,KNApSAcK
+4,C00002336,30891-90-8,(+)-Elaeocarpine,C16H19NO2,257.14157886,Elaeocarpus ganitrus,Elaeocarpus,KNApSAcK
+5,C00002336,30891-90-8,(+)-Elaeocarpine,C16H19NO2,257.14157886,Elaeocarpus sphaericus,Elaeocarpus,KNApSAcK
+6,C00002336,30891-90-8,(+)-Elaeocarpine,C16H19NO2,257.14157886,Elaeocarpus polydactylus,Elaeocarpus,KNApSAcK
+7,C00002337,33023-03-9,Elaeokanine C,C12H21NO2,211.15722892,Elaeocarpus kaniensis,Elaeocarpus,KNApSAcK
+8,C00002926,60976-49-0,Geraniin,C41H28O27,952.0817957,Elaeocarpus grandiflorus,Elaeocarpus,KNApSAcK
+9,C00003685,3877-86-9,Cucurbitacin D,C30H44O7,516.30870376,Elaeocarpus mastersii,Elaeocarpus,KNApSAcK
+10,C00003687,5939-57-1,Cucurbitacin F,C30H46O7,518.32435382,Elaeocarpus mastersii,Elaeocarpus,KNApSAcK
+11,C00011070,260256-24-4,Petunidin 3-sambubioside,C27H31O16,611.16120995,Elaeocarpus mastersii,Elaeocarpus,KNApSAcK
+12,C00039098,942293-11-0,Elaeocarpenine,C16H19NO2,257.14157886,Elaeocarpus fuscoides,Elaeocarpus,KNApSAcK
+13,C00039323,937023-27-3,Habbemine A,C16H25NO3,279.18344367,Elaeocarpus habbemensis,Elaeocarpus,KNApSAcK
+14,C00039324,937023-28-4,Habbemine B,C16H25NO3,279.18344367,Elaeocarpus habbemensis,Elaeocarpus,KNApSAcK
+15,C00039437,21104-52-9,Isoelaeocarpicine,C16H21NO3,275.15214354,Elaeocarpus fuscoides,Elaeocarpus,KNApSAcK
+16,C00039438,30891-89-5,Isoelaeocarpine,C16H19NO2,257.14157886,Elaeocarpus fuscoides,Elaeocarpus,KNApSAcK
+17,C00041567,848662-80-6,Grandisine A,C16H23NO3,277.16779361,Elaeocarpus grandis,Elaeocarpus,KNApSAcK
+18,C00041568,848662-81-7,Grandisine B,C16H22N2O,258.17321334,Elaeocarpus grandis,Elaeocarpus,KNApSAcK
+19,C00041569,911682-66-1,Grandisine C,C16H23NO3,277.16779361,Elaeocarpus grandis,Elaeocarpus,KNApSAcK
+20,C00041570,911682-67-2,Grandisine D,C16H23NO2,261.17287899,Elaeocarpus grandis,Elaeocarpus,KNApSAcK
+21,C00041571,911682-68-3,Grandisine E,C16H23NO3,277.16779361,Elaeocarpus grandis,Elaeocarpus,KNApSAcK
+22,C00041572,911682-69-4,Grandisine F,C16H24N2O2,276.18377802,Elaeocarpus grandis,Elaeocarpus,KNApSAcK
+23,C00041573,911682-70-7,Grandisine G,C17H26N2O2,290.19942809,Elaeocarpus grandis,Elaeocarpus,KNApSAcK
+24,C00041608,21104-46-1,Isoelaeocarpiline,C16H21NO2,259.15722892,Elaeocarpus sphaericus Schl.,Elaeocarpus,KNApSAcK
+25,C00041608,21104-46-1,Isoelaeocarpiline,C16H21NO2,259.15722892,Elaeocarpus grandis,Elaeocarpus,KNApSAcK
+26,C00041608,21104-46-1,Isoelaeocarpiline,C16H21NO2,259.15722892,Elaeocarpus dolichostylus,Elaeocarpus,KNApSAcK
+0,C00003753,1258-84-0,Pristimerin,C30H40O4,464.29265977,Schaefferia cuneifolia,Schaefferia,KNApSAcK
+1,C00003759,50802-21-6,Maytenin,C28H36O3,420.26644502,Schaefferia cuneifolia,Schaefferia,KNApSAcK
+0,C00000100,87-51-4,Indole-3-acetic acid,C10H9NO2,175.06332854,Diospyros kaki,Diospyros,KNApSAcK
+1,C00000101,1912-33-0,Methyl indole-3-acetate,C11H11NO2,189.0789786,Diospyros kaki,Diospyros,KNApSAcK
+2,C00000107,771-51-7,Indole-3-acetonitrile,C10H8N2,156.06874827,Diospyros kaki,Diospyros,KNApSAcK
+3,C00000258,530-55-2,"2,6-Dimethoxy-1,4-benzoquinone",C8H8O4,168.04225874,Diospyros eriantha,Diospyros,KNApSAcK
+4,C00000323,5522-71-4,Methyl pheophorbide b,C36H36N4O6,620.26348491,Diospyros kaki,Diospyros,KNApSAcK
+5,C00000332,5594-30-9,Methyl pheophorbide a,C36H38N4O5,606.28422035,Diospyros kaki,Diospyros,KNApSAcK
+6,C00000911,502-65-8,Lycopene,C40H56,536.43820179,Diospyros kaki,Diospyros,KNApSAcK
+7,C00000919,7235-40-7,beta-Carotene,C40H56,536.43820179,Diospyros kaki,Diospyros,KNApSAcK
+8,C00000926,472-93-5,gamma-Carotene,C40H56,536.43820179,Diospyros kaki,Diospyros,KNApSAcK
+9,C00002499,92-61-5,Scopoletin,C10H8O4,192.04225874,Diospyros maritima,Diospyros,KNApSAcK
+10,C00002631,21453-69-0,(+)-Lirioresinol B,C22H26O8,418.16276781,Diospyros eriantha,Diospyros,KNApSAcK
+11,C00002637,642-71-7,"3,4,5-Trimethoxyphenol",C9H12O4,184.07355887,Diospyros eriantha,Diospyros,KNApSAcK
+12,C00002647,149-91-7,Gallic acid,C7H6O5,170.0215233,Diospyros cinnabarina,Diospyros,KNApSAcK
+13,C00002647,149-91-7,Gallic acid,C7H6O5,170.0215233,Diospyros kaki,Diospyros,KNApSAcK
+14,C00002674,530-57-4,Syringic acid,C9H10O5,198.05282343,Diospyros eriantha,Diospyros,KNApSAcK
+15,C00002816,28164-57-0,Diospyrin,C22H14O6,374.07903818,Diospyros chamaethamnus,Diospyros,KNApSAcK
+16,C00002816,28164-57-0,Diospyrin,C22H14O6,374.07903818,Diospyros virginiana,Diospyros,KNApSAcK
+17,C00002816,28164-57-0,Diospyrin,C22H14O6,374.07903818,Diospyros sylvatica,Diospyros,KNApSAcK
+18,C00002816,28164-57-0,Diospyrin,C22H14O6,374.07903818,Diospyros spp.,Diospyros,KNApSAcK
+19,C00002816,28164-57-0,Diospyrin,C22H14O6,374.07903818,Diospyros spinescens,Diospyros,KNApSAcK
+20,C00002816,28164-57-0,Diospyrin,C22H14O6,374.07903818,Diospyros obliquifolia,Diospyros,KNApSAcK
+21,C00002816,28164-57-0,Diospyrin,C22H14O6,374.07903818,Diospyros montana,Diospyros,KNApSAcK
+22,C00002816,28164-57-0,Diospyrin,C22H14O6,374.07903818,Diospyros mannii,Diospyros,KNApSAcK
+23,C00002816,28164-57-0,Diospyrin,C22H14O6,374.07903818,Diospyros longiflora,Diospyros,KNApSAcK
+24,C00002816,28164-57-0,Diospyrin,C22H14O6,374.07903818,Diospyros kamerunensis,Diospyros,KNApSAcK
+25,C00002816,28164-57-0,Diospyrin,C22H14O6,374.07903818,Diospyros kaki,Diospyros,KNApSAcK
+26,C00002816,28164-57-0,Diospyrin,C22H14O6,374.07903818,Diospyros gracilescens,Diospyros,KNApSAcK
+27,C00002816,28164-57-0,Diospyrin,C22H14O6,374.07903818,Diospyros fragrans,Diospyros,KNApSAcK
+28,C00002816,28164-57-0,Diospyrin,C22H14O6,374.07903818,Diospyros cinnabarina,Diospyros,KNApSAcK
+29,C00002816,28164-57-0,Diospyrin,C22H14O6,374.07903818,Diospyros chloroxylon,Diospyros,KNApSAcK
+30,C00002816,28164-57-0,Diospyrin,C22H14O6,374.07903818,Diospyros abyssinica,Diospyros,KNApSAcK
+31,C00002818,478-40-0,Droserone,C11H8O4,204.04225874,Diospyros melanoxylon,Diospyros,KNApSAcK
+32,C00002818,478-40-0,Droserone,C11H8O4,204.04225874,Diospyros maritima BLUME,Diospyros,KNApSAcK
+33,C00002831,20175-84-2,Isodiospyrin,C22H14O6,374.07903818,Diospyros chamaethamnus,Diospyros,KNApSAcK
+34,C00002831,20175-84-2,Isodiospyrin,C22H14O6,374.07903818,Diospyros abyssinica,Diospyros,KNApSAcK
+35,C00002831,20175-84-2,Isodiospyrin,C22H14O6,374.07903818,Diospyros zombensis,Diospyros,KNApSAcK
+36,C00002831,20175-84-2,Isodiospyrin,C22H14O6,374.07903818,Diospyros whyteana,Diospyros,KNApSAcK
+37,C00002831,20175-84-2,Isodiospyrin,C22H14O6,374.07903818,Diospyros virginiana,Diospyros,KNApSAcK
+38,C00002831,20175-84-2,Isodiospyrin,C22H14O6,374.07903818,Diospyros verrucosa,Diospyros,KNApSAcK
+39,C00002831,20175-84-2,Isodiospyrin,C22H14O6,374.07903818,Diospyros usambarensis,Diospyros,KNApSAcK
+40,C00002831,20175-84-2,Isodiospyrin,C22H14O6,374.07903818,Diospyros texana,Diospyros,KNApSAcK
+41,C00002831,20175-84-2,Isodiospyrin,C22H14O6,374.07903818,Diospyros sylvatica,Diospyros,KNApSAcK
+42,C00002831,20175-84-2,Isodiospyrin,C22H14O6,374.07903818,Diospyros lotus,Diospyros,KNApSAcK
+43,C00002831,20175-84-2,Isodiospyrin,C22H14O6,374.07903818,Diospyros kakisylvestris,Diospyros,KNApSAcK
+44,C00002831,20175-84-2,Isodiospyrin,C22H14O6,374.07903818,Diospyros nicaraguensis,Diospyros,KNApSAcK
+45,C00002831,20175-84-2,Isodiospyrin,C22H14O6,374.07903818,Diospyros morrisiana,Diospyros,KNApSAcK
+46,C00002831,20175-84-2,Isodiospyrin,C22H14O6,374.07903818,Diospyros montana,Diospyros,KNApSAcK
+47,C00002831,20175-84-2,Isodiospyrin,C22H14O6,374.07903818,Diospyros mespiliformis,Diospyros,KNApSAcK
+48,C00002831,20175-84-2,Isodiospyrin,C22H14O6,374.07903818,Diospyros maingayi,Diospyros,KNApSAcK
+49,C00002831,20175-84-2,Isodiospyrin,C22H14O6,374.07903818,Diospyros kaki,Diospyros,KNApSAcK
+50,C00002831,20175-84-2,Isodiospyrin,C22H14O6,374.07903818,Diospyros hoyleana,Diospyros,KNApSAcK
+51,C00002831,20175-84-2,Isodiospyrin,C22H14O6,374.07903818,Diospyros gracilescens,Diospyros,KNApSAcK
+52,C00002831,20175-84-2,Isodiospyrin,C22H14O6,374.07903818,Diospyros gilleti,Diospyros,KNApSAcK
+53,C00002831,20175-84-2,Isodiospyrin,C22H14O6,374.07903818,Diospyros ferrea,Diospyros,KNApSAcK
+54,C00002831,20175-84-2,Isodiospyrin,C22H14O6,374.07903818,Diospyros ebenaster,Diospyros,KNApSAcK
+55,C00002831,20175-84-2,Isodiospyrin,C22H14O6,374.07903818,Diospyros dendo,Diospyros,KNApSAcK
+56,C00002831,20175-84-2,Isodiospyrin,C22H14O6,374.07903818,Diospyros bipindensis,Diospyros,KNApSAcK
+57,C00002831,20175-84-2,Isodiospyrin,C22H14O6,374.07903818,Diospyros chloroxylon,Diospyros,KNApSAcK
+58,C00002831,20175-84-2,Isodiospyrin,C22H14O6,374.07903818,Diospyros alboflavescens,Diospyros,KNApSAcK
+59,C00002852,481-42-5,Plumbagin,C11H8O3,188.04734412,Diospyros hebecarpa,Diospyros,KNApSAcK
+60,C00002852,481-42-5,Plumbagin,C11H8O3,188.04734412,Diospyros canaliculata,Diospyros,KNApSAcK
+61,C00002852,481-42-5,Plumbagin,C11H8O3,188.04734412,Diospyros ebenum,Diospyros,KNApSAcK
+62,C00002852,481-42-5,Plumbagin,C11H8O3,188.04734412,Diospyros elliptifolia,Diospyros,KNApSAcK
+63,C00002852,481-42-5,Plumbagin,C11H8O3,188.04734412,Diospyros gracilipes,Diospyros,KNApSAcK
+64,C00002852,481-42-5,Plumbagin,C11H8O3,188.04734412,Diospyros kaki,Diospyros,KNApSAcK
+65,C00002852,481-42-5,Plumbagin,C11H8O3,188.04734412,Diospyros maritima BLUME,Diospyros,KNApSAcK
+66,C00002852,481-42-5,Plumbagin,C11H8O3,188.04734412,Diospyros siamang,Diospyros,KNApSAcK
+67,C00002852,481-42-5,Plumbagin,C11H8O3,188.04734412,Diospyros siderophylla,Diospyros,KNApSAcK
+68,C00002852,481-42-5,Plumbagin,C11H8O3,188.04734412,Diospyros spp.,Diospyros,KNApSAcK
+69,C00002852,481-42-5,Plumbagin,C11H8O3,188.04734412,Diospyros sylvatica,Diospyros,KNApSAcK
+70,C00002852,481-42-5,Plumbagin,C11H8O3,188.04734412,Diospyros walkeri,Diospyros,KNApSAcK
+71,C00002852,481-42-5,Plumbagin,C11H8O3,188.04734412,Diospyros wallichii,Diospyros,KNApSAcK
+72,C00002859,14787-38-3,7-Methyljuglone,C11H8O3,188.04734412,Diospyros manrii,Diospyros,KNApSAcK
+73,C00002859,14787-38-3,7-Methyljuglone,C11H8O3,188.04734412,Diospyros mafiensis,Diospyros,KNApSAcK
+74,C00002859,14787-38-3,7-Methyljuglone,C11H8O3,188.04734412,Diospyros lotus,Diospyros,KNApSAcK
+75,C00002859,14787-38-3,7-Methyljuglone,C11H8O3,188.04734412,Diospyros kaki var.sylvestris,Diospyros,KNApSAcK
+76,C00002859,14787-38-3,7-Methyljuglone,C11H8O3,188.04734412,Diospyros kaki,Diospyros,KNApSAcK
+77,C00002859,14787-38-3,7-Methyljuglone,C11H8O3,188.04734412,Diospyros ismailii,Diospyros,KNApSAcK
+78,C00002859,14787-38-3,7-Methyljuglone,C11H8O3,188.04734412,Diospyros inhacaensis,Diospyros,KNApSAcK
+79,C00002859,14787-38-3,7-Methyljuglone,C11H8O3,188.04734412,Diospyros natalensis,Diospyros,KNApSAcK
+80,C00002859,14787-38-3,7-Methyljuglone,C11H8O3,188.04734412,Diospyros sumatrana,Diospyros,KNApSAcK
+81,C00002859,14787-38-3,7-Methyljuglone,C11H8O3,188.04734412,Diospyros montana,Diospyros,KNApSAcK
+82,C00002859,14787-38-3,7-Methyljuglone,C11H8O3,188.04734412,Diospyros nicaragunesis,Diospyros,KNApSAcK
+83,C00002859,14787-38-3,7-Methyljuglone,C11H8O3,188.04734412,Diospyros rotundifolia,Diospyros,KNApSAcK
+84,C00002859,14787-38-3,7-Methyljuglone,C11H8O3,188.04734412,Diospyros chamaethamnus,Diospyros,KNApSAcK
+85,C00002859,14787-38-3,7-Methyljuglone,C11H8O3,188.04734412,Diospyros squarrosa,Diospyros,KNApSAcK
+86,C00002859,14787-38-3,7-Methyljuglone,C11H8O3,188.04734412,Diospyros verrucosa,Diospyros,KNApSAcK
+87,C00002859,14787-38-3,7-Methyljuglone,C11H8O3,188.04734412,Diospyros virginiana,Diospyros,KNApSAcK
+88,C00002859,14787-38-3,7-Methyljuglone,C11H8O3,188.04734412,Diospyros mannii,Diospyros,KNApSAcK
+89,C00002859,14787-38-3,7-Methyljuglone,C11H8O3,188.04734412,Diospyros whyteana,Diospyros,KNApSAcK
+90,C00002859,14787-38-3,7-Methyljuglone,C11H8O3,188.04734412,Diospyros zombensis,Diospyros,KNApSAcK
+91,C00002859,14787-38-3,7-Methyljuglone,C11H8O3,188.04734412,Diospyros melanoxylon,Diospyros,KNApSAcK
+92,C00002859,14787-38-3,7-Methyljuglone,C11H8O3,188.04734412,Diospyros moonii,Diospyros,KNApSAcK
+93,C00002859,14787-38-3,7-Methyljuglone,C11H8O3,188.04734412,Diospyros usambarensis,Diospyros,KNApSAcK
+94,C00002859,14787-38-3,7-Methyljuglone,C11H8O3,188.04734412,Diospyros hoyleana,Diospyros,KNApSAcK
+95,C00002859,14787-38-3,7-Methyljuglone,C11H8O3,188.04734412,Diospyros heterotricha,Diospyros,KNApSAcK
+96,C00002859,14787-38-3,7-Methyljuglone,C11H8O3,188.04734412,Diospyros guianensis,Diospyros,KNApSAcK
+97,C00002859,14787-38-3,7-Methyljuglone,C11H8O3,188.04734412,Diospyros gilleti,Diospyros,KNApSAcK
+98,C00002859,14787-38-3,7-Methyljuglone,C11H8O3,188.04734412,Diospyros fischeri,Diospyros,KNApSAcK
+99,C00002859,14787-38-3,7-Methyljuglone,C11H8O3,188.04734412,Diospyros ferrea,Diospyros,KNApSAcK
+100,C00002859,14787-38-3,7-Methyljuglone,C11H8O3,188.04734412,Diospyros ebenum,Diospyros,KNApSAcK
+101,C00002859,14787-38-3,7-Methyljuglone,C11H8O3,188.04734412,Diospyros ebenaster,Diospyros,KNApSAcK
+102,C00002859,14787-38-3,7-Methyljuglone,C11H8O3,188.04734412,Diospyros chloroxylon,Diospyros,KNApSAcK
+103,C00002859,14787-38-3,7-Methyljuglone,C11H8O3,188.04734412,Diospyros austroafricana,Diospyros,KNApSAcK
+104,C00002859,14787-38-3,7-Methyljuglone,C11H8O3,188.04734412,Diospyros alboflavescens,Diospyros,KNApSAcK
+105,C00002859,14787-38-3,7-Methyljuglone,C11H8O3,188.04734412,Diospyros maritima,Diospyros,KNApSAcK
+106,C00003647,474-62-4,Campesterol,C28H48O,400.37051615,Diospyros kaki,Diospyros,KNApSAcK
+107,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Diospyros spinescens,Diospyros,KNApSAcK
+108,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Diospyros kaki,Diospyros,KNApSAcK
+109,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Diospyros indica,Diospyros,KNApSAcK
+110,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Diospyros hirsuta,Diospyros,KNApSAcK
+111,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Diospyros montana,Diospyros,KNApSAcK
+112,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Diospyros melanoxylon,Diospyros,KNApSAcK
+113,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Diospyros discolor,Diospyros,KNApSAcK
+114,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Diospyros eriantha,Diospyros,KNApSAcK
+115,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Diospyros rhodocalyx,Diospyros,KNApSAcK
+116,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Diospyros ferrea,Diospyros,KNApSAcK
+117,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Diospyros ebenum,Diospyros,KNApSAcK
+118,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Diospyros ebenaster,Diospyros,KNApSAcK
+119,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Diospyros cordifolia,Diospyros,KNApSAcK
+120,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Diospyros chloroxylon,Diospyros,KNApSAcK
+121,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Diospyros chaetocarpa,Diospyros,KNApSAcK
+122,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Diospyros buxifolia,Diospyros,KNApSAcK
+123,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Diospyros acuta,Diospyros,KNApSAcK
+124,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Diospyros oblongifolia,Diospyros,KNApSAcK
+125,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Diospyros walkeri,Diospyros,KNApSAcK
+126,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Diospyros tomentosa,Diospyros,KNApSAcK
+127,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Diospyros thwaitesii,Diospyros,KNApSAcK
+128,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Diospyros texana,Diospyros,KNApSAcK
+129,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Diospyros rheophytica,Diospyros,KNApSAcK
+130,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Diospyros quaesita,Diospyros,KNApSAcK
+131,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Diospyros peregrina,Diospyros,KNApSAcK
+132,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Diospyros oppositifolia,Diospyros,KNApSAcK
+133,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Diospyros morrisiana,Diospyros,KNApSAcK
+134,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Diospyros moonii,Diospyros,KNApSAcK
+135,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Diospyros malanonilau,Diospyros,KNApSAcK
+136,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Diospyros lotus,Diospyros,KNApSAcK
+137,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Diospyros kirkii,Diospyros,KNApSAcK
+138,C00003674,83-48-7,beta-Stigmasterol,C29H48O,412.37051615,Diospyros castanea,Diospyros,KNApSAcK
+139,C00003674,83-48-7,beta-Stigmasterol,C29H48O,412.37051615,Diospyros buxifolia,Diospyros,KNApSAcK
+140,C00003674,83-48-7,beta-Stigmasterol,C29H48O,412.37051615,Diospyros rhodocalyx,Diospyros,KNApSAcK
+141,C00003674,83-48-7,beta-Stigmasterol,C29H48O,412.37051615,Diospyros mollis,Diospyros,KNApSAcK
+142,C00003674,83-48-7,beta-Stigmasterol,C29H48O,412.37051615,Diospyros kaki,Diospyros,KNApSAcK
+143,C00003674,83-48-7,beta-Stigmasterol,C29H48O,412.37051615,Diospyros evena,Diospyros,KNApSAcK
+144,C00003674,83-48-7,beta-Stigmasterol,C29H48O,412.37051615,Diospyros montana,Diospyros,KNApSAcK
+145,C00003674,83-48-7,beta-Stigmasterol,C29H48O,412.37051615,Diospyros ebenum,Diospyros,KNApSAcK
+146,C00003674,83-48-7,beta-Stigmasterol,C29H48O,412.37051615,Diospyros diepenhorstii,Diospyros,KNApSAcK
+147,C00003674,83-48-7,beta-Stigmasterol,C29H48O,412.37051615,Diospyros sanza-minika,Diospyros,KNApSAcK
+148,C00003674,83-48-7,beta-Stigmasterol,C29H48O,412.37051615,Diospyros morrisiana,Diospyros,KNApSAcK
+149,C00003674,83-48-7,beta-Stigmasterol,C29H48O,412.37051615,Diospyros variegata,Diospyros,KNApSAcK
+150,C00003674,83-48-7,beta-Stigmasterol,C29H48O,412.37051615,Diospyros curranii,Diospyros,KNApSAcK
+151,C00003674,83-48-7,beta-Stigmasterol,C29H48O,412.37051615,Diospyros cauliflora,Diospyros,KNApSAcK
+152,C00003737,638-95-9,alpha-Amyrin,C30H50O,426.38616622,Diospyros kaki,Diospyros,KNApSAcK
+153,C00003737,638-95-9,alpha-Amyrin,C30H50O,426.38616622,Diospyros cornii,Diospyros,KNApSAcK
+154,C00003737,638-95-9,alpha-Amyrin,C30H50O,426.38616622,Diospyros cordifolia,Diospyros,KNApSAcK
+155,C00003737,638-95-9,alpha-Amyrin,C30H50O,426.38616622,Diospyros melanoxylon,Diospyros,KNApSAcK
+156,C00003737,638-95-9,alpha-Amyrin,C30H50O,426.38616622,Diospyros maingayi,Diospyros,KNApSAcK
+157,C00003737,638-95-9,alpha-Amyrin,C30H50O,426.38616622,Diospyros mafiensis,Diospyros,KNApSAcK
+158,C00003737,638-95-9,alpha-Amyrin,C30H50O,426.38616622,Diospyros kirkii,Diospyros,KNApSAcK
+159,C00003737,638-95-9,alpha-Amyrin,C30H50O,426.38616622,Diospyros ebenum,Diospyros,KNApSAcK
+160,C00003737,638-95-9,alpha-Amyrin,C30H50O,426.38616622,Diospyros sylvatica,Diospyros,KNApSAcK
+161,C00003737,638-95-9,alpha-Amyrin,C30H50O,426.38616622,Diospyros natalensis,Diospyros,KNApSAcK
+162,C00003737,638-95-9,alpha-Amyrin,C30H50O,426.38616622,Diospyros montana,Diospyros,KNApSAcK
+163,C00003737,638-95-9,alpha-Amyrin,C30H50O,426.38616622,Diospyros mespiliformis,Diospyros,KNApSAcK
+164,C00003738,559-70-6,beta-Amyrin,C30H50O,426.38616622,Diospyros cordifolia,Diospyros,KNApSAcK
+165,C00003738,559-70-6,beta-Amyrin,C30H50O,426.38616622,Diospyros lotus,Diospyros,KNApSAcK
+166,C00003738,559-70-6,beta-Amyrin,C30H50O,426.38616622,Diospyros peregrina,Diospyros,KNApSAcK
+167,C00003738,559-70-6,beta-Amyrin,C30H50O,426.38616622,Diospyros morrisiana,Diospyros,KNApSAcK
+168,C00003738,559-70-6,beta-Amyrin,C30H50O,426.38616622,Diospyros maritima BLUME,Diospyros,KNApSAcK
+169,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Diospyros melanoxylon,Diospyros,KNApSAcK
+170,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Diospyros rhodocalyx,Diospyros,KNApSAcK
+171,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Diospyros morrisiana,Diospyros,KNApSAcK
+172,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Diospyros moonii,Diospyros,KNApSAcK
+173,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Diospyros iturensis,Diospyros,KNApSAcK
+174,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Diospyros ismailii,Diospyros,KNApSAcK
+175,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Diospyros hoyleana,Diospyros,KNApSAcK
+176,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Diospyros hirsuta,Diospyros,KNApSAcK
+177,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Diospyros guianensis,Diospyros,KNApSAcK
+178,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Diospyros maingayi,Diospyros,KNApSAcK
+179,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Diospyros montana,Diospyros,KNApSAcK
+180,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Diospyros monobuttensis,Diospyros,KNApSAcK
+181,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Diospyros mespiliformis,Diospyros,KNApSAcK
+182,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Diospyros maritima,Diospyros,KNApSAcK
+183,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Diospyros mannii,Diospyros,KNApSAcK
+184,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Diospyros malanonilau,Diospyros,KNApSAcK
+185,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Diospyros gracilescens,Diospyros,KNApSAcK
+186,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Diospyros gabunensis,Diospyros,KNApSAcK
+187,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Diospyros fragrans,Diospyros,KNApSAcK
+188,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Diospyros exsculpta,Diospyros,KNApSAcK
+189,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Diospyros evena,Diospyros,KNApSAcK
+190,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Diospyros zenkeri,Diospyros,KNApSAcK
+191,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Diospyros wallichii,Diospyros,KNApSAcK
+192,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Diospyros walkeri,Diospyros,KNApSAcK
+193,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Diospyros virginiana,Diospyros,KNApSAcK
+194,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Diospyros verrucosa,Diospyros,KNApSAcK
+195,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Diospyros tomentosa,Diospyros,KNApSAcK
+196,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Diospyros thwaitesii,Diospyros,KNApSAcK
+197,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Diospyros sylvatica,Diospyros,KNApSAcK
+198,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Diospyros sumatrana,Diospyros,KNApSAcK
+199,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Diospyros spinescens,Diospyros,KNApSAcK
+200,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Diospyros singaporensis,Diospyros,KNApSAcK
+201,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Diospyros siderophylla,Diospyros,KNApSAcK
+202,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Diospyros siamensis,Diospyros,KNApSAcK
+203,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Diospyros siamang,Diospyros,KNApSAcK
+204,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Diospyros sanza-minika,Diospyros,KNApSAcK
+205,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Diospyros quaesita,Diospyros,KNApSAcK
+206,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Diospyros pseudo-malabarica,Diospyros,KNApSAcK
+207,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Diospyros peregrina,Diospyros,KNApSAcK
+208,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Diospyros obliquifolia,Diospyros,KNApSAcK
+209,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Diospyros lotus,Diospyros,KNApSAcK
+210,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Diospyros longiflora,Diospyros,KNApSAcK
+211,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Diospyros leucomelas,Diospyros,KNApSAcK
+212,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Diospyros kamerunensis,Diospyros,KNApSAcK
+213,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Diospyros kaki var.sylvestris,Diospyros,KNApSAcK
+214,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Diospyros kaki,Diospyros,KNApSAcK
+215,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Diospyros eriantha,Diospyros,KNApSAcK
+216,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Diospyros embryopteris,Diospyros,KNApSAcK
+217,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Diospyros elliptifolia,Diospyros,KNApSAcK
+218,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Diospyros ebenum,Diospyros,KNApSAcK
+219,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Diospyros discolor,Diospyros,KNApSAcK
+220,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Diospyros dendo,Diospyros,KNApSAcK
+221,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Diospyros curranii,Diospyros,KNApSAcK
+222,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Diospyros crassiflora,Diospyros,KNApSAcK
+223,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Diospyros consolatae,Diospyros,KNApSAcK
+224,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Diospyros cinnabarina,Diospyros,KNApSAcK
+225,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Diospyros chloroxylon,Diospyros,KNApSAcK
+226,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Diospyros chevalieri,Diospyros,KNApSAcK
+227,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Diospyros cauliflora,Diospyros,KNApSAcK
+228,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Diospyros castanea,Diospyros,KNApSAcK
+229,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Diospyros candalleana,Diospyros,KNApSAcK
+230,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Diospyros canaliculata,Diospyros,KNApSAcK
+231,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Diospyros buxifolia,Diospyros,KNApSAcK
+232,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Diospyros bipindensis,Diospyros,KNApSAcK
+233,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Diospyros argentea,Diospyros,KNApSAcK
+234,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Diospyros abyssinica,Diospyros,KNApSAcK
+235,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros maritima,Diospyros,KNApSAcK
+236,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros rhodocalyx,Diospyros,KNApSAcK
+237,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros abyssinica,Diospyros,KNApSAcK
+238,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros alboflavescens,Diospyros,KNApSAcK
+239,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros argentea,Diospyros,KNApSAcK
+240,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros bipindensis,Diospyros,KNApSAcK
+241,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros buxifolia,Diospyros,KNApSAcK
+242,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros canaliculata,Diospyros,KNApSAcK
+243,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros candalleana,Diospyros,KNApSAcK
+244,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros castanea,Diospyros,KNApSAcK
+245,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros cauliflora,Diospyros,KNApSAcK
+246,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros chevalieri,Diospyros,KNApSAcK
+247,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros chloroxylon,Diospyros,KNApSAcK
+248,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros cinnabarina,Diospyros,KNApSAcK
+249,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros consolatae,Diospyros,KNApSAcK
+250,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros cornii,Diospyros,KNApSAcK
+251,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros crassiflora,Diospyros,KNApSAcK
+252,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros curranii,Diospyros,KNApSAcK
+253,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros dendo,Diospyros,KNApSAcK
+254,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros diepenhorstii,Diospyros,KNApSAcK
+255,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros discolor,Diospyros,KNApSAcK
+256,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros ebenum,Diospyros,KNApSAcK
+257,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros ehretioides,Diospyros,KNApSAcK
+258,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros elliptifolia,Diospyros,KNApSAcK
+259,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros embryopteris,Diospyros,KNApSAcK
+260,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros eriantha,Diospyros,KNApSAcK
+261,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros evena,Diospyros,KNApSAcK
+262,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros exsculpta,Diospyros,KNApSAcK
+263,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros ferrea,Diospyros,KNApSAcK
+264,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros fragrans,Diospyros,KNApSAcK
+265,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros gabunensis,Diospyros,KNApSAcK
+266,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros gilleti,Diospyros,KNApSAcK
+267,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros gracilescens,Diospyros,KNApSAcK
+268,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros greeniway,Diospyros,KNApSAcK
+269,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros guianensis,Diospyros,KNApSAcK
+270,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros hirsuta,Diospyros,KNApSAcK
+271,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros hoyleana,Diospyros,KNApSAcK
+272,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros ismailii,Diospyros,KNApSAcK
+273,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros iturensis,Diospyros,KNApSAcK
+274,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros kaki,Diospyros,KNApSAcK
+275,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros kaki var.sylvestris,Diospyros,KNApSAcK
+276,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros kamerunensis,Diospyros,KNApSAcK
+277,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros leucomelas,Diospyros,KNApSAcK
+278,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros longiflora,Diospyros,KNApSAcK
+279,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros lotus,Diospyros,KNApSAcK
+280,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros mafiensis,Diospyros,KNApSAcK
+281,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros maingayi,Diospyros,KNApSAcK
+282,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros malanonilau,Diospyros,KNApSAcK
+283,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros mannii,Diospyros,KNApSAcK
+284,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros melanoxylon,Diospyros,KNApSAcK
+285,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros mespiliformis,Diospyros,KNApSAcK
+286,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros monobuttensis,Diospyros,KNApSAcK
+287,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros montana,Diospyros,KNApSAcK
+288,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros moonii,Diospyros,KNApSAcK
+289,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros morrisiana,Diospyros,KNApSAcK
+290,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros natalensis,Diospyros,KNApSAcK
+291,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros obliquifolia,Diospyros,KNApSAcK
+292,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros palmeri,Diospyros,KNApSAcK
+293,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros spinescens,Diospyros,KNApSAcK
+294,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros sumatrana,Diospyros,KNApSAcK
+295,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros sylvatica,Diospyros,KNApSAcK
+296,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros thwaitesii,Diospyros,KNApSAcK
+297,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros tomentosa,Diospyros,KNApSAcK
+298,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros verrucosa,Diospyros,KNApSAcK
+299,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros virginiana,Diospyros,KNApSAcK
+300,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros walkeri,Diospyros,KNApSAcK
+301,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros wallichii,Diospyros,KNApSAcK
+302,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros zenkeri,Diospyros,KNApSAcK
+303,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros peregrina,Diospyros,KNApSAcK
+304,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros pseudo-malabarica,Diospyros,KNApSAcK
+305,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros quaesita,Diospyros,KNApSAcK
+306,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros sanza-minika,Diospyros,KNApSAcK
+307,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros siamang,Diospyros,KNApSAcK
+308,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros siamensis,Diospyros,KNApSAcK
+309,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros siderophylla,Diospyros,KNApSAcK
+310,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Diospyros singaporensis,Diospyros,KNApSAcK
+311,C00003747,559-74-0,3-Friedelanone,C30H50O,426.38616622,Diospyros maritima BLUME,Diospyros,KNApSAcK
+312,C00003747,559-74-0,3-Friedelanone,C30H50O,426.38616622,Diospyros eriantha,Diospyros,KNApSAcK
+313,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Diospyros siderophylla,Diospyros,KNApSAcK
+314,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Diospyros abyssinica,Diospyros,KNApSAcK
+315,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Diospyros thwaitesii,Diospyros,KNApSAcK
+316,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Diospyros argentea,Diospyros,KNApSAcK
+317,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Diospyros bipindensis,Diospyros,KNApSAcK
+318,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Diospyros buxifolia,Diospyros,KNApSAcK
+319,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Diospyros canaliculata,Diospyros,KNApSAcK
+320,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Diospyros candalleana,Diospyros,KNApSAcK
+321,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Diospyros castanea,Diospyros,KNApSAcK
+322,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Diospyros cauliflora,Diospyros,KNApSAcK
+323,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Diospyros chevalieri,Diospyros,KNApSAcK
+324,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Diospyros cinnabarina,Diospyros,KNApSAcK
+325,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Diospyros consolatae,Diospyros,KNApSAcK
+326,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Diospyros cordifolia,Diospyros,KNApSAcK
+327,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Diospyros cornii,Diospyros,KNApSAcK
+328,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Diospyros crassiflora,Diospyros,KNApSAcK
+329,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Diospyros curranii,Diospyros,KNApSAcK
+330,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Diospyros dendo,Diospyros,KNApSAcK
+331,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Diospyros diepenhorstii,Diospyros,KNApSAcK
+332,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Diospyros singaporensis,Diospyros,KNApSAcK
+333,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Diospyros discolor,Diospyros,KNApSAcK
+334,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Diospyros spinescens,Diospyros,KNApSAcK
+335,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Diospyros acuta,Diospyros,KNApSAcK
+336,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Diospyros ebenum,Diospyros,KNApSAcK
+337,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Diospyros sumatrana,Diospyros,KNApSAcK
+338,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Diospyros natalensis,Diospyros,KNApSAcK
+339,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Diospyros sylvatica,Diospyros,KNApSAcK
+340,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Diospyros tomentosa,Diospyros,KNApSAcK
+341,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Diospyros ehretioides,Diospyros,KNApSAcK
+342,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Diospyros toposia,Diospyros,KNApSAcK
+343,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Diospyros elliptifolia,Diospyros,KNApSAcK
+344,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Diospyros virginiana,Diospyros,KNApSAcK
+345,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Diospyros walkeri,Diospyros,KNApSAcK
+346,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Diospyros embryopteris,Diospyros,KNApSAcK
+347,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Diospyros wallichii,Diospyros,KNApSAcK
+348,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Diospyros zenkeri,Diospyros,KNApSAcK
+349,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Diospyros eriantha,Diospyros,KNApSAcK
+350,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Diospyros evena,Diospyros,KNApSAcK
+351,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Diospyros exsculpta,Diospyros,KNApSAcK
+352,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Diospyros fragrans,Diospyros,KNApSAcK
+353,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Diospyros gabunensis,Diospyros,KNApSAcK
+354,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Diospyros gracilescens,Diospyros,KNApSAcK
+355,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Diospyros greeniway,Diospyros,KNApSAcK
+356,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Diospyros guianensis,Diospyros,KNApSAcK
+357,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Diospyros hirsuta,Diospyros,KNApSAcK
+358,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Diospyros hoyleana,Diospyros,KNApSAcK
+359,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Diospyros ismailii,Diospyros,KNApSAcK
+360,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Diospyros iturensis,Diospyros,KNApSAcK
+361,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Diospyros kaki,Diospyros,KNApSAcK
+362,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Diospyros kaki var.sylvestris,Diospyros,KNApSAcK
+363,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Diospyros kamerunensis,Diospyros,KNApSAcK
+364,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Diospyros longiflora,Diospyros,KNApSAcK
+365,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Diospyros lotus,Diospyros,KNApSAcK
+366,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Diospyros mafiensis,Diospyros,KNApSAcK
+367,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Diospyros maingayi,Diospyros,KNApSAcK
+368,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Diospyros mannii,Diospyros,KNApSAcK
+369,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Diospyros maritima BLUME,Diospyros,KNApSAcK
+370,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Diospyros melanoxylon,Diospyros,KNApSAcK
+371,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Diospyros mespiliformis,Diospyros,KNApSAcK
+372,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Diospyros monobuttensis,Diospyros,KNApSAcK
+373,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Diospyros montana,Diospyros,KNApSAcK
+374,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Diospyros moonii,Diospyros,KNApSAcK
+375,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Diospyros obliquifolia,Diospyros,KNApSAcK
+376,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Diospyros oppositifolia,Diospyros,KNApSAcK
+377,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Diospyros peregrina,Diospyros,KNApSAcK
+378,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Diospyros pseudo-malabarica,Diospyros,KNApSAcK
+379,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Diospyros quaesita,Diospyros,KNApSAcK
+380,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Diospyros rheophytica,Diospyros,KNApSAcK
+381,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Diospyros rhodocalyx,Diospyros,KNApSAcK
+382,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Diospyros sanza-minika,Diospyros,KNApSAcK
+383,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Diospyros siamang,Diospyros,KNApSAcK
+384,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Diospyros morrisiana,Diospyros,KNApSAcK
+385,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Diospyros siamensis,Diospyros,KNApSAcK
+386,C00003758,127-22-0,Taraxerol,C30H50O,426.38616622,Diospyros lotus,Diospyros,KNApSAcK
+387,C00003758,127-22-0,Taraxerol,C30H50O,426.38616622,Diospyros mollis,Diospyros,KNApSAcK
+388,C00003758,127-22-0,Taraxerol,C30H50O,426.38616622,Diospyros morrisiana,Diospyros,KNApSAcK
+389,C00003758,127-22-0,Taraxerol,C30H50O,426.38616622,Diospyros nicaraguensis,Diospyros,KNApSAcK
+390,C00003758,127-22-0,Taraxerol,C30H50O,426.38616622,Diospyros spp.,Diospyros,KNApSAcK
+391,C00003758,127-22-0,Taraxerol,C30H50O,426.38616622,Diospyros rhodocalyx,Diospyros,KNApSAcK
+392,C00003758,127-22-0,Taraxerol,C30H50O,426.38616622,Diospyros cordifolia,Diospyros,KNApSAcK
+393,C00003758,127-22-0,Taraxerol,C30H50O,426.38616622,Diospyros ferrea,Diospyros,KNApSAcK
+394,C00003758,127-22-0,Taraxerol,C30H50O,426.38616622,Diospyros hirsuta,Diospyros,KNApSAcK
+395,C00003758,127-22-0,Taraxerol,C30H50O,426.38616622,Diospyros kaki,Diospyros,KNApSAcK
+396,C00003765,7488-99-5,alpha-Carotene,C40H56,536.43820179,Diospyros kaki,Diospyros,KNApSAcK
+397,C00005138,480-10-4,Astragalin,C21H20O11,448.10056148,Diospyros kaki,Diospyros,KNApSAcK
+398,C00005141,22688-78-4,Kaempferol 3-glucuronide,C21H18O12,462.07982604,Diospyros rhombifolia,Diospyros,KNApSAcK
+399,C00005169,17650-84-9,Kaempferol 3-rutinoside,C27H30O15,594.15847029,Diospyros rhombifolia,Diospyros,KNApSAcK
+400,C00005373,482-35-9,Hirsutrin,C21H20O12,464.09547611,Diospyros rhombifolia,Diospyros,KNApSAcK
+401,C00005373,482-35-9,Hirsutrin,C21H20O12,464.09547611,Diospyros kaki,Diospyros,KNApSAcK
+402,C00005413,153-18-4,Quercetin 3-rutinoside,C27H30O16,610.15338491,Diospyros rhombifolia,Diospyros,KNApSAcK
+403,C00005730,17912-87-7,Myricitrin,C21H20O12,464.09547611,Diospyros kaki,Diospyros,KNApSAcK
+404,C00005846,76343-90-3,Kaempferol 3-(2''-galloylglucoside),C28H24O15,600.1115201,Diospyros kaki,Diospyros,KNApSAcK
+405,C00005957,69624-79-9,Quercetin 3-(2''-galloylglucoside),C28H24O16,616.10643472,Diospyros kaki,Diospyros,KNApSAcK
+406,C00008716,81645-92-3,Taxifolin 3-glucosyl-(1->4)-rhamnoside,C27H32O16,612.16903498,Diospyros peregrina,Diospyros,KNApSAcK
+407,C00008725,71106-80-4,Ampelopsin 3'-methyl ether 4'-rhamnoside,C22H24O12,480.12677623,Diospyros peregrina,Diospyros,KNApSAcK
+408,C00009020,101320-48-3,Leucodelphinidin 3-glucoside,C21H24O13,484.12169086,Diospyros kaki,Diospyros,KNApSAcK
+409,C00019064,508-02-1,Oleanolic acid,C30H48O3,456.3603454,Diospyros evena,Diospyros,KNApSAcK
+410,C00019064,508-02-1,Oleanolic acid,C30H48O3,456.3603454,Diospyros cauliflora,Diospyros,KNApSAcK
+411,C00019064,508-02-1,Oleanolic acid,C30H48O3,456.3603454,Diospyros castanea,Diospyros,KNApSAcK
+412,C00019064,508-02-1,Oleanolic acid,C30H48O3,456.3603454,Diospyros zombensis,Diospyros,KNApSAcK
+413,C00019064,508-02-1,Oleanolic acid,C30H48O3,456.3603454,Diospyros tomentosa,Diospyros,KNApSAcK
+414,C00019064,508-02-1,Oleanolic acid,C30H48O3,456.3603454,Diospyros peregrina,Diospyros,KNApSAcK
+415,C00019064,508-02-1,Oleanolic acid,C30H48O3,456.3603454,Diospyros oblongifolia,Diospyros,KNApSAcK
+416,C00019064,508-02-1,Oleanolic acid,C30H48O3,456.3603454,Diospyros moonii,Diospyros,KNApSAcK
+417,C00019064,508-02-1,Oleanolic acid,C30H48O3,456.3603454,Diospyros montana,Diospyros,KNApSAcK
+418,C00019064,508-02-1,Oleanolic acid,C30H48O3,456.3603454,Diospyros melanoxylon,Diospyros,KNApSAcK
+419,C00019064,508-02-1,Oleanolic acid,C30H48O3,456.3603454,Diospyros malanonilau,Diospyros,KNApSAcK
+420,C00019064,508-02-1,Oleanolic acid,C30H48O3,456.3603454,Diospyros kaki,Diospyros,KNApSAcK
+421,C00019064,508-02-1,Oleanolic acid,C30H48O3,456.3603454,Diospyros curranii,Diospyros,KNApSAcK
+422,C00019220,1617-70-5,Lupenone,C30H48O,424.37051615,Diospyros mollis,Diospyros,KNApSAcK
+423,C00019220,1617-70-5,Lupenone,C30H48O,424.37051615,Diospyros rhodocalyx,Diospyros,KNApSAcK
+424,C00019308,474-58-8,3-O-beta-D-Glucopyranosyl sitosterol,C35H60O6,576.43898965,Diospyros rhodocalyx,Diospyros,KNApSAcK
+425,C00021224,13159-28-9,Betulinaldehyde,C30H48O2,440.36543078,Diospyros canaliculata,Diospyros,KNApSAcK
+426,C00021224,13159-28-9,Betulinaldehyde,C30H48O2,440.36543078,Diospyros eriantha,Diospyros,KNApSAcK
+427,C00021224,13159-28-9,Betulinaldehyde,C30H48O2,440.36543078,Diospyros discolor,Diospyros,KNApSAcK
+428,C00022950,31661-06-0,Mutatoxanthin,C40H56O3,584.42294565,Diospyros kaki,Diospyros,KNApSAcK
+429,C00025312,39626-91-0,Isoshinanolone,C11H12O3,192.07864425,Diospyros samoensis,Diospyros,KNApSAcK
+430,C00025312,39626-91-0,Isoshinanolone,C11H12O3,192.07864425,Diospyros siamang,Diospyros,KNApSAcK
+431,C00025312,39626-91-0,Isoshinanolone,C11H12O3,192.07864425,Diospyros wallichii,Diospyros,KNApSAcK
+432,C00025312,39626-91-0,Isoshinanolone,C11H12O3,192.07864425,Diospyros maritima,Diospyros,KNApSAcK
+433,C00029492,4439-99-0,epi-Lupeol,C30H50O,426.38616622,Diospyros ebenaster,Diospyros,KNApSAcK
+434,C00029492,4439-99-0,epi-Lupeol,C30H50O,426.38616622,Diospyros palmeri,Diospyros,KNApSAcK
+435,C00029593,2034-74-4,3beta-Hydroxystigmast-5-en-7-one,C29H48O2,428.36543078,Diospyros eriantha,Diospyros,KNApSAcK
+436,C00029633,7372-30-7,Acetylursolic acid,C32H50O4,498.37091008,Diospyros morrisiana,Diospyros,KNApSAcK
+437,C00029633,7372-30-7,Acetylursolic acid,C32H50O4,498.37091008,Diospyros melanoxylon,Diospyros,KNApSAcK
+438,C00029633,7372-30-7,Acetylursolic acid,C32H50O4,498.37091008,Diospyros malanonilau,Diospyros,KNApSAcK
+439,C00029633,7372-30-7,Acetylursolic acid,C32H50O4,498.37091008,Diospyros castanea,Diospyros,KNApSAcK
+440,C00029633,7372-30-7,Acetylursolic acid,C32H50O4,498.37091008,Diospyros tomentosa,Diospyros,KNApSAcK
+441,C00029633,7372-30-7,Acetylursolic acid,C32H50O4,498.37091008,Diospyros quaesita,Diospyros,KNApSAcK
+442,C00029633,7372-30-7,Acetylursolic acid,C32H50O4,498.37091008,Diospyros montana,Diospyros,KNApSAcK
+443,C00029633,7372-30-7,Acetylursolic acid,C32H50O4,498.37091008,Diospyros ferrea,Diospyros,KNApSAcK
+444,C00029633,7372-30-7,Acetylursolic acid,C32H50O4,498.37091008,Diospyros hirsuta,Diospyros,KNApSAcK
+445,C00029633,7372-30-7,Acetylursolic acid,C32H50O4,498.37091008,Diospyros kaki,Diospyros,KNApSAcK
+446,C00029633,7372-30-7,Acetylursolic acid,C32H50O4,498.37091008,Diospyros leucomelas,Diospyros,KNApSAcK
+447,C00029633,7372-30-7,Acetylursolic acid,C32H50O4,498.37091008,Diospyros lotus,Diospyros,KNApSAcK
+448,C00029633,7372-30-7,Acetylursolic acid,C32H50O4,498.37091008,Diospyros cauliflora,Diospyros,KNApSAcK
+449,C00029633,7372-30-7,Acetylursolic acid,C32H50O4,498.37091008,Diospyros curranii,Diospyros,KNApSAcK
+450,C00029633,7372-30-7,Acetylursolic acid,C32H50O4,498.37091008,Diospyros ebenum,Diospyros,KNApSAcK
+451,C00029633,7372-30-7,Acetylursolic acid,C32H50O4,498.37091008,Diospyros evena,Diospyros,KNApSAcK
+452,C00029789,64199-78-6,Barbinervic acid,C30H48O5,488.35017464,Diospyros kaki,Diospyros,KNApSAcK
+453,C00029821,1058-61-3,Sitostenone,C29H48O,412.37051615,Diospyros eriantha,Diospyros,KNApSAcK
+454,C00029821,1058-61-3,Sitostenone,C29H48O,412.37051615,Diospyros rhodocalyx,Diospyros,KNApSAcK
+455,C00029824,2259-06-5,Betulinic acid methyl ester,C31H50O3,470.37599546,Diospyros discolor,Diospyros,KNApSAcK
+456,C00031074,13849-91-7,Pomolic acid,C30H48O4,472.35526002,Diospyros kaki,Diospyros,KNApSAcK
+457,C00031228,121467-43-4,Rotungenic acid,C30H48O5,488.35017464,Diospyros kaki,Diospyros,KNApSAcK
+458,C00031394,23670-94-2,"Stigmast-4-en-3,6-dione",C29H46O2,426.34978071,Diospyros eriantha,Diospyros,KNApSAcK
+459,C00032287,514-07-8,Taraxerone,C30H48O,424.37051615,Diospyros rhodocalyx,Diospyros,KNApSAcK
+460,C00032287,514-07-8,Taraxerone,C30H48O,424.37051615,Diospyros quaesita,Diospyros,KNApSAcK
+461,C00032287,514-07-8,Taraxerone,C30H48O,424.37051615,Diospyros rheophytica,Diospyros,KNApSAcK
+462,C00032287,514-07-8,Taraxerone,C30H48O,424.37051615,Diospyros acuta,Diospyros,KNApSAcK
+463,C00032287,514-07-8,Taraxerone,C30H48O,424.37051615,Diospyros thwaitesii,Diospyros,KNApSAcK
+464,C00032287,514-07-8,Taraxerone,C30H48O,424.37051615,Diospyros ferrea,Diospyros,KNApSAcK
+465,C00032287,514-07-8,Taraxerone,C30H48O,424.37051615,Diospyros lotus,Diospyros,KNApSAcK
+466,C00032287,514-07-8,Taraxerone,C30H48O,424.37051615,Diospyros moonii,Diospyros,KNApSAcK
+467,C00032287,514-07-8,Taraxerone,C30H48O,424.37051615,Diospyros oblongifolia,Diospyros,KNApSAcK
+468,C00032287,514-07-8,Taraxerone,C30H48O,424.37051615,Diospyros oppositifolia,Diospyros,KNApSAcK
+469,C00032288,2189-80-2,Taraxerol acetate,C32H52O2,468.3967309,Diospyros maingayi,Diospyros,KNApSAcK
+470,C00032288,2189-80-2,Taraxerol acetate,C32H52O2,468.3967309,Diospyros singaporensis,Diospyros,KNApSAcK
+471,C00032288,2189-80-2,Taraxerol acetate,C32H52O2,468.3967309,Diospyros rhodocalyx,Diospyros,KNApSAcK
+472,C00032467,545-46-0,Uvaol,C30H50O2,442.38108084,Diospyros lotus,Diospyros,KNApSAcK
+473,C00032467,545-46-0,Uvaol,C30H50O2,442.38108084,Diospyros kaki,Diospyros,KNApSAcK
+474,C00032467,545-46-0,Uvaol,C30H50O2,442.38108084,Diospyros maingayi,Diospyros,KNApSAcK
+475,C00032616,188675-38-9,"2,3-Epoxyplumbagin",C11H8O4,204.04225874,Diospyros maritima BLUME,Diospyros,KNApSAcK
+476,C00032631,302944-02-1,3-(E)-Coumaroylbetulin-28-yl ethyl nonanedioate,C50H74O7,786.54345472,Diospyros maritima,Diospyros,KNApSAcK
+477,C00032632,302944-05-4,3-(E)-Coumaroylbetulin-28-yl ethyl succinate,C45H64O7,716.4652044,Diospyros maritima,Diospyros,KNApSAcK
+478,C00032633,302944-08-7,3-(E)-Coumaroylbetulin-28-yl-ethyl (2R)-2-hydroxysuccinate,C45H64O8,732.46011902,Diospyros maritima,Diospyros,KNApSAcK
+479,C00032634,34341-27-0,"3,3'-Biplumbagin",C22H14O6,374.07903818,Diospyros maritima BLUME,Diospyros,KNApSAcK
+480,C00032641,58274-94-5,"3,8'-Biplumbagin",C22H14O6,374.07903818,Diospyros maritima BLUME,Diospyros,KNApSAcK
+481,C00032646,113683-19-5,3-Bromoplumbagin,C11H7BrO3,265.95785699,Diospyros maritima BLUME,Diospyros,KNApSAcK
+482,C00032666,448960-01-8,6-(1-Ethoxyethyl)plumbagin,C15H16O4,260.104859,Diospyros maritima BLUME,Diospyros,KNApSAcK
+483,C00032817,58274-95-6,Chitranone,C22H14O6,374.07903818,Diospyros maritima BLUME,Diospyros,KNApSAcK
+484,C00032906,7754-28-1,Diethyl (2R)-malate,C8H14O5,190.08412356,Diospyros maritima,Diospyros,KNApSAcK
+485,C00032910,122689-50-3,Diospyrolide,C27H42O3,414.31339521,Diospyros maritima,Diospyros,KNApSAcK
+486,C00032911,302943-99-3,Diospyrolidone,C27H40O3,412.29774514,Diospyros maritima,Diospyros,KNApSAcK
+487,C00032936,20175-85-3,Elliptinone,C22H14O6,374.07903818,Diospyros maritima BLUME,Diospyros,KNApSAcK
+488,C00032936,20175-85-3,Elliptinone,C22H14O6,374.07903818,Diospyros samoensis,Diospyros,KNApSAcK
+489,C00032936,20175-85-3,Elliptinone,C22H14O6,374.07903818,Diospyros mollis,Diospyros,KNApSAcK
+490,C00032936,20175-85-3,Elliptinone,C22H14O6,374.07903818,Diospyros siamang,Diospyros,KNApSAcK
+491,C00032936,20175-85-3,Elliptinone,C22H14O6,374.07903818,Diospyros elliptifolia,Diospyros,KNApSAcK
+492,C00032936,20175-85-3,Elliptinone,C22H14O6,374.07903818,Diospyros wallichii,Diospyros,KNApSAcK
+493,C00032936,20175-85-3,Elliptinone,C22H14O6,374.07903818,Diospyros walkeri,Diospyros,KNApSAcK
+494,C00032951,448960-03-0,"Ethylidene-3,6'-biplumbagin",C24H18O6,402.11033831,Diospyros maritima BLUME,Diospyros,KNApSAcK
+495,C00033068,58969-28-1,Isozeylanone,C22H14O6,374.07903818,Diospyros maritima BLUME,Diospyros,KNApSAcK
+496,C00033160,33927-59-2,Maritinone,C22H14O6,374.07903818,Diospyros samoensis,Diospyros,KNApSAcK
+497,C00033160,33927-59-2,Maritinone,C22H14O6,374.07903818,Diospyros maritima BLUME,Diospyros,KNApSAcK
+498,C00033160,33927-59-2,Maritinone,C22H14O6,374.07903818,Diospyros kaki,Diospyros,KNApSAcK
+499,C00033565,4339-72-4,3-Acetyl oleanolic acid,C32H50O4,498.37091008,Diospyros lotus,Diospyros,KNApSAcK
+500,C00033565,4339-72-4,3-Acetyl oleanolic acid,C32H50O4,498.37091008,Diospyros eriantha,Diospyros,KNApSAcK
+501,C00035252,6466-94-0,Bauerenol,C30H50O,426.38616622,Diospyros melanoxylon,Diospyros,KNApSAcK
+502,C00035252,6466-94-0,Bauerenol,C30H50O,426.38616622,Diospyros mespiliformis,Diospyros,KNApSAcK
+503,C00035252,6466-94-0,Bauerenol,C30H50O,426.38616622,Diospyros sylvatica,Diospyros,KNApSAcK
+504,C00035252,6466-94-0,Bauerenol,C30H50O,426.38616622,Diospyros ebenum,Diospyros,KNApSAcK
+505,C00035252,6466-94-0,Bauerenol,C30H50O,426.38616622,Diospyros kirkii,Diospyros,KNApSAcK
+506,C00035588,31241-57-3,Diosindigo A,C24H20O6,404.12598837,Diospyros ferrea,Diospyros,KNApSAcK
+507,C00035588,31241-57-3,Diosindigo A,C24H20O6,404.12598837,Diospyros bipindensis,Diospyros,KNApSAcK
+508,C00035588,31241-57-3,Diosindigo A,C24H20O6,404.12598837,Diospyros caufiflora,Diospyros,KNApSAcK
+509,C00035588,31241-57-3,Diosindigo A,C24H20O6,404.12598837,Diospyros ehretioides,Diospyros,KNApSAcK
+510,C00035588,31241-57-3,Diosindigo A,C24H20O6,404.12598837,Diospyros zombensis,Diospyros,KNApSAcK
+511,C00035588,31241-57-3,Diosindigo A,C24H20O6,404.12598837,Diospyros zenkeri,Diospyros,KNApSAcK
+512,C00035588,31241-57-3,Diosindigo A,C24H20O6,404.12598837,Diospyros verrucosa,Diospyros,KNApSAcK
+513,C00035588,31241-57-3,Diosindigo A,C24H20O6,404.12598837,Diospyros variegata,Diospyros,KNApSAcK
+514,C00035588,31241-57-3,Diosindigo A,C24H20O6,404.12598837,Diospyros usambarensis,Diospyros,KNApSAcK
+515,C00035588,31241-57-3,Diosindigo A,C24H20O6,404.12598837,Diospyros sylvatica,Diospyros,KNApSAcK
+516,C00035588,31241-57-3,Diosindigo A,C24H20O6,404.12598837,Diospyros sumatrana,Diospyros,KNApSAcK
+517,C00035588,31241-57-3,Diosindigo A,C24H20O6,404.12598837,Diospyros squarrosa,Diospyros,KNApSAcK
+518,C00035588,31241-57-3,Diosindigo A,C24H20O6,404.12598837,Diospyros moonii,Diospyros,KNApSAcK
+519,C00035588,31241-57-3,Diosindigo A,C24H20O6,404.12598837,Diospyros melanoxylon,Diospyros,KNApSAcK
+520,C00035588,31241-57-3,Diosindigo A,C24H20O6,404.12598837,Diospyros maritima,Diospyros,KNApSAcK
+521,C00035588,31241-57-3,Diosindigo A,C24H20O6,404.12598837,Diospyros maingayi,Diospyros,KNApSAcK
+522,C00035588,31241-57-3,Diosindigo A,C24H20O6,404.12598837,Diospyros mafiensis,Diospyros,KNApSAcK
+523,C00035588,31241-57-3,Diosindigo A,C24H20O6,404.12598837,Diospyros kirkii,Diospyros,KNApSAcK
+524,C00035588,31241-57-3,Diosindigo A,C24H20O6,404.12598837,Diospyros hirsuta,Diospyros,KNApSAcK
+525,C00035588,31241-57-3,Diosindigo A,C24H20O6,404.12598837,Diospyros fischeri,Diospyros,KNApSAcK
+526,C00035588,31241-57-3,Diosindigo A,C24H20O6,404.12598837,Diospyros consolatae,Diospyros,KNApSAcK
+527,C00035588,31241-57-3,Diosindigo A,C24H20O6,404.12598837,Diospyros dendo,Diospyros,KNApSAcK
+528,C00035588,31241-57-3,Diosindigo A,C24H20O6,404.12598837,Diospyros buxifolia,Diospyros,KNApSAcK
+529,C00035589,765956-76-1,Diospyrosonaphthoside,C23H30O12,498.17372642,Diospyros angustifolia,Diospyros,KNApSAcK
+530,C00035590,763932-83-8,Diospyrosooleanolide,C39H54O6,618.39203946,Diospyros angustifolia,Diospyros,KNApSAcK
+531,C00035591,765956-74-9,Diospyrososide,C21H32O13,492.18429111,Diospyros angustifolia,Diospyros,KNApSAcK
+532,C00035693,75872-69-4,Microphyllone,C22H22O4,350.15180919,Diospyros sylvatica,Diospyros,KNApSAcK
+533,C00036107,627469-55-0,Coussaric acid,C30H46O5,486.33452458,Diospyros kaki,Diospyros,KNApSAcK
+534,C00040339,132194-34-4,Spathodic acid,C30H48O5,488.35017464,Diospyros kaki,Diospyros,KNApSAcK
+535,C00040817,91555-69-0,3-Ethoxy-1-(4-hydroxy-3-methoxyphenyl)-1-propanone,C12H16O4,224.104859,Diospyros maritima,Diospyros,KNApSAcK
+536,C00040842,221012-51-7,"6'',8'-Bisdiosquinone",C44H26O14,778.13225554,Diospyros mafiensis,Diospyros,KNApSAcK
+537,C00040991,221032-88-8,Habibone,C22H14O6,374.07903818,Diospyros maritima,Diospyros,KNApSAcK
+538,C00041053,220997-78-4,Maritolide,C14H22O4,254.15180919,Diospyros maritima,Diospyros,KNApSAcK
+539,C00043168,140900-62-5,"2,3'-Dimethoxyisodiospyrin",C24H18O8,434.10016755,Diospyros morrisiana,Diospyros,KNApSAcK
+540,C00043172,39058-18-9,2-Methoxy-7-methyljuglone,C12H10O4,218.05790881,Diospyros usambarensis,Diospyros,KNApSAcK
+541,C00043172,39058-18-9,2-Methoxy-7-methyljuglone,C12H10O4,218.05790881,Diospyros maritima,Diospyros,KNApSAcK
+542,C00043173,140900-61-4,2'-Methoxyisodiospyrin,C23H16O7,404.08960287,Diospyros morrisiana,Diospyros,KNApSAcK
+543,C00043177,82576-44-1,"3,3'-Dimethoxyisodiospyrin",C24H18O8,434.10016755,Diospyros morrisiana,Diospyros,KNApSAcK
+544,C00043192,1589-92-0,3-Methoxy-7-methyljuglone,C12H10O4,218.05790881,Diospyros kaki,Diospyros,KNApSAcK
+545,C00043192,1589-92-0,3-Methoxy-7-methyljuglone,C12H10O4,218.05790881,Diospyros usambarensis,Diospyros,KNApSAcK
+546,C00043192,1589-92-0,3-Methoxy-7-methyljuglone,C12H10O4,218.05790881,Diospyros maritima,Diospyros,KNApSAcK
+547,C00043193,82576-45-2,3'-Methoxyisodiospyrin,C23H16O7,404.08960287,Diospyros morrisiana,Diospyros,KNApSAcK
+548,C00043194,15254-76-9,3-Methoxyjuglone,C11H8O4,204.04225874,Diospyros morrisiana,Diospyros,KNApSAcK
+549,C00043223,140900-63-6,8'-Hydroxy-3-methoxy isodiospyrin,C23H16O8,420.08451749,Diospyros morrisiana,Diospyros,KNApSAcK
+550,C00043263,1617-72-7,Allobetulin,C30H50O2,442.38108084,Diospyros montana,Diospyros,KNApSAcK
+551,C00043308,75423-05-1,Batocanone,C22H14O7,390.0739528,Diospyros batocana,Diospyros,KNApSAcK
+552,C00043310,39093-11-3,beta'-Dihydrodiospyrin,C22H16O6,376.09468824,Diospyros montana,Diospyros,KNApSAcK
+553,C00043314,24456-79-9,Biramentaceone,C22H14O6,374.07903818,Diospyros melanoxylon,Diospyros,KNApSAcK
+554,C00043314,24456-79-9,Biramentaceone,C22H14O6,374.07903818,Diospyros chamaethamnus,Diospyros,KNApSAcK
+555,C00043314,24456-79-9,Biramentaceone,C22H14O6,374.07903818,Diospyros montana,Diospyros,KNApSAcK
+556,C00043316,30276-87-0,Bisisodiospyrin,C44H26O12,746.1424263,Diospyros morrisiana,Diospyros,KNApSAcK
+557,C00043316,30276-87-0,Bisisodiospyrin,C44H26O12,746.1424263,Diospyros lotus,Diospyros,KNApSAcK
+558,C00043316,30276-87-0,Bisisodiospyrin,C44H26O12,746.1424263,Diospyros japonica,Diospyros,KNApSAcK
+559,C00043316,30276-87-0,Bisisodiospyrin,C44H26O12,746.1424263,Diospyros usambarensis,Diospyros,KNApSAcK
+560,C00043316,30276-87-0,Bisisodiospyrin,C44H26O12,746.1424263,Diospyros maingayi,Diospyros,KNApSAcK
+561,C00043364,103412-17-5,Celebaquinone,C23H18O6,390.11033831,Diospyros celebica,Diospyros,KNApSAcK
+562,C00043426,92632-63-8,Cyclocanaliculatin,C21H12O6,360.06338812,Diospyros canaliculata,Diospyros,KNApSAcK
+563,C00043456,60548-89-2,Diosindigo B,C24H20O6,404.12598837,Diospyros celebica,Diospyros,KNApSAcK
+564,C00043456,60548-89-2,Diosindigo B,C24H20O6,404.12598837,Diospyros melanoxylon,Diospyros,KNApSAcK
+565,C00043456,60548-89-2,Diosindigo B,C24H20O6,404.12598837,Diospyros usambarensis,Diospyros,KNApSAcK
+566,C00043457,50886-69-6,Diosquinone,C22H14O7,390.0739528,Diospyros zombensis,Diospyros,KNApSAcK
+567,C00043457,50886-69-6,Diosquinone,C22H14O7,390.0739528,Diospyros chamaethamnus,Diospyros,KNApSAcK
+568,C00043457,50886-69-6,Diosquinone,C22H14O7,390.0739528,Diospyros mafiensis,Diospyros,KNApSAcK
+569,C00043457,50886-69-6,Diosquinone,C22H14O7,390.0739528,Diospyros tricolor,Diospyros,KNApSAcK
+570,C00043475,93236-43-2,Ebenone,C22H16O5,360.09977362,Diospyros ebenum,Diospyros,KNApSAcK
+571,C00043480,62681-60-1,Ehretione,C22H14O6,374.07903818,Diospyros ehretioides,Diospyros,KNApSAcK
+572,C00043490,92694-13-8,epi-Isoshinanolone,C11H12O3,192.07864425,Diospyros canaliculata,Diospyros,KNApSAcK
+573,C00043610,86377-54-0,Ismailin,C31H20O9,536.11073224,Diospyros ismailii,Diospyros,KNApSAcK
+574,C00043613,103412-16-4,Isocelebaquinone,C23H18O6,390.11033831,Diospyros celebica,Diospyros,KNApSAcK
+575,C00043693,17734-93-9,Mamegakinone,C22H14O6,374.07903818,Diospyros usambarensis,Diospyros,KNApSAcK
+576,C00043693,17734-93-9,Mamegakinone,C22H14O6,374.07903818,Diospyros zombensis,Diospyros,KNApSAcK
+577,C00043693,17734-93-9,Mamegakinone,C22H14O6,374.07903818,Diospyros montana,Diospyros,KNApSAcK
+578,C00043693,17734-93-9,Mamegakinone,C22H14O6,374.07903818,Diospyros obliquifolia,Diospyros,KNApSAcK
+579,C00043693,17734-93-9,Mamegakinone,C22H14O6,374.07903818,Diospyros mollis,Diospyros,KNApSAcK
+580,C00043693,17734-93-9,Mamegakinone,C22H14O6,374.07903818,Diospyros lycioides,Diospyros,KNApSAcK
+581,C00043693,17734-93-9,Mamegakinone,C22H14O6,374.07903818,Diospyros lotus,Diospyros,KNApSAcK
+582,C00043693,17734-93-9,Mamegakinone,C22H14O6,374.07903818,Diospyros kaki sylvestris,Diospyros,KNApSAcK
+583,C00043693,17734-93-9,Mamegakinone,C22H14O6,374.07903818,Diospyros kaki,Diospyros,KNApSAcK
+584,C00043693,17734-93-9,Mamegakinone,C22H14O6,374.07903818,Diospyros chamaethamnus,Diospyros,KNApSAcK
+585,C00043695,72093-24-4,Marsformosanone,C30H46O,422.35486609,Diospyros peregrina,Diospyros,KNApSAcK
+586,C00043720,14554-09-7,2-Methylnaphthazarin,C11H8O4,204.04225874,Diospyros lycioides,Diospyros,KNApSAcK
+587,C00043720,14554-09-7,2-Methylnaphthazarin,C11H8O4,204.04225874,Diospyros heterotricha,Diospyros,KNApSAcK
+588,C00043720,14554-09-7,2-Methylnaphthazarin,C11H8O4,204.04225874,Diospyros chamaethamnus,Diospyros,KNApSAcK
+589,C00043762,33916-25-5,Neodiospyrin,C22H14O6,374.07903818,Diospyros ismailii,Diospyros,KNApSAcK
+590,C00043762,33916-25-5,Neodiospyrin,C22H14O6,374.07903818,Diospyros kaki,Diospyros,KNApSAcK
+591,C00043799,24035-70-9,Oxyallobetulin,C30H48O3,456.3603454,Diospyros lotus,Diospyros,KNApSAcK
+592,C00043799,24035-70-9,Oxyallobetulin,C30H48O3,456.3603454,Diospyros montana,Diospyros,KNApSAcK
+593,C00043799,24035-70-9,Oxyallobetulin,C30H48O3,456.3603454,Diospyros morrisiana,Diospyros,KNApSAcK
+594,C00043880,13120-71-3,Rotundiquinone,C22H14O6,374.07903818,Diospyros natalensis,Diospyros,KNApSAcK
+595,C00043880,13120-71-3,Rotundiquinone,C22H14O6,374.07903818,Diospyros rotundifolia,Diospyros,KNApSAcK
+596,C00043880,13120-71-3,Rotundiquinone,C22H14O6,374.07903818,Diospyros ismailii,Diospyros,KNApSAcK
+597,C00043916,34987-22-9,Shinanolone,C11H12O3,192.07864425,Diospyros maingayi,Diospyros,KNApSAcK
+598,C00043916,34987-22-9,Shinanolone,C11H12O3,192.07864425,Diospyros kaki,Diospyros,KNApSAcK
+599,C00043916,34987-22-9,Shinanolone,C11H12O3,192.07864425,Diospyros kaki var.sylvestris,Diospyros,KNApSAcK
+600,C00043916,34987-22-9,Shinanolone,C11H12O3,192.07864425,Diospyros morrisiana,Diospyros,KNApSAcK
+601,C00043916,34987-22-9,Shinanolone,C11H12O3,192.07864425,Diospyros virginiana,Diospyros,KNApSAcK
+602,C00043972,39275-82-6,Tetrahydrodiospyrin,C22H18O6,378.11033831,Diospyros montana,Diospyros,KNApSAcK
+603,C00044017,29482-55-1,Xylospyrin,C33H18O9,558.09508217,Diospyros chamaethamnus,Diospyros,KNApSAcK
+604,C00044017,29482-55-1,Xylospyrin,C33H18O9,558.09508217,Diospyros chloroxylon,Diospyros,KNApSAcK
+605,C00044017,29482-55-1,Xylospyrin,C33H18O9,558.09508217,Diospyros ebenaster,Diospyros,KNApSAcK
+606,C00044017,29482-55-1,Xylospyrin,C33H18O9,558.09508217,Diospyros texana,Diospyros,KNApSAcK
+607,C00044018,129308-67-4,Yerrinquinone,C14H12O7,292.05830274,Diospyros montana,Diospyros,KNApSAcK
+608,C00044407,748816-29-7,(4S)-Shinanolone,C11H12O3,192.07864425,Diospyros maritima,Diospyros,KNApSAcK
+609,C00044478,107078-01-3,"7,8-Dimethoxy-6-hydroxycoumarin",C11H10O5,222.05282343,Diospyros maritima,Diospyros,KNApSAcK
+610,C00045142,58967-88-7,Zeylanone,C22H14O6,374.07903818,Diospyros maritima,Diospyros,KNApSAcK
+611,C00049349,221110-12-9,3-(E)-Coumaroylbetulinaldehyde,C39H54O4,586.40221021,Diospyros maritima,Diospyros,KNApSAcK
+612,C00050595,84153-78-6,Gerberinol I,C21H16O6,364.09468824,Diospyros kaki,Diospyros,KNApSAcK
+613,C00054617,30311-63-8,Cryptoflavin,C40H56O2,568.42803103,Diospyros kaki,Diospyros,KNApSAcK
+614,C00054691,188116-19-0,Cryptoxanthin epoxide,C40H56O2,568.42803103,Diospyros kaki,Diospyros,KNApSAcK
+615,C00056315,1003864-78-5,Kakisaponin A,C36H58O10,650.40299807,Diospyros kaki,Diospyros,KNApSAcK
+616,C00056398,1055327-63-3,Diospyric acid A,C30H44O6,500.31378914,Diospyros kaki,Diospyros,KNApSAcK
+617,C00056542,1169833-79-7,Kakisaponin B,C36H58O10,650.40299807,Diospyros kaki,Diospyros,KNApSAcK
+618,C00056543,1169833-80-0,Kakisaponin C,C36H58O10,650.40299807,Diospyros kaki,Diospyros,KNApSAcK
+619,C00056544,1169833-81-1,Kakidiol,C29H42O2,422.31848058,Diospyros kaki,Diospyros,KNApSAcK
+620,C00056546,1172052-74-2,Gamnamoside,C21H32O12,476.18937649,Diospyros kaki,Diospyros,KNApSAcK
+621,C00057277,23457-89-8,4''-O-alpha-L-Rhamnopyranosylneovitexin,C27H30O14,578.16355567,Diospyros kaki,Diospyros,KNApSAcK
+622,C00057743,101508-13-8,"1,3,5,8-Tetrahydroxy-6-methoxy-2-methylanthraquinone",C16H12O7,316.05830274,Diospyros discolor,Diospyros,KNApSAcK
+623,C00058738,166824-23-3,Stigmast-4-en-3-one 1-O-ethyl-beta-D-glucopyranoside tetraacetate,C45H70O12,802.4867277,Diospyros rhodocalyx,Diospyros,KNApSAcK
+0,C00000675,71392-06-8,Hydnowightin,C35H30O12,642.17372642,Hydnocarpus wightiana,Hydnocarpus,KNApSAcK
+1,C00001212,29106-32-9,Chaulmoogric acid,C18H32O2,280.24023027,Hydnocarpus anthelminticus,Hydnocarpus,KNApSAcK
+2,C00001212,29106-32-9,Chaulmoogric acid,C18H32O2,280.24023027,Hydnocarpus wightiana,Hydnocarpus,KNApSAcK
+3,C00050596,502-31-8,Gorlic acid,C18H30O2,278.2245802,Hydnocarpus anthelminticus,Hydnocarpus,KNApSAcK

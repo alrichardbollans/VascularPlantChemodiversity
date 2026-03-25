@@ -1,0 +1,240 @@
+,C_ID,CAS ID,example_compound_name,Molecular formula,Mw,Organism,knapsack_search_term,Source
+0,C00000152,7400-08-0,p-Coumaric acid,C9H8O3,164.04734412,Juncus inflexus,Juncus,KNApSAcK
+1,C00000674,491-70-3,"5,7,3',4'-Tetrahydroxyflavone",C15H10O6,286.04773805,Juncus effusus,Juncus,KNApSAcK
+2,C00002743,1135-24-6,Ferulic acid,C10H10O4,194.05790881,Juncus inflexus,Juncus,KNApSAcK
+3,C00003825,2150-11-0,"3',4',7-Trihydroxyflavone",C15H10O5,270.05282343,Juncus trifidus,Juncus,KNApSAcK
+4,C00004332,58115-30-3,Luteolin 5-methyl ether 7-glucoside,C22H22O11,462.11621155,Juncus effusus,Juncus,KNApSAcK
+5,C00004332,58115-30-3,Luteolin 5-methyl ether 7-glucoside,C22H22O11,462.11621155,Juncus acutus,Juncus,KNApSAcK
+6,C00015759,137319-35-8,Dehydroeffusal,C16H12O3,252.07864425,Juncus effusus,Juncus,KNApSAcK
+7,C00015760,137319-34-7,Dehydroeffusol,C17H14O2,250.09937969,Juncus effusus,Juncus,KNApSAcK
+8,C00015761,117824-04-1,Dehydrojuncusol,C18H16O2,264.11502975,Juncus acutus L.,Juncus,KNApSAcK
+9,C00015761,117824-04-1,Dehydrojuncusol,C18H16O2,264.11502975,Juncus roemerianus,Juncus,KNApSAcK
+10,C00015761,117824-04-1,Dehydrojuncusol,C18H16O2,264.11502975,Juncus effusus,Juncus,KNApSAcK
+11,C00015764,73166-28-6,Effusol,C17H16O2,252.11502975,Juncus acutus,Juncus,KNApSAcK
+12,C00015764,73166-28-6,Effusol,C17H16O2,252.11502975,Juncus effusus,Juncus,KNApSAcK
+13,C00015799,175094-08-3,Juncunol,C18H18O,250.1357652,Juncus acutus,Juncus,KNApSAcK
+14,C00015799,175094-08-3,Juncunol,C18H18O,250.1357652,Juncus roemerianus,Juncus,KNApSAcK
+15,C00015799,175094-08-3,Juncunol,C18H18O,250.1357652,Juncus effusus,Juncus,KNApSAcK
+16,C00015800,77305-81-8,Juncunone,C18H18O3,282.12559444,Juncus effusus,Juncus,KNApSAcK
+17,C00015800,77305-81-8,Juncunone,C18H18O3,282.12559444,Juncus roemerianus,Juncus,KNApSAcK
+18,C00015801,62023-90-9,Juncusol,C18H18O2,266.13067982,Juncus acutus L.,Juncus,KNApSAcK
+19,C00015801,62023-90-9,Juncusol,C18H18O2,266.13067982,Juncus roemerianus,Juncus,KNApSAcK
+20,C00015801,62023-90-9,Juncusol,C18H18O2,266.13067982,Juncus effusus,Juncus,KNApSAcK
+21,C00015899,152269-94-8,"2,8-Dihydroxy-1,7-dimethyl-6-vinyl-10,11-dihydrodibenz[b,f]oxepin",C18H18O3,282.12559444,Juncus effusus,Juncus,KNApSAcK
+22,C00029575,199597-52-9,"6-Hydroxymethyl-1-methyl-5-vinyl-9,10-dihydrophenanthrene-2-ol",C18H18O2,266.13067982,Juncus acutus L.,Juncus,KNApSAcK
+23,C00030571,1021950-14-0,Juncutol,C18H18O2,266.13067982,Juncus acutus L.,Juncus,KNApSAcK
+24,C00033798,169272-45-1,Effuside I,C24H30O8,446.19406794,Juncus effusus,Juncus,KNApSAcK
+25,C00033799,169238-39-5,Effuside II,C23H28O8,432.17841787,Juncus effusus,Juncus,KNApSAcK
+26,C00033800,169238-38-4,Effuside III,C23H28O8,432.17841787,Juncus effusus,Juncus,KNApSAcK
+27,C00033801,169238-37-3,Effuside IV,C23H28O8,432.17841787,Juncus effusus,Juncus,KNApSAcK
+28,C00033802,169238-36-2,Effuside V,C30H40O13,608.24689137,Juncus effusus,Juncus,KNApSAcK
+29,C00036263,593-08-8,2-Tridecanone,C13H26O,198.19836545,Juncus effusus,Juncus,KNApSAcK
+30,C00051714,5113-66-6,p-Menth-4-en-3-one,C10H16O,152.12011513,Juncus effusus,Juncus,KNApSAcK
+0,C00000674,491-70-3,"5,7,3',4'-Tetrahydroxyflavone",C15H10O6,286.04773805,Luzula multiflora,Luzula,KNApSAcK
+1,C00003825,2150-11-0,"3',4',7-Trihydroxyflavone",C15H10O5,270.05282343,Luzula purpurea,Luzula,KNApSAcK
+2,C00004332,58115-30-3,Luteolin 5-methyl ether 7-glucoside,C22H22O11,462.11621155,Luzula sylvatica,Luzula,KNApSAcK
+3,C00004332,58115-30-3,Luteolin 5-methyl ether 7-glucoside,C22H22O11,462.11621155,Luzula nutans,Luzula,KNApSAcK
+4,C00004332,58115-30-3,Luteolin 5-methyl ether 7-glucoside,C22H22O11,462.11621155,Luzula arcuata,Luzula,KNApSAcK
+5,C00018754,26166-39-2,Ascochlorin,C23H29ClO4,404.17543712,Acremonium luzulae,Luzula,KNApSAcK
+6,C00023766,516-37-0,Cerevisterol,C28H46O3,430.34469533,Acremonium luzulae,Luzula,KNApSAcK
+0,C00010625,85802-33-1,Eurostoside,C24H28O12,508.15807636,Euphrasia rostkoviana,Rostkovia,KNApSAcK
+0,C00002895,10083-24-6,(E)-piceatannol,C14H12O4,244.07355887,Scirpus fluviatilis,Scirpus,KNApSAcK
+1,C00002895,10083-24-6,(E)-piceatannol,C14H12O4,244.07355887,Scirpus maritimus,Scirpus,KNApSAcK
+2,C00002903,501-36-0,Resveratrol,C14H12O3,228.07864425,Scirpus fluviatilis,Scirpus,KNApSAcK
+3,C00002903,501-36-0,Resveratrol,C14H12O3,228.07864425,Scirpus maritimus,Scirpus,KNApSAcK
+4,C00002905,62218-08-0,(-)-epsilon-Viniferin,C28H22O6,454.14163844,Scirpus maritimus,Scirpus,KNApSAcK
+5,C00008027,480-70-6,Aureusidin,C15H10O6,286.04773805,Scirpus nodosus,Scirpus,KNApSAcK
+6,C00015869,69297-51-4,Scirpusin A,C28H22O7,470.13655306,Scirpus maritimus,Scirpus,KNApSAcK
+7,C00015869,69297-51-4,Scirpusin A,C28H22O7,470.13655306,Scirpus fluviatilis,Scirpus,KNApSAcK
+8,C00015870,69297-49-0,Scirpusin B,C28H22O8,486.13146768,Scirpus maritimus,Scirpus,KNApSAcK
+9,C00015870,69297-49-0,Scirpusin B,C28H22O8,486.13146768,Scirpus fluviatilis,Scirpus,KNApSAcK
+0,C00008027,480-70-6,Aureusidin,C15H10O6,286.04773805,Schoenus apogon,Schoenus,KNApSAcK
+1,C00008468,124596-89-0,Gancaonin E,C25H28O6,424.18858863,Schoenus nigricans,Schoenus,KNApSAcK
+2,C00008544,156788-69-1,"5,7,3',4'-Tetrahydroxy-6,5'-di-C-prenylflavanone",C25H28O6,424.18858863,Schoenus nigricans,Schoenus,KNApSAcK
+0,C00050277,189351-04-0,Brodiosaponin A,C44H70O20,918.44604468,Brodiaea californica,Brodiaea,KNApSAcK
+1,C00050278,190781-19-2,Brodiosaponin B,C50H80O24,1064.50395349,Brodiaea californica,Brodiaea,KNApSAcK
+2,C00050279,190781-46-5,Brodiosaponin C,C52H82O25,1106.51451817,Brodiaea californica,Brodiaea,KNApSAcK
+3,C00050280,189351-05-1,Brodiosaponin D,C51H82O25,1094.51451817,Brodiaea californica,Brodiaea,KNApSAcK
+4,C00050281,190781-43-2,Brodiosaponin E,C50H80O24,1064.50395349,Brodiaea californica,Brodiaea,KNApSAcK
+5,C00050282,190781-45-4,Brodiosaponin F,C52H82O25,1106.51451817,Brodiaea californica,Brodiaea,KNApSAcK
+0,C00001806,641-17-8,(-)-Anolobine,C17H15NO3,281.10519335,Guatteria goudotiana,Goudotia,KNApSAcK
+1,C00001869,3019-51-0,(S)-Isoboldine,C19H21NO4,327.14705817,Guatteria goudotiana,Goudotia,KNApSAcK
+2,C00001910,485-19-8,(+)-Reticuline,C19H23NO4,329.16270823,Guatteria goudotiana,Goudotia,KNApSAcK
+3,C00019778,130364-30-6,Alloxanthoxyletol,C14H12O4,244.07355887,Pilocarpus goudotianus,Goudotia,KNApSAcK
+4,C00019849,130364-29-3,Donatin,C19H20O4,312.13615913,Pilocarpus goudotianus,Goudotia,KNApSAcK
+5,C00019860,128836-80-6,(+)-Elisin,C14H12O4,244.07355887,Pilocarpus goudotianus,Goudotia,KNApSAcK
+6,C00025655,517-56-6,(+)-Corytuberine,C19H21NO4,327.14705817,Guatteria goudotiana,Goudotia,KNApSAcK
+7,C00025675,2169-44-0,(+)-N-Methyllaurotetanine,C20H23NO4,341.16270823,Guatteria goudotiana,Goudotia,KNApSAcK
+8,C00025924,64091-05-0,Juziphine,C18H21NO3,299.15214354,Guatteria goudotiana,Goudotia,KNApSAcK
+9,C00026002,25650-75-3,Pallidine,C19H21NO4,327.14705817,Guatteria goudotiana,Goudotia,KNApSAcK
+10,C00027120,16625-57-3,Argentinine,C19H21NO2,295.15722892,Guatteria goudotiana,Goudotia,KNApSAcK
+11,C00027409,128-76-7,Laurotetanine,C19H21NO4,327.14705817,Guatteria goudotiana,Goudotia,KNApSAcK
+12,C00027551,70560-83-7,Isodomesticine,C19H19NO4,325.1314081,Guatteria goudotiana,Goudotia,KNApSAcK
+13,C00027748,82644-36-8,3-Hydroxynornuciferine,C18H19NO3,297.13649348,Guatteria goudotiana,Goudotia,KNApSAcK
+14,C00028142,55898-15-2,Dehydronantenine,C20H19NO4,337.1314081,Guatteria goudotiana,Goudotia,KNApSAcK
+15,C00028143,40158-86-9,Dehydroneolitsine,C19H15NO4,321.10010798,Guatteria goudotiana,Goudotia,KNApSAcK
+16,C00028311,121985-88-4,Goudotianine,C20H21NO4,339.14705817,Guatteria goudotiana,Goudotia,KNApSAcK
+17,C00028673,2466-42-4,Neolitsine,C19H17NO4,323.11575804,Guatteria goudotiana,Goudotia,KNApSAcK
+18,C00028723,80151-84-4,Norisodomesticine,C18H17NO4,311.11575804,Guatteria goudotiana,Goudotia,KNApSAcK
+19,C00055899,1607821-84-0,Goudotianone 1,C28H34O4,434.24570957,Garcinia goudotiana,Goudotia,KNApSAcK
+20,C00055900,1607821-85-1,Goudotianone 2,C28H34O4,434.24570957,Garcinia goudotiana,Goudotia,KNApSAcK
+0,C00000136,470-82-6,"1,8-Cineol",C10H18O,154.1357652,Cyperus rotundus L.,Cyperus,KNApSAcK
+1,C00000149,6750-60-3,Espatulenol,C15H24O,220.18271539,Cyperus rotundus L.,Cyperus,KNApSAcK
+2,C00000152,7400-08-0,p-Coumaric acid,C9H8O3,164.04734412,Cyperus rotundus L.,Cyperus,KNApSAcK
+3,C00000152,7400-08-0,p-Coumaric acid,C9H8O3,164.04734412,Cyperus papyrus,Cyperus,KNApSAcK
+4,C00000805,80-56-8,alpha-Pinene,C10H16,136.12520051,Cyperus rotundus L.,Cyperus,KNApSAcK
+5,C00000816,127-91-3,beta-Pinene,C10H16,136.12520051,Cyperus rotundus L.,Cyperus,KNApSAcK
+6,C00000823,138-86-3,Limonene,C10H16,136.12520051,Cyperus rotundus L.,Cyperus,KNApSAcK
+7,C00000829,19894-98-5,trans-Pinocarveol,C10H16O,152.12011513,Cyperus rotundus L.,Cyperus,KNApSAcK
+8,C00000853,123-35-3,beta-Myrcene,C10H16,136.12520051,Cyperus rotundus L.,Cyperus,KNApSAcK
+9,C00000856,99-96-7,4-hydroxybenzoic acid,C7H6O3,138.03169406,Cyperus rotundus L.,Cyperus,KNApSAcK
+10,C00000861,586-62-9,alpha-Terpinolene,C10H16,136.12520051,Cyperus rotundus L.,Cyperus,KNApSAcK
+11,C00001036,520-34-3,Diosmetin,C16H12O6,300.06338812,Cyperus alopecuroides,Cyperus,KNApSAcK
+12,C00001078,28608-75-5,Orientin,C21H20O11,448.10056148,Cyperus alopecuroides,Cyperus,KNApSAcK
+13,C00001425,104-14-3,Octopamine,C8H11NO2,153.0789786,Cyperus rotundus,Cyperus,KNApSAcK
+14,C00001425,104-14-3,Octopamine,C8H11NO2,153.0789786,Cyperus papyrus,Cyperus,KNApSAcK
+15,C00002493,131-12-4,Pimpinellin,C13H10O5,246.05282343,Cyperus papyrus,Cyperus,KNApSAcK
+16,C00002668,99-50-3,"3,4-Dihydroxybenzoic acid",C7H6O4,154.02660868,Cyperus rotundus L.,Cyperus,KNApSAcK
+17,C00002682,121-34-6,Vanillic acid,C8H8O4,168.04225874,Cyperus rotundus L.,Cyperus,KNApSAcK
+18,C00002743,1135-24-6,Ferulic acid,C10H10O4,194.05790881,Cyperus rotundus L.,Cyperus,KNApSAcK
+19,C00002743,1135-24-6,Ferulic acid,C10H10O4,194.05790881,Cyperus papyrus,Cyperus,KNApSAcK
+20,C00002811,26962-40-3,Cyperaquinone,C14H10O4,242.05790881,Cyperus haspan,Cyperus,KNApSAcK
+21,C00002985,33716-82-4,Cyperine,C15H16O4,260.104859,Cyperus rotundus,Cyperus,KNApSAcK
+22,C00003028,507-70-0,Borneol,C10H18O,154.1357652,Cyperus rotundus L.,Cyperus,KNApSAcK
+23,C00003029,79-92-5,Camphene,C10H16,136.12520051,Cyperus rotundus L.,Cyperus,KNApSAcK
+24,C00003039,122-03-2,Cuminal,C10H12O,148.08881501,Cyperus rotundus L.,Cyperus,KNApSAcK
+25,C00003040,99-87-6,p-Cymene,C10H14,134.10955045,Cyperus rotundus L.,Cyperus,KNApSAcK
+26,C00003051,99-83-2,alpha-Phellandrene,C10H16,136.12520051,Cyperus rotundus L.,Cyperus,KNApSAcK
+27,C00003067,18309-32-5,(R)-(+)-Verbenone,C10H14O,150.10446507,Cyperus rotundus L.,Cyperus,KNApSAcK
+28,C00003110,87-44-5,beta-Caryophyllene,C15H24,204.18780077,Cyperus rotundus L.,Cyperus,KNApSAcK
+29,C00003110,87-44-5,beta-Caryophyllene,C15H24,204.18780077,Cyperus alopecuroides,Cyperus,KNApSAcK
+30,C00003118,3856-25-5,alpha-Copaene,C15H24,204.18780077,Cyperus rotundus,Cyperus,KNApSAcK
+31,C00003118,3856-25-5,alpha-Copaene,C15H24,204.18780077,Cyperus alopecuroides,Cyperus,KNApSAcK
+32,C00003120,17699-14-8,alpha-Cubebene,C15H24,204.18780077,Cyperus alopecuroides,Cyperus,KNApSAcK
+33,C00003134,15423-57-1,Germacrene B,C15H24,204.18780077,Cyperus rotundus L.,Cyperus,KNApSAcK
+34,C00003147,6753-98-6,alpha-Caryophyllene (obsol.),C15H24,204.18780077,Cyperus rotundus L.,Cyperus,KNApSAcK
+35,C00003157,22963-93-5,Juvenile hormone III,C16H26O3,266.1881947,Cyperus iria,Cyperus,KNApSAcK
+36,C00003186,17066-67-0,beta-Eudesmene,C15H24,204.18780077,Cyperus rotundus,Cyperus,KNApSAcK
+37,C00003186,17066-67-0,beta-Eudesmene,C15H24,204.18780077,Cyperus alopecuroides,Cyperus,KNApSAcK
+38,C00003191,61167-63-3,Solavetivone,C15H22O,218.16706532,Cyperus rotundus L.,Cyperus,KNApSAcK
+39,C00003467,150-86-7,Phytol,C20H40O,296.3079159,Cyperus rotundus L.,Cyperus,KNApSAcK
+40,C00003864,58115-29-0,Luteolin 5-methyl ether,C16H12O6,300.06338812,Cyperus spp.,Cyperus,KNApSAcK
+41,C00004638,2068-02-2,"Quercetin 3,7-dimethyl ether",C17H14O7,330.0739528,Cyperus spp.,Cyperus,KNApSAcK
+42,C00004639,4382-17-6,"3,3'-Dimethylquercetin",C17H14O7,330.0739528,Cyperus alopecuroides,Cyperus,KNApSAcK
+43,C00004640,33429-83-3,"Quercetin 3,4'-dimethyl ether",C17H14O7,330.0739528,Cyperus alopecuroides,Cyperus,KNApSAcK
+44,C00005515,105755-71-3,Rhamnetin 3-rhamnosyl-(1->4)-rhamnoside,C28H32O15,608.17412036,Cyperus rotundus,Cyperus,KNApSAcK
+45,C00006229,23666-13-9,Vicenin,C27H30O15,594.15847029,Cyperus alopecuroides,Cyperus,KNApSAcK
+46,C00007453,33880-83-0,beta-Elemene,C15H24,204.18780077,Cyperus rotundus L.,Cyperus,KNApSAcK
+47,C00007636,483-76-1,delta-Cadinene,C15H24,204.18780077,Cyperus alopecuroides,Cyperus,KNApSAcK
+48,C00007636,483-76-1,delta-Cadinene,C15H24,204.18780077,Cyperus rotundus,Cyperus,KNApSAcK
+49,C00008026,120-05-8,Sulfuretin,C15H10O5,270.05282343,Cyperus alopecuroides,Cyperus,KNApSAcK
+50,C00008026,120-05-8,Sulfuretin,C15H10O5,270.05282343,Cyperus capitatus,Cyperus,KNApSAcK
+51,C00008027,480-70-6,Aureusidin,C15H10O6,286.04773805,Cyperus rotundus,Cyperus,KNApSAcK
+52,C00008032,171204-57-2,"6,3',4'-Trihydroxy-4-methoxy-5-methylaurone",C17H14O6,314.07903818,Cyperus capitatus,Cyperus,KNApSAcK
+53,C00008057,98570-82-2,Leptosidin 6-xylosyl-(1->4)-arabinoside,C26H28O14,564.14790561,Cyperus scariosus,Cyperus,KNApSAcK
+54,C00008058,81532-14-1,Leptosidin 6-glucosyl-(1->4)-rhamnoside,C28H32O15,608.17412036,Cyperus scariosus,Cyperus,KNApSAcK
+55,C00008363,41407-48-1,Breverin,C18H16O7,344.08960287,Cyperus brevibracteatus,Cyperus,KNApSAcK
+56,C00008366,41093-66-7,Scaberin,C19H18O7,358.10525293,Cyperus scaber,Cyperus,KNApSAcK
+57,C00010344,539-52-6,Perillene,C10H14O,150.10446507,Cyperus rotundus L.,Cyperus,KNApSAcK
+58,C00012444,19888-34-7,"Humulene 1,2-epoxide",C15H24O,220.18271539,Cyperus rotundus L.,Cyperus,KNApSAcK
+59,C00012491,24173-72-6,Isokobusone,C14H22O2,222.16197995,Cyperus rotundus,Cyperus,KNApSAcK
+60,C00012492,24173-71-5,(-)-Kobusone,C14H22O2,222.16197995,Cyperus rotundus,Cyperus,KNApSAcK
+61,C00012740,20084-99-5,Cyperol,C15H24O,220.18271539,Cyperus rotundus,Cyperus,KNApSAcK
+62,C00012740,20084-99-5,Cyperol,C15H24O,220.18271539,Cyperus alopecuroides,Cyperus,KNApSAcK
+63,C00012741,61248-42-8,"[1aR-(1aalpha,2alpha,4aalpha,7alpha,8aS*)]-Octahydro-1a,4a-dimethyl-7-(1-methylethenyl)-3H-naphth[1,8a-b]oxiren-2-ol",C15H24O2,236.17763001,Cyperus rotundus,Cyperus,KNApSAcK
+64,C00012748,20085-00-1,Isocyperol,C15H24O,220.18271539,Cyperus rotundus,Cyperus,KNApSAcK
+65,C00012748,20085-00-1,Isocyperol,C15H24O,220.18271539,Cyperus alopecuroides,Cyperus,KNApSAcK
+66,C00012759,473-08-5,(+)-alpha-Cyperone,C15H22O,218.16706532,Cyperus rotundus,Cyperus,KNApSAcK
+67,C00012759,473-08-5,(+)-alpha-Cyperone,C15H22O,218.16706532,Cyperus scariosus,Cyperus,KNApSAcK
+68,C00012790,113540-91-3,alpha-Corymbolol,C15H26O2,238.19328007,Cyperus articulatus,Cyperus,KNApSAcK
+69,C00012791,97094-19-4,Corymbolone,C15H24O2,236.17763001,Cyperus corymbosus,Cyperus,KNApSAcK
+70,C00012841,24405-56-9,alpha-Rotunol,C15H22O2,234.16197995,Cyperus rotundus,Cyperus,KNApSAcK
+71,C00012842,24405-57-0,(+)-beta-Rotunol,C15H22O2,234.16197995,Cyperus rotundus,Cyperus,KNApSAcK
+72,C00012853,99933-34-3,Isocorymbolone,C15H24O2,236.17763001,Cyperus corymbosus,Cyperus,KNApSAcK
+73,C00013246,307492-73-5,"2-(3,5-Dimethoxyphenyl)-3,4-dihydro-7-methoxy-2H-1-benzopyran-5-ol",C18H20O5,316.13107375,Cyperus conglomerates,Cyperus,KNApSAcK
+74,C00014653,213979-96-5,"4,6,3',4'-Tetrahydroxy-5-methylaurone",C16H12O6,300.06338812,Cyperus capitatus,Cyperus,KNApSAcK
+75,C00014654,213979-97-6,"4,6,3',4'-Tetrahydroxy-7-methylaurone",C16H12O6,300.06338812,Cyperus capitatus,Cyperus,KNApSAcK
+76,C00014655,213979-98-7,"6,3',4'-Trihydroxy-4-methoxy-7-methylaurone",C17H14O6,314.07903818,Cyperus capitatus,Cyperus,KNApSAcK
+77,C00014656,193552-54-4,"6,3'-Dihydroxy-4,4'-dimethoxy-5-methylaurone",C18H16O6,328.09468824,Cyperus capitatus,Cyperus,KNApSAcK
+78,C00014657,23053-69-2,"4,6,3',4'-Tetramethoxyaurone",C19H18O6,342.11033831,Cyperus capitatus,Cyperus,KNApSAcK
+79,C00016993,5090-61-9,(-)-Nootkatene,C15H22,202.1721507,Cyperus rotundus,Cyperus,KNApSAcK
+80,C00020070,24048-45-1,gamma-Calacorene,C15H20,200.15650064,Cyperus rotundus,Cyperus,KNApSAcK
+81,C00020112,483-78-3,Cadalene,C15H18,198.14085057,Cyperus rotundus,Cyperus,KNApSAcK
+82,C00020130,24268-39-1,gamma-Muurolene,C15H24,204.18780077,Cyperus rotundus,Cyperus,KNApSAcK
+83,C00020378,10410-05-6,Epoxyguaiene,C15H24O,220.18271539,Cyperus rotundus,Cyperus,KNApSAcK
+84,C00020383,22567-17-5,gamma-gurjunene epoxide,C15H24,204.18780077,Cyperus rotundus,Cyperus,KNApSAcK
+85,C00020397,18374-76-0,Rotundone,C15H22O,218.16706532,Cyperus rotundus,Cyperus,KNApSAcK
+86,C00021047,118855-38-2,Mandassidione,C15H22O2,234.16197995,Cyperus articulatus,Cyperus,KNApSAcK
+87,C00021047,118855-38-2,Mandassidione,C15H22O2,234.16197995,Cyperus longus,Cyperus,KNApSAcK
+88,C00021213,489-41-8,(-)-Globulol,C15H26O,222.19836545,Cyperus rotundus L.,Cyperus,KNApSAcK
+89,C00021227,489-40-7,alpha-Gurjunene,C15H24,204.18780077,Cyperus rotundus L.,Cyperus,KNApSAcK
+90,C00021229,25246-27-9,allo-Aromadendrene,C15H24,204.18780077,Cyperus rotundus L.,Cyperus,KNApSAcK
+91,C00021280,16981-80-9,Cyperenol,C15H24O,220.18271539,Cyperus scariosus,Cyperus,KNApSAcK
+92,C00021282,115334-16-2,Cyperenal,C15H22O,218.16706532,Cyperus alopecuroides,Cyperus,KNApSAcK
+93,C00021283,2387-78-2,Cyperene,C15H24,204.18780077,Cyperus rotundus,Cyperus,KNApSAcK
+94,C00021283,2387-78-2,Cyperene,C15H24,204.18780077,Cyperus alopecuroides,Cyperus,KNApSAcK
+95,C00021284,3466-15-7,Cyperotundone,C15H22O,218.16706532,Cyperus articulatus,Cyperus,KNApSAcK
+96,C00021284,3466-15-7,Cyperotundone,C15H22O,218.16706532,Cyperus scariosus,Cyperus,KNApSAcK
+97,C00021284,3466-15-7,Cyperotundone,C15H22O,218.16706532,Cyperus rotundus,Cyperus,KNApSAcK
+98,C00021284,3466-15-7,Cyperotundone,C15H22O,218.16706532,Cyperus articulus,Cyperus,KNApSAcK
+99,C00021285,2552-44-5,3-Isopatchoulene,C15H24,204.18780077,Cyperus scariosus,Cyperus,KNApSAcK
+100,C00021287,5986-54-9,Patchoulenone,C15H22O,218.16706532,Cyperus rotundus,Cyperus,KNApSAcK
+101,C00021287,5986-54-9,Patchoulenone,C15H22O,218.16706532,Cyperus scariosus,Cyperus,KNApSAcK
+102,C00021288,19419-60-4,Scariodione,C15H20O2,232.14632988,Cyperus scariosus,Cyperus,KNApSAcK
+103,C00021776,2649-64-1,"Clovane-2beta,9alpha-diol",C15H26O2,238.19328007,Cyperus longus,Cyperus,KNApSAcK
+104,C00021865,27597-38-2,Copadiene,C15H22,202.1721507,Cyperus rotundus,Cyperus,KNApSAcK
+105,C00021870,1209-91-2,Mustakone,C15H22O,218.16706532,Cyperus rotundus,Cyperus,KNApSAcK
+106,C00021870,1209-91-2,Mustakone,C15H22O,218.16706532,Cyperus articulatus,Cyperus,KNApSAcK
+107,C00021877,65128-08-7,Rotundene,C15H24,204.18780077,Cyperus scariosus,Cyperus,KNApSAcK
+108,C00021877,65128-08-7,Rotundene,C15H24,204.18780077,Cyperus rotundus,Cyperus,KNApSAcK
+109,C00021877,65128-08-7,Rotundene,C15H24,204.18780077,Cyperus alopecuroides,Cyperus,KNApSAcK
+110,C00021878,65128-09-8,Rotundenol,C15H24O,220.18271539,Cyperus scariosus,Cyperus,KNApSAcK
+111,C00021878,65128-09-8,Rotundenol,C15H24O,220.18271539,Cyperus rotundus L.,Cyperus,KNApSAcK
+112,C00021910,13741-46-3,Cyperolone,C15H24O2,236.17763001,Cyperus rotundus,Cyperus,KNApSAcK
+113,C00022001,21446-02-6,Tricyclohumuladiol,C15H26O2,238.19328007,Cyperus longus,Cyperus,KNApSAcK
+114,C00022002,682351-33-3,Cyperusol A1,C15H22O3,250.15689457,Cyperus longus,Cyperus,KNApSAcK
+115,C00022003,682351-34-4,Cyperusol A2,C15H22O3,250.15689457,Cyperus longus,Cyperus,KNApSAcK
+116,C00022004,682351-35-5,Cyperusol B1,C15H24O2,236.17763001,Cyperus longus,Cyperus,KNApSAcK
+117,C00022005,682351-36-6,Cyperusol B2,C15H24O2,236.17763001,Cyperus longus,Cyperus,KNApSAcK
+118,C00022006,682351-37-7,Cyperusol C,C15H26O2,238.19328007,Cyperus longus,Cyperus,KNApSAcK
+119,C00022007,682351-38-8,Cyperusol D,C15H24O3,252.17254463,Cyperus longus,Cyperus,KNApSAcK
+120,C00022008,19894-91-8,"(-)-p-Menth-1-ene-7,8-diol",C10H18O2,170.13067982,Cyperus longus,Cyperus,KNApSAcK
+121,C00022009,498-71-5,Sobrerol,C10H18O2,170.13067982,Cyperus longus,Cyperus,KNApSAcK
+122,C00022010,155485-76-0,"Caryolan-1,9beta-diol",C15H26O2,238.19328007,Cyperus longus,Cyperus,KNApSAcK
+123,C00022011,,"3,7-Epoxycaryophyllane-5alpha,15-diol",C15H26O3,254.1881947,Cyperus longus,Cyperus,KNApSAcK
+124,C00022012,,"7,15-epoxycaryophyllane-3,5beta-diol",C15H26O3,254.1881947,Cyperus longus,Cyperus,KNApSAcK
+125,C00022013,,"1,5,8,8-Tetramethyl-8-bicyclo[8.1.0]undecene-2,9-diol",C15H26O2,238.19328007,Cyperus longus,Cyperus,KNApSAcK
+126,C00022014,217817-10-2,Guaidiol,C15H26O2,238.19328007,Cyperus longus,Cyperus,KNApSAcK
+127,C00022015,105108-20-1,Ligucyperonol,C15H22O2,234.16197995,Cyperus longus,Cyperus,KNApSAcK
+128,C00029544,562-74-3,4-Terpineol,C10H18O,154.1357652,Cyperus rotundus L.,Cyperus,KNApSAcK
+129,C00029671,10208-80-7,alpha-Muurolene,C15H24,204.18780077,Cyperus rotundus,Cyperus,KNApSAcK
+130,C00029672,473-13-2,(-)-alpha-Selinene,C15H24,204.18780077,Cyperus rotundus,Cyperus,KNApSAcK
+131,C00030189,35387-23-6,epi-alpha-Selinene,C15H24,204.18780077,Cyperus rotundus,Cyperus,KNApSAcK
+132,C00034741,4630-07-3,Valencene,C15H24,204.18780077,Cyperus rotundus,Cyperus,KNApSAcK
+133,C00035062,99-49-0,Carvone,C10H14O2,166.09937969,Cyperus rotundus L.,Cyperus,KNApSAcK
+134,C00035896,70223-62-0,Vulgarol B,C15H24O,220.18271539,Cyperus rotundus L.,Cyperus,KNApSAcK
+135,C00036274,341505-78-0,"(-)-Dolabella-3,7,18-triene",C20H32,272.25040102,Cyperus alopecuroides,Cyperus,KNApSAcK
+136,C00036276,340996-95-4,"(-)-Eudesma-2,4(15)-11-triene",C15H22,202.1721507,Cyperus alopecuroides,Cyperus,KNApSAcK
+137,C00036277,340996-96-5,"(-)-Eudesma-3,11-dien-5-ol",C15H24O,220.18271539,Cyperus alopecuroides,Cyperus,KNApSAcK
+138,C00036991,50430-14-3,"Cypera-2,4-diene",C15H22,202.1721507,Cyperus rotundus,Cyperus,KNApSAcK
+139,C00036991,50430-14-3,"Cypera-2,4-diene",C15H22,202.1721507,Cyperus alopecuroides,Cyperus,KNApSAcK
+140,C00036992,193695-14-6,Cyprotene,C14H24,192.18780077,Cyperus alopecuroides,Cyperus,KNApSAcK
+141,C00036992,193695-14-6,Cyprotene,C14H24,192.18780077,Cyperus rotundus,Cyperus,KNApSAcK
+142,C00037114,25570-94-9,Epoxycyperene,C15H24O,220.18271539,Cyperus alopecuroides,Cyperus,KNApSAcK
+143,C00037531,515-00-4,Myrtenol,C10H16O,152.12011513,Cyperus rotundus L.,Cyperus,KNApSAcK
+144,C00037652,30460-92-5,Pinocarvone,C10H14O,150.10446507,Cyperus rotundus L.,Cyperus,KNApSAcK
+145,C00037928,73209-42-4,trans-Calamenene,C15H22,202.1721507,Cyperus alopecuroides,Cyperus,KNApSAcK
+146,C00037928,73209-42-4,trans-Calamenene,C15H22,202.1721507,Cyperus rotundus,Cyperus,KNApSAcK
+147,C00047086,270918-28-0,Rotundine A,C15H21NO,231.1623143,Cyperus rotundus,Cyperus,KNApSAcK
+148,C00047087,270918-29-1,Rotundine B,C15H23NO,233.17796436,Cyperus rotundus,Cyperus,KNApSAcK
+149,C00047088,270918-30-4,Rotundine C,C15H23NO,233.17796436,Cyperus rotundus,Cyperus,KNApSAcK
+150,C00050519,28449-86-7,"4,7-Dimethyl-1-tetralone",C12H14O,174.10446507,Cyperus rotundus,Cyperus,KNApSAcK
+151,C00054445,38917-61-2,"6,7-Dihydro-2,5-dimethyl-5H-cyclopentapyrazine",C9H12N2,148.1000484,Cyperus esculentus,Cyperus,KNApSAcK
+152,C00054446,23747-48-0,"6,7-Dihydro-5-methyl-5H-cyclopenta[b]pyrazine",C8H10N2,134.08439833,Cyperus esculentus,Cyperus,KNApSAcK
+153,C00054447,38917-63-4,"6,7-Dihydro-2,3-dimethyl-5H-cyclopentapyrazine",C9H12N2,148.1000484,Cyperus esulentus,Cyperus,KNApSAcK
+154,C00055060,210106-16-4,"3(4->5)-Abeo-4,11:4,12-diepoxy-3-eudesmanol",C15H24O3,252.17254463,Cyperus rotundus,Cyperus,KNApSAcK
+155,C00055061,210106-15-3,Azoridione,C15H24O2,236.17763001,Cyperus rotundus,Cyperus,KNApSAcK
+156,C00057134,168207-85-0,"10,12-Peroxycalamenene",C15H20O2,232.14632988,Cyperus rotundus,Cyperus,KNApSAcK
+157,C00057971,17928-62-0,Sugetriol triacetate,C21H30O6,378.20423869,Cyperus rotundus,Cyperus,KNApSAcK
+158,C00057997,19419-58-0,Sugeonol,C15H22O2,234.16197995,Cyperus rotundus,Cyperus,KNApSAcK
+0,C00006391,64052-95-5,Isoorientin 3'-O-glucuronide,C27H28O17,624.13264947,Rhynchospora eximia,Rhynchospora,KNApSAcK

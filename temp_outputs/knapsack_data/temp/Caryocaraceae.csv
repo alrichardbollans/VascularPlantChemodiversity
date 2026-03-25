@@ -1,0 +1,42 @@
+,C_ID,CAS ID,example_compound_name,Molecular formula,Mw,Organism,knapsack_search_term,Source
+0,C00030011,85889-27-6,Caryocaroside II-5,C36H56O10,648.38734801,Caryocar villosum,Caryocar,KNApSAcK
+1,C00035063,914257-92-4,Caryocaroside II-22,C48H76O19,956.49808025,Caryocar villosum,Caryocar,KNApSAcK
+2,C00035064,914257-94-6,Caryocaroside II-23,C54H86O24,1118.55090368,Caryocar villosum,Caryocar,KNApSAcK
+3,C00035065,914257-96-8,Caryocaroside II-24,C61H90O28,1270.5618623,Caryocar villosum,Caryocar,KNApSAcK
+4,C00035066,880493-72-1,Caryocaroside II-7,C42H66O15,810.44017144,Caryocar villosum,Caryocar,KNApSAcK
+5,C00035067,914257-93-5,Caryocaroside III-22,C48H76O20,972.49299487,Caryocar villosum,Caryocar,KNApSAcK
+6,C00035068,914257-95-7,Caryocaroside III-23,C54H86O25,1134.5458183,Caryocar villosum,Caryocar,KNApSAcK
+0,C00000963,20725-03-5,Fustin,C15H12O6,288.06338812,Virgilia oroboides,Gilia,KNApSAcK
+1,C00002014,494-15-5,(+)-Ammodendrine,C12H20N2O,208.15756328,Virgilia oroboides,Gilia,KNApSAcK
+2,C00002014,494-15-5,(+)-Ammodendrine,C12H20N2O,208.15756328,Virgilia divaricata,Gilia,KNApSAcK
+3,C00002208,550-43-6,Angustifoline,C14H22N2O,234.17321334,Virgilia divaricata,Gilia,KNApSAcK
+4,C00002208,550-43-6,Angustifoline,C14H22N2O,234.17321334,Virgilia oroboides,Gilia,KNApSAcK
+5,C00002209,577-37-7,Aphylline,C15H24N2O,248.1888634,Virgilia oroboides,Gilia,KNApSAcK
+6,C00002209,577-37-7,Aphylline,C15H24N2O,248.1888634,Virgilia divaricata,Gilia,KNApSAcK
+7,C00002214,6874-80-2,Calpurnine,C20H27N3O3,357.20524175,Virgilia oroboides,Gilia,KNApSAcK
+8,C00002214,6874-80-2,Calpurnine,C20H27N3O3,357.20524175,Virgilia divaricata,Gilia,KNApSAcK
+9,C00002214,6874-80-2,Calpurnine,C20H27N3O3,357.20524175,Virgilia capensis,Gilia,KNApSAcK
+10,C00002374,7084-24-4,Cyanidin 3-O-glucoside,C21H21O11.Cl,484.07723923,Virgilia spp.,Gilia,KNApSAcK
+11,C00002525,485-72-3,Formononetin,C16H12O4,268.07355887,Virgilia oroboides,Gilia,KNApSAcK
+12,C00004579,528-48-3,Fisetin,C15H10O6,286.04773805,Virgilia oroboides,Gilia,KNApSAcK
+13,C00006681,6906-39-4,Oxycoccicyanin,C22H23O11.Cl,498.09288929,Virgilia spp.,Gilia,KNApSAcK
+14,C00006777,144606-89-3,Monardaein,C42H41O23,913.20386262,Gilia coronopifolia,Gilia,KNApSAcK
+15,C00006793,133080-31-6,Cyanidin 3-(6''-acetylglucoside),C23H23O12,491.1189512,Virgilia oroboides,Gilia,KNApSAcK
+16,C00006793,133080-31-6,Cyanidin 3-(6''-acetylglucoside),C23H23O12,491.1189512,Virgilia divaricata,Gilia,KNApSAcK
+17,C00006800,56767-17-0,Hyacinthin,C30H27O13,595.14516595,Virgilia spp.,Gilia,KNApSAcK
+18,C00006859,"129016-22-4,122796-43-4,114017-67-3",Peonidin 3-(6''-acetylglucoside),C24H25O12,505.13460127,Virgilia oroboides,Gilia,KNApSAcK
+19,C00006859,"129016-22-4,122796-43-4,114017-67-3",Peonidin 3-(6''-acetylglucoside),C24H25O12,505.13460127,Virgilia divaricata,Gilia,KNApSAcK
+20,C00007744,2636-61-5,Virgiline,C15H24N2O2,264.18377802,Virgilia oroboides,Gilia,KNApSAcK
+21,C00007772,,4beta-Hydroxy-11-O-(2'-pyrolylcarboxy)epilupinine,C15H22N2O3,278.16304258,Virgilia divaricata,Gilia,KNApSAcK
+22,C00007772,,4beta-Hydroxy-11-O-(2'-pyrolylcarboxy)epilupinine,C15H22N2O3,278.16304258,Virgilia oroboides subsp. ferruginea,Gilia,KNApSAcK
+23,C00007772,,4beta-Hydroxy-11-O-(2'-pyrolylcarboxy)epilupinine,C15H22N2O3,278.16304258,Virgilia oroboides subsp. oroboides,Gilia,KNApSAcK
+24,C00007773,135531-69-0,4beta-O-(2'-Pyrrolylcarbonyl)epilupinine,C15H22N2O3,278.16304258,Virgilia oroboides subsp. ferruginea,Gilia,KNApSAcK
+25,C00007773,135531-69-0,4beta-O-(2'-Pyrrolylcarbonyl)epilupinine,C15H22N2O3,278.16304258,Virgilia oroboides subsp. oroboides,Gilia,KNApSAcK
+26,C00007773,135531-69-0,4beta-O-(2'-Pyrrolylcarbonyl)epilupinine,C15H22N2O3,278.16304258,Virgilia divaricata,Gilia,KNApSAcK
+27,C00007948,114107-24-3,"2',4',alpha-Trihydroxy-4-methoxydihydrochalcone",C16H16O5,288.09977362,Virgilia oroboides,Gilia,KNApSAcK
+28,C00008126,6515-36-2,7-Hydroxyflavanone,C15H12O3,240.07864425,Virgilia oroboides,Gilia,KNApSAcK
+29,C00008546,41680-10-8,"3,7-dihydroxyflavanone",C15H12O4,256.07355887,Virgilia oroboides,Gilia,KNApSAcK
+30,C00009534,4626-22-6,Dihydroformononetin,C16H14O4,270.08920894,Virgilia oroboides,Gilia,KNApSAcK
+31,C00010028,59901-98-3,"3-Hydroxy-8,9-methylenedioxypterocarp-6a-ene",C16H10O5,282.05282343,Virgilia oroboides,Gilia,KNApSAcK
+32,C00025371,135442-76-1,Virgilidone,C11H18N2O,194.14191321,Virgilia 3 species,Gilia,KNApSAcK
+33,C00058188,7268-80-6,5-O-beta-D-Xylopyranosyl-L-arabinose,C10H18O9,282.09508217,Virgilia oroboides,Gilia,KNApSAcK

@@ -1,0 +1,463 @@
+,C_ID,CAS ID,example_compound_name,Molecular formula,Mw,Organism,knapsack_search_term,Source
+0,C00004946,56857-59-1,Kaempferol 7-O-sulfate,C15H10O9S,366.00455265,Frankenia pulverulenta,Frankenia,KNApSAcK
+1,C00004957,,Quercetin 7-O-sulfate,C15H10O10S,381.99946727,Frankenia pulverulenta,Frankenia,KNApSAcK
+2,C00004969,56857-60-4,Isorhamnetin 7-O-sulfate,C16H12O10S,396.01511734,Frankenia pulverulenta,Frankenia,KNApSAcK
+3,C00006065,56857-61-5,Kaempferol 3-glucuronide-7-sulfate,C21H18O15S,542.03664064,Frankenia pulverulenta,Frankenia,KNApSAcK
+4,C00006069,56857-62-6,Quercetin 3-glucuronide-7-sulfate,C21H18O16S,558.03155526,Frankenia pulverulenta,Frankenia,KNApSAcK
+5,C00006072,56857-63-7,Isorhamnetin 3-glucuronide-7-sulfate,C22H20O16S,572.04720532,Frankenia pulverulenta,Frankenia,KNApSAcK
+6,C00006697,68852-84-6,Empetrin,C21H21O12,465.10330114,Frankenia grandiflora,Frankenia,KNApSAcK
+0,C00003794,480-40-0,Chrysin,C15H10O4,254.05790881,Heliotropium pycnophyllum,Pycnophyllum,KNApSAcK
+1,C00003795,520-28-5,Tectochrysin,C16H12O4,268.07355887,Heliotropium pycnophyllum,Pycnophyllum,KNApSAcK
+2,C00004534,6665-74-3,3-O-Methylgalangin,C16H12O5,284.06847349,Heliotropium pycnophyllum,Pycnophyllum,KNApSAcK
+3,C00004536,480-14-8,Izalpinin,C16H12O5,284.06847349,Heliotropium pycnophyllum,Pycnophyllum,KNApSAcK
+4,C00004537,70786-48-0,"5-Hydroxy-3,7-dimethoxyflavone",C17H14O5,298.08412356,Heliotropium pycnophyllum,Pycnophyllum,KNApSAcK
+5,C00004569,3301-49-3,"Kaempferol 3,7-dimethyl ether",C17H14O6,314.07903818,Heliotropium pycnophyllum,Pycnophyllum,KNApSAcK
+6,C00004573,15486-34-7,"3,7,4'-Tri-O-methylkaempferol",C18H16O6,328.09468824,Heliotropium pycnophyllum,Pycnophyllum,KNApSAcK
+7,C00004638,2068-02-2,"Quercetin 3,7-dimethyl ether",C17H14O7,330.0739528,Heliotropium pycnophyllum,Pycnophyllum,KNApSAcK
+8,C00004647,572-32-7,Ayanin,C18H16O7,344.08960287,Heliotropium pycnophyllum,Pycnophyllum,KNApSAcK
+0,C00000136,470-82-6,"1,8-Cineol",C10H18O,154.1357652,Ocimum kilimandscharicim,Ocimum,KNApSAcK
+1,C00000136,470-82-6,"1,8-Cineol",C10H18O,154.1357652,Ocimum basilicum,Ocimum,KNApSAcK
+2,C00000149,6750-60-3,Espatulenol,C15H24O,220.18271539,Ocimum basilicum,Ocimum,KNApSAcK
+3,C00000152,7400-08-0,p-Coumaric acid,C9H8O3,164.04734412,Ocimum basilicum,Ocimum,KNApSAcK
+4,C00000152,7400-08-0,p-Coumaric acid,C9H8O3,164.04734412,Ocimum sanctum,Ocimum,KNApSAcK
+5,C00000155,89-83-8,m-Thymol,C10H14O,150.10446507,Ocimum basilicum,Ocimum,KNApSAcK
+6,C00000155,89-83-8,m-Thymol,C10H14O,150.10446507,Ocimum spp.,Ocimum,KNApSAcK
+7,C00000156,499-75-2,Carvacrol,C10H14O,150.10446507,Ocimum basilicum,Ocimum,KNApSAcK
+8,C00000164,473-15-4,(+)-beta-Eudesmol,C15H26O,222.19836545,Ocimum basilicum,Ocimum,KNApSAcK
+9,C00000165,1209-71-8,gamma-Eudesmol,C15H26O,222.19836545,Ocimum basilicum,Ocimum,KNApSAcK
+10,C00000165,1209-71-8,gamma-Eudesmol,C15H26O,222.19836545,Ocimum gratissimum,Ocimum,KNApSAcK
+11,C00000170,140-10-3,Cinnamate,C9H8O2,148.0524295,Ocimum basilicum,Ocimum,KNApSAcK
+12,C00000184,2867-05-2,alpha-Thujene,C10H16,136.12520051,Ocimum basilicum,Ocimum,KNApSAcK
+13,C00000206,69-72-7,Salicylic acid,C7H6O3,138.03169406,Ocimum basilicum,Ocimum,KNApSAcK
+14,C00000219,1211-29-6,Methyl jasmonate,C13H20O3,224.1412445,Ocimum basilicum,Ocimum,KNApSAcK
+15,C00000356,928-96-1,cis-3-Hexen-1-ol,C6H12O,100.08881501,Ocimum basilicum,Ocimum,KNApSAcK
+16,C00000613,3690-05-9,p-Coumaryl alcohol,C9H10O2,150.06807956,Ocimum basilicum,Ocimum,KNApSAcK
+17,C00000613,3690-05-9,p-Coumaryl alcohol,C9H10O2,150.06807956,Ocimum sanctum,Ocimum,KNApSAcK
+18,C00000614,458-35-5,Coniferyl alcohol,C10H12O3,180.07864425,Ocimum basilicum,Ocimum,KNApSAcK
+19,C00000614,458-35-5,Coniferyl alcohol,C10H12O3,180.07864425,Ocimum sanctum,Ocimum,KNApSAcK
+20,C00000615,501-16-6,Caffeic acid,C9H8O4,180.04225874,Ocimum basilicum,Ocimum,KNApSAcK
+21,C00000615,501-16-6,Caffeic acid,C9H8O4,180.04225874,Ocimum sanctum,Ocimum,KNApSAcK
+22,C00000619,97-53-0,Eugenol,C10H12O2,164.08372963,Ocimum basilicum,Ocimum,KNApSAcK
+23,C00000619,97-53-0,Eugenol,C10H12O2,164.08372963,Ocimum spp.,Ocimum,KNApSAcK
+24,C00000619,97-53-0,Eugenol,C10H12O2,164.08372963,Ocimum sanctum,Ocimum,KNApSAcK
+25,C00000620,97-54-1,Isoeugenol,C10H12O2,164.08372963,Ocimum basilicum,Ocimum,KNApSAcK
+26,C00000621,501-92-8,Chavicol,C9H10O,134.07316494,Ocimum basilicum,Ocimum,KNApSAcK
+27,C00000621,501-92-8,Chavicol,C9H10O,134.07316494,Ocimum sanctum,Ocimum,KNApSAcK
+28,C00000674,491-70-3,"5,7,3',4'-Tetrahydroxyflavone",C15H10O6,286.04773805,Ocimum basilicum L.,Ocimum,KNApSAcK
+29,C00000674,491-70-3,"5,7,3',4'-Tetrahydroxyflavone",C15H10O6,286.04773805,Ocimum americanum L.var.pilosum (Willd.) Paton,Ocimum,KNApSAcK
+30,C00000674,491-70-3,"5,7,3',4'-Tetrahydroxyflavone",C15H10O6,286.04773805,Ocimum x citriodorum Vis.,Ocimum,KNApSAcK
+31,C00000804,546-80-5,(-)-3-Isothujone,C10H16O,152.12011513,Ocimum basilicum,Ocimum,KNApSAcK
+32,C00000805,80-56-8,alpha-Pinene,C10H16,136.12520051,Ocimum basilicum,Ocimum,KNApSAcK
+33,C00000805,80-56-8,alpha-Pinene,C10H16,136.12520051,Ocimum kilimandscharicim,Ocimum,KNApSAcK
+34,C00000805,80-56-8,alpha-Pinene,C10H16,136.12520051,Ocimum gratissimum,Ocimum,KNApSAcK
+35,C00000805,80-56-8,alpha-Pinene,C10H16,136.12520051,Ocimum tenuiflorum,Ocimum,KNApSAcK
+36,C00000805,80-56-8,alpha-Pinene,C10H16,136.12520051,Ocimum americanum,Ocimum,KNApSAcK
+37,C00000816,127-91-3,beta-Pinene,C10H16,136.12520051,Ocimum basilicum,Ocimum,KNApSAcK
+38,C00000819,76-22-2,(+)-Camphor,C10H16O,152.12011513,Ocimum tenuiflorum,Ocimum,KNApSAcK
+39,C00000819,76-22-2,(+)-Camphor,C10H16O,152.12011513,Ocimum basilicum,Ocimum,KNApSAcK
+40,C00000819,76-22-2,(+)-Camphor,C10H16O,152.12011513,Ocimum kilimandscharicim,Ocimum,KNApSAcK
+41,C00000823,138-86-3,Limonene,C10H16,136.12520051,Ocimum basilicum,Ocimum,KNApSAcK
+42,C00000823,138-86-3,Limonene,C10H16,136.12520051,Ocimum kilimandscharicum,Ocimum,KNApSAcK
+43,C00000827,89-82-7,Pulegone,C10H16O,152.12011513,Ocimum basilicum,Ocimum,KNApSAcK
+44,C00000830,15537-55-0,cis-Sabinene hydrate,C10H18O,154.1357652,Ocimum basilicum,Ocimum,KNApSAcK
+45,C00000839,13466-78-9,3-Carene,C10H16,136.12520051,Ocimum basilicum,Ocimum,KNApSAcK
+46,C00000843,3338-55-4,cis-beta-Ocimene,C10H16,136.12520051,Ocimum tenuiflorum,Ocimum,KNApSAcK
+47,C00000843,3338-55-4,cis-beta-Ocimene,C10H16,136.12520051,Ocimum basilicum,Ocimum,KNApSAcK
+48,C00000843,3338-55-4,cis-beta-Ocimene,C10H16,136.12520051,Ocimum kilimandscharicim,Ocimum,KNApSAcK
+49,C00000843,3338-55-4,cis-beta-Ocimene,C10H16,136.12520051,Ocimum gratissimum,Ocimum,KNApSAcK
+50,C00000843,3338-55-4,cis-beta-Ocimene,C10H16,136.12520051,Ocimum americanum,Ocimum,KNApSAcK
+51,C00000845,106-24-1,(E)-geraniol,C10H18O,154.1357652,Ocimum sanctum,Ocimum,KNApSAcK
+52,C00000845,106-24-1,(E)-geraniol,C10H18O,154.1357652,Ocimum basilicum,Ocimum,KNApSAcK
+53,C00000846,763-10-0,Geranyl diphospate,C10H20O7P2,314.06842597,Ocimum sanctum,Ocimum,KNApSAcK
+54,C00000850,2623-23-6,Menthyl acetate,C12H22O2,198.16197995,Ocimum basilicum,Ocimum,KNApSAcK
+55,C00000853,123-35-3,beta-Myrcene,C10H16,136.12520051,Ocimum basilicum,Ocimum,KNApSAcK
+56,C00000855,106-25-2,beta-Nerol,C10H18O,154.1357652,Ocimum basilicum,Ocimum,KNApSAcK
+57,C00000861,586-62-9,alpha-Terpinolene,C10H16,136.12520051,Ocimum kilimandscharicum,Ocimum,KNApSAcK
+58,C00000861,586-62-9,alpha-Terpinolene,C10H16,136.12520051,Ocimum basilicum,Ocimum,KNApSAcK
+59,C00000862,3779-61-1,trans-beta-Ocimene,C10H16,136.12520051,Ocimum gratissimum,Ocimum,KNApSAcK
+60,C00000862,3779-61-1,trans-beta-Ocimene,C10H16,136.12520051,Ocimum basilicum,Ocimum,KNApSAcK
+61,C00000875,17990-16-8,cis-Abienol,C20H34O,290.26096571,Ocimum sanctum,Ocimum,KNApSAcK
+62,C00000880,,ent-CPP,C20H36O7P2,450.19362648,Ocimum sanctum,Ocimum,KNApSAcK
+63,C00000907,13058-04-3,Farnesyl pyrophosphate,C15H28O7P2,382.13102623,Ocimum basilicum,Ocimum,KNApSAcK
+64,C00000908,6699-20-3,Geranylgeranyl diphosphate,C20H36O7P2,450.19362648,Ocimum sanctum,Ocimum,KNApSAcK
+65,C00000931,144-68-3,Zeaxanthin,C40H56O2,568.42803103,Ocimum basilicum,Ocimum,KNApSAcK
+66,C00001016,5128-44-9,"5-Hydroxy-7,4'-dimethoxyflavone",C17H14O5,298.08412356,Ocimum basilicum L.,Ocimum,KNApSAcK
+67,C00001016,5128-44-9,"5-Hydroxy-7,4'-dimethoxyflavone",C17H14O5,298.08412356,Ocimum americanum L.var.pilosum (Willd.) Paton,Ocimum,KNApSAcK
+68,C00001016,5128-44-9,"5-Hydroxy-7,4'-dimethoxyflavone",C17H14O5,298.08412356,Ocimum minimum L.,Ocimum,KNApSAcK
+69,C00001016,5128-44-9,"5-Hydroxy-7,4'-dimethoxyflavone",C17H14O5,298.08412356,Ocimum x citriodorum Vis.,Ocimum,KNApSAcK
+70,C00001017,578-74-5,Apigenin 7-O-beta-D-glucopyranoside,C21H20O10,432.10564686,Ocimum sanctum,Ocimum,KNApSAcK
+71,C00001043,437-64-9,"5,4'-Dihydroxy-7-methoxyflavone",C16H12O5,284.06847349,Ocimum basilicum L.,Ocimum,KNApSAcK
+72,C00001043,437-64-9,"5,4'-Dihydroxy-7-methoxyflavone",C16H12O5,284.06847349,Ocimum americanum L.var.pilosum (Willd.) Paton,Ocimum,KNApSAcK
+73,C00001043,437-64-9,"5,4'-Dihydroxy-7-methoxyflavone",C16H12O5,284.06847349,Ocimum x citriodorum Vis.,Ocimum,KNApSAcK
+74,C00001043,437-64-9,"5,4'-Dihydroxy-7-methoxyflavone",C16H12O5,284.06847349,Ocimum kilimandscharicum L.,Ocimum,KNApSAcK
+75,C00001043,437-64-9,"5,4'-Dihydroxy-7-methoxyflavone",C16H12O5,284.06847349,Ocimum selloi Benth.,Ocimum,KNApSAcK
+76,C00001075,10176-66-6,Nevadensin,C18H16O7,344.08960287,Ocimum minimum L.,Ocimum,KNApSAcK
+77,C00001075,10176-66-6,Nevadensin,C18H16O7,344.08960287,Ocimum x citriodorum Vis.,Ocimum,KNApSAcK
+78,C00001075,10176-66-6,Nevadensin,C18H16O7,344.08960287,Ocimum americanum L.var.pilosum (Willd.) Paton,Ocimum,KNApSAcK
+79,C00001075,10176-66-6,Nevadensin,C18H16O7,344.08960287,Ocimum basilicum L.,Ocimum,KNApSAcK
+80,C00001075,10176-66-6,Nevadensin,C18H16O7,344.08960287,Ocimum canum,Ocimum,KNApSAcK
+81,C00001144,470-57-5,Planteose,C18H32O16,504.16903498,Ocimum basilicum,Ocimum,KNApSAcK
+82,C00001203,138-59-0,Shikimic acid,C7H10O5,174.05282343,Ocimum basilicum,Ocimum,KNApSAcK
+83,C00001233,57-10-3,Palmitic acid,C16H32O2,256.24023027,Ocimum basilicum,Ocimum,KNApSAcK
+84,C00001260,630-03-5,Nonacosane,C29H60,408.46950191,Ocimum basilicum,Ocimum,KNApSAcK
+85,C00001386,63-91-2,L-Phenylalanine,C9H11NO2,165.0789786,Ocimum basilicum,Ocimum,KNApSAcK
+86,C00001528,479-61-8,Chlorophyll a,C55H72MgN4O5,892.53531331,Ocimum basilicum,Ocimum,KNApSAcK
+87,C00002374,7084-24-4,Cyanidin 3-O-glucoside,C21H21O11.Cl,484.07723923,Ocimum basilicum,Ocimum,KNApSAcK
+88,C00002378,2611-67-8,Cyanin,C27H31O16,611.16120995,Ocimum basilicum,Ocimum,KNApSAcK
+89,C00002636,123-11-5,Anisaldehyde,C8H8O2,136.0524295,Ocimum basilicum,Ocimum,KNApSAcK
+90,C00002663,60-12-8,2-Phenylethanol,C8H10O,122.07316494,Ocimum basilicum,Ocimum,KNApSAcK
+91,C00002683,5463-22-9,Vanillin,C8H8O3,152.04734412,Ocimum basilicum,Ocimum,KNApSAcK
+92,C00002723,70831-56-0,Chicoric acid,C22H18O12,474.07982604,Ocimum basilicum,Ocimum,KNApSAcK
+93,C00002728,458-36-6,Coniferaldehyde,C10H10O3,178.06299419,Ocimum sanctum,Ocimum,KNApSAcK
+94,C00002740,140-67-0,Estragol,C10H12O,148.08881501,Ocimum basilicum,Ocimum,KNApSAcK
+95,C00002741,93-15-2,Methyleugenol,C11H14O2,178.09937969,Ocimum basilicum,Ocimum,KNApSAcK
+96,C00002743,1135-24-6,Ferulic acid,C10H10O4,194.05790881,Ocimum sanctum,Ocimum,KNApSAcK
+97,C00002757,1963-36-6,4-Methoxycinnamaldehyde,C10H10O2,162.06807956,Ocimum basilicum,Ocimum,KNApSAcK
+98,C00002770,20283-92-5,Labiatenic acid,C18H16O8,360.08451749,Ocimum basilicum,Ocimum,KNApSAcK
+99,C00002771,94-59-7,Safrole,C10H10O2,162.06807956,Ocimum basilicum,Ocimum,KNApSAcK
+100,C00002776,530-59-6,Sinapic acid,C11H12O5,224.06847349,Ocimum sanctum,Ocimum,KNApSAcK
+101,C00003028,507-70-0,Borneol,C10H18O,154.1357652,Ocimum basilicum,Ocimum,KNApSAcK
+102,C00003028,507-70-0,Borneol,C10H18O,154.1357652,Ocimum gratissimum,Ocimum,KNApSAcK
+103,C00003028,507-70-0,Borneol,C10H18O,154.1357652,Ocimum americanum,Ocimum,KNApSAcK
+104,C00003028,507-70-0,Borneol,C10H18O,154.1357652,Ocimum tenuiflorum,Ocimum,KNApSAcK
+105,C00003028,507-70-0,Borneol,C10H18O,154.1357652,Ocimum kilimandscharicim,Ocimum,KNApSAcK
+106,C00003029,79-92-5,Camphene,C10H16,136.12520051,Ocimum basilicum,Ocimum,KNApSAcK
+107,C00003035,141-27-5,trans-Citral,C10H16O,152.12011513,Ocimum basilicum,Ocimum,KNApSAcK
+108,C00003037,2385-77-5,(R)-Citronellal,C10H18O,154.1357652,Ocimum gratissimum,Ocimum,KNApSAcK
+109,C00003040,99-87-6,p-Cymene,C10H14,134.10955045,Ocimum basilicum,Ocimum,KNApSAcK
+110,C00003045,1195-79-5,Fenchone,C10H16O,152.12011513,Ocimum basilicum,Ocimum,KNApSAcK
+111,C00003046,105-87-3,Geranyl acetate,C12H20O2,196.14632988,Ocimum basilicum,Ocimum,KNApSAcK
+112,C00003047,78-70-6,(+-)-Linalool,C10H18O,154.1357652,Ocimum gratissimum,Ocimum,KNApSAcK
+113,C00003047,78-70-6,(+-)-Linalool,C10H18O,154.1357652,Ocimum basilicum,Ocimum,KNApSAcK
+114,C00003047,78-70-6,(+-)-Linalool,C10H18O,154.1357652,Ocimum tenuiflorum,Ocimum,KNApSAcK
+115,C00003048,115-95-7,Linalyl acetate,C12H20O2,196.14632988,Ocimum basilicum,Ocimum,KNApSAcK
+116,C00003051,99-83-2,alpha-Phellandrene,C10H16,136.12520051,Ocimum gratissimum,Ocimum,KNApSAcK
+117,C00003051,99-83-2,alpha-Phellandrene,C10H16,136.12520051,Ocimum basilicum,Ocimum,KNApSAcK
+118,C00003054,89-81-6,Piperitone,C10H16O,152.12011513,Ocimum basilicum,Ocimum,KNApSAcK
+119,C00003060,99-86-5,alpha-Terpinene,C10H16,136.12520051,Ocimum gratissimum,Ocimum,KNApSAcK
+120,C00003060,99-86-5,alpha-Terpinene,C10H16,136.12520051,Ocimum tenuiflorum,Ocimum,KNApSAcK
+121,C00003060,99-86-5,alpha-Terpinene,C10H16,136.12520051,Ocimum spp.,Ocimum,KNApSAcK
+122,C00003060,99-86-5,alpha-Terpinene,C10H16,136.12520051,Ocimum kilimandscharicim,Ocimum,KNApSAcK
+123,C00003060,99-86-5,alpha-Terpinene,C10H16,136.12520051,Ocimum basilicum,Ocimum,KNApSAcK
+124,C00003060,99-86-5,alpha-Terpinene,C10H16,136.12520051,Ocimum americanum,Ocimum,KNApSAcK
+125,C00003061,99-85-4,gamma-Terpinene,C10H16,136.12520051,Ocimum basilicum,Ocimum,KNApSAcK
+126,C00003065,528-79-0,Thymol acetate,C12H16O2,192.11502975,Ocimum basilicum,Ocimum,KNApSAcK
+127,C00003106,523-47-7,beta-Cadinene,C15H24,204.18780077,Ocimum basilicum,Ocimum,KNApSAcK
+128,C00003110,87-44-5,beta-Caryophyllene,C15H24,204.18780077,Ocimum kilimandscharicim,Ocimum,KNApSAcK
+129,C00003110,87-44-5,beta-Caryophyllene,C15H24,204.18780077,Ocimum kilimandscharicum,Ocimum,KNApSAcK
+130,C00003110,87-44-5,beta-Caryophyllene,C15H24,204.18780077,Ocimum tenuiflorum,Ocimum,KNApSAcK
+131,C00003110,87-44-5,beta-Caryophyllene,C15H24,204.18780077,Ocimum americanum,Ocimum,KNApSAcK
+132,C00003110,87-44-5,beta-Caryophyllene,C15H24,204.18780077,Ocimum basilicum,Ocimum,KNApSAcK
+133,C00003110,87-44-5,beta-Caryophyllene,C15H24,204.18780077,Ocimum gratissimum,Ocimum,KNApSAcK
+134,C00003111,469-61-4,alpha-Cedrene,C15H24,204.18780077,Ocimum basilicum,Ocimum,KNApSAcK
+135,C00003116,18431-82-8,beta-Chamigrene,C15H24,204.18780077,Ocimum basilicum,Ocimum,KNApSAcK
+136,C00003118,3856-25-5,alpha-Copaene,C15H24,204.18780077,Ocimum americanum,Ocimum,KNApSAcK
+137,C00003118,3856-25-5,alpha-Copaene,C15H24,204.18780077,Ocimum gratissimum,Ocimum,KNApSAcK
+138,C00003118,3856-25-5,alpha-Copaene,C15H24,204.18780077,Ocimum kilimandscharicim,Ocimum,KNApSAcK
+139,C00003118,3856-25-5,alpha-Copaene,C15H24,204.18780077,Ocimum tenuiflorum,Ocimum,KNApSAcK
+140,C00003118,3856-25-5,alpha-Copaene,C15H24,204.18780077,Ocimum basilicum,Ocimum,KNApSAcK
+141,C00003120,17699-14-8,alpha-Cubebene,C15H24,204.18780077,Ocimum basilicum,Ocimum,KNApSAcK
+142,C00003121,13744-15-5,beta-Cubebene,C15H24,204.18780077,Ocimum kilimandscharicim,Ocimum,KNApSAcK
+143,C00003121,13744-15-5,beta-Cubebene,C15H24,204.18780077,Ocimum basilicum,Ocimum,KNApSAcK
+144,C00003121,13744-15-5,beta-Cubebene,C15H24,204.18780077,Ocimum gratissimum,Ocimum,KNApSAcK
+145,C00003121,13744-15-5,beta-Cubebene,C15H24,204.18780077,Ocimum tenuiflorum,Ocimum,KNApSAcK
+146,C00003130,502-61-4,alpha-Farnesene,C15H24,204.18780077,Ocimum sanctum,Ocimum,KNApSAcK
+147,C00003130,502-61-4,alpha-Farnesene,C15H24,204.18780077,Ocimum basilicum,Ocimum,KNApSAcK
+148,C00003131,18794-84-8,E-beta-farnesene,C15H24,204.18780077,Ocimum basilicum,Ocimum,KNApSAcK
+149,C00003147,6753-98-6,alpha-Caryophyllene (obsol.),C15H24,204.18780077,Ocimum tenuiflorum,Ocimum,KNApSAcK
+150,C00003147,6753-98-6,alpha-Caryophyllene (obsol.),C15H24,204.18780077,Ocimum basilicum,Ocimum,KNApSAcK
+151,C00003147,6753-98-6,alpha-Caryophyllene (obsol.),C15H24,204.18780077,Ocimum gratissimum,Ocimum,KNApSAcK
+152,C00003147,6753-98-6,alpha-Caryophyllene (obsol.),C15H24,204.18780077,Ocimum kilimandscharicim,Ocimum,KNApSAcK
+153,C00003147,6753-98-6,alpha-Caryophyllene (obsol.),C15H24,204.18780077,Ocimum americanum,Ocimum,KNApSAcK
+154,C00003162,475-20-7,Longifolene,C15H24,204.18780077,Ocimum americanum,Ocimum,KNApSAcK
+155,C00003166,142-50-7,Nerolidol,C15H26O,222.19836545,Ocimum basilicum,Ocimum,KNApSAcK
+156,C00003166,142-50-7,Nerolidol,C15H26O,222.19836545,Ocimum sanctum,Ocimum,KNApSAcK
+157,C00003186,17066-67-0,beta-Eudesmene,C15H24,204.18780077,Ocimum basilicum,Ocimum,KNApSAcK
+158,C00003204,495-60-3,alpha-Zingiberene,C15H24,204.18780077,Ocimum basilicum,Ocimum,KNApSAcK
+159,C00003204,495-60-3,alpha-Zingiberene,C15H24,204.18780077,Ocimum sanctum,Ocimum,KNApSAcK
+160,C00003467,150-86-7,Phytol,C20H40O,296.3079159,Ocimum basilicum,Ocimum,KNApSAcK
+161,C00003650,469-38-5,Cycloartenol,C30H50O,426.38616622,Ocimum basilicum,Ocimum,KNApSAcK
+162,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Ocimum spicatum,Ocimum,KNApSAcK
+163,C00003674,83-48-7,beta-Stigmasterol,C29H48O,412.37051615,Ocimum spicatum,Ocimum,KNApSAcK
+164,C00003737,638-95-9,alpha-Amyrin,C30H50O,426.38616622,Ocimum basilicum,Ocimum,KNApSAcK
+165,C00003738,559-70-6,beta-Amyrin,C30H50O,426.38616622,Ocimum basilicum,Ocimum,KNApSAcK
+166,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Ocimum basilicum,Ocimum,KNApSAcK
+167,C00003755,111-02-4,All-trans-squalene,C30H50,410.39125159,Ocimum basilicum,Ocimum,KNApSAcK
+168,C00003760,640-03-9,Antheraxanthin,C40H56O3,584.42294565,Ocimum basilicum,Ocimum,KNApSAcK
+169,C00003787,126-29-4,Violaxanthin,C40H56O4,600.41786028,Ocimum basilicum,Ocimum,KNApSAcK
+170,C00003817,520-36-5,Apigenin,C15H10O5,270.05282343,Ocimum tenuiflorum L.,Ocimum,KNApSAcK
+171,C00003817,520-36-5,Apigenin,C15H10O5,270.05282343,Ocimum sanctum,Ocimum,KNApSAcK
+172,C00003817,520-36-5,Apigenin,C15H10O5,270.05282343,Ocimum x citriodorum Vis.,Ocimum,KNApSAcK
+173,C00003817,520-36-5,Apigenin,C15H10O5,270.05282343,Ocimum kilimandscharicum L.,Ocimum,KNApSAcK
+174,C00003817,520-36-5,Apigenin,C15H10O5,270.05282343,Ocimum americanum L.var.pilosum (Willd.) Paton,Ocimum,KNApSAcK
+175,C00003817,520-36-5,Apigenin,C15H10O5,270.05282343,Ocimum minimum L.,Ocimum,KNApSAcK
+176,C00003820,480-44-4,Acacetin,C16H12O5,284.06847349,Ocimum x citriodorum Vis.,Ocimum,KNApSAcK
+177,C00003820,480-44-4,Acacetin,C16H12O5,284.06847349,Ocimum americanum L.var.pilosum (Willd.) Paton,Ocimum,KNApSAcK
+178,C00003820,480-44-4,Acacetin,C16H12O5,284.06847349,Ocimum basilicum L.,Ocimum,KNApSAcK
+179,C00003839,10176-71-3,Ladanein,C17H14O6,314.07903818,Ocimum basilicum,Ocimum,KNApSAcK
+180,C00003839,10176-71-3,Ladanein,C17H14O6,314.07903818,Ocimum spp.,Ocimum,KNApSAcK
+181,C00003840,19103-54-9,Salvigenin,C18H16O6,328.09468824,Ocimum basilicum L.,Ocimum,KNApSAcK
+182,C00003840,19103-54-9,Salvigenin,C18H16O6,328.09468824,Ocimum kilimandscharicum L.,Ocimum,KNApSAcK
+183,C00003840,19103-54-9,Salvigenin,C18H16O6,328.09468824,Ocimum minimum L.,Ocimum,KNApSAcK
+184,C00003840,19103-54-9,Salvigenin,C18H16O6,328.09468824,Ocimum x citriodorum Vis.,Ocimum,KNApSAcK
+185,C00003840,19103-54-9,Salvigenin,C18H16O6,328.09468824,Ocimum americanum L.var.pilosum (Willd.) Paton,Ocimum,KNApSAcK
+186,C00003879,16545-23-6,"5,4'-Dihydroxy-6,7,8-trimethoxyflavone",C18H16O7,344.08960287,Ocimum americanum L.var.americanum,Ocimum,KNApSAcK
+187,C00003879,16545-23-6,"5,4'-Dihydroxy-6,7,8-trimethoxyflavone",C18H16O7,344.08960287,Ocimum gratissimum,Ocimum,KNApSAcK
+188,C00003879,16545-23-6,"5,4'-Dihydroxy-6,7,8-trimethoxyflavone",C18H16O7,344.08960287,Ocimum basilicum,Ocimum,KNApSAcK
+189,C00003880,2798-22-3,Pedunculin,C18H16O7,344.08960287,Ocimum basilicum,Ocimum,KNApSAcK
+190,C00003883,2798-20-1,Gardenin B,C19H18O7,358.10525293,Ocimum americanum L.var.pilosum (Willd.) Paton,Ocimum,KNApSAcK
+191,C00003883,2798-20-1,Gardenin B,C19H18O7,358.10525293,Ocimum spp.,Ocimum,KNApSAcK
+192,C00003883,2798-20-1,Gardenin B,C19H18O7,358.10525293,Ocimum kilimandscharicum L.,Ocimum,KNApSAcK
+193,C00003883,2798-20-1,Gardenin B,C19H18O7,358.10525293,Ocimum minimum L.,Ocimum,KNApSAcK
+194,C00003883,2798-20-1,Gardenin B,C19H18O7,358.10525293,Ocimum selloi Benth.,Ocimum,KNApSAcK
+195,C00003883,2798-20-1,Gardenin B,C19H18O7,358.10525293,Ocimum tenuiflorum L.,Ocimum,KNApSAcK
+196,C00003883,2798-20-1,Gardenin B,C19H18O7,358.10525293,Ocimum x citriodorum Vis.,Ocimum,KNApSAcK
+197,C00003883,2798-20-1,Gardenin B,C19H18O7,358.10525293,Ocimum basilicum L.,Ocimum,KNApSAcK
+198,C00003892,25782-25-6,"5,6,4'-Trihydroxy-7,3'-dimethoxyflavone",C17H14O7,330.0739528,Ocimum lamiifolium,Ocimum,KNApSAcK
+199,C00003893,25782-24-5,Nuchensin,C17H14O7,330.0739528,Ocimum lamiifolium,Ocimum,KNApSAcK
+200,C00003894,855-96-9,Eupatorin,C18H16O7,344.08960287,Ocimum spp.,Ocimum,KNApSAcK
+201,C00003895,25782-23-4,"4 5,6-Dihydroxy-7,3',4'-trimethoxyflavone",C18H16O7,344.08960287,Ocimum lamiifolium,Ocimum,KNApSAcK
+202,C00003898,21763-80-4,"5-Hydroxy-6,7,3',4'-tetramethoxyflavone",C19H18O7,358.10525293,Ocimum americanum var. americanum,Ocimum,KNApSAcK
+203,C00003934,56003-01-1,Hymenoxin,C19H18O8,374.10016755,Ocimum x citriodorum,Ocimum,KNApSAcK
+204,C00003936,2174-59-6,5-Demethylnobiletin,C20H20O8,388.11581762,Ocimum americanum var. americanum,Ocimum,KNApSAcK
+205,C00004261,20344-46-1,Luteolin 5-O-beta-D-glucopyranoside,C21H20O11,448.10056148,Ocimum sanctum,Ocimum,KNApSAcK
+206,C00005373,482-35-9,Hirsutrin,C21H20O12,464.09547611,Ocimum basilicum,Ocimum,KNApSAcK
+207,C00006102,66274-25-7,Molludistin,C21H20O9,416.11073224,Ocimum sanctum,Ocimum,KNApSAcK
+208,C00006614,13306-05-3,Cyanidin,C15H11O6,287.05556308,Ocimum basilicum,Ocimum,KNApSAcK
+209,C00006728,25846-73-5,Petunin,C28H33O17,641.17177463,Ocimum basilicum,Ocimum,KNApSAcK
+210,C00007242,495-61-4,beta-Bisabolene,C15H24,204.18780077,Ocimum basilicum,Ocimum,KNApSAcK
+211,C00007253,562-28-7,ent-Kaurene,C20H32,272.25040102,Ocimum sanctum,Ocimum,KNApSAcK
+212,C00007264,30802-02-9,Feruloyl-CoA,C31H44N7O19P3S,943.16255248,Ocimum basilicum,Ocimum,KNApSAcK
+213,C00007268,372-97-4,"(2E,6E)-Farnesyl diphosphate",C15H28O7P2,382.13102623,Ocimum sanctum,Ocimum,KNApSAcK
+214,C00007280,30802-00-7,p-Coumaroyl CoA,C30H42N7O18P3S,913.15198779,Ocimum sanctum,Ocimum,KNApSAcK
+215,C00007280,30802-00-7,p-Coumaroyl CoA,C30H42N7O18P3S,913.15198779,Ocimum basilicum,Ocimum,KNApSAcK
+216,C00007281,53034-79-0,caffeoyl-CoA,C30H42N7O19P3S,929.14690242,Ocimum sanctum,Ocimum,KNApSAcK
+217,C00007282,7200-26-2,"(S)-2,3-Epoxysqualene",C30H50O,426.38616622,Ocimum basilicum,Ocimum,KNApSAcK
+218,C00007283,54429-80-0,Sinapoyl-CoA,C32H46N7O20P3S,973.17311717,Ocimum sanctum,Ocimum,KNApSAcK
+219,C00007336,1782-55-4,5-Hydroxyferulic acid,C10H10O5,210.05282343,Ocimum sanctum,Ocimum,KNApSAcK
+220,C00007376,519-62-0,Chlorophyll b,C55H70MgN4O6,906.51457787,Ocimum basilicum,Ocimum,KNApSAcK
+221,C00007453,33880-83-0,beta-Elemene,C15H24,204.18780077,Ocimum tenuiflorum,Ocimum,KNApSAcK
+222,C00007453,33880-83-0,beta-Elemene,C15H24,204.18780077,Ocimum americanum,Ocimum,KNApSAcK
+223,C00007453,33880-83-0,beta-Elemene,C15H24,204.18780077,Ocimum basilicum,Ocimum,KNApSAcK
+224,C00007453,33880-83-0,beta-Elemene,C15H24,204.18780077,Ocimum gratissimum,Ocimum,KNApSAcK
+225,C00007453,33880-83-0,beta-Elemene,C15H24,204.18780077,Ocimum kilimandscharicim,Ocimum,KNApSAcK
+226,C00007558,134-96-3,Syringaldehyde,C9H10O4,182.05790881,Ocimum basilicum,Ocimum,KNApSAcK
+227,C00007566,22059-21-8,1-Aminocyclopropane-1-carboxylate,C4H7NO2,101.04767848,Ocimum basilicum,Ocimum,KNApSAcK
+228,C00007630,20307-83-9,beta-Sesquiphellandrene,C15H24,204.18780077,Ocimum basilicum,Ocimum,KNApSAcK
+229,C00007636,483-76-1,delta-Cadinene,C15H24,204.18780077,Ocimum kilimandscharicim,Ocimum,KNApSAcK
+230,C00007636,483-76-1,delta-Cadinene,C15H24,204.18780077,Ocimum gratissimum,Ocimum,KNApSAcK
+231,C00007636,483-76-1,delta-Cadinene,C15H24,204.18780077,Ocimum basilicum,Ocimum,KNApSAcK
+232,C00007636,483-76-1,delta-Cadinene,C15H24,204.18780077,Ocimum tenuiflorum,Ocimum,KNApSAcK
+233,C00007637,,Vetispiradiene,C15H26,206.20345083,Ocimum sanctum,Ocimum,KNApSAcK
+234,C00010306,6874-10-8,"(E)-3,7-Dimethyl-1,3,7-octatriene",C10H16,136.12520051,Ocimum rubrum,Ocimum,KNApSAcK
+235,C00010307,6874-44-8,"(Z)-3,7-Dimethyl-1,3,7-octatriene",C10H16,136.12520051,Ocimum rubrum,Ocimum,KNApSAcK
+236,C00010868,5989-27-5,(+)-Limonene,C10H16,136.12520051,Ocimum sanctum,Ocimum,KNApSAcK
+237,C00010868,5989-27-5,(+)-Limonene,C10H16,136.12520051,Ocimum tenuiflorum,Ocimum,KNApSAcK
+238,C00010868,5989-27-5,(+)-Limonene,C10H16,136.12520051,Ocimum americanum,Ocimum,KNApSAcK
+239,C00010868,5989-27-5,(+)-Limonene,C10H16,136.12520051,Ocimum gratissimum,Ocimum,KNApSAcK
+240,C00010868,5989-27-5,(+)-Limonene,C10H16,136.12520051,Ocimum basilicum,Ocimum,KNApSAcK
+241,C00010868,5989-27-5,(+)-Limonene,C10H16,136.12520051,Ocimum kilimandscharicim,Ocimum,KNApSAcK
+242,C00010885,18457-55-1,(S)-(-)-Perilla alcohol,C10H16O,152.12011513,Ocimum gratissimum,Ocimum,KNApSAcK
+243,C00010934,586-82-3,p-Menth-3-en-1-ol,C10H18O,154.1357652,Ocimum basilicum,Ocimum,KNApSAcK
+244,C00010967,535-77-3,beta-Cymene,C10H14,134.10955045,Ocimum basilicum,Ocimum,KNApSAcK
+245,C00011629,83324-74-7,Gratissimene,C15H26,206.20345083,Ocimum gratissimum,Ocimum,KNApSAcK
+246,C00011719,28387-44-2,(-)-Germacrene A,C15H24,204.18780077,Ocimum sanctum,Ocimum,KNApSAcK
+247,C00011720,23986-74-5,(-)-Germacrene D,C15H24,204.18780077,Ocimum gratissimum,Ocimum,KNApSAcK
+248,C00011720,23986-74-5,(-)-Germacrene D,C15H24,204.18780077,Ocimum basilicum,Ocimum,KNApSAcK
+249,C00011720,23986-74-5,(-)-Germacrene D,C15H24,204.18780077,Ocimum kilimandscharicim,Ocimum,KNApSAcK
+250,C00011720,23986-74-5,(-)-Germacrene D,C15H24,204.18780077,Ocimum sanctum,Ocimum,KNApSAcK
+251,C00011720,23986-74-5,(-)-Germacrene D,C15H24,204.18780077,Ocimum tenuiflorum,Ocimum,KNApSAcK
+252,C00012005,639-99-6,(-)-Elemol,C15H26O,222.19836545,Ocimum basilicum,Ocimum,KNApSAcK
+253,C00012005,639-99-6,(-)-Elemol,C15H26O,222.19836545,Ocimum tenuiflorum,Ocimum,KNApSAcK
+254,C00012012,29873-99-2,(-)-gamma-Elemene,C15H24,204.18780077,Ocimum basilicum,Ocimum,KNApSAcK
+255,C00012014,5951-67-7,alpha-Elemene,C15H24,204.18780077,Ocimum tenuiflorum,Ocimum,KNApSAcK
+256,C00012425,24703-35-3,(+)-Bicyclogermacrene,C15H24,204.18780077,Ocimum basilicum,Ocimum,KNApSAcK
+257,C00012425,24703-35-3,(+)-Bicyclogermacrene,C15H24,204.18780077,Ocimum sanctum,Ocimum,KNApSAcK
+258,C00012443,19888-33-6,Humulene epoxide,C15H24O,220.18271539,Ocimum basilicum,Ocimum,KNApSAcK
+259,C00012467,471-05-6,Zerumbone,C15H22O,218.16706532,Ocimum tenuiflorum,Ocimum,KNApSAcK
+260,C00012474,118-65-0,Isocaryophyllene,C15H24,204.18780077,Ocimum basilicum,Ocimum,KNApSAcK
+261,C00012483,1139-30-6,(-)-beta-Caryophyllene epoxide,C15H24O,220.18271539,Ocimum basilicum,Ocimum,KNApSAcK
+262,C00013313,98755-25-0,Isothymusin,C17H14O7,330.0739528,Ocimum selloi Benth.,Ocimum,KNApSAcK
+263,C00013313,98755-25-0,Isothymusin,C17H14O7,330.0739528,Ocimum americanum cv.Sacred,Ocimum,KNApSAcK
+264,C00013313,98755-25-0,Isothymusin,C17H14O7,330.0739528,Ocimum tenuiflorum L.,Ocimum,KNApSAcK
+265,C00013313,98755-25-0,Isothymusin,C17H14O7,330.0739528,Ocimum gratissimum,Ocimum,KNApSAcK
+266,C00013595,41365-32-6,Cirsilineol,C18H16O7,344.08960287,Ocimum spp.,Ocimum,KNApSAcK
+267,C00013595,41365-32-6,Cirsilineol,C18H16O7,344.08960287,Ocimum tenuiflorum L.,Ocimum,KNApSAcK
+268,C00013595,41365-32-6,Cirsilineol,C18H16O7,344.08960287,Ocimum x citriodorum Vis.,Ocimum,KNApSAcK
+269,C00013595,41365-32-6,Cirsilineol,C18H16O7,344.08960287,Ocimum kilimandscharicum L.,Ocimum,KNApSAcK
+270,C00016959,527-90-2,(+)-Maaliol,C15H26O,222.19836545,Ocimum basilicum,Ocimum,KNApSAcK
+271,C00019064,508-02-1,Oleanolic acid,C30H48O3,456.3603454,Ocimum spicatum,Ocimum,KNApSAcK
+272,C00019064,508-02-1,Oleanolic acid,C30H48O3,456.3603454,Ocimum basilicum,Ocimum,KNApSAcK
+273,C00019065,545-48-2,Erythrodiol,C30H50O2,442.38108084,Ocimum basilicum,Ocimum,KNApSAcK
+274,C00019545,53-57-6,NADPH,C21H30N7O17P3,745.09110206,Ocimum basilicum,Ocimum,KNApSAcK
+275,C00020051,24406-05-1,alpha-Cadinene,C15H24,204.18780077,Ocimum basilicum,Ocimum,KNApSAcK
+276,C00020063,54274-73-6,1-Epibicyclosesquiphellandrene,C15H24,204.18780077,Ocimum basilicum,Ocimum,KNApSAcK
+277,C00020065,481-34-5,(-)-alpha-Cadinol,C15H26O,222.19836545,Ocimum basilicum,Ocimum,KNApSAcK
+278,C00020066,5937-11-1,epi-alpha-Cadinol,C15H26O,222.19836545,Ocimum basilicum,Ocimum,KNApSAcK
+279,C00020072,22339-23-7,(+)-Calamenene,C15H22,202.1721507,Ocimum basilicum,Ocimum,KNApSAcK
+280,C00020074,483-77-2,Calamenene,C15H22,202.1721507,Ocimum basilicum,Ocimum,KNApSAcK
+281,C00020130,24268-39-1,gamma-Muurolene,C15H24,204.18780077,Ocimum basilicum,Ocimum,KNApSAcK
+282,C00020150,19435-97-3,(-)-delta-Cadinol,C15H26O,222.19836545,Ocimum basilicum,Ocimum,KNApSAcK
+283,C00020154,19912-62-0,tau-Muurolol,C15H26O,222.19836545,Ocimum basilicum,Ocimum,KNApSAcK
+284,C00020376,88-84-6,beta-Guaiene,C15H24,204.18780077,Ocimum basilicum,Ocimum,KNApSAcK
+285,C00020376,88-84-6,beta-Guaiene,C15H24,204.18780077,Ocimum americanum,Ocimum,KNApSAcK
+286,C00020377,3691-12-1,alpha-Guaiene,C15H24,204.18780077,Ocimum basilicum,Ocimum,KNApSAcK
+287,C00020379,3691-11-0,alpha-Bulnesene,C15H24,204.18780077,Ocimum basilicum,Ocimum,KNApSAcK
+288,C00021213,489-41-8,(-)-Globulol,C15H26O,222.19836545,Ocimum basilicum,Ocimum,KNApSAcK
+289,C00021217,552-02-3,Viridiflorol,C15H26O,222.19836545,Ocimum basilicum,Ocimum,KNApSAcK
+290,C00021220,21747-46-6,Viridiflorene,C15H24,204.18780077,Ocimum sanctum,Ocimum,KNApSAcK
+291,C00021229,25246-27-9,allo-Aromadendrene,C15H24,204.18780077,Ocimum basilicum,Ocimum,KNApSAcK
+292,C00021230,489-39-4,(+)-Aromadendrene,C15H24,204.18780077,Ocimum basilicum,Ocimum,KNApSAcK
+293,C00021236,88395-46-4,Isosparthulenol,C15H24O,220.18271539,Ocimum basilicum,Ocimum,KNApSAcK
+294,C00021286,560-32-7,alpha-Patchoulene,C15H24,204.18780077,Ocimum kilimandscharicim,Ocimum,KNApSAcK
+295,C00021309,3853-83-6,alpha-Himachalene,C15H24,204.18780077,Ocimum basilicum,Ocimum,KNApSAcK
+296,C00021720,546-28-1,beta-Cedrene,C15H24,204.18780077,Ocimum basilicum,Ocimum,KNApSAcK
+297,C00021833,56684-97-0,beta-Panasinsene,C15H24,204.18780077,Ocimum americanum,Ocimum,KNApSAcK
+298,C00021859,22469-52-9,(+)-Cyclosativene,C15H24,204.18780077,Ocimum americanum,Ocimum,KNApSAcK
+299,C00021884,5208-59-3,beta-Bourbonene,C15H24,204.18780077,Ocimum gratissimum,Ocimum,KNApSAcK
+300,C00021884,5208-59-3,beta-Bourbonene,C15H24,204.18780077,Ocimum basilicum,Ocimum,KNApSAcK
+301,C00021903,13474-59-4,trans-alpha-Bergamotene,C15H24,204.18780077,Ocimum basilicum,Ocimum,KNApSAcK
+302,C00022109,1113-21-9,Geranyl linalool,C20H34O,290.26096571,Ocimum sanctum,Ocimum,KNApSAcK
+303,C00029334,4180-23-8,trans-Anethol,C10H12O,148.08881501,Ocimum basilicum,Ocimum,KNApSAcK
+304,C00029335,13877-91-3,(E)-beta-Ocimene,C10H16,136.12520051,Ocimum sanctum,Ocimum,KNApSAcK
+305,C00029335,13877-91-3,(E)-beta-Ocimene,C10H16,136.12520051,Ocimum basilicum,Ocimum,KNApSAcK
+306,C00029339,40716-66-3,"(6E)-3,7,11-Trimethyl-1,6,10-dodecatrien-3-ol",C15H26O,222.19836545,Ocimum basilicum,Ocimum,KNApSAcK
+307,C00029350,28973-97-9,cis-beta-Farnesene,C15H24,204.18780077,Ocimum basilicum,Ocimum,KNApSAcK
+308,C00029423,3391-86-4,1-Octen-3-ol,C8H16O,128.12011513,Ocimum basilicum,Ocimum,KNApSAcK
+309,C00029524,29050-33-7,4-Carene,C10H16,136.12520051,Ocimum basilicum,Ocimum,KNApSAcK
+310,C00029544,562-74-3,4-Terpineol,C10H18O,154.1357652,Ocimum basilicum,Ocimum,KNApSAcK
+311,C00029633,7372-30-7,Acetylursolic acid,C32H50O4,498.37091008,Ocimum basilicum,Ocimum,KNApSAcK
+312,C00029671,10208-80-7,alpha-Muurolene,C15H24,204.18780077,Ocimum basilicum,Ocimum,KNApSAcK
+313,C00029672,473-13-2,(-)-alpha-Selinene,C15H24,204.18780077,Ocimum basilicum,Ocimum,KNApSAcK
+314,C00029674,98-55-5,alpha-Terpineol,C10H18O,154.1357652,Ocimum basilicum,Ocimum,KNApSAcK
+315,C00029679,515-69-5,alpha-Bisabolol,C15H26O,222.19836545,Ocimum basilicum,Ocimum,KNApSAcK
+316,C00029790,942591-88-0,Basilimoside,C36H60O6,588.43898965,Ocimum basilicum,Ocimum,KNApSAcK
+317,C00029791,942591-86-8,Basilol,C37H52O4,560.38656015,Ocimum basilicum,Ocimum,KNApSAcK
+318,C00029811,100-51-6,Benzenemethanol,C7H8O,108.05751488,Ocimum basilicum,Ocimum,KNApSAcK
+319,C00029816,79-77-6,beta-Ionone,C13H20O,192.15141526,Ocimum basilicum,Ocimum,KNApSAcK
+320,C00029844,76-49-3,Borneol acetate,C12H20O2,196.14632988,Ocimum basilicum,Ocimum,KNApSAcK
+321,C00029866,29837-12-5,"Cadina-1,4-diene",C15H24,204.18780077,Ocimum basilicum,Ocimum,KNApSAcK
+322,C00029881,17334-55-3,Calarene,C15H24,204.18780077,Ocimum basilicum,Ocimum,KNApSAcK
+323,C00029961,621-82-9,Cinnamic acid,C9H8O2,148.0524295,Ocimum sanctum,Ocimum,KNApSAcK
+324,C00029970,18252-46-5,cis-alpha-Bergamotene,C15H24,204.18780077,Ocimum basilicum,Ocimum,KNApSAcK
+325,C00030345,39029-41-9,gamma-Cadinene,C15H24,204.18780077,Ocimum basilicum,Ocimum,KNApSAcK
+326,C00030471,593-49-7,Heptacosane,C27H56,380.43820179,Ocimum basilicum,Ocimum,KNApSAcK
+327,C00030742,4373-41-5,"2alpha,3beta-Dihydroxyolean-12-en-28-oic acid",C30H48O4,472.35526002,Ocimum spicatum,Ocimum,KNApSAcK
+328,C00030767,119-36-8,Methyl salicylate,C8H8O3,152.04734412,Ocimum basilicum,Ocimum,KNApSAcK
+329,C00030828,124-19-6,Nonadienal,C9H18O,142.1357652,Ocimum americanum,Ocimum,KNApSAcK
+330,C00030880,124-13-0,Octanal,C8H16O,128.12011513,Ocimum basilicum,Ocimum,KNApSAcK
+331,C00031014,2538-87-6,p-Coumaraldehyde,C9H8O2,148.0524295,Ocimum basilicum,Ocimum,KNApSAcK
+332,C00031014,2538-87-6,p-Coumaraldehyde,C9H8O2,148.0524295,Ocimum sanctum,Ocimum,KNApSAcK
+333,C00031258,3387-41-5,4(10)-Thujene,C10H16,136.12520051,Ocimum basilicum,Ocimum,KNApSAcK
+334,C00031765,77171-55-2,(-)-ent-Spathulenol,C15H24O,220.18271539,Ocimum basilicum,Ocimum,KNApSAcK
+335,C00031765,77171-55-2,(-)-ent-Spathulenol,C15H24O,220.18271539,Ocimum americanum,Ocimum,KNApSAcK
+336,C00032467,545-46-0,Uvaol,C30H50O2,442.38108084,Ocimum basilicum,Ocimum,KNApSAcK
+337,C00033734,21284-22-0,Cubenol,C15H26O,222.19836545,Ocimum basilicum,Ocimum,KNApSAcK
+338,C00034452,100-52-7,Benzaldehyde,C7H6O,106.04186481,Ocimum basilicum,Ocimum,KNApSAcK
+339,C00034456,73464-47-8,beta-Gurjunene,C15H24,204.18780077,Ocimum gratissimum,Ocimum,KNApSAcK
+340,C00034456,73464-47-8,beta-Gurjunene,C15H24,204.18780077,Ocimum tenuiflorum,Ocimum,KNApSAcK
+341,C00034456,73464-47-8,beta-Gurjunene,C15H24,204.18780077,Ocimum kilimandscharicim,Ocimum,KNApSAcK
+342,C00034456,73464-47-8,beta-Gurjunene,C15H24,204.18780077,Ocimum americanum,Ocimum,KNApSAcK
+343,C00034456,73464-47-8,beta-Gurjunene,C15H24,204.18780077,Ocimum basilicum,Ocimum,KNApSAcK
+344,C00034496,34995-77-2,trans-Furanoid linalool oxide,C10H18O2,170.13067982,Ocimum basilicum,Ocimum,KNApSAcK
+345,C00034575,498-16-8,Lavandulol,C10H18O,154.1357652,Ocimum basilicum,Ocimum,KNApSAcK
+346,C00034746,5989-33-3,Z-Furanoid linalool oxide,C10H18O2,170.13067982,Ocimum basilicum,Ocimum,KNApSAcK
+347,C00034818,6537-80-0,Cichoric acid,C22H18O12,474.07982604,Ocimum basilicum,Ocimum,KNApSAcK
+348,C00034888,126-91-0,(-)-linalool,C10H18O,154.1357652,Ocimum sanctum,Ocimum,KNApSAcK
+349,C00034989,27400-72-2,(E)-Ocimene,C10H16,136.12520051,Ocimum basilicum,Ocimum,KNApSAcK
+350,C00035062,99-49-0,Carvone,C10H14O2,166.09937969,Ocimum basilicum,Ocimum,KNApSAcK
+351,C00035138,141-12-8,Neryl acetate,C12H20O2,196.14632988,Ocimum basilicum,Ocimum,KNApSAcK
+352,C00035167,26560-14-5,Zataroside A,C15H24,204.18780077,Ocimum kilimandscharicim,Ocimum,KNApSAcK
+353,C00035341,89-80-5,Menthone,C10H18O,154.1357652,Ocimum basilicum,Ocimum,KNApSAcK
+354,C00035439,10067-28-4,cis-Lanceol,C15H24O,220.18271539,Ocimum gratissimum,Ocimum,KNApSAcK
+355,C00035451,73365-77-2,"1,10-Di-epi-cubenol",C15H26O,222.19836545,Ocimum basilicum,Ocimum,KNApSAcK
+356,C00035480,505-57-7,(2E)-Hex-2-enal,C6H10O,98.07316494,Ocimum basilicum,Ocimum,KNApSAcK
+357,C00035495,589-98-0,3-Octanol,C8H18O,130.1357652,Ocimum basilicum,Ocimum,KNApSAcK
+358,C00035520,20085-19-2,alpha-Amorphene,C15H24,204.18780077,Ocimum basilicum,Ocimum,KNApSAcK
+359,C00035536,23726-93-4,beta-Damascenone,C13H18O,190.1357652,Ocimum basilicum,Ocimum,KNApSAcK
+360,C00035557,112-14-1,Caprylyl acetate,C10H20O2,172.14632988,Ocimum basilicum,Ocimum,KNApSAcK
+361,C00035801,14575-74-7,alpha-Fenchol,C10H18O,154.1357652,Ocimum basilicum,Ocimum,KNApSAcK
+362,C00036174,130233-90-8,Nepetoidin A,C17H14O6,314.07903818,Ocimum basilicum 'Purple Ruffles',Ocimum,KNApSAcK
+363,C00036174,130233-90-8,Nepetoidin A,C17H14O6,314.07903818,Ocimum selloi,Ocimum,KNApSAcK
+364,C00036174,130233-90-8,Nepetoidin A,C17H14O6,314.07903818,Ocimum gratissimum,Ocimum,KNApSAcK
+365,C00036175,55486-06-1,Nepetoidin B,C17H14O6,314.07903818,Ocimum basilicum 'Purple Ruffles',Ocimum,KNApSAcK
+366,C00036175,55486-06-1,Nepetoidin B,C17H14O6,314.07903818,Ocimum gratissimum,Ocimum,KNApSAcK
+367,C00036175,55486-06-1,Nepetoidin B,C17H14O6,314.07903818,Ocimum selloi,Ocimum,KNApSAcK
+368,C00036271,515-13-9,(-)-beta-Elemene,C15H24,204.18780077,Ocimum basilicum,Ocimum,KNApSAcK
+369,C00036308,28028-64-0,D-germacrene,C15H24,204.18780077,Ocimum basilicum,Ocimum,KNApSAcK
+370,C00036546,544-12-7,3-Hexen-1-ol,C6H12O,100.08881501,Ocimum basilicum,Ocimum,KNApSAcK
+371,C00036907,72937-55-4,cis-Calamenene,C15H22,202.1721507,Ocimum basilicum,Ocimum,KNApSAcK
+372,C00037113,41702-63-0,Epizonarene,C15H24,204.18780077,Ocimum basilicum,Ocimum,KNApSAcK
+373,C00037332,95910-36-4,Isoledene,C15H24,204.18780077,Ocimum basilicum,Ocimum,KNApSAcK
+374,C00038883,20905-74-2,"Cyanidin 3,5-di-O-glucoside",C27H31O16,611.16120995,Ocimum basilicum,Ocimum,KNApSAcK
+375,C00039894,10185-02-1,Ocimarin,C12H12O4,220.07355887,Ocimum sanctum,Ocimum,KNApSAcK
+376,C00039895,956039-36-4,Ocimumoside A,C47H91NO9,813.66938351,Ocimum sanctum,Ocimum,KNApSAcK
+377,C00039896,956039-38-6,Ocimumoside B,C47H88O15,892.61232214,Ocimum sanctum,Ocimum,KNApSAcK
+378,C00040605,19132-81-1,Ursolic aldehyde,C30H48O2,440.36543078,Ocimum basilicum,Ocimum,KNApSAcK
+379,C00045131,464-93-7,Ursane,C30H52,412.40690166,Ocimum basilicum,Ocimum,KNApSAcK
+380,C00048311,17699-05-7,alpha-Bergamotene,C15H24,204.18780077,Ocimum basilicum,Ocimum,KNApSAcK
+381,C00048335,495-62-5,Bisabolene,C15H24,204.18780077,Ocimum basilicum,Ocimum,KNApSAcK
+382,C00048486,7216-56-0,Neo-allo-ocimene,C10H16,136.12520051,Ocimum basilicum,Ocimum,KNApSAcK
+383,C00050783,1986-14-7,D-Mannuronic acid,C6H10O7,194.04265268,Ocimum basilicum,Ocimum,KNApSAcK
+384,C00050879,125-12-2,"Isoborneol, acetate",C12H20O2,196.14632988,Ocimum kilimandscharicim,Ocimum,KNApSAcK
+385,C00051532,89-78-1,Menthol,C10H20O,156.15141526,Ocimum basilicum,Ocimum,KNApSAcK
+386,C00052035,,DMAPP,C5H12O7P2,246.00582572,Ocimum basilicum,Ocimum,KNApSAcK
+387,C00052039,,IPP,C5H12O7P2,246.00582572,Ocimum basilicum,Ocimum,KNApSAcK
+388,C00052276,1632-73-1,Fenchol,C10H18O,154.1357652,Ocimum basilicum,Ocimum,KNApSAcK
+389,C00052277,13851-11-1,Fenchyl acetate,C12H20O2,196.14632988,Ocimum basilicum,Ocimum,KNApSAcK
+390,C00052446,483-73-8,Cadinene,C15H28,208.21910089,Ocimum americanum,Ocimum,KNApSAcK
+391,C00052446,483-73-8,Cadinene,C15H28,208.21910089,Ocimum basilicum,Ocimum,KNApSAcK
+392,C00052452,512-13-0,(-)-endo-Fenchol,C10H18O,154.1357652,Ocimum sanctum,Ocimum,KNApSAcK
+393,C00052504,64142-78-5,8-Hydroxylinalool,C10H18O2,170.13067982,Ocimum basilicum,Ocimum,KNApSAcK
+394,C00052671,13741-21-4,"3,7-Dimethyl-1,5-octadiene-3,7-diol",C10H18O2,170.13067982,Ocimum basilicum,Ocimum,KNApSAcK
+395,C00052803,17627-44-0,alpha-Bisabolene,C15H24,204.18780077,Ocimum basilicum,Ocimum,KNApSAcK
+396,C00052870,6895-56-3,Bergamotene,C15H24,204.18780077,Ocimum basilicum,Ocimum,KNApSAcK
+397,C00052882,3242-08-8,Elixene,C15H24,204.18780077,Ocimum basilicum,Ocimum,KNApSAcK
+398,C00052986,157374-44-2,"cis-Muurola-3, 5-diene",C15H24,204.18780077,Ocimum sanctum,Ocimum,KNApSAcK
+399,C00053014,1786-19-2,delta-Gurjunene,C15H24,204.18780077,Ocimum basilicum,Ocimum,KNApSAcK
+400,C00053057,3033-23-6,cis-Rose oxide,C10H18O,154.1357652,Ocimum basilicum,Ocimum,KNApSAcK
+401,C00053087,465-31-6,3-Methylcamphenilol,C10H18O,154.1357652,Ocimum kilimandscharicim,Ocimum,KNApSAcK
+402,C00053095,4872-34-8,MVAPP,C6H13O10P2,306.99839462,Ocimum basilicum,Ocimum,KNApSAcK
+403,C00053122,6874-36-8,cis-ocimene,C10H18,138.14085057,Ocimum basilicum,Ocimum,KNApSAcK
+404,C00053324,20053-88-7,Hotrienol,C10H16O,152.12011513,Ocimum basilicum,Ocimum,KNApSAcK
+405,C00053436,1118-27-0,FEMA 2646,C15H26O2,238.19328007,Ocimum basilicum,Ocimum,KNApSAcK
+406,C00053486,103-26-4,Methyl cinnamate,C10H10O2,162.06807956,Ocimum basilicum,Ocimum,KNApSAcK
+407,C00053486,103-26-4,Methyl cinnamate,C10H10O2,162.06807956,Ocimum,Ocimum,KNApSAcK
+408,C00053520,1118-39-4,Myrcenylacetate,C12H20O2,196.14632988,Ocimum basilicum,Ocimum,KNApSAcK
+409,C00053538,491-02-1,neoisomenthol,C10H20O,156.15141526,Ocimum basilicum,Ocimum,KNApSAcK
+410,C00053584,44914-94-5,Ocimene,C10H18,138.14085057,Ocimum basilicum,Ocimum,KNApSAcK
+411,C00053588,2442-10-6,1-Octen-3-yl acetate,C10H18O2,170.13067982,Ocimum basilicum,Ocimum,KNApSAcK
+412,C00053595,17020-22-3,Oleanolic aldehyde,C30H48O2,440.36543078,Ocimum basilicum,Ocimum,KNApSAcK
+413,C00053847,931410-54-7,"trans-Cadina-1(6),4-diene",C15H24,204.18780077,Ocimum basilicum,Ocimum,KNApSAcK
+414,C00053856,17699-16-0,trans-Sabinene hydrate,C10H18O,154.1357652,Ocimum basilicum,Ocimum,KNApSAcK
+415,C00053972,93-28-7,Aceteugenol,C12H14O3,206.09429431,Ocimum basilicum,Ocimum,KNApSAcK
+416,C00055421,133587-94-7,Cop-3(15)-en-11-ol,C15H24O,220.18271539,Ocimum americanum,Ocimum,KNApSAcK
+417,C00055703,87745-31-1,Aciphyllene,C15H24,204.18780077,Ocimum basilicum,Ocimum,KNApSAcK
+418,C00055774,1187195-00-1,"cis-Cadina-1(6),4-diene",C15H24,204.18780077,Ocimum basilicum,Ocimum,KNApSAcK
+419,C00055810,1754-62-7,(E)-Methyl cinnamate,C10H10O2,162.06807956,Ocimum basilicum,Ocimum,KNApSAcK
+420,C00057669,942591-87-9,Ocimol,C39H56O6,620.40768952,Ocimum basilicum,Ocimum,KNApSAcK
+421,C00057784,1158305-90-8,Tulsinol A,C20H22O5,342.14672381,Ocimum sanctum,Ocimum,KNApSAcK
+422,C00057785,1158305-92-0,Tulsinol B,C30H32O6,488.21988875,Ocimum sanctum,Ocimum,KNApSAcK
+423,C00057786,1158305-95-3,Tulsinol C,C30H32O6,488.21988875,Ocimum sanctum,Ocimum,KNApSAcK
+424,C00057787,1158305-97-5,Tulsinol D,C31H36O7,520.2461035,Ocimum sanctum,Ocimum,KNApSAcK
+425,C00057788,1158305-98-6,Tulsinol E,C40H44O8,652.30361838,Ocimum sanctum,Ocimum,KNApSAcK
+426,C00057789,1158306-01-4,Tulsinol F,C30H32O6,488.21988875,Ocimum sanctum,Ocimum,KNApSAcK
+427,C00057790,1158306-03-6,Tulsinol G,C20H22O5,342.14672381,Ocimum sanctum,Ocimum,KNApSAcK
+428,C00058860,4821-04-9,alpha-Terpinenyl acetate,C12H20O2,196.14632988,Ocimum basilicum,Ocimum,KNApSAcK
+429,C00059005,104245-48-9,alpha-Muurolol,C15H28O,224.21401552,Ocimum basilicum,Ocimum,KNApSAcK
+430,C00059181,11070-72-7,Cadinol,C15H28O,224.21401552,Ocimum basilicum,Ocimum,KNApSAcK
+431,C00059948,143929-11-7,Veridiflorol,C15H26O,222.19836545,Ocimum basilicum,Ocimum,KNApSAcK
+432,C00060409,178033-56-2,Cyanidin 3-O-coumaroylglucoside-5-O-glucoside,C36H37O18,757.19798938,Ocimum basilicum,Ocimum,KNApSAcK
+433,C00060644,19713-73-6,cis-Methyl cinnamate,C10H10O2,162.06807956,Ocimum basilicum,Ocimum,KNApSAcK
+434,C00060724,205505-30-2,5-(beta-D-Glucopyranosyloxy)-7-hydroxy-2-(4-hydroxy-3-methoxyphenyl)-3-[[6-O-[(2E)-3-(4-hydroxyphenyl)-1-oxo-2-propen-1-yl]-beta-D-glucopyranosyl]oxy]-1-benzopyrylium,C37H39O18,771.21363945,Ocimum basilicum,Ocimum,KNApSAcK
+435,C00060725,205505-31-3,Cyanidin 3-(6''-O-trans-p-coumaroyl)-beta-D-glucoside,C30H27O13,595.14516595,Ocimum basilicum,Ocimum,KNApSAcK
+436,C00060825,22020-28-6,"Butyl 3-(3,4-dihydroxyphenyl)acrylate",C13H16O4,236.104859,Ocimum basilicum,Ocimum,KNApSAcK
+437,C00060997,23727-15-3,Campholenal,C10H16O,152.12011513,Ocimum basilicum,Ocimum,KNApSAcK
+438,C00061239,2807-19-4,2-Hexen-4-yn-1-ol,C6H8O,96.05751488,Ocimum basilicum,Ocimum,KNApSAcK
+439,C00061587,35734-61-3,3-Hydroxy-beta-damascone,C13H20O2,208.14632988,Ocimum basilicum,Ocimum,KNApSAcK
+440,C00061639,3724-65-0,2-Butenoic acid,C4H6O2,86.03677944,Ocimum basilicum,Ocimum,KNApSAcK
+441,C00061895,47851-83-2,"Peonidin 3,5-O-di-beta-glucopyranoside",C28H33O16,625.17686001,Ocimum basilicum,Ocimum,KNApSAcK
+442,C00061920,488-97-1,Cyclofenchene,C10H16,136.12520051,Ocimum basilicum,Ocimum,KNApSAcK
+443,C00062272,57576-09-7,Isopulegyl acetate,C12H20O2,196.14632988,Ocimum basilicum,Ocimum,KNApSAcK
+444,C00062435,6126-50-7,4-Hexen-1-ol,C6H12O,100.08881501,Ocimum basilicum,Ocimum,KNApSAcK
+445,C00062519,628-68-2,Diethylene glycol diacetate,C8H14O5,190.08412356,Ocimum basilicum,Ocimum,KNApSAcK

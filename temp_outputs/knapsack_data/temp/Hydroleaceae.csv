@@ -1,0 +1,197 @@
+,C_ID,CAS ID,example_compound_name,Molecular formula,Mw,Organism,knapsack_search_term,Source
+0,C00001173,50-70-4,Sorbitol,C6H14O6,182.07903818,Aragoa cundinamarcensis,Nama,KNApSAcK
+1,C00001749,24880-43-1,(-)-Mesembrine,C17H23NO3,289.16779361,Scaveola namaquense,Nama,KNApSAcK
+2,C00001749,24880-43-1,(-)-Mesembrine,C17H23NO3,289.16779361,Sceletium namaquense,Nama,KNApSAcK
+3,C00003073,479-98-1,Aucubin,C15H22O9,346.1263823,Aragoa cundinamarcensis,Nama,KNApSAcK
+4,C00003075,2415-24-9,Catalpol,C15H22O10,362.12129692,Aragoa cundinamarcensis,Nama,KNApSAcK
+5,C00010510,1399-49-1,Globularin,C24H28O11,492.16316174,Aragoa cundinamarcensis,Nama,KNApSAcK
+6,C00010626,81720-08-3,Rehmannioside D,C27H42O20,686.22694379,Aragoa cundinamarcensis,Nama,KNApSAcK
+7,C00010630,64421-27-8,Mussaenoside,C17H26O10,390.15259705,Aragoa cundinamarcensis,Nama,KNApSAcK
+8,C00027613,35722-04-4,(-)-Tortuosamine,C20H26N2O2,326.19942809,Sceletium namaquense,Nama,KNApSAcK
+9,C00027638,35135-35-4,(+)-Sceletium A4,C20H24N2O2,324.18377802,Sceletium namaquense,Nama,KNApSAcK
+10,C00036040,625855-85-8,Aragoside,C34H44O20,772.24259385,Aragoa cundinamarcensis,Nama,KNApSAcK
+11,C00036118,93930-20-2,Gardoside methyl ester,C17H24O10,388.13694699,Aragoa cundinamarcensis,Nama,KNApSAcK
+0,C00004640,33429-83-3,"Quercetin 3,4'-dimethyl ether",C17H14O7,330.0739528,Asteriscus graveolens,Steris,KNApSAcK
+1,C00004684,5188-73-8,Axillarin,C17H14O8,346.06886743,Asteriscus sericeus,Steris,KNApSAcK
+2,C00004693,10173-01-0,Jaceidin,C18H16O8,360.08451749,Asteriscus graveolens,Steris,KNApSAcK
+3,C00004693,10173-01-0,Jaceidin,C18H16O8,360.08451749,Asteriscus sericeus,Steris,KNApSAcK
+4,C00004694,17313-52-9,Centaureidin,C18H16O8,360.08451749,Asteriscus sericeus,Steris,KNApSAcK
+5,C00005149,16290-07-6,Kaempferol 7-O-beta-D-glucopyranoside,C21H20O11,448.10056148,Asteriscus graveolens,Steris,KNApSAcK
+6,C00005595,137129-37-4,Tamarixetin 3-robinobioside,C28H32O16,624.16903498,Asteriscus graveolens,Steris,KNApSAcK
+7,C00011472,113332-18-6,"cis-6-Ethenyldihydro-2,6-dimethyl-2-(4-methyl-3-pentenyl)-2H-pyran-3(4H)-one",C15H24O2,236.17763001,Asteriscus sericeus,Steris,KNApSAcK
+8,C00011473,113332-16-4,"(2alpha,3beta,6alpha)-6-Ethenyltetrahydro-2,6-dimethyl-2-(4-methyl-3-pentenyl)-2H-pyran-3-ol",C15H26O2,238.19328007,Asteriscus sericeus,Steris,KNApSAcK
+9,C00011676,96400-35-0,"6-(1,5-Dimethyl-4-hexenyl)-6-hydroxy-3-methyl-2-cyclohexen-1-one",C15H24O2,236.17763001,Asteriscus graveolens,Steris,KNApSAcK
+10,C00012439,83488-75-9,Asteriscunolide A,C15H18O3,246.12559444,Asteriscus aquaticus,Steris,KNApSAcK
+11,C00012439,83488-75-9,Asteriscunolide A,C15H18O3,246.12559444,Asteriscus graveolens,Steris,KNApSAcK
+12,C00012439,83488-75-9,Asteriscunolide A,C15H18O3,246.12559444,Asteriscus vogelii,Steris,KNApSAcK
+13,C00012440,90383-29-2,(-)-Asteriscunolide B,C15H18O3,246.12559444,Asteriscus aquaticus,Steris,KNApSAcK
+14,C00012440,90383-29-2,(-)-Asteriscunolide B,C15H18O3,246.12559444,Asteriscus graveolens,Steris,KNApSAcK
+15,C00012441,96726-87-3,Asteriscunolide C,C15H18O3,246.12559444,Asteriscus aquaticus,Steris,KNApSAcK
+16,C00012441,96726-87-3,Asteriscunolide C,C15H18O3,246.12559444,Asteriscus vogelii,Steris,KNApSAcK
+17,C00012441,96726-87-3,Asteriscunolide C,C15H18O3,246.12559444,Asteriscus graveolens,Steris,KNApSAcK
+18,C00012442,96726-86-2,Asteriscunolide D,C15H18O3,246.12559444,Asteriscus aquaticus,Steris,KNApSAcK
+19,C00012442,96726-86-2,Asteriscunolide D,C15H18O3,246.12559444,Asteriscus graveolens,Steris,KNApSAcK
+20,C00012442,96726-86-2,Asteriscunolide D,C15H18O3,246.12559444,Asteriscus vogelii,Steris,KNApSAcK
+21,C00020604,52940-08-6,"1,8-Epoxyosmitopisn",C15H18O3,246.12559444,Osmitopsis asteriscoides,Steris,KNApSAcK
+22,C00020613,52940-07-5,"4,5-Epoxyosmitopsin",C15H20O3,248.1412445,Osmitopsis asteriscoides,Steris,KNApSAcK
+23,C00020709,53527-48-3,Osmitopsin,C15H20O2,232.14632988,Osmitopsis asteriscoides,Steris,KNApSAcK
+24,C00021437,,15-Asteriscanoic acid,C15H24O3,252.17254463,Asteriscus graveolens,Steris,KNApSAcK
+25,C00021438,97649-15-5,Asteriscanolide,C15H22O3,250.15689457,Asteriscus aquaticus,Steris,KNApSAcK
+26,C00021439,96386-59-3,"6,7,9,10-Tetradehydroasteriscanolide",C15H18O3,246.12559444,Asteriscus graveolens,Steris,KNApSAcK
+27,C00021967,125132-06-1,Aquatolide,C15H18O3,246.12559444,Asteriscus aquaticus,Steris,KNApSAcK
+0,C00000208,59-67-6,Vitamin B3,C6H5NO2,123.03202841,Lycium chinense,Lycium,KNApSAcK
+1,C00000775,59-43-8,Thiamine,C12H17N4OS,265.11230692,Lycium chinense,Lycium,KNApSAcK
+2,C00000931,144-68-3,Zeaxanthin,C40H56O2,568.42803103,Lycium barbarum,Lycium,KNApSAcK
+3,C00000931,144-68-3,Zeaxanthin,C40H56O2,568.42803103,Lycium chinense,Lycium,KNApSAcK
+4,C00001408,51-61-6,Dopamine,C8H11NO2,153.0789786,Gymnocalycium valnicekianum,Lycium,KNApSAcK
+5,C00001408,51-61-6,Dopamine,C8H11NO2,153.0789786,Gymnocalycium netrelianum,Lycium,KNApSAcK
+6,C00001408,51-61-6,Dopamine,C8H11NO2,153.0789786,Gymnocalycium oenanthemum,Lycium,KNApSAcK
+7,C00001408,51-61-6,Dopamine,C8H11NO2,153.0789786,Gymnocalycium quehlianum,Lycium,KNApSAcK
+8,C00001408,51-61-6,Dopamine,C8H11NO2,153.0789786,Gymnocalycium monvillei,Lycium,KNApSAcK
+9,C00001408,51-61-6,Dopamine,C8H11NO2,153.0789786,Gymnocalycium comarapense,Lycium,KNApSAcK
+10,C00001408,51-61-6,Dopamine,C8H11NO2,153.0789786,Gymnocalycium riograndense,Lycium,KNApSAcK
+11,C00001408,51-61-6,Dopamine,C8H11NO2,153.0789786,Gymnocalycium stellatum,Lycium,KNApSAcK
+12,C00001408,51-61-6,Dopamine,C8H11NO2,153.0789786,Gymnocalycium striglianum,Lycium,KNApSAcK
+13,C00001408,51-61-6,Dopamine,C8H11NO2,153.0789786,Gymnocalycium uebelmannanum,Lycium,KNApSAcK
+14,C00001419,54-04-6,Mescaline,C11H17NO3,211.12084342,Gymnocalycium oenanthemum,Lycium,KNApSAcK
+15,C00001419,54-04-6,Mescaline,C11H17NO3,211.12084342,Gymnocalycium stellatum,Lycium,KNApSAcK
+16,C00001419,54-04-6,Mescaline,C11H17NO3,211.12084342,Gymnocalycium comarapense,Lycium,KNApSAcK
+17,C00001419,54-04-6,Mescaline,C11H17NO3,211.12084342,Gymnocalycium monvillei,Lycium,KNApSAcK
+18,C00001419,54-04-6,Mescaline,C11H17NO3,211.12084342,Gymnocalycium netrelianum,Lycium,KNApSAcK
+19,C00001419,54-04-6,Mescaline,C11H17NO3,211.12084342,Gymnocalycium striglianum,Lycium,KNApSAcK
+20,C00001419,54-04-6,Mescaline,C11H17NO3,211.12084342,Gymnocalycium uebelmannanum,Lycium,KNApSAcK
+21,C00001419,54-04-6,Mescaline,C11H17NO3,211.12084342,Gymnocalycium valnicekianum,Lycium,KNApSAcK
+22,C00001419,54-04-6,Mescaline,C11H17NO3,211.12084342,Gymnocalycium riograndense,Lycium,KNApSAcK
+23,C00001419,54-04-6,Mescaline,C11H17NO3,211.12084342,Gymnocalycium quehlianum,Lycium,KNApSAcK
+24,C00001429,50-67-9,5-Hydroxytryptamine,C10H12N2O,176.09496302,Lycium barbarum,Lycium,KNApSAcK
+25,C00001434,61-54-1,Tryptamine,C10H12N2,160.1000484,Lycium barbarum,Lycium,KNApSAcK
+26,C00001502,68-94-0,Hypoxanthine,C5H4N4O,136.03851078,Lycium chinense,Lycium,KNApSAcK
+27,C00002038,53185-12-9,Fagomine,C6H13NO3,147.08954329,Lycium chinense,Lycium,KNApSAcK
+28,C00002293,101-31-5,Hyoscyamine,C17H23NO3,289.16779361,Lycium chinense,Lycium,KNApSAcK
+29,C00002293,101-31-5,Hyoscyamine,C17H23NO3,289.16779361,Lycium barbarum,Lycium,KNApSAcK
+30,C00002499,92-61-5,Scopoletin,C10H8O4,192.04225874,Lycium chinense,Lycium,KNApSAcK
+31,C00002499,92-61-5,Scopoletin,C10H8O4,192.04225874,Lycium barnarum,Lycium,KNApSAcK
+32,C00002499,92-61-5,Scopoletin,C10H8O4,192.04225874,Lycium chinense var.potaninii,Lycium,KNApSAcK
+33,C00003657,79-63-0,Lanosterol,C30H50O,426.38616622,Lycium chinense,Lycium,KNApSAcK
+34,C00003674,83-48-7,beta-Stigmasterol,C29H48O,412.37051615,Lycium chinense,Lycium,KNApSAcK
+35,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Lycium chinense,Lycium,KNApSAcK
+36,C00003783,144-67-2,Physalien,C72H116O4,1044.88736219,Lycium barbarum,Lycium,KNApSAcK
+37,C00003783,144-67-2,Physalien,C72H116O4,1044.88736219,Lycium chinense,Lycium,KNApSAcK
+38,C00005239,34336-18-0,Kaempferol 3-rutinoside-7-glucoside,C33H40O20,756.21129372,Lycium halimifolium,Lycium,KNApSAcK
+39,C00005472,30311-61-6,Quercetin 3-rutinoside-7-glucoside,C33H40O21,772.20620834,Lycium halimifolium,Lycium,KNApSAcK
+40,C00007205,14464-90-5,(+)-Lyoniresinol,C22H28O8,420.17841787,Lycium chinense,Lycium,KNApSAcK
+41,C00007247,463-40-1,alpha-Linolenic acid,C18H30O2,278.2245802,Lycium chinense,Lycium,KNApSAcK
+42,C00007368,16910-32-0,Obtusifoliol,C30H50O,426.38616622,Lycium chinense,Lycium,KNApSAcK
+43,C00007403,98-79-3,5-Oxoproline,C5H7NO3,129.0425931,Lycium chinense,Lycium,KNApSAcK
+44,C00012761,17081-85-5,"1,2-Dehydro-alpha-cyperone",C15H20O,216.15141526,Lycium chinense,Lycium,KNApSAcK
+45,C00025997,549-21-3,Berlambine,C20H17NO5,351.11067266,Berberis lycium Royle,Lycium,KNApSAcK
+46,C00026019,84435-36-9,Punjabine,C35H32N2O7,592.22095139,Berberis lycium,Lycium,KNApSAcK
+47,C00028001,127414-86-2,Calystegine B1,C7H13NO4,175.08445791,Lycium chinense,Lycium,KNApSAcK
+48,C00028433,75288-96-9,"1,14-Bis(dihydrocaffeoyl)spermine",C28H42N4O6,530.3104351,Lycium chinense,Lycium,KNApSAcK
+49,C00028498,125708-06-7,Lyciumin A,C42H51N9O12,873.36571816,Lycium chinense,Lycium,KNApSAcK
+50,C00029816,79-77-6,beta-Ionone,C13H20O,192.15141526,Lycium chinense,Lycium,KNApSAcK
+51,C00029961,621-82-9,Cinnamic acid,C9H8O2,148.0524295,Lycium chinense,Lycium,KNApSAcK
+52,C00032513,32911-62-9,Withanolide A,C28H38O6,470.26683895,Lycium chinense,Lycium,KNApSAcK
+53,C00033134,56973-41-2,Lycium substance B,C28H38O5,454.27192432,Lycium chinense,Lycium,KNApSAcK
+54,C00035552,178231-95-3,Calystegine B3,C7H13NO4,175.08445791,Lycium chinense,Lycium,KNApSAcK
+55,C00035737,116-26-7,Safranal,C10H14O,150.10446507,Lycium chinense,Lycium,KNApSAcK
+56,C00036313,87585-32-8,(+)-Lyoniresinol 3alpha-O-beta-D-glucopyranoside,C28H38O13,582.2312413,Lycium chinense,Lycium,KNApSAcK
+57,C00036613,197449-09-5,6-Deoxy-fagomine,C6H13NO2,131.09462867,Lycium chinense,Lycium,KNApSAcK
+58,C00036863,165905-26-0,Calystegine A5,C7H13NO3,159.08954329,Lycium chinense,Lycium,KNApSAcK
+59,C00036864,177794-04-6,Calystegine A6,C7H13NO3,159.08954329,Lycium chinense,Lycium,KNApSAcK
+60,C00036865,197565-90-5,Calystegine A7,C7H13NO3,159.08954329,Lycium chinense,Lycium,KNApSAcK
+61,C00036866,184046-85-3,Calystegine B4,C7H13NO4,175.08445791,Lycium chinense,Lycium,KNApSAcK
+62,C00036867,197565-91-6,Calystegine B5,C7H13NO4,175.08445791,Lycium chinense,Lycium,KNApSAcK
+63,C00036868,156705-04-3,Calystegine C1,C7H13NO5,191.07937253,Lycium chinense,Lycium,KNApSAcK
+64,C00036869,190957-44-9,Calystegine C2,C7H13NO5,191.07937253,Lycium chinense,Lycium,KNApSAcK
+65,C00036870,177794-03-5,Calystegine N1,C7H14N2O3,174.10044233,Lycium chinense,Lycium,KNApSAcK
+66,C00037556,184045-65-6,N-Methyl-calystegine B2,C8H15NO4,189.10010798,Lycium chinense,Lycium,KNApSAcK
+67,C00042146,862599-39-1,5-(Methoxymethyl)-1H-pyrrole-2-carbaldehyde,C7H9NO2,139.06332854,Lycium chinense,Lycium,KNApSAcK
+68,C00048188,107-35-7,Taurine,C2H7NO3S,125.01466383,Lycium chinense,Lycium,KNApSAcK
+69,C00050430,62624-30-0,Ascorbic acid,C6H8O6,176.03208799,Lycium chinense,Lycium,KNApSAcK
+70,C00050664,1106-35-0,24-Methyllophenol,C29H50O,414.38616622,Lycium chinense,Lycium,KNApSAcK
+71,C00051976,,"3,5-Dimethoxy-4-hydroxyphenethylamine",C10H15NO3,197.10519335,Gymnocalycium stellatum,Lycium,KNApSAcK
+72,C00051976,,"3,5-Dimethoxy-4-hydroxyphenethylamine",C10H15NO3,197.10519335,Gymnocalycium riograndense,Lycium,KNApSAcK
+73,C00051976,,"3,5-Dimethoxy-4-hydroxyphenethylamine",C10H15NO3,197.10519335,Gymnocalycium quehlianum,Lycium,KNApSAcK
+74,C00051976,,"3,5-Dimethoxy-4-hydroxyphenethylamine",C10H15NO3,197.10519335,Gymnocalycium oenanthemum,Lycium,KNApSAcK
+75,C00051976,,"3,5-Dimethoxy-4-hydroxyphenethylamine",C10H15NO3,197.10519335,Gymnocalycium netrelianum,Lycium,KNApSAcK
+76,C00051976,,"3,5-Dimethoxy-4-hydroxyphenethylamine",C10H15NO3,197.10519335,Gymnocalycium monvillei,Lycium,KNApSAcK
+77,C00051976,,"3,5-Dimethoxy-4-hydroxyphenethylamine",C10H15NO3,197.10519335,Gymnocalycium comarapense,Lycium,KNApSAcK
+78,C00051976,,"3,5-Dimethoxy-4-hydroxyphenethylamine",C10H15NO3,197.10519335,Gymnocalycium valnicekianum,Lycium,KNApSAcK
+79,C00051976,,"3,5-Dimethoxy-4-hydroxyphenethylamine",C10H15NO3,197.10519335,Gymnocalycium uebelmannanum,Lycium,KNApSAcK
+80,C00051976,,"3,5-Dimethoxy-4-hydroxyphenethylamine",C10H15NO3,197.10519335,Gymnocalycium striglianum,Lycium,KNApSAcK
+81,C00051978,1477-68-5,4-Hydroxy-3-methoxyphenethylamine,C9H13NO2,167.09462867,Gymnocalycium stellatum,Lycium,KNApSAcK
+82,C00051978,1477-68-5,4-Hydroxy-3-methoxyphenethylamine,C9H13NO2,167.09462867,Gymnocalycium valnicekianum,Lycium,KNApSAcK
+83,C00051978,1477-68-5,4-Hydroxy-3-methoxyphenethylamine,C9H13NO2,167.09462867,Gymnocalycium uebelmannanum,Lycium,KNApSAcK
+84,C00051978,1477-68-5,4-Hydroxy-3-methoxyphenethylamine,C9H13NO2,167.09462867,Gymnocalycium striglianum,Lycium,KNApSAcK
+85,C00051978,1477-68-5,4-Hydroxy-3-methoxyphenethylamine,C9H13NO2,167.09462867,Gymnocalycium riograndense,Lycium,KNApSAcK
+86,C00051978,1477-68-5,4-Hydroxy-3-methoxyphenethylamine,C9H13NO2,167.09462867,Gymnocalycium quehlianum,Lycium,KNApSAcK
+87,C00051978,1477-68-5,4-Hydroxy-3-methoxyphenethylamine,C9H13NO2,167.09462867,Gymnocalycium oenanthemum,Lycium,KNApSAcK
+88,C00051978,1477-68-5,4-Hydroxy-3-methoxyphenethylamine,C9H13NO2,167.09462867,Gymnocalycium netrelianum,Lycium,KNApSAcK
+89,C00051978,1477-68-5,4-Hydroxy-3-methoxyphenethylamine,C9H13NO2,167.09462867,Gymnocalycium monvillei,Lycium,KNApSAcK
+90,C00051978,1477-68-5,4-Hydroxy-3-methoxyphenethylamine,C9H13NO2,167.09462867,Gymnocalycium comarapense,Lycium,KNApSAcK
+91,C00051979,,"4,5-Dihydroxy-3-methoxyphenethylamine",C9H13NO3,183.08954329,Gymnocalycium valnicekianum,Lycium,KNApSAcK
+92,C00051979,,"4,5-Dihydroxy-3-methoxyphenethylamine",C9H13NO3,183.08954329,Gymnocalycium uebelmannanum,Lycium,KNApSAcK
+93,C00051979,,"4,5-Dihydroxy-3-methoxyphenethylamine",C9H13NO3,183.08954329,Gymnocalycium stellatum,Lycium,KNApSAcK
+94,C00051979,,"4,5-Dihydroxy-3-methoxyphenethylamine",C9H13NO3,183.08954329,Gymnocalycium comarapense,Lycium,KNApSAcK
+95,C00051979,,"4,5-Dihydroxy-3-methoxyphenethylamine",C9H13NO3,183.08954329,Gymnocalycium monvillei,Lycium,KNApSAcK
+96,C00051979,,"4,5-Dihydroxy-3-methoxyphenethylamine",C9H13NO3,183.08954329,Gymnocalycium netrelianum,Lycium,KNApSAcK
+97,C00051979,,"4,5-Dihydroxy-3-methoxyphenethylamine",C9H13NO3,183.08954329,Gymnocalycium oenanthemum,Lycium,KNApSAcK
+98,C00051979,,"4,5-Dihydroxy-3-methoxyphenethylamine",C9H13NO3,183.08954329,Gymnocalycium quehlianum,Lycium,KNApSAcK
+99,C00051979,,"4,5-Dihydroxy-3-methoxyphenethylamine",C9H13NO3,183.08954329,Gymnocalycium riograndense,Lycium,KNApSAcK
+100,C00051979,,"4,5-Dihydroxy-3-methoxyphenethylamine",C9H13NO3,183.08954329,Gymnocalycium striglianum,Lycium,KNApSAcK
+101,C00051985,608-07-1,5-Methoxytryptamine,C11H14N2O,190.11061308,Lycium barbarum,Lycium,KNApSAcK
+102,C00052006,73-31-4,Melatonin,C13H16N2O2,232.12117777,Lycium barbarum,Lycium,KNApSAcK
+103,C00054001,103188-49-4,N-trans-Caffeoyldopamine,C17H17NO5,315.11067266,Lycium chinense,Lycium,KNApSAcK
+104,C00054015,164991-67-7,"1,10-Bis(dihydrocaffeoyl)spermine",C28H42N4O6,530.3104351,Lycium chinense,Lycium,KNApSAcK
+105,C00054045,562043-82-7,Ascorbic acid 2-beta-D-glucoside,C12H18O11,338.08491142,Lycium barbarum,Lycium,KNApSAcK
+106,C00054418,20194-67-6,"2,3,5,6,8,8a-Hexahydro-2,5,5,8a-tetramethyl-7H-1-benzopyran-7-one",C13H20O2,208.14632988,Lycium chinense,Lycium,KNApSAcK
+107,C00056680,1228555-12-1,Lyciumol A,C32H54O5,518.39712483,Lycium chinense,Lycium,KNApSAcK
+108,C00056681,1228555-13-2,Lyciumol B,C30H50O5,490.36582471,Lycium chinense,Lycium,KNApSAcK
+109,C00056753,125756-66-3,Lyciumin B,C44H52N10O11,896.38170258,Lycium chinense,Lycium,KNApSAcK
+110,C00057181,188709-97-9,Mono[5-methyl-2-(1-methylethyl)cyclohexyl] butanedioate,C14H24O4,256.16745925,Lycium barbarum,Lycium,KNApSAcK
+111,C00057455,5835-18-7,"1,5,5,9-Tetramethyl-10-oxabicyclo[4.4.0]decan-3-one",C13H22O2,210.16197995,Lycium chinense,Lycium,KNApSAcK
+0,C00003867,25739-41-7,Velutin,C17H14O6,314.07903818,Wigandia urens,Wigandia,KNApSAcK
+1,C00004571,15486-33-6,"Kaempferol 7,4'-dimethyl ether",C17H14O6,314.07903818,Wigandia urens,Wigandia,KNApSAcK
+2,C00004649,6068-80-0,"Quercetin 7,3',4'-trimethyl ether",C18H16O7,344.08960287,Wigandia urens,Wigandia,KNApSAcK
+3,C00050762,637778-48-4,8-Methoxy-2-methyl-2-(4-methyl-3-pentenyl)-2H-1-benzopyran-6-ol,C17H22O3,274.15689457,Wigandia urens,Wigandia,KNApSAcK
+0,C00000674,491-70-3,"5,7,3',4'-Tetrahydroxyflavone",C15H10O6,286.04773805,Bacopa monniera,Bacopa,KNApSAcK
+1,C00003686,18444-66-1,Cucurbitacin E,C32H44O8,556.30361838,Bacopa monnieri,Bacopa,KNApSAcK
+2,C00003817,520-36-5,Apigenin,C15H10O5,270.05282343,Bacopa monniera,Bacopa,KNApSAcK
+3,C00025634,68711-77-3,"1,2-Dehydroapateline",C34H30N2O5,546.21547208,Bacopa monniera,Bacopa,KNApSAcK
+4,C00025673,68779-86-2,(+)-N-Methylapateline,C35H34N2O5,562.24677221,Bacopa monniera,Bacopa,KNApSAcK
+5,C00026012,1263-79-2,Phaeanthine,C38H42N2O6,622.30428709,Bacopa monniera,Bacopa,KNApSAcK
+6,C00029767,178064-11-4,Bacopasaponin A,C40H64O12,736.43977751,Bacopa monnieri,Bacopa,KNApSAcK
+7,C00029768,178064-12-5,Bacopasaponin B,C40H64O12,736.43977751,Bacopa monnieri,Bacopa,KNApSAcK
+8,C00029769,178064-13-6,Bacopasaponin C,C46H74O17,898.49260094,Bacopa monnieri,Bacopa,KNApSAcK
+9,C00029770,181373-38-6,Bacopasaponin D,C41H66O13,766.4503422,Bacopa monnieri,Bacopa,KNApSAcK
+10,C00029771,267895-16-9,Bacopasaponin E,C51H82O21,1030.53485968,Bacopa monnieri,Bacopa,KNApSAcK
+11,C00029772,267895-17-0,Bacopasaponin F,C52H84O22,1060.54542437,Bacopa monnieri,Bacopa,KNApSAcK
+12,C00029773,478036-61-2,Bacopasaponin G,C40H64O12,736.43977751,Bacopa monnieri,Bacopa,KNApSAcK
+13,C00029774,382148-47-2,Bacopaside I,C46H74O20S,978.44941554,Bacopa monnieri,Bacopa,KNApSAcK
+14,C00029775,382146-66-9,Bacopaside II,C47H76O18,928.50316563,Bacopa monnieri,Bacopa,KNApSAcK
+15,C00029776,478036-60-1,Bacopaside III,C41H66O16S,846.40715679,Bacopa monnieri,Bacopa,KNApSAcK
+16,C00029777,155545-03-2,Bacopaside IV,C41H66O13,766.4503422,Bacopa monnieri,Bacopa,KNApSAcK
+17,C00029777,155545-03-2,Bacopaside IV,C41H66O13,766.4503422,Bacopa monniera WETTST.,Bacopa,KNApSAcK
+18,C00029778,871706-74-0,Bacopaside N1,C42H68O14,796.46090688,Bacopa monnieri,Bacopa,KNApSAcK
+19,C00029779,871706-75-1,Bacopaside N2,C42H68O14,796.46090688,Bacopa monnieri,Bacopa,KNApSAcK
+20,C00029780,620592-16-7,Bacopaside V,C41H66O13,766.4503422,Bacopa monniera WETTST.,Bacopa,KNApSAcK
+21,C00029780,620592-16-7,Bacopaside V,C41H66O13,766.4503422,Bacopa monnieri,Bacopa,KNApSAcK
+22,C00029781,94443-88-6,Bacopaside X,C46H74O17,898.49260094,Bacopa monnieri,Bacopa,KNApSAcK
+23,C00029782,58798-94-0,Bacoside A1,C40H64O12,736.43977751,Bacopa monnieri,Bacopa,KNApSAcK
+24,C00029783,58798-95-1,Bacoside A2,C46H74O17,898.49260094,Bacopa monnieri,Bacopa,KNApSAcK
+25,C00029784,157408-08-7,Bacoside A3,C47H76O18,928.50316563,Bacopa monnieri,Bacopa,KNApSAcK
+26,C00029785,198014-94-7,Bacosine,C30H48O3,456.3603454,Bacopa monnieri,Bacopa,KNApSAcK
+27,C00029786,886438-84-2,Bacosterol-3-O-beta-D-glucopyranoside,C35H60O6,576.43898965,Bacopa monnieri,Bacopa,KNApSAcK
+28,C00033312,136083-85-7,Plantainoside B,C23H26O11,478.14751167,Bacopa monniera,Bacopa,KNApSAcK
+29,C00034445,942041-62-5,Bacobitacin A,C32H44O9,572.298533,Bacopa monnieri,Bacopa,KNApSAcK
+30,C00034446,942041-63-6,Bacobitacin B,C34H46O9,598.31418307,Bacopa monnieri,Bacopa,KNApSAcK
+31,C00034447,942041-64-7,Bacobitacin C,C54H80O24,1112.50395349,Bacopa monnieri,Bacopa,KNApSAcK
+32,C00034448,942041-65-8,Bacobitacin D,C54H80O25,1128.49886811,Bacopa monnieri,Bacopa,KNApSAcK
+33,C00034597,67884-12-2,Martynoside,C31H40O15,652.23672061,Bacopa monniera,Bacopa,KNApSAcK
+34,C00034607,557788-14-4,Monnieraside I,C21H24O9,420.14203237,Bacopa monnieri,Bacopa,KNApSAcK
+35,C00034607,557788-14-4,Monnieraside I,C21H24O9,420.14203237,Bacopa monniera,Bacopa,KNApSAcK
+36,C00034608,557788-15-5,Monnieraside III,C21H24O10,436.13694699,Bacopa monnieri,Bacopa,KNApSAcK
+37,C00034608,557788-15-5,Monnieraside III,C21H24O10,436.13694699,Bacopa monniera,Bacopa,KNApSAcK
+38,C00038575,935756-71-1,Bacopaside VI,C41H66O16S,846.40715679,Bacopa monnieri,Bacopa,KNApSAcK
+39,C00051628,478036-63-4,Monnieraside II,C24H28O11,492.16316174,Bacopa monniera,Bacopa,KNApSAcK

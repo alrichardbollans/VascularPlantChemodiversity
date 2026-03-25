@@ -1,0 +1,1535 @@
+,C_ID,CAS ID,example_compound_name,Molecular formula,Mw,Organism,knapsack_search_term,Source
+0,C00001255,506-52-5,Hexacosan-1-ol,C26H54O,382.41746634,Mollinedia marliae,Mollinedia,KNApSAcK
+1,C00003467,150-86-7,Phytol,C20H40O,296.3079159,Mollinedia marliae,Mollinedia,KNApSAcK
+2,C00025334,66648-43-9,N-trans-Feruloyltyramine,C18H19NO4,313.1314081,Mollinedia marliae,Mollinedia,KNApSAcK
+3,C00025334,66648-43-9,N-trans-Feruloyltyramine,C18H19NO4,313.1314081,Mollinedia gilgiana,Mollinedia,KNApSAcK
+4,C00037482,111900-39-1,Marliolide,C19H34O3,310.25079495,Mollinedia marliae,Mollinedia,KNApSAcK
+0,C00011015,64911-68-8,Angelicoidenol,C10H18O2,170.13067982,Hedycarya angustifolia,Hedycarya,KNApSAcK
+1,C00011710,21657-90-9,Hedycaryol,C15H26O,222.19836545,Hedycarya angustifolia,Hedycarya,KNApSAcK
+0,C00001822,476-70-0,(+)-Boldine,C19H21NO4,327.14705817,Boldea fragrans,Boldea,KNApSAcK
+0,C00001822,476-70-0,(+)-Boldine,C19H21NO4,327.14705817,Peumus boldus,Peumus,KNApSAcK
+1,C00001869,3019-51-0,(S)-Isoboldine,C19H21NO4,327.14705817,Peumus boldus,Peumus,KNApSAcK
+2,C00003027,512-85-6,Ascaridole,C10H16O2,168.11502975,Peumus boldus,Peumus,KNApSAcK
+3,C00005551,69760-70-9,Isorhamnetin 3-alpha-L-arabinopyranoside-7-rhamnoside,C27H30O15,594.15847029,Peumus boldus,Peumus,KNApSAcK
+4,C00005557,17331-71-4,Isorhamnetin 3-O-beta-glucopyranoside-7-O-alpha-rhamnopyranoside,C28H32O16,624.16903498,Peumus boldus,Peumus,KNApSAcK
+5,C00025652,2196-60-3,(+)-Coclaurine,C17H19NO3,285.13649348,Peumus boldus,Peumus,KNApSAcK
+6,C00025812,486-39-5,Coclaurine,C17H19NO3,285.13649348,Peumus boldus,Peumus,KNApSAcK
+7,C00027409,128-76-7,Laurotetanine,C19H21NO4,327.14705817,Peumus boldus,Peumus,KNApSAcK
+8,C00027433,5890-18-6,Laurolitsine,C18H19NO4,313.1314081,Peumus boldus,Peumus,KNApSAcK
+9,C00027438,475-70-7,Norisocorydine,C19H21NO4,327.14705817,Peumus boldus,Peumus,KNApSAcK
+10,C00054747,91599-23-4,Dehydroboldine,C19H19NO4,325.1314081,Peumus boldus,Peumus,KNApSAcK
+11,C00054930,904686-77-7,Dihydro-4-hydroxy-5-methylene-3-(13-octadecenylidene)-2(3H)-furanone,C23H38O3,362.28209508,Peumus boldus,Peumus,KNApSAcK
+0,C00001822,476-70-0,(+)-Boldine,C19H21NO4,327.14705817,Peumus boldus,Boldus,KNApSAcK
+1,C00001869,3019-51-0,(S)-Isoboldine,C19H21NO4,327.14705817,Peumus boldus,Boldus,KNApSAcK
+2,C00003027,512-85-6,Ascaridole,C10H16O2,168.11502975,Peumus boldus,Boldus,KNApSAcK
+3,C00005551,69760-70-9,Isorhamnetin 3-alpha-L-arabinopyranoside-7-rhamnoside,C27H30O15,594.15847029,Peumus boldus,Boldus,KNApSAcK
+4,C00005557,17331-71-4,Isorhamnetin 3-O-beta-glucopyranoside-7-O-alpha-rhamnopyranoside,C28H32O16,624.16903498,Peumus boldus,Boldus,KNApSAcK
+5,C00025652,2196-60-3,(+)-Coclaurine,C17H19NO3,285.13649348,Peumus boldus,Boldus,KNApSAcK
+6,C00025812,486-39-5,Coclaurine,C17H19NO3,285.13649348,Peumus boldus,Boldus,KNApSAcK
+7,C00027409,128-76-7,Laurotetanine,C19H21NO4,327.14705817,Peumus boldus,Boldus,KNApSAcK
+8,C00027433,5890-18-6,Laurolitsine,C18H19NO4,313.1314081,Peumus boldus,Boldus,KNApSAcK
+9,C00027438,475-70-7,Norisocorydine,C19H21NO4,327.14705817,Peumus boldus,Boldus,KNApSAcK
+10,C00054747,91599-23-4,Dehydroboldine,C19H19NO4,325.1314081,Peumus boldus,Boldus,KNApSAcK
+11,C00054930,904686-77-7,Dihydro-4-hydroxy-5-methylene-3-(13-octadecenylidene)-2(3H)-furanone,C23H38O3,362.28209508,Peumus boldus,Boldus,KNApSAcK
+0,C00000136,470-82-6,"1,8-Cineol",C10H18O,154.1357652,Myrtus communis,Myrtus,KNApSAcK
+1,C00000149,6750-60-3,Espatulenol,C15H24O,220.18271539,Myrtus communis,Myrtus,KNApSAcK
+2,C00000184,2867-05-2,alpha-Thujene,C10H16,136.12520051,Myrtus communis,Myrtus,KNApSAcK
+3,C00000351,6728-26-3,(2E)-2-Hexanal,C6H10O,98.07316494,Myrtus communis,Myrtus,KNApSAcK
+4,C00000388,506-32-1,Arachidonic acid,C20H32O2,304.24023027,Myrtus communis,Myrtus,KNApSAcK
+5,C00000619,97-53-0,Eugenol,C10H12O2,164.08372963,Myrtus communis,Myrtus,KNApSAcK
+6,C00000805,80-56-8,alpha-Pinene,C10H16,136.12520051,Myrtus communis,Myrtus,KNApSAcK
+7,C00000814,2102-58-1,(-)-trans-Carveol,C10H16O,152.12011513,Myrtus communis,Myrtus,KNApSAcK
+8,C00000816,127-91-3,beta-Pinene,C10H16,136.12520051,Myrtus communis,Myrtus,KNApSAcK
+9,C00000818,5794-03-6,(+)-Camphene,C10H16,136.12520051,Myrtus communis,Myrtus,KNApSAcK
+10,C00000823,138-86-3,Limonene,C10H16,136.12520051,Myrtus communis,Myrtus,KNApSAcK
+11,C00000829,19894-98-5,trans-Pinocarveol,C10H16O,152.12011513,Myrtus communis,Myrtus,KNApSAcK
+12,C00000839,13466-78-9,3-Carene,C10H16,136.12520051,Myrtus communis,Myrtus,KNApSAcK
+13,C00000845,106-24-1,(E)-geraniol,C10H18O,154.1357652,Myrtus communis,Myrtus,KNApSAcK
+14,C00000853,123-35-3,beta-Myrcene,C10H16,136.12520051,Myrtus communis,Myrtus,KNApSAcK
+15,C00000855,106-25-2,beta-Nerol,C10H18O,154.1357652,Myrtus communis,Myrtus,KNApSAcK
+16,C00000861,586-62-9,alpha-Terpinolene,C10H16,136.12520051,Myrtus communis,Myrtus,KNApSAcK
+17,C00000862,3779-61-1,trans-beta-Ocimene,C10H16,136.12520051,Myrtus communis,Myrtus,KNApSAcK
+18,C00000970,520-26-3,Hesperidin,C28H34O15,610.18977042,Myrtus communis,Myrtus,KNApSAcK
+19,C00001209,506-30-9,Arachidic acid,C20H40O2,312.30283052,Myrtus communis,Myrtus,KNApSAcK
+20,C00001217,112-86-7,Erucic acid,C22H42O2,338.31848058,Myrtus communis,Myrtus,KNApSAcK
+21,C00001234,373-49-9,Palmitoleic acid,C16H30O2,254.2245802,Myrtus communis,Myrtus,KNApSAcK
+22,C00002374,7084-24-4,Cyanidin 3-O-glucoside,C21H21O11.Cl,484.07723923,Myrtus communis,Myrtus,KNApSAcK
+23,C00002408,24563-20-0,Psi-rhodomyrtoxin,C24H28O7,428.18350325,Rhodomyrtus macrocarpa,Myrtus,KNApSAcK
+24,C00002472,531-75-9,Aesculin,C15H16O9,340.07943211,Myrtus communis,Myrtus,KNApSAcK
+25,C00002507,550-79-8,Afrormosin,C17H14O5,298.08412356,Rhodomyrtus tomentosa,Myrtus,KNApSAcK
+26,C00002740,140-67-0,Estragol,C10H12O,148.08881501,Myrtus communis,Myrtus,KNApSAcK
+27,C00002741,93-15-2,Methyleugenol,C11H14O2,178.09937969,Myrtus communis,Myrtus,KNApSAcK
+28,C00002760,6379-72-2,Methylisoeugenol,C11H14O2,178.09937969,Myrtus communis,Myrtus,KNApSAcK
+29,C00002932,7045-42-3,Pedunculagin,C34H24O22,784.07592246,Rhodomyrtus tomentosa,Myrtus,KNApSAcK
+30,C00003028,507-70-0,Borneol,C10H18O,154.1357652,Myrtus communis,Myrtus,KNApSAcK
+31,C00003029,79-92-5,Camphene,C10H16,136.12520051,Myrtus communis,Myrtus,KNApSAcK
+32,C00003036,106-26-3,cis-Citral,C10H16O,152.12011513,Myrtus communis,Myrtus,KNApSAcK
+33,C00003040,99-87-6,p-Cymene,C10H14,134.10955045,Myrtus communis,Myrtus,KNApSAcK
+34,C00003046,105-87-3,Geranyl acetate,C12H20O2,196.14632988,Myrtus communis,Myrtus,KNApSAcK
+35,C00003047,78-70-6,(+-)-Linalool,C10H18O,154.1357652,Myrtus communis,Myrtus,KNApSAcK
+36,C00003048,115-95-7,Linalyl acetate,C12H20O2,196.14632988,Myrtus communis,Myrtus,KNApSAcK
+37,C00003051,99-83-2,alpha-Phellandrene,C10H16,136.12520051,Myrtus communis,Myrtus,KNApSAcK
+38,C00003060,99-86-5,alpha-Terpinene,C10H16,136.12520051,Myrtus communis,Myrtus,KNApSAcK
+39,C00003061,99-85-4,gamma-Terpinene,C10H16,136.12520051,Myrtus communis,Myrtus,KNApSAcK
+40,C00003110,87-44-5,beta-Caryophyllene,C15H24,204.18780077,Myrtus communis,Myrtus,KNApSAcK
+41,C00003147,6753-98-6,alpha-Caryophyllene (obsol.),C15H24,204.18780077,Myrtus communis,Myrtus,KNApSAcK
+42,C00003162,475-20-7,Longifolene,C15H24,204.18780077,Myrtus communis,Myrtus,KNApSAcK
+43,C00003376,33649-15-9,Tomentosin,C15H20O3,248.1412445,Rhodomyrtus tomentosa,Myrtus,KNApSAcK
+44,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Rhodomyrtus tomentosa,Myrtus,KNApSAcK
+45,C00005730,17912-87-7,Myricitrin,C21H20O12,464.09547611,Myrtus communis,Myrtus,KNApSAcK
+46,C00005734,520-14-9,Myricetin 3'-glucoside,C21H20O13,480.09039073,Myrtus communis,Myrtus,KNApSAcK
+47,C00005743,28454-81-1,"Myricetin 3,3'-digalactoside",C27H30O18,642.14321416,Myrtus communis,Myrtus,KNApSAcK
+48,C00006681,6906-39-4,Oxycoccicyanin,C22H23O11.Cl,498.09288929,Myrtus communis,Myrtus,KNApSAcK
+49,C00006696,28500-01-8,Delphinidin 3-arabinoside,C20H19O11,435.09273645,Myrtus communis,Myrtus,KNApSAcK
+50,C00006698,6906-38-3,Myrtillin,C21H21O12.Cl,500.07215385,Myrtus communis,Myrtus,KNApSAcK
+51,C00006720,28500-03-0,Petunidin 3-arabinoside,C21H21O11.Cl,484.07723923,Myrtus communis,Myrtus,KNApSAcK
+52,C00006722,6988-81-4,Petunidin 3-glucoside,C22H23O12.Cl,514.08780391,Myrtus communis,Myrtus,KNApSAcK
+53,C00006733,28500-04-1,Malvidin 3-arabinoside,C22H23O11,463.12403658,Myrtus communis,Myrtus,KNApSAcK
+54,C00006735,7228-78-6,Oenin,C23H25O12,493.13460127,Myrtus communis,Myrtus,KNApSAcK
+55,C00007247,463-40-1,alpha-Linolenic acid,C18H30O2,278.2245802,Myrtus communis,Myrtus,KNApSAcK
+56,C00010325,14049-11-7,Epoxylinalool,C10H18O2,170.13067982,Myrtus communis,Myrtus,KNApSAcK
+57,C00010830,5286-38-4,Piperitone oxide,C10H16O2,168.11502975,Myrtus communis,Myrtus,KNApSAcK
+58,C00010872,555-10-2,beta-Phellandrene,C10H16,136.12520051,Myrtus communis,Myrtus,KNApSAcK
+59,C00010927,20126-76-5,(-)-4-Terpineol,C10H18O,154.1357652,Myrtus communis,Myrtus,KNApSAcK
+60,C00010930,7299-42-5,delta-Terpineol,C10H18O,154.1357652,Myrtus communis,Myrtus,KNApSAcK
+61,C00010933,18479-68-0,p-Menth-1-en-9-ol,C10H18O,154.1357652,Myrtus communis,Myrtus,KNApSAcK
+62,C00010935,586-81-2,gamma-Terpineol,C10H18O,154.1357652,Myrtus communis,Myrtus,KNApSAcK
+63,C00010967,535-77-3,beta-Cymene,C10H14,134.10955045,Myrtus communis,Myrtus,KNApSAcK
+64,C00011040,547-61-5,trans-(-)-Pinocarveol,C10H16O,152.12011513,Myrtus communis,Myrtus,KNApSAcK
+65,C00011041,6712-78-3,(+)-Myrtenol,C10H16O,152.12011513,Myrtus communis,Myrtus,KNApSAcK
+66,C00011045,20296-50-8,(-)-Carene(-)-3-Carene,C10H16,136.12520051,Myrtus communis,Myrtus,KNApSAcK
+67,C00011067,508-32-7,Teresantanane,C10H16,136.12520051,Myrtus communis,Myrtus,KNApSAcK
+68,C00012011,20307-84-0,delta-Elemene,C15H24,204.18780077,Myrtus communis,Myrtus,KNApSAcK
+69,C00012012,29873-99-2,(-)-gamma-Elemene,C15H24,204.18780077,Myrtus communis,Myrtus,KNApSAcK
+70,C00012443,19888-33-6,Humulene epoxide,C15H24O,220.18271539,Myrtus communis,Myrtus,KNApSAcK
+71,C00012444,19888-34-7,"Humulene 1,2-epoxide",C15H24O,220.18271539,Myrtus communis,Myrtus,KNApSAcK
+72,C00012483,1139-30-6,(-)-beta-Caryophyllene epoxide,C15H24O,220.18271539,Myrtus communis,Myrtus,KNApSAcK
+73,C00014516,24292-52-2,"3,4',6'-Trihydroxy-4,2'-dimethoxychalcone 4'-O-rutinoside",C29H36O15,624.20542048,Myrtus communis,Myrtus,KNApSAcK
+74,C00020377,3691-12-1,alpha-Guaiene,C15H24,204.18780077,Myrtus communis,Myrtus,KNApSAcK
+75,C00020383,22567-17-5,gamma-gurjunene epoxide,C15H24,204.18780077,Myrtus communis,Myrtus,KNApSAcK
+76,C00021227,489-40-7,alpha-Gurjunene,C15H24,204.18780077,Myrtus communis,Myrtus,KNApSAcK
+77,C00021309,3853-83-6,alpha-Himachalene,C15H24,204.18780077,Myrtus communis,Myrtus,KNApSAcK
+78,C00021884,5208-59-3,beta-Bourbonene,C15H24,204.18780077,Myrtus communis,Myrtus,KNApSAcK
+79,C00021999,20085-93-2,Seychellene,C15H24,204.18780077,Myrtus communis,Myrtus,KNApSAcK
+80,C00029452,554-61-0,2-Carene,C10H16,136.12520051,Myrtus communis,Myrtus,KNApSAcK
+81,C00029544,562-74-3,4-Terpineol,C10H18O,154.1357652,Myrtus communis,Myrtus,KNApSAcK
+82,C00029674,98-55-5,alpha-Terpineol,C10H18O,154.1357652,Myrtus communis,Myrtus,KNApSAcK
+83,C00029971,1197-06-4,cis-Carveol,C10H16O,152.12011513,Myrtus communis,Myrtus,KNApSAcK
+84,C00031258,3387-41-5,4(10)-Thujene,C10H16,136.12520051,Myrtus communis,Myrtus,KNApSAcK
+85,C00032377,1686-15-3,trans-Pinocarvyl acetate,C12H18O2,194.13067982,Myrtus communis,Myrtus,KNApSAcK
+86,C00033677,493-71-0,Bullatenone,C12H12O2,188.08372963,Lophomyrtus bullata,Myrtus,KNApSAcK
+87,C00034989,27400-72-2,(E)-Ocimene,C10H16,136.12520051,Myrtus communis,Myrtus,KNApSAcK
+88,C00035043,80-26-2,alpha-terpineol acetate,C12H20O2,196.14632988,Myrtus communis,Myrtus,KNApSAcK
+89,C00035062,99-49-0,Carvone,C10H14O2,166.09937969,Myrtus communis,Myrtus,KNApSAcK
+90,C00035117,97-85-8,2-Methylpropyl 2-methylpropanoate,C8H16O2,144.11502975,Myrtus communis,Myrtus,KNApSAcK
+91,C00035118,3623-52-7,Isomenthol,C10H20O,156.15141526,Myrtus communis,Myrtus,KNApSAcK
+92,C00035130,1189-09-9,Methyl geranate,C11H18O2,182.13067982,Myrtus communis,Myrtus,KNApSAcK
+93,C00035131,93-16-3,Methyl isoeugenol,C11H14O2,178.09937969,Myrtus communis,Myrtus,KNApSAcK
+94,C00035138,141-12-8,Neryl acetate,C12H20O2,196.14632988,Myrtus communis,Myrtus,KNApSAcK
+95,C00035341,89-80-5,Menthone,C10H18O,154.1357652,Myrtus communis,Myrtus,KNApSAcK
+96,C00035369,35178-55-3,Piperitenone oxide,C10H14O2,166.09937969,Myrtus communis,Myrtus,KNApSAcK
+97,C00035903,5912-86-7,cis-Isoeugenol,C10H12O2,164.08372963,Myrtus communis,Myrtus,KNApSAcK
+98,C00036271,515-13-9,(-)-beta-Elemene,C15H24,204.18780077,Myrtus communis,Myrtus,KNApSAcK
+99,C00036886,159440-57-0,Casuarine,C8H15NO5,205.0950226,Myrtus communis,Myrtus,KNApSAcK
+100,C00037333,491-07-6,Isomenthone,C10H18O,154.1357652,Myrtus communis,Myrtus,KNApSAcK
+101,C00037531,515-00-4,Myrtenol,C10H16O,152.12011513,Myrtus communis,Myrtus,KNApSAcK
+102,C00039812,54247-21-1,Myrtucommulone A,C38H52O10,668.35604788,Myrtus communis,Myrtus,KNApSAcK
+103,C00045404,413597-02-1,Semimyrtucommulone,C25H34O7,446.23045344,Myrtus communis,Myrtus,KNApSAcK
+104,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Myrtus communis,Myrtus,KNApSAcK
+105,C00048312,4501-58-0,alpha-Campholenal,C10H16O,152.12011513,Myrtus communis,Myrtus,KNApSAcK
+106,C00049009,468757-69-9,Rhodomyrtone,C26H34O6,442.23553882,Rhodomyrtus tomentosa,Myrtus,KNApSAcK
+107,C00049958,115406-24-1,5'-Desgalloylstachyurin,C34H24O22,784.07592246,Rhodomyrtus tomentosa,Myrtus,KNApSAcK
+108,C00051532,89-78-1,Menthol,C10H20O,156.15141526,Myrtus communis,Myrtus,KNApSAcK
+109,C00052276,1632-73-1,Fenchol,C10H18O,154.1357652,Myrtus communis,Myrtus,KNApSAcK
+110,C00052499,16106-95-9,"(2Z,6Z)-Farnesol",C15H26O,222.19836545,Myrtus communis,Myrtus,KNApSAcK
+111,C00052670,29957-43-5,"3,7-Dimethyl-1,5,7-octatrien-3-ol",C10H16O,152.12011513,Myrtus communis,Myrtus,KNApSAcK
+112,C00052694,96-22-0,3-Pentanone,C5H10O,86.07316494,Myrtus communis,Myrtus,KNApSAcK
+113,C00053121,6712-79-4,cis-Pinocarveol,C10H16O,152.12011513,Myrtus communis,Myrtus,KNApSAcK
+114,C00053122,6874-36-8,cis-ocimene,C10H18,138.14085057,Myrtus communis,Myrtus,KNApSAcK
+115,C00053129,73413-94-2,cis-Dehydroxylinalool oxide,C10H18O,154.1357652,Myrtus communis,Myrtus,KNApSAcK
+116,C00053478,1079-01-2,Myrtenyl acetate,C12H18O2,194.13067982,Myrtus communis,Myrtus,KNApSAcK
+117,C00053849,1197-07-5,trans-Carveol,C10H16O,152.12011513,Myrtus communis,Myrtus,KNApSAcK
+118,C00053853,4955-29-7,trans-Pinocarveyl acetate,C12H18O2,194.13067982,Myrtus communis,Myrtus,KNApSAcK
+119,C00053856,17699-16-0,trans-Sabinene hydrate,C10H18O,154.1357652,Myrtus communis,Myrtus,KNApSAcK
+120,C00056840,1079988-16-1,Rhodomyrtosone A,C26H32O7,456.21480338,Rhodomyrtus tomentosa,Myrtus,KNApSAcK
+121,C00056841,1079988-17-2,Rhodomyrtosone B,C26H34O6,442.23553882,Rhodomyrtus tomentosa,Myrtus,KNApSAcK
+122,C00056842,1079988-18-3,Rhodomyrtosone C,C41H54O8,674.3818687,Rhodomyrtus tomentosa,Myrtus,KNApSAcK
+123,C00056843,1079988-19-4,Rhodomyrtosone D,C25H32O6,428.21988875,Rhodomyrtus tomentosa,Myrtus,KNApSAcK
+124,C00058138,564-13-6,Terminolic acid,C30H48O6,504.34508927,Myrtus communis,Myrtus,KNApSAcK
+125,C00059100,1078-95-1,Pinocarvyl acetate,C12H18O2,194.13067982,Myrtus communis,Myrtus,KNApSAcK
+126,C00059854,1405-16-9,Patchoulene,C15H24,204.18780077,Myrtus communis,Myrtus,KNApSAcK
+127,C00061283,28933-89-3,Eicosenoic acid,C20H38O2,310.28718046,Myrtus communis,Myrtus,KNApSAcK
+128,C00061668,3848-24-6,"2,3-Hexanedione",C6H10O2,114.06807956,Myrtus communis,Myrtus,KNApSAcK
+129,C00061775,42822-86-6,"p-Menthane-3,8-diol",C10H20O2,172.14632988,Myrtus communis,Myrtus,KNApSAcK
+130,C00061938,494-90-6,Menthofuran,C10H14O,150.10446507,Myrtus communis,Myrtus,KNApSAcK
+131,C00062246,57082-24-3,Caryophyllene acetate,C17H28O2,264.20893014,Myrtus communis,Myrtus,KNApSAcK
+132,C00062834,73366-18-4,cis-Pinocarvyl acetate,C12H18O2,194.13067982,Myrtus communis,Myrtus,KNApSAcK
+133,C00062876,74744-48-2,(5E)-5-Tetradecen-3-yne,C14H24,192.18780077,Myrtus communis,Myrtus,KNApSAcK
+0,C00000218,6894-38-8,(-)-Jasmonic acid,C12H18O3,210.12559444,Ficus superba,Ficus,KNApSAcK
+1,C00000219,1211-29-6,Methyl jasmonate,C13H20O3,224.1412445,Ficus superba,Ficus,KNApSAcK
+2,C00000297,66-97-7,Ficusin,C11H6O3,186.03169406,Ficus arica,Ficus,KNApSAcK
+3,C00000297,66-97-7,Ficusin,C11H6O3,186.03169406,Ficus sycomorus,Ficus,KNApSAcK
+4,C00000297,66-97-7,Ficusin,C11H6O3,186.03169406,Ficus simplicissima,Ficus,KNApSAcK
+5,C00000297,66-97-7,Ficusin,C11H6O3,186.03169406,Ficus hirta,Ficus,KNApSAcK
+6,C00000297,66-97-7,Ficusin,C11H6O3,186.03169406,Ficus carica,Ficus,KNApSAcK
+7,C00000550,480-33-1,(R)-(-)-Mellein,C10H10O3,178.06299419,Ficus formosana,Ficus,KNApSAcK
+8,C00000575,484-20-8,5-Methoxypsoralen,C12H8O4,216.04225874,Ficus eriobotryoides,Ficus,KNApSAcK
+9,C00000575,484-20-8,5-Methoxypsoralen,C12H8O4,216.04225874,Ficus carica,Ficus,KNApSAcK
+10,C00000575,484-20-8,5-Methoxypsoralen,C12H8O4,216.04225874,Ficus bengalensis,Ficus,KNApSAcK
+11,C00000575,484-20-8,5-Methoxypsoralen,C12H8O4,216.04225874,Ficus sycomorus,Ficus,KNApSAcK
+12,C00000575,484-20-8,5-Methoxypsoralen,C12H8O4,216.04225874,Ficus palmata,Ficus,KNApSAcK
+13,C00000583,482-27-9,Isopimpinellin,C13H10O5,246.05282343,Ficus cunninghamii,Ficus,KNApSAcK
+14,C00000584,13849-08-6,(+)-Marmesin,C14H14O4,246.08920894,Ficus eriobotryoides,Ficus,KNApSAcK
+15,C00000584,13849-08-6,(+)-Marmesin,C14H14O4,246.08920894,Ficus sycomorus,Ficus,KNApSAcK
+16,C00000584,13849-08-6,(+)-Marmesin,C14H14O4,246.08920894,Ficus cunninghamii,Ficus,KNApSAcK
+17,C00000584,13849-08-6,(+)-Marmesin,C14H14O4,246.08920894,Ficus carica,Ficus,KNApSAcK
+18,C00000674,491-70-3,"5,7,3',4'-Tetrahydroxyflavone",C15H10O6,286.04773805,Ficus cordata,Ficus,KNApSAcK
+19,C00000677,480-18-2,Dihydroquercetin,C15H12O7,304.05830274,Opuntia ficus-indica var.saboten,Ficus,KNApSAcK
+20,C00000970,520-26-3,Hesperidin,C28H34O15,610.18977042,Ficus beecheyana,Ficus,KNApSAcK
+21,C00001105,481-53-8,Tangeretin,C20H20O7,372.12090299,Ficus beecheyana,Ficus,KNApSAcK
+22,C00001183,110-17-8,Fumaric acid,C4H4O4,116.01095862,Ficus carica,Ficus,KNApSAcK
+23,C00001357,59-92-7,"3,4-Dihydroxyphenylalanine",C9H11NO4,197.06880785,Opuntia ficus-indica,Ficus,KNApSAcK
+24,C00001408,51-61-6,Dopamine,C8H11NO2,153.0789786,Opuntia ficus-indica,Ficus,KNApSAcK
+25,C00001419,54-04-6,Mescaline,C11H17NO3,211.12084342,Opuntia ficus-indica,Ficus,KNApSAcK
+26,C00001513,66-22-8,Uracil,C4H4N2O2,112.02727739,Ficus septica,Ficus,KNApSAcK
+27,C00001583,2181-76-2,Betanidin,C18H16N2O8,388.0906655,Opuntia ficus-indica,Ficus,KNApSAcK
+28,C00001584,7659-95-2,Betanin,C24H26N2O13,550.14348893,Opuntia ficus-indica,Ficus,KNApSAcK
+29,C00001587,71199-31-0,DOPA-betaxanthin,C18H18N2O8,390.10631557,Opuntia ficus-indica,Ficus,KNApSAcK
+30,C00001591,2181-75-1,Indicaxanthin,C14H16N2O6,308.10083626,Opuntia ficus-indica,Ficus,KNApSAcK
+31,C00001593,15121-53-6,Isobetanin,C24H26N2O13,550.14348893,Opuntia ficus-indica,Ficus,KNApSAcK
+32,C00001601,81943-08-0,Musca-aurin VII,C15H16N4O6,348.10698427,Opuntia ficus-indica,Ficus,KNApSAcK
+33,C00001604,135545-98-1,Tyrosine-betaxanthin,C18H18N2O7,374.11140095,Opuntia ficus-indica,Ficus,KNApSAcK
+34,C00002339,2520-36-7,Ficine,C20H19NO4,337.1314081,Ficus pantoniana,Ficus,KNApSAcK
+35,C00002346,2255-62-1,Isoficine,C20H19NO4,337.1314081,Ficus pantoniana,Ficus,KNApSAcK
+36,C00002367,482-20-2,Tylophorine,C24H27NO4,393.19400836,Ficus septica,Ficus,KNApSAcK
+37,C00002374,7084-24-4,Cyanidin 3-O-glucoside,C21H21O11.Cl,484.07723923,Ficus carica,Ficus,KNApSAcK
+38,C00002450,523-50-2,Angelicin,C11H6O3,186.03169406,Ficus nitida,Ficus,KNApSAcK
+39,C00002460,91-64-5,Coumarin,C9H6O2,146.03677944,Ficus simplicissima,Ficus,KNApSAcK
+40,C00002472,531-75-9,Aesculin,C15H16O9,340.07943211,Ficus septica,Ficus,KNApSAcK
+41,C00002476,531-59-9,Herniarin,C10H8O3,176.04734412,Ficus cunninghamii,Ficus,KNApSAcK
+42,C00002503,93-35-6,Umbelliferone,C9H6O3,162.03169406,Ficus cunninghamii,Ficus,KNApSAcK
+43,C00002503,93-35-6,Umbelliferone,C9H6O3,162.03169406,Ficus carica,Ficus,KNApSAcK
+44,C00002512,32884-36-9,Cajanin,C16H12O6,300.06338812,Ficus nymphaeifolia,Ficus,KNApSAcK
+45,C00002526,446-72-0,Genistein,C15H10O5,270.05282343,Ficus nymphaeifolia,Ficus,KNApSAcK
+46,C00002526,446-72-0,Genistein,C15H10O5,270.05282343,Ficus cordata,Ficus,KNApSAcK
+47,C00002526,446-72-0,Genistein,C15H10O5,270.05282343,Ficus septica,Ficus,KNApSAcK
+48,C00002528,529-59-9,Genistein 7-O-glucoside,C21H20O10,432.10564686,Ficus septica,Ficus,KNApSAcK
+49,C00002682,121-34-6,Vanillic acid,C8H8O4,168.04225874,Ficus septica,Ficus,KNApSAcK
+50,C00002743,1135-24-6,Ferulic acid,C10H10O4,194.05790881,Opuntia ficus-indica var.saboten,Ficus,KNApSAcK
+51,C00002981,477-90-7,Bergenin,C14H16O9,328.07943211,Ficus racemosa,Ficus,KNApSAcK
+52,C00002981,477-90-7,Bergenin,C14H16O9,328.07943211,Ficus microcarpa,Ficus,KNApSAcK
+53,C00003558,77-52-1,Ursolic acid,C30H48O3,456.3603454,Ficus microcarpa,Ficus,KNApSAcK
+54,C00003661,1449-09-8,24-Methylenecycloartan-3beta-ol,C31H52O,440.40181628,Ficus carica,Ficus,KNApSAcK
+55,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Ficus bengalensis,Ficus,KNApSAcK
+56,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Ficus carica,Ficus,KNApSAcK
+57,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Ficus eriobotryoides,Ficus,KNApSAcK
+58,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Ficus palmata,Ficus,KNApSAcK
+59,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Ficus septica,Ficus,KNApSAcK
+60,C00003674,83-48-7,beta-Stigmasterol,C29H48O,412.37051615,Ficus hirta,Ficus,KNApSAcK
+61,C00003674,83-48-7,beta-Stigmasterol,C29H48O,412.37051615,Ficus septica,Ficus,KNApSAcK
+62,C00003737,638-95-9,alpha-Amyrin,C30H50O,426.38616622,Ficus variegata,Ficus,KNApSAcK
+63,C00003738,559-70-6,beta-Amyrin,C30H50O,426.38616622,Ficus eriobotryoides,Ficus,KNApSAcK
+64,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Ficus carica,Ficus,KNApSAcK
+65,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Ficus microcarpa,Ficus,KNApSAcK
+66,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Ficus rasemosa,Ficus,KNApSAcK
+67,C00003755,111-02-4,All-trans-squalene,C30H50,410.39125159,Ficus septica,Ficus,KNApSAcK
+68,C00003817,520-36-5,Apigenin,C15H10O5,270.05282343,Ficus formosana,Ficus,KNApSAcK
+69,C00003817,520-36-5,Apigenin,C15H10O5,270.05282343,Ficus hirta,Ficus,KNApSAcK
+70,C00003841,1168-42-9,"Scutellarein 5,6,7,4'-tetramethyl ether",C19H18O6,342.11033831,Ficus altissima,Ficus,KNApSAcK
+71,C00003912,17290-70-9,Isosinensetin,C20H20O7,372.12090299,Ficus altissima,Ficus,KNApSAcK
+72,C00003918,53350-26-8,"5,7,3',4',5'-Pentamethoxyflavone",C20H20O7,372.12090299,Ficus maxima,Ficus,KNApSAcK
+73,C00004006,89029-10-7,"5,6,7,3'-Tetramethoxy-4',5'-methylenedioxyflavone",C20H18O8,386.10016755,Ficus maxima,Ficus,KNApSAcK
+74,C00004226,137182-32-2,Scutellarein 6-rhamnosyl-(1->2)-galactoside,C27H30O15,594.15847029,Ficus infectoria,Ficus,KNApSAcK
+75,C00004390,132391-78-7,6-Hydroxyluteolin 6-glucoside-3'-rhamnoside,C27H30O16,610.15338491,Ficus infectoria,Ficus,KNApSAcK
+76,C00004632,1486-70-0,3-O-Methylquercetin,C16H12O7,316.05830274,Opuntia ficus-indica var.saboten,Ficus,KNApSAcK
+77,C00004712,479-90-3,Artemetin,C20H20O8,388.11581762,Ficus altissima,Ficus,KNApSAcK
+78,C00004778,14813-27-5,Myricetin hexamethyl ether,C21H22O8,402.13146768,Ficus altissima,Ficus,KNApSAcK
+79,C00005137,23627-87-4,Kaempferol 3-O-galactoside,C21H20O11,448.10056148,Opuntia ficus-indica var.saboten,Ficus,KNApSAcK
+80,C00005149,16290-07-6,Kaempferol 7-O-beta-D-glucopyranoside,C21H20O11,448.10056148,Opuntia ficus-indica var.saboten,Ficus,KNApSAcK
+81,C00005189,482-38-2,Kaempferitrin,C27H30O14,578.16355567,Ficus septica,Ficus,KNApSAcK
+82,C00005373,482-35-9,Hirsutrin,C21H20O12,464.09547611,Ficus ruficaulis,Ficus,KNApSAcK
+83,C00005413,153-18-4,Quercetin 3-rutinoside,C27H30O16,610.15338491,Ficus ruficaulis Merr.var.antaoensis,Ficus,KNApSAcK
+84,C00005413,153-18-4,Quercetin 3-rutinoside,C27H30O16,610.15338491,Ficus carica,Ficus,KNApSAcK
+85,C00005413,153-18-4,Quercetin 3-rutinoside,C27H30O16,610.15338491,Ficus pumila,Ficus,KNApSAcK
+86,C00005525,5041-82-7,Isorhamnetin 3-O-beta-D-glucopyranoside,C22H22O12,478.11112617,Opuntia ficus-indica var.saboten,Ficus,KNApSAcK
+87,C00005547,55033-90-4,Isorhamnetin 3-O-neohesperidoside,C28H32O16,624.16903498,Opuntia ficus-indica var.saboten,Ficus,KNApSAcK
+88,C00005584,111393-97-6,Isorhamnetin 3-O-rutinosyl-4'-O-beta-D-glucoside,C34H42O21,786.22185841,Opuntia ficus-indica var.saboten,Ficus,KNApSAcK
+89,C00006631,56190-03-5,Pelargonidin 3-rhamnoside,C21H21O9,417.11855727,Ficus sp.,Ficus,KNApSAcK
+90,C00008171,55051-77-9,Isoglabranin,C20H20O4,324.13615913,Ficus formosana,Ficus,KNApSAcK
+91,C00008367,56486-94-3,Norartocarpanone,C15H12O6,288.06338812,Ficus formosana,Ficus,KNApSAcK
+92,C00008431,69640-77-3,Obovatin,C20H18O4,322.12050906,Ficus formosana,Ficus,KNApSAcK
+93,C00008805,24808-04-6,(-)-Epiafzelechin,C15H14O5,274.08412356,Ficus cordata,Ficus,KNApSAcK
+94,C00009457,32884-35-8,2'-Hydroxybiochanin A,C16H12O6,300.06338812,Ficus nymphaeifolia,Ficus,KNApSAcK
+95,C00009492,34086-50-5,Alpinumisoflavone,C20H16O5,336.09977362,Ficus nymphaeifolia,Ficus,KNApSAcK
+96,C00009492,34086-50-5,Alpinumisoflavone,C20H16O5,336.09977362,Ficus cordata,Ficus,KNApSAcK
+97,C00009493,76166-59-1,Derrone,C20H16O5,336.09977362,Ficus nymphaeifolia,Ficus,KNApSAcK
+98,C00009501,63807-85-2,Erythrinin C,C20H18O6,354.11033831,Ficus nymphaeifolia,Ficus,KNApSAcK
+99,C00013424,194735-90-5,"2-[3,5-Dimethoxy-4-[(3-methyl-2-butenyl)oxy]phenyl]-5,6,7-trimethoxy-4H-1-benzopyran-4-one",C25H28O8,456.17841787,Ficus maxima,Ficus,KNApSAcK
+100,C00013432,57498-96-1,Carpachromene,C20H16O5,336.09977362,Ficus formosana,Ficus,KNApSAcK
+101,C00018199,68567-60-2,Lonomycin B,C44H76O14,828.52350714,Streptomyces ribosidificus TM-481,Ficus,KNApSAcK
+102,C00018200,68537-50-8,Lonomycin C,C43H74O14,814.50785707,Streptomyces ribosidificus TM-481,Ficus,KNApSAcK
+103,C00018782,25546-65-0,Antibiotic SF 733,C17H34N4O10,454.22749334,Streptomyces ribosidificus nov. sp. SF-733,Ficus,KNApSAcK
+104,C00019007,186415-86-1,Ficuisoflavone,C20H18O6,354.11033831,Ficus microcarpa,Ficus,KNApSAcK
+105,C00019068,166375-17-3,Laburnetin,C20H18O6,354.11033831,Ficus cordata,Ficus,KNApSAcK
+106,C00019068,166375-17-3,Laburnetin,C20H18O6,354.11033831,Ficus chlamydocarpa,Ficus,KNApSAcK
+107,C00019253,186415-87-2,Isolupinisoflavone E,C25H26O7,438.16785319,Ficus microcarpa,Ficus,KNApSAcK
+108,C00019279,173429-83-9,Ficusin A,C25H24O5,404.16237388,Ficus septica,Ficus,KNApSAcK
+109,C00019280,173429-84-0,Ficusin B,C25H24O6,420.1572885,Ficus septica,Ficus,KNApSAcK
+110,C00019308,474-58-8,3-O-beta-D-Glucopyranosyl sitosterol,C35H60O6,576.43898965,Ficus septica,Ficus,KNApSAcK
+111,C00029502,645-08-9,3-Hydroxy-4-methoxybenzoic acid,C8H8O4,168.04225874,Ficus microcarpa,Ficus,KNApSAcK
+112,C00029633,7372-30-7,Acetylursolic acid,C32H50O4,498.37091008,Ficus microcarpa,Ficus,KNApSAcK
+113,C00029812,4304-12-5,Benzyl beta-D-glucopyranoside,C13H18O6,270.11033831,Ficus pumila,Ficus,KNApSAcK
+114,C00030204,857249-88-8,Erycibenin A,C20H20O7,372.12090299,Ficus nymphaeifolia,Ficus,KNApSAcK
+115,C00031106,905954-17-8,Psoralenoside,C17H18O9,366.09508217,Ficus carica,Ficus,KNApSAcK
+116,C00031160,156258-68-3,Rhoiptelenol,C30H40O,416.3079159,Ficus thunbergii,Ficus,KNApSAcK
+117,C00031786,220796-95-2,Ficusol,C11H14O5,226.08412356,Ficus microcarpa,Ficus,KNApSAcK
+118,C00031793,5085-72-3,Friedelanol,C30H52O,428.40181628,Ficus nitida,Ficus,KNApSAcK
+119,C00032465,6246-46-4,Ursonic acid,C30H46O3,454.34469533,Ficus microcarpa,Ficus,KNApSAcK
+120,C00032624,348608-17-3,27-Nor-3beta-hydroxy-25-oxocycloartane,C29H48O2,428.36543078,Ficus microcarpa,Ficus,KNApSAcK
+121,C00032642,5563-70-2,"3beta,11alpha-Diacetoxy-12-ursene",C34H54O4,526.40221021,Ficus microcarpa L.f.,Ficus,KNApSAcK
+122,C00032643,278181-61-6,3beta-Acetoxy-11alpha-hydroperoxy-12-ursene,C32H52O4,500.38656015,Ficus microcarpa L.f.,Ficus,KNApSAcK
+123,C00032644,5356-55-8,3beta-Acetoxy-11alpha-hydroxy-12-oleanene,C32H52O3,484.39164553,Ficus microcarpa L.f.,Ficus,KNApSAcK
+124,C00032977,321991-55-3,Ficusal,C18H18O6,330.11033831,Ficus microcarpa L.f.,Ficus,KNApSAcK
+125,C00032978,321991-56-4,Ficusesquilignan A,C31H36O11,584.22576199,Ficus microcarpa L.f.,Ficus,KNApSAcK
+126,C00032979,321991-57-5,Ficusesquilignan B,C31H36O11,584.22576199,Ficus microcarpa L.f.,Ficus,KNApSAcK
+127,C00032980,321991-58-6,Ficusolide diacetate,C15H24O6,300.1572885,Ficus microcarpa L.f.,Ficus,KNApSAcK
+128,C00033323,152340-04-0,Pumilaside A,C21H38O8,418.25666819,Ficus pumila,Ficus,KNApSAcK
+129,C00033324,260405-85-4,Pumilaside B,C21H36O7,400.2461035,Ficus pumila,Ficus,KNApSAcK
+130,C00033325,260405-86-5,Pumilaside C,C21H36O7,400.2461035,Ficus pumila,Ficus,KNApSAcK
+131,C00034185,36413-60-2,Quinic acid,C7H12O6,192.06338812,Ficus carica,Ficus,KNApSAcK
+132,C00034988,850354-51-7,"(6R)-9,10-Dihydroxy-4,7-megastigmadien-3-one-9-O-beta-D-glucopyranoside",C19H30O8,386.19406794,Opuntia ficus-indica var.saboten,Ficus,KNApSAcK
+133,C00035133,67884-27-9,n-Butyl-beta-D-fructopyranoside,C10H20O6,236.12598837,Opuntia ficus-indica var.saboten,Ficus,KNApSAcK
+134,C00035167,26560-14-5,Zataroside A,C15H24,204.18780077,Opuntia ficus-indica var.saboten,Ficus,KNApSAcK
+135,C00035185,340026-82-6,(20S)-3beta-Acetoxy-20-hydroperoxy-30-norlupane,C31H52O4,488.38656015,Ficus microcarpa,Ficus,KNApSAcK
+136,C00035186,105645-77-0,(20S)-3beta-Acetoxylupan-29-oic acid,C32H52O4,500.38656015,Ficus microcarpa,Ficus,KNApSAcK
+137,C00035194,863319-21-5,"10R,13aR-Tylocrebrine N-oxide",C24H27NO5,409.18892298,Ficus septica,Ficus,KNApSAcK
+138,C00035195,863319-20-4,"10R,13aR-Tylophorine N-oxide",C24H27NO5,409.18892298,Ficus septica,Ficus,KNApSAcK
+139,C00035196,314744-17-7,"10S,13aR-antofine N-oxide",C23H25NO4,379.17835829,Ficus septica,Ficus,KNApSAcK
+140,C00035197,863319-23-7,"10S,13aR-Isotylocrebrine N-oxide",C24H23NO5,405.15762285,Ficus septica,Ficus,KNApSAcK
+141,C00035198,863319-22-6,"10S,13aR-Tylocrebrine N-oxide",C24H27NO5,409.18892298,Ficus septica,Ficus,KNApSAcK
+142,C00035199,863319-25-9,"10S,13aR-Tylophorine N-oxide",C24H27NO5,409.18892298,Ficus septica,Ficus,KNApSAcK
+143,C00035200,863319-24-8,"10S,13aS-Isotylocrebrine N-oxide",C24H27NO5,409.18892298,Ficus septica,Ficus,KNApSAcK
+144,C00035212,33900-74-2,"2,3-Dihydroxy-1-(4-hydroxy-3,5-dimethoxyphenyl)-1-propanone",C11H14O6,242.07903818,Ficus beecheyana,Ficus,KNApSAcK
+145,C00035218,54781-87-2,2-Demethoxytylophorine,C23H25NO3,363.18344367,Ficus septica,Ficus,KNApSAcK
+146,C00035221,340026-79-1,"3beta-Acetoxy-12beta,13beta-epoxy-11alpha-hydroperoxyursane",C32H52O5,516.38147477,Ficus microcarpa,Ficus,KNApSAcK
+147,C00035222,340026-83-7,3beta-Acetoxy-18alpha-hydroperoxy-12-oleanen-11-one,C32H50O5,514.36582471,Ficus microcarpa,Ficus,KNApSAcK
+148,C00035223,340026-81-5,"3beta-Acetoxy-1beta,11alpha-epidioxy-12-ursene",C32H50O4,498.37091008,Ficus microcarpa,Ficus,KNApSAcK
+149,C00035226,7535-48-0,"4',5'-Dihydropsoralen",C11H18O3,198.12559444,Ficus carica,Ficus,KNApSAcK
+150,C00035242,10376-50-8,3-O-Acetylbetulinic acid,C32H50O4,498.37091008,Ficus microcarpa,Ficus,KNApSAcK
+151,C00035244,32671-82-2,Antofine,C23H25NO3,363.18344367,Ficus septica,Ficus,KNApSAcK
+152,C00035252,6466-94-0,Bauerenol,C30H50O,426.38616622,Ficus carica,Ficus,KNApSAcK
+153,C00035253,4481-62-3,Betulonic acid,C30H46O3,454.34469533,Ficus microcarpa,Ficus,KNApSAcK
+154,C00035289,52936-55-7,Dehydrotylophorine,C24H24NO4,390.17053326,Ficus septica,Ficus,KNApSAcK
+155,C00035306,468094-65-7,"erythro-2,3-Bis(4-hydroxy-3-methoxyphenyl)-3-ethoxypropan-1-ol",C19H24O6,348.1572885,Ficus beecheyana,Ficus,KNApSAcK
+156,C00035308,888317-55-3,Ficuformodiol A,C15H14O5,274.08412356,Ficus formosana,Ficus,KNApSAcK
+157,C00035309,888317-57-5,Ficuformodiol B,C15H14O5,274.08412356,Ficus formosana,Ficus,KNApSAcK
+158,C00035310,503534-36-9,Ficuseptine A,C25H29NO7,455.19440229,Ficus septica,Ficus,KNApSAcK
+159,C00035311,863323-92-6,Ficuseptine B,C23H23NO4,377.16270823,Ficus septica,Ficus,KNApSAcK
+160,C00035312,863323-93-7,Ficuseptine C,C22H21NO3,347.15214354,Ficus septica,Ficus,KNApSAcK
+161,C00035313,863323-94-8,Ficuseptine D,C23H25NO3,363.18344367,Ficus septica,Ficus,KNApSAcK
+162,C00035331,50657-02-8,Isotylocrebrine,C24H27NO4,393.19400836,Ficus septica,Ficus,KNApSAcK
+163,C00035357,17990-42-0,Oleanonic acid,C30H46O3,454.34469533,Ficus microcarpa,Ficus,KNApSAcK
+164,C00035381,745822-57-5,Racemosic acid,C22H28O14,516.14790561,Ficus racemosa,Ficus,KNApSAcK
+165,C00035381,745822-57-5,Racemosic acid,C22H28O14,516.14790561,Ficus microcarpa,Ficus,KNApSAcK
+166,C00035392,29507-75-3,Spatheliachromene,C15H14O4,258.08920894,Ficus formosana,Ficus,KNApSAcK
+167,C00035413,468094-64-6,"threo-2,3-Bis(4-hydroxy-3-methoxyphenyl)-3-ethoxypropan-1-ol",C19H24O6,348.1572885,Ficus beecheyana,Ficus,KNApSAcK
+168,C00035414,468094-67-9,"threo-3-(4-Hydroxy-3,5-dimethoxyphenyl)-3-ethoxypropane-1,2-diol",C13H20O6,272.12598837,Ficus beecheyana,Ficus,KNApSAcK
+169,C00035419,468094-66-8,"trans-4,5-Bis(4-hydroxy-3-methoxyphenyl)-1,3-dioxacyclohexane",C18H20O6,332.12598837,Ficus beecheyana,Ficus,KNApSAcK
+170,C00035421,6879-02-3,Tylocrebrine,C24H27NO4,393.19400836,Ficus septica,Ficus,KNApSAcK
+171,C00040779,173920-65-5,"1beta-(3-Hydroxy-4,5-dimethoxyphenyl)-O-glucopyranoside",C14H20O9,332.11073224,Ficus microcarpa,Ficus,KNApSAcK
+172,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Ficus fistulosa,Ficus,KNApSAcK
+173,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Ficus glumosa,Ficus,KNApSAcK
+174,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Ficus carica,Ficus,KNApSAcK
+175,C00047878,1201799-17-8,Ficuseptamine A,C15H23NO3,265.16779361,Ficus septica,Ficus,KNApSAcK
+176,C00047879,1201799-18-9,Ficuseptamine B,C15H23NO3,265.16779361,Ficus septica,Ficus,KNApSAcK
+177,C00047880,1201799-19-0,Ficuseptamine C,C15H22NO3,264.15996858,Ficus septica,Ficus,KNApSAcK
+178,C00048022,67270-82-0,Norruspoline,C13H17NO2,219.12592879,Ficus septica,Ficus,KNApSAcK
+179,C00048073,55483-00-6,Pungenin,C14H18O8,314.10016755,Ficus septica,Ficus,KNApSAcK
+180,C00048120,24316-18-5,Septicine,C24H29NO4,395.20965842,Ficus septica,Ficus,KNApSAcK
+181,C00051834,,Dopaxanthin-quinone,C18H16N2O8,388.0906655,Opuntia ficus-indica,Ficus,KNApSAcK
+182,C00051835,18766-67-1,Cyclo-DOPA,C9H9NO4,195.05315778,Opuntia ficus-indica,Ficus,KNApSAcK
+183,C00051836,,Leuko-DOPA-chrome-glucoside,C15H18O8,326.10016755,Opuntia ficus-indica,Ficus,KNApSAcK
+184,C00051838,4430-97-1,o-DOPA-quinone,C9H9NO4,195.05315778,Opuntia ficus-indica,Ficus,KNApSAcK
+185,C00051976,,"3,5-Dimethoxy-4-hydroxyphenethylamine",C10H15NO3,197.10519335,Opuntia ficus-indica,Ficus,KNApSAcK
+186,C00051978,1477-68-5,4-Hydroxy-3-methoxyphenethylamine,C9H13NO2,167.09462867,Opuntia ficus-indica,Ficus,KNApSAcK
+187,C00051979,,"4,5-Dihydroxy-3-methoxyphenethylamine",C9H13NO3,183.08954329,Opuntia ficus-indica,Ficus,KNApSAcK
+188,C00051980,,"4,5-seco-DOPA",C9H11NO6,229.05863709,Opuntia ficus-indica,Ficus,KNApSAcK
+189,C00054275,59576-26-0,2-Acetyl-4-methylpyridine,C8H9NO,135.06841392,Ficus carica,Ficus,KNApSAcK
+190,C00054580,81943-09-1,Asparaginebetaxanthin,C15H20N4O6,352.1382844,Opuntia ficus-indica,Ficus,KNApSAcK
+191,C00054958,79435-28-2,"3-O-alpha-L-Arabinopyranosyl-L-arabinose,",C10H18O9,282.09508217,Opuntia ficus-indica,Ficus,KNApSAcK
+192,C00055307,1007894-68-9,4-Aminobutanoic acid betaxanthin,C13H16N2O6,296.10083626,Opuntia ficus-indica,Ficus,KNApSAcK
+193,C00055308,1007894-64-5,"4-[2-[(1-Carboxy-2-hydroxyethyl)imino]ethylidene]-1,2,3,4-tetrahydro-2,6-pyridinedicarboxylic acid",C12H14N2O7,298.08010082,Opuntia ficus-indica,Ficus,KNApSAcK
+194,C00056368,10339-61-4,(E)-3-Nonen-1-ol,C9H18O,142.1357652,Opuntia ficus-indica,Ficus,KNApSAcK
+195,C00056724,124903-89-5,Ficus Latex peptide 1,C29H52N10O8,668.39695871,Ficus carica,Ficus,KNApSAcK
+196,C00056725,124925-14-0,Ficus Latex peptide 2,C31H50N6O7,618.374098,Ficus carica,Ficus,KNApSAcK
+197,C00057258,22104-79-6,2-Nonen-1-ol,C9H18O,142.1357652,Opuntia ficus,Ficus,KNApSAcK
+198,C00057386,1007894-70-3,Phenylalaninebetaxanthin,C18H18N2O6,358.11648632,Opuntia ficus-indica,Ficus,KNApSAcK
+199,C00057514,71199-29-6,Neobetanin,C24H24N2O13,548.12783887,Opuntia ficus-indica,Ficus,KNApSAcK
+200,C00057642,906366-80-1,Opuntiside B,C19H30O8,386.19406794,Opuntia ficus-indica var. saboten,Ficus,KNApSAcK
+201,C00058110,419555-17-2,Valinebetaxanthin,C14H18N2O6,310.11648632,Opuntia ficus-indica,Ficus,KNApSAcK
+202,C00058187,7268-42-0,beta-D-Xylopyranosyl-(1->5)-alpha-L-arabinofuranosyl-(1->3)-L-arabinose,C15H26O13,414.13734092,Opuntia ficus-indica,Ficus,KNApSAcK
+203,C00058188,7268-80-6,5-O-beta-D-Xylopyranosyl-L-arabinose,C10H18O9,282.09508217,Opuntia ficus-indica,Ficus,KNApSAcK
+204,C00058200,78248-68-7,3-O-beta-D-Xylopyranosyl-L-arabinose,C10H18O9,282.09508217,Opuntia ficus-indica,Ficus,KNApSAcK
+205,C00058203,79403-08-0,beta-D-Xylopyranosyl-(1->5)-alpha-L-arabinofuranosyl-(1->5)-L-arabinose,C15H26O13,414.13734092,Opuntia ficus-indica,Ficus,KNApSAcK
+206,C00058204,79409-35-1,beta-D-Xylopyranosyl-(1->3)-alpha-L-arabinofuranosyl-(1->3)-L-arabinose,C15H26O13,414.13734092,Opuntia ficus-indica,Ficus,KNApSAcK
+207,C00058212,81943-10-4,Vulgaxanthin IV,C15H20N2O6,324.13213639,Opuntia ficus-indica,Ficus,KNApSAcK
+208,C00058307,71208-86-1,"(24S)-Stigmast-5-ene-3beta,24-diol",C29H50O2,430.38108084,Ficus pumila,Ficus,KNApSAcK
+0,C00001822,476-70-0,(+)-Boldine,C19H21NO4,327.14705817,Monimia rotundifolia,Monimia,KNApSAcK
+0,C00000619,97-53-0,Eugenol,C10H12O2,164.08372963,Eugenia caryophyllata,Eugenia,KNApSAcK
+1,C00000805,80-56-8,alpha-Pinene,C10H16,136.12520051,Eugenia zuchowskiae,Eugenia,KNApSAcK
+2,C00000958,989-51-5,epi-Gallocatechin 3-O-gallate,C22H18O11,458.08491142,Eugenia edulis,Eugenia,KNApSAcK
+3,C00001071,529-44-2,Myricetin,C15H10O8,318.0375673,Eugenia jambolana,Eugenia,KNApSAcK
+4,C00001171,488-81-3,Ribitol,C5H12O5,152.06847349,Eugenia lehmannii,Eugenia,KNApSAcK
+5,C00002374,7084-24-4,Cyanidin 3-O-glucoside,C21H21O11.Cl,484.07723923,Eugenia umbelliflora,Eugenia,KNApSAcK
+6,C00002417,89701-85-9,Biflorin,C16H18O9,354.09508217,Eugenia caryophyllata,Eugenia,KNApSAcK
+7,C00002647,149-91-7,Gallic acid,C7H6O5,170.0215233,Eugenia jambolana,Eugenia,KNApSAcK
+8,C00002647,149-91-7,Gallic acid,C7H6O5,170.0215233,Eugenia sandwicensis,Eugenia,KNApSAcK
+9,C00002647,149-91-7,Gallic acid,C7H6O5,170.0215233,Eugenia edulis,Eugenia,KNApSAcK
+10,C00002668,99-50-3,"3,4-Dihydroxybenzoic acid",C7H6O4,154.02660868,Eugenia edulis,Eugenia,KNApSAcK
+11,C00002671,108-46-3,Resorcinol,C6H6O2,110.03677944,Eugenia jambolana,Eugenia,KNApSAcK
+12,C00002678,5145-53-9,"3,3',4'-tri-O-methylellagic acid",C17H12O8,344.05321736,Eugenia spp.,Eugenia,KNApSAcK
+13,C00002724,327-97-9,3-O-Caffeoylquinic acid,C16H18O9,354.09508217,Eugenia jambolana,Eugenia,KNApSAcK
+14,C00002920,58970-75-5,Eugeniin,C41H30O26,938.10253114,Eugenia caryophyllata,Eugenia,KNApSAcK
+15,C00003067,18309-32-5,(R)-(+)-Verbenone,C10H14O,150.10446507,Eugenia pseudomata,Eugenia,KNApSAcK
+16,C00003110,87-44-5,beta-Caryophyllene,C15H24,204.18780077,Eugenia zuchowskiae,Eugenia,KNApSAcK
+17,C00003110,87-44-5,beta-Caryophyllene,C15H24,204.18780077,Eugenia caryophyllata,Eugenia,KNApSAcK
+18,C00003118,3856-25-5,alpha-Copaene,C15H24,204.18780077,Eugenia zuchowskiae,Eugenia,KNApSAcK
+19,C00003147,6753-98-6,alpha-Caryophyllene (obsol.),C15H24,204.18780077,Eugenia zuchowskiae,Eugenia,KNApSAcK
+20,C00003739,464-92-6,Asiatic acid,C30H48O5,488.35017464,Eugenia gustavioides,Eugenia,KNApSAcK
+21,C00003739,464-92-6,Asiatic acid,C30H48O5,488.35017464,Eugenia crebrinervis,Eugenia,KNApSAcK
+22,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Eugenia sandwicensis,Eugenia,KNApSAcK
+23,C00003991,3122-88-1,Eucalyptin,C19H18O5,326.11542369,Eugenia biflora,Eugenia,KNApSAcK
+24,C00004478,87339-63-7,3-C-Methylapigenin 5-rhamnoside,C22H22O9,430.1263823,Eugenia kurzii,Eugenia,KNApSAcK
+25,C00004480,87339-64-8,3-C-Methylluteolin 5-rhamnoside,C22H22O10,446.12129692,Eugenia kurzii,Eugenia,KNApSAcK
+26,C00004565,520-18-3,Kaempferol,C15H10O6,286.04773805,Eugenia jambolana,Eugenia,KNApSAcK
+27,C00004565,520-18-3,Kaempferol,C15H10O6,286.04773805,Eugenia edulis,Eugenia,KNApSAcK
+28,C00005374,522-12-3,Quercetin 3-O-alpha-L-rhamnoside,C21H20O11,448.10056148,Eugenia jambolana,Eugenia,KNApSAcK
+29,C00005374,522-12-3,Quercetin 3-O-alpha-L-rhamnoside,C21H20O11,448.10056148,Eugenia edulis,Eugenia,KNApSAcK
+30,C00005415,130866-55-6,Quercetin 3-xylosyl-(1->2)-rhamnoside,C26H28O15,580.14282023,Eugenia jambos,Eugenia,KNApSAcK
+31,C00005730,17912-87-7,Myricitrin,C21H20O12,464.09547611,Eugenia edulis,Eugenia,KNApSAcK
+32,C00005731,77363-65-6,Myricetin 3-glucuronide,C21H18O14,494.06965529,Eugenia jambolana,Eugenia,KNApSAcK
+33,C00005738,130866-56-7,Myricetin 3-xylosyl-(1->2)-rhamnoside,C26H28O16,596.13773485,Eugenia jambos,Eugenia,KNApSAcK
+34,C00005769,30484-88-9,Mearnsitrin,C22H22O12,478.11112617,Eugenia jambolana,Eugenia,KNApSAcK
+35,C00006041,165127-26-4,Myricetin 3-O-(3''-O-acetyl)-alpha-L-rhamnoside,C23H22O13,506.10604079,Eugenia jambolana,Eugenia,KNApSAcK
+36,C00006630,18466-51-8,Callistephin,C21H21O10,433.11347189,Eugenia umbelliflora,Eugenia,KNApSAcK
+37,C00006681,6906-39-4,Oxycoccicyanin,C22H23O11.Cl,498.09288929,Eugenia umbelliflora,Eugenia,KNApSAcK
+38,C00006698,6906-38-3,Myrtillin,C21H21O12.Cl,500.07215385,Eugenia umbelliflora,Eugenia,KNApSAcK
+39,C00006722,6988-81-4,Petunidin 3-glucoside,C22H23O12.Cl,514.08780391,Eugenia umbelliflora,Eugenia,KNApSAcK
+40,C00006726,39814-18-1,Petunidin 3-gentiobioside,C28H33O17,641.17177463,Eugenia jambolana,Eugenia,KNApSAcK
+41,C00006735,7228-78-6,Oenin,C23H25O12,493.13460127,Eugenia umbelliflora,Eugenia,KNApSAcK
+42,C00006738,55463-07-5,Malvidin 3-laminaribioside,C29H35O17,655.1874247,Eugenia jambolana,Eugenia,KNApSAcK
+43,C00007558,134-96-3,Syringaldehyde,C9H10O4,182.05790881,Eugenia sandwicensis,Eugenia,KNApSAcK
+44,C00008180,83247-72-7,"(+)-6,8-Di-C-methylpinocembrin 5-methyl ether",C18H18O4,298.12050906,Eugenia javanica,Eugenia,KNApSAcK
+45,C00011153,476-66-4,Ellagic acid,C14H6O8,302.00626717,Eugenia gustavioides,Eugenia,KNApSAcK
+46,C00011153,476-66-4,Ellagic acid,C14H6O8,302.00626717,Eugenia jambolana,Eugenia,KNApSAcK
+47,C00011153,476-66-4,Ellagic acid,C14H6O8,302.00626717,Eugenia crebrinervis,Eugenia,KNApSAcK
+48,C00011154,51768-38-8,3-O-Methylellagic acid,C15H8O8,316.02191723,Eugenia jambolana,Eugenia,KNApSAcK
+49,C00011155,88943-00-4,Nilocitin,C20H20O14,484.08530535,Eugenia jambolana,Eugenia,KNApSAcK
+50,C00011156,402954-88-5,Mearnsetin 3-O-(4''-O-acetyl)-alpha-L-rhamnopyranoside,C24H24O13,520.12169086,Eugenia jambolana,Eugenia,KNApSAcK
+51,C00011157,402954-90-9,Myricetin 3-O-(4''-O-acetyl-2''-O-galloyl)-alpha-L-rhamnopyranoside,C30H26O17,658.11699941,Eugenia jambolana,Eugenia,KNApSAcK
+52,C00012483,1139-30-6,(-)-beta-Caryophyllene epoxide,C15H24O,220.18271539,Eugenia caryophyllata,Eugenia,KNApSAcK
+53,C00013367,637774-70-0,"7,8,3',4'-Trihydroxy-3,5-dimethoxyflavone",C17H14O8,346.06886743,Eugenia edulis,Eugenia,KNApSAcK
+54,C00013370,637774-71-1,"7,4',5'-Trihydroxy-3,5,3'-trimethoxyflavone",C18H16O8,360.08451749,Eugenia edulis,Eugenia,KNApSAcK
+55,C00013564,55169-25-0,Delphinidin 3-gentiobioside,C27H31O17,627.15612457,Eugenia jambolana,Eugenia,KNApSAcK
+56,C00013960,637774-69-7,"Gossypetin 3,8-dimethyl ether 5-glucoside",C23H24O13,508.12169086,Eugenia edulis,Eugenia,KNApSAcK
+57,C00019308,474-58-8,3-O-beta-D-Glucopyranosyl sitosterol,C35H60O6,576.43898965,Eugenia sandwicensis,Eugenia,KNApSAcK
+58,C00029724,465-00-9,Arjunolic acid,C30H48O5,488.35017464,Eugenia sandwicensis,Eugenia,KNApSAcK
+59,C00029724,465-00-9,Arjunolic acid,C30H48O5,488.35017464,Eugenia gustavioides,Eugenia,KNApSAcK
+60,C00029724,465-00-9,Arjunolic acid,C30H48O5,488.35017464,Eugenia crebrinervis,Eugenia,KNApSAcK
+61,C00030226,480-34-2,Eugenin,C11H10O4,206.05790881,Eugenia aromatica,Eugenia,KNApSAcK
+62,C00030226,480-34-2,Eugenin,C11H10O4,206.05790881,Eugenia jambolana,Eugenia,KNApSAcK
+63,C00030459,465-99-6,Hederagenin,C30H48O4,472.35526002,Eugenia sandwicensis,Eugenia,KNApSAcK
+64,C00030742,4373-41-5,"2alpha,3beta-Dihydroxyolean-12-en-28-oic acid",C30H48O4,472.35526002,Eugenia sandwicensis,Eugenia,KNApSAcK
+65,C00035599,851706-32-6,Enervosanone,C31H46O3,466.34469533,Garcinia eugeniaefolia,Eugenia,KNApSAcK
+66,C00036226,81571-72-4,Tellimagrandin II,C41H30O26,938.10253114,Eugenia caryophyllata,Eugenia,KNApSAcK
+67,C00036384,100937-52-8,"1,4-Dideoxy-1,4-imino-D-arabinitol",C5H11NO3,133.07389323,Eugenia spp.,Eugenia,KNApSAcK
+68,C00036886,159440-57-0,Casuarine,C8H15NO5,205.0950226,Eugenia jambolana,Eugenia,KNApSAcK
+69,C00036887,186795-20-0,Casuarine 6-O-alpha-D-glucopyranoside,C14H25NO10,367.14784603,Eugenia jambolana,Eugenia,KNApSAcK
+70,C00039177,480-12-6,Eugenetin,C12H12O4,220.07355887,Eugenia caryophyllata,Eugenia,KNApSAcK
+71,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Eugenia xerophytica,Eugenia,KNApSAcK
+72,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Eugenia grandis,Eugenia,KNApSAcK
+73,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Eugenia foetida,Eugenia,KNApSAcK
+74,C00050926,519-18-6,Isoeugenitin,C12H12O4,220.07355887,Eugenia caryophyllata,Eugenia,KNApSAcK
+75,C00050927,479-06-1,Isoeugenitol,C11H10O4,206.05790881,Eugenia caryophyllata,Eugenia,KNApSAcK
+76,C00057274,23121-32-6,Methylxanthoxylin,C11H14O4,210.08920894,Eugenia jambolana,Eugenia,KNApSAcK
+77,C00057998,194918-09-7,Uniflorine A,C8H15NO5,205.0950226,Eugenia uniflora,Eugenia,KNApSAcK
+78,C00058058,260354-31-2,"3,4,5-Trihydroxy-N-methylpiperidine",C6H13NO3,147.08954329,Eugenia uniflora,Eugenia,KNApSAcK
+79,C00058117,480-27-3,"2,4,6-Trimethoxybenzoylacetone",C13H16O5,252.09977362,Eugenia caryophyllata,Eugenia,KNApSAcK
+0,C00000136,470-82-6,"1,8-Cineol",C10H18O,154.1357652,Laurus nobilis,Laurus,KNApSAcK
+1,C00000604,29388-59-8,(-)-Secoisolariciresinol,C20H26O6,362.17293856,Laurus nobilis,Laurus,KNApSAcK
+2,C00000605,145265-02-7,(+)-Secoisolariciresinol,C20H26O6,362.17293856,Laurus nobilis,Laurus,KNApSAcK
+3,C00000619,97-53-0,Eugenol,C10H12O2,164.08372963,Laurus nobilis,Laurus,KNApSAcK
+4,C00000805,80-56-8,alpha-Pinene,C10H16,136.12520051,Laurus nobilis,Laurus,KNApSAcK
+5,C00000816,127-91-3,beta-Pinene,C10H16,136.12520051,Laurus nobilis,Laurus,KNApSAcK
+6,C00000845,106-24-1,(E)-geraniol,C10H18O,154.1357652,Laurus nobilis,Laurus,KNApSAcK
+7,C00000853,123-35-3,beta-Myrcene,C10H16,136.12520051,Laurus nobilis,Laurus,KNApSAcK
+8,C00000947,154-23-4,(+)-Catechin,C15H14O6,290.07903818,Laurus nobilis,Laurus,KNApSAcK
+9,C00000956,490-46-0,(-)-Epicatechin,C15H14O6,290.07903818,Laurus nobilis,Laurus,KNApSAcK
+10,C00001076,478-01-3,Nobiletin,C21H22O8,402.13146768,Laurus nobilis L.,Laurus,KNApSAcK
+11,C00001105,481-53-8,Tangeretin,C20H20O7,372.12090299,Laurus nobilis L.,Laurus,KNApSAcK
+12,C00001221,143-07-7,Lauric acid,C12H24O2,200.17763001,Laurus nobilis,Laurus,KNApSAcK
+13,C00001224,60-33-3,Linoleic acid,C18H32O2,280.24023027,Laurus nobilis,Laurus,KNApSAcK
+14,C00001232,112-80-1,Oleic acid,C18H34O2,282.25588033,Laurus nobilis,Laurus,KNApSAcK
+15,C00001790,517-69-1,Actinodaphnine,C18H17NO4,311.11575804,Laurus nobilis,Laurus,KNApSAcK
+16,C00001834,5890-28-8,(+)-Cassythicine,C19H19NO4,325.1314081,Laurus nobilis,Laurus,KNApSAcK
+17,C00002935,29106-51-2,Procyanidin B4,C30H26O12,578.1424263,Laurus nobilis,Laurus,KNApSAcK
+18,C00003047,78-70-6,(+-)-Linalool,C10H18O,154.1357652,Laurus nobilis,Laurus,KNApSAcK
+19,C00003110,87-44-5,beta-Caryophyllene,C15H24,204.18780077,Laurus nobilis,Laurus,KNApSAcK
+20,C00003240,553-21-9,Costunolide,C15H20O2,232.14632988,Laurus nobilis,Laurus,KNApSAcK
+21,C00003245,477-43-0,Dehydrocostus lactone,C15H18O2,230.13067982,Laurus nobilis L.,Laurus,KNApSAcK
+22,C00003256,37936-58-6,Eremanthine,C15H18O2,230.13067982,Laurus nobilis L.,Laurus,KNApSAcK
+23,C00003314,35001-25-3,Laurenobiolide,C17H22O4,290.15180919,Laurus nobilis,Laurus,KNApSAcK
+24,C00003397,16838-87-2,Zaluzanin C,C15H18O3,246.12559444,Laurus nobilis L.,Laurus,KNApSAcK
+25,C00004565,520-18-3,Kaempferol,C15H10O6,286.04773805,Laurus nobilis,Laurus,KNApSAcK
+26,C00004804,1178-24-1,"3,3',4',5,6,7,8-Heptamethoxyflavone",C22H24O9,432.14203237,Laurus nobilis L.,Laurus,KNApSAcK
+27,C00005374,522-12-3,Quercetin 3-O-alpha-L-rhamnoside,C21H20O11,448.10056148,Laurus nobilis,Laurus,KNApSAcK
+28,C00005863,151455-10-6,Kaempferol 3-(2-(E)-p-coumarylrhamnoside),C30H26O12,578.1424263,Laurus nobilis,Laurus,KNApSAcK
+29,C00005868,163434-73-9,"Kaempferol 3-(2'',4''-di-(E)-p-coumarylrhamnoside)",C39H32O14,724.17920573,Laurus nobilis,Laurus,KNApSAcK
+30,C00005869,166321-99-9,"Kaempferol 3-(3'',4''-di-p-coumarylrhamnoside)",C39H32O14,724.17920573,Laurus nobilis,Laurus,KNApSAcK
+31,C00007453,33880-83-0,beta-Elemene,C15H24,204.18780077,Laurus nobilis,Laurus,KNApSAcK
+32,C00008817,970-73-0,(+)-Gallocatechin,C15H14O7,306.0739528,Laurus nobilis,Laurus,KNApSAcK
+33,C00009074,12798-59-3,Procyanidin B7,C30H26O12,578.1424263,Laurus nobilis,Laurus,KNApSAcK
+34,C00009076,12798-57-1,Procyanidin B5,C30H26O12,578.1424263,Laurus nobilis,Laurus,KNApSAcK
+35,C00009077,29106-49-8,Procyanidin B2,C30H26O12,578.1424263,Laurus nobilis,Laurus,KNApSAcK
+36,C00010827,92760-25-3,"2,3-Dehydro-1,8-cineole",C10H16O,152.12011513,Laurus nobilis,Laurus,KNApSAcK
+37,C00010839,52812-45-0,"4,7,7-Trimethyl-6-Oxabicyclo[3.2.1]oct-2-ene",C10H16O,152.12011513,Laurus nobilis,Laurus,KNApSAcK
+38,C00011053,10408-16-9,(-)-Sabinene,C10H16,136.12520051,Laurus nobilis,Laurus,KNApSAcK
+39,C00012179,31105-79-0,Peroxycostunolide,C15H20O4,264.13615913,Laurus nobilis,Laurus,KNApSAcK
+40,C00013040,28254-53-7,(+)-Reynosin,C15H20O3,248.1412445,Laurus nobilis L.,Laurus,KNApSAcK
+41,C00013775,205534-17-4,"Kaempferol 3-(2'',4''-di-(Z)-p-coumaroylrhamnoside)",C39H32O14,724.17920573,Laurus nobilis,Laurus,KNApSAcK
+42,C00021220,21747-46-6,Viridiflorene,C15H24,204.18780077,Laurus nobilis,Laurus,KNApSAcK
+43,C00027407,20497-21-6,Launobine,C18H17NO4,311.11575804,Laurus nobilis,Laurus,KNApSAcK
+44,C00027551,70560-83-7,Isodomesticine,C19H19NO4,325.1314081,Laurus nobilis,Laurus,KNApSAcK
+45,C00028673,2466-42-4,Neolitsine,C19H17NO4,323.11575804,Laurus nobilis,Laurus,KNApSAcK
+46,C00028723,80151-84-4,Norisodomesticine,C18H17NO4,311.11575804,Laurus nobilis,Laurus,KNApSAcK
+47,C00029335,13877-91-3,(E)-beta-Ocimene,C10H16,136.12520051,Laurus nobilis,Laurus,KNApSAcK
+48,C00029488,272780-97-9,3beta-Chlorodehydrocostuslactone,C15H17ClO2,264.0917075,Laurus nobilis,Laurus,KNApSAcK
+49,C00029544,562-74-3,4-Terpineol,C10H18O,154.1357652,Laurus nobilis,Laurus,KNApSAcK
+50,C00029658,156199-49-4,Alangionoside A,C19H34O8,390.22536806,Laurus nobilis,Laurus,KNApSAcK
+51,C00029674,98-55-5,alpha-Terpineol,C10H18O,154.1357652,Laurus nobilis,Laurus,KNApSAcK
+52,C00029682,138665-44-8,Ampelopsisionoside,C19H32O8,388.209718,Laurus nobilis,Laurus,KNApSAcK
+53,C00029980,120330-44-1,Citroside A,C19H30O8,386.19406794,Laurus nobilis,Laurus,KNApSAcK
+54,C00032545,16838-85-0,Zaluzanin D,C17H20O4,288.13615913,Laurus nobilis L.,Laurus,KNApSAcK
+55,C00032567,497233-30-4,"(1R,4S)-1-Hydroperoxy-p-menth-2-en-8-ol acetate",C12H20O4,228.13615913,Laurus nobilis L.,Laurus,KNApSAcK
+56,C00033459,449742-42-1,Turpinionoside A,C19H34O8,390.22536806,Laurus nobilis,Laurus,KNApSAcK
+57,C00035043,80-26-2,alpha-terpineol acetate,C12H20O2,196.14632988,Laurus nobilis,Laurus,KNApSAcK
+58,C00037294,109062-00-2,Icariside B1,C19H30O8,386.19406794,Laurus nobilis,Laurus,KNApSAcK
+59,C00048930,136892-45-0,(+)-Epigallocatechin,C15H14O7,306.0739528,Laurus nobilis,Laurus,KNApSAcK
+60,C00050576,74299-48-2,Dehydrocostuslactone,C15H18O2,230.13067982,Laurus nobilis,Laurus,KNApSAcK
+61,C00053159,93836-50-1,delta-Terpinyl acetate,C12H20O2,196.14632988,Laurus nobilis,Laurus,KNApSAcK
+62,C00054611,41787-55-7,"1,2:9,10-Bismethylenedioxynoraporphine",C18H15NO4,309.10010798,Laurus nobilis,Laurus,KNApSAcK
+63,C00054935,353453-03-9,"4(15),9-Bicyclogermacradiene-1,5-diol",C15H24O2,236.17763001,Laurus nobilis,Laurus,KNApSAcK
+64,C00054936,353453-05-1,Baynol C,C15H22O4,266.15180919,Laurus nobilis,Laurus,KNApSAcK
+65,C00055084,144841-03-2,Dendranthemoside A,C19H34O8,390.22536806,Laurus nobilis,Laurus,KNApSAcK
+66,C00057548,78174-72-8,D-gluco-L-glycero-3-Octulose,C8H16O8,240.08451749,Laurus nobilis,Laurus,KNApSAcK
+0,C00001822,476-70-0,(+)-Boldine,C19H21NO4,327.14705817,Peumus boldus,Boldu,KNApSAcK
+1,C00001869,3019-51-0,(S)-Isoboldine,C19H21NO4,327.14705817,Peumus boldus,Boldu,KNApSAcK
+2,C00003027,512-85-6,Ascaridole,C10H16O2,168.11502975,Peumus boldus,Boldu,KNApSAcK
+3,C00005551,69760-70-9,Isorhamnetin 3-alpha-L-arabinopyranoside-7-rhamnoside,C27H30O15,594.15847029,Peumus boldus,Boldu,KNApSAcK
+4,C00005557,17331-71-4,Isorhamnetin 3-O-beta-glucopyranoside-7-O-alpha-rhamnopyranoside,C28H32O16,624.16903498,Peumus boldus,Boldu,KNApSAcK
+5,C00025652,2196-60-3,(+)-Coclaurine,C17H19NO3,285.13649348,Peumus boldus,Boldu,KNApSAcK
+6,C00025812,486-39-5,Coclaurine,C17H19NO3,285.13649348,Peumus boldus,Boldu,KNApSAcK
+7,C00027409,128-76-7,Laurotetanine,C19H21NO4,327.14705817,Peumus boldus,Boldu,KNApSAcK
+8,C00027433,5890-18-6,Laurolitsine,C18H19NO4,313.1314081,Peumus boldus,Boldu,KNApSAcK
+9,C00027438,475-70-7,Norisocorydine,C19H21NO4,327.14705817,Peumus boldus,Boldu,KNApSAcK
+10,C00054747,91599-23-4,Dehydroboldine,C19H19NO4,325.1314081,Peumus boldus,Boldu,KNApSAcK
+11,C00054930,904686-77-7,Dihydro-4-hydroxy-5-methylene-3-(13-octadecenylidene)-2(3H)-furanone,C23H38O3,362.28209508,Peumus boldus,Boldu,KNApSAcK
+0,C00025988,23979-25-1,O-Methylflavinantine,C20H23NO4,341.16270823,Croton ruizianus,Ruizia,KNApSAcK
+1,C00027366,19777-82-3,Flavinantine,C19H21NO4,327.14705817,Croton ruizianus,Ruizia,KNApSAcK
+2,C00027533,18373-79-0,Crotsparine,C17H17NO3,283.12084342,Croton ruizianus,Ruizia,KNApSAcK
+3,C00027555,20361-70-0,Jacularine,C17H19NO3,285.13649348,Croton ruizianus,Ruizia,KNApSAcK
+0,C00001015,1617-53-4,Amentoflavone,C30H18O10,538.0899968,Toxicodendron succedaneum,Toxicodendron,KNApSAcK
+1,C00002681,492-91-1,Urushiol III,C21H32O2,316.24023027,Toxicodendron radicans,Toxicodendron,KNApSAcK
+2,C00003324,3484-46-6,Mellitoxin,C15H18O7,310.10525293,Toxicodendron globosum,Toxicodendron,KNApSAcK
+3,C00003381,2571-22-4,Tutin,C15H18O6,294.11033831,Toxicodendron capense,Toxicodendron,KNApSAcK
+4,C00004579,528-48-3,Fisetin,C15H10O6,286.04773805,Toxicodendron succedaneum,Toxicodendron,KNApSAcK
+5,C00006516,72149-91-8,Tetrahydroamentoflavone,C30H22O10,542.12129692,Toxicodendron radicans,Toxicodendron,KNApSAcK
+6,C00006941,487-52-5,Butein,C15H12O5,272.06847349,Toxicodendron vernicifluum,Toxicodendron,KNApSAcK
+7,C00006941,487-52-5,Butein,C15H12O5,272.06847349,Toxicodendron semilata,Toxicodendron,KNApSAcK
+8,C00008026,120-05-8,Sulfuretin,C15H10O5,270.05282343,Toxicodendron spp.,Toxicodendron,KNApSAcK
+9,C00008028,54826-89-0,Rengasin,C16H12O6,300.06338812,Toxicodendron diversilobum,Toxicodendron,KNApSAcK
+10,C00008044,494-49-5,Palasitrin,C27H30O15,594.15847029,Toxicodendron diversilobum,Toxicodendron,KNApSAcK
+11,C00021362,4678-67-5,Capenicine,C20H24O8,392.14711774,Toxicodendron capense,Toxicodendron,KNApSAcK
+12,C00021363,91653-75-7,Coriatin,C15H20O6,296.12598837,Toxicodendron capense,Toxicodendron,KNApSAcK
+13,C00021372,24548-57-0,Lambicin,C18H24O7,352.15220312,Toxicodendron capense,Toxicodendron,KNApSAcK
+14,C00021376,24462-32-6,Pretoxin,C19H24O8,380.14711774,Toxicodendron capense,Toxicodendron,KNApSAcK
+0,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Xylosma congestum,Xylosma,KNApSAcK
+0,C00001831,490-53-9,Carnegine,C13H19NO2,221.14157886,Carnegiea gigantea,Carnegiea,KNApSAcK
+1,C00001860,32829-58-6,Gigantine,C13H19NO3,237.13649348,Carnegiea gigantea,Carnegiea,KNApSAcK
+2,C00001865,1745-07-9,Heliamine,C11H15NO2,193.11027873,Carnegiea gigantea,Carnegiea,KNApSAcK
+0,C00000332,5594-30-9,Methyl pheophorbide a,C36H38N4O5,606.28422035,Morinda citrifolia L.,Morinda,KNApSAcK
+1,C00000587,81446-29-9,(-)-Pinoresinol,C20H22O6,358.14163844,Morinda citrifolia,Morinda,KNApSAcK
+2,C00000743,27415-09-4,o-Succinylbenzoic acid,C11H10O5,222.05282343,Morinda lucida,Morinda,KNApSAcK
+3,C00001183,110-17-8,Fumaric acid,C4H4O4,116.01095862,Morinda officinalis,Morinda,KNApSAcK
+4,C00001392,2196-58-9,L-Selenocystathionine,C7H14N2O4Se,270.01187905,Morinda reticulata,Morinda,KNApSAcK
+5,C00002494,13161-75-6,Pteryxin,C21H22O7,386.13655306,Morinda citrifolia L.,Morinda,KNApSAcK
+6,C00002499,92-61-5,Scopoletin,C10H8O4,192.04225874,Morinda officinalis,Morinda,KNApSAcK
+7,C00002499,92-61-5,Scopoletin,C10H8O4,192.04225874,Morinda citrifolia,Morinda,KNApSAcK
+8,C00002683,5463-22-9,Vanillin,C8H8O3,152.04734412,Morinda citrifolia,Morinda,KNApSAcK
+9,C00002728,458-36-6,Coniferaldehyde,C10H10O3,178.06299419,Morinda citrifolia L,Morinda,KNApSAcK
+10,C00002785,72-48-0,Alizarin,C14H8O4,240.04225874,Morinda officinalis,Morinda,KNApSAcK
+11,C00002785,72-48-0,Alizarin,C14H8O4,240.04225874,Morinda citrifolia,Morinda,KNApSAcK
+12,C00002785,72-48-0,Alizarin,C14H8O4,240.04225874,Morinda umbellata,Morinda,KNApSAcK
+13,C00002786,6003-11-8,1-Hydroxy-2-methoxyanthraquinone,C15H10O4,254.05790881,Morinda citrifolia,Morinda,KNApSAcK
+14,C00002786,6003-11-8,1-Hydroxy-2-methoxyanthraquinone,C15H10O4,254.05790881,Morinda officinalis,Morinda,KNApSAcK
+15,C00002786,6003-11-8,1-Hydroxy-2-methoxyanthraquinone,C15H10O4,254.05790881,Morinda umbellata,Morinda,KNApSAcK
+16,C00002792,602-64-2,Anthragallol,C14H8O5,256.03717337,Morinda citrifolia,Morinda,KNApSAcK
+17,C00002792,602-64-2,Anthragallol,C14H8O5,256.03717337,Morinda pandurifolia,Morinda,KNApSAcK
+18,C00002814,24094-45-9,Digiferrugineol,C15H10O4,254.05790881,Morinda parvifolia,Morinda,KNApSAcK
+19,C00002814,24094-45-9,Digiferrugineol,C15H10O4,254.05790881,Morinda officinalis,Morinda,KNApSAcK
+20,C00002815,2589-39-1,"1,4-Dihydroxy-2-methylanthraquinone",C15H10O4,254.05790881,Morinda officinalis,Morinda,KNApSAcK
+21,C00002828,17241-40-6,2-Hydroxymethylanthraquinone,C15H10O3,238.06299419,Morinda officinalis,Morinda,KNApSAcK
+22,C00002828,17241-40-6,2-Hydroxymethylanthraquinone,C15H10O3,238.06299419,Morinda parvifolia,Morinda,KNApSAcK
+23,C00002838,478-08-0,Lucidin,C15H10O5,270.05282343,Morinda umbellata,Morinda,KNApSAcK
+24,C00002838,478-08-0,Lucidin,C15H10O5,270.05282343,Morinda officinalis,Morinda,KNApSAcK
+25,C00002838,478-08-0,Lucidin,C15H10O5,270.05282343,Morinda citrifolia,Morinda,KNApSAcK
+26,C00002839,79560-36-4,"1,3-Dihydroxy-2-methoxymethylanthraquinone",C16H12O5,284.06847349,Morinda parvifolia,Morinda,KNApSAcK
+27,C00002843,41621-32-3,Morindaparvin A,C15H8O4,252.04225874,Morinda parvifolia,Morinda,KNApSAcK
+28,C00002844,478-29-5,Morindone,C15H10O5,270.05282343,Morinda citrifolia,Morinda,KNApSAcK
+29,C00002844,478-29-5,Morindone,C15H10O5,270.05282343,Morinda officinalis,Morinda,KNApSAcK
+30,C00002844,478-29-5,Morindone,C15H10O5,270.05282343,Morinda tinctoria,Morinda,KNApSAcK
+31,C00002844,478-29-5,Morindone,C15H10O5,270.05282343,Morinda angustifolia,Morinda,KNApSAcK
+32,C00002862,117-02-2,Rubiadin,C15H10O4,254.05790881,Morinda pandurifolia,Morinda,KNApSAcK
+33,C00002862,117-02-2,Rubiadin,C15H10O4,254.05790881,Morinda tinctoria var.tomentosa.,Morinda,KNApSAcK
+34,C00002862,117-02-2,Rubiadin,C15H10O4,254.05790881,Morinda officinalis,Morinda,KNApSAcK
+35,C00002862,117-02-2,Rubiadin,C15H10O4,254.05790881,Morinda umbellata,Morinda,KNApSAcK
+36,C00002862,117-02-2,Rubiadin,C15H10O4,254.05790881,Morinda citrifolia,Morinda,KNApSAcK
+37,C00002864,84-54-8,2-Methylanthraquinone,C15H10O2,222.06807956,Morinda pandurifolia,Morinda,KNApSAcK
+38,C00002864,84-54-8,2-Methylanthraquinone,C15H10O2,222.06807956,Morinda citrifolia,Morinda,KNApSAcK
+39,C00002864,84-54-8,2-Methylanthraquinone,C15H10O2,222.06807956,Morinda officinalis,Morinda,KNApSAcK
+40,C00002864,84-54-8,2-Methylanthraquinone,C15H10O2,222.06807956,Morinda lucida,Morinda,KNApSAcK
+41,C00002864,84-54-8,2-Methylanthraquinone,C15H10O2,222.06807956,Morinda umbellata,Morinda,KNApSAcK
+42,C00003072,14259-45-1,Asperuloside,C18H22O11,414.11621155,Morinda coreia,Morinda,KNApSAcK
+43,C00003072,14259-45-1,Asperuloside,C18H22O11,414.11621155,Morinda citrifolia,Morinda,KNApSAcK
+44,C00003073,479-98-1,Aucubin,C15H22O9,346.1263823,Morinda citrifolia,Morinda,KNApSAcK
+45,C00003073,479-98-1,Aucubin,C15H22O9,346.1263823,Morinda officinalis,Morinda,KNApSAcK
+46,C00003089,5945-50-6,Monotropein,C16H22O11,390.11621155,Morinda citrifolia,Morinda,KNApSAcK
+47,C00003089,5945-50-6,Monotropein,C16H22O11,390.11621155,Morinda officinalis,Morinda,KNApSAcK
+48,C00003097,27530-67-2,6beta-Hydroxygeniposide,C17H24O11,404.13186161,Morinda citrifolia,Morinda,KNApSAcK
+49,C00003467,150-86-7,Phytol,C20H40O,296.3079159,Morinda citrifolia L.,Morinda,KNApSAcK
+50,C00003558,77-52-1,Ursolic acid,C30H48O3,456.3603454,Morinda citrifolia L.,Morinda,KNApSAcK
+51,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Morinda citrifolia L,Morinda,KNApSAcK
+52,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Morinda officinalis,Morinda,KNApSAcK
+53,C00003674,83-48-7,beta-Stigmasterol,C29H48O,412.37051615,Morinda officinalis,Morinda,KNApSAcK
+54,C00003674,83-48-7,beta-Stigmasterol,C29H48O,412.37051615,Morinda umbellata,Morinda,KNApSAcK
+55,C00003890,18085-97-7,Jaceosidin,C17H14O7,330.0739528,Morinda citrifolia,Morinda,KNApSAcK
+56,C00004215,60372-13-6,"Apigenin 5,7-dimethyl ether 4'-galactoside",C23H24O10,460.13694699,Morinda citrifolia,Morinda,KNApSAcK
+57,C00004266,5373-11-5,Cinaroside,C21H20O11,448.10056148,Morinda morindoides,Morinda,KNApSAcK
+58,C00004565,520-18-3,Kaempferol,C15H10O6,286.04773805,Morinda citrifolia,Morinda,KNApSAcK
+59,C00004631,117-39-5,Quercetin,C15H10O7,302.04265268,Morinda morindoides,Morinda,KNApSAcK
+60,C00005140,482-39-3,Afzelin,C21H20O10,432.10564686,Morinda morindoides,Morinda,KNApSAcK
+61,C00005169,17650-84-9,Kaempferol 3-rutinoside,C27H30O15,594.15847029,Morinda morindoides,Morinda,KNApSAcK
+62,C00005169,17650-84-9,Kaempferol 3-rutinoside,C27H30O15,594.15847029,Morinda citrifolia,Morinda,KNApSAcK
+63,C00005374,522-12-3,Quercetin 3-O-alpha-L-rhamnoside,C21H20O11,448.10056148,Morinda morindoides,Morinda,KNApSAcK
+64,C00005374,522-12-3,Quercetin 3-O-alpha-L-rhamnoside,C21H20O11,448.10056148,Morinda citrifolia,Morinda,KNApSAcK
+65,C00005413,153-18-4,Quercetin 3-rutinoside,C27H30O16,610.15338491,Morinda morindoides,Morinda,KNApSAcK
+66,C00005413,153-18-4,Quercetin 3-rutinoside,C27H30O16,610.15338491,Morinda citrifolia,Morinda,KNApSAcK
+67,C00005548,604-80-8,Isorhamnetin 3-O-rutinoside,C28H32O16,624.16903498,Morinda citrifolia,Morinda,KNApSAcK
+68,C00010736,70368-12-6,Oruwacin,C21H18O8,398.10016755,Morinda lucida,Morinda,KNApSAcK
+69,C00013676,111133-90-5,Chrysoeriol 7-neohesperidoside,C28H32O15,608.17412036,Morinda morindoides,Morinda,KNApSAcK
+70,C00019064,508-02-1,Oleanolic acid,C30H48O3,456.3603454,Morinda citrifolia L.,Morinda,KNApSAcK
+71,C00019308,474-58-8,3-O-beta-D-Glucopyranosyl sitosterol,C35H60O6,576.43898965,Morinda officinalis,Morinda,KNApSAcK
+72,C00019308,474-58-8,3-O-beta-D-Glucopyranosyl sitosterol,C35H60O6,576.43898965,Morinda citrifolia,Morinda,KNApSAcK
+73,C00019420,521-61-9,Physcion,C16H12O5,284.06847349,Morinda officinalis,Morinda,KNApSAcK
+74,C00019420,521-61-9,Physcion,C16H12O5,284.06847349,Morinda citrifolia L.,Morinda,KNApSAcK
+75,C00019999,130464-57-2,Peucedanocoumarin III,C21H22O7,386.13655306,Morinda citrifolia L.,Morinda,KNApSAcK
+76,C00029329,54835-70-0,"(6S,9R)-Roseoside",C19H30O8,386.19406794,Morinda citrifolia L.,Morinda,KNApSAcK
+77,C00029390,64070-09-3,13-epi-Phaeophorbide a methyl ester,C36H38N4O5,606.28422035,Morinda citrifolia L.,Morinda,KNApSAcK
+78,C00029477,2196-18-1,"3,4'-Dihydroxy-3'-methoxypropiophenone",C10H12O4,196.07355887,Morinda citrifolia L,Morinda,KNApSAcK
+79,C00029507,15914-62-2,3-O-Acetylpomolic acid,C32H50O5,514.36582471,Morinda citrifolia L.,Morinda,KNApSAcK
+80,C00029548,877238-55-6,"5,15-Dimethylmorindol",C17H14O6,314.07903818,Morinda citrifolia L.,Morinda,KNApSAcK
+81,C00029570,851447-05-7,6alpha-Hydroxyadoxoside,C17H26O11,406.14751167,Morinda citrifolia L.,Morinda,KNApSAcK
+82,C00029633,7372-30-7,Acetylursolic acid,C32H50O4,498.37091008,Morinda officinalis,Morinda,KNApSAcK
+83,C00029633,7372-30-7,Acetylursolic acid,C32H50O4,498.37091008,Morinda citrifolia,Morinda,KNApSAcK
+84,C00029633,7372-30-7,Acetylursolic acid,C32H50O4,498.37091008,Morinda tinctoria var.tomentosa.,Morinda,KNApSAcK
+85,C00029749,25368-11-0,Asperulosidic acid,C18H24O12,432.12677623,Morinda coreia,Morinda,KNApSAcK
+86,C00029749,25368-11-0,Asperulosidic acid,C18H24O12,432.12677623,Morinda citrifolia L.,Morinda,KNApSAcK
+87,C00029749,25368-11-0,Asperulosidic acid,C18H24O12,432.12677623,Morinda elliptica,Morinda,KNApSAcK
+88,C00029789,64199-78-6,Barbinervic acid,C30H48O5,488.35017464,Morinda citrifolia L.,Morinda,KNApSAcK
+89,C00029978,942610-32-4,Citrifoside,C16H22O10,374.12129692,Morinda citrifolia L.,Morinda,KNApSAcK
+90,C00029993,68800-57-7,Clethric acid,C30H48O6,504.34508927,Morinda citrifolia L.,Morinda,KNApSAcK
+91,C00030089,477-83-8,Damnacanthol,C16H12O5,284.06847349,Morinda citrifolia,Morinda,KNApSAcK
+92,C00030092,18843-01-1,Deacetyl asperuloside,C16H20O10,372.10564686,Morinda coreia,Morinda,KNApSAcK
+93,C00030092,18843-01-1,Deacetyl asperuloside,C16H20O10,372.10564686,Morinda citrifolia L.,Morinda,KNApSAcK
+94,C00030093,14259-55-3,Deacetylasperulosidic acid,C16H22O11,390.11621155,Morinda citrifolia L.,Morinda,KNApSAcK
+95,C00030459,465-99-6,Hederagenin,C30H48O4,472.35526002,Morinda citrifolia L.,Morinda,KNApSAcK
+96,C00031228,121467-43-4,Rotungenic acid,C30H48O5,488.35017464,Morinda citrifolia L.,Morinda,KNApSAcK
+97,C00031228,121467-43-4,Rotungenic acid,C30H48O5,488.35017464,Morinda officinalis,Morinda,KNApSAcK
+98,C00031233,7460-43-7,Rubiadin-1-methyl ether,C16H12O4,268.07355887,Morinda umbellata,Morinda,KNApSAcK
+99,C00031233,7460-43-7,Rubiadin-1-methyl ether,C16H12O4,268.07355887,Morinda citrifolia L.,Morinda,KNApSAcK
+100,C00031233,7460-43-7,Rubiadin-1-methyl ether,C16H12O4,268.07355887,Morinda officinalis,Morinda,KNApSAcK
+101,C00031346,58822-47-2,Secoxyloganin,C17H24O11,404.13186161,Morinda coreia,Morinda,KNApSAcK
+102,C00031525,184916-38-9,Lucidin 3-methyl ether,C16H12O5,284.06847349,Morinda citrifolia,Morinda,KNApSAcK
+103,C00031526,6268-09-3,"1-Hydroxy-2-methyl-9,10-anthraquinone",C15H10O3,238.06299419,Morinda citrifolia,Morinda,KNApSAcK
+104,C00031526,6268-09-3,"1-Hydroxy-2-methyl-9,10-anthraquinone",C15H10O3,238.06299419,Morinda officinalis,Morinda,KNApSAcK
+105,C00031526,6268-09-3,"1-Hydroxy-2-methyl-9,10-anthraquinone",C15H10O3,238.06299419,Morinda pandurifolia,Morinda,KNApSAcK
+106,C00031546,87686-86-0,"2-Methyl-1,3,6-trihydroxyanthraquinone",C15H10O5,270.05282343,Morinda citrifolia,Morinda,KNApSAcK
+107,C00031591,6170-06-5,2-Hydroxy-1-methoxyanthraquinone,C15H10O4,254.05790881,Morinda officinalis,Morinda,KNApSAcK
+108,C00031591,6170-06-5,2-Hydroxy-1-methoxyanthraquinone,C15H10O4,254.05790881,Morinda citrifolia L.,Morinda,KNApSAcK
+109,C00031592,69506-79-2,Americanin,C18H16O6,328.09468824,Morinda citrifolia,Morinda,KNApSAcK
+110,C00031600,19852-76-7,"Anthragallol 1,3-dimethyl ether",C16H12O5,284.06847349,Morinda citrifolia L.,Morinda,KNApSAcK
+111,C00031601,10383-63-8,"1,3-Dihydroxy-2-methoxyanthraquinone",C15H10O5,270.05282343,Morinda officinalis,Morinda,KNApSAcK
+112,C00031601,10383-63-8,"1,3-Dihydroxy-2-methoxyanthraquinone",C15H10O5,270.05282343,Morinda citrifolia L.,Morinda,KNApSAcK
+113,C00031679,340007-73-0,Citrifolinin A,C27H28O14,576.14790561,Morinda citrifolia L.,Morinda,KNApSAcK
+114,C00031680,442198-07-4,Yopaaoside A,C27H28O15,592.14282023,Morinda elliptica,Morinda,KNApSAcK
+115,C00031680,442198-07-4,Yopaaoside A,C27H28O15,592.14282023,Morinda coreia,Morinda,KNApSAcK
+116,C00031680,442198-07-4,Yopaaoside A,C27H28O15,592.14282023,Morinda citrifolia L.,Morinda,KNApSAcK
+117,C00032029,144828-18-2,Morenone 1,C17H14O5,298.08412356,Morinda citrifolia L,Morinda,KNApSAcK
+118,C00032029,144828-18-2,Morenone 1,C17H14O5,298.08412356,Morinda officinalis,Morinda,KNApSAcK
+119,C00032030,157744-29-1,Morenone 2,C16H12O5,284.06847349,Morinda citrifolia L,Morinda,KNApSAcK
+120,C00032030,157744-29-1,Morenone 2,C16H12O5,284.06847349,Morinda officinalis,Morinda,KNApSAcK
+121,C00032032,249916-07-2,Morindacin,C10H14O5,214.08412356,Morinda citrifolia L,Morinda,KNApSAcK
+122,C00032033,64809-71-8,Morindone-5-methyl ether,C16H12O5,284.06847349,Morinda citrifolia L,Morinda,KNApSAcK
+123,C00032078,3736-59-2,"1,3-Dihydroxy-2-formylanthraquinone",C15H8O5,268.03717337,Morinda pandurifolia,Morinda,KNApSAcK
+124,C00032078,3736-59-2,"1,3-Dihydroxy-2-formylanthraquinone",C15H8O5,268.03717337,Morinda citrifolia L.,Morinda,KNApSAcK
+125,C00032078,3736-59-2,"1,3-Dihydroxy-2-formylanthraquinone",C15H8O5,268.03717337,Morinda lucida,Morinda,KNApSAcK
+126,C00032078,3736-59-2,"1,3-Dihydroxy-2-formylanthraquinone",C15H8O5,268.03717337,Morinda tinctoria,Morinda,KNApSAcK
+127,C00032541,350590-52-2,Yopaaoside B,C26H28O14,564.14790561,Morinda coreia,Morinda,KNApSAcK
+128,C00032541,350590-52-2,Yopaaoside B,C26H28O14,564.14790561,Morinda citrifolia,Morinda,KNApSAcK
+129,C00032541,350590-52-2,Yopaaoside B,C26H28O14,564.14790561,Morinda elliptica,Morinda,KNApSAcK
+130,C00032702,133838-65-0,Americanol A,C18H18O6,330.11033831,Morinda citrifolia,Morinda,KNApSAcK
+131,C00033228,478-06-8,Munjistin,C15H8O6,284.03208799,Morinda umbellata,Morinda,KNApSAcK
+132,C00033656,80286-36-8,(-)-Balanophonin,C20H20O6,356.12598837,Morinda citrifolia L,Morinda,KNApSAcK
+133,C00035974,121051-83-0,7-Hydroxy-8-methoxy-2-methylanthraquinone,C16H12O4,268.07355887,Morinda citrifolia L.,Morinda,KNApSAcK
+134,C00036635,118292-15-2,6-O-Acetylscandoside,C18H24O12,432.12677623,Morinda coreia,Morinda,KNApSAcK
+135,C00038026,442198-15-4,Yopaaoside C,C17H26O12,422.1424263,Morinda coreia,Morinda,KNApSAcK
+136,C00038111,108637-82-7,"1,3,8-Trihydroxy-2-methoxyanthraquinone",C15H10O6,286.04773805,Morinda officinalis,Morinda,KNApSAcK
+137,C00038111,108637-82-7,"1,3,8-Trihydroxy-2-methoxyanthraquinone",C15H10O6,286.04773805,Morinda citrifolia,Morinda,KNApSAcK
+138,C00038191,129-43-1,1-Hydroxyanthraquinone,C14H8O3,224.04734412,Morinda citrifolia,Morinda,KNApSAcK
+139,C00038191,129-43-1,1-Hydroxyanthraquinone,C14H8O3,224.04734412,Morinda officinalis,Morinda,KNApSAcK
+140,C00038228,68243-30-1,2-Hydroxy-3-(hydroxymethyl)anthraquinone,C15H10O4,254.05790881,Morinda citrifolia,Morinda,KNApSAcK
+141,C00039452,776-86-3,Isoscopoletin,C10H8O4,192.04225874,Morinda citrifolia,Morinda,KNApSAcK
+142,C00039793,256380-15-1,Morinol A,C33H40O8,564.27231825,Morinda chinensis,Morinda,KNApSAcK
+143,C00039794,256380-16-2,Morinol B,C33H40O8,564.27231825,Morinda chinensis,Morinda,KNApSAcK
+144,C00039795,1004987-18-1,Morintrifolin A,C17H16O7,332.08960287,Morinda citrifolia,Morinda,KNApSAcK
+145,C00039796,1004987-19-2,Morintrifolin B,C18H18O8,362.10016755,Morinda citrifolia,Morinda,KNApSAcK
+146,C00040332,518-73-0,Soranjidiol,C15H10O4,254.05790881,Morinda lucida,Morinda,KNApSAcK
+147,C00040332,518-73-0,Soranjidiol,C15H10O4,254.05790881,Morinda citrifolia,Morinda,KNApSAcK
+148,C00040332,518-73-0,Soranjidiol,C15H10O4,254.05790881,Morinda officinalis,Morinda,KNApSAcK
+149,C00040332,518-73-0,Soranjidiol,C15H10O4,254.05790881,Morinda umbellata,Morinda,KNApSAcK
+150,C00040332,518-73-0,Soranjidiol,C15H10O4,254.05790881,Morinda tinctoria var.tomentosa.,Morinda,KNApSAcK
+151,C00042063,542-44-9,"2,3-Dihydroxypropyl hexadecanoate",C19H38O4,330.2770097,Morinda citrifolia L,Morinda,KNApSAcK
+152,C00042395,366469-87-6,Citrifolinin B epimer a,C17H22O12,418.11112617,Morinda citrifolia,Morinda,KNApSAcK
+153,C00042396,366469-88-7,Citrifolinin B epimer b,C17H22O12,418.11112617,Morinda citrifolia,Morinda,KNApSAcK
+154,C00042440,65-46-3,Cytidine,C9H13N3O5,243.08552055,Morinda citrifolia,Morinda,KNApSAcK
+155,C00042457,497178-39-9,Dehydromethoxygaertneroside,C27H28O14,576.14790561,Morinda citrifolia,Morinda,KNApSAcK
+156,C00042457,497178-39-9,Dehydromethoxygaertneroside,C27H28O14,576.14790561,Morinda morindoides,Morinda,KNApSAcK
+157,C00042470,50-99-7,D-glucose,C6H12O6,180.06338812,Morinda citrifolia,Morinda,KNApSAcK
+158,C00042736,13403-14-0,Methyl beta-D-fructofuranoside,C7H14O6,194.07903818,Morinda citrifolia,Morinda,KNApSAcK
+159,C00044492,497178-34-4,Acetylgaertneroside,C28H30O14,590.16355567,Morinda morindoides,Morinda,KNApSAcK
+160,C00044697,497178-38-8,Dehydrogaertneroside,C26H26O13,546.13734092,Morinda morindoides,Morinda,KNApSAcK
+161,C00044748,497178-49-1,Epoxygaertneroside,C26H28O14,564.14790561,Morinda morindoides,Morinda,KNApSAcK
+162,C00044749,497178-51-5,Epoxymethoxygaertneroside,C27H30O15,594.15847029,Morinda morindoides,Morinda,KNApSAcK
+163,C00044776,497177-86-3,Gaertneroside,C26H28O13,548.15299098,Morinda morindoides,Morinda,KNApSAcK
+164,C00044927,497178-43-5,Methoxygaertneroside,C27H30O14,578.16355567,Morinda morindoides,Morinda,KNApSAcK
+165,C00048505,15664-29-6,Phaeophorbide a,C35H36N4O5,592.26857029,Morinda citrifolia,Morinda,KNApSAcK
+166,C00048682,477-84-9,Damnacanthal,C16H10O5,282.05282343,Morinda pandurifolia,Morinda,KNApSAcK
+167,C00048682,477-84-9,Damnacanthal,C16H10O5,282.05282343,Morinda elliptica,Morinda,KNApSAcK
+168,C00048682,477-84-9,Damnacanthal,C16H10O5,282.05282343,Morinda citrifolia,Morinda,KNApSAcK
+169,C00050645,20460-44-0,1-Methoxy-2-methylanthraquinone,C16H12O3,252.07864425,Morinda pandurifolia,Morinda,KNApSAcK
+170,C00050645,20460-44-0,1-Methoxy-2-methylanthraquinone,C16H12O3,252.07864425,Morinda umbellata,Morinda,KNApSAcK
+171,C00050645,20460-44-0,1-Methoxy-2-methylanthraquinone,C16H12O3,252.07864425,Morinda citrifolia,Morinda,KNApSAcK
+172,C00051640,60450-21-7,Morindin,C26H28O14,564.14790561,Morinda citrifolia,Morinda,KNApSAcK
+173,C00051640,60450-21-7,Morindin,C26H28O14,564.14790561,Morinda officinalis,Morinda,KNApSAcK
+174,C00053918,936478-88-5,Dide-O-methyltanegool,C18H20O7,348.12090299,Morinda citrifolia,Morinda,KNApSAcK
+175,C00053928,1191118-02-1,Damnacanthol 11-primeveroside,C27H30O14,578.16355567,Morinda citrifolia,Morinda,KNApSAcK
+176,C00054132,777061-45-7,Americanoic acid A,C18H16O7,344.08960287,Morinda citrifolia,Morinda,KNApSAcK
+177,C00054466,77053-45-3,Americanin D,C18H16O6,328.09468824,Morinda citrifolia,Morinda,KNApSAcK
+178,C00054629,56594-54-8,2-Formyl-1-hydroxyanthraquinone,C15H8O4,252.04225874,Morinda pandurifolia,Morinda,KNApSAcK
+179,C00054629,56594-54-8,2-Formyl-1-hydroxyanthraquinone,C15H8O4,252.04225874,Morinda citrifolia,Morinda,KNApSAcK
+180,C00055204,955044-23-2,Citrifolinin B,C17H22O12,418.11112617,Morinda citrifolia,Morinda,KNApSAcK
+181,C00055309,1191118-01-0,Digiferruginol omega-primeveroside,C26H28O13,548.15299098,Morinda citrifolia,Morinda,KNApSAcK
+182,C00056316,1005382-37-5,Isoamericanoic acid A,C18H16O7,344.08960287,Morinda citrifolia,Morinda,KNApSAcK
+183,C00056567,117861-54-8,3-Methyl-3-butenyl glucoside,C11H20O6,248.12598837,Morinda citrifolia,Morinda,KNApSAcK
+184,C00056677,122739-14-4,Hydyotanthraquinone,C16H12O6,300.06338812,Morinda citrifolia,Morinda,KNApSAcK
+185,C00056880,1150642-20-8,Morinaphthalene,C11H14O5,226.08412356,Morinda citrifolia,Morinda,KNApSAcK
+186,C00057291,255904-23-5,Nonioside B,C26H46O17,630.27350005,Morinda citrifolia,Morinda,KNApSAcK
+187,C00057329,291293-49-7,1-O-Octanoylgentiobiose,C20H36O12,468.22067662,Morinda citrifolia,Morinda,KNApSAcK
+188,C00057330,291293-50-0,Nonioside D,C18H32O12,440.18937649,Morinda citrifolia,Morinda,KNApSAcK
+189,C00057331,291293-51-1,Nonioside A,C17H30O11,410.1788118,Morinda citrifolia,Morinda,KNApSAcK
+190,C00057366,3571-31-1,Physcihydrone,C16H14O4,270.08920894,Morinda citrifolia,Morinda,KNApSAcK
+191,C00057670,942619-34-3,1-O-Octanoylsophorose,C20H36O12,468.22067662,Morinda citrifolia,Morinda,KNApSAcK
+192,C00057671,942619-35-4,Nonioside E,C24H42O17,602.24219992,Morinda citrifolia,Morinda,KNApSAcK
+193,C00057679,944746-18-3,Nonioside F,C28H50O17,658.30480017,Morinda citrifolia,Morinda,KNApSAcK
+194,C00057680,944746-19-4,Nonioside G,C34H60O18,756.37796512,Morinda citrifolia,Morinda,KNApSAcK
+195,C00057687,952489-74-6,Morindicone,C16H12O4,268.07355887,Morinda citrifolia,Morinda,KNApSAcK
+196,C00057688,952489-75-7,Morinthone,C31H44O3,464.32904527,Morinda citrifolia,Morinda,KNApSAcK
+197,C00057692,955092-67-8,Morinaphthalenone,C21H36O4,352.26135964,Morinda citrifolia,Morinda,KNApSAcK
+198,C00057734,1005379-33-8,"1,3,5-Trihydroxy-2-methoxy-6-(methoxymethyl)anthraquinone",C17H14O7,330.0739528,Morinda citrifolia,Morinda,KNApSAcK
+199,C00058275,942609-65-6,"1,1',5-Tri-O-methylmorindol",C18H16O6,328.09468824,Morinda citrifolia,Morinda,KNApSAcK
+200,C00063713,1214993-02-8,Nonioside L,C16H28O10,380.16824712,Morinda citrifolia,Morinda,KNApSAcK
+201,C00063751,1273182-57-2,Nonioside K,C17H30O11,410.1788118,Morinda citrifolia,Morinda,KNApSAcK
+202,C00063752,1273182-61-8,Nonioside M,C16H28O10,380.16824712,Morinda citrifolia,Morinda,KNApSAcK
+203,C00063753,1273182-74-3,Nonioside N,C17H30O12,426.17372642,Morinda citrifolia,Morinda,KNApSAcK
+204,C00063754,1273182-78-7,Nonioside O,C16H28O11,396.16316174,Morinda citrifolia,Morinda,KNApSAcK
+205,C00063822,1357351-70-2,Nonin B,C17H16O5,300.09977362,Morinda citrifolia,Morinda,KNApSAcK
+206,C00063822,1357351-70-2,Nonin B,C17H16O5,300.09977362,Morinda pandurifolia,Morinda,KNApSAcK
+207,C00063869,142878-32-8,"1,6-Dihydroxy-2-methoxyanthraquinone",C15H10O5,270.05282343,Morinda officinalis,Morinda,KNApSAcK
+208,C00063920,152-84-1,Ruberythric acid,C25H26O13,534.13734092,Morinda officinalis,Morinda,KNApSAcK
+209,C00063920,152-84-1,Ruberythric acid,C25H26O13,534.13734092,Morinda citrifolia,Morinda,KNApSAcK
+210,C00063922,15219-93-9,Methyl alpha-D-fructofuranoside,C7H14O6,194.07903818,Morinda citrifolia,Morinda,KNApSAcK
+211,C00063937,1561909-88-3,Umbellatolide A,C9H12O4,184.07355887,Morinda umbellata,Morinda,KNApSAcK
+212,C00063938,1561909-92-9,Umbellatolide B,C9H12O4,184.07355887,Morinda umbellata,Morinda,KNApSAcK
+213,C00063998,1673513-38-6,Morinquinone,C18H12O4,292.07355887,Morinda elliptica,Morinda,KNApSAcK
+214,C00064004,170384-80-2,Morindolide,C9H12O3,168.07864425,Morinda officinalis,Morinda,KNApSAcK
+215,C00064004,170384-80-2,Morindolide,C9H12O3,168.07864425,Morinda citrifolia,Morinda,KNApSAcK
+216,C00064032,17526-17-9,Ibericin,C17H14O5,298.08412356,Morinda pandurifolia,Morinda,KNApSAcK
+217,C00064032,17526-17-9,Ibericin,C17H14O5,298.08412356,Morinda citrifolia,Morinda,KNApSAcK
+218,C00064163,21402-70-0,"13-Hydroxy-9,11,15-octadecatrienoic acid",C18H30O3,294.21949482,Morinda citrifolia,Morinda,KNApSAcK
+219,C00064230,261155-46-8,"1,7-Dihydroxy-8-methoxy-2-methylanthraquinone",C16H12O5,284.06847349,Morinda pandurifolia,Morinda,KNApSAcK
+220,C00064230,261155-46-8,"1,7-Dihydroxy-8-methoxy-2-methylanthraquinone",C16H12O5,284.06847349,Morinda citrifolia,Morinda,KNApSAcK
+221,C00064252,28504-24-7,1-Methoxy-3-hydroxyanthraquinone,C15H10O4,254.05790881,Morinda citrifolia,Morinda,KNApSAcK
+222,C00064252,28504-24-7,1-Methoxy-3-hydroxyanthraquinone,C15H10O4,254.05790881,Morinda pandurifolia,Morinda,KNApSAcK
+223,C00064277,3274-20-2,2-Methoxyanthraquinone,C15H10O3,238.06299419,Morinda citrifolia,Morinda,KNApSAcK
+224,C00064277,3274-20-2,2-Methoxyanthraquinone,C15H10O3,238.06299419,Morinda officinalis,Morinda,KNApSAcK
+225,C00064316,390401-25-9,Decumbic acid,C9H12O4,184.07355887,Morinda citrifolia,Morinda,KNApSAcK
+226,C00064316,390401-25-9,Decumbic acid,C9H12O4,184.07355887,Morinda pandurifolia,Morinda,KNApSAcK
+227,C00064345,478-30-8,"2-Methyl-3,5,6-trihydroxyanthraquinone",C15H10O5,270.05282343,Morinda officinalis,Morinda,KNApSAcK
+228,C00064345,478-30-8,"2-Methyl-3,5,6-trihydroxyanthraquinone",C15H10O5,270.05282343,Morinda citrifolia,Morinda,KNApSAcK
+229,C00064429,602-63-1,"1,2-Dihydroxy-3-methylanthraquinone",C15H10O4,254.05790881,Morinda officinalis,Morinda,KNApSAcK
+230,C00064429,602-63-1,"1,2-Dihydroxy-3-methylanthraquinone",C15H10O4,254.05790881,Morinda citrifolia,Morinda,KNApSAcK
+231,C00064447,6219-65-4,"1,3-Dihydroxy-6-methylanthraquinone",C15H10O4,254.05790881,Morinda officinalis,Morinda,KNApSAcK
+232,C00064447,6219-65-4,"1,3-Dihydroxy-6-methylanthraquinone",C15H10O4,254.05790881,Morinda citrifolia,Morinda,KNApSAcK
+233,C00064455,6363-86-6,2-Formylanthraquinone,C15H8O3,236.04734412,Morinda citrifolia,Morinda,KNApSAcK
+234,C00064519,74381-59-2,1-Methyl-3-hydroxyanthraquinone,C15H10O3,238.06299419,Morinda pandurifolia,Morinda,KNApSAcK
+235,C00064519,74381-59-2,1-Methyl-3-hydroxyanthraquinone,C15H10O3,238.06299419,Morinda citrifolia,Morinda,KNApSAcK
+236,C00064538,78964-45-1,Morofficinaloside,C17H26O11,406.14751167,Morinda citrifolia,Morinda,KNApSAcK
+237,C00064538,78964-45-1,Morofficinaloside,C17H26O11,406.14751167,Morinda officinalis,Morinda,KNApSAcK
+238,C00064541,82-29-1,Flavopurpurin,C14H8O5,256.03717337,Morinda pandurifolia,Morinda,KNApSAcK
+239,C00064541,82-29-1,Flavopurpurin,C14H8O5,256.03717337,Morinda citrifolia,Morinda,KNApSAcK
+240,C00064608,897627-41-7,Nonin C,C17H16O5,300.09977362,Morinda pandurifolia,Morinda,KNApSAcK
+241,C00064608,897627-41-7,Nonin C,C17H16O5,300.09977362,Morinda citrifolia,Morinda,KNApSAcK
+242,C00064629,93876-18-7,"1,3-Dimethoxy-2-methoxymethylanthraquinone",C18H16O5,312.09977362,Morinda pandurifolia,Morinda,KNApSAcK
+243,C00064629,93876-18-7,"1,3-Dimethoxy-2-methoxymethylanthraquinone",C18H16O5,312.09977362,Morinda citrifolia,Morinda,KNApSAcK
+244,C00064631,942619-33-2,Nonioside I,C18H32O12,440.18937649,Morinda citrifolia,Morinda,KNApSAcK
+0,C00002214,6874-80-2,Calpurnine,C20H27N3O3,357.20524175,Brongniartia spp.,Brongniartia,KNApSAcK
+1,C00002221,15358-48-2,13-Hydroxylupanine,C15H24N2O2,264.18377802,Brongniartia spp.,Brongniartia,KNApSAcK
+2,C00026323,140459-55-8,Dehydroaphylline,C15H22N2O,246.17321334,Brongniartia spp.,Brongniartia,KNApSAcK
+3,C00026331,114370-18-2,Homo-6-epipodopetaline,C21H33N3,327.26744807,Brongniartia spp.,Brongniartia,KNApSAcK
+4,C00026332,38965-96-7,Homopiptanthine,C21H35N3,329.28309814,Brongniartia spp.,Brongniartia,KNApSAcK
+0,C00000134,21293-29-8,Abscisic acid,C15H20O4,264.13615913,Zanthoxylum simulans,Zanthoxylum,KNApSAcK
+1,C00000136,470-82-6,"1,8-Cineol",C10H18O,154.1357652,Zanthoxylum armatum,Zanthoxylum,KNApSAcK
+2,C00000136,470-82-6,"1,8-Cineol",C10H18O,154.1357652,Zanthoxylum decaryi,Zanthoxylum,KNApSAcK
+3,C00000136,470-82-6,"1,8-Cineol",C10H18O,154.1357652,Zanthoxylum bungeanum,Zanthoxylum,KNApSAcK
+4,C00000149,6750-60-3,Espatulenol,C15H24O,220.18271539,Zanthoxylum armatum,Zanthoxylum,KNApSAcK
+5,C00000184,2867-05-2,alpha-Thujene,C10H16,136.12520051,Zanthoxylum armatum,Zanthoxylum,KNApSAcK
+6,C00000297,66-97-7,Ficusin,C11H6O3,186.03169406,Zanthoxylum flavum,Zanthoxylum,KNApSAcK
+7,C00000488,103823-32-1,Culantraramine,C32H46N2O2,490.35592873,Zanthoxylum avicennae,Zanthoxylum,KNApSAcK
+8,C00000488,103823-32-1,Culantraramine,C32H46N2O2,490.35592873,Zanthoxylum culantrillo,Zanthoxylum,KNApSAcK
+9,C00000488,103823-32-1,Culantraramine,C32H46N2O2,490.35592873,Zanthoxylum chiriquinum,Zanthoxylum,KNApSAcK
+10,C00000488,103823-32-1,Culantraramine,C32H46N2O2,490.35592873,Zanthoxylum procerum,Zanthoxylum,KNApSAcK
+11,C00000489,103805-67-0,Culantraraminol,C32H48N2O3,508.36649341,Zanthoxylum procerum,Zanthoxylum,KNApSAcK
+12,C00000489,103805-67-0,Culantraraminol,C32H48N2O3,508.36649341,Zanthoxylum avicennae,Zanthoxylum,KNApSAcK
+13,C00000575,484-20-8,5-Methoxypsoralen,C12H8O4,216.04225874,Zanthoxylum schinifolium,Zanthoxylum,KNApSAcK
+14,C00000575,484-20-8,5-Methoxypsoralen,C12H8O4,216.04225874,Zanthoxylum ailanthoides,Zanthoxylum,KNApSAcK
+15,C00000583,482-27-9,Isopimpinellin,C13H10O5,246.05282343,Zanthoxylum belizense,Zanthoxylum,KNApSAcK
+16,C00000584,13849-08-6,(+)-Marmesin,C14H14O4,246.08920894,Zanthoxylum arnottianum,Zanthoxylum,KNApSAcK
+17,C00000584,13849-08-6,(+)-Marmesin,C14H14O4,246.08920894,Zanthoxylum belizense,Zanthoxylum,KNApSAcK
+18,C00000601,607-80-7,(+)-Sesamin,C20H18O6,354.11033831,Zanthoxylum martinicense,Zanthoxylum,KNApSAcK
+19,C00000601,607-80-7,(+)-Sesamin,C20H18O6,354.11033831,Zanthoxylum integrifoliolum,Zanthoxylum,KNApSAcK
+20,C00000601,607-80-7,(+)-Sesamin,C20H18O6,354.11033831,Zanthoxylum culantrillo,Zanthoxylum,KNApSAcK
+21,C00000601,607-80-7,(+)-Sesamin,C20H18O6,354.11033831,Zanthoxylum oxyphyllum,Zanthoxylum,KNApSAcK
+22,C00000601,607-80-7,(+)-Sesamin,C20H18O6,354.11033831,Zanthoxylum capense,Zanthoxylum,KNApSAcK
+23,C00000601,607-80-7,(+)-Sesamin,C20H18O6,354.11033831,Zanthoxylum caudatum,Zanthoxylum,KNApSAcK
+24,C00000601,607-80-7,(+)-Sesamin,C20H18O6,354.11033831,Zanthoxylum valens,Zanthoxylum,KNApSAcK
+25,C00000601,607-80-7,(+)-Sesamin,C20H18O6,354.11033831,Zanthoxylum usambarense,Zanthoxylum,KNApSAcK
+26,C00000601,607-80-7,(+)-Sesamin,C20H18O6,354.11033831,Zanthoxylum tingoassuiba,Zanthoxylum,KNApSAcK
+27,C00000601,607-80-7,(+)-Sesamin,C20H18O6,354.11033831,Zanthoxylum tetraspermum,Zanthoxylum,KNApSAcK
+28,C00000601,607-80-7,(+)-Sesamin,C20H18O6,354.11033831,Zanthoxylum sprucei,Zanthoxylum,KNApSAcK
+29,C00000601,607-80-7,(+)-Sesamin,C20H18O6,354.11033831,Zanthoxylum sp.,Zanthoxylum,KNApSAcK
+30,C00000601,607-80-7,(+)-Sesamin,C20H18O6,354.11033831,Zanthoxylum rubescens,Zanthoxylum,KNApSAcK
+31,C00000601,607-80-7,(+)-Sesamin,C20H18O6,354.11033831,Zanthoxylum rhetsa,Zanthoxylum,KNApSAcK
+32,C00000601,607-80-7,(+)-Sesamin,C20H18O6,354.11033831,Zanthoxylum podocarpum,Zanthoxylum,KNApSAcK
+33,C00000601,607-80-7,(+)-Sesamin,C20H18O6,354.11033831,Zanthoxylum pluviatile,Zanthoxylum,KNApSAcK
+34,C00000601,607-80-7,(+)-Sesamin,C20H18O6,354.11033831,Zanthoxylum piperitum,Zanthoxylum,KNApSAcK
+35,C00000601,607-80-7,(+)-Sesamin,C20H18O6,354.11033831,Zanthoxylum petiolare,Zanthoxylum,KNApSAcK
+36,C00000601,607-80-7,(+)-Sesamin,C20H18O6,354.11033831,Zanthoxylum bungeanum,Zanthoxylum,KNApSAcK
+37,C00000601,607-80-7,(+)-Sesamin,C20H18O6,354.11033831,Zanthoxylum nitidum,Zanthoxylum,KNApSAcK
+38,C00000601,607-80-7,(+)-Sesamin,C20H18O6,354.11033831,Zanthoxylum naranjillo,Zanthoxylum,KNApSAcK
+39,C00000601,607-80-7,(+)-Sesamin,C20H18O6,354.11033831,Zanthoxylum conspersipunctatum,Zanthoxylum,KNApSAcK
+40,C00000601,607-80-7,(+)-Sesamin,C20H18O6,354.11033831,Zanthoxylum clava-herculis,Zanthoxylum,KNApSAcK
+41,C00000601,607-80-7,(+)-Sesamin,C20H18O6,354.11033831,Zanthoxylum chalybeum,Zanthoxylum,KNApSAcK
+42,C00000601,607-80-7,(+)-Sesamin,C20H18O6,354.11033831,Zanthoxylum acanthopodium,Zanthoxylum,KNApSAcK
+43,C00000601,607-80-7,(+)-Sesamin,C20H18O6,354.11033831,Zanthoxylum alatum,Zanthoxylum,KNApSAcK
+44,C00000601,607-80-7,(+)-Sesamin,C20H18O6,354.11033831,Zanthoxylum americanum,Zanthoxylum,KNApSAcK
+45,C00000601,607-80-7,(+)-Sesamin,C20H18O6,354.11033831,Zanthoxylum armatum,Zanthoxylum,KNApSAcK
+46,C00000601,607-80-7,(+)-Sesamin,C20H18O6,354.11033831,Zanthoxylum arnottianum,Zanthoxylum,KNApSAcK
+47,C00000604,29388-59-8,(-)-Secoisolariciresinol,C20H26O6,362.17293856,Zanthoxylum ailanthoides,Zanthoxylum,KNApSAcK
+48,C00000606,580-72-3,(-)-Matairesinol,C20H22O6,358.14163844,Zanthoxylum schinifolium,Zanthoxylum,KNApSAcK
+49,C00000606,580-72-3,(-)-Matairesinol,C20H22O6,358.14163844,Zanthoxylum kellermanii,Zanthoxylum,KNApSAcK
+50,C00000627,6216-81-5,Lirioresinol B,C22H26O8,418.16276781,Zanthoxylum simulans,Zanthoxylum,KNApSAcK
+51,C00000640,526-06-7,(+)-Eudesmin,C22H26O6,386.17293856,Zanthoxylum culantrillo,Zanthoxylum,KNApSAcK
+52,C00000640,526-06-7,(+)-Eudesmin,C22H26O6,386.17293856,Zanthoxylum acanthopodium,Zanthoxylum,KNApSAcK
+53,C00000640,526-06-7,(+)-Eudesmin,C22H26O6,386.17293856,Zanthoxylum oxyphyllum,Zanthoxylum,KNApSAcK
+54,C00000640,526-06-7,(+)-Eudesmin,C22H26O6,386.17293856,Zanthoxylum fagara,Zanthoxylum,KNApSAcK
+55,C00000640,526-06-7,(+)-Eudesmin,C22H26O6,386.17293856,Zanthoxylum alatum,Zanthoxylum,KNApSAcK
+56,C00000642,13060-14-5,(+)-Yangambin,C24H30O8,446.19406794,Zanthoxylum leprieurii,Zanthoxylum,KNApSAcK
+57,C00000643,36150-23-9,Kobusin,C21H22O6,370.14163844,Zanthoxylum valens,Zanthoxylum,KNApSAcK
+58,C00000643,36150-23-9,Kobusin,C21H22O6,370.14163844,Zanthoxylum culantrillo,Zanthoxylum,KNApSAcK
+59,C00000655,55332-75-7,Ligballinol,C18H18O4,298.12050906,Zanthoxylum wutaiense,Zanthoxylum,KNApSAcK
+60,C00000698,60102-89-8,(+)-Epieudesmin,C22H26O6,386.17293856,Zanthoxylum oxyphyllum,Zanthoxylum,KNApSAcK
+61,C00000698,60102-89-8,(+)-Epieudesmin,C22H26O6,386.17293856,Zanthoxylum acanthopodium,Zanthoxylum,KNApSAcK
+62,C00000698,60102-89-8,(+)-Epieudesmin,C22H26O6,386.17293856,Zanthoxylum alatum,Zanthoxylum,KNApSAcK
+63,C00000698,60102-89-8,(+)-Epieudesmin,C22H26O6,386.17293856,Zanthoxylum culantrillo,Zanthoxylum,KNApSAcK
+64,C00000698,60102-89-8,(+)-Epieudesmin,C22H26O6,386.17293856,Zanthoxylum fagara,Zanthoxylum,KNApSAcK
+65,C00000805,80-56-8,alpha-Pinene,C10H16,136.12520051,Zanthoxylum leprieurii,Zanthoxylum,KNApSAcK
+66,C00000805,80-56-8,alpha-Pinene,C10H16,136.12520051,Zanthoxylum armatum,Zanthoxylum,KNApSAcK
+67,C00000816,127-91-3,beta-Pinene,C10H16,136.12520051,Zanthoxylum decaryi,Zanthoxylum,KNApSAcK
+68,C00000816,127-91-3,beta-Pinene,C10H16,136.12520051,Zanthoxylum armatum,Zanthoxylum,KNApSAcK
+69,C00000823,138-86-3,Limonene,C10H16,136.12520051,Zanthoxylum armatum,Zanthoxylum,KNApSAcK
+70,C00000843,3338-55-4,cis-beta-Ocimene,C10H16,136.12520051,Zanthoxylum armatum,Zanthoxylum,KNApSAcK
+71,C00000861,586-62-9,alpha-Terpinolene,C10H16,136.12520051,Zanthoxylum armatum,Zanthoxylum,KNApSAcK
+72,C00000970,520-26-3,Hesperidin,C28H34O15,610.18977042,Zanthoxylum dipetalum,Zanthoxylum,KNApSAcK
+73,C00001104,571-72-2,Tambulin,C18H16O7,344.08960287,Zanthoxylum acanthopodium,Zanthoxylum,KNApSAcK
+74,C00001104,571-72-2,Tambulin,C18H16O7,344.08960287,Zanthoxylum armatum,Zanthoxylum,KNApSAcK
+75,C00001104,571-72-2,Tambulin,C18H16O7,344.08960287,Zanthoxylum integrifoliolum,Zanthoxylum,KNApSAcK
+76,C00001701,479-43-6,Canthin-6-one,C14H8N2O,220.06366289,Zanthoxylum chiloperone var. angustifolium,Zanthoxylum,KNApSAcK
+77,C00001701,479-43-6,Canthin-6-one,C14H8N2O,220.06366289,Zanthoxylum belizense,Zanthoxylum,KNApSAcK
+78,C00001701,479-43-6,Canthin-6-one,C14H8N2O,220.06366289,Zanthoxylum suberosum,Zanthoxylum,KNApSAcK
+79,C00001701,479-43-6,Canthin-6-one,C14H8N2O,220.06366289,Zanthoxylum ovalifolium,Zanthoxylum,KNApSAcK
+80,C00001701,479-43-6,Canthin-6-one,C14H8N2O,220.06366289,Zanthoxylum integrifoliolum,Zanthoxylum,KNApSAcK
+81,C00001701,479-43-6,Canthin-6-one,C14H8N2O,220.06366289,Zanthoxylum elephantiasis,Zanthoxylum,KNApSAcK
+82,C00001701,479-43-6,Canthin-6-one,C14H8N2O,220.06366289,Zanthoxylum dipetalum,Zanthoxylum,KNApSAcK
+83,C00001766,84-26-4,Rutaecarpine,C18H13N3O,287.10586206,Zanthoxylum integrifoliolum,Zanthoxylum,KNApSAcK
+84,C00001766,84-26-4,Rutaecarpine,C18H13N3O,287.10586206,Zanthoxylum wutaiense,Zanthoxylum,KNApSAcK
+85,C00001799,485-91-6,Allocryptopine,C21H23NO5,369.15762285,Zanthoxylum spp.,Zanthoxylum,KNApSAcK
+86,C00001799,485-91-6,Allocryptopine,C21H23NO5,369.15762285,Zanthoxylum integrifolium,Zanthoxylum,KNApSAcK
+87,C00001799,485-91-6,Allocryptopine,C21H23NO5,369.15762285,Zanthoxylum brachyacanthum,Zanthoxylum,KNApSAcK
+88,C00001799,485-91-6,Allocryptopine,C21H23NO5,369.15762285,Zanthoxylum avicennae,Zanthoxylum,KNApSAcK
+89,C00001819,2086-83-1,Berberine,C20H18NO4,336.12358307,Zanthoxylum spp.,Zanthoxylum,KNApSAcK
+90,C00001827,522-97-4,Tetrahydroberberine,C20H21NO4,339.14705817,Zanthoxylum brachyacanthum,Zanthoxylum,KNApSAcK
+91,C00001827,522-97-4,Tetrahydroberberine,C20H21NO4,339.14705817,Zanthoxylum veneficum,Zanthoxylum,KNApSAcK
+92,C00001856,51059-64-4,Fagaridine,C20H16NO4,334.10793301,Zanthoxylum tessmanii,Zanthoxylum,KNApSAcK
+93,C00001857,52259-65-1,Fagaronine,C21H20NO4,350.13923313,Zanthoxylum zanthoxyloides,Zanthoxylum,KNApSAcK
+94,C00001861,475-81-0,Glaucine,C21H25NO4,355.17835829,Zanthoxylum ailanthoides,Zanthoxylum,KNApSAcK
+95,C00001874,3621-38-3,Jatrorrhizine,C20H20NO4,338.13923313,Zanthoxylum chaylbeum,Zanthoxylum,KNApSAcK
+96,C00001878,475-75-2,Liriodenine,C17H9NO3,275.05824316,Zanthoxylum nitidum,Zanthoxylum,KNApSAcK
+97,C00001878,475-75-2,Liriodenine,C17H9NO3,275.05824316,Zanthoxylum caudatum,Zanthoxylum,KNApSAcK
+98,C00001878,475-75-2,Liriodenine,C17H9NO3,275.05824316,Zanthoxylum cuspidatum,Zanthoxylum,KNApSAcK
+99,C00001878,475-75-2,Liriodenine,C17H9NO3,275.05824316,Zanthoxylum tetraspermum,Zanthoxylum,KNApSAcK
+100,C00001885,2141-09-5,Magnoflorine,C20H24NO4,342.17053326,Zanthoxylum nitidum,Zanthoxylum,KNApSAcK
+101,C00001885,2141-09-5,Magnoflorine,C20H24NO4,342.17053326,Zanthoxylum chalybeum,Zanthoxylum,KNApSAcK
+102,C00001885,2141-09-5,Magnoflorine,C20H24NO4,342.17053326,Zanthoxylum usambarensis,Zanthoxylum,KNApSAcK
+103,C00001885,2141-09-5,Magnoflorine,C20H24NO4,342.17053326,Zanthoxylum spp.,Zanthoxylum,KNApSAcK
+104,C00001885,2141-09-5,Magnoflorine,C20H24NO4,342.17053326,Zanthoxylum myriacanthum,Zanthoxylum,KNApSAcK
+105,C00001894,6872-57-7,Nitidine,C21H18NO4,348.12358307,Zanthoxylum nitidum,Zanthoxylum,KNApSAcK
+106,C00001894,6872-57-7,Nitidine,C21H18NO4,348.12358307,Zanthoxylum usambarense,Zanthoxylum,KNApSAcK
+107,C00001894,6872-57-7,Nitidine,C21H18NO4,348.12358307,Zanthoxylum myriacanthum,Zanthoxylum,KNApSAcK
+108,C00001894,6872-57-7,Nitidine,C21H18NO4,348.12358307,Zanthoxylum flavum,Zanthoxylum,KNApSAcK
+109,C00001894,6872-57-7,Nitidine,C21H18NO4,348.12358307,Zanthoxylum echinocarpum,Zanthoxylum,KNApSAcK
+110,C00001894,6872-57-7,Nitidine,C21H18NO4,348.12358307,Zanthoxylum dissitum,Zanthoxylum,KNApSAcK
+111,C00001894,6872-57-7,Nitidine,C21H18NO4,348.12358307,Zanthoxylum dipetalum,Zanthoxylum,KNApSAcK
+112,C00001894,6872-57-7,Nitidine,C21H18NO4,348.12358307,Zanthoxylum cuspidatum,Zanthoxylum,KNApSAcK
+113,C00001894,6872-57-7,Nitidine,C21H18NO4,348.12358307,Zanthoxylum clava-herculis,Zanthoxylum,KNApSAcK
+114,C00001894,6872-57-7,Nitidine,C21H18NO4,348.12358307,Zanthoxylum clava-hercules,Zanthoxylum,KNApSAcK
+115,C00001894,6872-57-7,Nitidine,C21H18NO4,348.12358307,Zanthoxylum bungeanum,Zanthoxylum,KNApSAcK
+116,C00001894,6872-57-7,Nitidine,C21H18NO4,348.12358307,Zanthoxylum avicennae,Zanthoxylum,KNApSAcK
+117,C00001894,6872-57-7,Nitidine,C21H18NO4,348.12358307,Zanthoxylum americanum,Zanthoxylum,KNApSAcK
+118,C00001894,6872-57-7,Nitidine,C21H18NO4,348.12358307,Zanthoxylum ailanthoides,Zanthoxylum,KNApSAcK
+119,C00001898,3486-67-7,Palmatine,C21H22NO4,352.1548832,Zanthoxylum chalybeum,Zanthoxylum,KNApSAcK
+120,C00001917,2447-54-3,Sanguinarine,C20H14NO4,332.09228294,Zanthoxylum spp.,Zanthoxylum,KNApSAcK
+121,C00002136,6873-15-0,Arborine,C16H14N2O,250.11061308,Zanthoxylum budrunga,Zanthoxylum,KNApSAcK
+122,C00002137,5489-57-6,Arborinine,C16H15NO4,285.10010798,Zanthoxylum leprieurii,Zanthoxylum,KNApSAcK
+123,C00002137,5489-57-6,Arborinine,C16H15NO4,285.10010798,Zanthoxylum macrophylla,Zanthoxylum,KNApSAcK
+124,C00002137,5489-57-6,Arborinine,C16H15NO4,285.10010798,Zanthoxylum gillettii,Zanthoxylum,KNApSAcK
+125,C00002137,5489-57-6,Arborinine,C16H15NO4,285.10010798,Zanthoxylum simulans,Zanthoxylum,KNApSAcK
+126,C00002151,484-29-7,Dictamine,C12H9NO2,199.06332854,Zanthoxylum regnellianum,Zanthoxylum,KNApSAcK
+127,C00002151,484-29-7,Dictamine,C12H9NO2,199.06332854,Zanthoxylum schinifolium,Zanthoxylum,KNApSAcK
+128,C00002151,484-29-7,Dictamine,C12H9NO2,199.06332854,Zanthoxylum simulans,Zanthoxylum,KNApSAcK
+129,C00002151,484-29-7,Dictamine,C12H9NO2,199.06332854,Zanthoxylum spp.,Zanthoxylum,KNApSAcK
+130,C00002151,484-29-7,Dictamine,C12H9NO2,199.06332854,Zanthoxylum stelligerum,Zanthoxylum,KNApSAcK
+131,C00002151,484-29-7,Dictamine,C12H9NO2,199.06332854,Zanthoxylum wutaiense,Zanthoxylum,KNApSAcK
+132,C00002151,484-29-7,Dictamine,C12H9NO2,199.06332854,Zanthoxylum avicennae,Zanthoxylum,KNApSAcK
+133,C00002151,484-29-7,Dictamine,C12H9NO2,199.06332854,Zanthoxylum acanthopodium,Zanthoxylum,KNApSAcK
+134,C00002151,484-29-7,Dictamine,C12H9NO2,199.06332854,Zanthoxylum ailanthoides,Zanthoxylum,KNApSAcK
+135,C00002151,484-29-7,Dictamine,C12H9NO2,199.06332854,Zanthoxylum alatum,Zanthoxylum,KNApSAcK
+136,C00002151,484-29-7,Dictamine,C12H9NO2,199.06332854,Zanthoxylum arnottianum,Zanthoxylum,KNApSAcK
+137,C00002151,484-29-7,Dictamine,C12H9NO2,199.06332854,Zanthoxylum austrosinense,Zanthoxylum,KNApSAcK
+138,C00002151,484-29-7,Dictamine,C12H9NO2,199.06332854,Zanthoxylum belizense,Zanthoxylum,KNApSAcK
+139,C00002151,484-29-7,Dictamine,C12H9NO2,199.06332854,Zanthoxylum bundrunga,Zanthoxylum,KNApSAcK
+140,C00002151,484-29-7,Dictamine,C12H9NO2,199.06332854,Zanthoxylum cuspidatum,Zanthoxylum,KNApSAcK
+141,C00002151,484-29-7,Dictamine,C12H9NO2,199.06332854,Zanthoxylum decaryi,Zanthoxylum,KNApSAcK
+142,C00002151,484-29-7,Dictamine,C12H9NO2,199.06332854,Zanthoxylum dissitum,Zanthoxylum,KNApSAcK
+143,C00002151,484-29-7,Dictamine,C12H9NO2,199.06332854,Zanthoxylum inerme,Zanthoxylum,KNApSAcK
+144,C00002151,484-29-7,Dictamine,C12H9NO2,199.06332854,Zanthoxylum ekmanii,Zanthoxylum,KNApSAcK
+145,C00002151,484-29-7,Dictamine,C12H9NO2,199.06332854,Zanthoxylum integrifoliolum,Zanthoxylum,KNApSAcK
+146,C00002151,484-29-7,Dictamine,C12H9NO2,199.06332854,Zanthoxylum mayu,Zanthoxylum,KNApSAcK
+147,C00002151,484-29-7,Dictamine,C12H9NO2,199.06332854,Zanthoxylum nitidum,Zanthoxylum,KNApSAcK
+148,C00002151,484-29-7,Dictamine,C12H9NO2,199.06332854,Zanthoxylum panispinum,Zanthoxylum,KNApSAcK
+149,C00002151,484-29-7,Dictamine,C12H9NO2,199.06332854,Zanthoxylum parviflorum,Zanthoxylum,KNApSAcK
+150,C00002151,484-29-7,Dictamine,C12H9NO2,199.06332854,Zanthoxylum pistaciiflorum,Zanthoxylum,KNApSAcK
+151,C00002159,524-15-2,gamma-Fagarine,C13H11NO3,229.07389323,Zanthoxylum nitidum,Zanthoxylum,KNApSAcK
+152,C00002159,524-15-2,gamma-Fagarine,C13H11NO3,229.07389323,Zanthoxylum zanthoxyloides,Zanthoxylum,KNApSAcK
+153,C00002159,524-15-2,gamma-Fagarine,C13H11NO3,229.07389323,Zanthoxylum wutaiense,Zanthoxylum,KNApSAcK
+154,C00002159,524-15-2,gamma-Fagarine,C13H11NO3,229.07389323,Zanthoxylum tsihanimposa,Zanthoxylum,KNApSAcK
+155,C00002159,524-15-2,gamma-Fagarine,C13H11NO3,229.07389323,Zanthoxylum spp.,Zanthoxylum,KNApSAcK
+156,C00002159,524-15-2,gamma-Fagarine,C13H11NO3,229.07389323,Zanthoxylum simulans,Zanthoxylum,KNApSAcK
+157,C00002159,524-15-2,gamma-Fagarine,C13H11NO3,229.07389323,Zanthoxylum schinifolium,Zanthoxylum,KNApSAcK
+158,C00002159,524-15-2,gamma-Fagarine,C13H11NO3,229.07389323,Zanthoxylum rubescens,Zanthoxylum,KNApSAcK
+159,C00002159,524-15-2,gamma-Fagarine,C13H11NO3,229.07389323,Zanthoxylum planispinum,Zanthoxylum,KNApSAcK
+160,C00002159,524-15-2,gamma-Fagarine,C13H11NO3,229.07389323,Zanthoxylum pistaciiflorum,Zanthoxylum,KNApSAcK
+161,C00002159,524-15-2,gamma-Fagarine,C13H11NO3,229.07389323,Zanthoxylum piperitum,Zanthoxylum,KNApSAcK
+162,C00002159,524-15-2,gamma-Fagarine,C13H11NO3,229.07389323,Zanthoxylum oxyphyllum,Zanthoxylum,KNApSAcK
+163,C00002159,524-15-2,gamma-Fagarine,C13H11NO3,229.07389323,Zanthoxylum monophyllum,Zanthoxylum,KNApSAcK
+164,C00002159,524-15-2,gamma-Fagarine,C13H11NO3,229.07389323,Zanthoxylum mayu,Zanthoxylum,KNApSAcK
+165,C00002159,524-15-2,gamma-Fagarine,C13H11NO3,229.07389323,Zanthoxylum integrifoliolum,Zanthoxylum,KNApSAcK
+166,C00002159,524-15-2,gamma-Fagarine,C13H11NO3,229.07389323,Zanthoxylum dissitum,Zanthoxylum,KNApSAcK
+167,C00002159,524-15-2,gamma-Fagarine,C13H11NO3,229.07389323,Zanthoxylum dimorphophyllum,Zanthoxylum,KNApSAcK
+168,C00002159,524-15-2,gamma-Fagarine,C13H11NO3,229.07389323,Zanthoxylum cuspidatum,Zanthoxylum,KNApSAcK
+169,C00002159,524-15-2,gamma-Fagarine,C13H11NO3,229.07389323,Zanthoxylum coco,Zanthoxylum,KNApSAcK
+170,C00002159,524-15-2,gamma-Fagarine,C13H11NO3,229.07389323,Zanthoxylum budrunga,Zanthoxylum,KNApSAcK
+171,C00002159,524-15-2,gamma-Fagarine,C13H11NO3,229.07389323,Zanthoxylum alatum,Zanthoxylum,KNApSAcK
+172,C00002159,524-15-2,gamma-Fagarine,C13H11NO3,229.07389323,Zanthoxylum ailanthoides,Zanthoxylum,KNApSAcK
+173,C00002162,523-64-8,Flindersine,C14H13NO2,227.09462867,Zanthoxylum coco,Zanthoxylum,KNApSAcK
+174,C00002162,523-64-8,Flindersine,C14H13NO2,227.09462867,Zanthoxylum simulans,Zanthoxylum,KNApSAcK
+175,C00002162,523-64-8,Flindersine,C14H13NO2,227.09462867,Zanthoxylum arnottianum,Zanthoxylum,KNApSAcK
+176,C00002162,523-64-8,Flindersine,C14H13NO2,227.09462867,Zanthoxylum beecheyanum,Zanthoxylum,KNApSAcK
+177,C00002172,5876-17-5,Haplopine,C13H11NO4,245.06880785,Zanthoxylum microcarpum,Zanthoxylum,KNApSAcK
+178,C00002172,5876-17-5,Haplopine,C13H11NO4,245.06880785,Zanthoxylum nitidum,Zanthoxylum,KNApSAcK
+179,C00002172,5876-17-5,Haplopine,C13H11NO4,245.06880785,Zanthoxylum rhoifolium,Zanthoxylum,KNApSAcK
+180,C00002172,5876-17-5,Haplopine,C13H11NO4,245.06880785,Zanthoxylum simulans,Zanthoxylum,KNApSAcK
+181,C00002172,5876-17-5,Haplopine,C13H11NO4,245.06880785,Zanthoxylum arnottianum,Zanthoxylum,KNApSAcK
+182,C00002172,5876-17-5,Haplopine,C13H11NO4,245.06880785,Zanthoxylum ailanthoides,Zanthoxylum,KNApSAcK
+183,C00002172,5876-17-5,Haplopine,C13H11NO4,245.06880785,Zanthoxylum cuspidatum,Zanthoxylum,KNApSAcK
+184,C00002172,5876-17-5,Haplopine,C13H11NO4,245.06880785,Zanthoxylum bungeanum,Zanthoxylum,KNApSAcK
+185,C00002172,5876-17-5,Haplopine,C13H11NO4,245.06880785,Zanthoxylum dissitum,Zanthoxylum,KNApSAcK
+186,C00002172,5876-17-5,Haplopine,C13H11NO4,245.06880785,Zanthoxylum integrifoliolum,Zanthoxylum,KNApSAcK
+187,C00002177,484-08-2,Kokusaginine,C14H13NO4,259.08445791,Zanthoxylum setulosum,Zanthoxylum,KNApSAcK
+188,C00002177,484-08-2,Kokusaginine,C14H13NO4,259.08445791,Zanthoxylum pluviatile,Zanthoxylum,KNApSAcK
+189,C00002177,484-08-2,Kokusaginine,C14H13NO4,259.08445791,Zanthoxylum bungeanum,Zanthoxylum,KNApSAcK
+190,C00002180,83-58-9,Lunacridine,C17H23NO4,305.16270823,Zanthoxylum budrunga,Zanthoxylum,KNApSAcK
+191,C00002186,517-73-7,Melicopicine,C18H19NO5,329.12632272,Zanthoxylum simullans,Zanthoxylum,KNApSAcK
+192,C00002189,50333-13-6,N-Methylflindersine,C15H15NO2,241.11027873,Zanthoxylum simulans,Zanthoxylum,KNApSAcK
+193,C00002189,50333-13-6,N-Methylflindersine,C15H15NO2,241.11027873,Zanthoxylum wutaiense,Zanthoxylum,KNApSAcK
+194,C00002189,50333-13-6,N-Methylflindersine,C15H15NO2,241.11027873,Zanthoxylum schinifolium,Zanthoxylum,KNApSAcK
+195,C00002189,50333-13-6,N-Methylflindersine,C15H15NO2,241.11027873,Zanthoxylum rhetsa,Zanthoxylum,KNApSAcK
+196,C00002189,50333-13-6,N-Methylflindersine,C15H15NO2,241.11027873,Zanthoxylum integrifoliolum,Zanthoxylum,KNApSAcK
+197,C00002189,50333-13-6,N-Methylflindersine,C15H15NO2,241.11027873,Zanthoxylum holstii,Zanthoxylum,KNApSAcK
+198,C00002189,50333-13-6,N-Methylflindersine,C15H15NO2,241.11027873,Zanthoxylum heitzii,Zanthoxylum,KNApSAcK
+199,C00002189,50333-13-6,N-Methylflindersine,C15H15NO2,241.11027873,Zanthoxylum chalybea,Zanthoxylum,KNApSAcK
+200,C00002189,50333-13-6,N-Methylflindersine,C15H15NO2,241.11027873,Zanthoxylum budrunga,Zanthoxylum,KNApSAcK
+201,C00002189,50333-13-6,N-Methylflindersine,C15H15NO2,241.11027873,Zanthoxylum beecheyanum,Zanthoxylum,KNApSAcK
+202,C00002189,50333-13-6,N-Methylflindersine,C15H15NO2,241.11027873,Zanthoxylum arnottianum,Zanthoxylum,KNApSAcK
+203,C00002195,2255-50-7,Robustine,C12H9NO3,215.05824316,Zanthoxylum wutaiense,Zanthoxylum,KNApSAcK
+204,C00002195,2255-50-7,Robustine,C12H9NO3,215.05824316,Zanthoxylum stelligerum,Zanthoxylum,KNApSAcK
+205,C00002195,2255-50-7,Robustine,C12H9NO3,215.05824316,Zanthoxylum spp.,Zanthoxylum,KNApSAcK
+206,C00002195,2255-50-7,Robustine,C12H9NO3,215.05824316,Zanthoxylum simulans,Zanthoxylum,KNApSAcK
+207,C00002195,2255-50-7,Robustine,C12H9NO3,215.05824316,Zanthoxylum schinifolium,Zanthoxylum,KNApSAcK
+208,C00002195,2255-50-7,Robustine,C12H9NO3,215.05824316,Zanthoxylum integrifoliolum,Zanthoxylum,KNApSAcK
+209,C00002195,2255-50-7,Robustine,C12H9NO3,215.05824316,Zanthoxylum cuspidatum,Zanthoxylum,KNApSAcK
+210,C00002195,2255-50-7,Robustine,C12H9NO3,215.05824316,Zanthoxylum arnottianum,Zanthoxylum,KNApSAcK
+211,C00002195,2255-50-7,Robustine,C12H9NO3,215.05824316,Zanthoxylum alatum,Zanthoxylum,KNApSAcK
+212,C00002195,2255-50-7,Robustine,C12H9NO3,215.05824316,Zanthoxylum ailanthoides,Zanthoxylum,KNApSAcK
+213,C00002198,83-95-4,Skimmianine,C14H13NO4,259.08445791,Zanthoxylum zanthoxyloides,Zanthoxylum,KNApSAcK
+214,C00002198,83-95-4,Skimmianine,C14H13NO4,259.08445791,Zanthoxylum acanthopodium,Zanthoxylum,KNApSAcK
+215,C00002198,83-95-4,Skimmianine,C14H13NO4,259.08445791,Zanthoxylum ailanthoides,Zanthoxylum,KNApSAcK
+216,C00002198,83-95-4,Skimmianine,C14H13NO4,259.08445791,Zanthoxylum alatum,Zanthoxylum,KNApSAcK
+217,C00002198,83-95-4,Skimmianine,C14H13NO4,259.08445791,Zanthoxylum angolensis,Zanthoxylum,KNApSAcK
+218,C00002198,83-95-4,Skimmianine,C14H13NO4,259.08445791,Zanthoxylum arnottianum,Zanthoxylum,KNApSAcK
+219,C00002198,83-95-4,Skimmianine,C14H13NO4,259.08445791,Zanthoxylum avicennae,Zanthoxylum,KNApSAcK
+220,C00002198,83-95-4,Skimmianine,C14H13NO4,259.08445791,Zanthoxylum belizense,Zanthoxylum,KNApSAcK
+221,C00002198,83-95-4,Skimmianine,C14H13NO4,259.08445791,Zanthoxylum bouetense,Zanthoxylum,KNApSAcK
+222,C00002198,83-95-4,Skimmianine,C14H13NO4,259.08445791,Zanthoxylum bungeanum,Zanthoxylum,KNApSAcK
+223,C00002198,83-95-4,Skimmianine,C14H13NO4,259.08445791,Zanthoxylum capensis,Zanthoxylum,KNApSAcK
+224,C00002198,83-95-4,Skimmianine,C14H13NO4,259.08445791,Zanthoxylum caribaeum,Zanthoxylum,KNApSAcK
+225,C00002198,83-95-4,Skimmianine,C14H13NO4,259.08445791,Zanthoxylum chalybea,Zanthoxylum,KNApSAcK
+226,C00002198,83-95-4,Skimmianine,C14H13NO4,259.08445791,Zanthoxylum chiloperone,Zanthoxylum,KNApSAcK
+227,C00002198,83-95-4,Skimmianine,C14H13NO4,259.08445791,Zanthoxylum coco,Zanthoxylum,KNApSAcK
+228,C00002198,83-95-4,Skimmianine,C14H13NO4,259.08445791,Zanthoxylum coreanum,Zanthoxylum,KNApSAcK
+229,C00002198,83-95-4,Skimmianine,C14H13NO4,259.08445791,Zanthoxylum culantrillo,Zanthoxylum,KNApSAcK
+230,C00002198,83-95-4,Skimmianine,C14H13NO4,259.08445791,Zanthoxylum cuspidatum,Zanthoxylum,KNApSAcK
+231,C00002198,83-95-4,Skimmianine,C14H13NO4,259.08445791,Zanthoxylum davyi,Zanthoxylum,KNApSAcK
+232,C00002198,83-95-4,Skimmianine,C14H13NO4,259.08445791,Zanthoxylum decaryi,Zanthoxylum,KNApSAcK
+233,C00002198,83-95-4,Skimmianine,C14H13NO4,259.08445791,Zanthoxylum dinklagei,Zanthoxylum,KNApSAcK
+234,C00002198,83-95-4,Skimmianine,C14H13NO4,259.08445791,Zanthoxylum ekmanii,Zanthoxylum,KNApSAcK
+235,C00002198,83-95-4,Skimmianine,C14H13NO4,259.08445791,Zanthoxylum fagara,Zanthoxylum,KNApSAcK
+236,C00002198,83-95-4,Skimmianine,C14H13NO4,259.08445791,Zanthoxylum heitzii,Zanthoxylum,KNApSAcK
+237,C00002198,83-95-4,Skimmianine,C14H13NO4,259.08445791,Zanthoxylum integrifoliolum,Zanthoxylum,KNApSAcK
+238,C00002198,83-95-4,Skimmianine,C14H13NO4,259.08445791,Zanthoxylum lemairie,Zanthoxylum,KNApSAcK
+239,C00002198,83-95-4,Skimmianine,C14H13NO4,259.08445791,Zanthoxylum leprieurii,Zanthoxylum,KNApSAcK
+240,C00002198,83-95-4,Skimmianine,C14H13NO4,259.08445791,Zanthoxylum limoncillo,Zanthoxylum,KNApSAcK
+241,C00002198,83-95-4,Skimmianine,C14H13NO4,259.08445791,Zanthoxylum macrophylla,Zanthoxylum,KNApSAcK
+242,C00002198,83-95-4,Skimmianine,C14H13NO4,259.08445791,Zanthoxylum mantsurica,Zanthoxylum,KNApSAcK
+243,C00002198,83-95-4,Skimmianine,C14H13NO4,259.08445791,Zanthoxylum mayu,Zanthoxylum,KNApSAcK
+244,C00002198,83-95-4,Skimmianine,C14H13NO4,259.08445791,Zanthoxylum monophyllum,Zanthoxylum,KNApSAcK
+245,C00002198,83-95-4,Skimmianine,C14H13NO4,259.08445791,Zanthoxylum nitidum,Zanthoxylum,KNApSAcK
+246,C00002198,83-95-4,Skimmianine,C14H13NO4,259.08445791,Zanthoxylum okinawensis,Zanthoxylum,KNApSAcK
+247,C00002198,83-95-4,Skimmianine,C14H13NO4,259.08445791,Zanthoxylum ovalifolium,Zanthoxylum,KNApSAcK
+248,C00002198,83-95-4,Skimmianine,C14H13NO4,259.08445791,Zanthoxylum parviflorum,Zanthoxylum,KNApSAcK
+249,C00002198,83-95-4,Skimmianine,C14H13NO4,259.08445791,Zanthoxylum pistacifolium,Zanthoxylum,KNApSAcK
+250,C00002198,83-95-4,Skimmianine,C14H13NO4,259.08445791,Zanthoxylum pistaciiflorum,Zanthoxylum,KNApSAcK
+251,C00002198,83-95-4,Skimmianine,C14H13NO4,259.08445791,Zanthoxylum planispinum,Zanthoxylum,KNApSAcK
+252,C00002198,83-95-4,Skimmianine,C14H13NO4,259.08445791,Zanthoxylum pluviatile,Zanthoxylum,KNApSAcK
+253,C00002198,83-95-4,Skimmianine,C14H13NO4,259.08445791,Zanthoxylum rhetsa,Zanthoxylum,KNApSAcK
+254,C00002198,83-95-4,Skimmianine,C14H13NO4,259.08445791,Zanthoxylum rhoifolium,Zanthoxylum,KNApSAcK
+255,C00002198,83-95-4,Skimmianine,C14H13NO4,259.08445791,Zanthoxylum rubescens,Zanthoxylum,KNApSAcK
+256,C00002198,83-95-4,Skimmianine,C14H13NO4,259.08445791,Zanthoxylum rugosum,Zanthoxylum,KNApSAcK
+257,C00002198,83-95-4,Skimmianine,C14H13NO4,259.08445791,Zanthoxylum sarasinii,Zanthoxylum,KNApSAcK
+258,C00002198,83-95-4,Skimmianine,C14H13NO4,259.08445791,Zanthoxylum schinifolium,Zanthoxylum,KNApSAcK
+259,C00002198,83-95-4,Skimmianine,C14H13NO4,259.08445791,Zanthoxylum simulans,Zanthoxylum,KNApSAcK
+260,C00002198,83-95-4,Skimmianine,C14H13NO4,259.08445791,Zanthoxylum sp. Sevenet-Pusset 1345,Zanthoxylum,KNApSAcK
+261,C00002198,83-95-4,Skimmianine,C14H13NO4,259.08445791,Zanthoxylum spp.,Zanthoxylum,KNApSAcK
+262,C00002198,83-95-4,Skimmianine,C14H13NO4,259.08445791,Zanthoxylum stelligerum,Zanthoxylum,KNApSAcK
+263,C00002198,83-95-4,Skimmianine,C14H13NO4,259.08445791,Zanthoxylum syncarpum,Zanthoxylum,KNApSAcK
+264,C00002198,83-95-4,Skimmianine,C14H13NO4,259.08445791,Zanthoxylum tessmannii,Zanthoxylum,KNApSAcK
+265,C00002198,83-95-4,Skimmianine,C14H13NO4,259.08445791,Zanthoxylum tsihanimposa,Zanthoxylum,KNApSAcK
+266,C00002198,83-95-4,Skimmianine,C14H13NO4,259.08445791,Zanthoxylum utile,Zanthoxylum,KNApSAcK
+267,C00002198,83-95-4,Skimmianine,C14H13NO4,259.08445791,Zanthoxylum viridis,Zanthoxylum,KNApSAcK
+268,C00002198,83-95-4,Skimmianine,C14H13NO4,259.08445791,Zanthoxylum williamsii,Zanthoxylum,KNApSAcK
+269,C00002198,83-95-4,Skimmianine,C14H13NO4,259.08445791,Zanthoxylum wutaiense,Zanthoxylum,KNApSAcK
+270,C00002198,83-95-4,Skimmianine,C14H13NO4,259.08445791,Zanthoxylum xanthoxyloides,Zanthoxylum,KNApSAcK
+271,C00002459,52842-47-4,Columbianetin,C14H14O4,246.08920894,Zanthoxylum americanum,Zanthoxylum,KNApSAcK
+272,C00002498,120-08-1,Aesculetin dimethyl ether,C11H10O4,206.05790881,Zanthoxylum simulans,Zanthoxylum,KNApSAcK
+273,C00002498,120-08-1,Aesculetin dimethyl ether,C11H10O4,206.05790881,Zanthoxylum integrifoliolum,Zanthoxylum,KNApSAcK
+274,C00002498,120-08-1,Aesculetin dimethyl ether,C11H10O4,206.05790881,Zanthoxylum nitidum,Zanthoxylum,KNApSAcK
+275,C00002498,120-08-1,Aesculetin dimethyl ether,C11H10O4,206.05790881,Zanthoxylum acanthopodium,Zanthoxylum,KNApSAcK
+276,C00002498,120-08-1,Aesculetin dimethyl ether,C11H10O4,206.05790881,Zanthoxylum ailanthoides,Zanthoxylum,KNApSAcK
+277,C00002498,120-08-1,Aesculetin dimethyl ether,C11H10O4,206.05790881,Zanthoxylum schinifolium,Zanthoxylum,KNApSAcK
+278,C00002499,92-61-5,Scopoletin,C10H8O4,192.04225874,Zanthoxylum simulans,Zanthoxylum,KNApSAcK
+279,C00002499,92-61-5,Scopoletin,C10H8O4,192.04225874,Zanthoxylum integrifoliolum,Zanthoxylum,KNApSAcK
+280,C00002503,93-35-6,Umbelliferone,C9H6O3,162.03169406,Zanthoxylum wutaiense,Zanthoxylum,KNApSAcK
+281,C00002503,93-35-6,Umbelliferone,C9H6O3,162.03169406,Zanthoxylum schinifolium,Zanthoxylum,KNApSAcK
+282,C00002505,553-19-5,Xanthyletin,C14H12O3,228.07864425,Zanthoxylum americanum,Zanthoxylum,KNApSAcK
+283,C00002505,553-19-5,Xanthyletin,C14H12O3,228.07864425,Zanthoxylum ailanthoides,Zanthoxylum,KNApSAcK
+284,C00002591,18423-69-3,Cubebin,C20H20O6,356.12598837,Zanthoxylum naranjillo,Zanthoxylum,KNApSAcK
+285,C00002608,26543-89-5,Hinokinin,C20H18O6,354.11033831,Zanthoxylum lemairie,Zanthoxylum,KNApSAcK
+286,C00002608,26543-89-5,Hinokinin,C20H18O6,354.11033831,Zanthoxylum naranjillo,Zanthoxylum,KNApSAcK
+287,C00002608,26543-89-5,Hinokinin,C20H18O6,354.11033831,Zanthoxylum ailanthoides,Zanthoxylum,KNApSAcK
+288,C00002624,493-95-8,Savinin,C20H16O6,352.09468824,Zanthoxylum pluviatile,Zanthoxylum,KNApSAcK
+289,C00002624,493-95-8,Savinin,C20H16O6,352.09468824,Zanthoxylum naranjillo,Zanthoxylum,KNApSAcK
+290,C00002624,493-95-8,Savinin,C20H16O6,352.09468824,Zanthoxylum caudatum,Zanthoxylum,KNApSAcK
+291,C00002631,21453-69-0,(+)-Lirioresinol B,C22H26O8,418.16276781,Zanthoxylum nitidum,Zanthoxylum,KNApSAcK
+292,C00002631,21453-69-0,(+)-Lirioresinol B,C22H26O8,418.16276781,Zanthoxylum setulosum,Zanthoxylum,KNApSAcK
+293,C00002631,21453-69-0,(+)-Lirioresinol B,C22H26O8,418.16276781,Zanthoxylum ailanthoides,Zanthoxylum,KNApSAcK
+294,C00002631,21453-69-0,(+)-Lirioresinol B,C22H26O8,418.16276781,Zanthoxylum inerme,Zanthoxylum,KNApSAcK
+295,C00002631,21453-69-0,(+)-Lirioresinol B,C22H26O8,418.16276781,Zanthoxylum arnottianum,Zanthoxylum,KNApSAcK
+296,C00002631,21453-69-0,(+)-Lirioresinol B,C22H26O8,418.16276781,Zanthoxylum acanthopodium,Zanthoxylum,KNApSAcK
+297,C00002631,21453-69-0,(+)-Lirioresinol B,C22H26O8,418.16276781,Zanthoxylum integrifoliolum,Zanthoxylum,KNApSAcK
+298,C00002631,21453-69-0,(+)-Lirioresinol B,C22H26O8,418.16276781,Zanthoxylum myriacanthum,Zanthoxylum,KNApSAcK
+299,C00002631,21453-69-0,(+)-Lirioresinol B,C22H26O8,418.16276781,Zanthoxylum oxyphyllum,Zanthoxylum,KNApSAcK
+300,C00002631,21453-69-0,(+)-Lirioresinol B,C22H26O8,418.16276781,Zanthoxylum simulans,Zanthoxylum,KNApSAcK
+301,C00002657,123-08-0,4-Hydroxybenzaldehyde,C7H6O2,122.03677944,Zanthoxylum wutaiense,Zanthoxylum,KNApSAcK
+302,C00002657,123-08-0,4-Hydroxybenzaldehyde,C7H6O2,122.03677944,Zanthoxylum ailanthoides,Zanthoxylum,KNApSAcK
+303,C00002663,60-12-8,2-Phenylethanol,C8H10O,122.07316494,Zanthoxylum hamiltonium,Zanthoxylum,KNApSAcK
+304,C00002663,60-12-8,2-Phenylethanol,C8H10O,122.07316494,Zanthoxylum hamiltonianum,Zanthoxylum,KNApSAcK
+305,C00002668,99-50-3,"3,4-Dihydroxybenzoic acid",C7H6O4,154.02660868,Zanthoxylum piperitum,Zanthoxylum,KNApSAcK
+306,C00002674,530-57-4,Syringic acid,C9H10O5,198.05282343,Zanthoxylum simulans,Zanthoxylum,KNApSAcK
+307,C00002682,121-34-6,Vanillic acid,C8H8O4,168.04225874,Zanthoxylum simulans,Zanthoxylum,KNApSAcK
+308,C00002683,5463-22-9,Vanillin,C8H8O3,152.04734412,Zanthoxylum wutaiense,Zanthoxylum,KNApSAcK
+309,C00002710,90-24-4,Xanthoxylin,C10H12O4,196.07355887,Zanthoxylum alatum,Zanthoxylum,KNApSAcK
+310,C00002710,90-24-4,Xanthoxylin,C10H12O4,196.07355887,Zanthoxylum piperitum,Zanthoxylum,KNApSAcK
+311,C00002710,90-24-4,Xanthoxylin,C10H12O4,196.07355887,Zanthoxylum bungeanum,Zanthoxylum,KNApSAcK
+312,C00002713,104-46-1,Anethole,C10H12O,148.08881501,Zanthoxylum armatum,Zanthoxylum,KNApSAcK
+313,C00002724,327-97-9,3-O-Caffeoylquinic acid,C16H18O9,354.09508217,Zanthoxylum ailanthoides,Zanthoxylum,KNApSAcK
+314,C00002740,140-67-0,Estragol,C10H12O,148.08881501,Zanthoxylum bungeanum,Zanthoxylum,KNApSAcK
+315,C00002775,4206-58-0,Sinapaldehyde,C11H12O4,208.07355887,Zanthoxylum simulans,Zanthoxylum,KNApSAcK
+316,C00003047,78-70-6,(+-)-Linalool,C10H18O,154.1357652,Zanthoxylum decaryi,Zanthoxylum,KNApSAcK
+317,C00003047,78-70-6,(+-)-Linalool,C10H18O,154.1357652,Zanthoxylum armatum,Zanthoxylum,KNApSAcK
+318,C00003048,115-95-7,Linalyl acetate,C12H20O2,196.14632988,Zanthoxylum simulans,Zanthoxylum,KNApSAcK
+319,C00003051,99-83-2,alpha-Phellandrene,C10H16,136.12520051,Zanthoxylum armatum,Zanthoxylum,KNApSAcK
+320,C00003054,89-81-6,Piperitone,C10H16O,152.12011513,Zanthoxylum armatum,Zanthoxylum,KNApSAcK
+321,C00003061,99-85-4,gamma-Terpinene,C10H16,136.12520051,Zanthoxylum armatum,Zanthoxylum,KNApSAcK
+322,C00003110,87-44-5,beta-Caryophyllene,C15H24,204.18780077,Zanthoxylum armatum,Zanthoxylum,KNApSAcK
+323,C00003131,18794-84-8,E-beta-farnesene,C15H24,204.18780077,Zanthoxylum leprieurii,Zanthoxylum,KNApSAcK
+324,C00003147,6753-98-6,alpha-Caryophyllene (obsol.),C15H24,204.18780077,Zanthoxylum armatum,Zanthoxylum,KNApSAcK
+325,C00003147,6753-98-6,alpha-Caryophyllene (obsol.),C15H24,204.18780077,Zanthoxylum leprieurii,Zanthoxylum,KNApSAcK
+326,C00003647,474-62-4,Campesterol,C28H48O,400.37051615,Zanthoxylum wutaiense,Zanthoxylum,KNApSAcK
+327,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Zanthoxylum wutaiense,Zanthoxylum,KNApSAcK
+328,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Zanthoxylum simulans,Zanthoxylum,KNApSAcK
+329,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Zanthoxylum podocarpum Hemsl.,Zanthoxylum,KNApSAcK
+330,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Zanthoxylum myriacanthum,Zanthoxylum,KNApSAcK
+331,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Zanthoxylum integrifoliolum,Zanthoxylum,KNApSAcK
+332,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Zanthoxylum culantrillo,Zanthoxylum,KNApSAcK
+333,C00003674,83-48-7,beta-Stigmasterol,C29H48O,412.37051615,Zanthoxylum integrifoliolum,Zanthoxylum,KNApSAcK
+334,C00003737,638-95-9,alpha-Amyrin,C30H50O,426.38616622,Zanthoxylum armatum,Zanthoxylum,KNApSAcK
+335,C00003738,559-70-6,beta-Amyrin,C30H50O,426.38616622,Zanthoxylum armatum,Zanthoxylum,KNApSAcK
+336,C00003738,559-70-6,beta-Amyrin,C30H50O,426.38616622,Zanthoxylum ailanthoides,Zanthoxylum,KNApSAcK
+337,C00003738,559-70-6,beta-Amyrin,C30H50O,426.38616622,Zanthoxylum podocarpum Hemsl.,Zanthoxylum,KNApSAcK
+338,C00003738,559-70-6,beta-Amyrin,C30H50O,426.38616622,Zanthoxylum simulans,Zanthoxylum,KNApSAcK
+339,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Zanthoxylum dipetalum,Zanthoxylum,KNApSAcK
+340,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Zanthoxylum armatum,Zanthoxylum,KNApSAcK
+341,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Zanthoxylum culantrillo,Zanthoxylum,KNApSAcK
+342,C00004601,99499-82-8,"3,5,6-Trihydroxy-7,4'-dimethoxyflavone",C17H14O7,330.0739528,Zanthoxylum bungeanum,Zanthoxylum,KNApSAcK
+343,C00004618,3443-28-5,Prudomestin,C17H14O7,330.0739528,Zanthoxylum integrifoliolum,Zanthoxylum,KNApSAcK
+344,C00004631,117-39-5,Quercetin,C15H10O7,302.04265268,Zanthoxylum bungeanum,Zanthoxylum,KNApSAcK
+345,C00004636,603-61-2,Tamarixetin,C16H12O7,316.05830274,Zanthoxylum bungeanum,Zanthoxylum,KNApSAcK
+346,C00004730,,"Gossypetin 7,4'-dimethyl ether",C17H14O8,346.06886743,Zanthoxylum acanthopodium,Zanthoxylum,KNApSAcK
+347,C00005140,482-39-3,Afzelin,C21H20O10,432.10564686,Zanthoxylum culantrillo,Zanthoxylum,KNApSAcK
+348,C00005368,22255-13-6,Guaijaverin,C20H18O11,434.08491142,Zanthoxylum bungeanum,Zanthoxylum,KNApSAcK
+349,C00005372,482-36-0,Hyperin,C21H20O12,464.09547611,Zanthoxylum bungeanum,Zanthoxylum,KNApSAcK
+350,C00005374,522-12-3,Quercetin 3-O-alpha-L-rhamnoside,C21H20O11,448.10056148,Zanthoxylum bungeanum,Zanthoxylum,KNApSAcK
+351,C00005374,522-12-3,Quercetin 3-O-alpha-L-rhamnoside,C21H20O11,448.10056148,Zanthoxylum culantrillo,Zanthoxylum,KNApSAcK
+352,C00005530,6743-96-0,Isorhamnetin 7-O-beta-D-glucopyranoside,C22H22O12,478.11112617,Zanthoxylum bungeanum,Zanthoxylum,KNApSAcK
+353,C00005597,165460-84-4,"Tamarixetin 3,7-diglucoside",C28H32O17,640.1639496,Zanthoxylum bungeanum,Zanthoxylum,KNApSAcK
+354,C00005618,165460-83-3,Dillenetin 7-glucoside,C23H24O12,492.12677623,Zanthoxylum bungeanum,Zanthoxylum,KNApSAcK
+355,C00005713,32427-55-7,"Gossypetin 7,4'-dimethyl ether 8-glucoside",C23H24O13,508.12169086,Zanthoxylum alatum,Zanthoxylum,KNApSAcK
+356,C00005713,32427-55-7,"Gossypetin 7,4'-dimethyl ether 8-glucoside",C23H24O13,508.12169086,Zanthoxylum acanthopodium,Zanthoxylum,KNApSAcK
+357,C00007190,487-36-5,(+)-Pinoresinol,C20H22O6,358.14163844,Zanthoxylum kellermanii,Zanthoxylum,KNApSAcK
+358,C00007190,487-36-5,(+)-Pinoresinol,C20H22O6,358.14163844,Zanthoxylum ailanthoides,Zanthoxylum,KNApSAcK
+359,C00007192,24404-50-0,(+)-Epipinoresinol,C20H22O6,358.14163844,Zanthoxylum ailanthoides,Zanthoxylum,KNApSAcK
+360,C00007193,,(+)-Xanthoxylol,C20H20O6,356.12598837,Zanthoxylum piperitum,Zanthoxylum,KNApSAcK
+361,C00007194,133-03-9,(+)-Episesamin,C20H18O6,354.11033831,Zanthoxylum ailanthoides,Zanthoxylum,KNApSAcK
+362,C00007195,68296-27-5,(+)-Fargesin,C21H22O6,370.14163844,Zanthoxylum armatum,Zanthoxylum,KNApSAcK
+363,C00007195,68296-27-5,(+)-Fargesin,C21H22O6,370.14163844,Zanthoxylum myriacanthum,Zanthoxylum,KNApSAcK
+364,C00007195,68296-27-5,(+)-Fargesin,C21H22O6,370.14163844,Zanthoxylum alatum,Zanthoxylum,KNApSAcK
+365,C00007201,28115-68-6,(-)-Pluviatolide,C20H20O6,356.12598837,Zanthoxylum pluviatile,Zanthoxylum,KNApSAcK
+366,C00007514,22260-46-4,(24R)-Ergost-4-en-3-one,C28H46O,398.35486609,Zanthoxylum wutaiense,Zanthoxylum,KNApSAcK
+367,C00007558,134-96-3,Syringaldehyde,C9H10O4,182.05790881,Zanthoxylum ailanthoides,Zanthoxylum,KNApSAcK
+368,C00007558,134-96-3,Syringaldehyde,C9H10O4,182.05790881,Zanthoxylum integrifoliolum,Zanthoxylum,KNApSAcK
+369,C00007558,134-96-3,Syringaldehyde,C9H10O4,182.05790881,Zanthoxylum wutaiense,Zanthoxylum,KNApSAcK
+370,C00007636,483-76-1,delta-Cadinene,C15H24,204.18780077,Zanthoxylum armatum,Zanthoxylum,KNApSAcK
+371,C00010829,6790-83-6,"1,4-Epoxy-p-menthane-2,3-diol",C10H18O3,186.12559444,Zanthoxylum rhetsa,Zanthoxylum,KNApSAcK
+372,C00010838,4584-23-0,"4,8-Epoxy-p-menth-1-ene",C10H16O,152.12011513,Zanthoxylum piperitum,Zanthoxylum,KNApSAcK
+373,C00010860,2158-59-0,(R)-(-)-Cryptone,C9H14O,138.10446507,Zanthoxylum rhetsa,Zanthoxylum,KNApSAcK
+374,C00010872,555-10-2,beta-Phellandrene,C10H16,136.12520051,Zanthoxylum armatum,Zanthoxylum,KNApSAcK
+375,C00010880,2102-62-7,"(+)-trans-p-Mentha-1(7),8-dien-2-ol",C10H16O,152.12011513,Zanthoxylum piperitum,Zanthoxylum,KNApSAcK
+376,C00010882,3419-02-1,"p-Mentha-1,8-dien-4-ol",C10H16O,152.12011513,Zanthoxylum piperitum,Zanthoxylum,KNApSAcK
+377,C00010897,62137-86-4,"[1S-(1a,2a,4b)]-1-methyl-4-(1-methylethyl)-1,2,4-Cyclohexanetriol",C10H20O3,188.1412445,Zanthoxylum budrunga,Zanthoxylum,KNApSAcK
+378,C00010927,20126-76-5,(-)-4-Terpineol,C10H18O,154.1357652,Zanthoxylum rhetsa,Zanthoxylum,KNApSAcK
+379,C00010930,7299-42-5,delta-Terpineol,C10H18O,154.1357652,Zanthoxylum piperitum,Zanthoxylum,KNApSAcK
+380,C00010941,4573-50-6,(-)-Piperitone,C10H16O,152.12011513,Zanthoxylum piperitum,Zanthoxylum,KNApSAcK
+381,C00010974,527-84-4,alpha-Cymene,C10H14,134.10955045,Zanthoxylum armatum,Zanthoxylum,KNApSAcK
+382,C00012483,1139-30-6,(-)-beta-Caryophyllene epoxide,C15H24O,220.18271539,Zanthoxylum armatum,Zanthoxylum,KNApSAcK
+383,C00012483,1139-30-6,(-)-beta-Caryophyllene epoxide,C15H24O,220.18271539,Zanthoxylum decaryi,Zanthoxylum,KNApSAcK
+384,C00013368,102487-38-7,Zanthoxyl flavone,C17H14O8,346.06886743,Zanthoxylum alatum,Zanthoxylum,KNApSAcK
+385,C00013528,252351-60-3,Geranioloxyalatum flavone,C27H34O9,502.22028269,Zanthoxylum alatum,Zanthoxylum,KNApSAcK
+386,C00013545,117155-59-6,"3,5,7-Tris(acetyloxy)-8-methoxy-2-(4-methoxyphenyl)-4H-1-benzopyran-4-one",C23H20O10,456.10564686,Zanthoxylum integrifoliolum,Zanthoxylum,KNApSAcK
+387,C00013832,58264-77-0,"Tambulin 3,5-diacetata",C22H20O9,428.11073224,Zanthoxylum integrifoliolum,Zanthoxylum,KNApSAcK
+388,C00013931,70324-45-7,"Quercetin 3,4'-dimethyl ether 7-glucoside",C23H24O12,492.12677623,Zanthoxylum bungeanum,Zanthoxylum,KNApSAcK
+389,C00019308,474-58-8,3-O-beta-D-Glucopyranosyl sitosterol,C35H60O6,576.43898965,Zanthoxylum armatum,Zanthoxylum,KNApSAcK
+390,C00019763,168001-91-0,Acetoxyaurapten,C21H24O5,356.16237388,Zanthoxylum schinifolium,Zanthoxylum,KNApSAcK
+391,C00019863,168001-92-1,Epoxycollinin,C20H24O5,344.16237388,Zanthoxylum schinifolium,Zanthoxylum,KNApSAcK
+392,C00019863,168001-92-1,Epoxycollinin,C20H24O5,344.16237388,Zanthoxylum sp.,Zanthoxylum,KNApSAcK
+393,C00020020,168074-91-7,Schinicoumarin,C12H12O5,236.06847349,Zanthoxylum schinifolium,Zanthoxylum,KNApSAcK
+394,C00020021,168074-93-9,Schinilenol,C20H24O5,344.16237388,Zanthoxylum sp.,Zanthoxylum,KNApSAcK
+395,C00020021,168074-93-9,Schinilenol,C20H24O5,344.16237388,Zanthoxylum schinifolium,Zanthoxylum,KNApSAcK
+396,C00020022,168074-92-8,Schininallylol,C20H24O5,344.16237388,Zanthoxylum schinifolium,Zanthoxylum,KNApSAcK
+397,C00020023,168074-94-0,Schinindiol,C20H26O6,362.17293856,Zanthoxylum sp.,Zanthoxylum,KNApSAcK
+398,C00020023,168074-94-0,Schinindiol,C20H26O6,362.17293856,Zanthoxylum schinifolium,Zanthoxylum,KNApSAcK
+399,C00020065,481-34-5,(-)-alpha-Cadinol,C15H26O,222.19836545,Zanthoxylum armatum,Zanthoxylum,KNApSAcK
+400,C00020154,19912-62-0,tau-Muurolol,C15H26O,222.19836545,Zanthoxylum armatum,Zanthoxylum,KNApSAcK
+401,C00024273,17014-43-6,Xanthoxoline,C15H13NO4,271.08445791,Zanthoxylum gillettii,Zanthoxylum,KNApSAcK
+402,C00024273,17014-43-6,Xanthoxoline,C15H13NO4,271.08445791,Zanthoxylum macrophylla,Zanthoxylum,KNApSAcK
+403,C00024273,17014-43-6,Xanthoxoline,C15H13NO4,271.08445791,Zanthoxylum leprieurii,Zanthoxylum,KNApSAcK
+404,C00024628,12262-09-3,6-Methoxydihydrochelerythrine,C22H21NO5,379.14197279,Zanthoxylum tessmannii,Zanthoxylum,KNApSAcK
+405,C00024628,12262-09-3,6-Methoxydihydrochelerythrine,C22H21NO5,379.14197279,Zanthoxylum rubescens Planch.ex Oliv.,Zanthoxylum,KNApSAcK
+406,C00024630,60394-88-9,Arnottianamide,C21H19NO6,381.12123735,Zanthoxylum arnottianum Maxim.,Zanthoxylum,KNApSAcK
+407,C00024630,60394-88-9,Arnottianamide,C21H19NO6,381.12123735,Zanthoxylum cuspidatum Champ.,Zanthoxylum,KNApSAcK
+408,C00024630,60394-88-9,Arnottianamide,C21H19NO6,381.12123735,Zanthoxylum rubescers,Zanthoxylum,KNApSAcK
+409,C00024632,32906-88-0,Bocconoline,C22H21NO5,379.14197279,Zanthoxylum simulans,Zanthoxylum,KNApSAcK
+410,C00024634,34316-15-9,Chelerythrine,C21H18NO4,348.12358307,Zanthoxylum coriaceum,Zanthoxylum,KNApSAcK
+411,C00024634,34316-15-9,Chelerythrine,C21H18NO4,348.12358307,Zanthoxylum simulans,Zanthoxylum,KNApSAcK
+412,C00024634,34316-15-9,Chelerythrine,C21H18NO4,348.12358307,Zanthoxylum williamsii,Zanthoxylum,KNApSAcK
+413,C00024634,34316-15-9,Chelerythrine,C21H18NO4,348.12358307,Zanthoxylum usambarense,Zanthoxylum,KNApSAcK
+414,C00024634,34316-15-9,Chelerythrine,C21H18NO4,348.12358307,Zanthoxylum spinosum Swingle,Zanthoxylum,KNApSAcK
+415,C00024634,34316-15-9,Chelerythrine,C21H18NO4,348.12358307,Zanthoxylum nitidum,Zanthoxylum,KNApSAcK
+416,C00024634,34316-15-9,Chelerythrine,C21H18NO4,348.12358307,Zanthoxylum monophyllum,Zanthoxylum,KNApSAcK
+417,C00024634,34316-15-9,Chelerythrine,C21H18NO4,348.12358307,Zanthoxylum fagara (L.)Sarg.,Zanthoxylum,KNApSAcK
+418,C00024634,34316-15-9,Chelerythrine,C21H18NO4,348.12358307,Zanthoxylum dipetalum,Zanthoxylum,KNApSAcK
+419,C00024640,34490-82-9,Dihydroavicine,C20H15NO4,333.10010798,Zanthoxylum budrunga,Zanthoxylum,KNApSAcK
+420,C00024641,6880-91-7,Dihydrochelerythrine,C21H19NO4,349.1314081,Zanthoxylum coriaceum,Zanthoxylum,KNApSAcK
+421,C00024641,6880-91-7,Dihydrochelerythrine,C21H19NO4,349.1314081,Zanthoxylum tessmannii,Zanthoxylum,KNApSAcK
+422,C00024641,6880-91-7,Dihydrochelerythrine,C21H19NO4,349.1314081,Zanthoxylum spinosum Swingle,Zanthoxylum,KNApSAcK
+423,C00024645,13063-06-4,Dihydronitidine,C21H19NO4,349.1314081,Zanthoxylum myriacanthum,Zanthoxylum,KNApSAcK
+424,C00024645,13063-06-4,Dihydronitidine,C21H19NO4,349.1314081,Zanthoxylum roifolium,Zanthoxylum,KNApSAcK
+425,C00024645,13063-06-4,Dihydronitidine,C21H19NO4,349.1314081,Zanthoxylum tessmannii,Zanthoxylum,KNApSAcK
+426,C00024650,72459-16-6,Integriamide,C20H15NO6,365.08993722,Zanthoxylum integrifoliolum (Merr.),Zanthoxylum,KNApSAcK
+427,C00024650,72459-16-6,Integriamide,C20H15NO6,365.08993722,Zanthoxylum nitidum,Zanthoxylum,KNApSAcK
+428,C00024651,60394-91-4,Isoarnottianamide,C21H19NO6,381.12123735,Zanthoxylum cuspidatum Champ.,Zanthoxylum,KNApSAcK
+429,C00024651,60394-91-4,Isoarnottianamide,C21H19NO6,381.12123735,Zanthoxylum nitidum,Zanthoxylum,KNApSAcK
+430,C00024652,66855-60-5,Isodecarine,C19H13NO4,319.08445791,Zanthoxylum decaryi H. Perrier,Zanthoxylum,KNApSAcK
+431,C00024653,61774-74-1,Iwamide,C20H17NO6,367.10558728,Zanthoxylum arnottianum Maxim.,Zanthoxylum,KNApSAcK
+432,C00024654,54354-62-0,Decarine,C19H13NO4,319.08445791,Zanthoxylum integrifoliolum,Zanthoxylum,KNApSAcK
+433,C00024654,54354-62-0,Decarine,C19H13NO4,319.08445791,Zanthoxylum viride Waterm.,Zanthoxylum,KNApSAcK
+434,C00024654,54354-62-0,Decarine,C19H13NO4,319.08445791,Zanthoxylum tetraspermum,Zanthoxylum,KNApSAcK
+435,C00024654,54354-62-0,Decarine,C19H13NO4,319.08445791,Zanthoxylum syncarpum,Zanthoxylum,KNApSAcK
+436,C00024654,54354-62-0,Decarine,C19H13NO4,319.08445791,Zanthoxylum microcarpum Griseb.,Zanthoxylum,KNApSAcK
+437,C00024654,54354-62-0,Decarine,C19H13NO4,319.08445791,Zanthoxylum decaryi,Zanthoxylum,KNApSAcK
+438,C00024654,54354-62-0,Decarine,C19H13NO4,319.08445791,Zanthoxylum caudatum,Zanthoxylum,KNApSAcK
+439,C00024654,54354-62-0,Decarine,C19H13NO4,319.08445791,Zanthoxylum ailanthoides,Zanthoxylum,KNApSAcK
+440,C00024655,6900-99-8,Norchelerythrine,C20H15NO4,333.10010798,Zanthoxylum chiloperone var. angustifolium,Zanthoxylum,KNApSAcK
+441,C00024655,6900-99-8,Norchelerythrine,C20H15NO4,333.10010798,Zanthoxylum usumbarense,Zanthoxylum,KNApSAcK
+442,C00024655,6900-99-8,Norchelerythrine,C20H15NO4,333.10010798,Zanthoxylum spinosum Swingle,Zanthoxylum,KNApSAcK
+443,C00024655,6900-99-8,Norchelerythrine,C20H15NO4,333.10010798,Zanthoxylum integrifoliolum,Zanthoxylum,KNApSAcK
+444,C00024655,6900-99-8,Norchelerythrine,C20H15NO4,333.10010798,Zanthoxylum ailanthoides,Zanthoxylum,KNApSAcK
+445,C00024656,18034-03-2,Nornitidine,C20H15NO4,333.10010798,Zanthoxylum microcarpum Griseb.,Zanthoxylum,KNApSAcK
+446,C00024656,18034-03-2,Nornitidine,C20H15NO4,333.10010798,Zanthoxylum myricanthum,Zanthoxylum,KNApSAcK
+447,C00024656,18034-03-2,Nornitidine,C20H15NO4,333.10010798,Zanthoxylum integrifoliolum,Zanthoxylum,KNApSAcK
+448,C00024888,509-30-8,Garryfoline,C22H33NO2,343.2511293,Zanthoxylum elephantiasis,Zanthoxylum,KNApSAcK
+449,C00024888,509-30-8,Garryfoline,C22H33NO2,343.2511293,Zanthoxylum ailanthoides,Zanthoxylum,KNApSAcK
+450,C00025241,30413-84-4,(-)-Kikemanine,C20H23NO4,341.16270823,Zanthoxylum taediosum,Zanthoxylum,KNApSAcK
+451,C00025347,18446-73-6,Tembetarine,C20H26NO4,344.18618333,Zanthoxylum myriacanthum,Zanthoxylum,KNApSAcK
+452,C00025347,18446-73-6,Tembetarine,C20H26NO4,344.18618333,Zanthoxylum chalybeum,Zanthoxylum,KNApSAcK
+453,C00025347,18446-73-6,Tembetarine,C20H26NO4,344.18618333,Zanthoxylum usambarense,Zanthoxylum,KNApSAcK
+454,C00025347,18446-73-6,Tembetarine,C20H26NO4,344.18618333,Zanthoxylum dipetalum,Zanthoxylum,KNApSAcK
+455,C00025418,7282-19-1,Atanine,C15H17NO2,243.12592879,Zanthoxylum wutaiense,Zanthoxylum,KNApSAcK
+456,C00025418,7282-19-1,Atanine,C15H17NO2,243.12592879,Zanthoxylum integrifoliolum,Zanthoxylum,KNApSAcK
+457,C00025418,7282-19-1,Atanine,C15H17NO2,243.12592879,Zanthoxylum xanthoxyloides,Zanthoxylum,KNApSAcK
+458,C00025418,7282-19-1,Atanine,C15H17NO2,243.12592879,Zanthoxylum integrifolium,Zanthoxylum,KNApSAcK
+459,C00025420,41303-26-8,Glycolone,C16H19NO3,273.13649348,Zanthoxylum scandens,Zanthoxylum,KNApSAcK
+460,C00025434,80450-23-3,Paraensidimerin C,C30H30N2O4,482.22055746,Zanthoxylum integrifoliolum,Zanthoxylum,KNApSAcK
+461,C00025446,76525-26-3,Veprisine,C17H19NO4,301.1314081,Zanthoxylum simulans,Zanthoxylum,KNApSAcK
+462,C00025447,64190-94-9,Zanthobungeanine,C16H17NO3,271.12084342,Zanthoxylum budrunga,Zanthoxylum,KNApSAcK
+463,C00025447,64190-94-9,Zanthobungeanine,C16H17NO3,271.12084342,Zanthoxylum beecheyanym,Zanthoxylum,KNApSAcK
+464,C00025447,64190-94-9,Zanthobungeanine,C16H17NO3,271.12084342,Zanthoxylum bungeanum,Zanthoxylum,KNApSAcK
+465,C00025447,64190-94-9,Zanthobungeanine,C16H17NO3,271.12084342,Zanthoxylum arnottianum,Zanthoxylum,KNApSAcK
+466,C00025447,64190-94-9,Zanthobungeanine,C16H17NO3,271.12084342,Zanthoxylum beecheyanum,Zanthoxylum,KNApSAcK
+467,C00025447,64190-94-9,Zanthobungeanine,C16H17NO3,271.12084342,Zanthoxylum simulans,Zanthoxylum,KNApSAcK
+468,C00025447,64190-94-9,Zanthobungeanine,C16H17NO3,271.12084342,Zanthoxylum rhetza,Zanthoxylum,KNApSAcK
+469,C00025447,64190-94-9,Zanthobungeanine,C16H17NO3,271.12084342,Zanthoxylum planispinum,Zanthoxylum,KNApSAcK
+470,C00025447,64190-94-9,Zanthobungeanine,C16H17NO3,271.12084342,Zanthoxylum monophyllum,Zanthoxylum,KNApSAcK
+471,C00025448,65560-23-8,Zanthophylline,C18H19NO5,329.12632272,Zanthoxylum monophyllum,Zanthoxylum,KNApSAcK
+472,C00025632,483-34-1,(-)-Isocorypalmine,C20H23NO4,341.16270823,Zanthoxylum taediosum,Zanthoxylum,KNApSAcK
+473,C00025939,25342-82-9,(+)-Menisperine,C21H26NO4,356.18618333,Zanthoxylum piperitum,Zanthoxylum,KNApSAcK
+474,C00025982,60008-01-7,Oblongine,C19H24NO3,314.17561864,Zanthoxylum chalybeum,Zanthoxylum,KNApSAcK
+475,C00025982,60008-01-7,Oblongine,C19H24NO3,314.17561864,Zanthoxylum usambarense,Zanthoxylum,KNApSAcK
+476,C00026092,6451-73-6,l-Scoulerine,C19H21NO4,327.14705817,Zanthoxylum taediosum,Zanthoxylum,KNApSAcK
+477,C00026132,19716-67-7,Isocoptisine,C19H14NO4,320.09228294,Zanthoxylum integrifolium,Zanthoxylum,KNApSAcK
+478,C00026135,47474-49-7,N-Methylcanadine,C21H24NO4,354.17053326,Zanthoxylum ocumarense,Zanthoxylum,KNApSAcK
+479,C00026150,2934-97-6,(+-)-Tetrahydropalmatine,C21H25NO4,355.17835829,Zanthoxylum taediosum,Zanthoxylum,KNApSAcK
+480,C00026351,7688-58-6,(-)-Ribalinine,C15H17NO3,259.12084342,Zanthoxylum nitidum,Zanthoxylum,KNApSAcK
+481,C00026351,7688-58-6,(-)-Ribalinine,C15H17NO3,259.12084342,Zanthoxylum mayu,Zanthoxylum,KNApSAcK
+482,C00026351,7688-58-6,(-)-Ribalinine,C15H17NO3,259.12084342,Zanthoxylum simulans,Zanthoxylum,KNApSAcK
+483,C00026352,27495-37-0,Isoplatydesmine,C15H17NO3,259.12084342,Zanthoxylum nitidum,Zanthoxylum,KNApSAcK
+484,C00026361,2824-86-4,Platydesmine,C15H17NO3,259.12084342,Zanthoxylum integrifoliolum,Zanthoxylum,KNApSAcK
+485,C00026361,2824-86-4,Platydesmine,C15H17NO3,259.12084342,Zanthoxylum simulans,Zanthoxylum,KNApSAcK
+486,C00026361,2824-86-4,Platydesmine,C15H17NO3,259.12084342,Zanthoxylum schinifolium,Zanthoxylum,KNApSAcK
+487,C00026361,2824-86-4,Platydesmine,C15H17NO3,259.12084342,Zanthoxylum parviflorum,Zanthoxylum,KNApSAcK
+488,C00026361,2824-86-4,Platydesmine,C15H17NO3,259.12084342,Zanthoxylum belizense,Zanthoxylum,KNApSAcK
+489,C00026361,2824-86-4,Platydesmine,C15H17NO3,259.12084342,Zanthoxylum avicennae,Zanthoxylum,KNApSAcK
+490,C00026361,2824-86-4,Platydesmine,C15H17NO3,259.12084342,Zanthoxylum ailanthoides,Zanthoxylum,KNApSAcK
+491,C00026361,2824-86-4,Platydesmine,C15H17NO3,259.12084342,Zanthoxylum acanthopodium,Zanthoxylum,KNApSAcK
+492,C00026387,41303-25-7,"4,8-Dimethoxy-1-methyl-3-prenylquinolin-2-one",C17H21NO3,287.15214354,Zanthoxylum scadens,Zanthoxylum,KNApSAcK
+493,C00026402,145237-07-6,Acutifolin,C17H21NO4,303.14705817,Zanthoxylum acutifolium,Zanthoxylum,KNApSAcK
+494,C00026405,198336-58-2,Benzosimuline,C20H19NO2,305.14157886,Zanthoxylum simulans,Zanthoxylum,KNApSAcK
+495,C00026410,20643-71-4,Confusameline,C12H9NO3,215.05824316,Zanthoxylum ailanthoides,Zanthoxylum,KNApSAcK
+496,C00026422,27495-36-9,Edulinine,C16H21NO4,291.14705817,Zanthoxylum simulans,Zanthoxylum,KNApSAcK
+497,C00026422,27495-36-9,Edulinine,C16H21NO4,291.14705817,Zanthoxylum mayu,Zanthoxylum,KNApSAcK
+498,C00026422,27495-36-9,Edulinine,C16H21NO4,291.14705817,Zanthoxylum williamsii,Zanthoxylum,KNApSAcK
+499,C00026422,27495-36-9,Edulinine,C16H21NO4,291.14705817,Zanthoxylum usambarense,Zanthoxylum,KNApSAcK
+500,C00026423,15272-24-9,Edulitine,C11H11NO3,205.07389323,Zanthoxylum nitidum,Zanthoxylum,KNApSAcK
+501,C00026423,15272-24-9,Edulitine,C11H11NO3,205.07389323,Zanthoxylum siulans,Zanthoxylum,KNApSAcK
+502,C00026423,15272-24-9,Edulitine,C11H11NO3,205.07389323,Zanthoxylum ailanthoides,Zanthoxylum,KNApSAcK
+503,C00026441,460743-80-0,Hyemaline,C16H15NO3,269.10519335,Zanthoxylum hyemale,Zanthoxylum,KNApSAcK
+504,C00026442,81943-13-7,Integriquinolone,C11H11NO3,205.07389323,Zanthoxylum integrifoliolum,Zanthoxylum,KNApSAcK
+505,C00026442,81943-13-7,Integriquinolone,C11H11NO3,205.07389323,Zanthoxylum ailanthoides,Zanthoxylum,KNApSAcK
+506,C00026465,22826-43-3,N-Methylatanine,C16H19NO2,257.14157886,Zanthoxylum beecheyanum,Zanthoxylum,KNApSAcK
+507,C00026477,2221-41-2,6-Methoxydictamnine,C13H11NO3,229.07389323,Zanthoxylum ailanthoides,Zanthoxylum,KNApSAcK
+508,C00026489,851770-81-5,Tecleanatalensine B,C18H19NO4,313.1314081,Zanthoxylum arborescens,Zanthoxylum,KNApSAcK
+509,C00026493,152406-73-0,Toddaquinoline,C14H9NO3,239.05824316,Zanthoxylum arnottianum,Zanthoxylum,KNApSAcK
+510,C00026493,152406-73-0,Toddaquinoline,C14H9NO3,239.05824316,Zanthoxylum nitidum,Zanthoxylum,KNApSAcK
+511,C00026493,152406-73-0,Toddaquinoline,C14H9NO3,239.05824316,Zanthoxylum simulans,Zanthoxylum,KNApSAcK
+512,C00026493,152406-73-0,Toddaquinoline,C14H9NO3,239.05824316,Zanthoxylum beecheyanum,Zanthoxylum,KNApSAcK
+513,C00026497,198336-59-3,(-)-Zanthodioline,C16H19NO5,305.12632272,Zanthoxylum arnottianum,Zanthoxylum,KNApSAcK
+514,C00026497,198336-59-3,(-)-Zanthodioline,C16H19NO5,305.12632272,Zanthoxylum simulans,Zanthoxylum,KNApSAcK
+515,C00026497,198336-59-3,(-)-Zanthodioline,C16H19NO5,305.12632272,Zanthoxylum beecheyanum,Zanthoxylum,KNApSAcK
+516,C00027166,656801-38-6,Syncarpamide,C28H27NO5,457.18892298,Zanthoxylum syncarpum,Zanthoxylum,KNApSAcK
+517,C00027170,6872-88-4,Xanthoplanine,C21H26NO4,356.18618333,Zanthoxylum planispinum,Zanthoxylum,KNApSAcK
+518,C00027230,460743-81-1,O-methylbalsamide,C18H21NO4,315.14705817,Zanthoxylum hymenale,Zanthoxylum,KNApSAcK
+519,C00027263,348098-59-9,6-Acetonyldihydroavicine,C23H19NO5,389.12632273,Zanthoxylum tetraspermum,Zanthoxylum,KNApSAcK
+520,C00027263,348098-59-9,6-Acetonyldihydroavicine,C23H19NO5,389.12632273,Zanthoxylum rhoifolium,Zanthoxylum,KNApSAcK
+521,C00027263,348098-59-9,6-Acetonyldihydroavicine,C23H19NO5,389.12632273,Zanthoxylum caudatum,Zanthoxylum,KNApSAcK
+522,C00027297,220458-86-6,Armatamide,C19H19NO4,325.1314081,Zanthoxylum armatum,Zanthoxylum,KNApSAcK
+523,C00027325,17132-71-7,cis-N-Methyltetrahydropalmatine,C22H28NO4,370.20183339,Zanthoxylum taediosum,Zanthoxylum,KNApSAcK
+524,C00027379,289042-21-3,Integramine,C28H35NO2,417.26677937,Zanthoxylum integrifolium,Zanthoxylum,KNApSAcK
+525,C00027503,202002-14-0,Zanthoxyline,C19H13NO4,319.08445791,Zanthoxylum sp.,Zanthoxylum,KNApSAcK
+526,C00027503,202002-14-0,Zanthoxyline,C19H13NO4,319.08445791,Zanthoxylum oxyphyllum,Zanthoxylum,KNApSAcK
+527,C00027503,202002-14-0,Zanthoxyline,C19H13NO4,319.08445791,Zanthoxylum roifolium,Zanthoxylum,KNApSAcK
+528,C00027503,202002-14-0,Zanthoxyline,C19H13NO4,319.08445791,Zanthoxylum rhoifolium,Zanthoxylum,KNApSAcK
+529,C00027554,186502-92-1,Isotembetarine,C20H26NO4,344.18618333,Zanthoxylum nitidum,Zanthoxylum,KNApSAcK
+530,C00027593,176713-29-4,Simulansamide,C22H23NO6,397.15253747,Zanthoxylum simulans,Zanthoxylum,KNApSAcK
+531,C00027599,174204-34-3,Usambanoline,C21H22NO5,368.14979782,Zanthoxylum usambarense,Zanthoxylum,KNApSAcK
+532,C00027599,174204-34-3,Usambanoline,C21H22NO5,368.14979782,Zanthoxylum chaylbeum,Zanthoxylum,KNApSAcK
+533,C00027710,53600-24-1,1-Hydroxyrutaecarpine,C18H13N3O2,303.10077668,Zanthoxylum wutaiense,Zanthoxylum,KNApSAcK
+534,C00027710,53600-24-1,1-Hydroxyrutaecarpine,C18H13N3O2,303.10077668,Zanthoxylum integrifoliolum,Zanthoxylum,KNApSAcK
+535,C00027764,80330-39-8,6-Acetonyldihydronitidine,C24H23NO5,405.15762285,Zanthoxylum tetraspermum,Zanthoxylum,KNApSAcK
+536,C00027764,80330-39-8,6-Acetonyldihydronitidine,C24H23NO5,405.15762285,Zanthoxylum rhoifolium,Zanthoxylum,KNApSAcK
+537,C00027823,86003-22-7,Ailanthoidine,C29H25N3O4,479.18450631,Zanthoxylum ailanthoides,Zanthoxylum,KNApSAcK
+538,C00027829,73326-84-8,Alfileramine,C30H42N2O2,462.3246286,Zanthoxylum punctatum,Zanthoxylum,KNApSAcK
+539,C00027829,73326-84-8,Alfileramine,C30H42N2O2,462.3246286,Zanthoxylum chiriquinum,Zanthoxylum,KNApSAcK
+540,C00028005,5096-57-1,Canadine,C20H21NO4,339.14705817,Zanthoxylum brachyacanthum,Zanthoxylum,KNApSAcK
+541,C00028005,5096-57-1,Canadine,C20H21NO4,339.14705817,Zanthoxylum veneficium,Zanthoxylum,KNApSAcK
+542,C00028199,119060-88-7,Dioxamide,C20H19NO5,353.12632273,Zanthoxylum rubescens,Zanthoxylum,KNApSAcK
+543,C00028200,119060-89-8,Dioxamine,C19H17NO5,339.11067266,Zanthoxylum rubescens,Zanthoxylum,KNApSAcK
+544,C00028392,73326-86-0,Isoalfileramine,C30H42N2O2,462.3246286,Zanthoxylum chiriquinum,Zanthoxylum,KNApSAcK
+545,C00028447,249898-38-2,Lanyuamide I,C18H31NO2,293.23547924,Zanthoxylum integrifoliolum,Zanthoxylum,KNApSAcK
+546,C00028448,249898-39-3,Lanyuamide II,C18H29NO2,291.21982918,Zanthoxylum integrifoliolum,Zanthoxylum,KNApSAcK
+547,C00028449,249898-40-6,Lanyuamide III,C18H29NO,275.22491455,Zanthoxylum integrifoliolum,Zanthoxylum,KNApSAcK
+548,C00028631,129743-95-9,"N,N-Didemethylalfileramine",C28H38N2O2,434.29332847,Zanthoxylum coriaceum,Zanthoxylum,KNApSAcK
+549,C00028632,129743-94-8,"N,N-Didemethylculantraramine",C30H42N2O2,462.3246286,Zanthoxylum coriaceum,Zanthoxylum,KNApSAcK
+550,C00028643,5894-74-6,N-Acetylanonaine,C19H17NO3,307.12084342,Zanthoxylum simulans,Zanthoxylum,KNApSAcK
+551,C00028655,129743-97-1,N'-Demethylalfileramine,C29H40N2O2,448.30897854,Zanthoxylum coriaceum,Zanthoxylum,KNApSAcK
+552,C00028656,129743-98-2,N-Demethylalfileramine,C29H40N2O2,448.30897854,Zanthoxylum coriaceum,Zanthoxylum,KNApSAcK
+553,C00028764,128700-82-3,O-Methylalfileramine,C31H44N2O2,476.34027866,Zanthoxylum chiriquinum,Zanthoxylum,KNApSAcK
+554,C00028903,586976-10-5,Rhoifoline A,C20H13NO5,347.07937253,Zanthoxylum rhoifolium,Zanthoxylum,KNApSAcK
+555,C00028904,586976-11-6,Rhoifoline B,C21H17NO5,363.11067266,Zanthoxylum rhoifolium,Zanthoxylum,KNApSAcK
+556,C00028945,121817-66-1,Rubemamide,C22H27NO5,385.18892298,Zanthoxylum rubescens,Zanthoxylum,KNApSAcK
+557,C00029242,18064-89-6,Xanthoxyline,C10H11BrO4,273.98407174,Zanthoxylum rhoifolium,Zanthoxylum,KNApSAcK
+558,C00029524,29050-33-7,4-Carene,C10H16,136.12520051,Zanthoxylum armatum,Zanthoxylum,KNApSAcK
+559,C00029544,562-74-3,4-Terpineol,C10H18O,154.1357652,Zanthoxylum armatum,Zanthoxylum,KNApSAcK
+560,C00029544,562-74-3,4-Terpineol,C10H18O,154.1357652,Zanthoxylum bungeanum,Zanthoxylum,KNApSAcK
+561,C00029593,2034-74-4,3beta-Hydroxystigmast-5-en-7-one,C29H48O2,428.36543078,Zanthoxylum wutaiense,Zanthoxylum,KNApSAcK
+562,C00029671,10208-80-7,alpha-Muurolene,C15H24,204.18780077,Zanthoxylum armatum,Zanthoxylum,KNApSAcK
+563,C00029674,98-55-5,alpha-Terpineol,C10H18O,154.1357652,Zanthoxylum bungeanum,Zanthoxylum,KNApSAcK
+564,C00029674,98-55-5,alpha-Terpineol,C10H18O,154.1357652,Zanthoxylum decaryi,Zanthoxylum,KNApSAcK
+565,C00029674,98-55-5,alpha-Terpineol,C10H18O,154.1357652,Zanthoxylum armatum,Zanthoxylum,KNApSAcK
+566,C00030244,31008-19-2,Fargesin,C21H22O6,370.14163844,Zanthoxylum armatum,Zanthoxylum,KNApSAcK
+567,C00030527,486-21-5,Isofraxidin,C11H10O5,222.05282343,Zanthoxylum simulans,Zanthoxylum,KNApSAcK
+568,C00030751,99-76-3,Methylparaben,C8H8O3,152.04734412,Zanthoxylum ailanthoides,Zanthoxylum,KNApSAcK
+569,C00030753,2309-07-1,Ferulic acid methyl ester,C11H12O4,208.07355887,Zanthoxylum wutaiense,Zanthoxylum,KNApSAcK
+570,C00030904,548-31-2,Oxynitidine,C21H17NO5,363.11067266,Zanthoxylum nitidum,Zanthoxylum,KNApSAcK
+571,C00031627,51529-11-4,beta-Sitosterone,C29H48O,412.37051615,Zanthoxylum simulans,Zanthoxylum,KNApSAcK
+572,C00031627,51529-11-4,beta-Sitosterone,C29H48O,412.37051615,Zanthoxylum wutaiense,Zanthoxylum,KNApSAcK
+573,C00032208,20817-72-5,"Stigmasta-4,22-dien-3-one",C29H46O,410.35486609,Zanthoxylum integrifoliolum,Zanthoxylum,KNApSAcK
+574,C00032520,84-99-1,Xanthoxyletin,C15H14O4,258.08920894,Zanthoxylum americanum,Zanthoxylum,KNApSAcK
+575,C00032520,84-99-1,Xanthoxyletin,C15H14O4,258.08920894,Zanthoxylum dipetalum,Zanthoxylum,KNApSAcK
+576,C00033588,23417-92-7,7-Isopentenyloxy-gamma-fagarine,C18H19NO4,313.1314081,Zanthoxylum arborescens L.,Zanthoxylum,KNApSAcK
+577,C00033656,80286-36-8,(-)-Balanophonin,C20H20O6,356.12598837,Zanthoxylum integrifoliolum,Zanthoxylum,KNApSAcK
+578,C00033656,80286-36-8,(-)-Balanophonin,C20H20O6,356.12598837,Zanthoxylum simulans,Zanthoxylum,KNApSAcK
+579,C00033844,168254-96-4,Evofolin B,C17H18O6,318.11033831,Zanthoxylum ailanthoides,Zanthoxylum,KNApSAcK
+580,C00034720,28333-06-4,Tegerrardin A,C15H13NO3,255.08954329,Zanthoxylum leprieurii,Zanthoxylum,KNApSAcK
+581,C00035530,133-05-1,Asarinin,C20H18O6,354.11033831,Zanthoxylum armatum,Zanthoxylum,KNApSAcK
+582,C00035823,106-23-0,Citronellal,C10H18O,154.1357652,Zanthoxylum armatum,Zanthoxylum,KNApSAcK
+583,C00035852,1195-92-2,Limonene oxide,C10H16O,152.12011513,Zanthoxylum piperitum,Zanthoxylum,KNApSAcK
+584,C00036263,593-08-8,2-Tridecanone,C13H26O,198.19836545,Zanthoxylum armatum,Zanthoxylum,KNApSAcK
+585,C00036263,593-08-8,2-Tridecanone,C13H26O,198.19836545,Zanthoxylum integrifoliolum,Zanthoxylum,KNApSAcK
+586,C00036289,500574-38-9,(-)-Simulanol,C21H24O7,388.15220312,Zanthoxylum simulans,Zanthoxylum,KNApSAcK
+587,C00036289,500574-38-9,(-)-Simulanol,C21H24O7,388.15220312,Zanthoxylum integrifoliolum,Zanthoxylum,KNApSAcK
+588,C00036874,60755-87-5,Canthin-6-one N-oxide,C14H8N2O2,236.05857751,Zanthoxylum chiloperone var. angustifolium,Zanthoxylum,KNApSAcK
+589,C00037133,523-66-0,Evolitrine,C13H11NO3,229.07389323,Zanthoxylum ailanthoides,Zanthoxylum,KNApSAcK
+590,C00037170,108-97-4,gamma-Pyrone,C5H4O2,96.02112937,Zanthoxylum simulans,Zanthoxylum,KNApSAcK
+591,C00037277,155416-21-0,Huajiaosimuline,C20H23NO3,325.16779361,Zanthoxylum simulans,Zanthoxylum,KNApSAcK
+592,C00037418,15222-53-4,Lichexanthone,C16H14O5,286.08412356,Zanthoxylum tetraspermum,Zanthoxylum,KNApSAcK
+593,C00037711,500574-37-8,Pyrrolezanthine,C14H15NO3,245.10519335,Zanthoxylum simulans,Zanthoxylum,KNApSAcK
+594,C00037813,88548-08-7,Sepesteonol,C29H48O2,428.36543078,Zanthoxylum simulans,Zanthoxylum,KNApSAcK
+595,C00038035,500574-39-0,Zanthopyranone,C8H10O4,170.05790881,Zanthoxylum simulans,Zanthoxylum,KNApSAcK
+596,C00038044,953393-40-3,(-)-5-Methoxybalanophonin,C21H22O7,386.13655306,Zanthoxylum integrifoliolum,Zanthoxylum,KNApSAcK
+597,C00038062,54983-95-8,(-)-Xanthoxylol,C20H20O6,356.12598837,Zanthoxylum piperitum,Zanthoxylum,KNApSAcK
+598,C00038062,54983-95-8,(-)-Xanthoxylol,C20H20O6,356.12598837,Zanthoxylum wutaiense,Zanthoxylum,KNApSAcK
+599,C00038178,953393-39-0,18-Demethylparaensidimerin C,C29H28N2O4,468.2049074,Zanthoxylum integrifoliolum,Zanthoxylum,KNApSAcK
+600,C00038201,2769-94-0,"2,4-Bis(1-phenylethyl)phenol",C22H22O,302.16706532,Zanthoxylum integrifoliolum,Zanthoxylum,KNApSAcK
+601,C00038299,75686-40-7,6alpha-Hydroxystigmast-4-en-3-one,C29H48O2,428.36543078,Zanthoxylum wutaiense,Zanthoxylum,KNApSAcK
+602,C00039135,1006378-74-0,epi-Zanthocadinanine B,C7H45NO5,223.32977355,Zanthoxylum nitidum,Zanthoxylum,KNApSAcK
+603,C00039136,1006378-71-7,epi-Zanthomuurolanine,C37H45NO5,583.32977355,Zanthoxylum nitidum,Zanthoxylum,KNApSAcK
+604,C00039184,163634-05-7,Evofolin C,C14H18O2,218.13067982,Zanthoxylum integrifoliolum,Zanthoxylum,KNApSAcK
+605,C00039254,78886-65-4,gamma-Sanshool,C18H27NO,273.20926449,Zanthoxylum spp.,Zanthoxylum,KNApSAcK
+606,C00039254,78886-65-4,gamma-Sanshool,C18H27NO,273.20926449,Zanthoxylum integrifoliolum,Zanthoxylum,KNApSAcK
+607,C00039254,78886-65-4,gamma-Sanshool,C18H27NO,273.20926449,Zanthoxylum piperitum,Zanthoxylum,KNApSAcK
+608,C00039342,81427-15-8,Hazaleamide,C18H29NO,275.22491455,Zanthoxylum integrifoliolum,Zanthoxylum,KNApSAcK
+609,C00039386,78886-66-5,Hydroxy-gamma-sanshool,C18H27NO2,289.20417911,Zanthoxylum integrifoliolum,Zanthoxylum,KNApSAcK
+610,C00039386,78886-66-5,Hydroxy-gamma-sanshool,C18H27NO2,289.20417911,Zanthoxylum piperitum,Zanthoxylum,KNApSAcK
+611,C00039452,776-86-3,Isoscopoletin,C10H8O4,192.04225874,Zanthoxylum integrifoliolum,Zanthoxylum,KNApSAcK
+612,C00039754,117249-14-6,Methyl anodendroate,C13H16O4,236.104859,Zanthoxylum wutaiense,Zanthoxylum,KNApSAcK
+613,C00039986,425603-02-7,Phebarudol,C15H18O4,262.12050906,Zanthoxylum wutaiense,Zanthoxylum,KNApSAcK
+614,C00040474,200938-43-8,Tetrahydrobungeanool,C18H33NO2,295.2511293,Zanthoxylum integrifoliolum,Zanthoxylum,KNApSAcK
+615,C00040474,200938-43-8,Tetrahydrobungeanool,C18H33NO2,295.2511293,Zanthoxylum intergrifoliolum,Zanthoxylum,KNApSAcK
+616,C00040474,200938-43-8,Tetrahydrobungeanool,C18H33NO2,295.2511293,Zanthoxylum bungeanum,Zanthoxylum,KNApSAcK
+617,C00040614,28090-15-5,Valencic acid,C12H14O3,206.09429431,Zanthoxylum wutaiense,Zanthoxylum,KNApSAcK
+618,C00040668,85316-67-2,Wutaiensal,C15H18O4,262.12050906,Zanthoxylum wutaiense,Zanthoxylum,KNApSAcK
+619,C00040669,125873-48-5,Wutaifuranol,C11H10O2,174.06807956,Zanthoxylum wutaiense,Zanthoxylum,KNApSAcK
+620,C00040670,1039363-84-2,Wutaipyranol,C15H20O3,248.1412445,Zanthoxylum wutaiense,Zanthoxylum,KNApSAcK
+621,C00040727,1006378-72-8,Zanthocadinanine A,C37H45NO5,583.32977355,Zanthoxylum nitidum,Zanthoxylum,KNApSAcK
+622,C00040728,1006378-73-9,Zanthocadinanine B,C37H45NO5,583.32977355,Zanthoxylum nitidum,Zanthoxylum,KNApSAcK
+623,C00040729,1006378-70-6,Zanthomuurolanine,C37H45NO5,583.32977355,Zanthoxylum nitidum,Zanthoxylum,KNApSAcK
+624,C00040736,226887-40-7,(-)-Culantraramine,C32H46N2O2,490.35592873,Zanthoxylum avicennae,Zanthoxylum,KNApSAcK
+625,C00040737,226887-44-1,(-)-Culantraraminol,C32H48N2O3,508.36649341,Zanthoxylum avicennae,Zanthoxylum,KNApSAcK
+626,C00040888,226887-48-5,Avicennamine,C32H48N2O3,508.36649341,Zanthoxylum sp.,Zanthoxylum,KNApSAcK
+627,C00040888,226887-48-5,Avicennamine,C32H48N2O3,508.36649341,Zanthoxylum avicennae,Zanthoxylum,KNApSAcK
+628,C00041376,28634-89-1,beta-Thujene,C10H16,136.12520051,Zanthoxylum armatum,Zanthoxylum,KNApSAcK
+629,C00042130,865276-20-6,3-Methoxy-7-acetylaegeline,C21H23NO5,369.15762285,Zanthoxylum syncarpum,Zanthoxylum,KNApSAcK
+630,C00042131,865276-21-7,3-Methoxy-7-cinnamoylaegeline,C28H27NO5,457.18892298,Zanthoxylum syncarpum,Zanthoxylum,KNApSAcK
+631,C00042154,15071-56-4,5-Methoxycanthin-6-one,C15H10N2O2,250.07422758,Zanthoxylum chiloperone var. angustifolium,Zanthoxylum,KNApSAcK
+632,C00042394,63947-64-8,cis-Avicennol,C20H22O5,342.14672381,Zanthoxylum chiloperone var. angustifolium,Zanthoxylum,KNApSAcK
+633,C00042394,63947-64-8,cis-Avicennol,C20H22O5,342.14672381,Zanthoxylum elephantiasis Macfad,Zanthoxylum,KNApSAcK
+634,C00043077,56110-68-0,trans-Avicennol,C20H22O5,342.14672381,Zanthoxylum elephantiasis Macfad,Zanthoxylum,KNApSAcK
+635,C00043077,56110-68-0,trans-Avicennol,C20H22O5,342.14672381,Zanthoxylum chiloperone var. angustifolium,Zanthoxylum,KNApSAcK
+636,C00044274,28342-33-8,Oxychelerythrine,C21H17NO5,363.11067266,Zanthoxylum simulans,Zanthoxylum,KNApSAcK
+637,C00044274,28342-33-8,Oxychelerythrine,C21H17NO5,363.11067266,Zanthoxylum nitidum,Zanthoxylum,KNApSAcK
+638,C00044566,638-97-1,beta-Amyrenone,C30H48O,424.37051615,Zanthoxylum acanthopodium DC.,Zanthoxylum,KNApSAcK
+639,C00047082,145-13-1,Pregnenolone,C21H32O2,316.24023027,Zanthoxylum integrifoliolum,Zanthoxylum,KNApSAcK
+640,C00047131,1108728-64-8,"(2E,4E)-N-Isobutyl-6-oxohepta-2,4-dienamide",C11H17NO2,195.12592879,Zanthoxylum ailanthoides,Zanthoxylum,KNApSAcK
+641,C00047149,1108728-65-9,4-(4'-Hydroxy-3'-methylbutoxy)benzaldehyde,C12H16O3,208.10994438,Zanthoxylum ailanthoides,Zanthoxylum,KNApSAcK
+642,C00047162,1110680-84-6,Ailanthamide,C19H21NO3,311.15214354,Zanthoxylum ailanthoides,Zanthoxylum,KNApSAcK
+643,C00047163,156372-06-4,Ailanthoidiol,C14H20O3,236.1412445,Zanthoxylum ailanthoides,Zanthoxylum,KNApSAcK
+644,C00047311,1108728-63-7,N-(4-Methoxyphenethyl)-N-methylbenzamide,C17H19NO2,269.14157886,Zanthoxylum ailanthoides,Zanthoxylum,KNApSAcK
+645,C00048365,500-02-7,Cryptone,C9H14O,138.10446507,Zanthoxylum armatum,Zanthoxylum,KNApSAcK
+646,C00049602,75969-82-3,11-Methoxycanthin-6-one,C15H10N2O2,250.07422758,Zanthoxylum integrifoliolum,Zanthoxylum,KNApSAcK
+647,C00049685,230308-50-6,Zanthonitrile,C13H15NO,201.11536411,Zanthoxylum sp.,Zanthoxylum,KNApSAcK
+648,C00049685,230308-50-6,Zanthonitrile,C13H15NO,201.11536411,Zanthoxylum integrifoliolum,Zanthoxylum,KNApSAcK
+649,C00050526,145237-08-7,Acutifolidin,C16H19NO4,289.1314081,Zanthoxylum acutifolium,Zanthoxylum,KNApSAcK
+650,C00050527,145204-98-4,Acutifolin palmitate,C33H51NO5,541.37672375,Zanthoxylum acutifolium,Zanthoxylum,KNApSAcK
+651,C00050598,132646-11-8,N-Acetyldehydroanonaine,C19H15NO3,305.10519335,Zanthoxylum simulans,Zanthoxylum,KNApSAcK
+652,C00050929,149998-48-1,Isofagaridine,C20H16NO4,334.10793301,Zanthoxylum nitidum,Zanthoxylum,KNApSAcK
+653,C00051228,29946-61-0,Lemairamin,C19H21NO3,311.15214354,Zanthoxylum sp.,Zanthoxylum,KNApSAcK
+654,C00051701,37791-14-3,N-Methyl canadine,C21H24NO4,354.17053326,Zanthoxylum veneficium,Zanthoxylum,KNApSAcK
+655,C00051701,37791-14-3,N-Methyl canadine,C21H24NO4,354.17053326,Zanthoxylum brachyacanthum,Zanthoxylum,KNApSAcK
+656,C00051707,577-16-2,o-Methylacetophenone,C9H10O,134.07316494,Zanthoxylum schinifolium,Zanthoxylum,KNApSAcK
+657,C00051708,145204-97-3,O-Methylacutifolin,C18H23NO4,317.16270823,Zanthoxylum sp.,Zanthoxylum,KNApSAcK
+658,C00051708,145204-97-3,O-Methylacutifolin,C18H23NO4,317.16270823,Zanthoxylum acutifolium,Zanthoxylum,KNApSAcK
+659,C00051914,28333-02-0,"1,3-Dihydroxy-N-methylacridone",C14H11NO3,241.07389323,Zanthoxylum simullans,Zanthoxylum,KNApSAcK
+660,C00052084,145237-09-8,(+)-Neoacutifolin,C16H17NO3,271.12084342,Zanthoxylum acutifolium,Zanthoxylum,KNApSAcK
+661,C00052091,155416-20-9,(+)-Zanthosimuline,C20H23NO2,309.17287899,Zanthoxylum simulans,Zanthoxylum,KNApSAcK
+662,C00052157,86-80-6,Quinoleine,C17H24N2O,272.1888634,Zanthoxylum avicennae,Zanthoxylum,KNApSAcK
+663,C00052165,119708-35-9,5-Methoxydictamnine,C13H11NO3,229.07389323,Zanthoxylum nitidum,Zanthoxylum,KNApSAcK
+664,C00052196,60354-62-3,Araliopsine,C15H17NO3,259.12084342,Zanthoxylum simulans,Zanthoxylum,KNApSAcK
+665,C00052353,60623-06-5,Myrtopsine,C15H17NO4,275.11575804,Zanthoxylum integrifoliolum,Zanthoxylum,KNApSAcK
+666,C00052362,149998-43-6,N-methylseverifoline,C16H17NO2,255.12592879,Zanthoxylum schinifolium,Zanthoxylum,KNApSAcK
+667,C00052362,149998-43-6,N-methylseverifoline,C16H17NO2,255.12592879,Zanthoxylum simulans,Zanthoxylum,KNApSAcK
+668,C00052409,155416-22-1,Simulanoquinoline,C37H34N2O7,618.23660146,Zanthoxylum simulans,Zanthoxylum,KNApSAcK
+669,C00052410,176520-66-4,Simulansine,C20H25NO3,327.18344367,Zanthoxylum simulans,Zanthoxylum,KNApSAcK
+670,C00052437,57147-67-8,Zanthobisquinolone,C21H18N2O4,362.12665708,Zanthoxylum simulans,Zanthoxylum,KNApSAcK
+671,C00052438,149998-44-7,Zascanol epoxide,C17H21NO5,319.14197279,Zanthoxylum scandens,Zanthoxylum,KNApSAcK
+672,C00052438,149998-44-7,Zascanol epoxide,C17H21NO5,319.14197279,Zanthoxylum schinifolium,Zanthoxylum,KNApSAcK
+673,C00052438,149998-44-7,Zascanol epoxide,C17H21NO5,319.14197279,Zanthoxylum simulans,Zanthoxylum,KNApSAcK
+674,C00053091,477-94-1,Brevifolin,C12H8O6,248.03208799,Zanthoxylum piperitum,Zanthoxylum,KNApSAcK
+675,C00053324,20053-88-7,Hotrienol,C10H16O,152.12011513,Zanthoxylum armatum,Zanthoxylum,KNApSAcK
+676,C00054120,64656-15-1,Bufotenine O-glucoside,C18H26N2O6,366.17908658,Zanthoxylum piperitum,Zanthoxylum,KNApSAcK
+677,C00054250,149998-45-8,N-Acetoxymethylflindersine,C17H17NO4,299.11575804,Zanthoxylum schinifolium,Zanthoxylum,KNApSAcK
+678,C00054250,149998-45-8,N-Acetoxymethylflindersine,C17H17NO4,299.11575804,Zanthoxylum simulans,Zanthoxylum,KNApSAcK
+679,C00055639,4706-81-4,2-Tetradecanol,C14H30O,214.22966558,Zanthoxylum armatum,Zanthoxylum,KNApSAcK
+680,C00055640,1653-30-1,2-Undecanol,C11H24O,172.18271539,Zanthoxylum armatum,Zanthoxylum,KNApSAcK
+681,C00056374,1037482-48-6,"2',3'-Dihydroxy-alpha-sanshool",C16H25NO3,279.18344367,Zanthoxylum piperitum,Zanthoxylum,KNApSAcK
+682,C00056375,1037482-49-7,"2',3'-Dihydroxy-beta-sanshool",C16H25NO3,279.18344367,Zanthoxylum piperitum,Zanthoxylum,KNApSAcK
+683,C00056778,127514-62-9,Hydroxy-gamma-isosanshool,C18H27NO2,289.20417911,Zanthoxylum spp.,Zanthoxylum,KNApSAcK
+684,C00056801,10076-00-3,beta-Sanshool,C16H25NO,247.19361443,Zanthoxylum piperitum,Zanthoxylum,KNApSAcK
+685,C00057093,149998-56-1,Schinifoline,C15H15NO2,241.11027873,Zanthoxylum schinifolium,Zanthoxylum,KNApSAcK
+686,C00057093,149998-56-1,Schinifoline,C15H15NO2,241.11027873,Zanthoxylum simulans,Zanthoxylum,KNApSAcK
+687,C00057213,198336-57-1,Peroxysimulenoline,C20H23NO4,341.16270823,Zanthoxylum simulans,Zanthoxylum,KNApSAcK
+688,C00057415,504-97-2,alpha-Sanshool,C16H25NO,247.19361443,Zanthoxylum spp.,Zanthoxylum,KNApSAcK
+689,C00057415,504-97-2,alpha-Sanshool,C16H25NO,247.19361443,Zanthoxylum liebmannianum,Zanthoxylum,KNApSAcK
+690,C00057434,54854-91-0,Sanshodiol,C20H22O6,358.14163844,Zanthoxylum piperitum,Zanthoxylum,KNApSAcK
+691,C00057764,1082606-94-7,Zansimuloside A,C21H36O11,464.22576199,Zanthoxylum simulans,Zanthoxylum,KNApSAcK
+692,C00058000,198336-56-0,Simulenoline,C20H23NO3,325.16779361,Zanthoxylum simulans,Zanthoxylum,KNApSAcK
+693,C00058306,162990-75-2,(-)-Usambarine,C20H22NO4,340.1548832,Zanthoxylum chaylbeum,Zanthoxylum,KNApSAcK
+694,C00058306,162990-75-2,(-)-Usambarine,C20H22NO4,340.1548832,Zanthoxylum usambarense,Zanthoxylum,KNApSAcK
+695,C00058347,148777-25-7,Acetoxyschinifolin,C22H26O6,386.17293856,Zanthoxylum schinifolium,Zanthoxylum,KNApSAcK
+696,C00058351,156398-61-7,Ailanthoidol,C19H18O5,326.11542369,Zanthoxylum ailanthoides,Zanthoxylum,KNApSAcK
+697,C00058406,2442-70-8,cis-10-Octadecenoic acid,C18H34O2,282.25588033,Zanthoxylum alatum,Zanthoxylum,KNApSAcK
+698,C00058433,152839-54-8,Conifegerol,C19H26O3,302.1881947,Zanthoxylum integrifoliolum,Zanthoxylum,KNApSAcK
+699,C00058453,200938-42-7,Dehydro-gamma-sanshool,C18H25NO,271.19361443,Zanthoxylum bungeanum,Zanthoxylum,KNApSAcK
+700,C00058458,200938-41-6,Dihydrobungeanool,C18H31NO2,293.23547924,Zanthoxylum bungeanum,Zanthoxylum,KNApSAcK
+701,C00058517,97465-69-5,Hydroxy-beta-sanshool,C16H25NO2,263.18852905,Zanthoxylum bungeanum,Zanthoxylum,KNApSAcK
+702,C00058570,133-04-0,L-asarinin,C20H18O6,354.11033831,Zanthoxylum planispinum,Zanthoxylum,KNApSAcK
+703,C00058656,205514-33-6,Peroxyschinilenol,C20H24O6,360.1572885,Zanthoxylum schinifolium,Zanthoxylum,KNApSAcK
+704,C00058657,205514-32-5,Peroxyschininallylol,C20H24O6,360.1572885,Zanthoxylum schinifolium,Zanthoxylum,KNApSAcK
+705,C00058783,54797-23-8,Utilamide,C16H15NO2,253.11027873,Zanthoxylum utile,Zanthoxylum,KNApSAcK
+0,C00001807,1862-41-5,Anonaine,C17H15NO2,265.11027873,Siparuna tonduziana,Siparuna,KNApSAcK
+1,C00001822,476-70-0,(+)-Boldine,C19H21NO4,327.14705817,Siparuna pauciflora,Siparuna,KNApSAcK
+2,C00001872,475-67-2,Isocorydine,C20H23NO4,341.16270823,Siparuna griseo-flavescens,Siparuna,KNApSAcK
+3,C00001878,475-75-2,Liriodenine,C17H9NO3,275.05824316,Siparuna tonduziana,Siparuna,KNApSAcK
+4,C00001910,485-19-8,(+)-Reticuline,C19H23NO4,329.16270823,Siparuna tonduziana,Siparuna,KNApSAcK
+5,C00025231,6871-21-2,Asimilobine,C17H17NO2,267.12592879,Siparuna tonduziana,Siparuna,KNApSAcK
+6,C00025231,6871-21-2,Asimilobine,C17H17NO2,267.12592879,Siparuna griseo-flavescens,Siparuna,KNApSAcK
+7,C00025269,15401-66-8,(+)-Nornantenine,C19H19NO4,325.1314081,Siparuna tonduziana,Siparuna,KNApSAcK
+8,C00025675,2169-44-0,(+)-N-Methyllaurotetanine,C20H23NO4,341.16270823,Siparuna griseo-flavescens,Siparuna,KNApSAcK
+9,C00025995,15358-38-0,Oxonantenine,C19H13NO5,335.07937253,Siparuna tonduziana,Siparuna,KNApSAcK
+10,C00027150,2565-01-7,Nantenine,C20H21NO4,339.14705817,Siparuna pauciflora,Siparuna,KNApSAcK
+11,C00027409,128-76-7,Laurotetanine,C19H21NO4,327.14705817,Siparuna pauciflora,Siparuna,KNApSAcK
+12,C00027409,128-76-7,Laurotetanine,C19H21NO4,327.14705817,Siparuna tonduziana,Siparuna,KNApSAcK
+13,C00027433,5890-18-6,Laurolitsine,C18H19NO4,313.1314081,Siparuna pauciflora,Siparuna,KNApSAcK
+14,C00027566,31520-97-5,Hernangerine,C18H17NO4,311.11575804,Siparuna griseo-flavescens,Siparuna,KNApSAcK
+15,C00027566,31520-97-5,Hernangerine,C18H17NO4,311.11575804,Siparuna tonduziana,Siparuna,KNApSAcK
+16,C00028728,83730-14-7,Nor-Oliveroline,C17H15NO3,281.10519335,Siparuna pauciflora,Siparuna,KNApSAcK
+17,C00037825,603110-55-0,Sipaucin A,C19H26O7,366.16785319,Siparuna pauciflora,Siparuna,KNApSAcK
+18,C00037826,603110-57-2,Sipaucin B,C19H26O6,350.17293856,Siparuna pauciflora,Siparuna,KNApSAcK
+19,C00037827,603110-59-4,Sipaucin C,C19H26O7,366.16785319,Siparuna pauciflora,Siparuna,KNApSAcK

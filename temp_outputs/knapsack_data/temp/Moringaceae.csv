@@ -1,0 +1,255 @@
+,C_ID,CAS ID,example_compound_name,Molecular formula,Mw,Organism,knapsack_search_term,Source
+0,C00000152,7400-08-0,p-Coumaric acid,C9H8O3,164.04734412,Moringa peregrine,Moringa,KNApSAcK
+1,C00000152,7400-08-0,p-Coumaric acid,C9H8O3,164.04734412,Moringa oleifera,Moringa,KNApSAcK
+2,C00000152,7400-08-0,p-Coumaric acid,C9H8O3,164.04734412,Moringa stenopetala,Moringa,KNApSAcK
+3,C00000206,69-72-7,Salicylic acid,C7H6O3,138.03169406,Moringa oleifera,Moringa,KNApSAcK
+4,C00000206,69-72-7,Salicylic acid,C7H6O3,138.03169406,Moringa peregrine,Moringa,KNApSAcK
+5,C00000206,69-72-7,Salicylic acid,C7H6O3,138.03169406,Moringa stenopetala,Moringa,KNApSAcK
+6,C00000615,501-16-6,Caffeic acid,C9H8O4,180.04225874,Moringa stenopetala,Moringa,KNApSAcK
+7,C00000615,501-16-6,Caffeic acid,C9H8O4,180.04225874,Moringa oleifera,Moringa,KNApSAcK
+8,C00000615,501-16-6,Caffeic acid,C9H8O4,180.04225874,Moringa peregrine,Moringa,KNApSAcK
+9,C00000619,97-53-0,Eugenol,C10H12O2,164.08372963,Moringa peregrina,Moringa,KNApSAcK
+10,C00000619,97-53-0,Eugenol,C10H12O2,164.08372963,Moringa oleifera,Moringa,KNApSAcK
+11,C00000674,491-70-3,"5,7,3',4'-Tetrahydroxyflavone",C15H10O6,286.04773805,Moringa stenopetala,Moringa,KNApSAcK
+12,C00000674,491-70-3,"5,7,3',4'-Tetrahydroxyflavone",C15H10O6,286.04773805,Moringa oleifera,Moringa,KNApSAcK
+13,C00000674,491-70-3,"5,7,3',4'-Tetrahydroxyflavone",C15H10O6,286.04773805,Moringa peregrine,Moringa,KNApSAcK
+14,C00000956,490-46-0,(-)-Epicatechin,C15H14O6,290.07903818,Moringa peregrine,Moringa,KNApSAcK
+15,C00000956,490-46-0,(-)-Epicatechin,C15H14O6,290.07903818,Moringa stenopetala,Moringa,KNApSAcK
+16,C00000956,490-46-0,(-)-Epicatechin,C15H14O6,290.07903818,Moringa oleifera,Moringa,KNApSAcK
+17,C00001071,529-44-2,Myricetin,C15H10O8,318.0375673,Moringa peregrina,Moringa,KNApSAcK
+18,C00001071,529-44-2,Myricetin,C15H10O8,318.0375673,Moringa stenopetala,Moringa,KNApSAcK
+19,C00001071,529-44-2,Myricetin,C15H10O8,318.0375673,Moringa oleifera,Moringa,KNApSAcK
+20,C00001071,529-44-2,Myricetin,C15H10O8,318.0375673,Moringa peregrine,Moringa,KNApSAcK
+21,C00001468,499-24-1,Glucocochlearin,C11H21NO9S2,375.06577274,Moringa oleifera,Moringa,KNApSAcK
+22,C00001468,499-24-1,Glucocochlearin,C11H21NO9S2,375.06577274,Moringa peregrina,Moringa,KNApSAcK
+23,C00001469,28463-28-7,Glucoconringiin,C11H21NO10S2,391.06068736,Moringa peregrine,Moringa,KNApSAcK
+24,C00001469,28463-28-7,Glucoconringiin,C11H21NO10S2,391.06068736,Moringa stenopetala,Moringa,KNApSAcK
+25,C00001469,28463-28-7,Glucoconringiin,C11H21NO10S2,391.06068736,Moringa oleifera,Moringa,KNApSAcK
+26,C00001479,18432-16-1,Glucoputranjivin,C10H19NO9S2,361.05012267,Moringa oleifera,Moringa,KNApSAcK
+27,C00001487,20196-67-2,Sinalbin,C14H19NO10S2,425.0450373,Moringa oleifera,Moringa,KNApSAcK
+28,C00001487,20196-67-2,Sinalbin,C14H19NO10S2,425.0450373,Moringa peregrine,Moringa,KNApSAcK
+29,C00001487,20196-67-2,Sinalbin,C14H19NO10S2,425.0450373,Moringa stenopetala,Moringa,KNApSAcK
+30,C00002526,446-72-0,Genistein,C15H10O5,270.05282343,Moringa oleifera,Moringa,KNApSAcK
+31,C00002526,446-72-0,Genistein,C15H10O5,270.05282343,Moringa peregrine,Moringa,KNApSAcK
+32,C00002526,446-72-0,Genistein,C15H10O5,270.05282343,Moringa stenopetala,Moringa,KNApSAcK
+33,C00002647,149-91-7,Gallic acid,C7H6O5,170.0215233,Moringa peregrine,Moringa,KNApSAcK
+34,C00002647,149-91-7,Gallic acid,C7H6O5,170.0215233,Moringa oleifera,Moringa,KNApSAcK
+35,C00002647,149-91-7,Gallic acid,C7H6O5,170.0215233,Moringa peregrina,Moringa,KNApSAcK
+36,C00002647,149-91-7,Gallic acid,C7H6O5,170.0215233,Moringa stenopetala,Moringa,KNApSAcK
+37,C00002648,490-79-9,Gentisic acid,C7H6O4,154.02660868,Moringa oleifera,Moringa,KNApSAcK
+38,C00002648,490-79-9,Gentisic acid,C7H6O4,154.02660868,Moringa stenopetala,Moringa,KNApSAcK
+39,C00002648,490-79-9,Gentisic acid,C7H6O4,154.02660868,Moringa peregrine,Moringa,KNApSAcK
+40,C00002674,530-57-4,Syringic acid,C9H10O5,198.05282343,Moringa peregrina,Moringa,KNApSAcK
+41,C00002674,530-57-4,Syringic acid,C9H10O5,198.05282343,Moringa peregrine,Moringa,KNApSAcK
+42,C00002674,530-57-4,Syringic acid,C9H10O5,198.05282343,Moringa oleifera,Moringa,KNApSAcK
+43,C00002674,530-57-4,Syringic acid,C9H10O5,198.05282343,Moringa stenopetala,Moringa,KNApSAcK
+44,C00002683,5463-22-9,Vanillin,C8H8O3,152.04734412,Moringa oleifera,Moringa,KNApSAcK
+45,C00002683,5463-22-9,Vanillin,C8H8O3,152.04734412,Moringa peregrina,Moringa,KNApSAcK
+46,C00002724,327-97-9,3-O-Caffeoylquinic acid,C16H18O9,354.09508217,Moringa stenopetala,Moringa,KNApSAcK
+47,C00002724,327-97-9,3-O-Caffeoylquinic acid,C16H18O9,354.09508217,Moringa peregrine,Moringa,KNApSAcK
+48,C00002724,327-97-9,3-O-Caffeoylquinic acid,C16H18O9,354.09508217,Moringa oleifera,Moringa,KNApSAcK
+49,C00002729,583-17-5,2-Hydroxycinnamic acid,C9H8O3,164.04734412,Moringa stenopetala,Moringa,KNApSAcK
+50,C00002729,583-17-5,2-Hydroxycinnamic acid,C9H8O3,164.04734412,Moringa peregrine,Moringa,KNApSAcK
+51,C00002729,583-17-5,2-Hydroxycinnamic acid,C9H8O3,164.04734412,Moringa oleifera,Moringa,KNApSAcK
+52,C00002743,1135-24-6,Ferulic acid,C10H10O4,194.05790881,Moringa peregrine,Moringa,KNApSAcK
+53,C00002743,1135-24-6,Ferulic acid,C10H10O4,194.05790881,Moringa stenopetala,Moringa,KNApSAcK
+54,C00002743,1135-24-6,Ferulic acid,C10H10O4,194.05790881,Moringa oleifera,Moringa,KNApSAcK
+55,C00002776,530-59-6,Sinapic acid,C11H12O5,224.06847349,Moringa peregrine,Moringa,KNApSAcK
+56,C00002776,530-59-6,Sinapic acid,C11H12O5,224.06847349,Moringa oleifera,Moringa,KNApSAcK
+57,C00002776,530-59-6,Sinapic acid,C11H12O5,224.06847349,Moringa stenopetala,Moringa,KNApSAcK
+58,C00003040,99-87-6,p-Cymene,C10H14,134.10955045,Moringa oleifera,Moringa,KNApSAcK
+59,C00003040,99-87-6,p-Cymene,C10H14,134.10955045,Moringa peregrina,Moringa,KNApSAcK
+60,C00003051,99-83-2,alpha-Phellandrene,C10H16,136.12520051,Moringa oleifera,Moringa,KNApSAcK
+61,C00003051,99-83-2,alpha-Phellandrene,C10H16,136.12520051,Moringa peregrina,Moringa,KNApSAcK
+62,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Moringa oleifera,Moringa,KNApSAcK
+63,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Moringa peregrina,Moringa,KNApSAcK
+64,C00003737,638-95-9,alpha-Amyrin,C30H50O,426.38616622,Moringa stenopetala,Moringa,KNApSAcK
+65,C00003737,638-95-9,alpha-Amyrin,C30H50O,426.38616622,Moringa oleifera,Moringa,KNApSAcK
+66,C00003737,638-95-9,alpha-Amyrin,C30H50O,426.38616622,Moringa peregrina,Moringa,KNApSAcK
+67,C00003737,638-95-9,alpha-Amyrin,C30H50O,426.38616622,Moringa peregrine,Moringa,KNApSAcK
+68,C00003738,559-70-6,beta-Amyrin,C30H50O,426.38616622,Moringa stenopetala,Moringa,KNApSAcK
+69,C00003738,559-70-6,beta-Amyrin,C30H50O,426.38616622,Moringa oleifera,Moringa,KNApSAcK
+70,C00003738,559-70-6,beta-Amyrin,C30H50O,426.38616622,Moringa peregrina,Moringa,KNApSAcK
+71,C00003738,559-70-6,beta-Amyrin,C30H50O,426.38616622,Moringa peregrine,Moringa,KNApSAcK
+72,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Moringa oleifera,Moringa,KNApSAcK
+73,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Moringa stenopetala,Moringa,KNApSAcK
+74,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Moringa peregrine,Moringa,KNApSAcK
+75,C00003750,1617-68-1,Lupeol acetate,C32H52O2,468.3967309,Moringa peregrine,Moringa,KNApSAcK
+76,C00003750,1617-68-1,Lupeol acetate,C32H52O2,468.3967309,Moringa stenopetala,Moringa,KNApSAcK
+77,C00003750,1617-68-1,Lupeol acetate,C32H52O2,468.3967309,Moringa oleifera,Moringa,KNApSAcK
+78,C00003750,1617-68-1,Lupeol acetate,C32H52O2,468.3967309,Moringa peregrina,Moringa,KNApSAcK
+79,C00003776,127-40-2,Lutein,C40H56O2,568.42803103,Moringa oleifera,Moringa,KNApSAcK
+80,C00003817,520-36-5,Apigenin,C15H10O5,270.05282343,Moringa oleifera,Moringa,KNApSAcK
+81,C00003817,520-36-5,Apigenin,C15H10O5,270.05282343,Moringa stenopetala,Moringa,KNApSAcK
+82,C00003817,520-36-5,Apigenin,C15H10O5,270.05282343,Moringa peregrine,Moringa,KNApSAcK
+83,C00004565,520-18-3,Kaempferol,C15H10O6,286.04773805,Moringa peregrina,Moringa,KNApSAcK
+84,C00004565,520-18-3,Kaempferol,C15H10O6,286.04773805,Moringa stenopetala,Moringa,KNApSAcK
+85,C00004565,520-18-3,Kaempferol,C15H10O6,286.04773805,Moringa oleifera,Moringa,KNApSAcK
+86,C00004631,117-39-5,Quercetin,C15H10O7,302.04265268,Moringa oleifera,Moringa,KNApSAcK
+87,C00004631,117-39-5,Quercetin,C15H10O7,302.04265268,Moringa stenopetala,Moringa,KNApSAcK
+88,C00004631,117-39-5,Quercetin,C15H10O7,302.04265268,Moringa peregrina,Moringa,KNApSAcK
+89,C00004634,90-19-7,Rhamnetin,C16H12O7,316.05830274,Moringa stenopetala,Moringa,KNApSAcK
+90,C00004634,90-19-7,Rhamnetin,C16H12O7,316.05830274,Moringa pterygosperma,Moringa,KNApSAcK
+91,C00004634,90-19-7,Rhamnetin,C16H12O7,316.05830274,Moringa oleifera,Moringa,KNApSAcK
+92,C00004634,90-19-7,Rhamnetin,C16H12O7,316.05830274,Moringa peregrina,Moringa,KNApSAcK
+93,C00004635,480-19-3,Isorhamnetin,C16H12O7,316.05830274,Moringa peregrina,Moringa,KNApSAcK
+94,C00004635,480-19-3,Isorhamnetin,C16H12O7,316.05830274,Moringa oleifera,Moringa,KNApSAcK
+95,C00004635,480-19-3,Isorhamnetin,C16H12O7,316.05830274,Moringa stenopetala,Moringa,KNApSAcK
+96,C00005138,480-10-4,Astragalin,C21H20O11,448.10056148,Moringa peregrine,Moringa,KNApSAcK
+97,C00005138,480-10-4,Astragalin,C21H20O11,448.10056148,Moringa stenopetala,Moringa,KNApSAcK
+98,C00005138,480-10-4,Astragalin,C21H20O11,448.10056148,Moringa peregrina,Moringa,KNApSAcK
+99,C00005138,480-10-4,Astragalin,C21H20O11,448.10056148,Moringa oleifera,Moringa,KNApSAcK
+100,C00005165,19895-95-5,Kaempferol 3-O-sophoroside,C27H30O16,610.15338491,Moringa oleifera,Moringa,KNApSAcK
+101,C00005165,19895-95-5,Kaempferol 3-O-sophoroside,C27H30O16,610.15338491,Moringa peregrina,Moringa,KNApSAcK
+102,C00005169,17650-84-9,Kaempferol 3-rutinoside,C27H30O15,594.15847029,Moringa stenopetala,Moringa,KNApSAcK
+103,C00005169,17650-84-9,Kaempferol 3-rutinoside,C27H30O15,594.15847029,Moringa peregrine,Moringa,KNApSAcK
+104,C00005169,17650-84-9,Kaempferol 3-rutinoside,C27H30O15,594.15847029,Moringa oleifera,Moringa,KNApSAcK
+105,C00005373,482-35-9,Hirsutrin,C21H20O12,464.09547611,Moringa peregrina,Moringa,KNApSAcK
+106,C00005373,482-35-9,Hirsutrin,C21H20O12,464.09547611,Moringa peregrine,Moringa,KNApSAcK
+107,C00005373,482-35-9,Hirsutrin,C21H20O12,464.09547611,Moringa oleifera,Moringa,KNApSAcK
+108,C00005373,482-35-9,Hirsutrin,C21H20O12,464.09547611,Moringa stenopetala,Moringa,KNApSAcK
+109,C00005374,522-12-3,Quercetin 3-O-alpha-L-rhamnoside,C21H20O11,448.10056148,Moringa peregrina,Moringa,KNApSAcK
+110,C00005374,522-12-3,Quercetin 3-O-alpha-L-rhamnoside,C21H20O11,448.10056148,Moringa oleifera,Moringa,KNApSAcK
+111,C00005413,153-18-4,Quercetin 3-rutinoside,C27H30O16,610.15338491,Moringa oleifera,Moringa,KNApSAcK
+112,C00005413,153-18-4,Quercetin 3-rutinoside,C27H30O16,610.15338491,Moringa peregrine,Moringa,KNApSAcK
+113,C00005413,153-18-4,Quercetin 3-rutinoside,C27H30O16,610.15338491,Moringa stenopetala,Moringa,KNApSAcK
+114,C00005413,153-18-4,Quercetin 3-rutinoside,C27H30O16,610.15338491,Moringa peregrina,Moringa,KNApSAcK
+115,C00006229,23666-13-9,Vicenin,C27H30O15,594.15847029,Moringa oleifera,Moringa,KNApSAcK
+116,C00006229,23666-13-9,Vicenin,C27H30O15,594.15847029,Moringa stenopetala,Moringa,KNApSAcK
+117,C00006229,23666-13-9,Vicenin,C27H30O15,594.15847029,Moringa peregrine,Moringa,KNApSAcK
+118,C00007346,499-26-3,Benzylglucosinolate,C14H19NO9S2,409.05012267,Moringa oleifera,Moringa,KNApSAcK
+119,C00007346,499-26-3,Benzylglucosinolate,C14H19NO9S2,409.05012267,Moringa peregrina,Moringa,KNApSAcK
+120,C00007789,549503-17-5,4-(4'-O-Acetyl-alpha-L-rhamnopyranosyloxyl)benzyl glucosinolate,C22H31NO15S2,613.11351079,Moringa oleifera,Moringa,KNApSAcK
+121,C00007789,549503-17-5,4-(4'-O-Acetyl-alpha-L-rhamnopyranosyloxyl)benzyl glucosinolate,C22H31NO15S2,613.11351079,Moringa peregrina,Moringa,KNApSAcK
+122,C00007805,19253-84-0,4-Hydroxybenzyl glucosinolate,C14H19NO10S2,425.0450373,Moringa oleifera,Moringa,KNApSAcK
+123,C00007821,,"2-(4-Methoxyphenyl)-2,2-dimethylethyl glucosinolate",C18H27NO10S2,481.10763755,Moringa peregrina,Moringa,KNApSAcK
+124,C00007830,38226-91-4,2-Methylpropyl glucosinolate,C11H21NO9S2,375.06577274,Moringa oleifera,Moringa,KNApSAcK
+125,C00007830,38226-91-4,2-Methylpropyl glucosinolate,C11H21NO9S2,375.06577274,Moringa peregrina,Moringa,KNApSAcK
+126,C00007860,,4-(alpha-L-Rhamnopyranosyloxy)benzyl glucosinolate,C20H29NO14S2,571.1029461,Moringa oleifera,Moringa,KNApSAcK
+127,C00007860,,4-(alpha-L-Rhamnopyranosyloxy)benzyl glucosinolate,C20H29NO14S2,571.1029461,Moringa stenopetala,Moringa,KNApSAcK
+128,C00007860,,4-(alpha-L-Rhamnopyranosyloxy)benzyl glucosinolate,C20H29NO14S2,571.1029461,Moringa peregrina,Moringa,KNApSAcK
+129,C00007860,,4-(alpha-L-Rhamnopyranosyloxy)benzyl glucosinolate,C20H29NO14S2,571.1029461,Moringa peregrine,Moringa,KNApSAcK
+130,C00009380,486-66-8,Daidzein,C15H10O4,254.05790881,Moringa oleifera,Moringa,KNApSAcK
+131,C00009380,486-66-8,Daidzein,C15H10O4,254.05790881,Moringa peregrine,Moringa,KNApSAcK
+132,C00009380,486-66-8,Daidzein,C15H10O4,254.05790881,Moringa stenopetala,Moringa,KNApSAcK
+133,C00011153,476-66-4,Ellagic acid,C14H6O8,302.00626717,Moringa oleifera,Moringa,KNApSAcK
+134,C00011153,476-66-4,Ellagic acid,C14H6O8,302.00626717,Moringa stenopetala,Moringa,KNApSAcK
+135,C00011153,476-66-4,Ellagic acid,C14H6O8,302.00626717,Moringa peregrine,Moringa,KNApSAcK
+136,C00019308,474-58-8,3-O-beta-D-Glucopyranosyl sitosterol,C35H60O6,576.43898965,Moringa oleifera,Moringa,KNApSAcK
+137,C00019308,474-58-8,3-O-beta-D-Glucopyranosyl sitosterol,C35H60O6,576.43898965,Moringa peregrina,Moringa,KNApSAcK
+138,C00029540,905-99-7,4-Caffeoylquinic acid,C16H18O9,354.09508217,Moringa stenopetala,Moringa,KNApSAcK
+139,C00029540,905-99-7,4-Caffeoylquinic acid,C16H18O9,354.09508217,Moringa peregrine,Moringa,KNApSAcK
+140,C00029540,905-99-7,4-Caffeoylquinic acid,C16H18O9,354.09508217,Moringa oleifera,Moringa,KNApSAcK
+141,C00029540,905-99-7,4-Caffeoylquinic acid,C16H18O9,354.09508217,Moringa peregrina,Moringa,KNApSAcK
+142,C00030807,906-33-2,5-Caffeoylquinic acid,C16H18O9,354.09508217,Moringa oleifera,Moringa,KNApSAcK
+143,C00030807,906-33-2,5-Caffeoylquinic acid,C16H18O9,354.09508217,Moringa stenopetala,Moringa,KNApSAcK
+144,C00030807,906-33-2,5-Caffeoylquinic acid,C16H18O9,354.09508217,Moringa peregrine,Moringa,KNApSAcK
+145,C00032761,622-78-6,Benzyl isothiocyanate,C8H7NS,149.02991996,Moringa peregrine,Moringa,KNApSAcK
+146,C00032761,622-78-6,Benzyl isothiocyanate,C8H7NS,149.02991996,Moringa oleifera,Moringa,KNApSAcK
+147,C00032761,622-78-6,Benzyl isothiocyanate,C8H7NS,149.02991996,Moringa stenopetala,Moringa,KNApSAcK
+148,C00043309,100-46-9,Benzylamine,C7H9N,107.07349929,Moringa oleifera,Moringa,KNApSAcK
+149,C00043309,100-46-9,Benzylamine,C7H9N,107.07349929,Moringa peregrina,Moringa,KNApSAcK
+150,C00054424,198898-37-2,Amino (methoxysulfinyl) pentasulfide,CH5NO2S6,254.86445279,Moringa oleifera,Moringa,KNApSAcK
+151,C00056848,11054-42-5,Pterygospermin,C22H18N2O2S2,406.08096929,Moringa peregrine,Moringa,KNApSAcK
+152,C00056848,11054-42-5,Pterygospermin,C22H18N2O2S2,406.08096929,Moringa stenopetala,Moringa,KNApSAcK
+153,C00056848,11054-42-5,Pterygospermin,C22H18N2O2S2,406.08096929,Moringa oleifera,Moringa,KNApSAcK
+154,C00056848,11054-42-5,Pterygospermin,C22H18N2O2S2,406.08096929,Moringa pterygosperma,Moringa,KNApSAcK
+155,C00056952,122001-32-5,Niazirin,C14H17NO5,279.11067266,Moringa oleifera,Moringa,KNApSAcK
+156,C00056952,122001-32-5,Niazirin,C14H17NO5,279.11067266,Moringa stenopetala,Moringa,KNApSAcK
+157,C00056952,122001-32-5,Niazirin,C14H17NO5,279.11067266,Moringa peregrine,Moringa,KNApSAcK
+158,C00057079,147821-47-4,Niazinin B,C15H21NO6S,343.10895814,Moringa oleifera,Moringa,KNApSAcK
+159,C00057080,147821-49-6,Niazimicin A,C16H23NO6S,357.1246082,Moringa oleifera,Moringa,KNApSAcK
+160,C00057081,147821-51-0,Niaziminin A,C18H25NO7S,399.13517289,Moringa oleifera,Moringa,KNApSAcK
+161,C00057083,147921-21-9,Niaziminin B,C18H25NO7S,399.13517289,Moringa oleifera,Moringa,KNApSAcK
+162,C00057089,148152-07-2,Niazinin A,C15H21NO6S,343.10895814,Moringa oleifera,Moringa,KNApSAcK
+163,C00057116,159397-73-6,Niazirinin,C16H19NO6,321.12123735,Moringa stenopetala,Moringa,KNApSAcK
+164,C00057116,159397-73-6,Niazirinin,C16H19NO6,321.12123735,Moringa peregrine,Moringa,KNApSAcK
+165,C00057116,159397-73-6,Niazirinin,C16H19NO6,321.12123735,Moringa oleifera,Moringa,KNApSAcK
+166,C00057117,159768-73-7,Niazimin A,C18H25NO8,383.15801678,Moringa oleifera,Moringa,KNApSAcK
+167,C00057118,159768-74-8,Niazicin A,C17H23NO7S,385.11952283,Moringa oleifera,Moringa,KNApSAcK
+168,C00057129,163812-19-9,Niazicinin A,C17H23NO8,369.14236672,Moringa oleifera,Moringa,KNApSAcK
+169,C00057216,198969-42-5,Niazidin,C15H18N2O6S,354.08855705,Moringa oleifera,Moringa,KNApSAcK
+170,C00057533,74542-19-1,4-O-alpha-L-Rhamnopyranosylglucosinalbin,C20H29NO14S2,571.1029461,Moringa oleifera,Moringa,KNApSAcK
+171,C00057533,74542-19-1,4-O-alpha-L-Rhamnopyranosylglucosinalbin,C20H29NO14S2,571.1029461,Moringa peregrina,Moringa,KNApSAcK
+172,C00057712,97400-73-2,Moringyne,C15H20O7,312.12090299,Moringa peregrine,Moringa,KNApSAcK
+173,C00057712,97400-73-2,Moringyne,C15H20O7,312.12090299,Moringa stenopetala,Moringa,KNApSAcK
+174,C00057712,97400-73-2,Moringyne,C15H20O7,312.12090299,Moringa oleifera,Moringa,KNApSAcK
+175,C00063770,1309604-34-9,Marumoside A,C14H19NO6,297.12123735,Moringa stenopetala,Moringa,KNApSAcK
+176,C00063770,1309604-34-9,Marumoside A,C14H19NO6,297.12123735,Moringa oleifera,Moringa,KNApSAcK
+177,C00063770,1309604-34-9,Marumoside A,C14H19NO6,297.12123735,Moringa peregrine,Moringa,KNApSAcK
+178,C00063771,1309604-35-0,Marumoside B,C20H29NO11,459.17406078,Moringa peregrine,Moringa,KNApSAcK
+179,C00063771,1309604-35-0,Marumoside B,C20H29NO11,459.17406078,Moringa oleifera,Moringa,KNApSAcK
+180,C00063771,1309604-35-0,Marumoside B,C20H29NO11,459.17406078,Moringa stenopetala,Moringa,KNApSAcK
+181,C00064228,2595-97-3,D-Allose,C6H12O6,180.06338812,Moringa peregrina,Moringa,KNApSAcK
+182,C00064228,2595-97-3,D-Allose,C6H12O6,180.06338812,Moringa oleifera,Moringa,KNApSAcK
+183,C00064531,765935-41-9,Cholest-5-en-3-ol,C27H46O,386.35486609,Moringa oleifera,Moringa,KNApSAcK
+184,C00064531,765935-41-9,Cholest-5-en-3-ol,C27H46O,386.35486609,Moringa peregrine,Moringa,KNApSAcK
+185,C00064531,765935-41-9,Cholest-5-en-3-ol,C27H46O,386.35486609,Moringa stenopetala,Moringa,KNApSAcK
+186,C00064533,768398-63-6,Niaziridin,C14H17NO6,295.10558728,Moringa oleifera,Moringa,KNApSAcK
+187,C00064533,768398-63-6,Niaziridin,C14H17NO6,295.10558728,Moringa peregrine,Moringa,KNApSAcK
+188,C00064533,768398-63-6,Niaziridin,C14H17NO6,295.10558728,Moringa stenopetala,Moringa,KNApSAcK
+0,C00000125,4356-52-9,Glucobrassicin,C16H20N2O9S2,448.06102171,Cleome anomala,Anoma,KNApSAcK
+1,C00000126,5187-84-8,Neoglucobrassicin,C17H22N2O10S2,478.0715864,Cleome anomala,Anoma,KNApSAcK
+2,C00000411,106799-43-3,"6Z,9Z,18-Nonadecatrienene",C19H34,262.26605108,Notheia anomala,Anoma,KNApSAcK
+3,C00000412,129436-92-6,"3Z,6Z,9Z,18-Nonadecatetraene",C19H32,260.25040102,Notheia anomala,Anoma,KNApSAcK
+4,C00001228,544-63-8,Myristic acid,C14H28O2,228.20893014,Frullania anomala,Anoma,KNApSAcK
+5,C00001467,36286-64-3,Glucocleomin,C12H23NO10S2,405.07633742,Cleome anomala,Anoma,KNApSAcK
+6,C00002969,20716-98-7,Norlichexanthone,C14H10O5,258.05282343,Wardomyces anomalus,Anoma,KNApSAcK
+7,C00003118,3856-25-5,alpha-Copaene,C15H24,204.18780077,Frullania anomala,Anoma,KNApSAcK
+8,C00003677,30655-48-2,Withaferin D,C28H38O6,470.26683895,Tubocapsicum anomalum,Anoma,KNApSAcK
+9,C00003840,19103-54-9,Salvigenin,C18H16O6,328.09468824,Artemisia anomala,Anoma,KNApSAcK
+10,C00003948,68710-17-8,Arteanoflavone,C19H18O8,374.10016755,Artemisia anomala,Anoma,KNApSAcK
+11,C00004733,4693-88-3,"Gossypetin 3,7,8-trimethyl ether",C18H16O8,360.08451749,Madia anomala,Anoma,KNApSAcK
+12,C00007805,19253-84-0,4-Hydroxybenzyl glucosinolate,C14H19NO10S2,425.0450373,Cleome anomala,Anoma,KNApSAcK
+13,C00013062,64929-15-3,1-epi-Ludovicin C,C15H18O4,262.12050906,Artemisia anomala,Anoma,KNApSAcK
+14,C00013089,115346-36-6,Eudesmaafraglaucolide,C19H24O7,364.15220312,Artemisia anomala,Anoma,KNApSAcK
+15,C00020377,3691-12-1,alpha-Guaiene,C15H24,204.18780077,Frullania anomala,Anoma,KNApSAcK
+16,C00020702,73021-06-4,"[3aR-[3aalpha,4beta(S*),6alpha,6aalpha,7beta,7abeta,8abeta,8balpha,8cbeta]]-Dodecahydro-6,7-dihydroxy-6,8a-dimethyl-3-methylene-2-oxooxireno[2,3]azuleno[4,5-b]furan-4-yl ester 2-methylbutanoic acid",C20H28O7,380.18350325,Eupatorium anomalum,Anoma,KNApSAcK
+17,C00020703,73021-07-5,"[3aR-(3aalpha,4beta,6alpha,6aalpha,7beta,7abeta,8abeta,8balpha,8cbeta)]-Dodecahydro-6,7-dihydroxy-6,8a-dimethyl-3-methylene-2-oxooxireno[2,3]azuleno[4,5-b]furan-4-yl ester 3-methylbutanoic acid",C20H28O7,380.18350325,Eupatorium anomalum,Anoma,KNApSAcK
+18,C00020823,84886-42-0,9-Hydroxydehydrozaluzanin C,C15H16O4,260.104859,Dicoma anomala,Anoma,KNApSAcK
+19,C00020970,112823-41-3,Artanomaloide,C32H36O8,548.24101813,Artemisia anomala,Anoma,KNApSAcK
+20,C00021886,39863-73-5,beta-Barbatene,C15H24,204.18780077,Frullania anomala,Anoma,KNApSAcK
+21,C00022363,72074-11-4,Carterochaetol,C20H34O2,306.25588033,Carterothamnus anomalochaeta,Anoma,KNApSAcK
+22,C00022364,72023-08-6,Carterochaetaic acid,C20H32O3,320.23514489,Carterothamnus anomalochaeta,Anoma,KNApSAcK
+23,C00024483,88660-03-1,12-O-Methylanomaline,C23H32N2O4,400.23620752,Microplumeria anomala,Anoma,KNApSAcK
+24,C00024513,88660-02-0,Anomalin,C22H30N2O4,386.22055746,Microplumeria anomala,Anoma,KNApSAcK
+25,C00024530,88669-30-1,Demethoxyanomaline,C21H28N2O3,356.20999277,Microplumeria anomala,Anoma,KNApSAcK
+26,C00025449,14028-91-2,Alpinigenine,C22H27NO6,401.1838376,Papaver anomalum Fedde,Anoma,KNApSAcK
+27,C00025452,5140-40-9,Glaudine,C22H25NO6,399.16818754,Papaver anomalum Fedde,Anoma,KNApSAcK
+28,C00025458,5140-39-6,Papaverrubine B,C21H23NO6,385.15253747,Papaver anomalum Fedde,Anoma,KNApSAcK
+29,C00025459,22584-46-9,Papaverrubine C,C20H21NO6,371.13688741,Papaver anomalum Fedde,Anoma,KNApSAcK
+30,C00025460,18104-24-0,Papaverrubine D,C20H21NO6,371.13688741,Papaver anomalum Fedde,Anoma,KNApSAcK
+31,C00025463,17597-20-5,Papaverrubine G,C22H27NO6,401.1838376,Papaver anomalum Fedde,Anoma,KNApSAcK
+32,C00030345,39029-41-9,gamma-Cadinene,C15H24,204.18780077,Frullania anomala,Anoma,KNApSAcK
+33,C00030550,929701-94-0,Isotubocaposide A,C48H74O21,986.47225943,Tubocapsicum anomalum MAKINO,Anoma,KNApSAcK
+34,C00030551,929701-96-2,Isotubocaposide B,C42H64O16,824.419436,Tubocapsicum anomalum MAKINO,Anoma,KNApSAcK
+35,C00030552,929701-97-3,Isotubocaposide C,C42H64O16,824.419436,Tubocapsicum anomalum MAKINO,Anoma,KNApSAcK
+36,C00030553,929701-99-5,Isotubocaposigenin,C30H44O6,500.31378914,Tubocapsicum anomalum MAKINO,Anoma,KNApSAcK
+37,C00032426,1079392-67-8,Tuboanoside A,C48H74O21,986.47225943,Tubocapsicum anomalum,Anoma,KNApSAcK
+38,C00032427,1079392-68-9,Tuboanoside B,C42H64O16,824.419436,Tubocapsicum anomalum,Anoma,KNApSAcK
+39,C00036552,543739-98-6,"3-Methoxy-3',4'-methylenedioxy-cis-stilbene",C16H14O3,254.09429431,Frullania anomala,Anoma,KNApSAcK
+40,C00036553,108907-01-3,"3-Methoxy-3',4'-methylenedioxy-trans-stilbene",C16H14O3,254.09429431,Frullania anomala,Anoma,KNApSAcK
+41,C00036669,2197-37-7,"9,12-Octadecadienoic acid",C18H32O2,280.24023027,Frullania anomala,Anoma,KNApSAcK
+42,C00037115,190327-38-9,"Eremophila-1(10),8,11-triene",C15H22,202.1721507,Frullania anomala,Anoma,KNApSAcK
+43,C00038208,937800-54-9,20-Hydroxytubocapsanolide A,C28H36O7,484.2461035,Tubocapsicum anomalum,Anoma,KNApSAcK
+44,C00038215,937800-55-0,23-Hydroxytubocapsanolide A,C28H30O7,478.19915331,Tubocapsicum anomalum,Anoma,KNApSAcK
+45,C00038459,937803-38-8,Anomanolide A,C28H38O7,486.26175357,Tubocapsicum anomalum,Anoma,KNApSAcK
+46,C00038460,937803-40-2,Anomanolide B,C28H40O8,504.27231825,Tubocapsicum anomalum,Anoma,KNApSAcK
+47,C00038461,937803-39-9,Anomanolide C,C28H38O8,502.25666819,Tubocapsicum anomalum,Anoma,KNApSAcK
+48,C00038462,937803-43-5,Anomanolide D,C28H39ClO8,538.23334593,Tubocapsicum anomalum,Anoma,KNApSAcK
+49,C00038463,937803-41-3,Anomanolide E,C28H40O8,504.27231825,Tubocapsicum anomalum,Anoma,KNApSAcK
+50,C00038464,937803-42-4,Anomanolide F,C28H40O8,504.27231825,Tubocapsicum anomalum,Anoma,KNApSAcK
+51,C00040573,937803-35-5,Tubocapsanolide A,C28H36O6,468.25118888,Tubocapsicum anomalum,Anoma,KNApSAcK
+52,C00040574,937803-36-6,Tubocapsanolide D,C28H40O7,488.27740363,Tubocapsicum anomalum,Anoma,KNApSAcK
+53,C00040575,937803-37-7,Tubocapsanolide F,C28H38O6,470.26683895,Tubocapsicum anomalum,Anoma,KNApSAcK
+54,C00040576,937803-32-2,Tubocapsenolide A,C28H36O6,468.25118888,Tubocapsicum anomalum,Anoma,KNApSAcK
+55,C00040577,937803-33-3,Tubocapsenolide F,C28H38O7,486.26175357,Tubocapsicum anomalum,Anoma,KNApSAcK
+56,C00040578,937803-34-4,Tubocapsenolide G,C28H37ClO6,504.22786662,Tubocapsicum anomalum,Anoma,KNApSAcK
+57,C00040579,937803-44-6,Tubonolide A,C28H39ClO8,538.23334593,Tubocapsicum anomalum,Anoma,KNApSAcK
+58,C00044151,189395-47-9,Disepalin,C39H70O8,666.50706921,Disepalum anomalum,Anoma,KNApSAcK
+59,C00048117,85758-26-5,seco-Tanapartholide A,C15H18O5,278.11542369,Artemisia anomala,Anoma,KNApSAcK
+60,C00050864,141374-89-2,Isoanomallotusin,C20H32O3,320.23514489,Mallotus anomalus,Anoma,KNApSAcK
+61,C00058362,141360-97-6,Anomallotuside,C20H30O2,302.2245802,Mallotus anomalus,Anoma,KNApSAcK
+62,C00058363,141360-98-7,Anomallotusin,C20H32O3,320.23514489,Mallotus anomalus,Anoma,KNApSAcK
+63,C00058364,141360-99-8,Anomallotusinin,C20H32O3,320.23514489,Mallotus anomalus,Anoma,KNApSAcK
+64,C00058365,141360-96-5,Anomaluol,C20H34O4,338.24570957,Mallotus anomalus,Anoma,KNApSAcK

@@ -1,0 +1,216 @@
+,C_ID,CAS ID,example_compound_name,Molecular formula,Mw,Organism,knapsack_search_term,Source
+0,C00002485,495-32-9,Nodakenetin,C14H14O4,246.08920894,Scaevola frutescens,Scaevola,KNApSAcK
+0,C00022304,17904-37-9,"8beta,13R-Epoxy-14R,15,18-eperuanetriol",C20H36O4,340.26135964,Goodenia ramelii,Goodenia,KNApSAcK
+0,C00034576,934807-11-1,LBA 1,C60H65O36,1361.32555348,Leschenaultia R.Br. cv,Leschenaultia,KNApSAcK
+0,C00001205,110-15-6,Succinic acid,C4H6O4,118.02660868,Lobelia chinense,Lobelia,KNApSAcK
+1,C00001403,462-94-2,Cadaverine,C5H14N2,102.11569846,Lobelia siphilitica,Lobelia,KNApSAcK
+2,C00001403,462-94-2,Cadaverine,C5H14N2,102.11569846,Lobelia inflata,Lobelia,KNApSAcK
+3,C00001429,50-67-9,5-Hydroxytryptamine,C10H12N2O,176.09496302,Lobelia chinensis,Lobelia,KNApSAcK
+4,C00001434,61-54-1,Tryptamine,C10H12N2,160.1000484,Lobelia chinensis,Lobelia,KNApSAcK
+5,C00001678,483-04-5,Ajmalicine,C21H24N2O3,352.17869265,Veratrum album var.lobelianum,Lobelia,KNApSAcK
+6,C00002048,530-12-1,Isolobinine,C18H25NO2,287.18852905,Lobelia inflata,Lobelia,KNApSAcK
+7,C00002051,552-72-7,Lobelanidine,C22H29NO2,339.21982918,Lobelia inflata,Lobelia,KNApSAcK
+8,C00002051,552-72-7,Lobelanidine,C22H29NO2,339.21982918,Lobelia chinensis,Lobelia,KNApSAcK
+9,C00002051,552-72-7,Lobelanidine,C22H29NO2,339.21982918,Lobelia urens,Lobelia,KNApSAcK
+10,C00002051,552-72-7,Lobelanidine,C22H29NO2,339.21982918,Lobelia sessilifolia,Lobelia,KNApSAcK
+11,C00002051,552-72-7,Lobelanidine,C22H29NO2,339.21982918,Lobelia hassleri,Lobelia,KNApSAcK
+12,C00002052,579-21-5,Lobelanine,C22H25NO2,335.18852905,Lobelia sessilifolia,Lobelia,KNApSAcK
+13,C00002052,579-21-5,Lobelanine,C22H25NO2,335.18852905,Lobelia inflata,Lobelia,KNApSAcK
+14,C00002052,579-21-5,Lobelanine,C22H25NO2,335.18852905,Lobelia siphilitica,Lobelia,KNApSAcK
+15,C00002052,579-21-5,Lobelanine,C22H25NO2,335.18852905,Lobelia chinensis,Lobelia,KNApSAcK
+16,C00002053,90-69-7,(-)-Lobeline,C22H27NO2,337.20417911,Lobelia hassleri,Lobelia,KNApSAcK
+17,C00002053,90-69-7,(-)-Lobeline,C22H27NO2,337.20417911,Lobelia siphilitica,Lobelia,KNApSAcK
+18,C00002053,90-69-7,(-)-Lobeline,C22H27NO2,337.20417911,Lobelia sessilifolia,Lobelia,KNApSAcK
+19,C00002053,90-69-7,(-)-Lobeline,C22H27NO2,337.20417911,Lobelia nicotianaefolia,Lobelia,KNApSAcK
+20,C00002053,90-69-7,(-)-Lobeline,C22H27NO2,337.20417911,Lobelia inflata,Lobelia,KNApSAcK
+21,C00002053,90-69-7,(-)-Lobeline,C22H27NO2,337.20417911,Lobelia chinensis,Lobelia,KNApSAcK
+22,C00002053,90-69-7,(-)-Lobeline,C22H27NO2,337.20417911,Lobelia urens,Lobelia,KNApSAcK
+23,C00002253,469-59-0,Jervine,C27H39NO3,425.29299412,Veratrum lobelianum,Lobelia,KNApSAcK
+24,C00002258,76-45-9,Protoverine,C27H43NO9,525.29378198,Veratrum lobelianum Bernh.,Lobelia,KNApSAcK
+25,C00027693,33352-59-9,15-Veratroylgermine,C36H51NO11,673.34621148,Veratrum album ssp.lobelianum,Lobelia,KNApSAcK
+26,C00027739,33352-58-8,3-Acetyl-15-veratroylgermine,C38H53NO12,715.35677617,Veratrum album ssp.lobelianum,Lobelia,KNApSAcK
+27,C00028175,195244-85-0,Diacetylveralkamine,C31H47NO4,497.350509,Veratrum lobelianum,Lobelia,KNApSAcK
+28,C00028296,426-34-6,Germbudine,C37H59NO12,709.40372636,Veratrum lobelianum,Lobelia,KNApSAcK
+29,C00028297,508-67-8,Germerine,C37H59NO11,693.40881173,Veratrum lobelianum,Lobelia,KNApSAcK
+30,C00028298,465-77-0,Germidine,C34H53NO10,635.36694692,Veratrum lobelianum Bernh.,Lobelia,KNApSAcK
+31,C00028299,23211-84-9,Germinaline,C39H61NO13,751.41429104,Veratrum lobelianum,Lobelia,KNApSAcK
+32,C00028301,175030-77-0,Germinine,C39H61NO11,719.4244618,Veratrum lobelianum,Lobelia,KNApSAcK
+33,C00028302,465-75-8,Germitetrine,C41H63NO14,793.42485573,Veratrum lobelianum,Lobelia,KNApSAcK
+34,C00028401,2303-30-2,Isojervine,C27H39NO3,425.29299412,Veratrum lobelianum,Lobelia,KNApSAcK
+35,C00028412,468-45-1,Isorubijervine,C27H43NO2,413.32937962,Veratrum lobelianum,Lobelia,KNApSAcK
+36,C00028413,468-46-2,Isorubijervosine,C33H53NO7,575.38220305,Veratrum lobelianum,Lobelia,KNApSAcK
+37,C00028870,36069-05-3,Pseudojervine,C33H49NO8,587.34581755,Veratrum lobelianum,Lobelia,KNApSAcK
+38,C00028901,110934-18-4,Rhamnoveracintine,C32H51NO5,529.37672375,Veratrum album ssp.lobelianum,Lobelia,KNApSAcK
+39,C00028946,79-58-3,Rubijervine,C27H43NO2,413.32937962,Veratrum lobelianum,Lobelia,KNApSAcK
+40,C00029095,17155-36-1,Tetrahydroveralkamine,C27H47NO2,417.36067975,Veratrum lobelianum,Lobelia,KNApSAcK
+41,C00029184,33596-06-4,Veracintine,C26H41NO,383.31881494,Veratrum lobelianum,Lobelia,KNApSAcK
+42,C00029185,21233-19-2,Veralinine,C27H43NO,397.334465,Veratrum album ssp.lobelianum,Lobelia,KNApSAcK
+43,C00029185,21233-19-2,Veralinine,C27H43NO,397.334465,Veratrum lobelianum Bernh.,Lobelia,KNApSAcK
+44,C00029186,17155-31-6,Veralkamine,C27H43NO2,413.32937962,Veratrum lobelianum Bernh.,Lobelia,KNApSAcK
+45,C00029186,17155-31-6,Veralkamine,C27H43NO2,413.32937962,Veratrum album ssp.lobelianum,Lobelia,KNApSAcK
+46,C00029187,6242-49-5,Veralobine,C27H41NO2,411.31372956,Veratrum album ssp.lobelianum,Lobelia,KNApSAcK
+47,C00029188,41787-59-1,Veralodine,C27H39NO3,425.29299412,Veratrum lobelianum,Lobelia,KNApSAcK
+48,C00029189,58165-72-3,Veralomidine,C27H43NO,397.334465,Veratrum lobelianum,Lobelia,KNApSAcK
+49,C00029190,58078-63-0,Veralomine,C33H53NO6,559.38728843,Veratrum lobelianum,Lobelia,KNApSAcK
+50,C00029191,30511-97-8,Veralosine,C35H55NO8,617.39276774,Veratrum lobelianum,Lobelia,KNApSAcK
+51,C00029191,30511-97-8,Veralosine,C35H55NO8,617.39276774,Veratrum album L.var.subsp.lobelianum(Bernh.)Suessenguth.,Lobelia,KNApSAcK
+52,C00029193,4565-85-9,Veramarine,C27H43NO3,429.32429425,Veratrum lobelianum Bernh.,Lobelia,KNApSAcK
+53,C00029193,4565-85-9,Veramarine,C27H43NO3,429.32429425,Veratrum album ssp.lobelianum,Lobelia,KNApSAcK
+54,C00029196,21059-48-3,Veramine,C27H41NO2,411.31372956,Veratrum album ssp.lobelianum,Lobelia,KNApSAcK
+55,C00029200,6684-78-2,Verarine,C27H39NO,393.30316487,Veratrum album ssp.lobelianum,Lobelia,KNApSAcK
+56,C00029202,71-62-5,Veratrine,C36H51NO11,673.34621148,Veratrum lobelianum,Lobelia,KNApSAcK
+57,C00029204,31329-58-5,Veratroylzygadenine,C36H51NO10,657.35129686,Veratrum lobelianum,Lobelia,KNApSAcK
+58,C00029205,14320-81-1,Verazine,C27H43NO,397.334465,Veratrum lobelianum,Lobelia,KNApSAcK
+59,C00029205,14320-81-1,Verazine,C27H43NO,397.334465,Veratrum album ssp.lobelianum,Lobelia,KNApSAcK
+60,C00029209,73667-53-5,Verdine,C27H41NO5,459.29847343,Veratrum lobelianum,Lobelia,KNApSAcK
+61,C00029210,175097-28-6,Verdinine,C29H41NO4,467.3035588,Veratrum lobelianum,Lobelia,KNApSAcK
+62,C00031122,431981-74-7,Radicamine A,C12H17NO5,255.11067266,Lobelia chinensis,Lobelia,KNApSAcK
+63,C00033338,431981-75-8,Radicamine B,C11H15NO4,225.10010798,Lobelia chinensis LOUR.,Lobelia,KNApSAcK
+64,C00050946,6035-31-0,Isolobelanine,C21H23NO2,321.17287899,Lobelia chinensis,Lobelia,KNApSAcK
+65,C00051306,127201-68-7,Lobelinin A,C75H81O42,1653.42024172,Lobelia chinensis,Lobelia,KNApSAcK
+66,C00051882,,5-Aminopentanal,C5H11NO,101.08406398,Lobelia siphilitica,Lobelia,KNApSAcK
+67,C00051882,,5-Aminopentanal,C5H11NO,101.08406398,Lobelia inflata,Lobelia,KNApSAcK
+68,C00051883,,delta1-Piperideine,C5H9N,83.07349929,Lobelia inflata,Lobelia,KNApSAcK
+69,C00051883,,delta1-Piperideine,C5H9N,83.07349929,Lobelia siphilitica,Lobelia,KNApSAcK
+70,C00051891,,2-Piperidyl-acetophenone,C13H17NO,203.13101417,Lobelia siphilitica,Lobelia,KNApSAcK
+71,C00051891,,2-Piperidyl-acetophenone,C13H17NO,203.13101417,Lobelia inflata,Lobelia,KNApSAcK
+72,C00051985,608-07-1,5-Methoxytryptamine,C11H14N2O,190.11061308,Lobelia chinensis,Lobelia,KNApSAcK
+73,C00051995,,cis-Norlobelanine,C21H23NO2,321.17287899,Lobelia inflata,Lobelia,KNApSAcK
+74,C00051995,,cis-Norlobelanine,C21H23NO2,321.17287899,Lobelia siphilitica,Lobelia,KNApSAcK
+75,C00052006,73-31-4,Melatonin,C13H16N2O2,232.12117777,Lobelia chinensis,Lobelia,KNApSAcK
+0,C00024843,106982-88-1,Brunonine,C22H33NO3,359.24604393,Delphinium brunonianum,Brunonia,KNApSAcK
+0,C00000977,578-86-9,Liquiritigenin,C15H12O4,256.07355887,Pericopsis elata,Ericopsis,KNApSAcK
+1,C00000977,578-86-9,Liquiritigenin,C15H12O4,256.07355887,Pericopsis mooniana,Ericopsis,KNApSAcK
+2,C00002216,486-86-2,(-)-N-Methylcytisine,C12H16N2O,204.12626315,Pericopsis schliebenii Harms.,Ericopsis,KNApSAcK
+3,C00002216,486-86-2,(-)-N-Methylcytisine,C12H16N2O,204.12626315,Pericopsis angolensis,Ericopsis,KNApSAcK
+4,C00002216,486-86-2,(-)-N-Methylcytisine,C12H16N2O,204.12626315,Pericopsis mooniana,Ericopsis,KNApSAcK
+5,C00002507,550-79-8,Afrormosin,C17H14O5,298.08412356,Pericopsis elata,Ericopsis,KNApSAcK
+6,C00002507,550-79-8,Afrormosin,C17H14O5,298.08412356,Pericopsis mooniana,Ericopsis,KNApSAcK
+7,C00002510,491-80-5,Biochanin A,C16H12O5,284.06847349,Pericopsis mooniana,Ericopsis,KNApSAcK
+8,C00002510,491-80-5,Biochanin A,C16H12O5,284.06847349,Pericopsis laxiflora,Ericopsis,KNApSAcK
+9,C00002510,491-80-5,Biochanin A,C16H12O5,284.06847349,Pericopsis elata,Ericopsis,KNApSAcK
+10,C00002525,485-72-3,Formononetin,C16H12O4,268.07355887,Pericopsis laxiflora,Ericopsis,KNApSAcK
+11,C00002526,446-72-0,Genistein,C15H10O5,270.05282343,Pericopsis laxiflora,Ericopsis,KNApSAcK
+12,C00002540,2345-17-7,Irisolidone,C17H14O6,314.07903818,Pericopsis mooniana,Ericopsis,KNApSAcK
+13,C00002540,2345-17-7,Irisolidone,C17H14O6,314.07903818,Pericopsis laxiflora,Ericopsis,KNApSAcK
+14,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Pericopsis angolensis,Ericopsis,KNApSAcK
+15,C00002895,10083-24-6,(E)-piceatannol,C14H12O4,244.07355887,Pericopsis elata,Ericopsis,KNApSAcK
+16,C00002895,10083-24-6,(E)-piceatannol,C14H12O4,244.07355887,Pericopsis angolensis,Ericopsis,KNApSAcK
+17,C00007947,88126-55-0,"4,2',4',alpha-Tetrahydroxydihydrochalcone",C15H14O5,274.08412356,Pericopsis elata,Ericopsis,KNApSAcK
+18,C00007948,114107-24-3,"2',4',alpha-Trihydroxy-4-methoxydihydrochalcone",C16H16O5,288.09977362,Pericopsis elata,Ericopsis,KNApSAcK
+19,C00009380,486-66-8,Daidzein,C15H10O4,254.05790881,Pericopsis angolensis Baker.,Ericopsis,KNApSAcK
+20,C00009380,486-66-8,Daidzein,C15H10O4,254.05790881,Pericopsis eleta,Ericopsis,KNApSAcK
+21,C00009380,486-66-8,Daidzein,C15H10O4,254.05790881,Pericopsis laxiflora Benth.,Ericopsis,KNApSAcK
+22,C00009380,486-66-8,Daidzein,C15H10O4,254.05790881,Pericopsis mooniana,Ericopsis,KNApSAcK
+23,C00009400,37816-20-9,8-O-Methylretusin,C17H14O5,298.08412356,Pericopsis angolensis,Ericopsis,KNApSAcK
+24,C00009533,17238-05-0,Dihydrodaidzein,C15H12O4,256.07355887,Pericopsis mooniana,Ericopsis,KNApSAcK
+25,C00009613,606-91-7,(-)-Homopterocarpin,C17H16O4,284.104859,Pericopsis schliebenii,Ericopsis,KNApSAcK
+26,C00009613,606-91-7,(-)-Homopterocarpin,C17H16O4,284.104859,Pericopsis angolensis,Ericopsis,KNApSAcK
+27,C00009794,642-39-7,Angolensin,C16H16O4,272.104859,Pericopsis mooniana,Ericopsis,KNApSAcK
+28,C00009794,642-39-7,Angolensin,C16H16O4,272.104859,Pericopsis elata,Ericopsis,KNApSAcK
+29,C00009795,58822-06-3,2-O-Methylangolensin,C17H18O4,286.12050906,Pericopsis eleta,Ericopsis,KNApSAcK
+30,C00009795,58822-06-3,2-O-Methylangolensin,C17H18O4,286.12050906,Pericopsis elata,Ericopsis,KNApSAcK
+31,C00009825,94285-21-9,"5,7-Dihydroxy-2',6-dimethoxyisoflavone",C17H14O6,314.07903818,Pericopsis laxiflora,Ericopsis,KNApSAcK
+0,C00003406,66583-56-0,Baliospermin,C32H50O8,562.35056857,Neoboutonia glabrescens Prain,Boutonia,KNApSAcK
+1,C00003455,66583-55-9,Montanin,C32H48O8,560.33491851,Neoboutonia glabrescens Prain,Boutonia,KNApSAcK
+2,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Neoboutonia glabrescens Prain,Boutonia,KNApSAcK
+3,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Neoboutonia melleri,Boutonia,KNApSAcK
+4,C00003755,111-02-4,All-trans-squalene,C30H50,410.39125159,Neoboutonia glabrescens Prain,Boutonia,KNApSAcK
+5,C00009791,65893-96-1,Glabrescin,C23H20O7,408.12090299,Neoboutonia glabrescens Prain,Boutonia,KNApSAcK
+6,C00019064,508-02-1,Oleanolic acid,C30H48O3,456.3603454,Neoboutonia glabrescens Prain,Boutonia,KNApSAcK
+7,C00034781,28937-85-1,3-Acetyl aleuritolic acid,C32H50O4,498.37091008,Neoboutonia glabrescens Prain,Boutonia,KNApSAcK
+8,C00036024,109036-42-2,"9-Methoxy-1,7-dimethylphenanthrene",C17H16O,236.12011513,Neoboutonia glabrescens Prain,Boutonia,KNApSAcK
+9,C00036171,17187-79-0,Neoboutonin,C22H22O7,398.13655306,Neoboutonia glabrescens Prain,Boutonia,KNApSAcK
+10,C00036172,625823-63-4,Neoglabrescin A,C17H24O7,340.15220312,Neoboutonia glabrescens Prain,Boutonia,KNApSAcK
+11,C00036173,625823-64-5,Neoglabrescin B,C20H30O8,398.19406794,Neoboutonia glabrescens Prain,Boutonia,KNApSAcK
+12,C00044231,213037-33-3,Mellerin A,C28H42O6,474.29813907,Neoboutonia melleri,Boutonia,KNApSAcK
+13,C00044232,213037-35-5,Mellerin B,C28H40O8,504.27231825,Neoboutonia melleri,Boutonia,KNApSAcK
+0,C00003006,30270-60-1,Monocerin,C16H20O6,308.12598837,Helminthosporium monoceras,Monoceras,KNApSAcK
+0,C00000001,545-97-1,Gibberellin A1,C19H24O6,348.1572885,Alstroemeria hybrida,Roemeria,KNApSAcK
+1,C00000004,468-44-0,Gibberellin A4,C19H24O5,332.16237388,Alstroemeria hybrida,Roemeria,KNApSAcK
+2,C00000008,7044-72-6,Gibberellin A8,C19H24O7,364.15220312,Alstroemeria hybrida,Roemeria,KNApSAcK
+3,C00000015,13744-18-8,Gibberellin A15,C20H26O4,330.18310932,Alstroemeria hybrida,Roemeria,KNApSAcK
+4,C00000019,6980-44-5,Gibberellin A19,C20H26O6,362.17293856,Alstroemeria hybrida,Roemeria,KNApSAcK
+5,C00000020,19143-87-4,Gibberellin A20,C19H24O5,332.16237388,Alstroemeria hybrida,Roemeria,KNApSAcK
+6,C00000029,29774-53-6,Gibberellin A29,C19H24O6,348.1572885,Alstroemeria hybrida,Roemeria,KNApSAcK
+7,C00000034,32630-92-5,Gibberellin A34,C19H24O6,348.1572885,Alstroemeria hybrida,Roemeria,KNApSAcK
+8,C00000044,36434-15-8,Gibberellin A44,C20H26O5,346.17802394,Alstroemeria hybrida,Roemeria,KNApSAcK
+9,C00001435,51-67-2,Tyramine,C8H11NO,137.08406398,Acacia roemeriana,Roemeria,KNApSAcK
+10,C00001802,4984-99-0,Amurine,C19H19NO4,325.1314081,Roemeria refracta,Roemeria,KNApSAcK
+11,C00001810,524-20-9,Armepavine,C19H23NO3,313.16779361,Roemeria refracta,Roemeria,KNApSAcK
+12,C00002376,18719-76-1,Antirrhinin,C27H31O15.Cl,630.13514803,Alstroemeria sp.,Roemeria,KNApSAcK
+13,C00005346,113540-99-1,Herbacetin 3-glucuronide-8-glucoside,C27H28O18,640.12756409,Roemeria hybrida,Roemeria,KNApSAcK
+14,C00005694,113541-00-7,Gossypetin 3-glucuronide-8-glucoside,C27H28O19,656.12247872,Roemeria hybrida,Roemeria,KNApSAcK
+15,C00006616,42529-06-6,6-Hydroxycyanidin,C15H11O7,303.05047771,Alstroemeria spp.,Roemeria,KNApSAcK
+16,C00006639,33978-17-5,Pelargonidin 3-rutinoside,C27H31O14,579.1713807,Alstroemeria spp.,Roemeria,KNApSAcK
+17,C00006694,"99124-24-0,478693-93-5",6-Hydroxycyanidin 3-glucoside,C21H21O12,465.10330114,Alstroemeria spp.,Roemeria,KNApSAcK
+18,C00006695,99124-25-1,6-Hydroxycyanidin 3-rutinoside,C27H31O16,611.16120995,Alstroemeria ligtu,Roemeria,KNApSAcK
+19,C00006695,99124-25-1,6-Hydroxycyanidin 3-rutinoside,C27H31O16,611.16120995,Alstroemeria pulchella,Roemeria,KNApSAcK
+20,C00006695,99124-25-1,6-Hydroxycyanidin 3-rutinoside,C27H31O16,611.16120995,Alstroemeria aurantiaca,Roemeria,KNApSAcK
+21,C00006708,15674-58-5,Tulipanin,C27H31O16.Cl,646.13006266,Alstroemeria spp.,Roemeria,KNApSAcK
+22,C00006752,115713-29-6,6-Hydroxydelphinidin 3-rutinoside,C27H31O17,627.15612457,Alstroemeria werdermannii,Roemeria,KNApSAcK
+23,C00006796,94977-38-5,Cyanidin 3-(6''-malonylglucoside),C24H23O14,535.10878045,Alstroemeria spp.,Roemeria,KNApSAcK
+24,C00014757,356536-38-4,6-Hydroxycyanidin 3-(6-malonylglucoside),C24H23O15,551.10369507,Alstroemeria spp.,Roemeria,KNApSAcK
+25,C00014823,478693-92-4,6-Hydroxydelphinidin 3-(6-malonylglucoside),C24H23O16,567.09860969,Alstroemeria spp.,Roemeria,KNApSAcK
+26,C00014824,478693-91-3,6-Hydroxydelphinidin 3-glucoside,C21H21O13,481.09821576,Alstroemeria spp.,Roemeria,KNApSAcK
+27,C00014844,554450-50-9,6-Hydroxypelargonidin 3-rutinoside,C27H31O15,595.16629532,Alstroemeria spp.,Roemeria,KNApSAcK
+28,C00014845,554450-51-0,6-Hydroxypelargonidin 3-glucoside,C21H21O11,449.10838652,Alstroemeria spp.,Roemeria,KNApSAcK
+29,C00015761,117824-04-1,Dehydrojuncusol,C18H16O2,264.11502975,Juncus roemerianus,Roemeria,KNApSAcK
+30,C00015799,175094-08-3,Juncunol,C18H18O,250.1357652,Juncus roemerianus,Roemeria,KNApSAcK
+31,C00015800,77305-81-8,Juncunone,C18H18O3,282.12559444,Juncus roemerianus,Roemeria,KNApSAcK
+32,C00015801,62023-90-9,Juncusol,C18H18O2,266.13067982,Juncus roemerianus,Roemeria,KNApSAcK
+33,C00025625,548-08-3,(-)-Roemerine,C18H17NO2,279.12592879,Roemeria refracta,Roemeria,KNApSAcK
+34,C00025812,486-39-5,Coclaurine,C17H19NO3,285.13649348,Roemeria refracta,Roemeria,KNApSAcK
+35,C00026023,21153-67-3,Remrefidine,C19H20NO2,294.14940389,Roemeria refracta,Roemeria,KNApSAcK
+36,C00026134,31098-60-9,Mecambridine,C22H25NO6,399.16818754,Roemeria refracta,Roemeria,KNApSAcK
+37,C00027366,19777-82-3,Flavinantine,C19H21NO4,327.14705817,Roemeria refracta,Roemeria,KNApSAcK
+38,C00027640,143051-75-6,(14R)-Reframidine N-oxide,C19H17NO5,339.11067266,Roemeria refracta,Roemeria,KNApSAcK
+39,C00027641,143120-44-9,(14S)-Reframidine N-oxide,C19H17NO5,339.11067266,Roemeria refracta,Roemeria,KNApSAcK
+40,C00028441,128581-42-0,Labrandine,C18H23NO4,317.16270823,Roemeria hybrida,Roemeria,KNApSAcK
+41,C00028591,94801-27-1,Misramine,C19H26NO4,332.18618333,Roemeria hybrida,Roemeria,KNApSAcK
+42,C00028711,171595-33-8,Noramurine,C18H17NO4,311.11575804,Roemeria refracta,Roemeria,KNApSAcK
+43,C00028731,131690-43-2,Norroehybridine,C30H37N3O5,519.27332131,Roemeria hybrida,Roemeria,KNApSAcK
+44,C00028771,131669-94-8,O-Methylroehybridine,C32H41N3O5,547.30462144,Roemeria hybrida,Roemeria,KNApSAcK
+45,C00028772,131725-43-4,O-Methylroemeridine,C32H41N3O5,547.30462144,Roemeria hybrida,Roemeria,KNApSAcK
+46,C00028871,85-65-4,Pseudolaudanine,C20H25NO4,343.17835829,Roemeria refracta,Roemeria,KNApSAcK
+47,C00028937,132075-36-6,Roebramine,C30H37N3O4,503.27840669,Roemeria hybrida,Roemeria,KNApSAcK
+48,C00028938,131724-50-0,Roefractine,C19H23NO3,313.16779361,Roemeria refracta,Roemeria,KNApSAcK
+49,C00028939,131669-92-6,Roehybramine,C30H37N3O4,503.27840669,Roemeria hybrida,Roemeria,KNApSAcK
+50,C00028940,123000-13-5,Roehybridine,C31H39N3O5,533.28897138,Roemeria hybrida,Roemeria,KNApSAcK
+51,C00028941,143070-35-3,Roelactamine,C19H15NO5,337.0950226,Roemeria refracta,Roemeria,KNApSAcK
+52,C00028942,131724-51-1,Roemebramine,C30H37N3O4,503.27840669,Roemeria hybrida,Roemeria,KNApSAcK
+53,C00028943,122890-33-9,Roemeridine,C31H39N3O5,533.28897138,Roemeria refracta,Roemeria,KNApSAcK
+54,C00028943,122890-33-9,Roemeridine,C31H39N3O5,533.28897138,Roemeria hybrida,Roemeria,KNApSAcK
+55,C00031097,90-82-4,(+)-Pseudoephedrine,C10H15NO,165.11536411,Roemeria refracta,Roemeria,KNApSAcK
+0,C00000682,2955-23-9,Olivil,C20H24O7,376.15220312,Cerbera odollam,Cerbera,KNApSAcK
+1,C00000682,2955-23-9,Olivil,C20H24O7,376.15220312,Cerbera manghas,Cerbera,KNApSAcK
+2,C00000689,119478-09-0,Cerberalignan A,C40H46O14,750.28875618,Cerbera odollam,Cerbera,KNApSAcK
+3,C00000690,,Cerberalignan B,C40H46O14,750.28875618,Cerbera odollam,Cerbera,KNApSAcK
+4,C00000691,119403-22-4,Cerberalignan D,C30H34O10,554.21519731,Cerbera odollam,Cerbera,KNApSAcK
+5,C00003610,11005-70-2,Cerberoside,C42H66O18,858.42491531,Cerbera odollam,Cerbera,KNApSAcK
+6,C00003611,7227-00-1,Cerbertin,C32H46O10,590.30909769,Cerbera floribunda,Cerbera,KNApSAcK
+7,C00003611,7227-00-1,Cerbertin,C32H46O10,590.30909769,Cerbera dilatata,Cerbera,KNApSAcK
+8,C00003632,466-07-9,17beta-Neriifolin,C30H46O8,534.31926845,Cerbera adollam,Cerbera,KNApSAcK
+9,C00003632,466-07-9,17beta-Neriifolin,C30H46O8,534.31926845,Cerbera odollam,Cerbera,KNApSAcK
+10,C00003632,466-07-9,17beta-Neriifolin,C30H46O8,534.31926845,Cerbera manghas L.,Cerbera,KNApSAcK
+11,C00003639,37933-66-7,Thevetin A,C42H64O19,872.40417987,Cerbera odollam,Cerbera,KNApSAcK
+12,C00005219,55804-74-5,Clitorin,C33H40O19,740.2163791,Cerbera manghas,Cerbera,KNApSAcK
+13,C00005456,55696-57-6,Manghaslin,C33H40O20,756.21129372,Cerbera manghas,Cerbera,KNApSAcK
+14,C00007206,3064-05-9,(+)-Cycloolivil,C20H24O7,376.15220312,Cerbera odollam,Cerbera,KNApSAcK
+15,C00007206,3064-05-9,(+)-Cycloolivil,C20H24O7,376.15220312,Cerbera manghas,Cerbera,KNApSAcK
+16,C00010525,65597-44-6,Cerberic acid,C11H8O5,220.03717337,Cerbera manghas,Cerbera,KNApSAcK
+17,C00010525,65597-44-6,Cerberic acid,C11H8O5,220.03717337,Cerbera manghes,Cerbera,KNApSAcK
+18,C00010526,65597-43-5,Cerberinic acid,C10H6O4,190.02660868,Cerbera manghes,Cerbera,KNApSAcK
+19,C00010526,65597-43-5,Cerberinic acid,C10H6O4,190.02660868,Cerbera manghas,Cerbera,KNApSAcK
+20,C00010527,65597-42-4,Cerbinal,C11H8O4,204.04225874,Cerbera manghas,Cerbera,KNApSAcK
+21,C00010527,65597-42-4,Cerbinal,C11H8O4,204.04225874,Cerbera manghes,Cerbera,KNApSAcK
+22,C00031547,680195-85-1,2'-O-Acetylcerleaside A,C32H46O9,574.31418307,Cerbera manghas L.,Cerbera,KNApSAcK
+23,C00031547,680195-85-1,2'-O-Acetylcerleaside A,C32H46O9,574.31418307,Cerbera adollam,Cerbera,KNApSAcK
+24,C00031660,25633-33-4,Cerberin,C32H48O9,576.32983313,Cerbera manghas L.,Cerbera,KNApSAcK
+25,C00031660,25633-33-4,Cerberin,C32H48O9,576.32983313,Cerbera adollam,Cerbera,KNApSAcK
+26,C00031724,4589-95-1,Deacetyltanghinin,C30H44O9,548.298533,Cerbera manghas L.,Cerbera,KNApSAcK
+27,C00032285,25390-16-3,Tanghinin,C32H46O10,590.30909769,Cerbera manghus,Cerbera,KNApSAcK
+28,C00032285,25390-16-3,Tanghinin,C32H46O10,590.30909769,Cerbera manghas L.,Cerbera,KNApSAcK
+29,C00035466,7044-31-7,17alpha-Neriifolin,C30H46O8,534.31926845,Cerbera adollam,Cerbera,KNApSAcK
+30,C00035466,7044-31-7,17alpha-Neriifolin,C30H46O8,534.31926845,Cerbera odollam,Cerbera,KNApSAcK
+31,C00035559,111534-97-5,Cerleaside A,C30H44O8,532.30361838,Cerbera adollam,Cerbera,KNApSAcK

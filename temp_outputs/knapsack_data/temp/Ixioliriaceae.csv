@@ -1,0 +1,34 @@
+,C_ID,CAS ID,example_compound_name,Molecular formula,Mw,Organism,knapsack_search_term,Source
+0,C00000001,545-97-1,Gibberellin A1,C19H24O6,348.1572885,Alstroemeria hybrida,Alstroemeria,KNApSAcK
+1,C00000004,468-44-0,Gibberellin A4,C19H24O5,332.16237388,Alstroemeria hybrida,Alstroemeria,KNApSAcK
+2,C00000008,7044-72-6,Gibberellin A8,C19H24O7,364.15220312,Alstroemeria hybrida,Alstroemeria,KNApSAcK
+3,C00000015,13744-18-8,Gibberellin A15,C20H26O4,330.18310932,Alstroemeria hybrida,Alstroemeria,KNApSAcK
+4,C00000019,6980-44-5,Gibberellin A19,C20H26O6,362.17293856,Alstroemeria hybrida,Alstroemeria,KNApSAcK
+5,C00000020,19143-87-4,Gibberellin A20,C19H24O5,332.16237388,Alstroemeria hybrida,Alstroemeria,KNApSAcK
+6,C00000029,29774-53-6,Gibberellin A29,C19H24O6,348.1572885,Alstroemeria hybrida,Alstroemeria,KNApSAcK
+7,C00000034,32630-92-5,Gibberellin A34,C19H24O6,348.1572885,Alstroemeria hybrida,Alstroemeria,KNApSAcK
+8,C00000044,36434-15-8,Gibberellin A44,C20H26O5,346.17802394,Alstroemeria hybrida,Alstroemeria,KNApSAcK
+9,C00002376,18719-76-1,Antirrhinin,C27H31O15.Cl,630.13514803,Alstroemeria sp.,Alstroemeria,KNApSAcK
+10,C00006616,42529-06-6,6-Hydroxycyanidin,C15H11O7,303.05047771,Alstroemeria spp.,Alstroemeria,KNApSAcK
+11,C00006639,33978-17-5,Pelargonidin 3-rutinoside,C27H31O14,579.1713807,Alstroemeria spp.,Alstroemeria,KNApSAcK
+12,C00006694,"99124-24-0,478693-93-5",6-Hydroxycyanidin 3-glucoside,C21H21O12,465.10330114,Alstroemeria spp.,Alstroemeria,KNApSAcK
+13,C00006695,99124-25-1,6-Hydroxycyanidin 3-rutinoside,C27H31O16,611.16120995,Alstroemeria aurantiaca,Alstroemeria,KNApSAcK
+14,C00006695,99124-25-1,6-Hydroxycyanidin 3-rutinoside,C27H31O16,611.16120995,Alstroemeria pulchella,Alstroemeria,KNApSAcK
+15,C00006695,99124-25-1,6-Hydroxycyanidin 3-rutinoside,C27H31O16,611.16120995,Alstroemeria ligtu,Alstroemeria,KNApSAcK
+16,C00006708,15674-58-5,Tulipanin,C27H31O16.Cl,646.13006266,Alstroemeria spp.,Alstroemeria,KNApSAcK
+17,C00006752,115713-29-6,6-Hydroxydelphinidin 3-rutinoside,C27H31O17,627.15612457,Alstroemeria werdermannii,Alstroemeria,KNApSAcK
+18,C00006796,94977-38-5,Cyanidin 3-(6''-malonylglucoside),C24H23O14,535.10878045,Alstroemeria spp.,Alstroemeria,KNApSAcK
+19,C00014757,356536-38-4,6-Hydroxycyanidin 3-(6-malonylglucoside),C24H23O15,551.10369507,Alstroemeria spp.,Alstroemeria,KNApSAcK
+20,C00014823,478693-92-4,6-Hydroxydelphinidin 3-(6-malonylglucoside),C24H23O16,567.09860969,Alstroemeria spp.,Alstroemeria,KNApSAcK
+21,C00014824,478693-91-3,6-Hydroxydelphinidin 3-glucoside,C21H21O13,481.09821576,Alstroemeria spp.,Alstroemeria,KNApSAcK
+22,C00014844,554450-50-9,6-Hydroxypelargonidin 3-rutinoside,C27H31O15,595.16629532,Alstroemeria spp.,Alstroemeria,KNApSAcK
+23,C00014845,554450-51-0,6-Hydroxypelargonidin 3-glucoside,C21H21O11,449.10838652,Alstroemeria spp.,Alstroemeria,KNApSAcK
+0,C00001557,14383-07-4,Acetylcaranine,C18H19NO4,313.1314081,Amaryllis belladonna hybrid,Amaryllis,KNApSAcK
+1,C00001561,3660-62-6,Ambelline,C18H21NO5,331.14197279,Amaryllis belladonna,Amaryllis,KNApSAcK
+2,C00001562,501-06-4,Belladine,C19H25NO3,315.18344367,Amaryllis belladonna hybrid,Amaryllis,KNApSAcK
+3,C00001565,477-12-3,Caranine,C16H17NO3,271.12084342,Amaryllis belladonna,Amaryllis,KNApSAcK
+4,C00001576,476-28-8,(-)-Lycorine,C16H17NO4,287.11575804,Amaryllis belladona,Amaryllis,KNApSAcK
+5,C00024364,61221-42-9,Anhydrolycorinium chloride,C16H12NO2,250.08680363,Amaryllis belladonna L.,Amaryllis,KNApSAcK
+6,C00024440,6882-09-3,Undulatine,C18H21NO5,331.14197279,Amaryllis belladonna L.,Amaryllis,KNApSAcK
+7,C00027615,108906-57-6,(+)-11-Hydroxyvittatine,C16H17NO4,287.11575804,Amaryllis belladonna,Amaryllis,KNApSAcK
+8,C00050501,767356-23-0,(-)-Amarbellisine,C17H19NO4,301.1314081,Amaryllis belladonna,Amaryllis,KNApSAcK

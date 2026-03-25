@@ -1,0 +1,154 @@
+,C_ID,CAS ID,example_compound_name,Molecular formula,Mw,Organism,knapsack_search_term,Source
+0,C00019064,508-02-1,Oleanolic acid,C30H48O3,456.3603454,Ludwigia octovalvis,Ludwigia,KNApSAcK
+1,C00029633,7372-30-7,Acetylursolic acid,C32H50O4,498.37091008,Ludwigia octovalvis,Ludwigia,KNApSAcK
+0,C00004759,1486-67-5,Annulatin,C16H12O8,332.05321736,Oenothera speciosa,Oenothera,KNApSAcK
+1,C00005434,31564-38-2,"Quercetin 3,7-diglucuronide",C27H26O19,654.10682865,Oenothera speciosa,Oenothera,KNApSAcK
+2,C00005434,31564-38-2,"Quercetin 3,7-diglucuronide",C27H26O19,654.10682865,Oenothera rosea,Oenothera,KNApSAcK
+3,C00005491,26931-68-0,3-O-Methylquercetin 7-O-beta-D-glucopyranoside,C22H22O12,478.11112617,Oenothera purpusii,Oenothera,KNApSAcK
+4,C00005491,26931-68-0,3-O-Methylquercetin 7-O-beta-D-glucopyranoside,C22H22O12,478.11112617,Oenothera texensis,Oenothera,KNApSAcK
+5,C00005491,26931-68-0,3-O-Methylquercetin 7-O-beta-D-glucopyranoside,C22H22O12,478.11112617,Oenothera rosea,Oenothera,KNApSAcK
+6,C00005495,115473-28-4,Quercetin 3-methyl ether 3'-glucoside,C22H22O12,478.11112617,Oenothera perennis,Oenothera,KNApSAcK
+7,C00005495,115473-28-4,Quercetin 3-methyl ether 3'-glucoside,C22H22O12,478.11112617,Oenothera texensis,Oenothera,KNApSAcK
+8,C00005495,115473-28-4,Quercetin 3-methyl ether 3'-glucoside,C22H22O12,478.11112617,Oenothera spachiana,Oenothera,KNApSAcK
+9,C00005495,115473-28-4,Quercetin 3-methyl ether 3'-glucoside,C22H22O12,478.11112617,Oenothera canescens,Oenothera,KNApSAcK
+10,C00005728,15648-86-9,Myricetin 3-O-galactopyranoside,C21H20O13,480.09039073,Oenothera lavendulaefolia,Oenothera,KNApSAcK
+11,C00005731,77363-65-6,Myricetin 3-glucuronide,C21H18O14,494.06965529,Oenothera cheiranthifolia,Oenothera,KNApSAcK
+12,C00005740,72078-29-6,"Myricetin 3,7-diglucoside",C27H30O18,642.14321416,Oenothera dissecta,Oenothera,KNApSAcK
+13,C00005742,115473-27-3,"Myricetin 3,7-diglucuronide",C27H26O20,670.10174328,Oenothera speciosa,Oenothera,KNApSAcK
+14,C00005752,31105-82-5,Annulatin 3'-glucoside,C22H22O13,494.10604079,Oenothera spp.,Oenothera,KNApSAcK
+15,C00005758,115381-61-8,Europetin 3-galactoside,C22H22O13,494.10604079,Oenothera pilosella,Oenothera,KNApSAcK
+16,C00007881,4547-85-7,Isosalipurposide,C21H22O10,434.12129692,Oenothera hookeri,Oenothera,KNApSAcK
+17,C00029938,942935-89-9,Cheiranthic acid,C30H46O5,486.33452458,Oenothera cheiranthifolia,Oenothera,KNApSAcK
+18,C00035355,137422-98-1,Oenothein A,C102H72O66,2352.22776737,Oenothera erythrosepara,Oenothera,KNApSAcK
+19,C00035355,137422-98-1,Oenothein A,C102H72O66,2352.22776737,Oenothera tetraptera,Oenothera,KNApSAcK
+20,C00035355,137422-98-1,Oenothein A,C102H72O66,2352.22776737,Oenothera biennis,Oenothera,KNApSAcK
+21,C00035356,104987-36-2,Oenothein B,C68H48O44,1568.15184491,Oenothera tetraptera,Oenothera,KNApSAcK
+22,C00035356,104987-36-2,Oenothein B,C68H48O44,1568.15184491,Oenothera erythrosepara,Oenothera,KNApSAcK
+23,C00035356,104987-36-2,Oenothein B,C68H48O44,1568.15184491,Oenothera biennis,Oenothera,KNApSAcK
+24,C00037173,84744-46-7,Gemin D,C27H22O18,634.0806139,Oenothera tetraptera,Oenothera,KNApSAcK
+25,C00037577,412955-91-0,Oenotherin T1,C102H72O67,2368.22268199,Oenothera tetraptera,Oenothera,KNApSAcK
+0,C00001676,2912-11-0,Affinisine,C20H24N2O,308.1888634,Tabernaemontana fuchsiafolia,Fuchsia,KNApSAcK
+1,C00002378,2611-67-8,Cyanin,C27H31O16,611.16120995,Fuchsia sp.,Fuchsia,KNApSAcK
+2,C00002384,16727-30-3,Malvin,C29H35O17,655.1874247,Fuchsia spp.,Fuchsia,KNApSAcK
+3,C00002387,17334-58-6,Pelargonin,C27H31O15,595.16629532,Fuchsia spp.,Fuchsia,KNApSAcK
+4,C00002920,58970-75-5,Eugeniin,C41H30O26,938.10253114,Fuchsia spp.,Fuchsia,KNApSAcK
+5,C00002926,60976-49-0,Geraniin,C41H28O27,952.0817957,Fuchsia spp.,Fuchsia,KNApSAcK
+6,C00002938,79786-08-6,Tellimagrandin I,C34H26O22,786.09157252,Fuchsia spp.,Fuchsia,KNApSAcK
+7,C00004144,29741-09-1,Apigenin 7-O-beta-D-glucuronide,C21H18O11,446.08491142,Fuchsia excorticata,Fuchsia,KNApSAcK
+8,C00004144,29741-09-1,Apigenin 7-O-beta-D-glucuronide,C21H18O11,446.08491142,Fuchsia procumbens,Fuchsia,KNApSAcK
+9,C00004268,29741-10-4,Luteolin 7-O-beta-D-glucuronide,C21H18O12,462.07982604,Fuchsia excorticata,Fuchsia,KNApSAcK
+10,C00004268,29741-10-4,Luteolin 7-O-beta-D-glucuronide,C21H18O12,462.07982604,Fuchsia procumbens,Fuchsia,KNApSAcK
+11,C00005376,22688-79-5,Miquelianin,C21H18O13,478.07474066,Fuchsia fulgens,Fuchsia,KNApSAcK
+12,C00005413,153-18-4,Quercetin 3-rutinoside,C27H30O16,610.15338491,Fuchsia fulgens,Fuchsia,KNApSAcK
+13,C00006688,132-37-6,"Peonidin-3,5-diglucoside",C28H33O16,625.17686001,Fuchsia hybrida,Fuchsia,KNApSAcK
+14,C00006728,25846-73-5,Petunin,C28H33O17,641.17177463,Fuchsia spp.,Fuchsia,KNApSAcK
+15,C00006735,7228-78-6,Oenin,C23H25O12,493.13460127,Fuchsia spp.,Fuchsia,KNApSAcK
+16,C00026685,109269-75-2,(-)-Fuchsiaefolin,C24H31N2O3,395.23346787,Peschiera fuchsiaefolia,Fuchsia,KNApSAcK
+0,C00003047,78-70-6,(+-)-Linalool,C10H18O,154.1357652,Clarkia concinna,Clarkia,KNApSAcK
+1,C00003047,78-70-6,(+-)-Linalool,C10H18O,154.1357652,Clarkia breweri,Clarkia,KNApSAcK
+2,C00003110,87-44-5,beta-Caryophyllene,C15H24,204.18780077,Clarkia sativus,Clarkia,KNApSAcK
+0,C00002647,149-91-7,Gallic acid,C7H6O5,170.0215233,Epilobium hirsutum,Epilobium,KNApSAcK
+1,C00002933,14937-32-7,"1,2,3,4,6-Penta-O-galloyl-beta-D-glucose",C41H32O26,940.1181812,Epilobium spp.,Epilobium,KNApSAcK
+2,C00005951,53171-28-1,Quercetin 3-(6''-galloylgalactoside),C28H24O16,616.10643472,Epilobium dodonaei,Epilobium,KNApSAcK
+3,C00005951,53171-28-1,Quercetin 3-(6''-galloylgalactoside),C28H24O16,616.10643472,Epilobium angustifolium,Epilobium,KNApSAcK
+4,C00006039,56317-08-9,Myricetin 3-(6''-galloylgalactoside),C28H24O17,632.10134934,Epilobium dodona,Epilobium,KNApSAcK
+5,C00006039,56317-08-9,Myricetin 3-(6''-galloylgalactoside),C28H24O17,632.10134934,Epilobium angustifolium,Epilobium,KNApSAcK
+6,C00050699,3934-84-7,3-Methoxygallic acid,C8H8O5,184.03717337,Epilobium hirsutum,Epilobium,KNApSAcK
+0,C00002512,32884-36-9,Cajanin,C16H12O6,300.06338812,Galactia jussiaeana,Jussiaea,KNApSAcK
+1,C00002526,446-72-0,Genistein,C15H10O5,270.05282343,Galactia jussiaeana,Jussiaea,KNApSAcK
+2,C00002546,2035-15-6,(-)-Maackiain,C16H12O5,284.06847349,Galactia jussiaeana,Jussiaea,KNApSAcK
+3,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Galactia jussiaeana,Jussiaea,KNApSAcK
+0,C00001408,51-61-6,Dopamine,C8H11NO2,153.0789786,Trichocereus spachianus,Spachia,KNApSAcK
+1,C00001419,54-04-6,Mescaline,C11H17NO3,211.12084342,Trichocereus spachianus,Spachia,KNApSAcK
+2,C00001435,51-67-2,Tyramine,C8H11NO,137.08406398,Trichocereus spachianus,Spachia,KNApSAcK
+3,C00005495,115473-28-4,Quercetin 3-methyl ether 3'-glucoside,C22H22O12,478.11112617,Oenothera spachiana,Spachia,KNApSAcK
+4,C00027432,370-98-9,N-Methyltyramine,C9H13NO,151.09971404,Trichocereus spachianus,Spachia,KNApSAcK
+5,C00051976,,"3,5-Dimethoxy-4-hydroxyphenethylamine",C10H15NO3,197.10519335,Trichocereus spachianus,Spachia,KNApSAcK
+6,C00051978,1477-68-5,4-Hydroxy-3-methoxyphenethylamine,C9H13NO2,167.09462867,Trichocereus spachianus,Spachia,KNApSAcK
+7,C00051979,,"4,5-Dihydroxy-3-methoxyphenethylamine",C9H13NO3,183.08954329,Trichocereus spachianus,Spachia,KNApSAcK
+0,C00005140,482-39-3,Afzelin,C21H20O10,432.10564686,Heterogaura heterandra,Gaura,KNApSAcK
+1,C00005373,482-35-9,Hirsutrin,C21H20O12,464.09547611,Heterogaura heterandra,Gaura,KNApSAcK
+2,C00005729,19833-12-6,Isomyricitrin,C21H20O13,480.09039073,Heterogaura heterandra,Gaura,KNApSAcK
+0,C00002647,149-91-7,Gallic acid,C7H6O5,170.0215233,Chamaenerion angustifolium,Chamaenerion,KNApSAcK
+1,C00005372,482-36-0,Hyperin,C21H20O12,464.09547611,Chamaenerion angustifolium,Chamaenerion,KNApSAcK
+2,C00005373,482-35-9,Hirsutrin,C21H20O12,464.09547611,Chamaenerion angustifolium,Chamaenerion,KNApSAcK
+3,C00005851,20316-62-5,Kaempferol 3-O-beta-D-(6''-E-p-coumaroyl)glucopyranoside,C30H26O13,594.13734092,Chamaenerion angustifolium,Chamaenerion,KNApSAcK
+4,C00011153,476-66-4,Ellagic acid,C14H6O8,302.00626717,Chamaenerion angustifolium,Chamaenerion,KNApSAcK
+5,C00019064,508-02-1,Oleanolic acid,C30H48O3,456.3603454,Chamaenerion angustifolium,Chamaenerion,KNApSAcK
+6,C00029451,4547-24-4,"2alpha,3beta-Dihydroxyurs-12-en-28-oic acid",C30H48O4,472.35526002,Chamaenerion angustifolium,Chamaenerion,KNApSAcK
+7,C00035356,104987-36-2,Oenothein B,C68H48O44,1568.15184491,Chamaenerion angustifolium,Chamaenerion,KNApSAcK
+0,C00049493,1466-67-7,"N,N'-Dibenzylurea",C15H16N2O,240.12626315,Pentadiplandra brazzeana,Diplandra,KNApSAcK
+0,C00043105,861-63-2,Viperidone,C27H44O3,416.32904527,Leptocereus quadricostatus,Quadricosta,KNApSAcK
+0,C00000919,7235-40-7,beta-Carotene,C40H56,536.43820179,Pithecellobium dulce,Ellobium,KNApSAcK
+1,C00006927,51828-10-5,Isoliquiritigenin 2'-methy ether,C16H14O4,270.08920894,Pithecellobium unguis-cati,Ellobium,KNApSAcK
+2,C00019449,148356-39-2,Genistein 4'-O-alpha-L-rhamnoside,C21H20O9,416.11073224,Pithecellobium dulce,Ellobium,KNApSAcK
+3,C00029508,1745-36-4,3-O-beta-D-Glucopyranosyl-spinasterol,C35H58O6,574.42333958,Pithecellobium dulce,Ellobium,KNApSAcK
+4,C00039497,88489-97-8,Julibroside J29,C88H141NO43,1899.88773226,Pithecellobium lucidum,Ellobium,KNApSAcK
+5,C00040026,1001598-52-2,Pithelucoside A,C86H138O42,1842.86626854,Pithecellobium lucidum,Ellobium,KNApSAcK
+6,C00040027,1001598-53-3,Pithelucoside B,C80H128O39,1712.80327435,Pithecellobium lucidum,Ellobium,KNApSAcK
+7,C00040028,1001598-54-4,Pithelucoside C,C80H128O39,1712.80327435,Pithecellobium lucidum,Ellobium,KNApSAcK
+8,C00040075,186428-64-8,Prosapogenin-10,C92H148O46,1988.92417735,Pithecellobium lucidum,Ellobium,KNApSAcK
+9,C00057189,189161-61-3,Pitheduloside B,C46H74O16,882.49768632,Pithecellobium dulce,Ellobium,KNApSAcK
+10,C00057190,189161-62-4,Pitheduloside C,C46H74O16,882.49768632,Pithecellobium dulce,Ellobium,KNApSAcK
+11,C00057191,189161-64-6,Pitheduloside D,C46H74O17,898.49260094,Pithecellobium dulce,Ellobium,KNApSAcK
+12,C00057192,189161-87-3,Pitheduloside F,C52H84O21,1044.55050975,Pithecellobium dulce,Ellobium,KNApSAcK
+13,C00057193,189161-92-0,Pitheduloside G,C52H84O21,1044.55050975,Pithecellobium dulce,Ellobium,KNApSAcK
+14,C00057218,200127-48-6,Pitheduloside H,C100H158O49,2142.98717153,Pithecellobium dulce,Ellobium,KNApSAcK
+15,C00057219,200127-56-6,Pitheduloside I,C100H158O50,2158.98208616,Pithecellobium dulce,Ellobium,KNApSAcK
+16,C00057220,200127-64-6,Pitheduloside J,C85H136O43,1844.8455331,Pithecellobium dulce,Ellobium,KNApSAcK
+17,C00057221,200127-83-9,Pitheduloside K,C52H84O22,1060.54542437,Pithecellobium dulce,Ellobium,KNApSAcK
+18,C00057285,248259-55-4,Pithecelloside,C56H88O20,1080.58689525,Pithecellobium dulce,Ellobium,KNApSAcK
+19,C00057550,78285-88-8,Pitheduloside E,C46H74O17,898.49260094,Pithecellobium dulce,Ellobium,KNApSAcK
+20,C00057551,78285-89-9,Pitheduloside A,C41H66O13,766.4503422,Pithecellobium dulce,Ellobium,KNApSAcK
+0,C00002207,486-89-5,(-)-Anagyrine,C15H20N2O,244.15756328,Ulex jussiaei,Jussia,KNApSAcK
+1,C00002212,732-50-3,Baptifoline,C15H20N2O2,260.1524779,Ulex jussiaei,Jussia,KNApSAcK
+2,C00002216,486-86-2,(-)-N-Methylcytisine,C12H16N2O,204.12626315,Ulex jussiaei,Jussia,KNApSAcK
+3,C00002218,485-35-8,(-)-Cytisine,C11H14N2O,190.11061308,Ulex jussiaei,Jussia,KNApSAcK
+4,C00002219,32101-29-4,"5,6-Dehydrolupanine",C15H22N2O,246.17321334,Ulex jussiaei,Jussia,KNApSAcK
+5,C00002225,550-90-3,Lupanine,C15H24N2O,248.1888634,Ulex jussiaei,Jussia,KNApSAcK
+6,C00002234,529-78-2,(-)-Rhombifoline,C15H20N2O,244.15756328,Ulex jussiaei,Jussia,KNApSAcK
+7,C00002236,90-39-1,Sparteine,C15H26N2,234.20959884,Ulex jussiaei,Jussia,KNApSAcK
+8,C00002512,32884-36-9,Cajanin,C16H12O6,300.06338812,Galactia jussiaeana,Jussia,KNApSAcK
+9,C00002526,446-72-0,Genistein,C15H10O5,270.05282343,Galactia jussiaeana,Jussia,KNApSAcK
+10,C00002546,2035-15-6,(-)-Maackiain,C16H12O5,284.06847349,Ulex jussiaei,Jussia,KNApSAcK
+11,C00002546,2035-15-6,(-)-Maackiain,C16H12O5,284.06847349,Galactia jussiaeana,Jussia,KNApSAcK
+12,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Galactia jussiaeana,Jussia,KNApSAcK
+13,C00007061,"52801-22-6,56083-03-5",Isobavachromene,C20H18O4,322.12050906,Ulex jussiaei,Jussia,KNApSAcK
+14,C00007682,24915-04-6,beta-Isosparteine,C15H26N2,234.20959884,Ulex jussiaei,Jussia,KNApSAcK
+15,C00007722,6835-75-2,(-)-Epibaptifoline,C15H20N2O2,260.1524779,Ulex jussiaei,Jussia,KNApSAcK
+16,C00007735,53007-06-0,(-)-N-Formylcytisine,C12H14N2O2,218.10552771,Ulex jussiaei,Jussia,KNApSAcK
+17,C00007736,6018-52-6,N-Acetylcytisine,C13H16N2O2,232.12117777,Ulex jussiaei,Jussia,KNApSAcK
+18,C00009623,2694-69-1,4-Methoxymaackiain,C17H14O6,314.07903818,Ulex jussiaei,Jussia,KNApSAcK
+19,C00009873,121747-89-5,Isoderrone,C20H16O5,336.09977362,Ulex jussiaei,Jussia,KNApSAcK
+20,C00019080,76754-30-8,Ulexin B,C25H22O5,402.14672381,Ulex jussiaei,Jussia,KNApSAcK
+21,C00019257,130289-29-1,(-)-2-Methoxymaackiain,C17H14O6,314.07903818,Ulex jussiaei,Jussia,KNApSAcK
+22,C00019370,306304-96-1,Ulexin A,C25H24O6,420.1572885,Ulex jussiaei,Jussia,KNApSAcK
+23,C00026280,60394-95-8,(-)-Pohakuline,C15H26N2O2,266.19942809,Ulex jussiaei,Jussia,KNApSAcK
+24,C00026293,259873-54-6,(+)-Jussiaeiine B,C16H24N2O2,276.18377802,Ulex jussiaei,Jussia,KNApSAcK
+25,C00026294,259873-55-7,(+)-Jussiaeiine C,C16H24N2O3,292.17869265,Ulex jussiaei,Jussia,KNApSAcK
+26,C00026295,259873-56-8,(+)-Jussiaeiine D,C16H24N2O3,292.17869265,Ulex jussiaei,Jussia,KNApSAcK
+27,C00035120,259873-53-5,Jussiaeiine A,C13H20N2O2,236.1524779,Ulex jussiaei,Jussia,KNApSAcK
+0,C00005140,482-39-3,Afzelin,C21H20O10,432.10564686,Heterogaura heterandra,Heterogaura,KNApSAcK
+1,C00005373,482-35-9,Hirsutrin,C21H20O12,464.09547611,Heterogaura heterandra,Heterogaura,KNApSAcK
+2,C00005729,19833-12-6,Isomyricitrin,C21H20O13,480.09039073,Heterogaura heterandra,Heterogaura,KNApSAcK
+0,C00001906,130-86-9,Protopine,C20H19NO5,353.12632273,Oldenlandia biflora,Oldenlandia,KNApSAcK
+1,C00003072,14259-45-1,Asperuloside,C18H22O11,414.11621155,Oldenlandia diffusa,Oldenlandia,KNApSAcK
+2,C00003072,14259-45-1,Asperuloside,C18H22O11,414.11621155,Oldenlandia corymbosa,Oldenlandia,KNApSAcK
+3,C00003558,77-52-1,Ursolic acid,C30H48O3,456.3603454,Oldenlandia diffusa,Oldenlandia,KNApSAcK
+4,C00003674,83-48-7,beta-Stigmasterol,C29H48O,412.37051615,Oldenlandia diffusa,Oldenlandia,KNApSAcK
+5,C00005157,31512-06-8,Panasenoside,C27H30O16,610.15338491,Oldenlandia diffusa,Oldenlandia,KNApSAcK
+6,C00005413,153-18-4,Quercetin 3-rutinoside,C27H30O16,610.15338491,Oldenlandia corymbosa,Oldenlandia,KNApSAcK
+7,C00019064,508-02-1,Oleanolic acid,C30H48O3,456.3603454,Oldenlandia diffusa,Oldenlandia,KNApSAcK
+8,C00029633,7372-30-7,Acetylursolic acid,C32H50O4,498.37091008,Oldenlandia diffusa,Oldenlandia,KNApSAcK
+9,C00029749,25368-11-0,Asperulosidic acid,C18H24O12,432.12677623,Oldenlandia corymbosa,Oldenlandia,KNApSAcK
+10,C00030092,18843-01-1,Deacetyl asperuloside,C16H20O10,372.10564686,Oldenlandia corymbosa,Oldenlandia,KNApSAcK
+11,C00030094,52613-28-2,6alpha-Hydroxygeniposide,C17H24O11,404.13186161,Oldenlandia corymbosa,Oldenlandia,KNApSAcK
+12,C00050081,914955-43-4,E-6-O-p-coumaroyl scandoside methyl ester 10-O-methyl methyl ether,C27H32O13,564.18429111,Oldenlandia diffusa,Oldenlandia,KNApSAcK
+0,C00000602,27003-73-2,(+)-Lariciresinol,C20H24O6,360.1572885,Nierembergia aristata,Nierembergia,KNApSAcK
+1,C00000993,13241-31-1,Pinocembrin 7-rhamnosylglucoside,C27H32O13,564.18429111,Nierembergia hippomanica,Nierembergia,KNApSAcK
+2,C00002024,97744-98-4,Brunfelsamidine,C5H7N3,109.06399725,Nierembergia hippomanica,Nierembergia,KNApSAcK
+3,C00008139,79541-04-1,Pinocembrin 7-O-neohesperidoside 2'''-O-acetate,C29H34O14,606.1948558,Nierembergia hippomanica,Nierembergia,KNApSAcK
+4,C00008140,82206-44-8,Pinocembrin 7-O-neohesperidoside 3'''-O-acetate,C29H34O14,606.1948558,Nierembergia hippomanica,Nierembergia,KNApSAcK
+5,C00008141,80443-11-4,Pinocembrin 7-O-neohesperidoside 4'''-O-acetate,C29H34O14,606.1948558,Nierembergia hippomanica,Nierembergia,KNApSAcK
+6,C00008142,82206-45-9,Pinocembrin 7-O-neohesperidoside 6''-O-acetate,C29H34O14,606.1948558,Nierembergia hippomanica,Nierembergia,KNApSAcK
+7,C00028721,130325-43-8,Norhygrine,C17H13NO,247.09971404,Nierembergia hippomanica,Nierembergia,KNApSAcK

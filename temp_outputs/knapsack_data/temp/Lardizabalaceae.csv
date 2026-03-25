@@ -1,0 +1,401 @@
+,C_ID,CAS ID,example_compound_name,Molecular formula,Mw,Organism,knapsack_search_term,Source
+0,C00000682,2955-23-9,Olivil,C20H24O7,376.15220312,Stauntonia chinensis,Stauntonia,KNApSAcK
+1,C00001015,1617-53-4,Amentoflavone,C30H18O10,538.0899968,Selaginella stauntoniana,Stauntonia,KNApSAcK
+2,C00002374,7084-24-4,Cyanidin 3-O-glucoside,C21H21O11.Cl,484.07723923,Stauntonia hexaphylla,Stauntonia,KNApSAcK
+3,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Stauntonia obovatifoliola Hayata subsp.intermedia,Stauntonia,KNApSAcK
+4,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Stauntonia hexahylla,Stauntonia,KNApSAcK
+5,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Stauntonia hexahylla,Stauntonia,KNApSAcK
+6,C00007191,81426-17-7,(+)-8-Hydroxypinoresinol,C20H22O7,374.13655306,Stauntonia hexaphylla,Stauntonia,KNApSAcK
+7,C00019064,508-02-1,Oleanolic acid,C30H48O3,456.3603454,Stauntonia hexahylla,Stauntonia,KNApSAcK
+8,C00019220,1617-70-5,Lupenone,C30H48O,424.37051615,Stauntonia obovatifoliola Hayata subsp.intermedia,Stauntonia,KNApSAcK
+9,C00030459,465-99-6,Hederagenin,C30H48O4,472.35526002,Stauntonia hexahylla,Stauntonia,KNApSAcK
+10,C00033565,4339-72-4,3-Acetyl oleanolic acid,C32H50O4,498.37091008,Stauntonia obovatifoliola Hayata subsp.intermedia,Stauntonia,KNApSAcK
+11,C00034033,10070-48-1,"Lup-20(29)-ene-3beta,16beta-diol",C30H50O2,442.38108084,Stauntonia obovatifoliola Hayata subsp.intermedia,Stauntonia,KNApSAcK
+12,C00034197,43043-12-5,Resinone,C30H48O2,440.36543078,Stauntonia obovatifoliola Hayata subsp.intermedia,Stauntonia,KNApSAcK
+13,C00035253,4481-62-3,Betulonic acid,C30H46O3,454.34469533,Stauntonia hexahylla,Stauntonia,KNApSAcK
+14,C00035261,114906-73-9,Ciwujianoside C1,C52H82O21,1042.53485968,Stauntonia chinensis,Stauntonia,KNApSAcK
+15,C00048449,121449-76-1,Kalopanax saponin C,C65H106O31,1382.67180667,Stauntonia chinensis,Stauntonia,KNApSAcK
+16,C00048537,119742-55-1,Sieboldianoside A,C64H104O30,1352.66124199,Stauntonia chinensis,Stauntonia,KNApSAcK
+17,C00048564,1169768-86-8,Yemuoside YM26,C63H100O29,1320.63502724,Stauntonia chinensis,Stauntonia,KNApSAcK
+18,C00048565,1169768-87-9,Yemuoside YM27,C64H102O30,1350.64559192,Stauntonia chinensis,Stauntonia,KNApSAcK
+19,C00048566,1169768-88-0,Yemuoside YM28,C63H100O30,1336.62994186,Stauntonia chinensis,Stauntonia,KNApSAcK
+20,C00048567,1169768-89-1,Yemuoside YM29,C63H100O30,1336.62994186,Stauntonia chinensis,Stauntonia,KNApSAcK
+21,C00048568,1169768-90-4,Yemuoside YM30,C57H90O26,1190.57203305,Stauntonia chinensis,Stauntonia,KNApSAcK
+22,C00048569,1169768-91-5,Yemuoside YM31,C57H90O26,1190.57203305,Stauntonia chinensis,Stauntonia,KNApSAcK
+23,C00048570,1169768-92-6,Yemuoside YM32,C64H104O30,1352.66124199,Stauntonia chinensis,Stauntonia,KNApSAcK
+24,C00048571,1169768-93-7,Yemuoside YM33,C64H104O30,1352.66124199,Stauntonia chinensis,Stauntonia,KNApSAcK
+25,C00048572,1169768-95-9,Yemuoside YM34,C65H106O31,1382.67180667,Stauntonia chinensis,Stauntonia,KNApSAcK
+26,C00048573,1169768-96-0,Yemuoside YM35,C58H94O26,1206.60333318,Stauntonia chinensis,Stauntonia,KNApSAcK
+27,C00049308,202526-01-0,Staunoside F,C27H32O16,612.16903498,Stauntonia hexahylla,Stauntonia,KNApSAcK
+28,C00051540,4871-87-8,Mesembryanthemoidigenic acid,C30H48O4,472.35526002,Stauntonia hexaphylla,Stauntonia,KNApSAcK
+29,C00051645,5600-25-9,Mubenin A,C53H86O21,1058.56615981,Stauntonia hexaphylla,Stauntonia,KNApSAcK
+30,C00051646,6060-41-9,Mubenin C,C53H86O22,1074.56107443,Stauntonia hexaphylla,Stauntonia,KNApSAcK
+31,C00051647,135630-75-0,Mubenoside A,C45H72O17,884.47695088,Stauntonia hexaphylla,Stauntonia,KNApSAcK
+0,C00032970,365541-51-1,Fargoside A,C40H64O13,752.43469213,Holboellia fargesii,Holboellia,KNApSAcK
+1,C00032971,365541-52-2,Fargoside B,C46H74O18,914.48751556,Holboellia fargesii,Holboellia,KNApSAcK
+2,C00032972,365541-53-3,Fargoside C,C45H68O18,896.44056537,Holboellia fargesii,Holboellia,KNApSAcK
+3,C00032973,365541-54-4,Fargoside D,C41H62O14,778.41395669,Holboellia fargesii,Holboellia,KNApSAcK
+4,C00032974,365541-55-5,Fargoside E,C42H66O14,794.44525682,Holboellia fargesii,Holboellia,KNApSAcK
+0,C00002374,7084-24-4,Cyanidin 3-O-glucoside,C21H21O11.Cl,484.07723923,Akebia trifoliata,Akebia,KNApSAcK
+1,C00003527,17184-21-3,Cauloside A,C35H56O8,604.39751876,Akebiae quinata,Akebia,KNApSAcK
+2,C00003528,27013-91-8,Sapindoside A,C41H66O12,750.45542757,Akebia quinata,Akebia,KNApSAcK
+3,C00003674,83-48-7,beta-Stigmasterol,C29H48O,412.37051615,Akebia quinata,Akebia,KNApSAcK
+4,C00019064,508-02-1,Oleanolic acid,C30H48O3,456.3603454,Akebia quinata,Akebia,KNApSAcK
+5,C00033565,4339-72-4,3-Acetyl oleanolic acid,C32H50O4,498.37091008,Akebia trifoliata,Akebia,KNApSAcK
+6,C00033565,4339-72-4,3-Acetyl oleanolic acid,C32H50O4,498.37091008,Akebia lagerocemora,Akebia,KNApSAcK
+7,C00033565,4339-72-4,3-Acetyl oleanolic acid,C32H50O4,498.37091008,Akebia quinata,Akebia,KNApSAcK
+8,C00051540,4871-87-8,Mesembryanthemoidigenic acid,C30H48O4,472.35526002,Akebia quinata,Akebia,KNApSAcK
+9,C00058766,170713-70-9,Trifoside A,C46H72O18,912.4718655,Akebia trifoliata,Akebia,KNApSAcK
+10,C00058767,170752-93-9,Trifoside B,C45H70O16,866.46638619,Akebia trifoliata,Akebia,KNApSAcK
+11,C00058768,170752-94-0,Trifoside C,C45H70O17,882.46130081,Akebia trifoliata,Akebia,KNApSAcK
+12,C00058816,157878-20-1,Yuzhizioside IV,C52H84O21,1044.55050975,Akebia trifoliata var. australis,Akebia,KNApSAcK
+0,C00032713,289649-54-3,Araliasaponin I (Aralia elata),C47H76O18,928.50316563,Aralia decaisneana,Decaisnea,KNApSAcK
+1,C00032714,289649-65-6,Araliasaponin II,C47H76O19,944.49808025,Aralia decaisneana,Decaisnea,KNApSAcK
+2,C00032715,289649-66-7,Araliasaponin III (Aralia elata),C53H86O23,1090.55598906,Aralia decaisneana,Decaisnea,KNApSAcK
+3,C00032716,289649-67-8,Araliasaponin IV,C54H88O24,1120.56655374,Aralia decaisneana,Decaisnea,KNApSAcK
+4,C00036736,340963-86-2,Araliasaponin V,C54H88O23,1104.57163912,Aralia decaisneana,Decaisnea,KNApSAcK
+5,C00036737,340982-21-0,Araliasaponin VI,C54H88O24,1120.56655374,Aralia decaisneana,Decaisnea,KNApSAcK
+6,C00036738,340982-22-1,Araliasaponin VII,C54H88O24,1120.56655374,Aralia decaisneana,Decaisnea,KNApSAcK
+7,C00036739,340982-23-2,Araliasaponin VIII,C60H98O30,1298.6142918,Aralia decaisneana,Decaisnea,KNApSAcK
+8,C00051505,164178-28-3,Araliasaponin X,C53H86O22,1074.56107443,Aralia decaisneana,Decaisnea,KNApSAcK
+9,C00054785,150107-42-9,Decaisoside B,C59H96O26,1220.61898324,Decaisnea fargesii,Decaisnea,KNApSAcK
+10,C00054786,150198-91-7,Decaisoside C,C65H106O30,1366.67689205,Decaisnea fargesii,Decaisnea,KNApSAcK
+11,C00054996,150107-43-0,Decaisoside D,C52H84O21,1044.55050975,Decaisnea fargesii,Decaisnea,KNApSAcK
+12,C00054997,150107-44-1,Decaisoside E,C58H94O26,1206.60333318,Decaisnea fargesii,Decaisnea,KNApSAcK
+13,C00055347,179605-59-5,Decaisoside A,C47H76O16,896.51333638,Decaisnea fargesii,Decaisnea,KNApSAcK
+14,C00058366,175739-40-9,Araliasaponin IX,C46H74O16,882.49768632,Aralia decaisneana,Decaisnea,KNApSAcK
+15,C00058367,175556-06-6,Araliasaponin XI,C53H86O22,1074.56107443,Aralia decaisneana,Decaisnea,KNApSAcK
+0,C00000555,518-82-1,Emodin,C15H10O5,270.05282343,Sargentodoxa cuneata,Sargentodoxa,KNApSAcK
+1,C00000723,573-44-4,Liriodendrin,C34H46O18,742.26841467,Sargentodoxa cuneata,Sargentodoxa,KNApSAcK
+2,C00002631,21453-69-0,(+)-Lirioresinol B,C22H26O8,418.16276781,Sargentodoxa cuneata,Sargentodoxa,KNApSAcK
+3,C00002632,7374-79-0,Acanthoside B,C28H36O13,580.21559124,Sargentodoxa cuneata,Sargentodoxa,KNApSAcK
+4,C00002724,327-97-9,3-O-Caffeoylquinic acid,C16H18O9,354.09508217,Sargentodoxa cuneata,Sargentodoxa,KNApSAcK
+5,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Sargentodoxa cuneata,Sargentodoxa,KNApSAcK
+6,C00007214,36469-60-0,Dihydroguaiaretic acid,C20H26O4,330.18310932,Sargentodoxa cuneata,Sargentodoxa,KNApSAcK
+7,C00019420,521-61-9,Physcion,C16H12O5,284.06847349,Sargentodoxa cuneata,Sargentodoxa,KNApSAcK
+8,C00030899,149155-70-4,Osmanthuside H,C19H28O11,432.16316174,Sargentodoxa cuneata,Sargentodoxa,KNApSAcK
+9,C00050567,871720-10-4,Cuneataside A,C14H18O8,314.10016755,Sargentodoxa cuneata,Sargentodoxa,KNApSAcK
+10,C00050568,871720-13-7,Cuneataside B,C14H18O8,314.10016755,Sargentodoxa cuneata,Sargentodoxa,KNApSAcK
+0,C00000152,7400-08-0,p-Coumaric acid,C9H8O3,164.04734412,Epimedium sagittatum,Epimedium,KNApSAcK
+1,C00000555,518-82-1,Emodin,C15H10O5,270.05282343,Epimedium koreanum,Epimedium,KNApSAcK
+2,C00000674,491-70-3,"5,7,3',4'-Tetrahydroxyflavone",C15H10O6,286.04773805,Epimedium brevicornum,Epimedium,KNApSAcK
+3,C00000674,491-70-3,"5,7,3',4'-Tetrahydroxyflavone",C15H10O6,286.04773805,Epimedium zhushanense,Epimedium,KNApSAcK
+4,C00000674,491-70-3,"5,7,3',4'-Tetrahydroxyflavone",C15H10O6,286.04773805,Epimedium dolichostemen,Epimedium,KNApSAcK
+5,C00000674,491-70-3,"5,7,3',4'-Tetrahydroxyflavone",C15H10O6,286.04773805,Epimedium fargesii,Epimedium,KNApSAcK
+6,C00000674,491-70-3,"5,7,3',4'-Tetrahydroxyflavone",C15H10O6,286.04773805,Epimedium zhenbaense,Epimedium,KNApSAcK
+7,C00000674,491-70-3,"5,7,3',4'-Tetrahydroxyflavone",C15H10O6,286.04773805,Epimedium sagittatum,Epimedium,KNApSAcK
+8,C00000674,491-70-3,"5,7,3',4'-Tetrahydroxyflavone",C15H10O6,286.04773805,Epimedium pubescens,Epimedium,KNApSAcK
+9,C00000674,491-70-3,"5,7,3',4'-Tetrahydroxyflavone",C15H10O6,286.04773805,Epimedium myrianthum,Epimedium,KNApSAcK
+10,C00000674,491-70-3,"5,7,3',4'-Tetrahydroxyflavone",C15H10O6,286.04773805,Epimedium membranaceum,Epimedium,KNApSAcK
+11,C00000674,491-70-3,"5,7,3',4'-Tetrahydroxyflavone",C15H10O6,286.04773805,Epimedium leptorrhizum,Epimedium,KNApSAcK
+12,C00000674,491-70-3,"5,7,3',4'-Tetrahydroxyflavone",C15H10O6,286.04773805,Epimedium leishanense,Epimedium,KNApSAcK
+13,C00000674,491-70-3,"5,7,3',4'-Tetrahydroxyflavone",C15H10O6,286.04773805,Epimedium franchetii,Epimedium,KNApSAcK
+14,C00000674,491-70-3,"5,7,3',4'-Tetrahydroxyflavone",C15H10O6,286.04773805,Epimedium koreanum,Epimedium,KNApSAcK
+15,C00000674,491-70-3,"5,7,3',4'-Tetrahydroxyflavone",C15H10O6,286.04773805,Epimedium acuminatum,Epimedium,KNApSAcK
+16,C00000682,2955-23-9,Olivil,C20H24O7,376.15220312,Epimedium sagittatum,Epimedium,KNApSAcK
+17,C00000682,2955-23-9,Olivil,C20H24O7,376.15220312,Epimedium grandiflorum,Epimedium,KNApSAcK
+18,C00000977,578-86-9,Liquiritigenin,C15H12O4,256.07355887,Epimedium koreanum,Epimedium,KNApSAcK
+19,C00001238,57-11-4,Octadecanoic acid,C18H36O2,284.27153039,Epimedium brevicornum,Epimedium,KNApSAcK
+20,C00001429,50-67-9,5-Hydroxytryptamine,C10H12N2O,176.09496302,Epimedium brevicornum,Epimedium,KNApSAcK
+21,C00001434,61-54-1,Tryptamine,C10H12N2,160.1000484,Epimedium brevicornum,Epimedium,KNApSAcK
+22,C00001885,2141-09-5,Magnoflorine,C20H24NO4,342.17053326,Epimedium brevicornum,Epimedium,KNApSAcK
+23,C00002631,21453-69-0,(+)-Lirioresinol B,C22H26O8,418.16276781,Epimedium koreanum,Epimedium,KNApSAcK
+24,C00002724,327-97-9,3-O-Caffeoylquinic acid,C16H18O9,354.09508217,Epimedium sagittatum,Epimedium,KNApSAcK
+25,C00002724,327-97-9,3-O-Caffeoylquinic acid,C16H18O9,354.09508217,Epimedium koreanum,Epimedium,KNApSAcK
+26,C00002892,41060-20-2,Orchinol,C16H16O3,256.10994438,Epimedium grandiflorum var. thunbergianum,Epimedium,KNApSAcK
+27,C00003817,520-36-5,Apigenin,C15H10O5,270.05282343,Epimedium leishanense,Epimedium,KNApSAcK
+28,C00003817,520-36-5,Apigenin,C15H10O5,270.05282343,Epimedium koreanum,Epimedium,KNApSAcK
+29,C00003817,520-36-5,Apigenin,C15H10O5,270.05282343,Epimedium franchetii,Epimedium,KNApSAcK
+30,C00003817,520-36-5,Apigenin,C15H10O5,270.05282343,Epimedium myrianthum,Epimedium,KNApSAcK
+31,C00003817,520-36-5,Apigenin,C15H10O5,270.05282343,Epimedium leptorrhizum,Epimedium,KNApSAcK
+32,C00003817,520-36-5,Apigenin,C15H10O5,270.05282343,Epimedium fargesii,Epimedium,KNApSAcK
+33,C00003817,520-36-5,Apigenin,C15H10O5,270.05282343,Epimedium dolichostemen,Epimedium,KNApSAcK
+34,C00003817,520-36-5,Apigenin,C15H10O5,270.05282343,Epimedium davidii,Epimedium,KNApSAcK
+35,C00003817,520-36-5,Apigenin,C15H10O5,270.05282343,Epimedium zhushanense,Epimedium,KNApSAcK
+36,C00003817,520-36-5,Apigenin,C15H10O5,270.05282343,Epimedium brevicornum,Epimedium,KNApSAcK
+37,C00003817,520-36-5,Apigenin,C15H10O5,270.05282343,Epimedium acuminatum,Epimedium,KNApSAcK
+38,C00003817,520-36-5,Apigenin,C15H10O5,270.05282343,Epimedium sagittatum,Epimedium,KNApSAcK
+39,C00003817,520-36-5,Apigenin,C15H10O5,270.05282343,Epimedium zhenbaense,Epimedium,KNApSAcK
+40,C00003817,520-36-5,Apigenin,C15H10O5,270.05282343,Epimedium wushanense,Epimedium,KNApSAcK
+41,C00003817,520-36-5,Apigenin,C15H10O5,270.05282343,Epimedium stellatum,Epimedium,KNApSAcK
+42,C00003817,520-36-5,Apigenin,C15H10O5,270.05282343,Epimedium pubescens,Epimedium,KNApSAcK
+43,C00003817,520-36-5,Apigenin,C15H10O5,270.05282343,Epimedium pauciflorum,Epimedium,KNApSAcK
+44,C00003817,520-36-5,Apigenin,C15H10O5,270.05282343,Epimedium membranaceum,Epimedium,KNApSAcK
+45,C00004040,119730-90-4,Baohuosu,C22H22O7,398.13655306,Epimedium davidii,Epimedium,KNApSAcK
+46,C00004565,520-18-3,Kaempferol,C15H10O6,286.04773805,Epimedium franchetii,Epimedium,KNApSAcK
+47,C00004565,520-18-3,Kaempferol,C15H10O6,286.04773805,Epimedium zhushanense,Epimedium,KNApSAcK
+48,C00004565,520-18-3,Kaempferol,C15H10O6,286.04773805,Epimedium zhenbaense,Epimedium,KNApSAcK
+49,C00004565,520-18-3,Kaempferol,C15H10O6,286.04773805,Epimedium wushanense,Epimedium,KNApSAcK
+50,C00004565,520-18-3,Kaempferol,C15H10O6,286.04773805,Epimedium stellatum,Epimedium,KNApSAcK
+51,C00004565,520-18-3,Kaempferol,C15H10O6,286.04773805,Epimedium sagittatum,Epimedium,KNApSAcK
+52,C00004565,520-18-3,Kaempferol,C15H10O6,286.04773805,Epimedium pubescens,Epimedium,KNApSAcK
+53,C00004565,520-18-3,Kaempferol,C15H10O6,286.04773805,Epimedium pauciflorum,Epimedium,KNApSAcK
+54,C00004565,520-18-3,Kaempferol,C15H10O6,286.04773805,Epimedium myrianthum,Epimedium,KNApSAcK
+55,C00004565,520-18-3,Kaempferol,C15H10O6,286.04773805,Epimedium membranaceum,Epimedium,KNApSAcK
+56,C00004565,520-18-3,Kaempferol,C15H10O6,286.04773805,Epimedium leptorrhizum,Epimedium,KNApSAcK
+57,C00004565,520-18-3,Kaempferol,C15H10O6,286.04773805,Epimedium leishanense,Epimedium,KNApSAcK
+58,C00004565,520-18-3,Kaempferol,C15H10O6,286.04773805,Epimedium koreanum,Epimedium,KNApSAcK
+59,C00004565,520-18-3,Kaempferol,C15H10O6,286.04773805,Epimedium acuminatum,Epimedium,KNApSAcK
+60,C00004565,520-18-3,Kaempferol,C15H10O6,286.04773805,Epimedium brevicornum,Epimedium,KNApSAcK
+61,C00004565,520-18-3,Kaempferol,C15H10O6,286.04773805,Epimedium dolichostemen,Epimedium,KNApSAcK
+62,C00004565,520-18-3,Kaempferol,C15H10O6,286.04773805,Epimedium fargesii,Epimedium,KNApSAcK
+63,C00004631,117-39-5,Quercetin,C15H10O7,302.04265268,Epimedium zhenbaense,Epimedium,KNApSAcK
+64,C00004631,117-39-5,Quercetin,C15H10O7,302.04265268,Epimedium brevicornum,Epimedium,KNApSAcK
+65,C00004631,117-39-5,Quercetin,C15H10O7,302.04265268,Epimedium acuminatum,Epimedium,KNApSAcK
+66,C00004631,117-39-5,Quercetin,C15H10O7,302.04265268,Epimedium davidii,Epimedium,KNApSAcK
+67,C00004631,117-39-5,Quercetin,C15H10O7,302.04265268,Epimedium zhushanense,Epimedium,KNApSAcK
+68,C00004631,117-39-5,Quercetin,C15H10O7,302.04265268,Epimedium stellatum,Epimedium,KNApSAcK
+69,C00004631,117-39-5,Quercetin,C15H10O7,302.04265268,Epimedium sagittatum,Epimedium,KNApSAcK
+70,C00004631,117-39-5,Quercetin,C15H10O7,302.04265268,Epimedium pubescens,Epimedium,KNApSAcK
+71,C00004631,117-39-5,Quercetin,C15H10O7,302.04265268,Epimedium pauciflorum,Epimedium,KNApSAcK
+72,C00004631,117-39-5,Quercetin,C15H10O7,302.04265268,Epimedium myrianthum,Epimedium,KNApSAcK
+73,C00004631,117-39-5,Quercetin,C15H10O7,302.04265268,Epimedium membranaceum,Epimedium,KNApSAcK
+74,C00004631,117-39-5,Quercetin,C15H10O7,302.04265268,Epimedium leptorrhizum,Epimedium,KNApSAcK
+75,C00004631,117-39-5,Quercetin,C15H10O7,302.04265268,Epimedium leishanense,Epimedium,KNApSAcK
+76,C00004631,117-39-5,Quercetin,C15H10O7,302.04265268,Epimedium koreanum,Epimedium,KNApSAcK
+77,C00004631,117-39-5,Quercetin,C15H10O7,302.04265268,Epimedium franchetii,Epimedium,KNApSAcK
+78,C00004631,117-39-5,Quercetin,C15H10O7,302.04265268,Epimedium fargesii,Epimedium,KNApSAcK
+79,C00004631,117-39-5,Quercetin,C15H10O7,302.04265268,Epimedium dolichostemen,Epimedium,KNApSAcK
+80,C00005000,28610-31-3,Noranhydroicaritin,C20H18O6,354.11033831,Epimedium koreanum,Epimedium,KNApSAcK
+81,C00005001,5240-95-9,Noricaritin hexoside,C20H20O7,372.12090299,Epimedium mecranthum,Epimedium,KNApSAcK
+82,C00005001,5240-95-9,Noricaritin hexoside,C20H20O7,372.12090299,Epimedium cremeum,Epimedium,KNApSAcK
+83,C00005118,,Icaritin,C21H22O7,386.13655306,Epimedium mecranthum,Epimedium,KNApSAcK
+84,C00005140,482-39-3,Afzelin,C21H20O10,432.10564686,Epimedium sagittatum,Epimedium,KNApSAcK
+85,C00005189,482-38-2,Kaempferitrin,C27H30O14,578.16355567,Epimedium sutchuenense,Epimedium,KNApSAcK
+86,C00005189,482-38-2,Kaempferitrin,C27H30O14,578.16355567,Epimedium acuminatum,Epimedium,KNApSAcK
+87,C00005189,482-38-2,Kaempferitrin,C27H30O14,578.16355567,Epimedium brevicornum,Epimedium,KNApSAcK
+88,C00005242,124704-85-4,Sagittatin A,C32H38O18,710.20581441,Epimedium sagittatum,Epimedium,KNApSAcK
+89,C00005372,482-36-0,Hyperin,C21H20O12,464.09547611,Epimedium koreanum,Epimedium,KNApSAcK
+90,C00005372,482-36-0,Hyperin,C21H20O12,464.09547611,Epimedium sagittatum,Epimedium,KNApSAcK
+91,C00005372,482-36-0,Hyperin,C21H20O12,464.09547611,Epimedium brevicornum,Epimedium,KNApSAcK
+92,C00005374,522-12-3,Quercetin 3-O-alpha-L-rhamnoside,C21H20O11,448.10056148,Epimedium sagittatum,Epimedium,KNApSAcK
+93,C00005805,55395-07-8,Ikarisoside A,C26H28O10,500.16824712,Epimedium wushanense,Epimedium,KNApSAcK
+94,C00005805,55395-07-8,Ikarisoside A,C26H28O10,500.16824712,Epimedium sempervirens,Epimedium,KNApSAcK
+95,C00005805,55395-07-8,Ikarisoside A,C26H28O10,500.16824712,Epimedium koreanum,Epimedium,KNApSAcK
+96,C00005806,55394-98-4,Epimedoside C,C26H28O11,516.16316174,Epimedium davidii,Epimedium,KNApSAcK
+97,C00005806,55394-98-4,Epimedoside C,C26H28O11,516.16316174,Epimedium pubescens,Epimedium,KNApSAcK
+98,C00005806,55394-98-4,Epimedoside C,C26H28O11,516.16316174,Epimedium grandiflorum,Epimedium,KNApSAcK
+99,C00005807,113558-14-8,Ikarisoside F,C31H36O14,632.21050586,Epimedium sagittatum,Epimedium,KNApSAcK
+100,C00005807,113558-14-8,Ikarisoside F,C31H36O14,632.21050586,Epimedium wushanense,Epimedium,KNApSAcK
+101,C00005807,113558-14-8,Ikarisoside F,C31H36O14,632.21050586,Epimedium pubescens,Epimedium,KNApSAcK
+102,C00005807,113558-14-8,Ikarisoside F,C31H36O14,632.21050586,Epimedium koreanum,Epimedium,KNApSAcK
+103,C00005807,113558-14-8,Ikarisoside F,C31H36O14,632.21050586,Epimedium grandiflorum,Epimedium,KNApSAcK
+104,C00005807,113558-14-8,Ikarisoside F,C31H36O14,632.21050586,Epimedium brevicornum,Epimedium,KNApSAcK
+105,C00005808,113558-10-4,Ikarisoside B,C32H38O15,662.22107055,Epimedium wanshanense,Epimedium,KNApSAcK
+106,C00005808,113558-10-4,Ikarisoside B,C32H38O15,662.22107055,Epimedium grandiflorum,Epimedium,KNApSAcK
+107,C00005808,113558-10-4,Ikarisoside B,C32H38O15,662.22107055,Epimedium acuminatum,Epimedium,KNApSAcK
+108,C00005809,135293-12-8,Noranhydroicaritin 3-rhamnosyl-(1->2)-rhamnoside,C32H38O14,646.22615592,Epimedium koreanum,Epimedium,KNApSAcK
+109,C00005811,39012-04-9,Epimedoside A,C32H38O15,662.22107055,Epimedium spp.,Epimedium,KNApSAcK
+110,C00005812,39049-18-8,Epimedoside D,C37H46O19,794.26332929,Epimedium grandiflorum,Epimedium,KNApSAcK
+111,C00005812,39049-18-8,Epimedoside D,C37H46O19,794.26332929,Epimedium diphyllum,Epimedium,KNApSAcK
+112,C00005813,39049-19-9,Epimedoside E,C37H46O19,794.26332929,Epimedium grandiflorum,Epimedium,KNApSAcK
+113,C00005813,39049-19-9,Epimedoside E,C37H46O19,794.26332929,Epimedium sagittatum,Epimedium,KNApSAcK
+114,C00005813,39049-19-9,Epimedoside E,C37H46O19,794.26332929,Epimedium wushanense,Epimedium,KNApSAcK
+115,C00005813,39049-19-9,Epimedoside E,C37H46O19,794.26332929,Epimedium diphyllum,Epimedium,KNApSAcK
+116,C00005814,113558-11-5,Ikarisoside C,C38H48O20,824.27389398,Epimedium koreanum,Epimedium,KNApSAcK
+117,C00005814,113558-11-5,Ikarisoside C,C38H48O20,824.27389398,Epimedium grandiflorum,Epimedium,KNApSAcK
+118,C00005814,113558-11-5,Ikarisoside C,C38H48O20,824.27389398,Epimedium sempervirens,Epimedium,KNApSAcK
+119,C00005814,113558-11-5,Ikarisoside C,C38H48O20,824.27389398,Epimedium diphyllum,Epimedium,KNApSAcK
+120,C00005815,118544-18-6,Diphylloside B,C38H48O19,808.27897935,Epimedium diphyllum,Epimedium,KNApSAcK
+121,C00005815,118544-18-6,Diphylloside B,C38H48O19,808.27897935,Epimedium wushanense,Epimedium,KNApSAcK
+122,C00005815,118544-18-6,Diphylloside B,C38H48O19,808.27897935,Epimedium sutchuenense,Epimedium,KNApSAcK
+123,C00005815,118544-18-6,Diphylloside B,C38H48O19,808.27897935,Epimedium sagittatum,Epimedium,KNApSAcK
+124,C00005817,125028-59-3,Diphylloside C,C44H58O25,986.32671741,Epimedium diphyllum,Epimedium,KNApSAcK
+125,C00005818,113558-15-9,Icariside II,C27H30O10,514.18389718,Epimedium wushanense,Epimedium,KNApSAcK
+126,C00005818,113558-15-9,Icariside II,C27H30O10,514.18389718,Epimedium sagittatum,Epimedium,KNApSAcK
+127,C00005818,113558-15-9,Icariside II,C27H30O10,514.18389718,Epimedium acuminatum,Epimedium,KNApSAcK
+128,C00005819,56725-99-6,Icariside I,C27H30O11,530.1788118,Epimedium sagittatum,Epimedium,KNApSAcK
+129,C00005819,56725-99-6,Icariside I,C27H30O11,530.1788118,Epimedium acuminatum,Epimedium,KNApSAcK
+130,C00005819,56725-99-6,Icariside I,C27H30O11,530.1788118,Epimedium grandiflorum,Epimedium,KNApSAcK
+131,C00005819,56725-99-6,Icariside I,C27H30O11,530.1788118,Epimedium pubescens,Epimedium,KNApSAcK
+132,C00005820,118525-36-3,Sagittatoside B,C32H38O14,646.22615592,Epimedium sagittatum,Epimedium,KNApSAcK
+133,C00005821,118525-35-2,Sagittatoside A,C33H40O15,676.23672061,Epimedium sagittatum,Epimedium,KNApSAcK
+134,C00005822,135293-13-9,Anhydroicaritin 3-rhamnosyl-(1->2)-rhamnoside,C33H40O14,660.24180599,Epimedium koreanum,Epimedium,KNApSAcK
+135,C00005824,489-32-7,Icariin,C33H40O15,676.23672061,Epimedium sagittatum,Epimedium,KNApSAcK
+136,C00005824,489-32-7,Icariin,C33H40O15,676.23672061,Epimedium spp.,Epimedium,KNApSAcK
+137,C00005825,150903-46-1,Cuhuoside,C33H40O16,692.23163523,Epimedium acuminatum,Epimedium,KNApSAcK
+138,C00005826,110623-73-9,Epimedin B,C38H48O19,808.27897935,Epimedium wushanense,Epimedium,KNApSAcK
+139,C00005826,110623-73-9,Epimedin B,C38H48O19,808.27897935,Epimedium diphyllum,Epimedium,KNApSAcK
+140,C00005826,110623-73-9,Epimedin B,C38H48O19,808.27897935,Epimedium koreanum,Epimedium,KNApSAcK
+141,C00005826,110623-73-9,Epimedin B,C38H48O19,808.27897935,Epimedium sagittatum,Epimedium,KNApSAcK
+142,C00005828,110623-72-8,Epimedin A,C39H50O20,838.28954404,Epimedium sagittatum,Epimedium,KNApSAcK
+143,C00005828,110623-72-8,Epimedin A,C39H50O20,838.28954404,Epimedium diphyllum,Epimedium,KNApSAcK
+144,C00005828,110623-72-8,Epimedin A,C39H50O20,838.28954404,Epimedium wushanense,Epimedium,KNApSAcK
+145,C00005828,110623-72-8,Epimedin A,C39H50O20,838.28954404,Epimedium koreanum,Epimedium,KNApSAcK
+146,C00005829,140147-77-9,Hexandraside F,C39H50O20,838.28954404,Epimedium sagittatum,Epimedium,KNApSAcK
+147,C00005830,110642-44-9,Epimedin C,C39H50O19,822.29462942,Epimedium koreanum,Epimedium,KNApSAcK
+148,C00005830,110642-44-9,Epimedin C,C39H50O19,822.29462942,Epimedium sutchuenense,Epimedium,KNApSAcK
+149,C00005830,110642-44-9,Epimedin C,C39H50O19,822.29462942,Epimedium sagittatum,Epimedium,KNApSAcK
+150,C00005830,110642-44-9,Epimedin C,C39H50O19,822.29462942,Epimedium diphyllum,Epimedium,KNApSAcK
+151,C00005832,142735-71-5,Acuminatoside,C45H60O24,984.34745285,Epimedium acuminatum,Epimedium,KNApSAcK
+152,C00005833,108195-76-2,Icaritin 3-rhamnoside,C27H32O11,532.19446187,Epimedium sagittatum,Epimedium,KNApSAcK
+153,C00005835,164178-23-8,8-Prenylquercetin 4'-methyl ether 3-rhamnoside,C27H30O11,530.1788118,Epimedium koreanum,Epimedium,KNApSAcK
+154,C00005836,113558-13-7,Ikarisoside E,C26H26O10,498.15259705,Epimedium sempervirens,Epimedium,KNApSAcK
+155,C00005836,113558-13-7,Ikarisoside E,C26H26O10,498.15259705,Epimedium grandiflorum,Epimedium,KNApSAcK
+156,C00005837,143601-07-4,"6'',6''-Dimethylpyraono[2'',3'':7,8]kaempferol 4'-methyl ether 3-rhamnoside",C27H28O10,512.16824712,Epimedium acuminatum,Epimedium,KNApSAcK
+157,C00005896,138079-60-4,Sutchuenoside A,C29H32O15,620.17412036,Epimedium sutchuenense,Epimedium,KNApSAcK
+158,C00005921,124723-15-5,Sagittain B,C34H40O19,752.2163791,Epimedium sagittatum,Epimedium,KNApSAcK
+159,C00006053,113558-12-6,Ikarisoside D,C28H30O11,542.1788118,Epimedium grandiflorum,Epimedium,KNApSAcK
+160,C00006054,118525-37-4,Sagittatoside C,C35H42O16,718.2472853,Epimedium sagittatum,Epimedium,KNApSAcK
+161,C00006055,130756-12-6,Epimedokoreanoside II,C35H42O16,718.2472853,Epimedium koreanum,Epimedium,KNApSAcK
+162,C00006056,106441-31-0,Epimedoside,C37H44O17,760.25784998,Epimedium koreanum,Epimedium,KNApSAcK
+163,C00006057,131984-67-3,Sempervirenoside B,C40H50O20,850.28954404,Epimedium sempervirens,Epimedium,KNApSAcK
+164,C00006058,124862-71-1,Sempervirenoside A,C42H52O21,892.30010873,Epimedium sempervirens,Epimedium,KNApSAcK
+165,C00006060,130756-11-5,Epimedokoreanoside I,C43H54O22,922.31067341,Epimedium koreanum,Epimedium,KNApSAcK
+166,C00006494,548-19-6,Isoginkgetin,C32H22O10,566.12129692,Epimedium koreanum,Epimedium,KNApSAcK
+167,C00006805,,Cyanidin 3-(6''-p-coumarylsophoroside),C36H37O18,757.19798938,Epimedium grandiflorum,Epimedium,KNApSAcK
+168,C00007247,463-40-1,alpha-Linolenic acid,C18H30O2,278.2245802,Epimedium brevicornum,Epimedium,KNApSAcK
+169,C00011406,108906-50-9,Icariside C1,C21H38O8,418.25666819,Epimedium grandiflorum,Epimedium,KNApSAcK
+170,C00011407,108906-49-6,Icariside C2,C21H38O8,418.25666819,Epimedium grandiflorum,Epimedium,KNApSAcK
+171,C00011408,108906-48-5,Icariside C3,C21H38O8,418.25666819,Epimedium grandiflorum,Epimedium,KNApSAcK
+172,C00011409,109009-54-3,Icariside C4,C21H38O8,418.25666819,Epimedium grandiflorum,Epimedium,KNApSAcK
+173,C00013329,520-32-1,Tricin,C17H14O7,330.0739528,Epimedium acuminatum,Epimedium,KNApSAcK
+174,C00013329,520-32-1,Tricin,C17H14O7,330.0739528,Epimedium brevicornum,Epimedium,KNApSAcK
+175,C00013329,520-32-1,Tricin,C17H14O7,330.0739528,Epimedium koreanum,Epimedium,KNApSAcK
+176,C00013407,174286-25-0,Yinyanghuo D,C20H18O5,338.11542369,Epimedium saggitatum,Epimedium,KNApSAcK
+177,C00013407,174286-25-0,Yinyanghuo D,C20H18O5,338.11542369,Epimedium brevicornum,Epimedium,KNApSAcK
+178,C00013407,174286-25-0,Yinyanghuo D,C20H18O5,338.11542369,Epimedium sagittatum,Epimedium,KNApSAcK
+179,C00013409,174286-24-9,Yinyanghuo B,C25H26O6,422.17293856,Epimedium brevicornum,Epimedium,KNApSAcK
+180,C00013409,174286-24-9,Yinyanghuo B,C25H26O6,422.17293856,Epimedium sagittatum,Epimedium,KNApSAcK
+181,C00013409,174286-24-9,Yinyanghuo B,C25H26O6,422.17293856,Epimedium saggitatum,Epimedium,KNApSAcK
+182,C00013420,161068-53-7,Epimedokoreanin B,C25H26O6,422.17293856,Epimedium koreanum,Epimedium,KNApSAcK
+183,C00013431,149182-47-8,Yinyanghuo C,C20H16O5,336.09977362,Epimedium sagittatum,Epimedium,KNApSAcK
+184,C00013431,149182-47-8,Yinyanghuo C,C20H16O5,336.09977362,Epimedium saggitatum,Epimedium,KNApSAcK
+185,C00013431,149182-47-8,Yinyanghuo C,C20H16O5,336.09977362,Epimedium brevicornum,Epimedium,KNApSAcK
+186,C00013436,174286-26-1,Yinyanghuo E,C20H16O6,352.09468824,Epimedium saggitatum,Epimedium,KNApSAcK
+187,C00013436,174286-26-1,Yinyanghuo E,C20H16O6,352.09468824,Epimedium sagittatum,Epimedium,KNApSAcK
+188,C00013436,174286-26-1,Yinyanghuo E,C20H16O6,352.09468824,Epimedium brevicornum,Epimedium,KNApSAcK
+189,C00013451,157998-97-5,Epimedokoreanin A,C25H24O8,452.14711774,Epimedium koreanum,Epimedium,KNApSAcK
+190,C00013456,174391-72-1,Yinyanghuo A,C25H24O6,420.1572885,Epimedium saggitatum,Epimedium,KNApSAcK
+191,C00013456,174391-72-1,Yinyanghuo A,C25H24O6,420.1572885,Epimedium sagittatum,Epimedium,KNApSAcK
+192,C00013456,174391-72-1,Yinyanghuo A,C25H24O6,420.1572885,Epimedium brevicornum,Epimedium,KNApSAcK
+193,C00013519,173792-49-9,Brevicornin,C22H24O7,400.15220312,Epimedium brevicornum,Epimedium,KNApSAcK
+194,C00013739,221455-13-6,Kaempferol 3-O-alpha-L-rhamnopyranosyl-(1->2)-alpha-L-rhamnopyranoside,C27H30O14,578.16355567,Epimedium sagittatum,Epimedium,KNApSAcK
+195,C00014004,174286-13-6,Epimedin K,C45H56O23,964.3212381,Epimedium koreanum,Epimedium,KNApSAcK
+196,C00014005,159650-19-8,Caohuoside B,C45H56O23,964.3212381,Epimedium koreanum,Epimedium,KNApSAcK
+197,C00014006,181939-44-6,Wanepimedoside A,C33H42O15,678.25237067,Epimedium wushanense,Epimedium,KNApSAcK
+198,C00014006,181939-44-6,Wanepimedoside A,C33H42O15,678.25237067,Epimedium wanshanense,Epimedium,KNApSAcK
+199,C00014007,161504-79-6,Caohuoside D,C28H34O12,562.20502655,Epimedium koreanum,Epimedium,KNApSAcK
+200,C00015207,138195-36-5,Icariside A5,C23H28O10,464.16824712,Epimedium grandiflorum var. thunbergianum,Epimedium,KNApSAcK
+201,C00015327,138195-37-6,"3',5-Dihydroxy-3,4,4'-trimethoxybibenzyl-5-O-glucoside",C23H30O10,466.18389718,Epimedium grandiflorum var. thunbergianum,Epimedium,KNApSAcK
+202,C00015537,117596-82-4,"3,4,5-Trimethoxy-3',4'-dithoxybibenzyl 3'-O-glucoside",C22H28O10,452.16824712,Epimedium grandiflorum var. thunbergianum,Epimedium,KNApSAcK
+203,C00015541,117596-81-3,"4,7-Dihydroxy-2,3,6-trimethoxy-9.10-dihydrophenanthrene 4-O-glucoside",C23H28O10,464.16824712,Epimedium grandiflorum var. thunbergianum,Epimedium,KNApSAcK
+204,C00015684,108906-52-1,"7-Hydroxy-2,3,4,6-tetramethoxy-9.10-dihydrophenanthrene 7-O-glucoside",C24H30O10,478.18389718,Epimedium grandiflorum var. thunbergianum,Epimedium,KNApSAcK
+205,C00015684,108906-52-1,"7-Hydroxy-2,3,4,6-tetramethoxy-9.10-dihydrophenanthrene 7-O-glucoside",C24H30O10,478.18389718,Epimedium sagittatum,Epimedium,KNApSAcK
+206,C00015789,117613-74-8,Icariside E3,C26H36O11,524.22576199,Epimedium grandiflorum var. thunbergianum,Epimedium,KNApSAcK
+207,C00029468,18997-54-1,2-Phenylethyl beta-D-glucopyranoside,C14H20O6,284.12598837,Epimedium sagittatum,Epimedium,KNApSAcK
+208,C00030506,108906-51-0,Icariside B2,C19H30O8,386.19406794,Epimedium sagittatum,Epimedium,KNApSAcK
+209,C00030506,108906-51-0,Icariside B2,C19H30O8,386.19406794,Epimedium grandiflorum var. grandiflorum,Epimedium,KNApSAcK
+210,C00031878,135743-09-8,Icariside H1,C18H26O9,386.15768243,Epimedium sagittatum,Epimedium,KNApSAcK
+211,C00033821,165198-96-9,Epimedoicarisoside A,C24H30O10,478.18389718,Epimedium koreanum,Epimedium,KNApSAcK
+212,C00034728,60303-28-8,Selgin,C16H12O7,316.05830274,Epimedium sagittatum,Epimedium,KNApSAcK
+213,C00035657,126253-42-7,Icariside E4,C26H34O10,506.21519731,Epimedium diphyllum,Epimedium,KNApSAcK
+214,C00050805,135743-06-5,Icariol A1,C21H26O8,406.16276781,Epimedium sagittatum,Epimedium,KNApSAcK
+215,C00050806,205445-06-3,Icariside A7,C23H28O10,464.16824712,Epimedium koreanum,Epimedium,KNApSAcK
+216,C00050807,117596-83-5,Icariside B6,C19H32O7,372.21480338,Epimedium sagittatum,Epimedium,KNApSAcK
+217,C00050808,135743-08-7,Icariside D3,C15H20O7,312.12090299,Epimedium sagittatum,Epimedium,KNApSAcK
+218,C00050809,135774-83-3,Icariside E6,C27H38O12,554.23632668,Epimedium sagittatum,Epimedium,KNApSAcK
+219,C00050810,135743-07-6,Icariside E7,C29H38O13,594.2312413,Epimedium sagittatum,Epimedium,KNApSAcK
+220,C00051158,205445-00-7,Korepimedoside C,C41H52O21,880.30010873,Epimedium koreanum,Epimedium,KNApSAcK
+221,C00051985,608-07-1,5-Methoxytryptamine,C11H14N2O,190.11061308,Epimedium brevicornum,Epimedium,KNApSAcK
+222,C00052006,73-31-4,Melatonin,C13H16N2O2,232.12117777,Epimedium brevicornum,Epimedium,KNApSAcK
+223,C00058400,178803-77-5,Chaohuoside A,C45H56O23,964.3212381,Epimedium koreanum,Epimedium,KNApSAcK
+0,C00011739,112078-76-9,(-)-Bisparthenolidine,C30H43NO6,513.30903811,Michelia rajaniana,Rajania,KNApSAcK
+1,C00011875,114076-68-5,(+)-Paramicholide,C17H24O6,324.1572885,Michelia rajaniana,Rajania,KNApSAcK
+2,C00012223,119766-96-0,(+)-N-Acetylparthenolidine,C17H25NO4,307.17835829,Michelia rajaniana,Rajania,KNApSAcK
+0,C00000091,1637-39-4,trans-Zeatin,C10H13N5O,219.11201007,Dolichos lablab,Dolichos,KNApSAcK
+1,C00000095,15896-46-5,9-Ribosyl-cis-zeatin,C15H21N5O5,351.15426882,Dolichos lablab,Dolichos,KNApSAcK
+2,C00000096,6025-53-2,9-Ribosyl-trans-zeatin,C15H21N5O5,351.15426882,Dolichos lablab,Dolichos,KNApSAcK
+3,C00000100,87-51-4,Indole-3-acetic acid,C10H9NO2,175.06332854,Dolichos lablab,Dolichos,KNApSAcK
+4,C00000101,1912-33-0,Methyl indole-3-acetate,C11H11NO2,189.0789786,Dolichos lablab,Dolichos,KNApSAcK
+5,C00000176,72962-43-7,Brassinolide,C28H48O6,480.34508927,Dolichos lablab,Dolichos,KNApSAcK
+6,C00000177,85228-11-1,Dolicholide,C28H46O6,478.3294392,Dolichos lablab,Dolichos,KNApSAcK
+7,C00000178,86630-40-2,28-Homodolicholide,C29H48O6,492.34508927,Dolichos lablab,Dolichos,KNApSAcK
+8,C00000181,80736-41-0,Castasterone,C28H48O5,464.35017464,Dolichos lablab,Dolichos,KNApSAcK
+9,C00000185,87734-68-7,Typhasterol,C28H48O4,448.35526002,Dolichos lablab L.,Dolichos,KNApSAcK
+10,C00000192,85797-15-5,Dolichosterone,C28H46O5,462.33452458,Dolichos lablab,Dolichos,KNApSAcK
+11,C00000193,85797-14-4,28-Homodolichosterone,C29H48O5,476.35017464,Dolichos lablab,Dolichos,KNApSAcK
+12,C00000199,87833-54-3,6-Deoxocastasterone,C28H50O4,450.37091008,Dolichos lablab,Dolichos,KNApSAcK
+13,C00000201,87833-55-4,6-Deoxodolichosterone,C28H48O4,448.35526002,Dolichos lablab,Dolichos,KNApSAcK
+14,C00000218,6894-38-8,(-)-Jasmonic acid,C12H18O3,210.12559444,Dolichos lablab,Dolichos,KNApSAcK
+15,C00000674,491-70-3,"5,7,3',4'-Tetrahydroxyflavone",C15H10O6,286.04773805,Epimedium dolichostemen,Dolichos,KNApSAcK
+16,C00002514,479-13-0,Coumestrol,C15H8O5,268.03717337,Dolichos biflorus,Dolichos,KNApSAcK
+17,C00002520,30368-42-4,Dalbergioidin,C15H12O6,288.06338812,Dolichos biflorus,Dolichos,KNApSAcK
+18,C00002541,40105-60-0,Kievitone,C20H20O6,356.12598837,Dolichos biflorus,Dolichos,KNApSAcK
+19,C00002558,37831-70-2,Phaseollidin,C20H20O4,324.13615913,Dolichos biflorus,Dolichos,KNApSAcK
+20,C00002566,18642-23-4,Psoralidin,C20H16O5,336.09977362,Dolichos bifloru,Dolichos,KNApSAcK
+21,C00002566,18642-23-4,Psoralidin,C20H16O5,336.09977362,Dolichos biflorus,Dolichos,KNApSAcK
+22,C00003674,83-48-7,beta-Stigmasterol,C29H48O,412.37051615,Dolichos lablab,Dolichos,KNApSAcK
+23,C00003817,520-36-5,Apigenin,C15H10O5,270.05282343,Epimedium dolichostemen,Dolichos,KNApSAcK
+24,C00004565,520-18-3,Kaempferol,C15H10O6,286.04773805,Epimedium dolichostemen,Dolichos,KNApSAcK
+25,C00004631,117-39-5,Quercetin,C15H10O7,302.04265268,Epimedium dolichostemen,Dolichos,KNApSAcK
+26,C00009453,1156-78-1,2'-Hydroxygenistein,C15H10O6,286.04773805,Dolichos biflorus,Dolichos,KNApSAcK
+27,C00009554,76656-75-2,Isoferreirin,C16H14O6,302.07903818,Dolichos biflorus,Dolichos,KNApSAcK
+28,C00009647,78919-15-0,Dolichin A,C20H20O5,340.13107375,Dolichos biflorus,Dolichos,KNApSAcK
+29,C00009648,78859-49-1,Dolichin B,C20H20O5,340.13107375,Dolichos biflorus,Dolichos,KNApSAcK
+30,C00010019,115610-55-4,Sphenostylin B,C21H22O6,370.14163844,Dolichos marginata,Dolichos,KNApSAcK
+31,C00010020,115610-53-2,Sphenostylin A,C23H26O6,398.17293856,Dolichos marginata,Dolichos,KNApSAcK
+32,C00010021,115610-57-6,Sphenostylin C,C21H24O7,388.15220312,Dolichos marginata,Dolichos,KNApSAcK
+33,C00010022,115610-60-1,Sphenostylin D,C22H26O7,402.16785319,Dolichos marginata,Dolichos,KNApSAcK
+34,C00010153,87611-94-7,"5-Hydroxy-7,3',4'-trimethoxy-8-methylisoflavone 5-O-neohesperidoside",C31H38O15,650.22107055,Dolichos biflorus,Dolichos,KNApSAcK
+35,C00034377,102056-04-2,"2',4',5,7-Tetrahydroxyisoflavanone",C15H12O6,288.06338812,Dolichos biflorus,Dolichos,KNApSAcK
+36,C00041608,21104-46-1,Isoelaeocarpiline,C16H21NO2,259.15722892,Elaeocarpus dolichostylus,Dolichos,KNApSAcK
+0,C00002526,446-72-0,Genistein,C15H10O5,270.05282343,Slackia isoflavoniconvertens,Slackia,KNApSAcK
+1,C00052508,21554-71-2,(S)-Dihydrogenistein,C15H12O5,272.06847349,Slackia isoflavoniconvertens,Slackia,KNApSAcK
+0,C00000301,108-28-1,Protoanemonin,C5H4O2,96.02112937,Clematis vitalba,Clematis,KNApSAcK
+1,C00000301,108-28-1,Protoanemonin,C5H4O2,96.02112937,Clematis alpina,Clematis,KNApSAcK
+2,C00000301,108-28-1,Protoanemonin,C5H4O2,96.02112937,Clematis flammula,Clematis,KNApSAcK
+3,C00000301,108-28-1,Protoanemonin,C5H4O2,96.02112937,Clematis recta,Clematis,KNApSAcK
+4,C00000602,27003-73-2,(+)-Lariciresinol,C20H24O6,360.1572885,Clematis stans,Clematis,KNApSAcK
+5,C00001322,644-69-9,Ranunculin,C11H16O8,276.08451749,Clematis recta,Clematis,KNApSAcK
+6,C00001322,644-69-9,Ranunculin,C11H16O8,276.08451749,Clematis alpina,Clematis,KNApSAcK
+7,C00001322,644-69-9,Ranunculin,C11H16O8,276.08451749,Clematis flammula,Clematis,KNApSAcK
+8,C00001322,644-69-9,Ranunculin,C11H16O8,276.08451749,Clematis spp.,Clematis,KNApSAcK
+9,C00001322,644-69-9,Ranunculin,C11H16O8,276.08451749,Clematis vitalba,Clematis,KNApSAcK
+10,C00001408,51-61-6,Dopamine,C8H11NO2,153.0789786,Clematis parviloba,Clematis,KNApSAcK
+11,C00001435,51-67-2,Tyramine,C8H11NO,137.08406398,Clematis parviloba,Clematis,KNApSAcK
+12,C00001526,313-67-7,aristolochic acid,C17H11NO7,341.05355171,Aristolochia clematis,Clematis,KNApSAcK
+13,C00001885,2141-09-5,Magnoflorine,C20H24NO4,342.17053326,Clematis parviloba,Clematis,KNApSAcK
+14,C00001910,485-19-8,(+)-Reticuline,C19H23NO4,329.16270823,Clematis parviloba,Clematis,KNApSAcK
+15,C00002631,21453-69-0,(+)-Lirioresinol B,C22H26O8,418.16276781,Clematis chinensis,Clematis,KNApSAcK
+16,C00002776,530-59-6,Sinapic acid,C11H12O5,224.06847349,Aristolochia clematis,Clematis,KNApSAcK
+17,C00003528,27013-91-8,Sapindoside A,C41H66O12,750.45542757,Clematis tibetana KUNTZ,Clematis,KNApSAcK
+18,C00007190,487-36-5,(+)-Pinoresinol,C20H22O6,358.14163844,Clematis stans,Clematis,KNApSAcK
+19,C00014345,150172-22-8,Clematin,C28H34O15,610.18977042,Clematis armandii,Clematis,KNApSAcK
+20,C00025268,3423-07-2,(+)-N-Methylcoclaurine,C18H21NO3,299.15214354,Clematis parviloba,Clematis,KNApSAcK
+21,C00025602,436-05-5,(-)-Curine,C36H38N2O6,594.27298696,Aristolochia clematis L.,Clematis,KNApSAcK
+22,C00025655,517-56-6,(+)-Corytuberine,C19H21NO4,327.14705817,Clematis parviloba,Clematis,KNApSAcK
+23,C00025812,486-39-5,Coclaurine,C17H19NO3,285.13649348,Clematis parviloba,Clematis,KNApSAcK
+24,C00029992,172670-47-2,Clemastanin A,C25H32O11,508.19446187,Clematis stans,Clematis,KNApSAcK
+25,C00030461,36284-77-2,Hederasaponin B,C59H96O25,1204.62406862,Clematis tibetana KUNTZ,Clematis,KNApSAcK
+26,C00030461,36284-77-2,Hederasaponin B,C59H96O25,1204.62406862,Clematis chinensis,Clematis,KNApSAcK
+27,C00031849,14216-03-6,Hederasaponin C,C59H96O26,1220.61898324,Clematis tibetana KUNTZ,Clematis,KNApSAcK
+28,C00032843,344590-73-4,Clematibetoside A,C85H130O43,1838.79858291,Clematis tibetana KUNTZ,Clematis,KNApSAcK
+29,C00032844,344590-74-5,Clematibetoside B,C59H94O26,1218.60333318,Clematis tibetana KUNTZ,Clematis,KNApSAcK
+30,C00032845,344590-76-7,Clematibetoside C,C53H86O22,1074.56107443,Clematis tibetana KUNTZ,Clematis,KNApSAcK
+31,C00032912,33289-85-9,Dipsacoside B,C53H86O22,1074.56107443,Clematis tibetana KUNTZ,Clematis,KNApSAcK
+32,C00033025,96315-53-6,Huzhangoside D,C64H104O30,1352.66124199,Clematis tibetana KUNTZ,Clematis,KNApSAcK
+33,C00033025,96315-53-6,Huzhangoside D,C64H104O30,1352.66124199,Clematis chinensis,Clematis,KNApSAcK
+34,C00034613,22672-77-1,(S)-Norcoclaurine,C16H17NO3,271.12084342,Clematis parviloba,Clematis,KNApSAcK
+35,C00036084,181637-89-8,Clematichinenol,C14H12O4,244.07355887,Clematis chinensis,Clematis,KNApSAcK
+36,C00036918,80666-65-5,Clemontanoside C,C46H74O16,882.49768632,Clematis montana,Clematis,KNApSAcK
+37,C00050517,639515-41-6,3-O-alpha-L-Arabinopyranosyl hederagenin 28-O-alpha-L-rhamnopyranosyl ester,C41H66O12,750.45542757,Clematis tangutica,Clematis,KNApSAcK
+38,C00050531,508-44-1,Anemonin,C10H8O4,192.04225874,Clematis chinensis,Clematis,KNApSAcK
+39,C00051850,7339-87-9,4-Hydroxyphenylacetaldehyde,C8H8O2,136.0524295,Clematis parviloba,Clematis,KNApSAcK
+40,C00051851,622-54-8,4-Hydroxyphenylpyruvate,C9H7O4-,179.03443371,Clematis parviloba,Clematis,KNApSAcK
+41,C00051977,,3'-Hydroxy-7-O-methylcoclaurine,C18H21NO4,315.14705817,Clematis parviloba,Clematis,KNApSAcK
+42,C00058418,171784-07-9,Clemaine,C18H16NO2,278.11810376,Clematis purpurea,Clematis,KNApSAcK
+43,C00058419,112747-98-5,Clemastanin B,C32H44O16,684.26293536,Clematis stans,Clematis,KNApSAcK
+44,C00058420,172670-44-9,Clemastanoside A,C66H106O30,1378.67689205,Clematis stans,Clematis,KNApSAcK
+45,C00058421,172670-45-0,Clemastanoside B,C65H106O30,1366.67689205,Clematis stans,Clematis,KNApSAcK
+46,C00058422,172670-46-1,Clemastanoside C,C65H106O30,1366.67689205,Clematis stans,Clematis,KNApSAcK
+47,C00058423,172671-38-4,Clemastanoside D,C52H84O21,1044.55050975,Clematis stans,Clematis,KNApSAcK
+48,C00058424,172670-48-3,Clemastanoside E,C66H106O31,1394.67180667,Clematis stans,Clematis,KNApSAcK
+49,C00058425,172670-49-4,Clemastanoside F,C66H106O31,1394.67180667,Clematis stans,Clematis,KNApSAcK
+50,C00058426,172670-50-7,Clemastanoside G,C66H106O31,1394.67180667,Clematis stans,Clematis,KNApSAcK
+51,C00058427,165245-11-4,Clematichinenoside A,C52H84O20,1028.55559513,Clematis chinensis,Clematis,KNApSAcK
+52,C00058428,165245-12-5,Clematichinenoside B,C70H114O35,1514.71406542,Clematis chinensis,Clematis,KNApSAcK
+53,C00058429,177912-24-2,Clematichinenoside C,C70H114O34,1498.71915079,Clematis chinensis,Clematis,KNApSAcK
+54,C00058430,142937-46-0,Clemochinenoside A,C30H36O18,684.19016435,Clematis chinensis,Clematis,KNApSAcK
+55,C00058431,161161-58-6,Clemontanoside E,C48H78O18,942.51881569,Clematis montana,Clematis,KNApSAcK
+56,C00058432,154278-77-0,Clemontanoside F,C54H88O22,1088.5767245,Clematis montana,Clematis,KNApSAcK

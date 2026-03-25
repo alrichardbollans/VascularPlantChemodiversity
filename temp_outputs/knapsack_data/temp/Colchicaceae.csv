@@ -1,0 +1,506 @@
+,C_ID,CAS ID,example_compound_name,Molecular formula,Mw,Organism,knapsack_search_term,Source
+0,C00001137,34980-39-7,Laminaribiose,C12H22O11,342.11621155,Colchicum speciosum,Colchicum,KNApSAcK
+1,C00002327,64-86-8,Colchicine,C22H25NO6,399.16818754,Colchicum megaphylla,Colchicum,KNApSAcK
+2,C00002327,64-86-8,Colchicine,C22H25NO6,399.16818754,Colchicum vernum Ker-Gawl,Colchicum,KNApSAcK
+3,C00002327,64-86-8,Colchicine,C22H25NO6,399.16818754,Colchicum ritchii R. Br.,Colchicum,KNApSAcK
+4,C00002327,64-86-8,Colchicine,C22H25NO6,399.16818754,Colchicum speciosum,Colchicum,KNApSAcK
+5,C00002327,64-86-8,Colchicine,C22H25NO6,399.16818754,Colchicum tunicatum,Colchicum,KNApSAcK
+6,C00002327,64-86-8,Colchicine,C22H25NO6,399.16818754,Colchicum turicum,Colchicum,KNApSAcK
+7,C00002327,64-86-8,Colchicine,C22H25NO6,399.16818754,Colchicum variegatum L.,Colchicum,KNApSAcK
+8,C00002327,64-86-8,Colchicine,C22H25NO6,399.16818754,Colchicum autmnale,Colchicum,KNApSAcK
+9,C00002327,64-86-8,Colchicine,C22H25NO6,399.16818754,Colchicum alpinum Lam et DC,Colchicum,KNApSAcK
+10,C00002327,64-86-8,Colchicine,C22H25NO6,399.16818754,Colchicum aggripinum Bak.,Colchicum,KNApSAcK
+11,C00002327,64-86-8,Colchicine,C22H25NO6,399.16818754,Colchicum autumnale,Colchicum,KNApSAcK
+12,C00002327,64-86-8,Colchicine,C22H25NO6,399.16818754,Colchicum bornmuelleri Freyn,Colchicum,KNApSAcK
+13,C00002327,64-86-8,Colchicine,C22H25NO6,399.16818754,Colchicum brachyphyllum,Colchicum,KNApSAcK
+14,C00002327,64-86-8,Colchicine,C22H25NO6,399.16818754,Colchicum cilicicum Hayek,Colchicum,KNApSAcK
+15,C00002327,64-86-8,Colchicine,C22H25NO6,399.16818754,Colchicum cornigerum,Colchicum,KNApSAcK
+16,C00002327,64-86-8,Colchicine,C22H25NO6,399.16818754,Colchicum crociflium Schott et Kotschy,Colchicum,KNApSAcK
+17,C00002327,64-86-8,Colchicine,C22H25NO6,399.16818754,Colchicum doerfleri,Colchicum,KNApSAcK
+18,C00002327,64-86-8,Colchicine,C22H25NO6,399.16818754,Colchicum hierosolymitanum,Colchicum,KNApSAcK
+19,C00002327,64-86-8,Colchicine,C22H25NO6,399.16818754,Colchicum kesselringii,Colchicum,KNApSAcK
+20,C00002327,64-86-8,Colchicine,C22H25NO6,399.16818754,Colchicum lactum Stev.,Colchicum,KNApSAcK
+21,C00002327,64-86-8,Colchicine,C22H25NO6,399.16818754,Colchicum lusitanicum Brot.,Colchicum,KNApSAcK
+22,C00002327,64-86-8,Colchicine,C22H25NO6,399.16818754,Colchicum luteum Baker.,Colchicum,KNApSAcK
+23,C00002327,64-86-8,Colchicine,C22H25NO6,399.16818754,Colchicum macedonicum Kos,Colchicum,KNApSAcK
+24,C00002327,64-86-8,Colchicine,C22H25NO6,399.16818754,Colchicum montanum L.,Colchicum,KNApSAcK
+25,C00002669,303-38-8,Pyrocatechuic acid,C7H6O4,154.02660868,Colchicum decaisnei,Colchicum,KNApSAcK
+26,C00003776,127-40-2,Lutein,C40H56O2,568.42803103,Colchicum luteum Baker.,Colchicum,KNApSAcK
+27,C00004153,,Apigenin 7-xylosyl-(1->2)-glucoside,C26H28O14,564.14790561,Colchicum speciosum,Colchicum,KNApSAcK
+28,C00004285,29276-58-2,Luteolin 7-laminaribioside,C27H30O16,610.15338491,Colchicum speciosum,Colchicum,KNApSAcK
+29,C00006674,47888-56-2,Cyanidin 3-sophoroside-5-glucoside,C33H41O21,773.21403338,Colchicum autumnale,Colchicum,KNApSAcK
+30,C00027118,126223-60-7,Androbiphenyline,C21H25NO6,387.16818754,Colchicum brachyphyllum,Colchicum,KNApSAcK
+31,C00027118,126223-60-7,Androbiphenyline,C21H25NO6,387.16818754,Colchicum ritchii,Colchicum,KNApSAcK
+32,C00027135,6877-25-4,Cornigerine,C21H21NO6,383.13688741,Colchicum brachyphyllum,Colchicum,KNApSAcK
+33,C00027135,6877-25-4,Cornigerine,C21H21NO6,383.13688741,Colchicum turicum,Colchicum,KNApSAcK
+34,C00027135,6877-25-4,Cornigerine,C21H21NO6,383.13688741,Colchicum speciosum,Colchicum,KNApSAcK
+35,C00027135,6877-25-4,Cornigerine,C21H21NO6,383.13688741,Colchicum cornigerum,Colchicum,KNApSAcK
+36,C00027138,477-30-5,Colchamine,C21H25NO5,371.17327292,Colchicum megaphylla,Colchicum,KNApSAcK
+37,C00027138,477-30-5,Colchamine,C21H25NO5,371.17327292,Colchicum hierosolymitanum,Colchicum,KNApSAcK
+38,C00027138,477-30-5,Colchamine,C21H25NO5,371.17327292,Colchicum brachyphyllum,Colchicum,KNApSAcK
+39,C00027138,477-30-5,Colchamine,C21H25NO5,371.17327292,Colchicum autumnale L.,Colchicum,KNApSAcK
+40,C00027138,477-30-5,Colchamine,C21H25NO5,371.17327292,Colchicum autmnale,Colchicum,KNApSAcK
+41,C00027138,477-30-5,Colchamine,C21H25NO5,371.17327292,Colchicum turicum,Colchicum,KNApSAcK
+42,C00027138,477-30-5,Colchamine,C21H25NO5,371.17327292,Colchicum tunicatum,Colchicum,KNApSAcK
+43,C00027138,477-30-5,Colchamine,C21H25NO5,371.17327292,Colchicum speciosum Stev.,Colchicum,KNApSAcK
+44,C00027139,847849-48-3,Demecolcinone,C19H19NO5,341.12632272,Colchicum brachyphyllum,Colchicum,KNApSAcK
+45,C00027525,26194-50-3,beta-Lumicornigerine,C21H21NO6,383.13688741,Colchicum ritchii,Colchicum,KNApSAcK
+46,C00027525,26194-50-3,beta-Lumicornigerine,C21H21NO6,383.13688741,Colchicum cornigerum,Colchicum,KNApSAcK
+47,C00027724,7336-36-9,2-Demethylcolchicine,C21H23NO6,385.15253747,Colchicum megaphylla,Colchicum,KNApSAcK
+48,C00027724,7336-36-9,2-Demethylcolchicine,C21H23NO6,385.15253747,Colchicum luteum Baker.,Colchicum,KNApSAcK
+49,C00027724,7336-36-9,2-Demethylcolchicine,C21H23NO6,385.15253747,Colchicum kesselringii,Colchicum,KNApSAcK
+50,C00027724,7336-36-9,2-Demethylcolchicine,C21H23NO6,385.15253747,Colchicum doerfleri,Colchicum,KNApSAcK
+51,C00027724,7336-36-9,2-Demethylcolchicine,C21H23NO6,385.15253747,Colchicum autumnale L.,Colchicum,KNApSAcK
+52,C00027725,7359-91-3,2-Demethyldemecolcine,C20H23NO5,357.15762285,Colchicum turicum,Colchicum,KNApSAcK
+53,C00027741,7336-33-6,3-Demethylcolchicine,C21H23NO6,385.15253747,Colchicum cornigerum,Colchicum,KNApSAcK
+54,C00027741,7336-33-6,3-Demethylcolchicine,C21H23NO6,385.15253747,Colchicum turicum,Colchicum,KNApSAcK
+55,C00027741,7336-33-6,3-Demethylcolchicine,C21H23NO6,385.15253747,Colchicum ritchii,Colchicum,KNApSAcK
+56,C00027741,7336-33-6,3-Demethylcolchicine,C21H23NO6,385.15253747,Colchicum luteum Baker.,Colchicum,KNApSAcK
+57,C00027741,7336-33-6,3-Demethylcolchicine,C21H23NO6,385.15253747,Colchicum kesselringii,Colchicum,KNApSAcK
+58,C00027741,7336-33-6,3-Demethylcolchicine,C21H23NO6,385.15253747,Colchicum autumnale L.,Colchicum,KNApSAcK
+59,C00027742,2034-50-6,3-Demethyldemecolcine,C20H23NO5,357.15762285,Colchicum turicum,Colchicum,KNApSAcK
+60,C00027933,6901-13-9,beta-Lumicolchicine,C22H25NO6,399.16818754,Colchicum autumnale,Colchicum,KNApSAcK
+61,C00027933,6901-13-9,beta-Lumicolchicine,C22H25NO6,399.16818754,Colchicum turicum,Colchicum,KNApSAcK
+62,C00028075,1850-57-3,Colchicone,C20H20O6,356.12598837,Colchicum ritchii,Colchicum,KNApSAcK
+63,C00028076,129724-55-6,Colchiethanamine,C19H23NO3,313.16779361,Colchicum szovitsii,Colchicum,KNApSAcK
+64,C00028077,74515-40-5,Colchifoline,C22H25NO7,415.16310216,Colchicum megaphylla,Colchicum,KNApSAcK
+65,C00028077,74515-40-5,Colchifoline,C22H25NO7,415.16310216,Colchicum turicum,Colchicum,KNApSAcK
+66,C00028077,74515-40-5,Colchifoline,C22H25NO7,415.16310216,Colchicum autumnale L.,Colchicum,KNApSAcK
+67,C00028078,129724-56-7,Colchiethine,C20H25NO3,327.18344367,Colchicum szovitsii,Colchicum,KNApSAcK
+68,C00028085,129724-64-7,Cornigerone,C19H16O6,340.09468824,Colchicum ritchii,Colchicum,KNApSAcK
+69,C00028292,6901-14-0,gamma-Lumicolchicine,C22H25NO6,399.16818754,Colchicum autumnale,Colchicum,KNApSAcK
+70,C00028642,139014-55-4,N-Acetoacetyl-N-deacetylcolchicine,C24H27NO7,441.17875222,Colchicum autumnale,Colchicum,KNApSAcK
+71,C00028684,7411-12-3,N-Formyl-N-deacetylcolchicine,C21H23NO6,385.15253747,Colchicum megaphylla,Colchicum,KNApSAcK
+72,C00028684,7411-12-3,N-Formyl-N-deacetylcolchicine,C21H23NO6,385.15253747,Colchicum turicum,Colchicum,KNApSAcK
+73,C00028684,7411-12-3,N-Formyl-N-deacetylcolchicine,C21H23NO6,385.15253747,Colchicum doerfleri,Colchicum,KNApSAcK
+74,C00028953,138704-12-8,Salimine,C22H25NO7,415.16310216,Colchicum decaisnei,Colchicum,KNApSAcK
+75,C00029036,142735-47-5,Specioseine,C27H29NO6,463.19948767,Colchicum speciosum,Colchicum,KNApSAcK
+76,C00029064,641-28-1,Suhailamine,C22H25NO6,399.16818754,Colchicum decaisnei,Colchicum,KNApSAcK
+77,C00029069,56596-02-2,Szovitsamine,C22H27NO5,385.18892298,Colchicum szovitsii,Colchicum,KNApSAcK
+78,C00031014,2538-87-6,p-Coumaraldehyde,C9H8O2,148.0524295,Colchicum autmnale,Colchicum,KNApSAcK
+79,C00031014,2538-87-6,p-Coumaraldehyde,C9H8O2,148.0524295,Colchicum tunicatum,Colchicum,KNApSAcK
+80,C00031014,2538-87-6,p-Coumaraldehyde,C9H8O2,148.0524295,Colchicum hierosolymitanum,Colchicum,KNApSAcK
+81,C00032352,2730-71-4,Thiocolchicine,C22H25NO5S,415.14534365,Colchicum autumnale L.,Colchicum,KNApSAcK
+82,C00051829,23068-65-7,(S)-Autumnaline,C21H27NO5,373.18892298,Colchicum hierosolymitanum,Colchicum,KNApSAcK
+83,C00051829,23068-65-7,(S)-Autumnaline,C21H27NO5,373.18892298,Colchicum autmnale,Colchicum,KNApSAcK
+84,C00051829,23068-65-7,(S)-Autumnaline,C21H27NO5,373.18892298,Colchicum tunicatum,Colchicum,KNApSAcK
+85,C00051830,,(S)-Isoandrocymbine,C21H26NO5+,372.18109795,Colchicum tunicatum,Colchicum,KNApSAcK
+86,C00051830,,(S)-Isoandrocymbine,C21H26NO5+,372.18109795,Colchicum hierosolymitanum,Colchicum,KNApSAcK
+87,C00051830,,(S)-Isoandrocymbine,C21H26NO5+,372.18109795,Colchicum autmnale,Colchicum,KNApSAcK
+88,C00051832,3476-50-4,Deacetylcolchicine,C20H23NO5,357.15762285,Colchicum autmnale,Colchicum,KNApSAcK
+89,C00051832,3476-50-4,Deacetylcolchicine,C20H23NO5,357.15762285,Colchicum tunicatum,Colchicum,KNApSAcK
+90,C00051832,3476-50-4,Deacetylcolchicine,C20H23NO5,357.15762285,Colchicum hierosolymitanum,Colchicum,KNApSAcK
+91,C00051837,14686-61-4,N-Formyldemecolcine,C22H25NO6,399.16818754,Colchicum autmnale,Colchicum,KNApSAcK
+92,C00051837,14686-61-4,N-Formyldemecolcine,C22H25NO6,399.16818754,Colchicum tunicatum,Colchicum,KNApSAcK
+93,C00051837,14686-61-4,N-Formyldemecolcine,C22H25NO6,399.16818754,Colchicum hierosolymitanum,Colchicum,KNApSAcK
+94,C00051839,,O-Methylandrocymbine,C22H27NO5,385.18892298,Colchicum tunicatum,Colchicum,KNApSAcK
+95,C00051839,,O-Methylandrocymbine,C22H27NO5,385.18892298,Colchicum hierosolymitanum,Colchicum,KNApSAcK
+96,C00051839,,O-Methylandrocymbine,C22H27NO5,385.18892298,Colchicum autmnale,Colchicum,KNApSAcK
+97,C00055621,877-22-5,2-hydroxy-3-methoxybenzoic acid,C8H8O4,168.04225874,Colchicum decaisnei,Colchicum,KNApSAcK
+0,C00002327,64-86-8,Colchicine,C22H25NO6,399.16818754,Gloriosa virescens Lindl.,Gloriosa,KNApSAcK
+1,C00002327,64-86-8,Colchicine,C22H25NO6,399.16818754,Gloriosa superba,Gloriosa,KNApSAcK
+2,C00002327,64-86-8,Colchicine,C22H25NO6,399.16818754,Gloriosa simplex L.,Gloriosa,KNApSAcK
+3,C00002327,64-86-8,Colchicine,C22H25NO6,399.16818754,Gloriosa rothschildiana O'brien,Gloriosa,KNApSAcK
+4,C00003075,2415-24-9,Catalpol,C15H22O10,362.12129692,Buddleja gloriosa,Gloriosa,KNApSAcK
+5,C00003592,126-18-1,Smilagenin,C27H44O3,416.32904527,Yucca gloriosa,Gloriosa,KNApSAcK
+6,C00027138,477-30-5,Colchamine,C21H25NO5,371.17327292,Gloriosa superba,Gloriosa,KNApSAcK
+7,C00031014,2538-87-6,p-Coumaraldehyde,C9H8O2,148.0524295,Gloriosa superba,Gloriosa,KNApSAcK
+8,C00051829,23068-65-7,(S)-Autumnaline,C21H27NO5,373.18892298,Gloriosa superba,Gloriosa,KNApSAcK
+9,C00051830,,(S)-Isoandrocymbine,C21H26NO5+,372.18109795,Gloriosa superba,Gloriosa,KNApSAcK
+10,C00051832,3476-50-4,Deacetylcolchicine,C20H23NO5,357.15762285,Gloriosa superba,Gloriosa,KNApSAcK
+11,C00051837,14686-61-4,N-Formyldemecolcine,C22H25NO6,399.16818754,Gloriosa superba,Gloriosa,KNApSAcK
+12,C00051839,,O-Methylandrocymbine,C22H27NO5,385.18892298,Gloriosa superba,Gloriosa,KNApSAcK
+0,C00002327,64-86-8,Colchicine,C22H25NO6,399.16818754,Merendera persica Boiss et Kotschy,Merendera,KNApSAcK
+1,C00002327,64-86-8,Colchicine,C22H25NO6,399.16818754,Merendera manissadjianii,Merendera,KNApSAcK
+2,C00002327,64-86-8,Colchicine,C22H25NO6,399.16818754,Merendera kurdica,Merendera,KNApSAcK
+3,C00002327,64-86-8,Colchicine,C22H25NO6,399.16818754,Merendera bulbocodium,Merendera,KNApSAcK
+4,C00002327,64-86-8,Colchicine,C22H25NO6,399.16818754,Merendera attica Boiss et Sprun,Merendera,KNApSAcK
+5,C00002327,64-86-8,Colchicine,C22H25NO6,399.16818754,Merendera trigina Stapf,Merendera,KNApSAcK
+6,C00002327,64-86-8,Colchicine,C22H25NO6,399.16818754,Merendera sobolifera,Merendera,KNApSAcK
+7,C00002327,64-86-8,Colchicine,C22H25NO6,399.16818754,Merendera robusta Bge.,Merendera,KNApSAcK
+8,C00002327,64-86-8,Colchicine,C22H25NO6,399.16818754,Merendera raddeana,Merendera,KNApSAcK
+9,C00027135,6877-25-4,Cornigerine,C21H21NO6,383.13688741,Merendera sobolifera,Merendera,KNApSAcK
+10,C00027135,6877-25-4,Cornigerine,C21H21NO6,383.13688741,Merendera manissadjianii,Merendera,KNApSAcK
+11,C00027135,6877-25-4,Cornigerine,C21H21NO6,383.13688741,Merendera kurdica,Merendera,KNApSAcK
+12,C00027135,6877-25-4,Cornigerine,C21H21NO6,383.13688741,Merendera raddeana,Merendera,KNApSAcK
+13,C00027138,477-30-5,Colchamine,C21H25NO5,371.17327292,Merendera robusta,Merendera,KNApSAcK
+14,C00027138,477-30-5,Colchamine,C21H25NO5,371.17327292,Merendera sobolifera,Merendera,KNApSAcK
+15,C00027138,477-30-5,Colchamine,C21H25NO5,371.17327292,Merendera manissadjianii,Merendera,KNApSAcK
+16,C00027138,477-30-5,Colchamine,C21H25NO5,371.17327292,Merendera kurdica,Merendera,KNApSAcK
+17,C00027138,477-30-5,Colchamine,C21H25NO5,371.17327292,Merendera jolanta,Merendera,KNApSAcK
+18,C00027412,1354-66-1,Merenderine,C21H25NO5,371.17327292,Merendera trigyna,Merendera,KNApSAcK
+19,C00027412,1354-66-1,Merenderine,C21H25NO5,371.17327292,Merendera robusta,Merendera,KNApSAcK
+20,C00027412,1354-66-1,Merenderine,C21H25NO5,371.17327292,Merendera raddeana,Merendera,KNApSAcK
+21,C00027476,191356-25-9,Robustamine cis-N-oxide,C20H27NO5,361.18892298,Merendera robusta,Merendera,KNApSAcK
+22,C00027724,7336-36-9,2-Demethylcolchicine,C21H23NO6,385.15253747,Merendera jolanta,Merendera,KNApSAcK
+23,C00027724,7336-36-9,2-Demethylcolchicine,C21H23NO6,385.15253747,Merendera kurdica,Merendera,KNApSAcK
+24,C00027724,7336-36-9,2-Demethylcolchicine,C21H23NO6,385.15253747,Merendera manissadjianii,Merendera,KNApSAcK
+25,C00027724,7336-36-9,2-Demethylcolchicine,C21H23NO6,385.15253747,Merendera raddeana,Merendera,KNApSAcK
+26,C00027724,7336-36-9,2-Demethylcolchicine,C21H23NO6,385.15253747,Merendera robusta,Merendera,KNApSAcK
+27,C00027724,7336-36-9,2-Demethylcolchicine,C21H23NO6,385.15253747,Merendera sobolifera,Merendera,KNApSAcK
+28,C00027741,7336-33-6,3-Demethylcolchicine,C21H23NO6,385.15253747,Merendera robusta Bge.,Merendera,KNApSAcK
+29,C00027741,7336-33-6,3-Demethylcolchicine,C21H23NO6,385.15253747,Merendera kurdica,Merendera,KNApSAcK
+30,C00027741,7336-33-6,3-Demethylcolchicine,C21H23NO6,385.15253747,Merendera manissadjianii,Merendera,KNApSAcK
+31,C00027741,7336-33-6,3-Demethylcolchicine,C21H23NO6,385.15253747,Merendera sobolifera,Merendera,KNApSAcK
+32,C00027920,120947-99-1,Baytopine,C21H25NO5,371.17327292,Merendera kurdica,Merendera,KNApSAcK
+33,C00027933,6901-13-9,beta-Lumicolchicine,C22H25NO6,399.16818754,Merendera robusta Bge.,Merendera,KNApSAcK
+34,C00027933,6901-13-9,beta-Lumicolchicine,C22H25NO6,399.16818754,Merendera raddeana,Merendera,KNApSAcK
+35,C00028074,518-11-6,Colchameine,C20H23NO5,357.15762285,Merendera jolanta,Merendera,KNApSAcK
+36,C00028074,518-11-6,Colchameine,C20H23NO5,357.15762285,Merendera robusta,Merendera,KNApSAcK
+37,C00028431,23117-57-9,Kreysigine,C22H27NO5,385.18892298,Merendera raddeana,Merendera,KNApSAcK
+38,C00028432,142542-96-9,Kreysigine N-oxide,C22H27NO6,401.1838376,Merendera raddeana,Merendera,KNApSAcK
+39,C00028573,142542-98-1,Merenderine N-oxide,C21H25NO6,387.16818754,Merendera raddeana,Merendera,KNApSAcK
+40,C00028684,7411-12-3,N-Formyl-N-deacetylcolchicine,C21H23NO6,385.15253747,Merendera sobolifera,Merendera,KNApSAcK
+41,C00028684,7411-12-3,N-Formyl-N-deacetylcolchicine,C21H23NO6,385.15253747,Merendera kurdica,Merendera,KNApSAcK
+42,C00028684,7411-12-3,N-Formyl-N-deacetylcolchicine,C21H23NO6,385.15253747,Merendera manissadjianii,Merendera,KNApSAcK
+43,C00028684,7411-12-3,N-Formyl-N-deacetylcolchicine,C21H23NO6,385.15253747,Merendera raddeana,Merendera,KNApSAcK
+44,C00028766,22324-17-0,O-Methylkreysigine,C23H29NO5,399.20457304,Merendera raddeana,Merendera,KNApSAcK
+0,C00002327,64-86-8,Colchicine,C22H25NO6,399.16818754,Merendera bulbocodium,Bulbocodium,KNApSAcK
+0,C00002314,2115-98-2,Androcymbine,C21H25NO5,371.17327292,Androcymbium melanthioides,Androcymbium,KNApSAcK
+1,C00002327,64-86-8,Colchicine,C22H25NO6,399.16818754,Androcymbium melanthioides var.stricta Baker.,Androcymbium,KNApSAcK
+2,C00002327,64-86-8,Colchicine,C22H25NO6,399.16818754,Androcymbium burkei,Androcymbium,KNApSAcK
+3,C00002327,64-86-8,Colchicine,C22H25NO6,399.16818754,Androcymbium capense,Androcymbium,KNApSAcK
+4,C00002327,64-86-8,Colchicine,C22H25NO6,399.16818754,Androcymbium eucomoides,Androcymbium,KNApSAcK
+5,C00002327,64-86-8,Colchicine,C22H25NO6,399.16818754,Androcymbium gramineum McBr.,Androcymbium,KNApSAcK
+6,C00002327,64-86-8,Colchicine,C22H25NO6,399.16818754,Androcymbium longipes Bak.,Androcymbium,KNApSAcK
+7,C00027135,6877-25-4,Cornigerine,C21H21NO6,383.13688741,Androcymbium melanthioides var.stricta Baker.,Androcymbium,KNApSAcK
+8,C00027138,477-30-5,Colchamine,C21H25NO5,371.17327292,Androcymbium melanthioides var.stricta Baker.,Androcymbium,KNApSAcK
+9,C00027525,26194-50-3,beta-Lumicornigerine,C21H21NO6,383.13688741,Androcymbium melanthioides var.stricta Baker.,Androcymbium,KNApSAcK
+10,C00027632,26287-94-5,(+)-Kreysigine,C22H27NO5,385.18892298,Androcymbium palaestinum,Androcymbium,KNApSAcK
+11,C00027724,7336-36-9,2-Demethylcolchicine,C21H23NO6,385.15253747,Androcymbium eucomoides,Androcymbium,KNApSAcK
+12,C00027724,7336-36-9,2-Demethylcolchicine,C21H23NO6,385.15253747,Androcymbium melanthioides var.stricta Baker.,Androcymbium,KNApSAcK
+13,C00027724,7336-36-9,2-Demethylcolchicine,C21H23NO6,385.15253747,Androcymbium longipes Bak.,Androcymbium,KNApSAcK
+14,C00027741,7336-33-6,3-Demethylcolchicine,C21H23NO6,385.15253747,Androcymbium melanthioides var.stricta Baker.,Androcymbium,KNApSAcK
+15,C00027742,2034-50-6,3-Demethyldemecolcine,C20H23NO5,357.15762285,Androcymbium melanthioides var.stricta Baker.,Androcymbium,KNApSAcK
+16,C00027856,125326-08-1,Androbine,C21H25NO5,371.17327292,Androcymbium palaestinum,Androcymbium,KNApSAcK
+17,C00027857,125326-06-9,Androcine,C22H27NO5,385.18892298,Androcymbium palaestinum,Androcymbium,KNApSAcK
+18,C00027933,6901-13-9,beta-Lumicolchicine,C22H25NO6,399.16818754,Androcymbium capense,Androcymbium,KNApSAcK
+19,C00027933,6901-13-9,beta-Lumicolchicine,C22H25NO6,399.16818754,Androcymbium melanthioides var.stricta Baker.,Androcymbium,KNApSAcK
+20,C00028712,125326-10-5,Norandrobine,C20H23NO5,357.15762285,Androcymbium palaestinum,Androcymbium,KNApSAcK
+21,C00028766,22324-17-0,O-Methylkreysigine,C23H29NO5,399.20457304,Androcymbium palaestinum,Androcymbium,KNApSAcK
+22,C00029069,56596-02-2,Szovitsamine,C22H27NO5,385.18892298,Androcymbium palaestinum,Androcymbium,KNApSAcK
+0,C00002327,64-86-8,Colchicine,C22H25NO6,399.16818754,Dipidax triquertra Bak.,Dipidax,KNApSAcK
+1,C00027135,6877-25-4,Cornigerine,C21H21NO6,383.13688741,Dipidax triquetra,Dipidax,KNApSAcK
+0,C00002327,64-86-8,Colchicine,C22H25NO6,399.16818754,Littonia modesta Hook,Littonia,KNApSAcK
+0,C00004276,6920-38-3,"5,7,3',4'-Tetrahydroxyflavone 4'-beta-D-glucopyranoside",C21H20O11,448.10056148,Disporum cantoniense,Disporum,KNApSAcK
+0,C00002327,64-86-8,Colchicine,C22H25NO6,399.16818754,Wurmbea purpurea,Wurmbea,KNApSAcK
+1,C00002327,64-86-8,Colchicine,C22H25NO6,399.16818754,Wurmbea dioica F.Muell.,Wurmbea,KNApSAcK
+2,C00004266,5373-11-5,Cinaroside,C21H20O11,448.10056148,Wurmbea dioica F.Muell.,Wurmbea,KNApSAcK
+3,C00027724,7336-36-9,2-Demethylcolchicine,C21H23NO6,385.15253747,Wurmbea purpurea,Wurmbea,KNApSAcK
+4,C00027724,7336-36-9,2-Demethylcolchicine,C21H23NO6,385.15253747,Wurmbea dioica F.Muell.,Wurmbea,KNApSAcK
+5,C00027741,7336-33-6,3-Demethylcolchicine,C21H23NO6,385.15253747,Wurmbea capensis,Wurmbea,KNApSAcK
+6,C00027741,7336-33-6,3-Demethylcolchicine,C21H23NO6,385.15253747,Wurmbea dioica F.Muell.,Wurmbea,KNApSAcK
+7,C00027933,6901-13-9,beta-Lumicolchicine,C22H25NO6,399.16818754,Wurmbea dioica F.Muell.,Wurmbea,KNApSAcK
+8,C00028684,7411-12-3,N-Formyl-N-deacetylcolchicine,C21H23NO6,385.15253747,Wurmbea dioica F.Muell.,Wurmbea,KNApSAcK
+0,C00002327,64-86-8,Colchicine,C22H25NO6,399.16818754,Iphigenia indica A. Gray,Iphigenia,KNApSAcK
+1,C00002327,64-86-8,Colchicine,C22H25NO6,399.16818754,Iphigenia pallida Bak.,Iphigenia,KNApSAcK
+2,C00002327,64-86-8,Colchicine,C22H25NO6,399.16818754,Iphigenia stellata,Iphigenia,KNApSAcK
+3,C00027135,6877-25-4,Cornigerine,C21H21NO6,383.13688741,Iphigenia stellata,Iphigenia,KNApSAcK
+4,C00027741,7336-33-6,3-Demethylcolchicine,C21H23NO6,385.15253747,Iphigenia stellata,Iphigenia,KNApSAcK
+5,C00027933,6901-13-9,beta-Lumicolchicine,C22H25NO6,399.16818754,Iphigenia stellata,Iphigenia,KNApSAcK
+6,C00027933,6901-13-9,beta-Lumicolchicine,C22H25NO6,399.16818754,Iphigenia indica,Iphigenia,KNApSAcK
+7,C00028684,7411-12-3,N-Formyl-N-deacetylcolchicine,C21H23NO6,385.15253747,Iphigenia stellata,Iphigenia,KNApSAcK
+0,C00000206,69-72-7,Salicylic acid,C7H6O3,138.03169406,Burchardia multiflora,Burchardia,KNApSAcK
+1,C00000207,65-85-0,Benzoic acid,C7H6O2,122.03677944,Burchardia multiflora,Burchardia,KNApSAcK
+0,C00000600,34209-69-3,(-)-Trachelogenin,C21H24O7,388.15220312,Torreya jackii,Reya,KNApSAcK
+1,C00000609,7770-78-7,Arctigenin,C21H24O6,372.1572885,Torreya jackii,Reya,KNApSAcK
+2,C00000609,7770-78-7,Arctigenin,C21H24O6,372.1572885,Torreya nucifera,Reya,KNApSAcK
+3,C00001015,1617-53-4,Amentoflavone,C30H18O10,538.0899968,Torreya yunnanensis,Reya,KNApSAcK
+4,C00001015,1617-53-4,Amentoflavone,C30H18O10,538.0899968,Torreya nucifera,Reya,KNApSAcK
+5,C00001044,481-46-9,Ginkgetin,C32H22O10,566.12129692,Torreya nucifera,Reya,KNApSAcK
+6,C00001098,521-34-6,Sciadopitysin,C33H24O10,580.13694699,Torreya nucifera,Reya,KNApSAcK
+7,C00001098,521-34-6,Sciadopitysin,C33H24O10,580.13694699,Torreya yunnanensis,Reya,KNApSAcK
+8,C00001183,110-17-8,Fumaric acid,C4H4O4,116.01095862,Torreya yunnanensis,Reya,KNApSAcK
+9,C00002064,501-02-0,Pinidine,C9H17N,139.13609955,Pinus torreyana,Reya,KNApSAcK
+10,C00002609,564-73-8,Hinokiol,C20H30O2,302.2245802,Torreya nucifera var.radicans,Reya,KNApSAcK
+11,C00003426,514-62-5,(+)-Ferruginol,C20H30O,286.22966558,Torreya nucifera var.radicans,Reya,KNApSAcK
+12,C00006488,521-32-4,Bilobetin,C31H20O10,552.10564686,Torreya nucifera,Reya,KNApSAcK
+13,C00006489,2608-21-1,Sotetsuflavone,C31H20O10,552.10564686,Torreya yunnanensis,Reya,KNApSAcK
+14,C00007190,487-36-5,(+)-Pinoresinol,C20H22O6,358.14163844,Torreya jackii,Reya,KNApSAcK
+15,C00007201,28115-68-6,(-)-Pluviatolide,C20H20O6,356.12598837,Torreya jackii,Reya,KNApSAcK
+16,C00007203,61521-74-2,Wikstromol,C20H22O7,374.13655306,Torreya jackii,Reya,KNApSAcK
+17,C00011445,23262-34-2,Dendrolasin,C15H22O,218.16706532,Torreya nucifera,Reya,KNApSAcK
+18,C00011489,1786-16-9,Neotorreyol,C15H22O2,234.16197995,Torreya nucifera,Reya,KNApSAcK
+19,C00011490,6755-82-4,Torreyal,C15H20O2,232.14632988,Torreya nucifera,Reya,KNApSAcK
+20,C00011623,39599-18-3,(+-)-(E)-Nuciferol,C15H22O,218.16706532,Torreya nucifera,Reya,KNApSAcK
+21,C00011624,25532-74-5,(+)-Nuciferal,C15H20O,216.15141526,Torreya nucifera,Reya,KNApSAcK
+22,C00022520,26296-35-5,Kayadiol,C20H34O2,306.25588033,Torreya nucifera,Reya,KNApSAcK
+23,C00022717,33947-55-6,Torreferol,C20H34O2,306.25588033,Torreya nucifera,Reya,KNApSAcK
+24,C00022718,4549-12-6,13-Epitorreferol,C20H34O2,306.25588033,Torreya nucifera,Reya,KNApSAcK
+25,C00034796,875897-36-2,Arborenin,C42H68O14,796.46090688,Careya arborea,Reya,KNApSAcK
+26,C00034833,182167-44-8,Desacylescin III,C48H78O21,990.50355956,Careya arborea,Reya,KNApSAcK
+27,C00037882,98604-34-3,Taiwanin F,C20H28O4,332.19875938,Torreya nucifera var.radicans,Reya,KNApSAcK
+28,C00037890,220785-02-4,Taxusabietane A,C21H28O4,344.19875938,Torreya nucifera var.radicans,Reya,KNApSAcK
+29,C00042729,120051-54-9,Meridinol,C20H18O7,370.10525293,Torreya yunnanensis,Reya,KNApSAcK
+30,C00045113,583861-71-6,Torreyayunnin,C20H26O4,330.18310932,Torreya yunnanensis,Reya,KNApSAcK
+31,C00052444,362662-48-4,(-)-4'-Demethyltraxillagenin,C21H24O7,388.15220312,Torreya nucifera,Reya,KNApSAcK
+32,C00052464,79288-73-6,(-)-Traxillagenin,C22H26O7,402.16785319,Torreya nucifera,Reya,KNApSAcK
+0,C00001576,476-28-8,(-)-Lycorine,C16H17NO4,287.11575804,Curculigo orchioides,Curculigo,KNApSAcK
+1,C00002657,123-08-0,4-Hydroxybenzaldehyde,C7H6O2,122.03677944,Curculigo capitulata,Curculigo,KNApSAcK
+2,C00002668,99-50-3,"3,4-Dihydroxybenzoic acid",C7H6O4,154.02660868,Curculigo pilosa,Curculigo,KNApSAcK
+3,C00002674,530-57-4,Syringic acid,C9H10O5,198.05282343,Curculigo orchioides,Curculigo,KNApSAcK
+4,C00002683,5463-22-9,Vanillin,C8H8O3,152.04734412,Curculigo capitulata,Curculigo,KNApSAcK
+5,C00019308,474-58-8,3-O-beta-D-Glucopyranosyl sitosterol,C35H60O6,576.43898965,Curculigo capitulata,Curculigo,KNApSAcK
+6,C00031703,143601-09-6,Curculigoside B,C21H24O11,452.13186161,Curculigo orchioides,Curculigo,KNApSAcK
+7,C00031704,851713-74-1,Curculigoside C,C22H26O12,482.1424263,Curculigo orchioides,Curculigo,KNApSAcK
+8,C00032097,21082-33-7,Orcinol glucoside,C13H18O7,286.10525293,Curculigo orchioides,Curculigo,KNApSAcK
+9,C00032950,3943-89-3,"Ethyl 3,4-dihydroxybenzoate",C9H10O4,182.05790881,Curculigo capitulata,Curculigo,KNApSAcK
+10,C00035360,851780-20-6,Orchioside A,C22H26O11,466.14751167,Curculigo orchioides,Curculigo,KNApSAcK
+11,C00035361,851780-22-8,Orchioside B,C23H26O10,462.15259705,Curculigo orchioides,Curculigo,KNApSAcK
+12,C00036970,156161-96-5,Curculigine,C23H28O12,496.15807636,Curculigo pilosa,Curculigo,KNApSAcK
+13,C00036971,85643-19-2,Curculigoside,C22H26O11,466.14751167,Curculigo pilosa,Curculigo,KNApSAcK
+14,C00037565,111518-94-6,Nyasicoside,C23H26O11,478.14751167,Curculigo pilosa,Curculigo,KNApSAcK
+15,C00037565,111518-94-6,Nyasicoside,C23H26O11,478.14751167,Curculigo capitulata,Curculigo,KNApSAcK
+16,C00037643,329306-68-5,Piloside A,C28H36O16,628.20033511,Curculigo pilosa,Curculigo,KNApSAcK
+17,C00037644,329306-69-6,Piloside B,C28H36O17,644.19524973,Curculigo pilosa,Curculigo,KNApSAcK
+18,C00037645,229971-57-7,Pilosidine,C23H26O11,478.14751167,Curculigo pilosa,Curculigo,KNApSAcK
+19,C00040791,160582-64-9,"2,4-Dichloro-5-methoxy-3-methylphenol",C8H8Cl2O2,205.99013492,Curculigo capitulata,Curculigo,KNApSAcK
+20,C00040794,1466-76-8,"2,6-Dimethoxy-benzoic acid",C9H10O4,182.05790881,Curculigo capitulata,Curculigo,KNApSAcK
+21,C00040931,220736-54-9,Curlignan,C19H20O7,360.12090299,Curculigo capitulata,Curculigo,KNApSAcK
+22,C00049057,229497-27-2,"(1S,2R)-O-Methylnyasicoside",C24H28O11,492.16316174,Curculigo capitulata,Curculigo,KNApSAcK
+23,C00049140,229971-93-1,Curcapital,C17H10O6,310.04773805,Curculigo capitulata,Curculigo,KNApSAcK
+24,C00050697,83160-84-3,3-Methoxy-5-acetyl-31-tritriacontene,C36H70O2,534.53758148,Curculigo orchioides,Curculigo,KNApSAcK
+0,C00002327,64-86-8,Colchicine,C22H25NO6,399.16818754,Ornithoglossum glaucum,Ornithoglossum,KNApSAcK
+1,C00002327,64-86-8,Colchicine,C22H25NO6,399.16818754,Ornithoglossum viride Ait.,Ornithoglossum,KNApSAcK
+2,C00027741,7336-33-6,3-Demethylcolchicine,C21H23NO6,385.15253747,Ornithoglossum glaucum,Ornithoglossum,KNApSAcK
+3,C00028684,7411-12-3,N-Formyl-N-deacetylcolchicine,C21H23NO6,385.15253747,Ornithoglossum viride Ait.,Ornithoglossum,KNApSAcK
+0,C00001572,477-17-8,Hippeastrine,C17H17NO5,315.11067266,Sternbergia lutea,Sternbergia,KNApSAcK
+1,C00001576,476-28-8,(-)-Lycorine,C16H17NO4,287.11575804,Sternbergia lutea,Sternbergia,KNApSAcK
+2,C00005722,161833-36-9,"3,5,7,2',3',4'-Hexahydroxyflavone 3-glucoside",C21H20O13,480.09039073,Eupatorium sternbergianum,Sternbergia,KNApSAcK
+3,C00022447,120838-16-6,"ent-7,13E-Labdadiene-2beta,15-diol",C20H34O2,306.25588033,Baccharis sternbergiana,Sternbergia,KNApSAcK
+4,C00022448,120838-17-7,"ent-15-Acetoxy-7,13-labdadien-2beta-ol",C22H36O3,348.26644502,Baccharis sternbergiana,Sternbergia,KNApSAcK
+5,C00022449,120838-40-6,"ent-15-Hydroxy-7,13-labdadien-2-one",C22H34O3,346.25079495,Baccharis sternbergiana,Sternbergia,KNApSAcK
+6,C00022793,53755-58-1,Drupanin,C14H16O3,232.10994438,Baccharis sternbergiana,Sternbergia,KNApSAcK
+7,C00022796,120838-18-8,"2alpha,3alpha,15-Trihydroxy-ent-labda-7,13E-diene",C20H34O3,322.25079495,Baccharis sternbergiana,Sternbergia,KNApSAcK
+8,C00022797,120838-19-9,"15-Hydroxy-ent-labda-7,13E-dien-2-one",C20H32O2,304.24023027,Baccharis sternbergiana,Sternbergia,KNApSAcK
+9,C00024390,517-78-2,Galanthine,C18H23NO4,317.16270823,Sternbergia lutea ker-Gawl,Sternbergia,KNApSAcK
+10,C00024396,6879-76-1,Hippamine,C17H19NO4,301.1314081,Sternbergia lutea ker-Gawl,Sternbergia,KNApSAcK
+11,C00024404,102487-18-3,Lutessine,C19H21NO6,359.13688741,Sternbergia lutea ker-Gawl,Sternbergia,KNApSAcK
+12,C00024437,96253-76-8,Sternbergine,C18H21NO5,331.14197279,Sternbergia lutea ker-Gawl,Sternbergia,KNApSAcK
+13,C00024438,507-79-9,Tazettine,C18H21NO5,331.14197279,Sternbergia lutea ker-Gawl,Sternbergia,KNApSAcK
+0,C00002327,64-86-8,Colchicine,C22H25NO6,399.16818754,Sandersonia aurantica,Sandersonia,KNApSAcK
+1,C00002327,64-86-8,Colchicine,C22H25NO6,399.16818754,Sandersonia auranticata Hook,Sandersonia,KNApSAcK
+0,C00000125,4356-52-9,Glucobrassicin,C16H20N2O9S2,448.06102171,Tovaria pendula,Tovaria,KNApSAcK
+1,C00000126,5187-84-8,Neoglucobrassicin,C17H22N2O10S2,478.0715864,Tovaria pendula,Tovaria,KNApSAcK
+2,C00000126,5187-84-8,Neoglucobrassicin,C17H22N2O10S2,478.0715864,Tovariaceae,Tovaria,KNApSAcK
+3,C00000127,83327-20-2,4-Hydroxyglucobrassicin,C16H20N2O10S2,464.05593634,Tovaria pendula Ruiz.et Pav.,Tovaria,KNApSAcK
+4,C00000128,83327-21-3,4-Methoxyglucobrassicin,C17H22N2O10S2,478.0715864,Tovaria pendula,Tovaria,KNApSAcK
+5,C00000129,103951-50-4,1-Acetylglucobrassicin,C18H22N2O10S2,490.0715864,Tovaria pendula,Tovaria,KNApSAcK
+6,C00001479,18432-16-1,Glucoputranjivin,C10H19NO9S2,361.05012267,Tovaria pendula,Tovaria,KNApSAcK
+7,C00007346,499-26-3,Benzylglucosinolate,C14H19NO9S2,409.05012267,Tovaria pendula,Tovaria,KNApSAcK
+0,C00001151,57-50-1,D-Sucrose,C12H22O11,342.11621155,Fritillaria unibracteata,Fritillaria,KNApSAcK
+1,C00001238,57-11-4,Octadecanoic acid,C18H36O2,284.27153039,Fritillaria unibracteata,Fritillaria,KNApSAcK
+2,C00001327,19870-30-5,1-Tuliposide A,C11H18O8,278.10016755,Fritillaria meleagris,Fritillaria,KNApSAcK
+3,C00001327,19870-30-5,1-Tuliposide A,C11H18O8,278.10016755,Fritillaria imperialis,Fritillaria,KNApSAcK
+4,C00001490,73-24-5,Adenine,C5H5N5,135.0544952,Fritillaria cirrhosa,Fritillaria,KNApSAcK
+5,C00001502,68-94-0,Hypoxanthine,C5H4N4O,136.03851078,Fritillaria cirrhosa,Fritillaria,KNApSAcK
+6,C00001513,66-22-8,Uracil,C4H4N2O2,112.02727739,Fritillaria cirrhosa,Fritillaria,KNApSAcK
+7,C00002245,4449-51-8,Cyclopamine,C27H41NO2,411.31372956,Fritillaria pallidiflora,Fritillaria,KNApSAcK
+8,C00002251,61825-98-7,Imperialine,C27H43NO3,429.32429425,Fritillaria yuminensis L.,Fritillaria,KNApSAcK
+9,C00002251,61825-98-7,Imperialine,C27H43NO3,429.32429425,Fritillaria walujewii,Fritillaria,KNApSAcK
+10,C00002251,61825-98-7,Imperialine,C27H43NO3,429.32429425,Fritillaria wabuensia,Fritillaria,KNApSAcK
+11,C00002251,61825-98-7,Imperialine,C27H43NO3,429.32429425,Fritillaria ussuriensis,Fritillaria,KNApSAcK
+12,C00002251,61825-98-7,Imperialine,C27H43NO3,429.32429425,Fritillaria unibracteata,Fritillaria,KNApSAcK
+13,C00002251,61825-98-7,Imperialine,C27H43NO3,429.32429425,Fritillaria taipaiensis,Fritillaria,KNApSAcK
+14,C00002251,61825-98-7,Imperialine,C27H43NO3,429.32429425,Fritillaria przewalskii,Fritillaria,KNApSAcK
+15,C00002251,61825-98-7,Imperialine,C27H43NO3,429.32429425,Fritillaria proylei,Fritillaria,KNApSAcK
+16,C00002251,61825-98-7,Imperialine,C27H43NO3,429.32429425,Fritillaria pallidiflora,Fritillaria,KNApSAcK
+17,C00002251,61825-98-7,Imperialine,C27H43NO3,429.32429425,Fritillaria meleagris,Fritillaria,KNApSAcK
+18,C00002251,61825-98-7,Imperialine,C27H43NO3,429.32429425,Fritillaria imperialis,Fritillaria,KNApSAcK
+19,C00002251,61825-98-7,Imperialine,C27H43NO3,429.32429425,Fritillaria delavayi,Fritillaria,KNApSAcK
+20,C00002251,61825-98-7,Imperialine,C27H43NO3,429.32429425,Fritillaria cirrhosa,Fritillaria,KNApSAcK
+21,C00002261,80-78-4,Solanidine,C27H43NO,397.334465,Fritillaria verticillata var.thunbergii,Fritillaria,KNApSAcK
+22,C00002261,80-78-4,Solanidine,C27H43NO,397.334465,Fritillaria ussuriensis,Fritillaria,KNApSAcK
+23,C00002261,80-78-4,Solanidine,C27H43NO,397.334465,Fritillaria tortifolia,Fritillaria,KNApSAcK
+24,C00002261,80-78-4,Solanidine,C27H43NO,397.334465,Fritillaria cirrhosa,Fritillaria,KNApSAcK
+25,C00002261,80-78-4,Solanidine,C27H43NO,397.334465,Fritillaria camtschatcensis,Fritillaria,KNApSAcK
+26,C00002264,126-17-0,Solasodine,C27H43NO2,413.32937962,Fritillaria camtschatcensis,Fritillaria,KNApSAcK
+27,C00002271,23496-41-5,Verticine,C27H45NO3,431.33994431,Fritillaria monantha,Fritillaria,KNApSAcK
+28,C00002271,23496-41-5,Verticine,C27H45NO3,431.33994431,Fritillaria ebeiensis,Fritillaria,KNApSAcK
+29,C00002271,23496-41-5,Verticine,C27H45NO3,431.33994431,Fritillaria ebeiensis var. purpurea,Fritillaria,KNApSAcK
+30,C00002271,23496-41-5,Verticine,C27H45NO3,431.33994431,Fritillaria hupehensis,Fritillaria,KNApSAcK
+31,C00002271,23496-41-5,Verticine,C27H45NO3,431.33994431,Fritillaria karelinii,Fritillaria,KNApSAcK
+32,C00002271,23496-41-5,Verticine,C27H45NO3,431.33994431,Fritillaria lichuanensis x Fritillaria hupehensis,Fritillaria,KNApSAcK
+33,C00002271,23496-41-5,Verticine,C27H45NO3,431.33994431,Fritillaria ningguoensis,Fritillaria,KNApSAcK
+34,C00002271,23496-41-5,Verticine,C27H45NO3,431.33994431,Fritillaria roylei,Fritillaria,KNApSAcK
+35,C00002271,23496-41-5,Verticine,C27H45NO3,431.33994431,Fritillaria thunbergii,Fritillaria,KNApSAcK
+36,C00002271,23496-41-5,Verticine,C27H45NO3,431.33994431,Fritillaria thunbergii var. chekiangensis,Fritillaria,KNApSAcK
+37,C00002271,23496-41-5,Verticine,C27H45NO3,431.33994431,Fritillaria ussuriensis,Fritillaria,KNApSAcK
+38,C00002271,23496-41-5,Verticine,C27H45NO3,431.33994431,Fritillaria verticillata,Fritillaria,KNApSAcK
+39,C00002271,23496-41-5,Verticine,C27H45NO3,431.33994431,Fritillaria wuyangensis,Fritillaria,KNApSAcK
+40,C00002631,21453-69-0,(+)-Lirioresinol B,C22H26O8,418.16276781,Fritillaria thunbergii,Fritillaria,KNApSAcK
+41,C00007444,58-61-7,Adenosine,C10H13N5O4,267.09675394,Fritillaria cirrhosa,Fritillaria,KNApSAcK
+42,C00019674,58-96-8,Uridine,C9H12N2O6,244.06953613,Fritillaria cirrhosa,Fritillaria,KNApSAcK
+43,C00019679,118-00-3,Guanosine,C10H13N5O5,283.09166856,Fritillaria cirrhosa,Fritillaria,KNApSAcK
+44,C00019692,58-63-9,Inosine,C10H12N4O5,268.08076952,Fritillaria cirrhosa,Fritillaria,KNApSAcK
+45,C00019698,50-89-5,Thymidine,C10H14N2O5,242.09027157,Fritillaria verticillata var.thunbergii,Fritillaria,KNApSAcK
+46,C00019698,50-89-5,Thymidine,C10H14N2O5,242.09027157,Fritillaria anhuiensis,Fritillaria,KNApSAcK
+47,C00019698,50-89-5,Thymidine,C10H14N2O5,242.09027157,Fritillaria cirrhosa,Fritillaria,KNApSAcK
+48,C00019698,50-89-5,Thymidine,C10H14N2O5,242.09027157,Fritillaria przewalskii,Fritillaria,KNApSAcK
+49,C00019698,50-89-5,Thymidine,C10H14N2O5,242.09027157,Fritillaria ussuriensis,Fritillaria,KNApSAcK
+50,C00027659,19773-24-1,"11-Deoxo-6-oxo-5alpha,6-dihydrojervine",C27H41NO3,427.30864418,Fritillaria monantha,Fritillaria,KNApSAcK
+51,C00027659,19773-24-1,"11-Deoxo-6-oxo-5alpha,6-dihydrojervine",C27H41NO3,427.30864418,Fritillaria pallidiflora,Fritillaria,KNApSAcK
+52,C00027659,19773-24-1,"11-Deoxo-6-oxo-5alpha,6-dihydrojervine",C27H41NO3,427.30864418,Fritillaria roylei,Fritillaria,KNApSAcK
+53,C00027659,19773-24-1,"11-Deoxo-6-oxo-5alpha,6-dihydrojervine",C27H41NO3,427.30864418,Fritillaria siechuanica,Fritillaria,KNApSAcK
+54,C00027659,19773-24-1,"11-Deoxo-6-oxo-5alpha,6-dihydrojervine",C27H41NO3,427.30864418,Fritillaria taipaiensis,Fritillaria,KNApSAcK
+55,C00027659,19773-24-1,"11-Deoxo-6-oxo-5alpha,6-dihydrojervine",C27H41NO3,427.30864418,Fritillaria thunbergii,Fritillaria,KNApSAcK
+56,C00027659,19773-24-1,"11-Deoxo-6-oxo-5alpha,6-dihydrojervine",C27H41NO3,427.30864418,Fritillaria ussuriensis,Fritillaria,KNApSAcK
+57,C00027659,19773-24-1,"11-Deoxo-6-oxo-5alpha,6-dihydrojervine",C27H41NO3,427.30864418,Fritillaria wabuensia,Fritillaria,KNApSAcK
+58,C00027659,19773-24-1,"11-Deoxo-6-oxo-5alpha,6-dihydrojervine",C27H41NO3,427.30864418,Fritillaria walujewii,Fritillaria,KNApSAcK
+59,C00027659,19773-24-1,"11-Deoxo-6-oxo-5alpha,6-dihydrojervine",C27H41NO3,427.30864418,Fritillaria ningguoensis,Fritillaria,KNApSAcK
+60,C00027659,19773-24-1,"11-Deoxo-6-oxo-5alpha,6-dihydrojervine",C27H41NO3,427.30864418,Fritillaria anhuiensis,Fritillaria,KNApSAcK
+61,C00027659,19773-24-1,"11-Deoxo-6-oxo-5alpha,6-dihydrojervine",C27H41NO3,427.30864418,Fritillaria ebeiensis var. purpurea,Fritillaria,KNApSAcK
+62,C00027659,19773-24-1,"11-Deoxo-6-oxo-5alpha,6-dihydrojervine",C27H41NO3,427.30864418,Fritillaria hupehensis,Fritillaria,KNApSAcK
+63,C00027721,169786-65-6,23-Isokuroyurinidine,C27H43NO4,445.31920887,Fritillaria maxinowiczii Freyn.,Fritillaria,KNApSAcK
+64,C00027762,128922-69-0,5alpha-Methyleduardinine,C28H47NO2,429.36067975,Fritillaria wuyangensis,Fritillaria,KNApSAcK
+65,C00027808,175669-30-4,Adalinine,C13H23NO2,225.17287899,Fritillaria yuminensis L.,Fritillaria,KNApSAcK
+66,C00027871,78285-94-6,Anrakorinine,C28H47NO3,445.35559437,Fritillaria camtschatcensis,Fritillaria,KNApSAcK
+67,C00028004,78719-99-0,Camtschatcanidine,C27H43NO2,413.32937962,Fritillaria camtschatcensis,Fritillaria,KNApSAcK
+68,C00028051,103530-47-8,Chuanbeinone,C27H43NO2,413.32937962,Fritillaria taipaiensis L.,Fritillaria,KNApSAcK
+69,C00028051,103530-47-8,Chuanbeinone,C27H43NO2,413.32937962,Fritillaria delavayi,Fritillaria,KNApSAcK
+70,C00028119,23185-94-6,Cycloposine,C33H51NO7,573.36655299,Fritillaria pallidiflora,Fritillaria,KNApSAcK
+71,C00028148,119766-89-1,Delafrine,C27H45NO3,431.33994431,Fritillaria delavayi,Fritillaria,KNApSAcK
+72,C00028149,119766-92-6,Delafrinone,C27H43NO3,429.32429425,Fritillaria delavayi,Fritillaria,KNApSAcK
+73,C00028152,98243-57-3,Hupehenine,C27H45NO2,415.34502969,Fritillaria lichuanensis x Fritillaria hupehensis,Fritillaria,KNApSAcK
+74,C00028152,98243-57-3,Hupehenine,C27H45NO2,415.34502969,Fritillaria monantha,Fritillaria,KNApSAcK
+75,C00028152,98243-57-3,Hupehenine,C27H45NO2,415.34502969,Fritillaria persica,Fritillaria,KNApSAcK
+76,C00028152,98243-57-3,Hupehenine,C27H45NO2,415.34502969,Fritillaria ussuriensis,Fritillaria,KNApSAcK
+77,C00028152,98243-57-3,Hupehenine,C27H45NO2,415.34502969,Fritillaria walujewii,Fritillaria,KNApSAcK
+78,C00028152,98243-57-3,Hupehenine,C27H45NO2,415.34502969,Fritillaria egregia,Fritillaria,KNApSAcK
+79,C00028152,98243-57-3,Hupehenine,C27H45NO2,415.34502969,Fritillaria delavayi,Fritillaria,KNApSAcK
+80,C00028152,98243-57-3,Hupehenine,C27H45NO2,415.34502969,Fritillaria hupehensis,Fritillaria,KNApSAcK
+81,C00028152,98243-57-3,Hupehenine,C27H45NO2,415.34502969,Fritillaria imperialis,Fritillaria,KNApSAcK
+82,C00028153,98985-22-9,Hupeheninoside,C33H55NO7,577.39785312,Fritillaria egregia,Fritillaria,KNApSAcK
+83,C00028153,98985-22-9,Hupeheninoside,C33H55NO7,577.39785312,Fritillaria persica,Fritillaria,KNApSAcK
+84,C00028153,98985-22-9,Hupeheninoside,C33H55NO7,577.39785312,Fritillaria hupehensis,Fritillaria,KNApSAcK
+85,C00028153,98985-22-9,Hupeheninoside,C33H55NO7,577.39785312,Fritillaria lichuanensis x Fritillaria hupehensis,Fritillaria,KNApSAcK
+86,C00028154,96997-98-7,Delavinone,C27H43NO2,413.32937962,Fritillaria yuminensis L.,Fritillaria,KNApSAcK
+87,C00028154,96997-98-7,Delavinone,C27H43NO2,413.32937962,Fritillaria walujewii,Fritillaria,KNApSAcK
+88,C00028154,96997-98-7,Delavinone,C27H43NO2,413.32937962,Fritillaria tortifolia,Fritillaria,KNApSAcK
+89,C00028154,96997-98-7,Delavinone,C27H43NO2,413.32937962,Fritillaria pallidiflora,Fritillaria,KNApSAcK
+90,C00028154,96997-98-7,Delavinone,C27H43NO2,413.32937962,Fritillaria hupehensis,Fritillaria,KNApSAcK
+91,C00028154,96997-98-7,Delavinone,C27H43NO2,413.32937962,Fritillaria egregia,Fritillaria,KNApSAcK
+92,C00028154,96997-98-7,Delavinone,C27H43NO2,413.32937962,Fritillaria delavayi,Fritillaria,KNApSAcK
+93,C00028163,474-08-8,Demissidine,C27H45NO,399.35011507,Fritillaria cirrhosa,Fritillaria,KNApSAcK
+94,C00028196,571167-91-4,Dihydroimpranine,C28H47NO2,429.36067975,Fritillaria imperialis,Fritillaria,KNApSAcK
+95,C00028219,151003-96-2,Dongbeinine,C27H32NO2,402.24330427,Fritillaria thunbergii var.chekiangensis,Fritillaria,KNApSAcK
+96,C00028228,25650-70-8,Ebeinine,C27H45NO2,415.34502969,Fritillaria imperialis,Fritillaria,KNApSAcK
+97,C00028228,25650-70-8,Ebeinine,C27H45NO2,415.34502969,Fritillaria ebeiensis var. purpurea,Fritillaria,KNApSAcK
+98,C00028228,25650-70-8,Ebeinine,C27H45NO2,415.34502969,Fritillaria ebeiensis,Fritillaria,KNApSAcK
+99,C00028229,123116-14-3,Ebeienine,C27H43NO2,413.32937962,Fritillaria ebeiensis var. purpurea,Fritillaria,KNApSAcK
+100,C00028231,143114-79-8,Ebeietinone,C27H43NO3,429.32429425,Fritillaria ebeiensis var. purpurea,Fritillaria,KNApSAcK
+101,C00028233,125409-58-7,Ebeinone,C27H41NO2,411.31372956,Fritillaria ebeiensis,Fritillaria,KNApSAcK
+102,C00028233,125409-58-7,Ebeinone,C27H41NO2,411.31372956,Fritillaria imperialis,Fritillaria,KNApSAcK
+103,C00028234,25650-68-4,Ebinone,C27H43NO2,413.32937962,Fritillaria thunbergii,Fritillaria,KNApSAcK
+104,C00028234,25650-68-4,Ebinone,C27H43NO2,413.32937962,Fritillaria wuyangensis,Fritillaria,KNApSAcK
+105,C00028234,25650-68-4,Ebinone,C27H43NO2,413.32937962,Fritillaria wabuensia,Fritillaria,KNApSAcK
+106,C00028234,25650-68-4,Ebinone,C27H43NO2,413.32937962,Fritillaria imperialis,Fritillaria,KNApSAcK
+107,C00028237,58116-31-7,Eduardinine,C27H45NO2,415.34502969,Fritillaria wuyangensis,Fritillaria,KNApSAcK
+108,C00028268,571167-92-5,Fetisinine,C27H39NO3,425.29299412,Fritillaria imperialis,Fritillaria,KNApSAcK
+109,C00028278,471843-48-8,Forticine,C27H45NO2,415.34502969,Fritillaria imperialis,Fritillaria,KNApSAcK
+110,C00028280,76733-86-3,Fritillarizine,C27H43NO2,413.32937962,Fritillaria verticillata,Fritillaria,KNApSAcK
+111,C00028332,68422-01-5,Hapepunine,C28H47NO2,429.36067975,Fritillaria camtschatcensis,Fritillaria,KNApSAcK
+112,C00028333,169786-66-7,Hapepunine 3-O-beta-cellobioside,C40H67NO12,753.46632661,Fritillaria maxinowiczii Freyn.,Fritillaria,KNApSAcK
+113,C00028335,105814-57-1,Harepermine,C27H45NO2,415.34502969,Fritillaria karelinii,Fritillaria,KNApSAcK
+114,C00028337,128351-94-0,Heilonine,C27H39NO2,409.2980795,Fritillaria ussuriensis,Fritillaria,KNApSAcK
+115,C00028353,143120-88-1,Hupehemonoside,C33H53NO8,591.37711768,Fritillaria hupehensis,Fritillaria,KNApSAcK
+116,C00028354,123857-37-4,Hupehenidine,C27H45NO3,431.33994431,Fritillaria ebeiensis,Fritillaria,KNApSAcK
+117,C00028354,123857-37-4,Hupehenidine,C27H45NO3,431.33994431,Fritillaria hupehensis,Fritillaria,KNApSAcK
+118,C00028358,105814-56-0,Hupehenisine,C27H41NO3,427.30864418,Fritillaria hupehensis,Fritillaria,KNApSAcK
+119,C00028359,103805-68-1,Hupehenizine,C27H43NO2,413.32937962,Fritillaria lichuanensis x Fritillaria hupehensis,Fritillaria,KNApSAcK
+120,C00028359,103805-68-1,Hupehenizine,C27H43NO2,413.32937962,Fritillaria hupehensis,Fritillaria,KNApSAcK
+121,C00028382,67968-40-5,Imperialine 3-beta-D-glucopyranoside,C33H53NO8,591.37711768,Fritillaria pallidiflora,Fritillaria,KNApSAcK
+122,C00028382,67968-40-5,Imperialine 3-beta-D-glucopyranoside,C33H53NO8,591.37711768,Fritillaria ussuriensis,Fritillaria,KNApSAcK
+123,C00028383,62565-72-4,Imperialine beta-N-oxide,C27H43NO4,445.31920887,Fritillaria siechuanica,Fritillaria,KNApSAcK
+124,C00028383,62565-72-4,Imperialine beta-N-oxide,C27H43NO4,445.31920887,Fritillaria wabuensia,Fritillaria,KNApSAcK
+125,C00028383,62565-72-4,Imperialine beta-N-oxide,C27H43NO4,445.31920887,Fritillaria pallidiflora,Fritillaria,KNApSAcK
+126,C00028384,471843-45-5,Impericine,C27H43NO3,429.32429425,Fritillaria imperialis,Fritillaria,KNApSAcK
+127,C00028385,571167-90-3,Impranine,C28H45NO2,427.34502969,Fritillaria imperialis,Fritillaria,KNApSAcK
+128,C00028414,129030-30-4,Iso-shinonomenine,C27H43NO,397.334465,Fritillaria wuyangensis,Fritillaria,KNApSAcK
+129,C00028418,23496-43-7,Isoverticine,C27H45NO3,431.33994431,Fritillaria verticillata var.thunbergii,Fritillaria,KNApSAcK
+130,C00028418,23496-43-7,Isoverticine,C27H45NO3,431.33994431,Fritillaria lichuanensis x Fritillaria hupehensis,Fritillaria,KNApSAcK
+131,C00028418,23496-43-7,Isoverticine,C27H45NO3,431.33994431,Fritillaria ningguoensis,Fritillaria,KNApSAcK
+132,C00028418,23496-43-7,Isoverticine,C27H45NO3,431.33994431,Fritillaria taipaiensis,Fritillaria,KNApSAcK
+133,C00028418,23496-43-7,Isoverticine,C27H45NO3,431.33994431,Fritillaria taipaiensis L.,Fritillaria,KNApSAcK
+134,C00028418,23496-43-7,Isoverticine,C27H45NO3,431.33994431,Fritillaria thunbergii var.chekiangensis,Fritillaria,KNApSAcK
+135,C00028418,23496-43-7,Isoverticine,C27H45NO3,431.33994431,Fritillaria wabuensia,Fritillaria,KNApSAcK
+136,C00028418,23496-43-7,Isoverticine,C27H45NO3,431.33994431,Fritillaria anhuiensis,Fritillaria,KNApSAcK
+137,C00028418,23496-43-7,Isoverticine,C27H45NO3,431.33994431,Fritillaria ebeiensis var. purpurea,Fritillaria,KNApSAcK
+138,C00028418,23496-43-7,Isoverticine,C27H45NO3,431.33994431,Fritillaria imperialis,Fritillaria,KNApSAcK
+139,C00028419,866572-25-0,Isoverticine beta-N-oxide,C27H45NO4,447.33485893,Fritillaria wabuensia,Fritillaria,KNApSAcK
+140,C00028429,18209-21-7,Korsevine,C28H45NO2,427.34502969,Fritillaria imperialis,Fritillaria,KNApSAcK
+141,C00028440,123085-17-6,Kuroyurinidine,C27H43NO4,445.31920887,Fritillaria camtschatcensis,Fritillaria,KNApSAcK
+142,C00028440,123085-17-6,Kuroyurinidine,C27H43NO4,445.31920887,Fritillaria maxinowiczii Freyn.,Fritillaria,KNApSAcK
+143,C00028660,848616-39-7,N-Demethylpuqietinone,C27H45NO2,415.34502969,Fritillaria puqiensis,Fritillaria,KNApSAcK
+144,C00028690,117695-02-0,Ningpeisine,C28H47NO2,429.36067975,Fritillaria ningguoensis,Fritillaria,KNApSAcK
+145,C00028691,139742-29-3,Ningpeisinoside,C34H57NO7,591.41350318,Fritillaria ningguoensis,Fritillaria,KNApSAcK
+146,C00028816,139757-61-2,Persicanidine A,C27H45NO2,415.34502969,Fritillaria imperialis,Fritillaria,KNApSAcK
+147,C00028817,145307-25-1,Persicanidine B,C27H45NO2,415.34502969,Fritillaria harenlinii,Fritillaria,KNApSAcK
+148,C00028817,145307-25-1,Persicanidine B,C27H45NO2,415.34502969,Fritillaria imperialis,Fritillaria,KNApSAcK
+149,C00028817,145307-25-1,Persicanidine B,C27H45NO2,415.34502969,Fritillaria persica,Fritillaria,KNApSAcK
+150,C00028818,22169-21-7,Petilidine,C27H45NO2,415.34502969,Fritillaria walujewii,Fritillaria,KNApSAcK
+151,C00028840,125309-97-9,Pingbeidinoside,C34H57NO9,623.40333243,Fritillaria ussuriensis,Fritillaria,KNApSAcK
+152,C00028841,131984-89-9,Pingbeinine,C28H47NO3,445.35559437,Fritillaria ussuriensis,Fritillaria,KNApSAcK
+153,C00028842,82841-67-6,Pingpeimine A,C27H45NO5,463.32977355,Fritillaria ussuriensis,Fritillaria,KNApSAcK
+154,C00028843,82851-52-3,Pingpeimine B,C27H45NO6,479.32468818,Fritillaria ussuriensis,Fritillaria,KNApSAcK
+155,C00028888,143120-47-2,Puqiedinone,C27H43NO2,413.32937962,Fritillaria verticillata var.thunbergii,Fritillaria,KNApSAcK
+156,C00028888,143120-47-2,Puqiedinone,C27H43NO2,413.32937962,Fritillaria thunbergii,Fritillaria,KNApSAcK
+157,C00028888,143120-47-2,Puqiedinone,C27H43NO2,413.32937962,Fritillaria puqiensis,Fritillaria,KNApSAcK
+158,C00028889,848644-14-4,Puqienine A,C28H47NO3,445.35559437,Fritillaria puqiensis,Fritillaria,KNApSAcK
+159,C00028890,848644-15-5,Puqienine B,C28H45NO3,443.33994431,Fritillaria puqiensis,Fritillaria,KNApSAcK
+160,C00028891,848644-16-6,Puqietinonoside,C34H57NO7,591.41350318,Fritillaria puqiensis,Fritillaria,KNApSAcK
+161,C00029011,70598-84-4,Shinonomenine,C27H43NO,397.334465,Fritillaria imperialis,Fritillaria,KNApSAcK
+162,C00029014,147511-59-9,Siechuansine,C27H45NO3,431.33994431,Fritillaria siechuanica,Fritillaria,KNApSAcK
+163,C00029027,81942-09-8,Solanidine 3-O-[alpha-L-rhamnopyranosyl-(1->2)[beta-D-glucopyranosyl-(1->4)]-beta-D-glucopyranoside,C45H73NO15,867.49802067,Fritillaria camtschatcensis,Fritillaria,KNApSAcK
+164,C00029027,81942-09-8,Solanidine 3-O-[alpha-L-rhamnopyranosyl-(1->2)[beta-D-glucopyranosyl-(1->4)]-beta-D-glucopyranoside,C45H73NO15,867.49802067,Fritillaria thunbergii,Fritillaria,KNApSAcK
+165,C00029033,125354-97-4,Songbeinine,C27H45NO2,415.34502969,Fritillaria unibracteata,Fritillaria,KNApSAcK
+166,C00029033,125354-97-4,Songbeinine,C27H45NO2,415.34502969,Fritillaria imperialis,Fritillaria,KNApSAcK
+167,C00029034,150133-32-7,Songbeinone,C27H43NO2,413.32937962,Fritillaria unibracteata,Fritillaria,KNApSAcK
+168,C00029070,151183-22-1,Taipaienine,C27H43NO3,429.32429425,Fritillaria taipaiensis L.,Fritillaria,KNApSAcK
+169,C00029070,151183-22-1,Taipaienine,C27H43NO3,429.32429425,Fritillaria taipaiensis,Fritillaria,KNApSAcK
+170,C00029137,546-40-7,Tomatidenol,C27H43NO2,413.32937962,Fritillaria camtschatcensis,Fritillaria,KNApSAcK
+171,C00029142,157088-98-7,Tortifolisine,C27H41NO3,427.30864418,Fritillaria yuminensis L.,Fritillaria,KNApSAcK
+172,C00029142,157088-98-7,Tortifolisine,C27H41NO3,427.30864418,Fritillaria tortifolia,Fritillaria,KNApSAcK
+173,C00029174,125201-07-2,Ussuriedine,C27H37NO3,423.27734405,Fritillaria ussuriensis,Fritillaria,KNApSAcK
+174,C00029175,125201-08-3,Ussuriedinone,C27H35NO3,421.26169399,Fritillaria ussuriensis,Fritillaria,KNApSAcK
+175,C00029186,17155-31-6,Veralkamine,C27H43NO2,413.32937962,Fritillaria camtschatcensis,Fritillaria,KNApSAcK
+176,C00029216,77410-34-5,Verticine N-oxide,C27H45NO4,447.33485893,Fritillaria thunbergii,Fritillaria,KNApSAcK
+177,C00029217,18059-10-4,Verticinone,C27H43NO3,429.32429425,Fritillaria taipaiensis L.,Fritillaria,KNApSAcK
+178,C00029217,18059-10-4,Verticinone,C27H43NO3,429.32429425,Fritillaria wuyangensis,Fritillaria,KNApSAcK
+179,C00029217,18059-10-4,Verticinone,C27H43NO3,429.32429425,Fritillaria verticillata,Fritillaria,KNApSAcK
+180,C00029217,18059-10-4,Verticinone,C27H43NO3,429.32429425,Fritillaria ussuriensis,Fritillaria,KNApSAcK
+181,C00029217,18059-10-4,Verticinone,C27H43NO3,429.32429425,Fritillaria thunbergii var.chekiangensis,Fritillaria,KNApSAcK
+182,C00029217,18059-10-4,Verticinone,C27H43NO3,429.32429425,Fritillaria ningguoensis,Fritillaria,KNApSAcK
+183,C00029217,18059-10-4,Verticinone,C27H43NO3,429.32429425,Fritillaria lichuanensis x Fritillaria hupehensis,Fritillaria,KNApSAcK
+184,C00029217,18059-10-4,Verticinone,C27H43NO3,429.32429425,Fritillaria imperialis,Fritillaria,KNApSAcK
+185,C00029217,18059-10-4,Verticinone,C27H43NO3,429.32429425,Fritillaria hupehensis,Fritillaria,KNApSAcK
+186,C00029217,18059-10-4,Verticinone,C27H43NO3,429.32429425,Fritillaria ebeiensis var. purpurea,Fritillaria,KNApSAcK
+187,C00029217,18059-10-4,Verticinone,C27H43NO3,429.32429425,Fritillaria anhuiensis,Fritillaria,KNApSAcK
+188,C00029218,77410-35-6,Verticinone N-oxide,C27H43NO4,445.31920887,Fritillaria thunbergii,Fritillaria,KNApSAcK
+189,C00029235,107299-20-7,Wanpeinine A,C27H45NO3,431.33994431,Fritillaria anhuiensis,Fritillaria,KNApSAcK
+190,C00029247,98985-24-1,Yibeinoside A,C33H53NO7,575.38220305,Fritillaria pallidiflora,Fritillaria,KNApSAcK
+191,C00029248,150134-44-4,Yibeinoside B,C33H53NO7,575.38220305,Fritillaria pallidiflora,Fritillaria,KNApSAcK
+192,C00029249,157536-48-6,Yibeinoside C,C39H65NO12,739.45067655,Fritillaria pallidiflora,Fritillaria,KNApSAcK
+193,C00029250,143502-51-6,Yibeissine,C27H41NO4,443.3035588,Fritillaria pallidiflora,Fritillaria,KNApSAcK
+194,C00029253,157478-01-8,Yubeinine,C27H43NO3,429.32429425,Fritillaria yuminensis,Fritillaria,KNApSAcK
+195,C00029253,157478-01-8,Yubeinine,C27H43NO3,429.32429425,Fritillaria yuminensis L.,Fritillaria,KNApSAcK
+196,C00029254,157382-28-0,Yubeiside,C33H53NO7,575.38220305,Fritillaria yuminensis,Fritillaria,KNApSAcK
+197,C00029262,135636-54-3,Zhebeinine,C27H45NO3,431.33994431,Fritillaria thunbergii,Fritillaria,KNApSAcK
+198,C00029262,135636-54-3,Zhebeinine,C27H45NO3,431.33994431,Fritillaria thunbergii var.chekiangensis,Fritillaria,KNApSAcK
+199,C00029262,135636-54-3,Zhebeinine,C27H45NO3,431.33994431,Fritillaria verticillata var.thunbergii,Fritillaria,KNApSAcK
+200,C00029263,152695-94-8,Zhebeininoside,C33H55NO8,593.39276774,Fritillaria verticillata var.thunbergii,Fritillaria,KNApSAcK
+201,C00029263,152695-94-8,Zhebeininoside,C33H55NO8,593.39276774,Fritillaria thunbergii,Fritillaria,KNApSAcK
+202,C00029264,144606-87-1,Zhebeinone,C27H43NO3,429.32429425,Fritillaria thunbergii,Fritillaria,KNApSAcK
+203,C00029264,144606-87-1,Zhebeinone,C27H43NO3,429.32429425,Fritillaria verticillata var.thunbergii,Fritillaria,KNApSAcK
+204,C00029265,130320-51-3,Ziebeimine,C27H43NO2,413.32937962,Fritillaria ebeiensis var. purpurea,Fritillaria,KNApSAcK
+205,C00029266,133086-83-6,Zijinlongine,C21H21NO6,383.13688741,Fritillaria ebeiensis var.purpurea,Fritillaria,KNApSAcK
+206,C00031111,906089-20-1,Puqienine F,C29H47NO4,473.350509,Fritillaria puqiensis G.D.Yu et G.Y.CHEN,Fritillaria,KNApSAcK
+207,C00037102,14696-33-4,ent-Kaur-15-en-17-ol,C20H32O,288.24531564,Fritillaria verticillata var.thunbergii,Fritillaria,KNApSAcK
+208,C00037102,14696-33-4,ent-Kaur-15-en-17-ol,C20H32O,288.24531564,Fritillaria anhuiensis,Fritillaria,KNApSAcK
+209,C00040580,547-65-9,Tulipalin A,C5H6O2,98.03677944,Fritillaria meleagris,Fritillaria,KNApSAcK
+210,C00040580,547-65-9,Tulipalin A,C5H6O2,98.03677944,Fritillaria imperialis,Fritillaria,KNApSAcK
+211,C00042440,65-46-3,Cytidine,C9H13N3O5,243.08552055,Fritillaria cirrhosa,Fritillaria,KNApSAcK
+212,C00050534,183506-66-3,Apicidin,C34H49N5O6,623.36828433,Fritillaria verticillata var.thunbergii,Fritillaria,KNApSAcK
+213,C00050873,74184-79-5,Isobaimonidine,C27H45NO3,431.33994431,Fritillaria verticillata var.thunbergii,Fritillaria,KNApSAcK
+214,C00050873,74184-79-5,Isobaimonidine,C27H45NO3,431.33994431,Fritillaria imperialis,Fritillaria,KNApSAcK
+0,C00042799,19942-04-2,Ocotillol II,C30H52O3,460.39164553,Neolloydia texensis,Lloydia,KNApSAcK

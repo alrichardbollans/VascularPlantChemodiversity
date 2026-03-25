@@ -1,0 +1,356 @@
+,C_ID,CAS ID,example_compound_name,Molecular formula,Mw,Organism,knapsack_search_term,Source
+0,C00000149,6750-60-3,Espatulenol,C15H24O,220.18271539,Acorus calamus,Acorus,KNApSAcK
+1,C00000152,7400-08-0,p-Coumaric acid,C9H8O3,164.04734412,Acorus calamus,Acorus,KNApSAcK
+2,C00000184,2867-05-2,alpha-Thujene,C10H16,136.12520051,Acorus calanus L.,Acorus,KNApSAcK
+3,C00000619,97-53-0,Eugenol,C10H12O2,164.08372963,Acorus tatarinowii,Acorus,KNApSAcK
+4,C00000619,97-53-0,Eugenol,C10H12O2,164.08372963,Acorus calamus,Acorus,KNApSAcK
+5,C00000633,73036-51-8,Acoradin,C24H32O6,416.21988875,Acorus calamus,Acorus,KNApSAcK
+6,C00000805,80-56-8,alpha-Pinene,C10H16,136.12520051,Acorus calanus L.,Acorus,KNApSAcK
+7,C00000805,80-56-8,alpha-Pinene,C10H16,136.12520051,Acorus calamus,Acorus,KNApSAcK
+8,C00000816,127-91-3,beta-Pinene,C10H16,136.12520051,Acorus calanus L.,Acorus,KNApSAcK
+9,C00000816,127-91-3,beta-Pinene,C10H16,136.12520051,Acorus calamus,Acorus,KNApSAcK
+10,C00000819,76-22-2,(+)-Camphor,C10H16O,152.12011513,Acorus calanus L.,Acorus,KNApSAcK
+11,C00000819,76-22-2,(+)-Camphor,C10H16O,152.12011513,Acorus calamus,Acorus,KNApSAcK
+12,C00000823,138-86-3,Limonene,C10H16,136.12520051,Acorus calanus L.,Acorus,KNApSAcK
+13,C00000823,138-86-3,Limonene,C10H16,136.12520051,Acorus calamus,Acorus,KNApSAcK
+14,C00000843,3338-55-4,cis-beta-Ocimene,C10H16,136.12520051,Acorus calamus,Acorus,KNApSAcK
+15,C00000843,3338-55-4,cis-beta-Ocimene,C10H16,136.12520051,Acorus calanus L.,Acorus,KNApSAcK
+16,C00000844,106-22-9,Citronellol,C10H20O,156.15141526,Acorus calamus,Acorus,KNApSAcK
+17,C00000845,106-24-1,(E)-geraniol,C10H18O,154.1357652,Acorus calamus,Acorus,KNApSAcK
+18,C00000853,123-35-3,beta-Myrcene,C10H16,136.12520051,Acorus calanus L.,Acorus,KNApSAcK
+19,C00000861,586-62-9,alpha-Terpinolene,C10H16,136.12520051,Acorus calanus L.,Acorus,KNApSAcK
+20,C00000862,3779-61-1,trans-beta-Ocimene,C10H16,136.12520051,Acorus calamus,Acorus,KNApSAcK
+21,C00001224,60-33-3,Linoleic acid,C18H32O2,280.24023027,Acorus calanus L.,Acorus,KNApSAcK
+22,C00001233,57-10-3,Palmitic acid,C16H32O2,256.24023027,Acorus calanus L.,Acorus,KNApSAcK
+23,C00002715,5273-86-9,beta-Asarone,C12H16O3,208.10994438,Acorus calamus,Acorus,KNApSAcK
+24,C00002715,5273-86-9,beta-Asarone,C12H16O3,208.10994438,Acorus calanus L.,Acorus,KNApSAcK
+25,C00002731,458-37-7,Curcumin,C21H20O6,368.12598837,Acorus calamus,Acorus,KNApSAcK
+26,C00002739,487-11-6,Elemicin,C12H16O3,208.10994438,Acorus calamus,Acorus,KNApSAcK
+27,C00002757,1963-36-6,4-Methoxycinnamaldehyde,C10H10O2,162.06807956,Acorus gramineus,Acorus,KNApSAcK
+28,C00002760,6379-72-2,Methylisoeugenol,C11H14O2,178.09937969,Acorus calamus,Acorus,KNApSAcK
+29,C00002760,6379-72-2,Methylisoeugenol,C11H14O2,178.09937969,Acorus gramineus,Acorus,KNApSAcK
+30,C00002902,537-42-8,E-Pterostilbene,C16H16O3,256.10994438,Acorus calamus,Acorus,KNApSAcK
+31,C00002903,501-36-0,Resveratrol,C14H12O3,228.07864425,Acorus calamus,Acorus,KNApSAcK
+32,C00003028,507-70-0,Borneol,C10H18O,154.1357652,Acorus calamus,Acorus,KNApSAcK
+33,C00003029,79-92-5,Camphene,C10H16,136.12520051,Acorus calanus L.,Acorus,KNApSAcK
+34,C00003029,79-92-5,Camphene,C10H16,136.12520051,Acorus calamus,Acorus,KNApSAcK
+35,C00003035,141-27-5,trans-Citral,C10H16O,152.12011513,Acorus calamus,Acorus,KNApSAcK
+36,C00003036,106-26-3,cis-Citral,C10H16O,152.12011513,Acorus calamus,Acorus,KNApSAcK
+37,C00003040,99-87-6,p-Cymene,C10H14,134.10955045,Acorus calanus L.,Acorus,KNApSAcK
+38,C00003046,105-87-3,Geranyl acetate,C12H20O2,196.14632988,Acorus calamus,Acorus,KNApSAcK
+39,C00003047,78-70-6,(+-)-Linalool,C10H18O,154.1357652,Acorus calamus,Acorus,KNApSAcK
+40,C00003047,78-70-6,(+-)-Linalool,C10H18O,154.1357652,Acorus calanus L.,Acorus,KNApSAcK
+41,C00003061,99-85-4,gamma-Terpinene,C10H16,136.12520051,Acorus calanus L.,Acorus,KNApSAcK
+42,C00003110,87-44-5,beta-Caryophyllene,C15H24,204.18780077,Acorus calamus,Acorus,KNApSAcK
+43,C00003111,469-61-4,alpha-Cedrene,C15H24,204.18780077,Acorus calanus L.,Acorus,KNApSAcK
+44,C00003112,77-53-2,(+)-Cedrol,C15H26O,222.19836545,Acorus calanus L.,Acorus,KNApSAcK
+45,C00003112,77-53-2,(+)-Cedrol,C15H26O,222.19836545,Acorus calamus,Acorus,KNApSAcK
+46,C00003118,3856-25-5,alpha-Copaene,C15H24,204.18780077,Acorus calanus L.,Acorus,KNApSAcK
+47,C00003134,15423-57-1,Germacrene B,C15H24,204.18780077,Acorus calamus,Acorus,KNApSAcK
+48,C00003147,6753-98-6,alpha-Caryophyllene (obsol.),C15H24,204.18780077,Acorus calanus L.,Acorus,KNApSAcK
+49,C00003147,6753-98-6,alpha-Caryophyllene (obsol.),C15H24,204.18780077,Acorus calamus,Acorus,KNApSAcK
+50,C00003186,17066-67-0,beta-Eudesmene,C15H24,204.18780077,Acorus calamus,Acorus,KNApSAcK
+51,C00003186,17066-67-0,beta-Eudesmene,C15H24,204.18780077,Acorus calanus L.,Acorus,KNApSAcK
+52,C00003204,495-60-3,alpha-Zingiberene,C15H24,204.18780077,Acorus calamus,Acorus,KNApSAcK
+53,C00003467,150-86-7,Phytol,C20H40O,296.3079159,Acorus calamus,Acorus,KNApSAcK
+54,C00007260,524-14-1,Malonyl-CoA,C24H38N7O19P3S,853.11560229,Acorus calamus,Acorus,KNApSAcK
+55,C00007453,33880-83-0,beta-Elemene,C15H24,204.18780077,Acorus calanus L.,Acorus,KNApSAcK
+56,C00007453,33880-83-0,beta-Elemene,C15H24,204.18780077,Acorus calamus,Acorus,KNApSAcK
+57,C00007630,20307-83-9,beta-Sesquiphellandrene,C15H24,204.18780077,Acorus calanus L.,Acorus,KNApSAcK
+58,C00007636,483-76-1,delta-Cadinene,C15H24,204.18780077,Acorus calamus,Acorus,KNApSAcK
+59,C00010875,586-63-0,"2,4(8)-p-Menthadiene",C10H16,136.12520051,Acorus calamus,Acorus,KNApSAcK
+60,C00011617,4176-17-4,(R)-(-)-alpha-Curcumene,C15H22,202.1721507,Acorus calanus L.,Acorus,KNApSAcK
+61,C00011630,28976-67-2,beta-Curcumene,C15H24,204.18780077,Acorus calanus L.,Acorus,KNApSAcK
+62,C00011692,53915-39-2,Isocaespitol,C15H25Br2ClO2,429.99098355,Acorus calamus,Acorus,KNApSAcK
+63,C00011709,50281-45-3,Acoragermacrone,C15H24O,220.18271539,Acorus calamus,Acorus,KNApSAcK
+64,C00011714,25645-19-6,Preisocalamendiol,C15H24O,220.18271539,Acorus calamus,Acorus,KNApSAcK
+65,C00011714,25645-19-6,Preisocalamendiol,C15H24O,220.18271539,Acorus calanus L.,Acorus,KNApSAcK
+66,C00011719,28387-44-2,(-)-Germacrene A,C15H24,204.18780077,Acorus calanus L.,Acorus,KNApSAcK
+67,C00011720,23986-74-5,(-)-Germacrene D,C15H24,204.18780077,Acorus calamus,Acorus,KNApSAcK
+68,C00012003,21698-44-2,Shyobunon,C15H24O,220.18271539,Acorus calamus,Acorus,KNApSAcK
+69,C00012004,39020-72-9,Epishyobunone,C15H24O,220.18271539,Acorus calamus,Acorus,KNApSAcK
+70,C00012005,639-99-6,(-)-Elemol,C15H26O,222.19836545,Acorus calamus,Acorus,KNApSAcK
+71,C00012007,21698-46-4,Isoshyobunone,C15H24O,220.18271539,Acorus calamus,Acorus,KNApSAcK
+72,C00012007,21698-46-4,Isoshyobunone,C15H24O,220.18271539,Acorus calanus L.,Acorus,KNApSAcK
+73,C00012011,20307-84-0,delta-Elemene,C15H24,204.18780077,Acorus calamus,Acorus,KNApSAcK
+74,C00012425,24703-35-3,(+)-Bicyclogermacrene,C15H24,204.18780077,Acorus calanus L.,Acorus,KNApSAcK
+75,C00012425,24703-35-3,(+)-Bicyclogermacrene,C15H24,204.18780077,Acorus calamus,Acorus,KNApSAcK
+76,C00012444,19888-34-7,"Humulene 1,2-epoxide",C15H24O,220.18271539,Acorus calamus,Acorus,KNApSAcK
+77,C00012483,1139-30-6,(-)-beta-Caryophyllene epoxide,C15H24O,220.18271539,Acorus calamus,Acorus,KNApSAcK
+78,C00012483,1139-30-6,(-)-beta-Caryophyllene epoxide,C15H24O,220.18271539,Acorus calanus L.,Acorus,KNApSAcK
+79,C00012708,6813-21-4,"Eudesma-3,7(11)-diene",C15H24,204.18780077,Acorus calamus,Acorus,KNApSAcK
+80,C00012802,39012-15-2,Isoacolamone,C15H24O,220.18271539,Acorus calamus,Acorus,KNApSAcK
+81,C00012806,39012-14-1,Acolamone,C15H24O,220.18271539,Acorus calamus,Acorus,KNApSAcK
+82,C00013572,84071-85-2,Torilenol,C15H24O,220.18271539,Acorus calanus L.,Acorus,KNApSAcK
+83,C00017471,6831-16-9,(-)-9-Aristolene,C15H24,204.18780077,Acorus calamus,Acorus,KNApSAcK
+84,C00017474,25274-27-5,Aristolone,C15H22O,218.16706532,Acorus calamus,Acorus,KNApSAcK
+85,C00020062,71609-04-6,"(-)-Cadala-1,4,9-triene",C15H22,202.1721507,Acorus calamus,Acorus,KNApSAcK
+86,C00020064,25330-21-6,Isocalamendiol,C15H26O2,238.19328007,Acorus calamus,Acorus,KNApSAcK
+87,C00020065,481-34-5,(-)-alpha-Cadinol,C15H26O,222.19836545,Acorus calamus,Acorus,KNApSAcK
+88,C00020065,481-34-5,(-)-alpha-Cadinol,C15H26O,222.19836545,Acorus calanus L.,Acorus,KNApSAcK
+89,C00020066,5937-11-1,epi-alpha-Cadinol,C15H26O,222.19836545,Acorus calamus,Acorus,KNApSAcK
+90,C00020066,5937-11-1,epi-alpha-Cadinol,C15H26O,222.19836545,Acorus calanus L.,Acorus,KNApSAcK
+91,C00020067,21391-99-1,alpha-Calacorene,C15H20,200.15650064,Acorus calamus,Acorus,KNApSAcK
+92,C00020112,483-78-3,Cadalene,C15H18,198.14085057,Acorus calamus,Acorus,KNApSAcK
+93,C00020154,19912-62-0,tau-Muurolol,C15H26O,222.19836545,Acorus calamus,Acorus,KNApSAcK
+94,C00020166,5957-62-0,Calacone,C15H24O,220.18271539,Acorus calamus,Acorus,KNApSAcK
+95,C00020252,28305-60-4,beta-Oploplenone,C15H24O,220.18271539,Acorus calamus,Acorus,KNApSAcK
+96,C00020376,88-84-6,beta-Guaiene,C15H24,204.18780077,Acorus calamus,Acorus,KNApSAcK
+97,C00020383,22567-17-5,gamma-gurjunene epoxide,C15H24,204.18780077,Acorus calamus,Acorus,KNApSAcK
+98,C00020396,71305-96-9,Calamusenone,C15H22O,218.16706532,Acorus calamus,Acorus,KNApSAcK
+99,C00021227,489-40-7,alpha-Gurjunene,C15H24,204.18780077,Acorus calamus,Acorus,KNApSAcK
+100,C00021239,34413-94-0,Squamulosone,C15H22O,218.16706532,Acorus calanus L.,Acorus,KNApSAcK
+101,C00021306,64825-84-9,Oxidohimachalene,C15H22O,218.16706532,Acorus calamus,Acorus,KNApSAcK
+102,C00021309,3853-83-6,alpha-Himachalene,C15H24,204.18780077,Acorus calamus,Acorus,KNApSAcK
+103,C00021580,28477-64-7,beta-Acoradiene,C15H24,204.18780077,Acorus calanus L.,Acorus,KNApSAcK
+104,C00021580,28477-64-7,beta-Acoradiene,C15H24,204.18780077,Acorus calamus,Acorus,KNApSAcK
+105,C00021582,24048-44-0,alpha-Acoradiene,C15H24,204.18780077,Acorus calamus,Acorus,KNApSAcK
+106,C00021585,33983-45-8,Acoronene,C15H22O2,234.16197995,Acorus calanus L.,Acorus,KNApSAcK
+107,C00021585,33983-45-8,Acoronene,C15H22O2,234.16197995,Acorus calamus,Acorus,KNApSAcK
+108,C00021588,5956-06-9,Acoric acid,C15H24O4,268.16745925,Acorus calamus,Acorus,KNApSAcK
+109,C00021720,546-28-1,beta-Cedrene,C15H24,204.18780077,Acorus calanus L.,Acorus,KNApSAcK
+110,C00021720,546-28-1,beta-Cedrene,C15H24,204.18780077,Acorus calamus,Acorus,KNApSAcK
+111,C00021722,50894-66-1,Di-epi-alpha-cedrene,C15H24,204.18780077,Acorus calanus L.,Acorus,KNApSAcK
+112,C00021772,31145-21-8,(+)-Prezizaene,C15H24,204.18780077,Acorus calamus,Acorus,KNApSAcK
+113,C00021903,13474-59-4,trans-alpha-Bergamotene,C15H24,204.18780077,Acorus calamus,Acorus,KNApSAcK
+114,C00021983,66512-56-9,Khusiol,C15H26O,222.19836545,Acorus calanus L.,Acorus,KNApSAcK
+115,C00023769,83-47-6,Clionasterol,C29H50O,414.38616622,Acorus calanus L.,Acorus,KNApSAcK
+116,C00029339,40716-66-3,"(6E)-3,7,11-Trimethyl-1,6,10-dodecatrien-3-ol",C15H26O,222.19836545,Acorus calanus L.,Acorus,KNApSAcK
+117,C00029339,40716-66-3,"(6E)-3,7,11-Trimethyl-1,6,10-dodecatrien-3-ol",C15H26O,222.19836545,Acorus calamus,Acorus,KNApSAcK
+118,C00029350,28973-97-9,cis-beta-Farnesene,C15H24,204.18780077,Acorus calanus L.,Acorus,KNApSAcK
+119,C00029544,562-74-3,4-Terpineol,C10H18O,154.1357652,Acorus calamus,Acorus,KNApSAcK
+120,C00029544,562-74-3,4-Terpineol,C10H18O,154.1357652,Acorus calanus L.,Acorus,KNApSAcK
+121,C00029671,10208-80-7,alpha-Muurolene,C15H24,204.18780077,Acorus calanus L.,Acorus,KNApSAcK
+122,C00029672,473-13-2,(-)-alpha-Selinene,C15H24,204.18780077,Acorus calanus L.,Acorus,KNApSAcK
+123,C00029672,473-13-2,(-)-alpha-Selinene,C15H24,204.18780077,Acorus calamus,Acorus,KNApSAcK
+124,C00029674,98-55-5,alpha-Terpineol,C10H18O,154.1357652,Acorus calamus,Acorus,KNApSAcK
+125,C00029674,98-55-5,alpha-Terpineol,C10H18O,154.1357652,Acorus calanus L.,Acorus,KNApSAcK
+126,C00029844,76-49-3,Borneol acetate,C12H20O2,196.14632988,Acorus calamus,Acorus,KNApSAcK
+127,C00029881,17334-55-3,Calarene,C15H24,204.18780077,Acorus calamus,Acorus,KNApSAcK
+128,C00029881,17334-55-3,Calarene,C15H24,204.18780077,Acorus calanus L.,Acorus,KNApSAcK
+129,C00029961,621-82-9,Cinnamic acid,C9H8O2,148.0524295,Acorus calamus,Acorus,KNApSAcK
+130,C00030480,502-69-2,"6,10,14-Trimethyl-2-pentadecanone",C18H36O,268.27661577,Acorus calamus,Acorus,KNApSAcK
+131,C00030757,112-63-0,"Linoleic acid, methyl ester",C19H34O2,294.25588033,Acorus calanus L.,Acorus,KNApSAcK
+132,C00031258,3387-41-5,4(10)-Thujene,C10H16,136.12520051,Acorus calanus L.,Acorus,KNApSAcK
+133,C00034456,73464-47-8,beta-Gurjunene,C15H24,204.18780077,Acorus calamus,Acorus,KNApSAcK
+134,C00034496,34995-77-2,trans-Furanoid linalool oxide,C10H18O2,170.13067982,Acorus calamus,Acorus,KNApSAcK
+135,C00034746,5989-33-3,Z-Furanoid linalool oxide,C10H18O2,170.13067982,Acorus calamus,Acorus,KNApSAcK
+136,C00035130,1189-09-9,Methyl geranate,C11H18O2,182.13067982,Acorus calamus,Acorus,KNApSAcK
+137,C00035131,93-16-3,Methyl isoeugenol,C11H14O2,178.09937969,Acorus calamus,Acorus,KNApSAcK
+138,C00035564,150-84-5,Citronellyl acetate,C12H22O2,198.16197995,Acorus calamus,Acorus,KNApSAcK
+139,C00035691,2270-60-2,Methyl citronellate,C11H20O2,184.14632988,Acorus calamus,Acorus,KNApSAcK
+140,C00035798,5956-05-8,Acorenone,C15H24O,220.18271539,Acorus calamus,Acorus,KNApSAcK
+141,C00035798,5956-05-8,Acorenone,C15H24O,220.18271539,Acorus calanus L.,Acorus,KNApSAcK
+142,C00035800,220437-48-9,allo-Aromadendr-9-ene,C15H24,204.18780077,Acorus calanus L.,Acorus,KNApSAcK
+143,C00035802,830329-97-0,alpha-Neocallitropsene,C15H24,204.18780077,Acorus calanus L.,Acorus,KNApSAcK
+144,C00035811,79120-98-2,beta-Funebrene,C15H24,204.18780077,Acorus calanus L.,Acorus,KNApSAcK
+145,C00035811,79120-98-2,beta-Funebrene,C15H24,204.18780077,Acorus calamus,Acorus,KNApSAcK
+146,C00035823,106-23-0,Citronellal,C10H18O,154.1357652,Acorus calamus,Acorus,KNApSAcK
+147,C00035825,20777-49-5,Dihydrocarveol acetate,C12H20O2,196.14632988,Acorus calanus L.,Acorus,KNApSAcK
+148,C00035828,6980-46-7,gamma-Amorphene,C15H24,204.18780077,Acorus calanus L.,Acorus,KNApSAcK
+149,C00035842,6168-64-5,iso-Acorone,C15H24O2,236.17763001,Acorus calanus L.,Acorus,KNApSAcK
+150,C00035903,5912-86-7,cis-Isoeugenol,C10H12O2,164.08372963,Acorus calanus L.,Acorus,KNApSAcK
+151,C00036271,515-13-9,(-)-beta-Elemene,C15H24,204.18780077,Acorus calamus,Acorus,KNApSAcK
+152,C00036456,4460-86-0,"2,4,5-Trimethoxybenzaldehyde",C10H12O4,196.07355887,Acorus calamus,Acorus,KNApSAcK
+153,C00036463,3117-03-1,"2,5-Dimethoxy-p-benzoquinone",C8H8O4,168.04225874,Acorus calamus,Acorus,KNApSAcK
+154,C00036907,72937-55-4,cis-Calamenene,C15H22,202.1721507,Acorus calamus,Acorus,KNApSAcK
+155,C00042219,2883-98-9,alpha-Asarone,C12H16O3,208.10994438,Acorus calamus,Acorus,KNApSAcK
+156,C00042628,5353-15-1,Isoasarone,C12H16O3,208.10994438,Acorus calamus,Acorus,KNApSAcK
+157,C00046607,644-30-4,alpha-Curcumene,C15H22,202.1721507,Acorus calamus,Acorus,KNApSAcK
+158,C00048328,50277-34-4,beta-Calacorene,C15H20,200.15650064,Acorus calamus,Acorus,KNApSAcK
+159,C00050779,6380-24-1,cis-Methyl isoeugenol,C11H24O2,188.17763001,Acorus calamus,Acorus,KNApSAcK
+160,C00050849,56495-82-0,Irisquinone A,C24H38O3,374.28209508,Iris pseudacorus,Acorus,KNApSAcK
+161,C00050855,3904-18-5,Isoacoramone,C12H16O4,224.104859,Acorus calamus,Acorus,KNApSAcK
+162,C00050855,3904-18-5,Isoacoramone,C12H16O4,224.104859,Acorus tatrinowii,Acorus,KNApSAcK
+163,C00050998,510-42-9,Isosinomenine,C19H23NO4,329.16270823,Acorus calamus,Acorus,KNApSAcK
+164,C00053072,372162-07-7,cis-beta-Guaiene,C15H24,204.18780077,Acorus calamus,Acorus,KNApSAcK
+165,C00053689,42438-89-1,Pinostilbene,C15H14O3,242.09429431,Acorus calamus,Acorus,KNApSAcK
+166,C00053846,192053-49-9,trans-beta-Guaiene,C15H24,204.18780077,Acorus calamus,Acorus,KNApSAcK
+167,C00054659,185307-44-2,Acorusdiol,C15H24O3,252.17254463,Acorus calamus,Acorus,KNApSAcK
+168,C00054853,80434-33-9,Diasarone 2,C24H32O6,416.21988875,Acorus calamus,Acorus,KNApSAcK
+169,C00054957,10121-28-5,"3,8-Acoranedione",C15H24O2,236.17763001,Acorus calamus,Acorus,KNApSAcK
+170,C00054973,151986-17-3,1'-Acetoxychavicol.,C11H12O3,192.07864425,Acorus calamus,Acorus,KNApSAcK
+171,C00055017,62311-70-0,Acorusnol,C15H24O2,236.17763001,Acorus calamus,Acorus,KNApSAcK
+172,C00055100,2020-90-8,Acoramone,C12H16O4,224.104859,Acorus calamus,Acorus,KNApSAcK
+173,C00055381,934015-69-7,Acarafuran,C15H18O,214.1357652,Acorus calamus,Acorus,KNApSAcK
+174,C00055488,156158-90-6,Calamenone,C15H24O2,236.17763001,Acorus calamus,Acorus,KNApSAcK
+175,C00057852,133005-43-3,"3,7,11,11-Tetramethylbicyclo[8.1.0]undeca-2,6-diene",C15H24,204.18780077,Acorus calamus,Acorus,KNApSAcK
+176,C00058004,2020-84-0,"1-(2,4,5-Trimethoxyphenyl)-1,2-propanedione",C12H14O5,238.08412356,Acorus calamus,Acorus,KNApSAcK
+177,C00058064,286957-96-8,Tatarine A,C17H13NO3,279.08954329,Acorus calamus,Acorus,KNApSAcK
+178,C00058065,286957-98-0,Tatarine C,C15H20N2O6,324.13213639,Acorus calamus,Acorus,KNApSAcK
+179,C00058133,54878-25-0,"1(10),11-Spirovetivadien-2-one",C15H22O,218.16706532,Acorus calamus,Acorus,KNApSAcK
+180,C00059183,110823-68-2,"2,4-Diisopropenyl-1-methyl-1-vinyl-cyclohexane",C15H24,204.18780077,Acorus calamus,Acorus,KNApSAcK
+181,C00059601,129927-17-9,"8-Methyl-2-methylidene-5-(propan-2-yl)cyclodeca-3,7-dien-1-ol",C15H24O,220.18271539,Acorus calamus,Acorus,KNApSAcK
+182,C00061085,25249-93-8,Octahydro-8a-hydroxy-8-isopropyl-5-methylene-2(1H)-naphthalenone,C14H22O2,222.16197995,Acorus calamus,Acorus,KNApSAcK
+183,C00061086,25249-94-9,Octahydro-8a-hydroxy-8-isopropyl-5-methyl-2(1H)-naphthalenone,C14H24O2,224.17763001,Acorus calamus,Acorus,KNApSAcK
+184,C00061087,25249-96-1,4betaH-Cadin-10(15)-en-6-ol,C15H26O,222.19836545,Acorus calamus,Acorus,KNApSAcK
+185,C00061088,25249-97-2,"3,4,4a,5,6,7,8,8aalpha-Octahydro-4abeta-hydroxy-4-isopropyl-6beta-methyl-1(2H)-naphthalenone",C14H24O2,224.17763001,Acorus calamus,Acorus,KNApSAcK
+186,C00061098,25330-22-7,Cadin-10(15)-en-6-ol,C15H26O,222.19836545,Acorus calamus,Acorus,KNApSAcK
+187,C00061313,295-65-8,Cyclohexadecane,C16H32,224.25040102,Acorus calamus,Acorus,KNApSAcK
+188,C00061318,296-18-4,Cyclooctadecane,C18H36,252.28170115,Acorus calamus,Acorus,KNApSAcK
+189,C00061348,30167-28-3,Calameone,C15H26O2,238.19328007,Acorus calamus,Acorus,KNApSAcK
+190,C00061503,34143-95-8,"9-Aristolen-1,alpha-ol",C15H24O,220.18271539,Acorus calamus,Acorus,KNApSAcK
+191,C00061579,35727-47-0,"(4aalpha,5alpha,8beta,8abeta)-Octahydro-5,8a-dihydroxy-5-methyl-8-(1-methylethyl)-2(1H)-naphthalenone",C14H24O3,240.17254463,Acorus calamus,Acorus,KNApSAcK
+192,C00061580,35727-49-2,"(1alpha,4beta,4abeta,6alpha,8aalpha)-Octahydro-1,6-dimethyl-4-(1-methylethyl)-1,4a(2H)-naphthalenediol",C15H28O2,240.20893014,Acorus calamus,Acorus,KNApSAcK
+193,C00061581,35727-50-5,"(1alpha,4beta,4abeta,6beta,8aalpha)-Octahydro-1,6-dimethyl-4-(1-methylethyl)-1,4a(2H)-naphthalenediol",C15H28O2,240.20893014,Acorus calamus,Acorus,KNApSAcK
+194,C00061582,35727-54-9,"(1alpha,4alpha,4aalpha,6alpha,8abeta)-Octahydro-1,6-dimethyl-4-(1-methylethyl)-1,4a(2H)-naphthalenediol",C15H28O2,240.20893014,Acorus calamus,Acorus,KNApSAcK
+195,C00061583,35727-55-0,"(4aalpha,5beta,8beta,8abeta)-Octahydro-5,8a-dihydroxy-5-methyl-8-(1-methylethyl)-2(1H)-naphthalenone",C14H24O3,240.17254463,Acorus calamus,Acorus,KNApSAcK
+196,C00061584,35727-56-1,"4,6,7,8-Tetrahydro-5-methyl-8-(1-methylethyl)-2(3H)-naphthalenone",C14H20O,204.15141526,Acorus calamus,Acorus,KNApSAcK
+197,C00061585,35727-57-2,"(2alpha,4abeta,8alpha,8aalpha)-Octahydro-2-methyl-5-methylene-8-(1-methylethyl)-2,8a(1H)-naphthalenediol",C15H26O2,238.19328007,Acorus calamus,Acorus,KNApSAcK
+198,C00061591,35821-07-9,"(4alpha,4aalpha,8abeta)-Octahydro-1,6-bis(methylene)-4-(1-methylethyl)-4a(2H)-naphthalenol",C15H24O,220.18271539,Acorus calamus,Acorus,KNApSAcK
+199,C00061592,35821-08-0,"(1alpha,4alpha,4aalpha,6beta,8abeta)-Octahydro-1,6-dimethyl-4-(1-methylethyl)-1,4a(2H)-naphthalenediol",C15H28O2,240.20893014,Acorus calamus,Acorus,KNApSAcK
+200,C00061644,374901-54-9,"(1R,4R,5R)-1,8-Dimethyl-4-(1-methylethyl)spiro[4.5]dec-8-en-7-one",C15H24O,220.18271539,Acorus calamus,Acorus,KNApSAcK
+201,C00061673,38599-17-6,(S)-gamma-Calacorene,C15H20,200.15650064,Acorus calamus,Acorus,KNApSAcK
+202,C00061868,4726-45-8,"4,4a,5,6,7,8-Hexahydro-5-methyl-8-(1-methylethyl)-2(3H)-naphthalenone",C14H22O,206.16706532,Acorus calamus,Acorus,KNApSAcK
+203,C00062070,5273-84-7,(Z)-Isoelemicin,C13H15N5O4,305.112404,Acorus calamus,Acorus,KNApSAcK
+204,C00062628,6617-63-6,Tetrahydroshyobunone,C15H28O,224.21401552,Acorus calamus,Acorus,KNApSAcK
+205,C00062899,74924-06-4,"rel-(1R,2R,3R,6R)-3-Ethenyl-3-methyl-2-(1-methylethenyl)-6-(1-methylethyl)cyclohexanol",C15H26O,222.19836545,Acorus calamus,Acorus,KNApSAcK
+206,C00063193,86-81-7,"3,4,5-Trimethoxy benzaldehyde",C10H12O4,196.07355887,Acorus calamus,Acorus,KNApSAcK
+0,C00000149,6750-60-3,Espatulenol,C15H24O,220.18271539,Acorus calamus,Calamus,KNApSAcK
+1,C00000152,7400-08-0,p-Coumaric acid,C9H8O3,164.04734412,Acorus calamus,Calamus,KNApSAcK
+2,C00000619,97-53-0,Eugenol,C10H12O2,164.08372963,Acorus calamus,Calamus,KNApSAcK
+3,C00000633,73036-51-8,Acoradin,C24H32O6,416.21988875,Acorus calamus,Calamus,KNApSAcK
+4,C00000805,80-56-8,alpha-Pinene,C10H16,136.12520051,Acorus calamus,Calamus,KNApSAcK
+5,C00000816,127-91-3,beta-Pinene,C10H16,136.12520051,Acorus calamus,Calamus,KNApSAcK
+6,C00000819,76-22-2,(+)-Camphor,C10H16O,152.12011513,Acorus calamus,Calamus,KNApSAcK
+7,C00000823,138-86-3,Limonene,C10H16,136.12520051,Acorus calamus,Calamus,KNApSAcK
+8,C00000843,3338-55-4,cis-beta-Ocimene,C10H16,136.12520051,Acorus calamus,Calamus,KNApSAcK
+9,C00000844,106-22-9,Citronellol,C10H20O,156.15141526,Acorus calamus,Calamus,KNApSAcK
+10,C00000845,106-24-1,(E)-geraniol,C10H18O,154.1357652,Acorus calamus,Calamus,KNApSAcK
+11,C00000862,3779-61-1,trans-beta-Ocimene,C10H16,136.12520051,Acorus calamus,Calamus,KNApSAcK
+12,C00002715,5273-86-9,beta-Asarone,C12H16O3,208.10994438,Acorus calamus,Calamus,KNApSAcK
+13,C00002731,458-37-7,Curcumin,C21H20O6,368.12598837,Acorus calamus,Calamus,KNApSAcK
+14,C00002739,487-11-6,Elemicin,C12H16O3,208.10994438,Acorus calamus,Calamus,KNApSAcK
+15,C00002760,6379-72-2,Methylisoeugenol,C11H14O2,178.09937969,Acorus calamus,Calamus,KNApSAcK
+16,C00002902,537-42-8,E-Pterostilbene,C16H16O3,256.10994438,Acorus calamus,Calamus,KNApSAcK
+17,C00002903,501-36-0,Resveratrol,C14H12O3,228.07864425,Acorus calamus,Calamus,KNApSAcK
+18,C00003028,507-70-0,Borneol,C10H18O,154.1357652,Acorus calamus,Calamus,KNApSAcK
+19,C00003029,79-92-5,Camphene,C10H16,136.12520051,Acorus calamus,Calamus,KNApSAcK
+20,C00003035,141-27-5,trans-Citral,C10H16O,152.12011513,Acorus calamus,Calamus,KNApSAcK
+21,C00003036,106-26-3,cis-Citral,C10H16O,152.12011513,Acorus calamus,Calamus,KNApSAcK
+22,C00003046,105-87-3,Geranyl acetate,C12H20O2,196.14632988,Acorus calamus,Calamus,KNApSAcK
+23,C00003047,78-70-6,(+-)-Linalool,C10H18O,154.1357652,Acorus calamus,Calamus,KNApSAcK
+24,C00003110,87-44-5,beta-Caryophyllene,C15H24,204.18780077,Acorus calamus,Calamus,KNApSAcK
+25,C00003112,77-53-2,(+)-Cedrol,C15H26O,222.19836545,Acorus calamus,Calamus,KNApSAcK
+26,C00003134,15423-57-1,Germacrene B,C15H24,204.18780077,Acorus calamus,Calamus,KNApSAcK
+27,C00003147,6753-98-6,alpha-Caryophyllene (obsol.),C15H24,204.18780077,Acorus calamus,Calamus,KNApSAcK
+28,C00003186,17066-67-0,beta-Eudesmene,C15H24,204.18780077,Acorus calamus,Calamus,KNApSAcK
+29,C00003204,495-60-3,alpha-Zingiberene,C15H24,204.18780077,Acorus calamus,Calamus,KNApSAcK
+30,C00003467,150-86-7,Phytol,C20H40O,296.3079159,Acorus calamus,Calamus,KNApSAcK
+31,C00007260,524-14-1,Malonyl-CoA,C24H38N7O19P3S,853.11560229,Acorus calamus,Calamus,KNApSAcK
+32,C00007453,33880-83-0,beta-Elemene,C15H24,204.18780077,Acorus calamus,Calamus,KNApSAcK
+33,C00007636,483-76-1,delta-Cadinene,C15H24,204.18780077,Acorus calamus,Calamus,KNApSAcK
+34,C00010875,586-63-0,"2,4(8)-p-Menthadiene",C10H16,136.12520051,Acorus calamus,Calamus,KNApSAcK
+35,C00011692,53915-39-2,Isocaespitol,C15H25Br2ClO2,429.99098355,Acorus calamus,Calamus,KNApSAcK
+36,C00011709,50281-45-3,Acoragermacrone,C15H24O,220.18271539,Acorus calamus,Calamus,KNApSAcK
+37,C00011714,25645-19-6,Preisocalamendiol,C15H24O,220.18271539,Acorus calamus,Calamus,KNApSAcK
+38,C00011720,23986-74-5,(-)-Germacrene D,C15H24,204.18780077,Acorus calamus,Calamus,KNApSAcK
+39,C00012003,21698-44-2,Shyobunon,C15H24O,220.18271539,Acorus calamus,Calamus,KNApSAcK
+40,C00012004,39020-72-9,Epishyobunone,C15H24O,220.18271539,Acorus calamus,Calamus,KNApSAcK
+41,C00012005,639-99-6,(-)-Elemol,C15H26O,222.19836545,Acorus calamus,Calamus,KNApSAcK
+42,C00012007,21698-46-4,Isoshyobunone,C15H24O,220.18271539,Acorus calamus,Calamus,KNApSAcK
+43,C00012011,20307-84-0,delta-Elemene,C15H24,204.18780077,Acorus calamus,Calamus,KNApSAcK
+44,C00012425,24703-35-3,(+)-Bicyclogermacrene,C15H24,204.18780077,Acorus calamus,Calamus,KNApSAcK
+45,C00012444,19888-34-7,"Humulene 1,2-epoxide",C15H24O,220.18271539,Acorus calamus,Calamus,KNApSAcK
+46,C00012483,1139-30-6,(-)-beta-Caryophyllene epoxide,C15H24O,220.18271539,Acorus calamus,Calamus,KNApSAcK
+47,C00012708,6813-21-4,"Eudesma-3,7(11)-diene",C15H24,204.18780077,Acorus calamus,Calamus,KNApSAcK
+48,C00012802,39012-15-2,Isoacolamone,C15H24O,220.18271539,Acorus calamus,Calamus,KNApSAcK
+49,C00012806,39012-14-1,Acolamone,C15H24O,220.18271539,Acorus calamus,Calamus,KNApSAcK
+50,C00017471,6831-16-9,(-)-9-Aristolene,C15H24,204.18780077,Acorus calamus,Calamus,KNApSAcK
+51,C00017474,25274-27-5,Aristolone,C15H22O,218.16706532,Acorus calamus,Calamus,KNApSAcK
+52,C00020062,71609-04-6,"(-)-Cadala-1,4,9-triene",C15H22,202.1721507,Acorus calamus,Calamus,KNApSAcK
+53,C00020064,25330-21-6,Isocalamendiol,C15H26O2,238.19328007,Acorus calamus,Calamus,KNApSAcK
+54,C00020065,481-34-5,(-)-alpha-Cadinol,C15H26O,222.19836545,Acorus calamus,Calamus,KNApSAcK
+55,C00020066,5937-11-1,epi-alpha-Cadinol,C15H26O,222.19836545,Acorus calamus,Calamus,KNApSAcK
+56,C00020067,21391-99-1,alpha-Calacorene,C15H20,200.15650064,Acorus calamus,Calamus,KNApSAcK
+57,C00020112,483-78-3,Cadalene,C15H18,198.14085057,Acorus calamus,Calamus,KNApSAcK
+58,C00020154,19912-62-0,tau-Muurolol,C15H26O,222.19836545,Acorus calamus,Calamus,KNApSAcK
+59,C00020166,5957-62-0,Calacone,C15H24O,220.18271539,Acorus calamus,Calamus,KNApSAcK
+60,C00020252,28305-60-4,beta-Oploplenone,C15H24O,220.18271539,Acorus calamus,Calamus,KNApSAcK
+61,C00020376,88-84-6,beta-Guaiene,C15H24,204.18780077,Acorus calamus,Calamus,KNApSAcK
+62,C00020383,22567-17-5,gamma-gurjunene epoxide,C15H24,204.18780077,Acorus calamus,Calamus,KNApSAcK
+63,C00020396,71305-96-9,Calamusenone,C15H22O,218.16706532,Acorus calamus,Calamus,KNApSAcK
+64,C00021227,489-40-7,alpha-Gurjunene,C15H24,204.18780077,Acorus calamus,Calamus,KNApSAcK
+65,C00021306,64825-84-9,Oxidohimachalene,C15H22O,218.16706532,Acorus calamus,Calamus,KNApSAcK
+66,C00021309,3853-83-6,alpha-Himachalene,C15H24,204.18780077,Acorus calamus,Calamus,KNApSAcK
+67,C00021580,28477-64-7,beta-Acoradiene,C15H24,204.18780077,Acorus calamus,Calamus,KNApSAcK
+68,C00021582,24048-44-0,alpha-Acoradiene,C15H24,204.18780077,Acorus calamus,Calamus,KNApSAcK
+69,C00021585,33983-45-8,Acoronene,C15H22O2,234.16197995,Acorus calamus,Calamus,KNApSAcK
+70,C00021588,5956-06-9,Acoric acid,C15H24O4,268.16745925,Acorus calamus,Calamus,KNApSAcK
+71,C00021720,546-28-1,beta-Cedrene,C15H24,204.18780077,Acorus calamus,Calamus,KNApSAcK
+72,C00021772,31145-21-8,(+)-Prezizaene,C15H24,204.18780077,Acorus calamus,Calamus,KNApSAcK
+73,C00021903,13474-59-4,trans-alpha-Bergamotene,C15H24,204.18780077,Acorus calamus,Calamus,KNApSAcK
+74,C00029339,40716-66-3,"(6E)-3,7,11-Trimethyl-1,6,10-dodecatrien-3-ol",C15H26O,222.19836545,Acorus calamus,Calamus,KNApSAcK
+75,C00029544,562-74-3,4-Terpineol,C10H18O,154.1357652,Acorus calamus,Calamus,KNApSAcK
+76,C00029672,473-13-2,(-)-alpha-Selinene,C15H24,204.18780077,Acorus calamus,Calamus,KNApSAcK
+77,C00029674,98-55-5,alpha-Terpineol,C10H18O,154.1357652,Acorus calamus,Calamus,KNApSAcK
+78,C00029844,76-49-3,Borneol acetate,C12H20O2,196.14632988,Acorus calamus,Calamus,KNApSAcK
+79,C00029881,17334-55-3,Calarene,C15H24,204.18780077,Acorus calamus,Calamus,KNApSAcK
+80,C00029961,621-82-9,Cinnamic acid,C9H8O2,148.0524295,Acorus calamus,Calamus,KNApSAcK
+81,C00030480,502-69-2,"6,10,14-Trimethyl-2-pentadecanone",C18H36O,268.27661577,Acorus calamus,Calamus,KNApSAcK
+82,C00034456,73464-47-8,beta-Gurjunene,C15H24,204.18780077,Acorus calamus,Calamus,KNApSAcK
+83,C00034496,34995-77-2,trans-Furanoid linalool oxide,C10H18O2,170.13067982,Acorus calamus,Calamus,KNApSAcK
+84,C00034746,5989-33-3,Z-Furanoid linalool oxide,C10H18O2,170.13067982,Acorus calamus,Calamus,KNApSAcK
+85,C00035130,1189-09-9,Methyl geranate,C11H18O2,182.13067982,Acorus calamus,Calamus,KNApSAcK
+86,C00035131,93-16-3,Methyl isoeugenol,C11H14O2,178.09937969,Acorus calamus,Calamus,KNApSAcK
+87,C00035564,150-84-5,Citronellyl acetate,C12H22O2,198.16197995,Acorus calamus,Calamus,KNApSAcK
+88,C00035691,2270-60-2,Methyl citronellate,C11H20O2,184.14632988,Acorus calamus,Calamus,KNApSAcK
+89,C00035798,5956-05-8,Acorenone,C15H24O,220.18271539,Acorus calamus,Calamus,KNApSAcK
+90,C00035811,79120-98-2,beta-Funebrene,C15H24,204.18780077,Acorus calamus,Calamus,KNApSAcK
+91,C00035823,106-23-0,Citronellal,C10H18O,154.1357652,Acorus calamus,Calamus,KNApSAcK
+92,C00036271,515-13-9,(-)-beta-Elemene,C15H24,204.18780077,Acorus calamus,Calamus,KNApSAcK
+93,C00036456,4460-86-0,"2,4,5-Trimethoxybenzaldehyde",C10H12O4,196.07355887,Acorus calamus,Calamus,KNApSAcK
+94,C00036463,3117-03-1,"2,5-Dimethoxy-p-benzoquinone",C8H8O4,168.04225874,Acorus calamus,Calamus,KNApSAcK
+95,C00036907,72937-55-4,cis-Calamenene,C15H22,202.1721507,Acorus calamus,Calamus,KNApSAcK
+96,C00042219,2883-98-9,alpha-Asarone,C12H16O3,208.10994438,Acorus calamus,Calamus,KNApSAcK
+97,C00042628,5353-15-1,Isoasarone,C12H16O3,208.10994438,Acorus calamus,Calamus,KNApSAcK
+98,C00046607,644-30-4,alpha-Curcumene,C15H22,202.1721507,Acorus calamus,Calamus,KNApSAcK
+99,C00048328,50277-34-4,beta-Calacorene,C15H20,200.15650064,Acorus calamus,Calamus,KNApSAcK
+100,C00050779,6380-24-1,cis-Methyl isoeugenol,C11H24O2,188.17763001,Acorus calamus,Calamus,KNApSAcK
+101,C00050855,3904-18-5,Isoacoramone,C12H16O4,224.104859,Acorus calamus,Calamus,KNApSAcK
+102,C00050998,510-42-9,Isosinomenine,C19H23NO4,329.16270823,Acorus calamus,Calamus,KNApSAcK
+103,C00053072,372162-07-7,cis-beta-Guaiene,C15H24,204.18780077,Acorus calamus,Calamus,KNApSAcK
+104,C00053689,42438-89-1,Pinostilbene,C15H14O3,242.09429431,Acorus calamus,Calamus,KNApSAcK
+105,C00053846,192053-49-9,trans-beta-Guaiene,C15H24,204.18780077,Acorus calamus,Calamus,KNApSAcK
+106,C00054659,185307-44-2,Acorusdiol,C15H24O3,252.17254463,Acorus calamus,Calamus,KNApSAcK
+107,C00054853,80434-33-9,Diasarone 2,C24H32O6,416.21988875,Acorus calamus,Calamus,KNApSAcK
+108,C00054957,10121-28-5,"3,8-Acoranedione",C15H24O2,236.17763001,Acorus calamus,Calamus,KNApSAcK
+109,C00054973,151986-17-3,1'-Acetoxychavicol.,C11H12O3,192.07864425,Acorus calamus,Calamus,KNApSAcK
+110,C00055017,62311-70-0,Acorusnol,C15H24O2,236.17763001,Acorus calamus,Calamus,KNApSAcK
+111,C00055100,2020-90-8,Acoramone,C12H16O4,224.104859,Acorus calamus,Calamus,KNApSAcK
+112,C00055381,934015-69-7,Acarafuran,C15H18O,214.1357652,Acorus calamus,Calamus,KNApSAcK
+113,C00055488,156158-90-6,Calamenone,C15H24O2,236.17763001,Acorus calamus,Calamus,KNApSAcK
+114,C00057852,133005-43-3,"3,7,11,11-Tetramethylbicyclo[8.1.0]undeca-2,6-diene",C15H24,204.18780077,Acorus calamus,Calamus,KNApSAcK
+115,C00058004,2020-84-0,"1-(2,4,5-Trimethoxyphenyl)-1,2-propanedione",C12H14O5,238.08412356,Acorus calamus,Calamus,KNApSAcK
+116,C00058064,286957-96-8,Tatarine A,C17H13NO3,279.08954329,Acorus calamus,Calamus,KNApSAcK
+117,C00058065,286957-98-0,Tatarine C,C15H20N2O6,324.13213639,Acorus calamus,Calamus,KNApSAcK
+118,C00058133,54878-25-0,"1(10),11-Spirovetivadien-2-one",C15H22O,218.16706532,Acorus calamus,Calamus,KNApSAcK
+119,C00059183,110823-68-2,"2,4-Diisopropenyl-1-methyl-1-vinyl-cyclohexane",C15H24,204.18780077,Acorus calamus,Calamus,KNApSAcK
+120,C00059601,129927-17-9,"8-Methyl-2-methylidene-5-(propan-2-yl)cyclodeca-3,7-dien-1-ol",C15H24O,220.18271539,Acorus calamus,Calamus,KNApSAcK
+121,C00061085,25249-93-8,Octahydro-8a-hydroxy-8-isopropyl-5-methylene-2(1H)-naphthalenone,C14H22O2,222.16197995,Acorus calamus,Calamus,KNApSAcK
+122,C00061086,25249-94-9,Octahydro-8a-hydroxy-8-isopropyl-5-methyl-2(1H)-naphthalenone,C14H24O2,224.17763001,Acorus calamus,Calamus,KNApSAcK
+123,C00061087,25249-96-1,4betaH-Cadin-10(15)-en-6-ol,C15H26O,222.19836545,Acorus calamus,Calamus,KNApSAcK
+124,C00061088,25249-97-2,"3,4,4a,5,6,7,8,8aalpha-Octahydro-4abeta-hydroxy-4-isopropyl-6beta-methyl-1(2H)-naphthalenone",C14H24O2,224.17763001,Acorus calamus,Calamus,KNApSAcK
+125,C00061098,25330-22-7,Cadin-10(15)-en-6-ol,C15H26O,222.19836545,Acorus calamus,Calamus,KNApSAcK
+126,C00061313,295-65-8,Cyclohexadecane,C16H32,224.25040102,Acorus calamus,Calamus,KNApSAcK
+127,C00061318,296-18-4,Cyclooctadecane,C18H36,252.28170115,Acorus calamus,Calamus,KNApSAcK
+128,C00061348,30167-28-3,Calameone,C15H26O2,238.19328007,Acorus calamus,Calamus,KNApSAcK
+129,C00061503,34143-95-8,"9-Aristolen-1,alpha-ol",C15H24O,220.18271539,Acorus calamus,Calamus,KNApSAcK
+130,C00061579,35727-47-0,"(4aalpha,5alpha,8beta,8abeta)-Octahydro-5,8a-dihydroxy-5-methyl-8-(1-methylethyl)-2(1H)-naphthalenone",C14H24O3,240.17254463,Acorus calamus,Calamus,KNApSAcK
+131,C00061580,35727-49-2,"(1alpha,4beta,4abeta,6alpha,8aalpha)-Octahydro-1,6-dimethyl-4-(1-methylethyl)-1,4a(2H)-naphthalenediol",C15H28O2,240.20893014,Acorus calamus,Calamus,KNApSAcK
+132,C00061581,35727-50-5,"(1alpha,4beta,4abeta,6beta,8aalpha)-Octahydro-1,6-dimethyl-4-(1-methylethyl)-1,4a(2H)-naphthalenediol",C15H28O2,240.20893014,Acorus calamus,Calamus,KNApSAcK
+133,C00061582,35727-54-9,"(1alpha,4alpha,4aalpha,6alpha,8abeta)-Octahydro-1,6-dimethyl-4-(1-methylethyl)-1,4a(2H)-naphthalenediol",C15H28O2,240.20893014,Acorus calamus,Calamus,KNApSAcK
+134,C00061583,35727-55-0,"(4aalpha,5beta,8beta,8abeta)-Octahydro-5,8a-dihydroxy-5-methyl-8-(1-methylethyl)-2(1H)-naphthalenone",C14H24O3,240.17254463,Acorus calamus,Calamus,KNApSAcK
+135,C00061584,35727-56-1,"4,6,7,8-Tetrahydro-5-methyl-8-(1-methylethyl)-2(3H)-naphthalenone",C14H20O,204.15141526,Acorus calamus,Calamus,KNApSAcK
+136,C00061585,35727-57-2,"(2alpha,4abeta,8alpha,8aalpha)-Octahydro-2-methyl-5-methylene-8-(1-methylethyl)-2,8a(1H)-naphthalenediol",C15H26O2,238.19328007,Acorus calamus,Calamus,KNApSAcK
+137,C00061591,35821-07-9,"(4alpha,4aalpha,8abeta)-Octahydro-1,6-bis(methylene)-4-(1-methylethyl)-4a(2H)-naphthalenol",C15H24O,220.18271539,Acorus calamus,Calamus,KNApSAcK
+138,C00061592,35821-08-0,"(1alpha,4alpha,4aalpha,6beta,8abeta)-Octahydro-1,6-dimethyl-4-(1-methylethyl)-1,4a(2H)-naphthalenediol",C15H28O2,240.20893014,Acorus calamus,Calamus,KNApSAcK
+139,C00061644,374901-54-9,"(1R,4R,5R)-1,8-Dimethyl-4-(1-methylethyl)spiro[4.5]dec-8-en-7-one",C15H24O,220.18271539,Acorus calamus,Calamus,KNApSAcK
+140,C00061673,38599-17-6,(S)-gamma-Calacorene,C15H20,200.15650064,Acorus calamus,Calamus,KNApSAcK
+141,C00061868,4726-45-8,"4,4a,5,6,7,8-Hexahydro-5-methyl-8-(1-methylethyl)-2(3H)-naphthalenone",C14H22O,206.16706532,Acorus calamus,Calamus,KNApSAcK
+142,C00062070,5273-84-7,(Z)-Isoelemicin,C13H15N5O4,305.112404,Acorus calamus,Calamus,KNApSAcK
+143,C00062628,6617-63-6,Tetrahydroshyobunone,C15H28O,224.21401552,Acorus calamus,Calamus,KNApSAcK
+144,C00062899,74924-06-4,"rel-(1R,2R,3R,6R)-3-Ethenyl-3-methyl-2-(1-methylethenyl)-6-(1-methylethyl)cyclohexanol",C15H26O,222.19836545,Acorus calamus,Calamus,KNApSAcK
+145,C00063193,86-81-7,"3,4,5-Trimethoxy benzaldehyde",C10H12O4,196.07355887,Acorus calamus,Calamus,KNApSAcK
+0,C00010479,75005-96-8,Calycinoside,C21H32O16,540.16903498,Misopates orontium,Orontium,KNApSAcK
+1,C00010479,75005-96-8,Calycinoside,C21H32O16,540.16903498,Antirrhinum orontium,Orontium,KNApSAcK

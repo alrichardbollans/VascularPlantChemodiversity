@@ -1,0 +1,716 @@
+,C_ID,CAS ID,example_compound_name,Molecular formula,Mw,Organism,knapsack_search_term,Source
+0,C00000003,77-06-5,Gibberellin A3,C19H22O6,346.14163844,Dalbergia dolichopetala,Bergia,KNApSAcK
+1,C00000004,468-44-0,Gibberellin A4,C19H24O5,332.16237388,Dalbergia dolichopetala,Bergia,KNApSAcK
+2,C00000005,561-56-8,Gibberellin A5,C19H22O5,330.14672381,Dalbergia dolichopetala,Bergia,KNApSAcK
+3,C00000008,7044-72-6,Gibberellin A8,C19H24O7,364.15220312,Dalbergia dolichopetala,Bergia,KNApSAcK
+4,C00000020,19143-87-4,Gibberellin A20,C19H24O5,332.16237388,Dalbergia dolichopetala,Bergia,KNApSAcK
+5,C00000028,32780-05-5,Gibberellin A28,C20H26O8,394.16276781,Dalbergia dolichopetala,Bergia,KNApSAcK
+6,C00000100,87-51-4,Indole-3-acetic acid,C10H9NO2,175.06332854,Dalbergia dolichopetala,Bergia,KNApSAcK
+7,C00000101,1912-33-0,Methyl indole-3-acetate,C11H11NO2,189.0789786,Dalbergia dolichopetala,Bergia,KNApSAcK
+8,C00000114,526-55-6,Indole-3-ethanol,C10H11NO,161.08406398,Dalbergia dolichopetala,Bergia,KNApSAcK
+9,C00000207,65-85-0,Benzoic acid,C7H6O2,122.03677944,Dalbergia spruceana,Bergia,KNApSAcK
+10,C00000207,65-85-0,Benzoic acid,C7H6O2,122.03677944,Dalbergia cochinchinensis,Bergia,KNApSAcK
+11,C00000257,1890-99-9,Xenognosin B,C16H12O5,284.06847349,Dalbergia odorifera,Bergia,KNApSAcK
+12,C00000602,27003-73-2,(+)-Lariciresinol,C20H24O6,360.1572885,Nierembergia aristata,Bergia,KNApSAcK
+13,C00000674,491-70-3,"5,7,3',4'-Tetrahydroxyflavone",C15H10O6,286.04773805,Dalbergia odorifera,Bergia,KNApSAcK
+14,C00000845,106-24-1,(E)-geraniol,C10H18O,154.1357652,Boesenbergia rotunda (LINN.) MANSF.,Bergia,KNApSAcK
+15,C00000945,492-14-8,Butin,C15H12O5,272.06847349,Dalbergia odorifera,Bergia,KNApSAcK
+16,C00000950,494-48-4,"7,4'-Dihydroxyflavan",C15H14O3,242.09429431,Dalbergia latifolia,Bergia,KNApSAcK
+17,C00000960,552-58-9,Eriodictyol,C15H12O6,288.06338812,Dalbergia odorifera,Bergia,KNApSAcK
+18,C00000968,520-33-2,Hesperetin,C16H14O6,302.07903818,Dalbergia parviflora,Bergia,KNApSAcK
+19,C00000969,446-71-9,Homoeriodictyol,C16H14O6,302.07903818,Dalbergia odorifera,Bergia,KNApSAcK
+20,C00000977,578-86-9,Liquiritigenin,C15H12O4,256.07355887,Dalbergia odorifera,Bergia,KNApSAcK
+21,C00000977,578-86-9,Liquiritigenin,C15H12O4,256.07355887,Dalbergia stevensonii,Bergia,KNApSAcK
+22,C00000977,578-86-9,Liquiritigenin,C15H12O4,256.07355887,Dalbergia latifolia,Bergia,KNApSAcK
+23,C00000977,578-86-9,Liquiritigenin,C15H12O4,256.07355887,Dalbergia ecastaphyllum,Bergia,KNApSAcK
+24,C00000977,578-86-9,Liquiritigenin,C15H12O4,256.07355887,Dalbergia sissoides,Bergia,KNApSAcK
+25,C00000982,480-41-1,Naringenin,C15H12O5,272.06847349,Dalbergia odorifera,Bergia,KNApSAcK
+26,C00000982,480-41-1,Naringenin,C15H12O5,272.06847349,Dalbergia stevensonii,Bergia,KNApSAcK
+27,C00000992,480-39-7,Dihydrochrysin,C15H12O4,256.07355887,Boesenbergia rotunda (LINN.) MANSF.,Bergia,KNApSAcK
+28,C00000992,480-39-7,Dihydrochrysin,C15H12O4,256.07355887,Dalbergia odorifera,Bergia,KNApSAcK
+29,C00000993,13241-31-1,Pinocembrin 7-rhamnosylglucoside,C27H32O13,564.18429111,Nierembergia hippomanica,Bergia,KNApSAcK
+30,C00000999,2957-21-3,Sakuranetin,C16H14O5,286.08412356,Boesenbergia rotunda (L.) Mansf.Kulturpfl.,Bergia,KNApSAcK
+31,C00000999,2957-21-3,Sakuranetin,C16H14O5,286.08412356,Dalbergia odorifera,Bergia,KNApSAcK
+32,C00001028,21392-57-4,"5,7-Dimethoxyflavone",C17H14O4,282.08920894,Boesenbergia pandurata,Bergia,KNApSAcK
+33,C00001042,26964-29-4,"Galangin 3,5,7-trimethyl ether",C18H16O5,312.09977362,Boesenbergia pandurata,Bergia,KNApSAcK
+34,C00001059,38953-85-4,Isovitexin,C21H20O10,432.10564686,Dalbergia monetaria,Bergia,KNApSAcK
+35,C00001062,1592-70-7,Isokaempferide,C16H12O6,300.06338812,Dalbergia odorifera,Bergia,KNApSAcK
+36,C00001164,87-89-8,Inositol,C6H12O6,180.06338812,Dalbergia sissoo,Bergia,KNApSAcK
+37,C00001454,99-18-3,Prunasin,C14H17NO6,295.10558728,Dalbergia spinosa,Bergia,KNApSAcK
+38,C00001454,99-18-3,Prunasin,C14H17NO6,295.10558728,Dalbergia miscolobium,Bergia,KNApSAcK
+39,C00001572,477-17-8,Hippeastrine,C17H17NO5,315.11067266,Sternbergia lutea,Bergia,KNApSAcK
+40,C00001576,476-28-8,(-)-Lycorine,C16H17NO4,287.11575804,Sternbergia lutea,Bergia,KNApSAcK
+41,C00001815,15248-39-2,Backebergine,C11H11NO2,189.0789786,Backebergia militaris,Bergia,KNApSAcK
+42,C00002024,97744-98-4,Brunfelsamidine,C5H7N3,109.06399725,Nierembergia hippomanica,Bergia,KNApSAcK
+43,C00002377,88110-66-1,"Cyanidin 3,5,3'-triglucoside",C33H41O21,773.21403338,Billbergia buchholtzii,Bergia,KNApSAcK
+44,C00002499,92-61-5,Scopoletin,C10H8O4,192.04225874,Acacia ehrenbergiana,Bergia,KNApSAcK
+45,C00002503,93-35-6,Umbelliferone,C9H6O3,162.03169406,Acacia ehrenbergiana,Bergia,KNApSAcK
+46,C00002507,550-79-8,Afrormosin,C17H14O5,298.08412356,Dalbergia frutescens,Bergia,KNApSAcK
+47,C00002509,51068-94-1,Betavulgarin,C17H12O6,312.06338812,Dalbergia spp.,Bergia,KNApSAcK
+48,C00002510,491-80-5,Biochanin A,C16H12O5,284.06847349,Dalbergia odorifera,Bergia,KNApSAcK
+49,C00002510,491-80-5,Biochanin A,C16H12O5,284.06847349,Dalbergia spruceana,Bergia,KNApSAcK
+50,C00002510,491-80-5,Biochanin A,C16H12O5,284.06847349,Dalbergia lanceolaria,Bergia,KNApSAcK
+51,C00002510,491-80-5,Biochanin A,C16H12O5,284.06847349,Dalbergia volubilis,Bergia,KNApSAcK
+52,C00002510,491-80-5,Biochanin A,C16H12O5,284.06847349,Dalbergia nitidula,Bergia,KNApSAcK
+53,C00002510,491-80-5,Biochanin A,C16H12O5,284.06847349,Dalbergia parviflora,Bergia,KNApSAcK
+54,C00002511,53774-75-7,Bowdichione,C16H10O6,298.04773805,Dalbergia odorifera,Bergia,KNApSAcK
+55,C00002511,53774-75-7,Bowdichione,C16H10O6,298.04773805,Dalbergia parviflora,Bergia,KNApSAcK
+56,C00002512,32884-36-9,Cajanin,C16H12O6,300.06338812,Dalbergia parviflora,Bergia,KNApSAcK
+57,C00002519,482-83-7,Dalbergin,C16H12O4,268.07355887,Dalbergia baronii,Bergia,KNApSAcK
+58,C00002519,482-83-7,Dalbergin,C16H12O4,268.07355887,Dalbergia cochinchinensis,Bergia,KNApSAcK
+59,C00002519,482-83-7,Dalbergin,C16H12O4,268.07355887,Dalbergia cultrata,Bergia,KNApSAcK
+60,C00002519,482-83-7,Dalbergin,C16H12O4,268.07355887,Dalbergia miscolobium,Bergia,KNApSAcK
+61,C00002519,482-83-7,Dalbergin,C16H12O4,268.07355887,Dalbergia nitidula,Bergia,KNApSAcK
+62,C00002519,482-83-7,Dalbergin,C16H12O4,268.07355887,Dalbergia odorifera,Bergia,KNApSAcK
+63,C00002519,482-83-7,Dalbergin,C16H12O4,268.07355887,Dalbergia sissoides,Bergia,KNApSAcK
+64,C00002519,482-83-7,Dalbergin,C16H12O4,268.07355887,Dalbergia sissoo,Bergia,KNApSAcK
+65,C00002519,482-83-7,Dalbergin,C16H12O4,268.07355887,Dalbergia spruceana,Bergia,KNApSAcK
+66,C00002519,482-83-7,Dalbergin,C16H12O4,268.07355887,Dalbergia stevensonii,Bergia,KNApSAcK
+67,C00002519,482-83-7,Dalbergin,C16H12O4,268.07355887,Dalbergia cearensis,Bergia,KNApSAcK
+68,C00002519,482-83-7,Dalbergin,C16H12O4,268.07355887,Dalbergia volubilis,Bergia,KNApSAcK
+69,C00002525,485-72-3,Formononetin,C16H12O4,268.07355887,Dalbergia monetaria,Bergia,KNApSAcK
+70,C00002525,485-72-3,Formononetin,C16H12O4,268.07355887,Dalbergia nitidula,Bergia,KNApSAcK
+71,C00002525,485-72-3,Formononetin,C16H12O4,268.07355887,Dalbergia stevensonii,Bergia,KNApSAcK
+72,C00002525,485-72-3,Formononetin,C16H12O4,268.07355887,Dalbergia baronii,Bergia,KNApSAcK
+73,C00002525,485-72-3,Formononetin,C16H12O4,268.07355887,Dalbergia barretoana,Bergia,KNApSAcK
+74,C00002525,485-72-3,Formononetin,C16H12O4,268.07355887,Dalbergia candenatensis,Bergia,KNApSAcK
+75,C00002525,485-72-3,Formononetin,C16H12O4,268.07355887,Dalbergia volubilis,Bergia,KNApSAcK
+76,C00002525,485-72-3,Formononetin,C16H12O4,268.07355887,Dalbergia spruceana,Bergia,KNApSAcK
+77,C00002525,485-72-3,Formononetin,C16H12O4,268.07355887,Dalbergia cearensis,Bergia,KNApSAcK
+78,C00002525,485-72-3,Formononetin,C16H12O4,268.07355887,Dalbergia parviflora,Bergia,KNApSAcK
+79,C00002525,485-72-3,Formononetin,C16H12O4,268.07355887,Dalbergia odorifera,Bergia,KNApSAcK
+80,C00002525,485-72-3,Formononetin,C16H12O4,268.07355887,Dalbergia ecastophyllum,Bergia,KNApSAcK
+81,C00002525,485-72-3,Formononetin,C16H12O4,268.07355887,Dalbergia frutescens,Bergia,KNApSAcK
+82,C00002525,485-72-3,Formononetin,C16H12O4,268.07355887,Dalbergia inundata,Bergia,KNApSAcK
+83,C00002525,485-72-3,Formononetin,C16H12O4,268.07355887,Dalbergia lanceolaria,Bergia,KNApSAcK
+84,C00002526,446-72-0,Genistein,C15H10O5,270.05282343,Hardenbergia violacea,Bergia,KNApSAcK
+85,C00002526,446-72-0,Genistein,C15H10O5,270.05282343,Dalbergia odorifera,Bergia,KNApSAcK
+86,C00002532,69393-95-9,(-)-Glycinol,C15H12O5,272.06847349,Pueraria thunbergiana,Bergia,KNApSAcK
+87,C00002536,61135-95-3,4-Hydroxyhomopterocarpin,C17H16O5,300.09977362,Dalbergia odorifera,Bergia,KNApSAcK
+88,C00002540,2345-17-7,Irisolidone,C17H14O6,314.07903818,Pueraria thunbergiana,Bergia,KNApSAcK
+89,C00002542,66056-19-7,Licoisoflavone A,C20H18O6,354.11033831,Hardenbergia violacea,Bergia,KNApSAcK
+90,C00002545,41743-56-0,Luteone,C20H18O6,354.11033831,Hardenbergia violacea,Bergia,KNApSAcK
+91,C00002546,2035-15-6,(-)-Maackiain,C16H12O5,284.06847349,Dalbergia sericea,Bergia,KNApSAcK
+92,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Dalbergia stevensonii,Bergia,KNApSAcK
+93,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Dalbergia odorifera,Bergia,KNApSAcK
+94,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Dalbergia sericea,Bergia,KNApSAcK
+95,C00002547,32383-76-9,(-)-Medicarpin,C16H14O4,270.08920894,Dalbergia variabilis,Bergia,KNApSAcK
+96,C00002548,58115-08-5,Melannin,C16H12O5,284.06847349,Dalbergia odorifera,Bergia,KNApSAcK
+97,C00002548,58115-08-5,Melannin,C16H12O5,284.06847349,Dalbergia melanoxylon,Bergia,KNApSAcK
+98,C00002549,4646-86-0,(R)-4-Methoxydalbergione,C16H14O3,254.09429431,Dalbergia retusa,Bergia,KNApSAcK
+99,C00002549,4646-86-0,(R)-4-Methoxydalbergione,C16H14O3,254.09429431,Dalbergia nigra,Bergia,KNApSAcK
+100,C00002549,4646-86-0,(R)-4-Methoxydalbergione,C16H14O3,254.09429431,Dalbergia odorifera,Bergia,KNApSAcK
+101,C00002549,4646-86-0,(R)-4-Methoxydalbergione,C16H14O3,254.09429431,Dalbergia spp.,Bergia,KNApSAcK
+102,C00002551,20878-97-1,(-)-Mucronulatol,C17H18O5,302.11542369,Dalbergia variabilis,Bergia,KNApSAcK
+103,C00002554,480-23-9,Orobol,C15H10O6,286.04773805,Dalbergia odorifera,Bergia,KNApSAcK
+104,C00002557,32361-88-9,Paniculatin,C27H30O15,594.15847029,Dalbergia nitidula,Bergia,KNApSAcK
+105,C00002557,32361-88-9,Paniculatin,C27H30O15,594.15847029,Dalbergia paniculata,Bergia,KNApSAcK
+106,C00002563,2284-31-3,Pratensein,C16H12O6,300.06338812,Dalbergia parviflora,Bergia,KNApSAcK
+107,C00002564,552-59-0,Prunetin,C16H12O5,284.06847349,Dalbergia miscolobium,Bergia,KNApSAcK
+108,C00002564,552-59-0,Prunetin,C16H12O5,284.06847349,Dalbergia violacea,Bergia,KNApSAcK
+109,C00002564,552-59-0,Prunetin,C16H12O5,284.06847349,Dalbergia odorifera,Bergia,KNApSAcK
+110,C00002565,90-29-9,Pseudobaptigenin,C16H10O5,282.05282343,Dalbergia sericea,Bergia,KNApSAcK
+111,C00002565,90-29-9,Pseudobaptigenin,C16H10O5,282.05282343,Dalbergia latifolia,Bergia,KNApSAcK
+112,C00002565,90-29-9,Pseudobaptigenin,C16H10O5,282.05282343,Dalbergia assamica,Bergia,KNApSAcK
+113,C00002565,90-29-9,Pseudobaptigenin,C16H10O5,282.05282343,Dalbergia stevensonii,Bergia,KNApSAcK
+114,C00002565,90-29-9,Pseudobaptigenin,C16H10O5,282.05282343,Dalbergia spruceana,Bergia,KNApSAcK
+115,C00002576,611-40-5,Tectoridin,C22H22O11,462.11621155,Dalbergia volubilis,Bergia,KNApSAcK
+116,C00002576,611-40-5,Tectoridin,C22H22O11,462.11621155,Dalbergia spp.,Bergia,KNApSAcK
+117,C00002576,611-40-5,Tectoridin,C22H22O11,462.11621155,Pueraria thunbergiana,Bergia,KNApSAcK
+118,C00002576,611-40-5,Tectoridin,C22H22O11,462.11621155,Dalbergia riparia,Bergia,KNApSAcK
+119,C00002577,548-77-6,Tectorigenin,C16H12O6,300.06338812,Dalbergia riparia,Bergia,KNApSAcK
+120,C00002577,548-77-6,Tectorigenin,C16H12O6,300.06338812,Dalbergia stevensonii Standl.,Bergia,KNApSAcK
+121,C00002577,548-77-6,Tectorigenin,C16H12O6,300.06338812,Dalbergia volubilis,Bergia,KNApSAcK
+122,C00002577,548-77-6,Tectorigenin,C16H12O6,300.06338812,Dalbergia odorifera,Bergia,KNApSAcK
+123,C00002577,548-77-6,Tectorigenin,C16H12O6,300.06338812,Dalbergia parviflora,Bergia,KNApSAcK
+124,C00002583,20879-05-4,(+)-Vestitol,C16H16O4,272.104859,Dalbergia variabilis,Bergia,KNApSAcK
+125,C00002584,66211-83-4,Vestitone,C16H14O5,286.08412356,Dalbergia odorifera,Bergia,KNApSAcK
+126,C00002739,487-11-6,Elemicin,C12H16O3,208.10994438,Dalbergia spruceana,Bergia,KNApSAcK
+127,C00002892,41060-20-2,Orchinol,C16H16O3,256.10994438,Epimedium grandiflorum var. thunbergianum,Bergia,KNApSAcK
+128,C00002896,27208-80-6,(E)-Piceid,C20H22O8,390.13146768,Eucalyptus abergiana,Bergia,KNApSAcK
+129,C00002897,22139-77-1,Pinosylvin,C14H12O2,212.08372963,Dalbergia sissoo,Bergia,KNApSAcK
+130,C00002903,501-36-0,Resveratrol,C14H12O3,228.07864425,Eucalyptus abergiana,Bergia,KNApSAcK
+131,C00003444,5835-26-7,Isopimaric acid,C20H30O2,302.2245802,Boesenbergia rotunda (L.) Mansf.Kulturpfl.,Bergia,KNApSAcK
+132,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Dalbergia volubilis,Bergia,KNApSAcK
+133,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Dalbergia odorifera,Bergia,KNApSAcK
+134,C00003738,559-70-6,beta-Amyrin,C30H50O,426.38616622,Ekebergia pterophylla,Bergia,KNApSAcK
+135,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Dalbergia sericea,Bergia,KNApSAcK
+136,C00003758,127-22-0,Taraxerol,C30H50O,426.38616622,Dalbergia sericea,Bergia,KNApSAcK
+137,C00003795,520-28-5,Tectochrysin,C16H12O4,268.07355887,Boesenbergia pandurata,Bergia,KNApSAcK
+138,C00003820,480-44-4,Acacetin,C16H12O5,284.06847349,Dalbergia odorifera,Bergia,KNApSAcK
+139,C00003821,5631-70-9,"5,7,4'-Trimethoxyflavone",C18H16O5,312.09977362,Boesenbergia pandurata,Bergia,KNApSAcK
+140,C00003871,855-97-0,"5,7,3',4'-Tetramethoxyflavone",C19H18O6,342.11033831,Boesenbergia pandurata,Bergia,KNApSAcK
+141,C00004342,33579-63-4,Luteolin 3'-methyl ether 7-apiosyl-(1->2)-glucoside,C27H30O15,594.15847029,Dalbergia monetaria,Bergia,KNApSAcK
+142,C00004502,150460-69-8,Luteolin 4'-rutinoside,C27H30O15,594.15847029,Dalbergia stipulacea,Bergia,KNApSAcK
+143,C00004502,150460-69-8,Luteolin 4'-rutinoside,C27H30O15,594.15847029,Dalbergia spruceana,Bergia,KNApSAcK
+144,C00004537,70786-48-0,"5-Hydroxy-3,7-dimethoxyflavone",C17H14O5,298.08412356,Boesenbergia pandurata,Bergia,KNApSAcK
+145,C00004579,528-48-3,Fisetin,C15H10O6,286.04773805,Dalbergia odorifera,Bergia,KNApSAcK
+146,C00004635,480-19-3,Isorhamnetin,C16H12O7,316.05830274,Dalbergia hupeana,Bergia,KNApSAcK
+147,C00004653,1245-15-4,"5-Hydroxy-3,7,3',4'-tetramethoxyflavone",C19H18O7,358.10525293,Dalbergia retusa,Bergia,KNApSAcK
+148,C00004655,1247-97-8,"3,5,7,3',4'-Pentamethoxyflavone",C20H20O7,372.12090299,Boesenbergia pandurata,Bergia,KNApSAcK
+149,C00005396,63292-82-0,Quercetin 3-galactosyl-(1->4)-galactoside,C27H30O17,626.14829954,Dalbergia sericea,Bergia,KNApSAcK
+150,C00005595,137129-37-4,Tamarixetin 3-robinobioside,C28H32O16,624.16903498,Wahlenbergia marginata,Bergia,KNApSAcK
+151,C00005722,161833-36-9,"3,5,7,2',3',4'-Hexahydroxyflavone 3-glucoside",C21H20O13,480.09039073,Eupatorium sternbergianum,Bergia,KNApSAcK
+152,C00006092,3682-02-8,Isohemiphloin,C21H22O10,434.12129692,Dalbergia odorifera,Bergia,KNApSAcK
+153,C00006093,66026-81-1,8-C-Glucosylorobol,C21H20O11,448.10056148,Dalbergia nitidula,Bergia,KNApSAcK
+154,C00006094,3681-99-0,Puerarin,C21H20O9,416.11073224,Pueraria thunbergiana,Bergia,KNApSAcK
+155,C00006104,113349-18-1,6-C-Galactosylluteolin,C21H20O11,448.10056148,Muhlenbergia spp.,Bergia,KNApSAcK
+156,C00006118,66026-80-0,Genistein 8-C-glucoside,C21H20O10,432.10564686,Dalbergia sissoo,Bergia,KNApSAcK
+157,C00006118,66026-80-0,Genistein 8-C-glucoside,C21H20O10,432.10564686,Dalbergia nitidula,Bergia,KNApSAcK
+158,C00006119,118949-92-1,6-C-Glucosylorobol,C21H20O11,448.10056148,Dalbergia monetaria,Bergia,KNApSAcK
+159,C00006132,40522-83-6,Dalpanitin,C22H22O11,462.11621155,Dalbergia paniculata,Bergia,KNApSAcK
+160,C00006139,52448-12-1,Prunetin 8-C-glucoside,C22H22O10,446.12129692,Dalbergia paniculata,Bergia,KNApSAcK
+161,C00006145,118949-93-2,Orobol 8-C-(6''-acetylglucoside),C23H22O12,490.11112617,Dalbergia monetaria,Bergia,KNApSAcK
+162,C00006153,56317-19-2,Isovolubilin,C23H24O9,444.14203237,Dalbergia volubilis,Bergia,KNApSAcK
+163,C00006154,56312-87-9,Volubilin,C23H24O9,444.14203237,Dalbergia volubilis,Bergia,KNApSAcK
+164,C00006155,58930-58-8,Volubilinin,C23H24O11,476.13186161,Dalbergia volubilis,Bergia,KNApSAcK
+165,C00006157,118949-91-0,Orobol 6-C-(6''-acetylglucoside),C23H22O12,490.11112617,Dalbergia monetaria,Bergia,KNApSAcK
+166,C00006165,133956-26-0,Dalpaniculin,C25H28O13,536.15299098,Dalbergia paniculata,Bergia,KNApSAcK
+167,C00006180,37376-13-9,Dalpanin,C26H30O12,534.17372642,Dalbergia paniculata,Bergia,KNApSAcK
+168,C00006245,118949-94-3,"Orobol 6,8-di-C-glucoside",C27H30O16,610.15338491,Dalbergia paniculata,Bergia,KNApSAcK
+169,C00006245,118949-94-3,"Orobol 6,8-di-C-glucoside",C27H30O16,610.15338491,Dalbergia nitidula,Bergia,KNApSAcK
+170,C00006571,85915-64-6,"(3S,4S)-3,4-trans-2',7-Dihydroxy-4'-methoxy-4-[(3S)-2',7-dihydroxy-4'-methoxyisoflavan-5'-yl]isoflavan",C32H30O8,542.19406794,Dalbergia nitidula,Bergia,KNApSAcK
+171,C00006572,100477-95-0,3'-Hydroxyvestitol-(4->5')-vestitol,C32H30O9,558.18898256,Dalbergia odorifera,Bergia,KNApSAcK
+172,C00006573,100477-97-2,Vestitol-(4->5')-vestitol,C32H30O8,542.19406794,Dalbergia odorifera,Bergia,KNApSAcK
+173,C00006574,100477-99-4,5'-Methoxyvestitol-(4->5')-vestitol,C33H32O9,572.20463262,Dalbergia odorifera,Bergia,KNApSAcK
+174,C00006575,100478-01-1,Mucronulatol-(4->5')-vestitol,C33H32O9,572.20463262,Dalbergia odorifera,Bergia,KNApSAcK
+175,C00006576,100478-03-3,Claussequinone-(4->5')-vestitol,C32H28O9,556.17333249,Dalbergia odorifera,Bergia,KNApSAcK
+176,C00006577,133738-49-5,Mucronulatol-(4->6)-naringenin,C32H28O10,572.16824712,Dalbergia odorifera,Bergia,KNApSAcK
+177,C00006578,132586-73-3,"Vestitol-(6->3)-7,2'-dihydroxy-4'-methoxyflav-2-ene",C32H28O8,540.17841787,Dalbergia odorifera,Bergia,KNApSAcK
+178,C00006579,132586-74-4,"Vestitol-(5'->3)-7,2'-dihydroxy-4'-methoxyflav-2-ene",C32H28O8,540.17841787,Dalbergia odorifera,Bergia,KNApSAcK
+179,C00006580,132586-75-5,"Vestitol-(5'->3)-7,2'-dihydroxy-4'-methoxyflavone",C32H26O9,554.15768243,Dalbergia odorifera,Bergia,KNApSAcK
+180,C00006581,116743-76-1,Vestitol-(5'->2)-2'-hydroxyformononetin,C32H26O9,554.15768243,Dalbergia nitidula,Bergia,KNApSAcK
+181,C00006582,115321-26-1,Candenatone,C32H26O7,522.16785319,Dalbergia candenatensis,Bergia,KNApSAcK
+182,C00006601,164124-44-1,Daljanelin A,C32H26O7,522.16785319,Dalbergia nitidula,Bergia,KNApSAcK
+183,C00006602,164124-45-2,Daljanelin B,C32H26O7,522.16785319,Dalbergia nitidula,Bergia,KNApSAcK
+184,C00006603,164124-46-3,Daljanelin C,C32H26O7,522.16785319,Dalbergia nitidula,Bergia,KNApSAcK
+185,C00006604,164124-47-4,Daljanelin D,C32H28O7,524.18350325,Dalbergia nitidula,Bergia,KNApSAcK
+186,C00006648,62058-43-9,Pelargonidin 3-rutinoside-5-glucoside,C33H41O19,741.22420413,Billbergia buchholtzii,Bergia,KNApSAcK
+187,C00006677,,"Cyanidin 3-rutinoside-5,3'-diglucoside",C39H51O25,919.27194218,Billbergia buchholtzii,Bergia,KNApSAcK
+188,C00006921,69470-84-4,4'-Hydroxy-2'-methoxychalcone,C16H14O3,254.09429431,Dalbergia cochinchinensis,Bergia,KNApSAcK
+189,C00006925,961-29-5,Isoliquiritigenin,C15H12O4,256.07355887,Dalbergia stevensonii,Bergia,KNApSAcK
+190,C00006925,961-29-5,Isoliquiritigenin,C15H12O4,256.07355887,Dalbergia ecastaphyllum,Bergia,KNApSAcK
+191,C00006925,961-29-5,Isoliquiritigenin,C15H12O4,256.07355887,Dalbergia odorifera,Bergia,KNApSAcK
+192,C00006925,961-29-5,Isoliquiritigenin,C15H12O4,256.07355887,Dalbergia sericea,Bergia,KNApSAcK
+193,C00006927,51828-10-5,Isoliquiritigenin 2'-methy ether,C16H14O4,270.08920894,Dalbergia odorifera,Bergia,KNApSAcK
+194,C00006934,18956-15-5,"2',6'-Dihydroxy-4'-methoxychalcone",C16H14O4,270.08920894,Boesenbergia pandurata,Bergia,KNApSAcK
+195,C00006934,18956-15-5,"2',6'-Dihydroxy-4'-methoxychalcone",C16H14O4,270.08920894,Boesenbergia rotunda (L.) Mansf.Kulturpfl.,Bergia,KNApSAcK
+196,C00006935,19309-14-9,Cardamomin,C16H14O4,270.08920894,Boesenbergia pandurata,Bergia,KNApSAcK
+197,C00006935,19309-14-9,Cardamomin,C16H14O4,270.08920894,Boesenbergia rotunda (LINN.) MANSF.,Bergia,KNApSAcK
+198,C00006936,1775-97-9,Flavokawin B,C17H16O4,284.104859,Boesenbergia pandurata,Bergia,KNApSAcK
+199,C00006941,487-52-5,Butein,C15H12O5,272.06847349,Dalbergia odorifera,Bergia,KNApSAcK
+200,C00006957,37308-75-1,Flavokawain C,C17H16O5,300.09977362,Boesenbergia pandurata,Bergia,KNApSAcK
+201,C00006958,3420-72-2,Flavokawin A,C18H18O5,314.11542369,Boesenbergia rotunda (L.) Mansf.Kulturpfl.,Bergia,KNApSAcK
+202,C00006958,3420-72-2,Flavokawin A,C18H18O5,314.11542369,Boesenbergia pandurata,Bergia,KNApSAcK
+203,C00007131,81943-62-6,Boesenbergin A,C26H28O4,404.19875938,Boesenbergia pandurata,Bergia,KNApSAcK
+204,C00007131,81943-62-6,Boesenbergin A,C26H28O4,404.19875938,Boesenbergia rotunda (L.) Mansf.Kulturpfl.,Bergia,KNApSAcK
+205,C00007132,93208-46-9,Boesenbergin B,C26H28O4,404.19875938,Boesenbergia pandurata,Bergia,KNApSAcK
+206,C00007133,31759-29-2,Rubranine,C25H26O4,390.18310932,Boesenbergia rotunda (L.) Mansf.Kulturpfl.,Bergia,KNApSAcK
+207,C00007133,31759-29-2,Rubranine,C25H26O4,390.18310932,Boesenbergia pandurata,Bergia,KNApSAcK
+208,C00007134,89837-52-5,(+)-Panduratin A,C26H30O4,406.21440945,Boesenbergia pandurata,Bergia,KNApSAcK
+209,C00007134,89837-52-5,(+)-Panduratin A,C26H30O4,406.21440945,Boesenbergia rotunda (LINN.) MANSF.,Bergia,KNApSAcK
+210,C00007136,"109905-45-5,109795-00-8",Panduratin B,C36H44O4,540.32395989,Boesenbergia pandurata,Bergia,KNApSAcK
+211,C00007205,14464-90-5,(+)-Lyoniresinol,C22H28O8,420.17841787,Dalbergia odorifera,Bergia,KNApSAcK
+212,C00007240,8066-07-7,"cis,trans-Xanthoxin",C15H22O3,250.15689457,Puraia thunbergiana,Bergia,KNApSAcK
+213,C00008026,120-05-8,Sulfuretin,C15H10O5,270.05282343,Dalbergia odorifera,Bergia,KNApSAcK
+214,C00008139,79541-04-1,Pinocembrin 7-O-neohesperidoside 2'''-O-acetate,C29H34O14,606.1948558,Nierembergia hippomanica,Bergia,KNApSAcK
+215,C00008140,82206-44-8,Pinocembrin 7-O-neohesperidoside 3'''-O-acetate,C29H34O14,606.1948558,Nierembergia hippomanica,Bergia,KNApSAcK
+216,C00008141,80443-11-4,Pinocembrin 7-O-neohesperidoside 4'''-O-acetate,C29H34O14,606.1948558,Nierembergia hippomanica,Bergia,KNApSAcK
+217,C00008142,82206-45-9,Pinocembrin 7-O-neohesperidoside 6''-O-acetate,C29H34O14,606.1948558,Nierembergia hippomanica,Bergia,KNApSAcK
+218,C00008143,36052-37-6,(-)-Alpinetin,C16H14O4,270.08920894,Boesenbergia rotunda (LINN.) MANSF.,Bergia,KNApSAcK
+219,C00008143,36052-37-6,(-)-Alpinetin,C16H14O4,270.08920894,Dalbergia odorifera,Bergia,KNApSAcK
+220,C00008143,36052-37-6,(-)-Alpinetin,C16H14O4,270.08920894,Dalbergia parviflora,Bergia,KNApSAcK
+221,C00008143,36052-37-6,(-)-Alpinetin,C16H14O4,270.08920894,Boesenbergia pandurata,Bergia,KNApSAcK
+222,C00008144,480-37-5,(2S)-Pinocembrin,C16H14O4,270.08920894,Boesenbergia pandurata,Bergia,KNApSAcK
+223,C00008144,480-37-5,(2S)-Pinocembrin,C16H14O4,270.08920894,Dalbergia odorifera,Bergia,KNApSAcK
+224,C00008144,480-37-5,(2S)-Pinocembrin,C16H14O4,270.08920894,Boesenbergia rotunda (LINN.) MANSF.,Bergia,KNApSAcK
+225,C00008176,77222-70-9,"5,7-Dihydroxy-8-C-geranylflavanone",C25H28O4,392.19875938,Boesenbergia rotunda (LINN.) MANSF.,Bergia,KNApSAcK
+226,C00008225,61775-19-7,"(-)-7,4'-Dihydroxy-5-methoxyflavanone",C16H14O5,286.08412356,Boesenbergia rotunda (LINN.) MANSF.,Bergia,KNApSAcK
+227,C00008225,61775-19-7,"(-)-7,4'-Dihydroxy-5-methoxyflavanone",C16H14O5,286.08412356,Boesenbergia pandurata,Bergia,KNApSAcK
+228,C00008230,479-54-9,Carthamidin,C15H12O6,288.06338812,Dalbergia odorifera,Bergia,KNApSAcK
+229,C00008274,87893-18-3,8-Geranylnaringenin,C25H28O5,408.193674,Dalbergia candenatensis,Bergia,KNApSAcK
+230,C00008551,34050-66-3,"3,7-Dihydroxy-6-methoxyflavanone",C16H14O5,286.08412356,Dalbergia ecastaphyllum,Bergia,KNApSAcK
+231,C00008671,31049-08-8,Aromadendrin 3-glucoside,C21H22O11,450.11621155,Dalbergia sericea,Bergia,KNApSAcK
+232,C00009128,123237-36-5,Epiguibourtinidol-(4alpha->8)-epicatechin,C30H26O10,546.15259705,Dalbergia monetaria,Bergia,KNApSAcK
+233,C00009140,123166-50-7,Epifisetinidol-(4beta->8)-epicatechin,C30H26O11,562.14751167,Dalbergia monetaria,Bergia,KNApSAcK
+234,C00009380,486-66-8,Daidzein,C15H10O4,254.05790881,Pueraria thunbergiana,Bergia,KNApSAcK
+235,C00009380,486-66-8,Daidzein,C15H10O4,254.05790881,Dalbergia ecastaphyllum,Bergia,KNApSAcK
+236,C00009380,486-66-8,Daidzein,C15H10O4,254.05790881,Dalbergia odorifera,Bergia,KNApSAcK
+237,C00009380,486-66-8,Daidzein,C15H10O4,254.05790881,Dalbergia stevensonii,Bergia,KNApSAcK
+238,C00009384,485-63-2,3'-Hydroxydaidzein,C15H10O5,270.05282343,Dalbergia odorifera,Bergia,KNApSAcK
+239,C00009387,1157-39-7,"7,4'-Di-O-methyldaidzein",C17H14O4,282.08920894,Dalbergia violacea,Bergia,KNApSAcK
+240,C00009389,20575-57-9,Calycosin,C16H12O5,284.06847349,Dalbergia parviflora,Bergia,KNApSAcK
+241,C00009390,21913-98-4,3'-Methoxydaidzein,C16H12O5,284.06847349,Dalbergia odorifera,Bergia,KNApSAcK
+242,C00009390,21913-98-4,3'-Methoxydaidzein,C16H12O5,284.06847349,Dalbergia parviflora,Bergia,KNApSAcK
+243,C00009392,40957-83-3,Glycitein,C16H12O5,284.06847349,Dalbergia frutescens,Bergia,KNApSAcK
+244,C00009392,40957-83-3,Glycitein,C16H12O5,284.06847349,Pueraria thunbergiana,Bergia,KNApSAcK
+245,C00009393,37816-19-6,Retusin(Dalbergia),C16H12O5,284.06847349,Dalbergia retusa,Bergia,KNApSAcK
+246,C00009400,37816-20-9,8-O-Methylretusin,C17H14O5,298.08412356,Dalbergia retusa,Bergia,KNApSAcK
+247,C00009400,37816-20-9,8-O-Methylretusin,C17H14O5,298.08412356,Dalbergia frutescens,Bergia,KNApSAcK
+248,C00009401,65048-75-1,Koparin,C16H12O6,300.06338812,Dalbergia odorifera,Bergia,KNApSAcK
+249,C00009404,7741-28-8,Cuneatin,C17H12O6,312.06338812,Dalbergia frutescens,Bergia,KNApSAcK
+250,C00009406,38965-66-1,Fujikinetin,C17H12O6,312.06338812,Dalbergia riparia,Bergia,KNApSAcK
+251,C00009406,38965-66-1,Fujikinetin,C17H12O6,312.06338812,Dalbergia frutescens,Bergia,KNApSAcK
+252,C00009406,38965-66-1,Fujikinetin,C17H12O6,312.06338812,Dalbergia sericea,Bergia,KNApSAcK
+253,C00009407,53948-00-8,Odoratin,C17H14O6,314.07903818,Dalbergia parviflora,Bergia,KNApSAcK
+254,C00009407,53948-00-8,Odoratin,C17H14O6,314.07903818,Dalbergia frutescens,Bergia,KNApSAcK
+255,C00009413,29096-94-4,"7-Hydroxy-2',4',5'-trimethoxyisoflavone",C18H16O6,328.09468824,Dalbergia monetaria,Bergia,KNApSAcK
+256,C00009418,51986-37-9,"6-Hydroxy-7,2'-dimethoxy-4',5'-methylenedioxyisoflavone",C18H14O7,342.0739528,Dalbergia assamica,Bergia,KNApSAcK
+257,C00009419,40009-88-9,Dalpatein,C18H14O7,342.0739528,Dalbergia paniculata,Bergia,KNApSAcK
+258,C00009421,24195-15-1,Milldurone,C19H16O7,356.08960287,Dalbergia paniculata,Bergia,KNApSAcK
+259,C00009458,36190-95-1,3'-Methylorobol,C16H12O6,300.06338812,Dalbergia inundata,Bergia,KNApSAcK
+260,C00009458,36190-95-1,3'-Methylorobol,C16H12O6,300.06338812,Dalbergia parviflora,Bergia,KNApSAcK
+261,C00009460,13111-57-4,Isotectorigenin,C16H12O6,300.06338812,Dalbergia sissoo,Bergia,KNApSAcK
+262,C00009462,61243-75-2,2'-Methoxybiochanin A,C17H14O6,314.07903818,Dalbergia parviflora,Bergia,KNApSAcK
+263,C00009463,1096-58-8,7-O-Methyltectorigenin,C17H14O6,314.07903818,Dalbergia monetaria,Bergia,KNApSAcK
+264,C00009463,1096-58-8,7-O-Methyltectorigenin,C17H14O6,314.07903818,Dalbergia spinosa,Bergia,KNApSAcK
+265,C00009463,1096-58-8,7-O-Methyltectorigenin,C17H14O6,314.07903818,Dalbergia spruceana,Bergia,KNApSAcK
+266,C00009463,1096-58-8,7-O-Methyltectorigenin,C17H14O6,314.07903818,Dalbergia sissoo,Bergia,KNApSAcK
+267,C00009463,1096-58-8,7-O-Methyltectorigenin,C17H14O6,314.07903818,Dalbergia volubilis,Bergia,KNApSAcK
+268,C00009469,13186-08-8,"7,4'-Di-O-methyltectorigenin",C18H16O6,328.09468824,Dalbergia sissoo,Bergia,KNApSAcK
+269,C00009480,78134-85-7,Junipegenin B,C18H16O7,344.08960287,Dalbergia spinosa,Bergia,KNApSAcK
+270,C00009487,4935-92-6,Caviunin,C19H18O8,374.10016755,Dalbergia paniculata,Bergia,KNApSAcK
+271,C00009487,4935-92-6,Caviunin,C19H18O8,374.10016755,Dalbergia barretoana,Bergia,KNApSAcK
+272,C00009487,4935-92-6,Caviunin,C19H18O8,374.10016755,Dalbergia inundata,Bergia,KNApSAcK
+273,C00009487,4935-92-6,Caviunin,C19H18O8,374.10016755,Dalbergia nigra,Bergia,KNApSAcK
+274,C00009487,4935-92-6,Caviunin,C19H18O8,374.10016755,Dalbergia riparia,Bergia,KNApSAcK
+275,C00009489,4968-78-9,Isocaviunin,C19H18O8,374.10016755,Dalbergia sissoo,Bergia,KNApSAcK
+276,C00009537,70561-31-8,Sativanone,C17H16O5,300.09977362,Dalbergia odorifera,Bergia,KNApSAcK
+277,C00009537,70561-31-8,Sativanone,C17H16O5,300.09977362,Dalbergia stevensonii,Bergia,KNApSAcK
+278,C00009541,58116-57-7,Onogenin,C17H14O6,314.07903818,Dalbergia stevensonii,Bergia,KNApSAcK
+279,C00009542,52250-38-1,Violanone,C17H16O6,316.09468824,Dalbergia violacea,Bergia,KNApSAcK
+280,C00009542,52250-38-1,Violanone,C17H16O6,316.09468824,Dalbergia odorifera,Bergia,KNApSAcK
+281,C00009542,52250-38-1,Violanone,C17H16O6,316.09468824,Dalbergia oliveri,Bergia,KNApSAcK
+282,C00009545,56973-42-3,3'-O-Methylviolanone,C18H18O6,330.11033831,Dalbergia cearensis,Bergia,KNApSAcK
+283,C00009545,56973-42-3,3'-O-Methylviolanone,C18H18O6,330.11033831,Dalbergia odorifera,Bergia,KNApSAcK
+284,C00009575,4208-09-7,Amorphigenin,C23H22O7,410.13655306,Dalbergia monetaria,Bergia,KNApSAcK
+285,C00009577,30462-22-7,Dalpanol,C23H24O7,412.15220312,Dalbergia paniculata,Bergia,KNApSAcK
+286,C00009577,30462-22-7,Dalpanol,C23H24O7,412.15220312,Dalbergia lanceolaria,Bergia,KNApSAcK
+287,C00009590,41993-79-7,Dalbinol,C23H22O8,426.13146768,Dalbergia latifolia Roxb.,Bergia,KNApSAcK
+288,C00009593,97673-80-8,12-Dihydrodalbinol,C23H24O8,428.14711774,Dalbergia monetaria,Bergia,KNApSAcK
+289,C00009607,30465-57-7,Dehydrodalpanol,C23H22O7,410.13655306,Dalbergia paniculata,Bergia,KNApSAcK
+290,C00009611,74560-05-7,Isomedicarpin,C16H14O4,270.08920894,Dalbergia odorifera,Bergia,KNApSAcK
+291,C00009614,69853-46-9,Vesticarpan,C16H14O5,286.08412356,Dalbergia odorifera,Bergia,KNApSAcK
+292,C00009617,73340-41-7,Methylnissolin,C17H16O5,300.09977362,Dalbergia odorifera,Bergia,KNApSAcK
+293,C00009619,69626-64-8,4-Hydroxymaackiain,C16H12O6,300.06338812,Dalbergia spruceana,Bergia,KNApSAcK
+294,C00009620,14756-82-2,4-Methoxymedicarpin,C17H16O5,300.09977362,Dalbergia odorifera,Bergia,KNApSAcK
+295,C00009623,2694-69-1,4-Methoxymaackiain,C17H14O6,314.07903818,Dalbergia spruceana,Bergia,KNApSAcK
+296,C00009624,69626-65-9,4-Hydroxypterocarpin,C17H14O6,314.07903818,Dalbergia spruceana,Bergia,KNApSAcK
+297,C00009643,66446-92-2,Hemileiocarpin,C21H20O4,336.13615913,Dalbergia nitidula,Bergia,KNApSAcK
+298,C00009650,34198-69-1,Leiocarpin,C21H18O5,350.11542369,Dalbergia nitidula,Bergia,KNApSAcK
+299,C00009671,66446-93-3,Nitiducarpin,C26H26O5,418.17802394,Dalbergia nitidula,Bergia,KNApSAcK
+300,C00009673,66446-94-4,Nitiducol,C26H28O5,420.193674,Dalbergia nitidula,Bergia,KNApSAcK
+301,C00009684,41347-45-9,Tuberosin,C20H18O5,338.11542369,Pueraria thunbergiana,Bergia,KNApSAcK
+302,C00009694,1433-08-5,Anhydrovariabilin,C17H14O4,282.08920894,Dalbergia decipularis,Bergia,KNApSAcK
+303,C00009710,71772-21-9,Neovestitol,C16H16O4,272.104859,Dalbergia sericea,Bergia,KNApSAcK
+304,C00009715,20878-98-2,(+-)-Mucronulatol,C17H18O5,302.11542369,Dalbergia veriabilis,Bergia,KNApSAcK
+305,C00009715,20878-98-2,(+-)-Mucronulatol,C17H18O5,302.11542369,Dalbergia spp.,Bergia,KNApSAcK
+306,C00009715,20878-98-2,(+-)-Mucronulatol,C17H18O5,302.11542369,Dalbergia odorifera,Bergia,KNApSAcK
+307,C00009720,50439-57-1,8-Demethylduartin,C17H18O6,318.11033831,Dalbergia ecastaphyllum,Bergia,KNApSAcK
+308,C00009728,66446-88-6,Leiocin,C21H20O5,352.13107375,Dalbergia nitidula,Bergia,KNApSAcK
+309,C00009728,66446-88-6,Leiocin,C21H20O5,352.13107375,Dalbergia hupeana,Bergia,KNApSAcK
+310,C00009729,66446-89-7,Leiocinol,C21H20O6,368.12598837,Dalbergia nitidula,Bergia,KNApSAcK
+311,C00009736,66446-90-0,Heminitidulan,C26H30O4,406.21440945,Dalbergia nitidula,Bergia,KNApSAcK
+312,C00009737,66446-91-1,Nitidulan,C26H28O5,420.193674,Dalbergia nitidula,Bergia,KNApSAcK
+313,C00009738,66446-87-5,Nitidulin,C26H30O5,422.20932407,Dalbergia nitidula,Bergia,KNApSAcK
+314,C00009741,35878-39-8,Claussequinone,C16H14O5,286.08412356,Dalbergia odorifera,Bergia,KNApSAcK
+315,C00009741,35878-39-8,Claussequinone,C16H14O5,286.08412356,Dalbergia candenatensis,Bergia,KNApSAcK
+316,C00009757,1690-62-6,9-O-Methylcoumestrol,C16H10O5,282.05282343,Dalbergia oliveri,Bergia,KNApSAcK
+317,C00009757,1690-62-6,9-O-Methylcoumestrol,C16H10O5,282.05282343,Dalbergia odorifera,Bergia,KNApSAcK
+318,C00009757,1690-62-6,9-O-Methylcoumestrol,C16H10O5,282.05282343,Dalbergia stevensonii,Bergia,KNApSAcK
+319,C00009760,1983-72-8,Medicagol,C16H8O6,296.03208799,Dalbergia stevensonii,Bergia,KNApSAcK
+320,C00009760,1983-72-8,Medicagol,C16H8O6,296.03208799,Dalbergia oliveri,Bergia,KNApSAcK
+321,C00009761,3172-99-4,Coumestrol dimethyl ether,C17H12O5,296.06847349,Dalbergia decipularis,Bergia,KNApSAcK
+322,C00009781,54300-95-7,"7,2'-Dihydroxy-4'-methoxy-3-phenylcoumarin",C16H12O5,284.06847349,Dalbergia oliveri,Bergia,KNApSAcK
+323,C00009782,54300-96-8,"7,2'-Dihydroxy-4',5'-methylenedioxy-3-phenylcoumarin",C16H10O6,298.04773805,Dalbergia oliveri,Bergia,KNApSAcK
+324,C00009800,69470-93-5,Parvifuran,C16H14O3,254.09429431,Dalbergia parviflora,Bergia,KNApSAcK
+325,C00009828,83162-85-0,Dalspinin,C17H12O7,328.05830274,Dalbergia spinosa,Bergia,KNApSAcK
+326,C00009864,126595-77-5,Dalpalatin,C18H14O8,358.06886743,Dalbergia paniculata,Bergia,KNApSAcK
+327,C00009953,112448-38-1,5-Hydroxybowdichione,C16H10O7,314.04265268,Dalbergia candenatensis,Bergia,KNApSAcK
+328,C00009955,99365-26-1,Bolusanthin,C16H14O7,318.0739528,Dalbergia odorifera,Bergia,KNApSAcK
+329,C00009960,122587-88-6,"(3R)-7,2',3'-Trihydroxy-4'-methoxyisoflavanone",C16H14O6,302.07903818,Dalbergia odorifera,Bergia,KNApSAcK
+330,C00009981,93290-65-4,Volubinol,C22H22O8,414.13146768,Dalbergia volubilis,Bergia,KNApSAcK
+331,C00009998,83013-81-4,Melilotocarpan D,C17H16O6,316.09468824,Dalbergia odorifera,Bergia,KNApSAcK
+332,C00010000,83013-82-5,Melilotocarpan C,C18H18O6,330.11033831,Dalbergia odorifera,Bergia,KNApSAcK
+333,C00010001,101153-42-8,Odoricarpan,C18H18O6,330.11033831,Dalbergia odorifera,Bergia,KNApSAcK
+334,C00010006,108335-33-7,"(6aR,11aR)-3,8-Dihydroxy-9-methoxypterocarpan",C16H14O5,286.08412356,Dalbergia odorifera,Bergia,KNApSAcK
+335,C00010029,122587-86-4,Methoxyvestitol,C17H18O5,302.11542369,Dalbergia odorifera,Bergia,KNApSAcK
+336,C00010030,101153-40-6,Isoduartin,C18H20O6,332.12598837,Dalbergia odorifera,Bergia,KNApSAcK
+337,C00010032,122587-87-5,"(3R)-3',8-Dihydroxyvestitol",C16H16O6,304.09468824,Dalbergia odorifera,Bergia,KNApSAcK
+338,C00010037,101153-41-7,Odoriflavene,C17H16O5,300.09977362,Dalbergia odorifera,Bergia,KNApSAcK
+339,C00010061,155645-56-0,Puerarol,C25H24O5,404.16237388,Pueraria thunbergiana,Bergia,KNApSAcK
+340,C00010081,51351-35-0,Formononetin 7-O-rutinoside,C28H32O13,576.18429111,Dalbergia paniculata,Bergia,KNApSAcK
+341,C00010089,40246-10-4,Glycitein 7-O-glucoside,C22H22O10,446.12129692,Pueraria thunbergiana,Bergia,KNApSAcK
+342,C00010099,,"7-Hydroxy-2',4',5'-trimethoxyisoflavone 7-O-glucoside",C24H26O11,490.14751167,Dalbergia monetaria,Bergia,KNApSAcK
+343,C00010102,40522-40-5,Dalpatein 7-O-glucoside,C24H24O12,504.12677623,Dalbergia paniculata,Bergia,KNApSAcK
+344,C00010113,53840-60-1,Biochanin A 7-O-rutinoside,C28H32O14,592.17920573,Dalbergia paniculata,Bergia,KNApSAcK
+345,C00010115,63770-91-2,Biochanin A 7-O-xylosyl-(1->6)-glucoside,C27H30O14,578.16355567,Pueraria thunbergiana,Bergia,KNApSAcK
+346,C00010116,15914-68-8,Biochanin A 7-O-apiosyl-(1->6)-glucoside,C27H30O14,578.16355567,Dalbergia sissoo,Bergia,KNApSAcK
+347,C00010116,15914-68-8,Biochanin A 7-O-apiosyl-(1->6)-glucoside,C27H30O14,578.16355567,Dalbergia lanceolaria,Bergia,KNApSAcK
+348,C00010118,154-36-9,Prunetin 4'-O-glucoside,C22H22O10,446.12129692,Dalbergia sissoo,Bergia,KNApSAcK
+349,C00010124,67604-94-8,Tectorigenin 7-O-gentiobioside,C28H32O16,624.16903498,Dalbergia volubilis,Bergia,KNApSAcK
+350,C00010124,67604-94-8,Tectorigenin 7-O-gentiobioside,C28H32O16,624.16903498,Dalbergia sissoides,Bergia,KNApSAcK
+351,C00010125,126308-74-5,Irisolidone 7-O-beta-D-glucoside,C23H24O11,476.13186161,Pueraria thunbergiana,Bergia,KNApSAcK
+352,C00010126,19316-92-8,7-O-Methyltectorigenin 4'-O-glucoside,C23H24O11,476.13186161,Dalbergia volubilis,Bergia,KNApSAcK
+353,C00010127,68418-92-8,7-O-Methyltectorigenin 4'-O-gentiobioside,C29H34O16,638.18468504,Dalbergia volubilis,Bergia,KNApSAcK
+354,C00010138,50299-68-8,Caviunin 7-O-glucoside,C25H28O13,536.15299098,Dalbergia paniculata,Bergia,KNApSAcK
+355,C00010138,50299-68-8,Caviunin 7-O-glucoside,C25H28O13,536.15299098,Dalbergia sissoo,Bergia,KNApSAcK
+356,C00010139,74148-49-5,Isocaviunin 7-O-glucoside,C25H28O13,536.15299098,Dalbergia sissoo,Bergia,KNApSAcK
+357,C00010139,74148-49-5,Isocaviunin 7-O-glucoside,C25H28O13,536.15299098,Dalbergia paniculata,Bergia,KNApSAcK
+358,C00010140,74517-73-0,Isocaviunin 7-O-gentiobioside,C31H38O18,698.20581441,Dalbergia sissoo,Bergia,KNApSAcK
+359,C00010149,86849-69-6,Junipegenin B 7-O-glucoside,C24H26O12,506.1424263,Dalbergia spinosa,Bergia,KNApSAcK
+360,C00010150,98568-73-1,Dalspinin 7-O-galactoside,C23H22O12,490.11112617,Dalbergia spinosa,Bergia,KNApSAcK
+361,C00010168,117007-27-9,Prunetin 4'-O-galactoside,C22H22O10,446.12129692,Dalbergia spinosa,Bergia,KNApSAcK
+362,C00010171,116988-14-8,7-O-Methyltectorigenin 4'-O-galactoside,C23H24O11,476.13186161,Dalbergia spinosa,Bergia,KNApSAcK
+363,C00010176,23708-98-7,Amorphigenin O-glucoside,C29H32O12,572.18937649,Dalbergia monetaria,Bergia,KNApSAcK
+364,C00010178,52059-86-6,Dalpanol O-glucoside,C29H34O12,574.20502655,Dalbergia paniculata,Bergia,KNApSAcK
+365,C00010181,68401-03-6,Dalbinol O-glucoside,C29H32O13,588.18429111,Dalbergia nitidula,Bergia,KNApSAcK
+366,C00010181,68401-03-6,Dalbinol O-glucoside,C29H32O13,588.18429111,Dalbergia monetaria,Bergia,KNApSAcK
+367,C00010181,68401-03-6,Dalbinol O-glucoside,C29H32O13,588.18429111,Dalbergia latifolia,Bergia,KNApSAcK
+368,C00010181,68401-03-6,Dalbinol O-glucoside,C29H32O13,588.18429111,Dalbergia assamica,Bergia,KNApSAcK
+369,C00010182,97640-97-6,12-Dihydrodalbinol O-glucoside,C29H34O13,590.19994117,Dalbergia monetaria,Bergia,KNApSAcK
+370,C00010193,1857-05-2,Methyldalbergin,C17H14O4,282.08920894,Dalbergia odorifera,Bergia,KNApSAcK
+371,C00010193,1857-05-2,Methyldalbergin,C17H14O4,282.08920894,Dalbergia spp.,Bergia,KNApSAcK
+372,C00010194,605-09-4,Isodalbergin,C16H12O4,268.07355887,Dalbergia odorifera,Bergia,KNApSAcK
+373,C00010194,605-09-4,Isodalbergin,C16H12O4,268.07355887,Dalbergia sissoo,Bergia,KNApSAcK
+374,C00010195,482-82-6,Nordalbergin,C15H10O4,254.05790881,Dalbergia odorifera,Bergia,KNApSAcK
+375,C00010195,482-82-6,Nordalbergin,C15H10O4,254.05790881,Dalbergia sissoo,Bergia,KNApSAcK
+376,C00010199,36286-69-8,Stevenin,C16H12O5,284.06847349,Dalbergia cultrata,Bergia,KNApSAcK
+377,C00010199,36286-69-8,Stevenin,C16H12O5,284.06847349,Dalbergia stevensonii,Bergia,KNApSAcK
+378,C00010199,36286-69-8,Stevenin,C16H12O5,284.06847349,Dalbergia odorifera,Bergia,KNApSAcK
+379,C00010202,10386-55-7,Melannein,C17H14O6,314.07903818,Dalbergia melanoxylon,Bergia,KNApSAcK
+380,C00010202,10386-55-7,Melannein,C17H14O6,314.07903818,Dalbergia baronii,Bergia,KNApSAcK
+381,C00010207,53290-13-2,Sisafolin,C18H14O7,342.0739528,Dalbergia latifolia,Bergia,KNApSAcK
+382,C00010242,89701-84-8,"7,3'-Dihydroxy-4'-methoxy-4-phenylcoumarin",C16H12O5,284.06847349,Dalbergia volubilis,Bergia,KNApSAcK
+383,C00010243,91780-05-1,"7,3'-Dihydroxy-5,4'-dimethoxy-4-phenylcoumarin",C17H14O6,314.07903818,Dalbergia volubilis,Bergia,KNApSAcK
+384,C00010244,91377-14-9,"7,3'-Dihydroxy-5,4'-dimethoxy-6-formyl-4-phenylcoumarin",C18H14O7,342.0739528,Dalbergia volubilis,Bergia,KNApSAcK
+385,C00010252,2543-95-5,(S)-4-Methoxydalbergione,C16H14O3,254.09429431,Dalbergia nitidula,Bergia,KNApSAcK
+386,C00010252,2543-95-5,(S)-4-Methoxydalbergione,C16H14O3,254.09429431,Dalbergia sissoides,Bergia,KNApSAcK
+387,C00010252,2543-95-5,(S)-4-Methoxydalbergione,C16H14O3,254.09429431,Dalbergia odorifera,Bergia,KNApSAcK
+388,C00010252,2543-95-5,(S)-4-Methoxydalbergione,C16H14O3,254.09429431,Dalbergia stevensonii,Bergia,KNApSAcK
+389,C00010252,2543-95-5,(S)-4-Methoxydalbergione,C16H14O3,254.09429431,Dalbergia spruceana,Bergia,KNApSAcK
+390,C00010252,2543-95-5,(S)-4-Methoxydalbergione,C16H14O3,254.09429431,Dalbergia sissoo,Bergia,KNApSAcK
+391,C00010252,2543-95-5,(S)-4-Methoxydalbergione,C16H14O3,254.09429431,Dalbergia villosa,Bergia,KNApSAcK
+392,C00010252,2543-95-5,(S)-4-Methoxydalbergione,C16H14O3,254.09429431,Dalbergia miscolobium,Bergia,KNApSAcK
+393,C00010252,2543-95-5,(S)-4-Methoxydalbergione,C16H14O3,254.09429431,Dalbergia latifolia,Bergia,KNApSAcK
+394,C00010252,2543-95-5,(S)-4-Methoxydalbergione,C16H14O3,254.09429431,Dalbergia inundata,Bergia,KNApSAcK
+395,C00010252,2543-95-5,(S)-4-Methoxydalbergione,C16H14O3,254.09429431,Dalbergia cultrata,Bergia,KNApSAcK
+396,C00010252,2543-95-5,(S)-4-Methoxydalbergione,C16H14O3,254.09429431,Dalbergia cearensis,Bergia,KNApSAcK
+397,C00010252,2543-95-5,(S)-4-Methoxydalbergione,C16H14O3,254.09429431,Dalbergia barretoana,Bergia,KNApSAcK
+398,C00010252,2543-95-5,(S)-4-Methoxydalbergione,C16H14O3,254.09429431,Dalbergia baronii,Bergia,KNApSAcK
+399,C00010253,3755-63-3,(S)-4'-Hydroxy-4-methoxydalbergione,C16H14O4,270.08920894,Dalbergia spp.,Bergia,KNApSAcK
+400,C00010254,464-87-1,"(S)-4,4'-Dimethoxydalbergione",C17H16O4,284.104859,Dalbergia spp.,Bergia,KNApSAcK
+401,C00010257,41043-22-5,"(S)-3'-Hydroxy-4,4'-dimethoxydalbergione",C17H16O5,300.09977362,Dalbergia melanoxylon,Bergia,KNApSAcK
+402,C00010258,10154-42-4,Latifolin,C17H18O4,286.12050906,Dalbergia parviflora,Bergia,KNApSAcK
+403,C00010258,10154-42-4,Latifolin,C17H18O4,286.12050906,Dalbergia latifolia,Bergia,KNApSAcK
+404,C00010258,10154-42-4,Latifolin,C17H18O4,286.12050906,Dalbergia odorifera,Bergia,KNApSAcK
+405,C00010259,18525-14-9,5-O-Methyllatifolin,C18H20O4,300.13615913,Dalbergia parviflora,Bergia,KNApSAcK
+406,C00010259,18525-14-9,5-O-Methyllatifolin,C18H20O4,300.13615913,Dalbergia odorifera,Bergia,KNApSAcK
+407,C00010260,36286-66-5,"(S)-5,3'-Dihydroxy-2,4-dimethoxydalbergiquinol",C17H18O4,286.12050906,Dalbergia cultrata,Bergia,KNApSAcK
+408,C00010261,3527-07-9,Obtusaquinol,C16H16O3,256.10994438,Dalbergia spp.,Bergia,KNApSAcK
+409,C00010264,82358-44-9,"(R)-5-Hydroxy-2,4-dimethoxydalbergiquinol",C17H18O3,270.12559444,Dalbergia spp.,Bergia,KNApSAcK
+410,C00010264,82358-44-9,"(R)-5-Hydroxy-2,4-dimethoxydalbergiquinol",C17H18O3,270.12559444,Dalbergia odorifera,Bergia,KNApSAcK
+411,C00010265,14753-80-1,"(R)-2,4,5-Trimethoxydalbergiquinol",C18H20O3,284.1412445,Dalbergia cochinchinensis,Bergia,KNApSAcK
+412,C00010266,32066-31-2,Dalbergichromene,C16H14O3,254.09429431,Dalbergia sissoo,Bergia,KNApSAcK
+413,C00010266,32066-31-2,Dalbergichromene,C16H14O3,254.09429431,Dalbergia latifolia,Bergia,KNApSAcK
+414,C00011140,140614-21-7,Stipulin,C25H28O4,392.19875938,Dalbergia stipulacea,Bergia,KNApSAcK
+415,C00011374,125204-36-6,Crocinervolide,C12H18O3,210.12559444,Dalbergia odorifera,Bergia,KNApSAcK
+416,C00011823,11054-58-3,Idomain,C19H24O6,348.1572885,Gutenbergia cordifolia,Bergia,KNApSAcK
+417,C00013070,112356-36-2,Gutenbergin,C17H18O5,302.11542369,Gutenbergia cordifolia,Bergia,KNApSAcK
+418,C00013291,38070-97-2,7-Hydroxy-6-methoxyflavone,C16H12O4,268.07355887,Dalbergia cochinchinensis,Bergia,KNApSAcK
+419,C00013359,205316-55-8,"7-Methoxy-3,6,3',4'-tetrahydroxyflavone",C16H12O7,316.05830274,Dalbergia odorifera,Bergia,KNApSAcK
+420,C00014016,321690-39-5,Luteolin 6-C-alpha-L-arabinopyranoside,C20H18O10,418.0899968,Muhlenbergia spp.,Bergia,KNApSAcK
+421,C00014609,222159-58-2,"3,4,2',4',alpha-Pentahydroxydihydrochalcone",C15H14O6,290.07903818,Dalbergia odorifera,Bergia,KNApSAcK
+422,C00015207,138195-36-5,Icariside A5,C23H28O10,464.16824712,Epimedium grandiflorum var. thunbergianum,Bergia,KNApSAcK
+423,C00015327,138195-37-6,"3',5-Dihydroxy-3,4,4'-trimethoxybibenzyl-5-O-glucoside",C23H30O10,466.18389718,Epimedium grandiflorum var. thunbergianum,Bergia,KNApSAcK
+424,C00015537,117596-82-4,"3,4,5-Trimethoxy-3',4'-dithoxybibenzyl 3'-O-glucoside",C22H28O10,452.16824712,Epimedium grandiflorum var. thunbergianum,Bergia,KNApSAcK
+425,C00015541,117596-81-3,"4,7-Dihydroxy-2,3,6-trimethoxy-9.10-dihydrophenanthrene 4-O-glucoside",C23H28O10,464.16824712,Epimedium grandiflorum var. thunbergianum,Bergia,KNApSAcK
+426,C00015684,108906-52-1,"7-Hydroxy-2,3,4,6-tetramethoxy-9.10-dihydrophenanthrene 7-O-glucoside",C24H30O10,478.18389718,Epimedium grandiflorum var. thunbergianum,Bergia,KNApSAcK
+427,C00015789,117613-74-8,Icariside E3,C26H36O11,524.22576199,Epimedium grandiflorum var. thunbergianum,Bergia,KNApSAcK
+428,C00015804,79157-36-1,Latinone,C22H16O5,360.09977362,Dalbergia cochinchinensis,Bergia,KNApSAcK
+429,C00015804,79157-36-1,Latinone,C22H16O5,360.09977362,Dalbergia latifolia,Bergia,KNApSAcK
+430,C00018877,226981-47-1,Dalcochinin O-glucoside,C29H34O12,574.20502655,Dalbergia cochinchinensis,Bergia,KNApSAcK
+431,C00018878,226998-47-6,Dalcochinin,C23H24O7,412.15220312,Dalbergia cochinchinensis,Bergia,KNApSAcK
+432,C00018936,714962-91-1,Neocandenatone,C32H26O7,522.16785319,Dalbergia congestiflora,Bergia,KNApSAcK
+433,C00018948,56701-24-7,(+-)-Vestitol,C16H16O4,272.104859,Dalbergia odorifera,Bergia,KNApSAcK
+434,C00018987,33983-39-0,"(+)-(6aS,11aS)-Medicarpin",C16H14O4,270.08920894,Dalbergia decipularis,Bergia,KNApSAcK
+435,C00018987,33983-39-0,"(+)-(6aS,11aS)-Medicarpin",C16H14O4,270.08920894,Dalbergia volubilis,Bergia,KNApSAcK
+436,C00018987,33983-39-0,"(+)-(6aS,11aS)-Medicarpin",C16H14O4,270.08920894,Dalbergia nitidula,Bergia,KNApSAcK
+437,C00018987,33983-39-0,"(+)-(6aS,11aS)-Medicarpin",C16H14O4,270.08920894,Dalbergia monetaria,Bergia,KNApSAcK
+438,C00018987,33983-39-0,"(+)-(6aS,11aS)-Medicarpin",C16H14O4,270.08920894,Dalbergia frutescens,Bergia,KNApSAcK
+439,C00019013,438000-84-1,"7,4',5'-Trihydroxy-2'-methoxyisoflavone",C16H12O6,300.06338812,Dalbergia nitidula,Bergia,KNApSAcK
+440,C00019017,75340-02-2,7-Demethylrobustigenin,C18H16O7,344.08960287,Dalbergia parviflora,Bergia,KNApSAcK
+441,C00019064,508-02-1,Oleanolic acid,C30H48O3,456.3603454,Ekebergia capensis,Bergia,KNApSAcK
+442,C00019123,231288-18-9,"7,4'-Dihydroxy-6-methoxyisoflavone 7-O-beta-D-xylopyranosyl-(1->6)-O-beta-D-glucopyranoside",C27H30O14,578.16355567,Pueraria thunbergiana,Bergia,KNApSAcK
+443,C00019124,231288-19-0,"5,7,4'-Trihydroxy-6-methoxyisoflavone 7-O-beta-D-xylopyranosyl-(1->6)-O-beta-D-glucopyranoside",C27H30O15,594.15847029,Pueraria thunbergiana,Bergia,KNApSAcK
+444,C00019126,329280-62-8,Biochanin A 7-O-[beta-D-apiofuranosyl-(1->5)-beta-D-apiofuranosyl-(1->6)-beta-D-glucopyranoside],C32H38O18,710.20581441,Dalbergia sissoo,Bergia,KNApSAcK
+445,C00019127,365544-05-4,Tectorigenin 7-O-[beta-D-apiofuranosyl-(1->6)-beta-D-glucopyranoside],C27H30O15,594.15847029,Dalbergia sissoo,Bergia,KNApSAcK
+446,C00019128,169181-41-3,Prunetin 4'-O-[beta-D-apiofuranosyl-(1->6)-beta-D-glucopyranoside],C27H30O14,578.16355567,Dalbergia sissoo,Bergia,KNApSAcK
+447,C00019128,169181-41-3,Prunetin 4'-O-[beta-D-apiofuranosyl-(1->6)-beta-D-glucopyranoside],C27H30O14,578.16355567,Dalbergia coromandeliana,Bergia,KNApSAcK
+448,C00019129,213325-39-4,7-Methyltectorigenin 4'-O-[beta-D-apiofuranosyl-(1->6)-beta-D-glucopyranoside],C28H32O15,608.17412036,Dalbergia sissoo,Bergia,KNApSAcK
+449,C00019129,213325-39-4,7-Methyltectorigenin 4'-O-[beta-D-apiofuranosyl-(1->6)-beta-D-glucopyranoside],C28H32O15,608.17412036,Dalbergia nigra,Bergia,KNApSAcK
+450,C00019287,52811-37-7,Cearoin,C14H12O4,244.07355887,Dalbergia cearensis,Bergia,KNApSAcK
+451,C00019287,52811-37-7,Cearoin,C14H12O4,244.07355887,Dalbergia miscolobium,Bergia,KNApSAcK
+452,C00019287,52811-37-7,Cearoin,C14H12O4,244.07355887,Dalbergia monetaria,Bergia,KNApSAcK
+453,C00019287,52811-37-7,Cearoin,C14H12O4,244.07355887,Dalbergia odorifera,Bergia,KNApSAcK
+454,C00019287,52811-37-7,Cearoin,C14H12O4,244.07355887,Dalbergia parviflora,Bergia,KNApSAcK
+455,C00019288,21533-90-4,"7,2'-Dihydroxy-4',5'-dimethoxyisoflavone",C17H14O6,314.07903818,Dalbergia odorifera,Bergia,KNApSAcK
+456,C00019289,200391-95-3,3'-Hydroxymelanettin,C16H12O6,300.06338812,Dalbergia odorifera,Bergia,KNApSAcK
+457,C00019290,875535-24-3,"(3R)-4'-Methoxy-3,7,2'-trihydroxyisoflavanone",C16H14O6,302.07903818,Dalbergia odorifera,Bergia,KNApSAcK
+458,C00019387,35878-41-2,Vestitol,C16H16O4,272.104859,Dalbergia odorifera,Bergia,KNApSAcK
+459,C00019505,1891-01-6,"7-Hydroxy-2',4'-dimethoxyisoflavone",C17H14O5,298.08412356,Dalbergia odorifera,Bergia,KNApSAcK
+460,C00019537,4208-13-3,6-Ketodehydroamorphigenin,C23H18O8,422.10016755,Dalbergia sissoides,Bergia,KNApSAcK
+461,C00019645,151852-53-8,Kenusanone G,C16H14O6,302.07903818,Dalbergia parviflora,Bergia,KNApSAcK
+462,C00019672,133956-27-1,Dehydrodalpanol O-glucoside,C29H32O12,572.18937649,Dalbergia paniculata,Bergia,KNApSAcK
+463,C00020631,69471-12-1,Isomucronustyrene,C17H18O3,270.12559444,Dalbergia odorifera,Bergia,KNApSAcK
+464,C00020632,78134-83-5,Isoparvifuran,C16H14O3,254.09429431,Dalbergia odorifera,Bergia,KNApSAcK
+465,C00020632,78134-83-5,Isoparvifuran,C16H14O3,254.09429431,Dalbergia parviflora,Bergia,KNApSAcK
+466,C00020634,21148-33-4,Isoviolastyrene,C17H18O3,270.12559444,Dalbergia miscolobium,Bergia,KNApSAcK
+467,C00020651,25089-37-6,Melanoxin,C17H18O5,302.11542369,Dalbergia melanoxylon,Bergia,KNApSAcK
+468,C00020660,21008-39-9,Obtusafuran,C16H16O3,256.10994438,Dalbergia odorifera,Bergia,KNApSAcK
+469,C00020660,21008-39-9,Obtusafuran,C16H16O3,256.10994438,Dalbergia retusa,Bergia,KNApSAcK
+470,C00020661,21105-15-7,Obtusaquinone,C16H14O3,254.09429431,Dalbergia retusa,Bergia,KNApSAcK
+471,C00020662,21148-30-1,Obtusastyrene,C15H14O,210.10446507,Dalbergia retusa,Bergia,KNApSAcK
+472,C00020663,21148-31-2,Obtustyrene,C16H16O2,240.11502975,Dalbergia retusa,Bergia,KNApSAcK
+473,C00020663,21148-31-2,Obtustyrene,C16H16O2,240.11502975,Dalbergia odorifera,Bergia,KNApSAcK
+474,C00020688,57128-11-7,(+)-Mucronulatol,C17H18O5,302.11542369,Dalbergia cearensis,Bergia,KNApSAcK
+475,C00022447,120838-16-6,"ent-7,13E-Labdadiene-2beta,15-diol",C20H34O2,306.25588033,Baccharis sternbergiana,Bergia,KNApSAcK
+476,C00022448,120838-17-7,"ent-15-Acetoxy-7,13-labdadien-2beta-ol",C22H36O3,348.26644502,Baccharis sternbergiana,Bergia,KNApSAcK
+477,C00022449,120838-40-6,"ent-15-Hydroxy-7,13-labdadien-2-one",C22H34O3,346.25079495,Baccharis sternbergiana,Bergia,KNApSAcK
+478,C00022793,53755-58-1,Drupanin,C14H16O3,232.10994438,Baccharis sternbergiana,Bergia,KNApSAcK
+479,C00022796,120838-18-8,"2alpha,3alpha,15-Trihydroxy-ent-labda-7,13E-diene",C20H34O3,322.25079495,Baccharis sternbergiana,Bergia,KNApSAcK
+480,C00022797,120838-19-9,"15-Hydroxy-ent-labda-7,13E-dien-2-one",C20H32O2,304.24023027,Baccharis sternbergiana,Bergia,KNApSAcK
+481,C00024390,517-78-2,Galanthine,C18H23NO4,317.16270823,Sternbergia lutea ker-Gawl,Bergia,KNApSAcK
+482,C00024396,6879-76-1,Hippamine,C17H19NO4,301.1314081,Sternbergia lutea ker-Gawl,Bergia,KNApSAcK
+483,C00024404,102487-18-3,Lutessine,C19H21NO6,359.13688741,Sternbergia lutea ker-Gawl,Bergia,KNApSAcK
+484,C00024437,96253-76-8,Sternbergine,C18H21NO5,331.14197279,Sternbergia lutea ker-Gawl,Bergia,KNApSAcK
+485,C00024438,507-79-9,Tazettine,C18H21NO5,331.14197279,Sternbergia lutea ker-Gawl,Bergia,KNApSAcK
+486,C00028721,130325-43-8,Norhygrine,C17H13NO,247.09971404,Nierembergia hippomanica,Bergia,KNApSAcK
+487,C00029276,459149-61-2,(-)-4-Hydroxypanduratin A,C25H28O4,392.19875938,Boesenbergia pandurata,Bergia,KNApSAcK
+488,C00029276,459149-61-2,(-)-4-Hydroxypanduratin A,C25H28O4,392.19875938,Boesenbergia rotunda (LINN.) MANSF.,Bergia,KNApSAcK
+489,C00029283,1052164-89-2,(-)-Isopanduratin A,C26H30O4,406.21440945,Boesenbergia rotunda (LINN.) MANSF.,Bergia,KNApSAcK
+490,C00029291,1052164-83-6,(+)-4-Hydroxypanduratin A,C25H28O4,392.19875938,Boesenbergia rotunda (LINN.) MANSF.,Bergia,KNApSAcK
+491,C00029303,956404-15-2,(+)-Isopanduratin A,C26H30O4,406.21440945,Boesenbergia rotunda (LINN.) MANSF.,Bergia,KNApSAcK
+492,C00029434,16929-92-3,"2,4-Dihydroxy-6-phenethyl-benzoic acid methyl ester",C16H16O4,272.104859,Boesenbergia rotunda (LINN.) MANSF.,Bergia,KNApSAcK
+493,C00029494,25499-90-5,3-Epioleanolic acid,C30H48O3,456.3603454,Ekebergia capensis,Bergia,KNApSAcK
+494,C00029501,33018-28-9,3-Hydroxy-2-methoxyxanthone,C14H10O4,242.05790881,Dalbergia odorifera,Bergia,KNApSAcK
+495,C00029550,15345-89-8,"5,6-Dehydrokawain",C14H12O3,228.07864425,Boesenbergia pandurata,Bergia,KNApSAcK
+496,C00029550,15345-89-8,"5,6-Dehydrokawain",C14H12O3,228.07864425,Boesenbergia rotunda (LINN.) MANSF.,Bergia,KNApSAcK
+497,C00029591,1050439-78-5,7-Methoxy-5-hydroxy-8-geranylflavanone,C26H30O4,406.21440945,Boesenbergia rotunda (LINN.) MANSF.,Bergia,KNApSAcK
+498,C00031826,545-24-4,Glutinol,C30H50O,426.38616622,Dalbergia sericea,Bergia,KNApSAcK
+499,C00033504,462118-50-9,"(6aR,11aR)-Vesticarpan",C16H14O5,286.08412356,Dalbergia parviflora,Bergia,KNApSAcK
+500,C00033565,4339-72-4,3-Acetyl oleanolic acid,C32H50O4,498.37091008,Dalbergia odorifera,Bergia,KNApSAcK
+501,C00033565,4339-72-4,3-Acetyl oleanolic acid,C32H50O4,498.37091008,Dalbergia barretoana,Bergia,KNApSAcK
+502,C00033750,1006384-23-1,Dalparvin A,C17H16O7,332.08960287,Dalbergia parviflora,Bergia,KNApSAcK
+503,C00033751,1006384-24-2,Dalparvin B,C17H16O6,316.09468824,Dalbergia parviflora,Bergia,KNApSAcK
+504,C00033752,1006384-25-3,Dalparvin C,C17H16O7,332.08960287,Dalbergia parviflora,Bergia,KNApSAcK
+505,C00033753,1006384-26-4,Dalparvinol C,C17H16O7,332.08960287,Dalbergia parviflora,Bergia,KNApSAcK
+506,C00034075,1006384-27-5,Neokhriol A,C17H18O4,286.12050906,Dalbergia parviflora,Bergia,KNApSAcK
+507,C00034075,1006384-27-5,Neokhriol A,C17H18O4,286.12050906,Dalbergia odorifera,Bergia,KNApSAcK
+508,C00034297,3776-48-5,Swietenolide,C27H34O8,486.22536806,Ekebergia capensis,Bergia,KNApSAcK
+509,C00034777,13072-74-7,7-Ketogedunin,C26H30O6,438.20423869,Ekebergia capensis,Bergia,KNApSAcK
+510,C00035357,17990-42-0,Oleanonic acid,C30H46O3,454.34469533,Ekebergia pterophylla,Bergia,KNApSAcK
+511,C00035804,37298-88-7,Anastreptin,C20H24O5,344.16237388,Adelanthus lindenbergianus (Lehm.) Mitt,Bergia,KNApSAcK
+512,C00035858,37298-89-8,Orcadensin,C20H24O5,344.16237388,Adelanthus lindenbergianus (Lehm.) Mitt,Bergia,KNApSAcK
+513,C00036322,113532-12-0,(+)-Zeylenol,C21H20O7,384.12090299,Boesenbergia rotunda (L.) Mansf.Kulturpfl.,Bergia,KNApSAcK
+514,C00036783,4707-47-5,Atraric acid,C10H12O4,196.07355887,Ekebergia pterophylla,Bergia,KNApSAcK
+515,C00036823,113532-14-2,Boesenboxide,C23H20O8,424.11581762,Boesenbergia rotunda (L.) Mansf.Kulturpfl.,Bergia,KNApSAcK
+516,C00036940,20421-13-0,Crotepoxide,C18H18O8,362.10016755,Boesenbergia rotunda (L.) Mansf.Kulturpfl.,Bergia,KNApSAcK
+517,C00037925,28874-44-4,"trans,trans-Xanthoxin",C15H22O3,250.15689457,Pueraia thunbergiana,Bergia,KNApSAcK
+518,C00038046,77222-71-0,(-)-6-Geranylpinocembrin,C25H28O4,392.19875938,Boesenbergia pandurata,Bergia,KNApSAcK
+519,C00038059,1052164-81-4,(-)-Panduratin A,C26H30O4,406.21440945,Boesenbergia pandurata,Bergia,KNApSAcK
+520,C00038060,206660-42-6,(-)-Pinocembrin,C15H12O4,256.07355887,Boesenbergia pandurata,Bergia,KNApSAcK
+521,C00038090,956404-12-9,"(1'R,2'S,6'R)-2-Hydroxyisopanduratin A",C25H28O4,392.19875938,Boesenbergia pandurata,Bergia,KNApSAcK
+522,C00038094,956404-13-0,(-)-(2R)-8-Geranylpinostrobin,C26H30O4,406.21440945,Boesenbergia pandurata,Bergia,KNApSAcK
+523,C00038097,58965-15-4,(2S)-6-Geranylpinostrobin,C26H30O4,406.21440945,Boesenbergia pandurata,Bergia,KNApSAcK
+524,C00038107,206660-12-0,(-)-(Z)-Volkendousin,C21H30O3,330.21949482,Ekebergia capensis,Bergia,KNApSAcK
+525,C00038198,915385-29-4,"2,3,22,23-Tetrahydroxy-2,6,10,15,19,23-hexamethyl-6,10,14,18-tetracosatetraene",C30H54O4,478.40221021,Ekebergia capensis,Bergia,KNApSAcK
+526,C00038202,956404-11-8,"2',4'-Dihydroxy-3'-(1''-geranyl)-6'-methoxychalcone",C26H30O4,406.21440945,Boesenbergia pandurata,Bergia,KNApSAcK
+527,C00038229,112408-67-0,2'-Methoxyisoliquiritigenin,C16H14O4,270.08920894,Dalbergia odorifera,Bergia,KNApSAcK
+528,C00038236,94492-08-7,"3,11-Dioxoolean-12-en-28-oic acid",C30H44O4,468.32395989,Ekebergia capensis,Bergia,KNApSAcK
+529,C00038271,272107-98-9,"3-Oxo-11,13(18)-oleandien-28-oic acid",C30H44O3,452.32904527,Ekebergia capensis,Bergia,KNApSAcK
+530,C00038274,71452-37-4,"4,6-Dimethoxy-5-methylcoumarin",C12H12O4,220.07355887,Ekebergia capensis,Bergia,KNApSAcK
+531,C00038315,18046-82-7,7-Acetylneotrichilenone,C28H36O5,452.25627426,Ekebergia capensis,Bergia,KNApSAcK
+532,C00039087,1012326-53-2,Ekeberin A,C30H48O3,456.3603454,Ekebergia capensis,Bergia,KNApSAcK
+533,C00039088,1012326-54-3,Ekeberin B,C21H32O3,332.23514489,Ekebergia capensis,Bergia,KNApSAcK
+534,C00039089,10584-64-2,Ekeberin C1,C26H32O6,440.21988875,Ekebergia capensis,Bergia,KNApSAcK
+535,C00039090,1012326-55-4,Ekeberin C2,C32H40O8,552.27231825,Ekebergia capensis,Bergia,KNApSAcK
+536,C00039091,1012326-56-5,Ekeberin C3,C29H34O9,526.22028269,Ekebergia capensis,Bergia,KNApSAcK
+537,C00039092,1012326-57-6,Ekeberin D1,C32H56O5,520.4127749,Ekebergia capensis,Bergia,KNApSAcK
+538,C00039093,1012326-58-7,Ekeberin D2,C30H54O5,494.39712483,Ekebergia capensis,Bergia,KNApSAcK
+539,C00039094,1012326-59-8,Ekeberin D3,C30H54O5,494.39712483,Ekebergia capensis,Bergia,KNApSAcK
+540,C00039095,1012326-60-1,Ekeberin D4,C30H54O6,510.39203946,Ekebergia capensis,Bergia,KNApSAcK
+541,C00039096,1012326-61-2,Ekeberin D5,C32H56O6,536.40768952,Ekebergia capensis,Bergia,KNApSAcK
+542,C00039097,53091-74-0,Ekersenin,C11H10O3,190.06299419,Ekebergia capensis,Bergia,KNApSAcK
+543,C00039264,956404-09-4,"Geranyl-2,4-dihydroxy-6-phenethylbenzoate",C25H30O4,394.21440945,Boesenbergia pandurata,Bergia,KNApSAcK
+544,C00039554,58274-56-9,Kakkalide,C28H32O15,608.17412036,Pueraria thunbergiana,Bergia,KNApSAcK
+545,C00039746,377724-68-0,Melliferone,C30H44O3,452.32904527,Ekebergia capensis,Bergia,KNApSAcK
+546,C00039764,1915-67-9,Mexicanolide,C27H32O7,468.21480338,Ekebergia capensis,Bergia,KNApSAcK
+547,C00039903,651321-31-2,Olibergin A,C17H14O7,330.0739528,Dalbergia oliveri,Bergia,KNApSAcK
+548,C00039903,651321-31-2,Olibergin A,C17H14O7,330.0739528,Dalbergia odorifera,Bergia,KNApSAcK
+549,C00040073,1915-68-0,Proceranolide,C27H34O7,470.23045344,Ekebergia capensis,Bergia,KNApSAcK
+550,C00044038,212901-42-3,"(3E,5Z,7Z,9E)-Trideca-3,5,7,9-tetraene",C13H20,176.15650064,Wahlenbergia marginata,Bergia,KNApSAcK
+551,C00044039,212901-43-4,"(E,E)-Pentadeca-5,7-diene-9,11,13-triyn-2-one",C15H14O,210.10446507,Wahlenbergia marginata,Bergia,KNApSAcK
+552,C00044382,213008-37-8,Wahlenoside A,C22H30O13,502.16864105,Wahlenbergia marginata,Bergia,KNApSAcK
+553,C00044383,213008-38-9,Wahlenoside B,C31H42O19,718.23202916,Wahlenbergia marginata,Bergia,KNApSAcK
+554,C00044384,213008-48-1,Wahlenoside C,C32H44O19,732.24767923,Wahlenbergia marginata,Bergia,KNApSAcK
+555,C00044462,22701-17-3,5-Hydroxyflavanone,C15H12O3,240.07864425,Dalbergia cochinchinensis,Bergia,KNApSAcK
+556,C00044566,638-97-1,beta-Amyrenone,C30H48O,424.37051615,Ekebergia pterophylla,Bergia,KNApSAcK
+557,C00044688,651300-03-7,Dalberatin A,C18H20O5,316.13107375,Dalbergia cultrata Grah,Bergia,KNApSAcK
+558,C00044689,651300-06-0,Dalberatin B,C18H20O5,316.13107375,Dalbergia cultrata Grah,Bergia,KNApSAcK
+559,C00044690,651300-10-6,Dalberatin C,C18H20O5,316.13107375,Dalbergia cultrata Grah,Bergia,KNApSAcK
+560,C00044691,651293-99-1,Dalberatin D,C18H20O5,316.13107375,Dalbergia nigrescens Kurz,Bergia,KNApSAcK
+561,C00044692,651300-13-9,Dalberatin E,C17H18O5,302.11542369,Dalbergia nigrescens Kurz,Bergia,KNApSAcK
+562,C00044693,52811-31-1,R-(-)-Dalbergiphenol,C17H18O3,270.12559444,Dalbergia cochinchinensis,Bergia,KNApSAcK
+563,C00044693,52811-31-1,R-(-)-Dalbergiphenol,C17H18O3,270.12559444,Dalbergia odorifera,Bergia,KNApSAcK
+564,C00047624,1201493-89-1,(3S)-Sativanone,C17H16O5,300.09977362,Dalbergia parviflora,Bergia,KNApSAcK
+565,C00047625,1201493-91-5,(3S)-Secundiflorol H,C17H16O7,332.08960287,Dalbergia parviflora,Bergia,KNApSAcK
+566,C00047626,875552-60-6,(3S)-Violanone,C17H16O6,316.09468824,Dalbergia parviflora,Bergia,KNApSAcK
+567,C00047773,1179348-32-3,Candenatenin A,C18H20O5,316.13107375,Dalbergia candenatensis,Bergia,KNApSAcK
+568,C00047774,1179348-33-4,Candenatenin B,C15H16O2,228.11502975,Dalbergia candenatensis,Bergia,KNApSAcK
+569,C00047775,1179348-34-5,Candenatenin C,C16H18O3,258.12559444,Dalbergia candenatensis,Bergia,KNApSAcK
+570,C00047776,1179348-35-6,Candenatenin D,C16H20O3,260.1412445,Dalbergia candenatensis,Bergia,KNApSAcK
+571,C00047777,1179348-36-7,Candenatenin E,C17H16O5,300.09977362,Dalbergia candenatensis,Bergia,KNApSAcK
+572,C00047778,1179348-37-8,Candenatenin F,C26H32O3,392.23514489,Dalbergia candenatensis,Bergia,KNApSAcK
+573,C00047832,1201493-87-9,Dalparvin,C17H16O6,316.09468824,Dalbergia parviflora,Bergia,KNApSAcK
+574,C00047946,1201493-77-7,Khrinone A,C16H12O6,300.06338812,Dalbergia parviflora,Bergia,KNApSAcK
+575,C00047947,1201493-79-9,Khrinone B,C16H12O7,316.05830274,Dalbergia parviflora,Bergia,KNApSAcK
+576,C00047948,1201493-81-3,Khrinone C,C17H14O7,330.0739528,Dalbergia parviflora,Bergia,KNApSAcK
+577,C00047949,1201493-83-5,Khrinone D,C17H12O7,328.05830274,Dalbergia parviflora,Bergia,KNApSAcK
+578,C00047950,69505-46-0,Khrinone E,C17H14O6,314.07903818,Dalbergia parviflora,Bergia,KNApSAcK
+579,C00049002,30300-36-8,Methyl 3alpha-hydroxy-3-deoxyangolensate,C27H36O7,472.2461035,Ekebergia capensis,Bergia,KNApSAcK
+580,C00049121,915-05-9,Acetyl-beta-sitosterol,C31H52O2,456.3967309,Ekebergia pterophylla,Bergia,KNApSAcK
+581,C00049281,210231-08-6,Pterophyllin 1,C15H14O3,242.09429431,Ekebergia pterophylla,Bergia,KNApSAcK
+582,C00049282,210231-09-7,Pterophyllin 2,C15H12O3,240.07864425,Ekebergia pterophylla,Bergia,KNApSAcK
+583,C00050455,628-97-7,Ethyl palmitate,C18H36O2,284.27153039,Dalbergia odorifera,Bergia,KNApSAcK
+584,C00050616,205316-53-6,"(3R)-4'-Methoxy-2',3,7-trihydroxyisoflavanone",C16H14O6,302.07903818,Dalbergia odorifera,Bergia,KNApSAcK
+585,C00052466,158112-50-6,(-)-Vestitone,C16H14O5,286.08412356,Dalbergia odorifera,Bergia,KNApSAcK
+586,C00052476,17934-04-2,(+-)-Duartin,C18H20O6,332.12598837,Dalbergia odorifera,Bergia,KNApSAcK
+587,C00052503,1295527-17-1,(3R)-Violanone,C17H16O6,316.09468824,Dalbergia odorifera,Bergia,KNApSAcK
+588,C00052594,300655-41-8,"2,4-Dihydroxy-5-methoxybenzophenone",C14H12O4,244.07355887,Dalbergia odorifera,Bergia,KNApSAcK
+589,C00052640,19283-70-6,"2-Hydroxy-3,4-dimethoxybenzaldehyde",C9H10O4,182.05790881,Dalbergia odorifera,Bergia,KNApSAcK
+590,C00052673,33046-80-9,"3,8-Nonadien-2-one",C9H14O,138.10446507,Dalbergia odorifera,Bergia,KNApSAcK
+591,C00052750,1803291-03-3,"6,7-Dimethoxy-2-(4-methoxybenzoquinonyl)flavan",C24H22O6,406.14163844,Dalbergia odorifera,Bergia,KNApSAcK
+592,C00052759,847375-46-6,"7,3',5'-Trihydroxyflavanone",C15H12O5,272.06847349,Dalbergia odorifera,Bergia,KNApSAcK
+593,C00052760,947611-61-2,"7,3'-Dihydroxy-5'-methoxyisoflavone",C16H12O5,284.06847349,Dalbergia odorifera,Bergia,KNApSAcK
+594,C00052790,202584-73-4,"9-Hydroxy-6,7-dimethoxydalbergiquinol",C17H18O3,270.12559444,Dalbergia odorifera,Bergia,KNApSAcK
+595,C00053314,123-68-2,"Hexanoic acid, 2-propenylester",C9H16O2,156.11502975,Dalbergia odorifera,Bergia,KNApSAcK
+596,C00053331,101153-43-9,Hydroxyobtustyrene,C16H16O3,256.10994438,Dalbergia odorifera,Bergia,KNApSAcK
+597,C00053536,1401618-49-2,Negunfurol,C15H26O3,254.1881947,Dalbergia odorifera,Bergia,KNApSAcK
+598,C00053548,1220194-97-7,Neroplofurol,C15H28O4,272.19875938,Dalbergia odorifera,Bergia,KNApSAcK
+599,C00053808,487-35-4,Syringaresinol,C22H26O8,418.16276781,Dalbergia odorifera,Bergia,KNApSAcK
+600,C00054609,867-54-9,"1,1-Dibromo-2-propanone",C3H4Br2O,213.86289055,Falkenbergia rufolanosa,Bergia,KNApSAcK
+601,C00058911,101311-04-0,"(R)-3,4-Dihydro-3-(3-hydroxy-2,4-dimethoxyphenyl)-8-methoxy-2H-1-benzopyran-7-ol",C18H20O6,332.12598837,Dalbergia odorifera,Bergia,KNApSAcK
+602,C00059270,1143504-30-6,"2-[(1R)-1-(4-Hydroxyphenyl)-2-propen-1-yl]-5-methoxy-2,5-cyclohexadiene-1,4-dione",C16H14O4,270.08920894,Dalbergia odorifera,Bergia,KNApSAcK
+603,C00059595,1295527-10-4,"(3R)-3-(2,4-Dimethoxyphenyl)-2,3-dihydro-3,7-dihydroxy-4H-1-benzopyran-4-one",C17H16O6,316.09468824,Dalbergia odorifera,Bergia,KNApSAcK
+604,C00059631,131319-67-0,"(2R)-1-(2,4-Dihydroxyphenyl)-2-hydroxy-3-(4-hydroxyphenyl)-1-propanone",C15H14O5,274.08412356,Dalbergia odorifera,Bergia,KNApSAcK
+605,C00059790,1382468-86-1,"3-(2,4-Dihydroxyphenyl)-5-hydroxy-4H-1-benzopyran-4-one",C15H10O5,270.05282343,Dalbergia odorifera,Bergia,KNApSAcK
+606,C00059955,1445876-92-5,"(3R)-2,3-Dihydro-7-hydroxy-3-(2,3,4-trimethoxyphenyl)-4H-1-benzopyran-4-one",C18H18O6,330.11033831,Dalbergia odorifera,Bergia,KNApSAcK
+607,C00059956,1445876-93-6,"(3S)-2,3-Dihydro-7-hydroxy-3-(2,4,5-trimethoxyphenyl)-4H-1-benzopyran-4-one",C18H18O6,330.11033831,Dalbergia odorifera,Bergia,KNApSAcK
+608,C00060165,160436-10-2,"5,7,3'5'-Tetrahydroxyflavanone",C15H12O6,288.06338812,Dalbergia odorifera,Bergia,KNApSAcK
+609,C00060473,1803291-01-1,"2-[4,5-Dimethoxy-5-(3-m-hydroxyphenyl-trans-allyl)cyclohexa-3,6-dien-2-on-1-ylmethyl]-5-hydroxy-6-methoxy-3-phenylbenzofuran",C33H30O7,538.19915331,Dalbergia odorifera,Bergia,KNApSAcK
+610,C00060474,1803291-05-5,"7-Hydroxy-5'-methoxyspiro[benzo[d][1,3]dioxole-2',3-chroman]-4-one",C16H12O6,300.06338812,Dalbergia odorifera,Bergia,KNApSAcK
+611,C00060582,189689-31-4,"(2S)-2,3-Dihydro-6,7-dihydroxy-2-(4-hydroxyphenyl)-4H-1-benzopyran-4-one",C15H12O5,272.06847349,Dalbergia odorifera,Bergia,KNApSAcK
+612,C00060583,189689-32-5,"(2S)-7-Methoxy-4',6-dihydroxyflavanone",C16H14O5,286.08412356,Dalbergia odorifera,Bergia,KNApSAcK
+613,C00060669,200398-87-4,"4-Methoxy-2,5-di-O-methyl-3'-hydroxydalbergiquinol",C18H20O4,300.13615913,Dalbergia odorifera,Bergia,KNApSAcK
+614,C00060688,202463-50-1,"(2S)-6,4'-Dihydroxy-7-methoxyflavan",C16H16O4,272.104859,Dalbergia odorifera,Bergia,KNApSAcK
+615,C00060689,202463-52-3,"(2,5-Dihydroxy-4-methoxyphenyl)(2-hydroxyphenyl)methanone",C14H12O5,260.06847349,Dalbergia odorifera,Bergia,KNApSAcK
+616,C00061254,28396-75-0,4-Methoxydalbergione,C16H14O3,254.09429431,Dalbergia odorifera,Bergia,KNApSAcK
+617,C00061342,300655-42-9,"2',3',7-Trihydroxy-4'-methoxyisoflavan",C16H14O6,302.07903818,Dalbergia odorifera,Bergia,KNApSAcK
+618,C00061497,33983-40-3,(+-)-Medicarpin,C16H14O4,270.08920894,Dalbergia odorifera,Bergia,KNApSAcK
+619,C00062556,6395-23-9,"Methyl 2-hydroxy-3,4-dimethoxybenzoate",C10H12O5,212.06847349,Dalbergia odorifera,Bergia,KNApSAcK
+620,C00062645,66869-44-1,Dalnigrin,C17H14O5,298.08412356,Dalbergia odorifera,Bergia,KNApSAcK
+621,C00062666,67736-19-0,2-(2-Benzofuranyl)-5-methoxyphenol,C15H12O3,240.07864425,Dalbergia odorifera,Bergia,KNApSAcK
+622,C00063468,94538-07-5,"2-[1-(4-Hydroxyphenyl)-2-propen-1-yl]-5-methoxy-2,5-cyclohexadiene-1,4-dione",C16H14O4,270.08920894,Dalbergia odorifera,Bergia,KNApSAcK
+0,C00013697,,"6-Hydroxyluteolin 6,3'-dimethyl eter 7-rutinoside",C29H34O16,638.18468504,Kickxia elatine,Elatine,KNApSAcK
+0,C00002075,72741-87-8,Swainsonine,C8H15NO3,173.10519335,Metarhizium anisopliae,Rhizium,KNApSAcK
+1,C00011323,22144-76-9,Cytochalasin C,C30H37NO6,507.26208792,Metarhizium anisopliae,Rhizium,KNApSAcK
+2,C00011324,22144-77-0,Cytochalasin D,C30H37NO6,507.26208792,Metarrhizium anisopliae,Rhizium,KNApSAcK
+3,C00011328,25374-67-8,Zygosporin D,C28H35NO5,465.25152324,Hetarrhizium anisopliae,Rhizium,KNApSAcK
+4,C00011328,25374-67-8,Zygosporin D,C28H35NO5,465.25152324,Metarrhizium anisopliae,Rhizium,KNApSAcK
+5,C00016760,145398-57-8,Metacytofilin,C16H22N2O4,306.15795721,Metarhizium sp. TA2759,Rhizium,KNApSAcK
+6,C00037039,6686-70-0,Destruxin A,C29H47N5O7,577.34754889,Metarrhizium anisopliae (Metchnikoff),Rhizium,KNApSAcK
+7,C00037040,2503-26-6,Destruxin B,C30H51N5O7,593.37884902,Metarrhizium anisopliae (Metchnikoff),Rhizium,KNApSAcK
+8,C00037044,134316-37-3,Destruxin E diol,C29H49N5O9,611.3530282,Metarrhizium anisopliae (Metchnikoff),Rhizium,KNApSAcK
+9,C00037692,38668-43-8,Protodestruxin,C28H47N5O7,565.34754889,Metarrhizium anisopliae (Metchnikoff),Rhizium,KNApSAcK
+10,C00038536,65256-31-7,Aurovertin D,C25H32O9,476.20463262,Metarhizium anisopliae,Rhizium,KNApSAcK
+11,C00038537,1011725-89-5,Aurovertin F,C23H30O8,434.19406794,Metarhizium anisopliae,Rhizium,KNApSAcK
+12,C00038538,1011725-90-8,Aurovertin G,C25H32O10,492.19954724,Metarhizium anisopliae,Rhizium,KNApSAcK
+13,C00040280,1001897-42-2,Serinocyclin A,C27H44N8O12,672.30786893,Metarhizium anisopliae,Rhizium,KNApSAcK
+14,C00040281,1001897-43-3,Serinocyclin B,C27H44N8O11,656.31295431,Metarhizium anisopliae,Rhizium,KNApSAcK
+0,C00000674,491-70-3,"5,7,3',4'-Tetrahydroxyflavone",C15H10O6,286.04773805,Polygonum hydropiper,Hydropiper,KNApSAcK
+1,C00000677,480-18-2,Dihydroquercetin,C15H12O7,304.05830274,Polygonum hydropiper,Hydropiper,KNApSAcK
+2,C00000947,154-23-4,(+)-Catechin,C15H14O6,290.07903818,Polygonum hydropiper,Hydropiper,KNApSAcK
+3,C00000956,490-46-0,(-)-Epicatechin,C15H14O6,290.07903818,Polygonum hydropiper,Hydropiper,KNApSAcK
+4,C00001071,529-44-2,Myricetin,C15H10O8,318.0375673,Polygonum hydropiper,Hydropiper,KNApSAcK
+5,C00001200,127-17-3,Pyruvic acid,C3H4O3,88.01604399,Polygonum hydropiper,Hydropiper,KNApSAcK
+6,C00002647,149-91-7,Gallic acid,C7H6O5,170.0215233,Polygonum hydropiper,Hydropiper,KNApSAcK
+7,C00003012,100560-66-5,Polygonolide,C12H12O4,220.07355887,Polygonum hydropiper,Hydropiper,KNApSAcK
+8,C00003175,6754-20-7,(-)-Polygodial,C15H22O2,234.16197995,Polygonum hydropiper,Hydropiper,KNApSAcK
+9,C00003202,62994-47-2,Warburganal,C15H22O3,250.15689457,Polygonum hydropiper,Hydropiper,KNApSAcK
+10,C00003236,1811-23-0,Confertifolin,C15H22O2,234.16197995,Polygonum hydropiper,Hydropiper,KNApSAcK
+11,C00003834,529-53-3,Scutellarein,C15H10O6,286.04773805,Polygonum hydropiper L.,Hydropiper,KNApSAcK
+12,C00003884,18003-33-3,6-Hydroxyluteolin,C15H10O7,302.04265268,Polygonum hydropiper L.,Hydropiper,KNApSAcK
+13,C00004386,54300-65-1,6-Hydroxyluteolin 7-glucoside,C21H20O12,464.09547611,Polygonum hydropiper L.,Hydropiper,KNApSAcK
+14,C00004565,520-18-3,Kaempferol,C15H10O6,286.04773805,Polygonum hydropiper,Hydropiper,KNApSAcK
+15,C00004631,117-39-5,Quercetin,C15H10O7,302.04265268,Polygonum hydropiper,Hydropiper,KNApSAcK
+16,C00004634,90-19-7,Rhamnetin,C16H12O7,316.05830274,Polygonum hydropiper,Hydropiper,KNApSAcK
+17,C00004635,480-19-3,Isorhamnetin,C16H12O7,316.05830274,Polygonum hydropiper,Hydropiper,KNApSAcK
+18,C00004968,549-31-5,Persicarin,C16H12O10S,396.01511734,Polygonum hydropiper,Hydropiper,KNApSAcK
+19,C00004974,,Rhamnazin 3-O-sulfate,C17H14O10S,410.0307674,Polygonum hydropiper,Hydropiper,KNApSAcK
+20,C00005376,22688-79-5,Miquelianin,C21H18O13,478.07474066,Polygonum hydropiper L.,Hydropiper,KNApSAcK
+21,C00006073,156606-91-6,Tamarixetin 3-glucoside-7-sulfate,C22H22O15S,558.06794077,Polygonum hydropiper,Hydropiper,KNApSAcK
+22,C00008866,1257-08-5,(-)-Epicatechin 3-O-gallate,C22H18O10,442.0899968,Polygonum hydropiper,Hydropiper,KNApSAcK
+23,C00010825,470-67-7,"1,4-Cineole",C10H18O,154.1357652,Polygonum hydropiper,Hydropiper,KNApSAcK
+24,C00020276,98204-84-3,Polygonic acid,C15H22O3,250.15689457,Polygonum hydropiper,Hydropiper,KNApSAcK
+25,C00020288,72581-69-2,Isodrimeninol,C15H24O2,236.17763001,Polygonum hydropiper,Hydropiper,KNApSAcK
+26,C00020296,24173-70-4,Valdiviolide,C15H22O3,250.15689457,Polygonum hydropiper,Hydropiper,KNApSAcK
+27,C00020298,6750-10-3,Fuegin,C15H22O4,266.15180919,Polygonum hydropiper,Hydropiper,KNApSAcK
+28,C00020333,72537-20-3,Polygonal,C14H22O2,222.16197995,Polygonum hydropiper,Hydropiper,KNApSAcK
+29,C00020334,98204-83-2,Isopolygonal,C14H22O2,222.16197995,Polygonum hydropiper,Hydropiper,KNApSAcK
+30,C00020335,72581-67-0,Polygonone,C14H20O2,220.14632988,Polygonum hydropiper,Hydropiper,KNApSAcK
+31,C00035906,55719-85-2,"3',4',5,6,7-Pentahydroxyflavone",C13H16O2,204.11502975,Polygonum hydropiper L.,Hydropiper,KNApSAcK
+32,C00039450,5956-39-8,Isopolygodial,C15H22O2,234.16197995,Polygonum hydropiper,Hydropiper,KNApSAcK
+33,C00046024,87611-93-6,Hydropiperoside,C39H40O17,780.22654986,Polygonum hydropiper,Hydropiper,KNApSAcK
+34,C00063635,1086459-02-0,Hydropiperoside B,C52H52O22,1028.29502335,Polygonum hydropiper,Hydropiper,KNApSAcK
+0,C00000733,617-12-9,Chorismate,C10H10O6,226.04773805,Galium mollugo,Mollugo,KNApSAcK
+1,C00000734,22642-82-6,Isochorismic acid,C10H10O6,226.04773805,Galium mollugo,Mollugo,KNApSAcK
+2,C00004166,,Apigenin 7-rutinoside-4'-glucoside,C33H40O19,740.2163791,Galium mollugo,Mollugo,KNApSAcK
+3,C00006080,38642-55-6,Mollupentin,C20H18O9,402.09508217,Mollugo pentaphylla,Mollugo,KNApSAcK
+4,C00006101,92633-64-2,Isomolludistin,C21H20O9,416.11073224,Mollugo distica,Mollugo,KNApSAcK
+5,C00006102,66274-25-7,Molludistin,C21H20O9,416.11073224,Mollugo distica,Mollugo,KNApSAcK
+6,C00006129,6980-40-1,Isoswertisin,C22H22O10,446.12129692,Mollugo distica,Mollugo,KNApSAcK
+7,C00006166,85700-46-5,6-C-beta-D-Xylopyranosyl-8-C-alpha-L-arabinopyranosylapigenin,C25H26O13,534.13734092,Mollugo pentaphylla,Mollugo,KNApSAcK
+8,C00006200,64661-76-3,Flavocannabiside,C27H30O16,610.15338491,Mollugo cerviana,Mollugo,KNApSAcK
+9,C00006215,35109-95-6,Vitexin 7-O-glucoside,C27H30O15,594.15847029,Mollugo oppositifolia,Mollugo,KNApSAcK
+10,C00006250,66274-23-5,Molludistin 2''-O-rhamnoside,C27H30O13,562.16864105,Mollugo distica,Mollugo,KNApSAcK
+11,C00006278,64821-00-7,Isoswertisin 2''-O-rhamnoside,C28H32O14,592.17920573,Mollugo distica,Mollugo,KNApSAcK
+12,C00006325,93446-17-4,Vitexin 7-O-glucoside 2''-p-coumarate,C36H36O17,740.19524973,Mollugo oppositifolia,Mollugo,KNApSAcK
+13,C00006392,61360-94-9,Flavosativaside,C27H30O15,594.15847029,Mollugo cerviana,Mollugo,KNApSAcK
+14,C00010618,82526-63-4,Mollugoside,C17H22O12,418.11112617,Galium mollugo,Mollugo,KNApSAcK
+15,C00010791,61774-57-0,Secogaliosdie,C17H24O12,420.12677623,Galium mollugo,Mollugo,KNApSAcK
+16,C00030333,61658-41-1,Furomollugin,C14H10O4,242.05790881,Galium mollugo L.,Mollugo,KNApSAcK
+17,C00030781,55481-88-4,Mollugin,C17H16O4,284.104859,Galium mollugo,Mollugo,KNApSAcK
+18,C00031802,54712-59-3,Galioside,C17H24O11,404.13186161,Galium mollugo L.,Mollugo,KNApSAcK
+19,C00037835,104720-12-9,Spergulacin,C41H56O12,740.37717725,Mollugo spergula,Mollugo,KNApSAcK
+20,C00037836,107602-90-4,Spergulacin A,C41H68O12,752.47107764,Mollugo spergula,Mollugo,KNApSAcK
+21,C00037837,403740-06-7,Spergulin A,C35H58O11S,686.36998343,Mollugo spergula,Mollugo,KNApSAcK
+22,C00037838,403740-07-8,Spergulin B,C39H64O11,708.44486289,Mollugo spergula,Mollugo,KNApSAcK
+23,C00051620,22550-76-1,Mollugogenol A,C30H52O4,476.38656015,Mollugo pentaphylla,Mollugo,KNApSAcK
+24,C00051621,22554-64-9,Mollugogenol B,C30H48O2,440.36543078,Mollugo pentaphylla,Mollugo,KNApSAcK
+25,C00051622,59553-44-5,Mollugogenol D,C32H56O4,504.41786028,Mollugo pentaphylla,Mollugo,KNApSAcK
+0,C00006079,38642-54-5,Isomollupentin,C20H18O9,402.09508217,Spergularia rubra,Spergula,KNApSAcK
+1,C00006229,23666-13-9,Vicenin,C27H30O15,594.15847029,Spergularia rubra,Spergula,KNApSAcK
+2,C00006231,29428-58-8,Lucenin 2,C27H30O16,610.15338491,Spergularia rubra,Spergula,KNApSAcK
+3,C00006285,63975-58-6,Stellarin 2,C28H32O16,624.16903498,Spergularia rubra,Spergula,KNApSAcK
+4,C00006311,72277-61-3,"Isomollupentin 7,2''-di-O-glucoside",C32H38O19,726.20072904,Spergularia rubra,Spergula,KNApSAcK
+5,C00006384,97673-60-4,Isomollupentin 7-O-glucoside,C26H28O14,564.14790561,Spergularia rubra,Spergula,KNApSAcK
+6,C00037835,104720-12-9,Spergulacin,C41H56O12,740.37717725,Mollugo spergula,Spergula,KNApSAcK
+7,C00037836,107602-90-4,Spergulacin A,C41H68O12,752.47107764,Mollugo spergula,Spergula,KNApSAcK
+8,C00037837,403740-06-7,Spergulin A,C35H58O11S,686.36998343,Mollugo spergula,Spergula,KNApSAcK
+9,C00037838,403740-07-8,Spergulin B,C39H64O11,708.44486289,Mollugo spergula,Spergula,KNApSAcK
+0,C00002095,6224-43-7,Isolycopsamine,C15H25NO5,299.17327292,Cryptantha confertiflora,Crypta,KNApSAcK
+1,C00002377,88110-66-1,"Cyanidin 3,5,3'-triglucoside",C33H41O21,773.21403338,Cryptanthus spp.,Crypta,KNApSAcK
+2,C00035534,767356-33-2,Azorellolide,C20H30O2,302.2245802,Azorella cryptantha,Crypta,KNApSAcK
+3,C00035585,767356-34-3,Dihydroazorellolide,C20H32O2,304.24023027,Azorella cryptantha,Crypta,KNApSAcK
+4,C00035902,474259-13-7,Yaretol,C19H32O3,308.23514489,Azorella cryptantha,Crypta,KNApSAcK

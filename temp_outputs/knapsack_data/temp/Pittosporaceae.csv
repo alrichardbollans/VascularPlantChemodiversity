@@ -1,0 +1,728 @@
+,C_ID,CAS ID,example_compound_name,Molecular formula,Mw,Organism,knapsack_search_term,Source
+0,C00002472,531-75-9,Aesculin,C15H16O9,340.07943211,Bursaria spinosa,Bursaria,KNApSAcK
+1,C00007805,19253-84-0,4-Hydroxybenzyl glucosinolate,C14H19NO10S2,425.0450373,Bursaria spinosa,Bursaria,KNApSAcK
+0,C00003543,75303-44-5,Pittoside A,C41H68O14,784.46090688,Pittosporum nilghrense,Pittosporum,KNApSAcK
+1,C00010874,99-84-3,beta-Terpinen,C10H16,136.12520051,Pittosporum tenuifolium,Pittosporum,KNApSAcK
+2,C00011705,126654-58-8,Pittosporanoside B1,C28H44O7,492.30870376,Pittosporum tobira,Pittosporum,KNApSAcK
+3,C00011706,126654-59-9,Pittosporanoside B2,C28H44O7,492.30870376,Pittosporum tobira,Pittosporum,KNApSAcK
+4,C00011707,126654-60-2,Pittosporanoside B3,C28H44O7,492.30870376,Pittosporum tobira,Pittosporum,KNApSAcK
+5,C00011736,115526-27-7,Pittosporatobiraside A,C26H38O5,430.27192432,Pittosporum tobira,Pittosporum,KNApSAcK
+6,C00011737,127610-67-7,Pittosporatobiraside B,C26H38O5,430.27192432,Pittosporum tobira,Pittosporum,KNApSAcK
+7,C00021218,104472-69-7,Pittosporanoside A1,C28H44O7,492.30870376,Pittosporum tobira,Pittosporum,KNApSAcK
+8,C00021219,104472-70-0,Pittosporanoside A2,C28H44O7,492.30870376,Pittosporum tobira,Pittosporum,KNApSAcK
+9,C00023171,,"5',6'-Epoxy-3'-hydroxy-3-methoxy-4,6-didehydro-5',6'-dihydro-4,6-cyclo-5,6-seco-beta,beta-caroten-5-one",C41H56O4,612.41786028,Pittosporum tobira,Pittosporum,KNApSAcK
+10,C00023172,,"5',8'-Epoxy-3'-hydroxy-3-methoxy-4,6-didehydro-5',8'-dihydro-4,6-cyclo-5,6-seco-beta,beta-caroten-5-one",C41H56O4,612.41786028,Pittosporum tobira,Pittosporum,KNApSAcK
+11,C00034619,934712-35-3,Pancherin A,C25H40O6,436.28248901,Pittosporum pancheri,Pittosporum,KNApSAcK
+12,C00034620,934712-42-2,Pancherin B,C25H40O6,436.28248901,Pittosporum pancheri,Pittosporum,KNApSAcK
+13,C00040029,174390-05-7,Pittosporumxanthin A3,C69H104O6,1028.78329105,Pittosporum tobira,Pittosporum,KNApSAcK
+14,C00040030,174390-06-8,Pittosporumxanthin A4,C69H104O6,1028.78329105,Pittosporum tobira,Pittosporum,KNApSAcK
+15,C00040031,174232-45-2,Pittosporumxanthin B1,C69H104O5,1012.78837643,Pittosporum tobira,Pittosporum,KNApSAcK
+16,C00040032,174390-03-5,Pittosporumxanthin B2,C69H104O5,1012.78837643,Pittosporum tobira,Pittosporum,KNApSAcK
+17,C00040033,174232-46-3,Pittosporumxanthin C1,C69H104O6,1028.78329105,Pittosporum tobira,Pittosporum,KNApSAcK
+18,C00040034,174390-04-6,Pittosporumxanthin C2,C69H104O6,1028.78329105,Pittosporum tobira,Pittosporum,KNApSAcK
+19,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Pittosporum tobira,Pittosporum,KNApSAcK
+0,C00000152,7400-08-0,p-Coumaric acid,C9H8O3,164.04734412,Gynerium sagittatum,Nerium,KNApSAcK
+1,C00000170,140-10-3,Cinnamate,C9H8O2,148.0524295,Gynerium sagittatum,Nerium,KNApSAcK
+2,C00000982,480-41-1,Naringenin,C15H12O5,272.06847349,Gynerium sagittatum,Nerium,KNApSAcK
+3,C00001036,520-34-3,Diosmetin,C16H12O6,300.06338812,Nerium oleander,Nerium,KNApSAcK
+4,C00001127,87037-60-3,Oleandrose,C7H14O4,162.08920894,Nerium oleander,Nerium,KNApSAcK
+5,C00002499,92-61-5,Scopoletin,C10H8O4,192.04225874,Nerium odorum,Nerium,KNApSAcK
+6,C00002500,531-44-2,7-(beta-D-glucopyranosyloxy)-6-methoxycoumarin,C16H18O9,354.09508217,Nerium odorum,Nerium,KNApSAcK
+7,C00002510,491-80-5,Biochanin A,C16H12O5,284.06847349,Gynerium sagittatum,Nerium,KNApSAcK
+8,C00002520,30368-42-4,Dalbergioidin,C15H12O6,288.06338812,Gynerium sagittatum,Nerium,KNApSAcK
+9,C00002524,32898-79-6,Ferreirin,C16H14O6,302.07903818,Gynerium sagittatum,Nerium,KNApSAcK
+10,C00002724,327-97-9,3-O-Caffeoylquinic acid,C16H18O9,354.09508217,Nerium oleander,Nerium,KNApSAcK
+11,C00002743,1135-24-6,Ferulic acid,C10H10O4,194.05790881,Gynerium sagittatum,Nerium,KNApSAcK
+12,C00003558,77-52-1,Ursolic acid,C30H48O3,456.3603454,Nerium oleander,Nerium,KNApSAcK
+13,C00003600,35109-93-4,Adynerin,C30H44O7,516.30870376,Nerium oleander,Nerium,KNApSAcK
+14,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Nerium oleander,Nerium,KNApSAcK
+15,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Nerium oleander,Nerium,KNApSAcK
+16,C00003801,32272-23-4,Isopratol,C16H12O4,268.07355887,Gynerium sagittatum,Nerium,KNApSAcK
+17,C00004461,32769-00-9,Tricin 5-O-beta-D-glucopyranoside,C23H24O12,492.12677623,Gynerium sagittatum,Nerium,KNApSAcK
+18,C00004565,520-18-3,Kaempferol,C15H10O6,286.04773805,Nerium oleander,Nerium,KNApSAcK
+19,C00004631,117-39-5,Quercetin,C15H10O7,302.04265268,Nerium oleander,Nerium,KNApSAcK
+20,C00005413,153-18-4,Quercetin 3-rutinoside,C27H30O16,610.15338491,Nerium oleander,Nerium,KNApSAcK
+21,C00009553,66152-07-6,Dihydrobiochanin A,C16H14O5,286.08412356,Gynerium sagittatum,Nerium,KNApSAcK
+22,C00013329,520-32-1,Tricin,C17H14O7,330.0739528,Gynerium sagittatum,Nerium,KNApSAcK
+23,C00019064,508-02-1,Oleanolic acid,C30H48O3,456.3603454,Nerium oleander,Nerium,KNApSAcK
+24,C00020344,20979-50-4,"7,4'-Dimethoxyflavone",C17H14O4,282.08920894,Gynerium sagittatum,Nerium,KNApSAcK
+25,C00029633,7372-30-7,Acetylursolic acid,C32H50O4,498.37091008,Nerium oleander,Nerium,KNApSAcK
+26,C00032041,55497-67-1,"3beta,27-Dihydroxy-12-oleanen-28-oic acid",C30H48O4,472.35526002,Nerium oleander,Nerium,KNApSAcK
+27,C00032467,545-46-0,Uvaol,C30H50O2,442.38108084,Nerium oleander,Nerium,KNApSAcK
+28,C00032469,466-09-1,Uzarigenin,C23H34O4,374.24570957,Nerium odorum,Nerium,KNApSAcK
+29,C00034423,79-10-7,2-Propenoic acid,C3H4O2,72.02112937,Gynerium sagittatum,Nerium,KNApSAcK
+30,C00034479,942158-39-6,Dihydrocajanin,C16H14O6,302.07903818,Gynerium sagittatum,Nerium,KNApSAcK
+31,C00034743,102-94-3,Z-Cinnamic acid,C9H8O2,148.0524295,Gynerium sagittatum,Nerium,KNApSAcK
+32,C00036709,863-76-3,alpha-Amyrin acetate,C32H52O2,468.3967309,Nerium oleander,Nerium,KNApSAcK
+33,C00037334,112693-17-1,Isoneriucoumaric acid,C39H54O6,618.39203946,Nerium oleander,Nerium,KNApSAcK
+34,C00038702,946833-89-2,Cardenolide N-1,C30H46O7,518.32435382,Nerium oleander,Nerium,KNApSAcK
+35,C00038703,946833-90-5,Cardenolide N-2,C30H44O7,516.30870376,Nerium oleander,Nerium,KNApSAcK
+36,C00038704,946833-91-6,Cardenolide N-3,C30H42O8,530.28796832,Nerium oleander,Nerium,KNApSAcK
+37,C00038705,946837-93-0,Cardenolide N-4,C32H48O9,576.32983313,Nerium oleander,Nerium,KNApSAcK
+38,C00039845,53823-05-5,Neridienone A,C21H26O3,326.1881947,Nerium odorum Sol.,Nerium,KNApSAcK
+39,C00039845,53823-05-5,Neridienone A,C21H26O3,326.1881947,Nerium oleander,Nerium,KNApSAcK
+40,C00039846,61671-56-5,Neridienone B,C21H28O4,344.19875938,Nerium oleander,Nerium,KNApSAcK
+41,C00039846,61671-56-5,Neridienone B,C21H28O4,344.19875938,Nerium odorum Sol.,Nerium,KNApSAcK
+42,C00040605,19132-81-1,Ursolic aldehyde,C30H48O2,440.36543078,Nerium oleander,Nerium,KNApSAcK
+43,C00041257,909297-85-4,"20beta,28-Epoxytaraxaster-21-en-3beta-ol",C31H52O3,472.39164553,Nerium oleander,Nerium,KNApSAcK
+44,C00042003,5986-39-0,Ocotillol,C30H52O3,460.39164553,Nerium oleander,Nerium,KNApSAcK
+45,C00042084,99520-70-4,28-Norurs-12-en-3beta-ol,C29H48O,412.37051615,Nerium oleander,Nerium,KNApSAcK
+46,C00042119,180005-32-7,"3beta,13beta-Dihydroxyurs-11-en-28-oic acid",C30H48O4,472.35526002,Nerium oleander,Nerium,KNApSAcK
+47,C00042120,73584-74-4,"3beta,27-Dihydroxy-12-ursen-28-oic acid",C30H48O4,472.35526002,Nerium oleander,Nerium,KNApSAcK
+48,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Nerium oleander,Nerium,KNApSAcK
+49,C00047082,145-13-1,Pregnenolone,C21H32O2,316.24023027,Nerium odorum,Nerium,KNApSAcK
+50,C00049578,144334-40-7,Proceragenin,C23H34O4,374.24570957,Nerium oleander,Nerium,KNApSAcK
+51,C00056028,465-16-7,Oleandrine,C32H48O9,576.32983313,Nerium oleander,Nerium,KNApSAcK
+52,C00058349,6246-57-7,Adynerigenin,C23H32O4,372.23005951,Nerium odorum,Nerium,KNApSAcK
+53,C00058408,165171-15-3,cis-Karenin,C39H54O6,618.39203946,Nerium oleander,Nerium,KNApSAcK
+54,C00058457,143-62-4,Digitoxigenin,C23H34O4,374.24570957,Nerium odorum,Nerium,KNApSAcK
+55,C00058635,465-15-6,Oleandrigenin,C25H36O6,432.25118888,Nerium odorum,Nerium,KNApSAcK
+56,C00058760,165171-16-4,trans-Karenin,C39H54O6,618.39203946,Nerium oleander,Nerium,KNApSAcK
+57,C00063636,108905-33-5,Neriumol,C17H32O4,300.23005951,Nerium odorum,Nerium,KNApSAcK
+58,C00063637,109008-12-0,Nerifol,C17H34O4,302.24570957,Nerium odorum,Nerium,KNApSAcK
+59,C00063657,112693-18-2,Neriucoumaric acid,C39H54O6,618.39203946,Nerium oleander,Nerium,KNApSAcK
+60,C00063670,114906-01-3,Oleanderol,C30H48O3,456.3603454,Nerium oleander,Nerium,KNApSAcK
+61,C00063703,120396-45-4,Kanerin,C29H44O4,456.32395989,Nerium oleander,Nerium,KNApSAcK
+62,C00063704,120521-95-1,"12,13-Dihydroursolic acid",C30H50O3,458.37599546,Nerium oleander,Nerium,KNApSAcK
+63,C00063728,123828-62-6,Kanerocin,C30H46O3,454.34469533,Nerium oleander,Nerium,KNApSAcK
+64,C00064069,18810-25-8,Odoroside H,C30H46O8,534.31926845,Nerium oleander,Nerium,KNApSAcK
+65,C00064083,190381-18-1,Nerizoside,C31H46O8,546.31926845,Nerium oleander,Nerium,KNApSAcK
+66,C00064175,221380-14-9,Neridiginoside,C30H46O8,534.31926845,Nerium oleander,Nerium,KNApSAcK
+67,C00064268,3080-20-4,beta-Anhydroepidigitoxigenin,C23H32O3,356.23514489,Nerium oleander,Nerium,KNApSAcK
+68,C00064336,465-13-4,Neritaloside,C32H48O10,592.32474775,Nerium oleander,Nerium,KNApSAcK
+69,C00064575,851392-99-9,"28-Nor-urs-12-ene-3beta,17beta-diol",C29H48O2,428.36543078,Nerium oleander,Nerium,KNApSAcK
+0,C00000956,490-46-0,(-)-Epicatechin,C15H14O6,290.07903818,Celastrus orbiculatus,Celastrus,KNApSAcK
+1,C00001968,52658-32-9,Celapanine,C30H35NO10,569.22609635,Celastrus paniculatus,Celastrus,KNApSAcK
+2,C00001968,52658-32-9,Celapanine,C30H35NO10,569.22609635,Celastrus paniculata,Celastrus,KNApSAcK
+3,C00005150,20196-89-8,Kaempferol 7-O-rhamnoside,C21H20O10,432.10564686,Celastrus orbiculatus,Celastrus,KNApSAcK
+4,C00005184,2392-95-2,Kaempferol 3-glucoside-7-rhamnoside,C27H30O15,594.15847029,Celastrus orbiculatus,Celastrus,KNApSAcK
+5,C00005189,482-38-2,Kaempferitrin,C27H30O14,578.16355567,Celastrus hypoleucus,Celastrus,KNApSAcK
+6,C00005428,18016-58-5,Quercetin 3-O-beta-D-glucopyranosyl-7-O-alpha-L-rhamnopyranoside,C27H30O16,610.15338491,Celastrus orbiculatus,Celastrus,KNApSAcK
+7,C00005431,17306-45-5,Quercetin-3-O-rhamnoside-7-O-glucoside,C27H30O16,610.15338491,Celastrus hypoglaucus,Celastrus,KNApSAcK
+8,C00005432,28638-13-3,"Quercetin 3,7-di-O-alpha-L-rhamnopyranoside",C27H30O15,594.15847029,Celastrus orbiculatus,Celastrus,KNApSAcK
+9,C00013131,116159-73-0,Celangulin,C32H40O14,648.24180599,Celastrus angulatus,Celastrus,KNApSAcK
+10,C00013132,11950-73-3,8alpha-Benzoyloxyacetylpringleine,C42H44O14,772.27310612,Celastrus pringlei,Celastrus,KNApSAcK
+11,C00013136,111950-80-2,Pringlein,C33H38O11,610.24141206,Celastrus pringlei,Celastrus,KNApSAcK
+12,C00013137,111950-72-2,Acetylpringleine,C35H40O12,652.25197674,Celastrus pringlei,Celastrus,KNApSAcK
+13,C00013144,122475-47-2,Celahin D,C37H42O13,694.26254143,Celastrus hindsii BENTH,Celastrus,KNApSAcK
+14,C00013182,52691-07-3,Celapanigine,C32H37NO9,579.24683179,Celastrus paniculatus,Celastrus,KNApSAcK
+15,C00013183,58074-71-8,Deacetylcelapanigine,C30H35NO8,537.2362671,Celastrus paniculatus,Celastrus,KNApSAcK
+16,C00013186,52691-06-2,(-)-Malkangunin,C24H32O7,432.21480338,Celastrus paniculatus,Celastrus,KNApSAcK
+17,C00013187,59812-47-4,(-)-Isocelorbicol,C15H26O4,270.18310932,Celastrus orbiculatus,Celastrus,KNApSAcK
+18,C00013188,59812-48-5,"[3R-[3alpha,5beta,5aalpha,6alpha(E),7alpha,9alpha,9aalpha]]-5,7-bis(Acetyloxy)octahydro-2,2,5a,9-tetramethyl-2H-3,9a-methano-1-benzoxepin-6-yl ester 3-phenyl-2-propenoic acid",C28H36O7,484.2461035,Celastrus orbiculatus,Celastrus,KNApSAcK
+19,C00013190,59812-41-8,Celorbicol,C15H26O4,270.18310932,Celastrus orbiculatus,Celastrus,KNApSAcK
+20,C00013252,323586-47-6,Epicatechin 5-O-beta-D-glucopyranoside-3-benzoate,C28H28O12,556.15807636,Celastrus orbiculatus,Celastrus,KNApSAcK
+21,C00013255,,Catechin 5-O-beta-D-glucopyranoside-4'-Me,C22H26O11,466.14751167,Celastrus angulatus,Celastrus,KNApSAcK
+22,C00019220,1617-70-5,Lupenone,C30H48O,424.37051615,Celastrus hindsii BENTH,Celastrus,KNApSAcK
+23,C00028014,172889-43-9,Celahinine A,C53H53NO18,991.3262639,Celastrus hindsii,Celastrus,KNApSAcK
+24,C00028045,259822-69-0,Chinese bittersweet alkaloid I,C10H14N2O3,210.10044233,Celastrus angulatus,Celastrus,KNApSAcK
+25,C00028046,259822-70-3,Chinese bittersweet alkaloid II,C18H30N2O3,322.22564284,Celastrus angulatus,Celastrus,KNApSAcK
+26,C00028242,156280-98-7,Emarginatine E,C39H46N2O17,814.27964806,Celastrus hindsii BENTH,Celastrus,KNApSAcK
+27,C00029919,34157-83-0,Celastrol,C29H38O4,450.2770097,Celastrus regelii,Celastrus,KNApSAcK
+28,C00029919,34157-83-0,Celastrol,C29H38O4,450.2770097,celastrus strigillosus,Celastrus,KNApSAcK
+29,C00029919,34157-83-0,Celastrol,C29H38O4,450.2770097,Celastrus scandens,Celastrus,KNApSAcK
+30,C00029919,34157-83-0,Celastrol,C29H38O4,450.2770097,Celastrus orbiculatus,Celastrus,KNApSAcK
+31,C00031793,5085-72-3,Friedelanol,C30H52O,428.40181628,Celastrus hindsii BENTH,Celastrus,KNApSAcK
+32,C00033122,52591-08-9,Loranthol,C30H50O2,442.38108084,Celastrus hindsii BENTH,Celastrus,KNApSAcK
+33,C00035955,81460-02-5,6alpha-Acetoxy-9beta-benzoyloxy-1beta-cinnamoyloxy-8beta-(2-methylbutanoyloxy)-beta-dihydroagarofuran,C38H46O9,646.31418307,Celastrus orbiculatus,Celastrus,KNApSAcK
+34,C00038717,244204-40-8,Celaphanol A,C17H20O4,288.13615913,Celastrus stehanotifolius,Celastrus,KNApSAcK
+35,C00038717,244204-40-8,Celaphanol A,C17H20O4,288.13615913,Celastrus orbiculatus,Celastrus,KNApSAcK
+36,C00038718,244204-42-0,Celaphanol B,C18H22O5,318.14672381,Celastrus stehanotifolius,Celastrus,KNApSAcK
+37,C00039663,244203-72-3,Lup-20(29)en-28-al-3beta-yl caffeate,C39H54O5,602.39712483,Celastrus stehanotifolius,Celastrus,KNApSAcK
+38,C00039852,113332-25-5,Nimbidiol,C17H22O3,274.15689457,Celastrus stehanotifolius,Celastrus,KNApSAcK
+39,C00046246,227450-73-9,Orbiculin A,C33H38O9,578.25158281,Celastrus orbiculatus,Celastrus,KNApSAcK
+40,C00046247,227450-68-2,Orbiculin D,C27H32O9,500.20463262,Celastrus orbiculatus,Celastrus,KNApSAcK
+41,C00046248,227450-69-3,Orbiculin E,C31H36O10,568.23084737,Celastrus orbiculatus,Celastrus,KNApSAcK
+42,C00046249,227450-70-6,Orbiculin F,C34H36O11,620.22576199,Celastrus orbiculatus,Celastrus,KNApSAcK
+43,C00048243,1173048-20-8,"(3'Z,5'Z)-Celaxanthin",C40H54O,550.41746634,Celastrus orbiculatus,Celastrus,KNApSAcK
+44,C00048244,1172110-65-4,"(3'Z,5'Z)-Torulene",C40H54,534.42255172,Celastrus orbiculatus,Celastrus,KNApSAcK
+45,C00051168,135063-89-7,Kupitengester 1,C34H39NO11,637.2523111,Celastrus angulatus,Celastrus,KNApSAcK
+46,C00051169,149183-64-2,Kupitengester 2,C32H37NO9,579.24683179,Celastrus angulatus,Celastrus,KNApSAcK
+47,C00051170,149252-08-4,Kupitengester 3,C30H38O11,574.24141206,Celastrus angulatus,Celastrus,KNApSAcK
+48,C00051171,132185-62-7,Kupitengester 4,C28H36O9,516.23593275,Celastrus angulatus,Celastrus,KNApSAcK
+49,C00051444,42719-36-8,Malkanguniol,C15H26O6,302.17293856,Celastrus paniculatus,Celastrus,KNApSAcK
+50,C00051517,189171-14-0,Maytenfolone A,C30H46O4,470.33960996,Celastrus orbiculatus,Celastrus,KNApSAcK
+0,C00000207,65-85-0,Benzoic acid,C7H6O2,122.03677944,Coffea arabica,Coffea,KNApSAcK
+1,C00000358,111-27-3,Hexan-1-ol,C6H14O,102.10446507,Coffea arabica,Coffea,KNApSAcK
+2,C00000615,501-16-6,Caffeic acid,C9H8O4,180.04225874,Coffea arabica,Coffea,KNApSAcK
+3,C00000823,138-86-3,Limonene,C10H16,136.12520051,Coffea canephora,Coffea,KNApSAcK
+4,C00000823,138-86-3,Limonene,C10H16,136.12520051,Coffea arabica,Coffea,KNApSAcK
+5,C00000853,123-35-3,beta-Myrcene,C10H16,136.12520051,Coffea arabica,Coffea,KNApSAcK
+6,C00000905,13920-14-4,"15,15'-cis-Phytoene",C40H64,544.50080204,Coffea canephora,Coffea,KNApSAcK
+7,C00000908,6699-20-3,Geranylgeranyl diphosphate,C20H36O7P2,450.19362648,Coffea arabica,Coffea,KNApSAcK
+8,C00000908,6699-20-3,Geranylgeranyl diphosphate,C20H36O7P2,450.19362648,Coffea canephora,Coffea,KNApSAcK
+9,C00000911,502-65-8,Lycopene,C40H56,536.43820179,Coffea canephora,Coffea,KNApSAcK
+10,C00000911,502-65-8,Lycopene,C40H56,536.43820179,Coffea arabica,Coffea,KNApSAcK
+11,C00000919,7235-40-7,beta-Carotene,C40H56,536.43820179,Coffea arabica,Coffea,KNApSAcK
+12,C00000919,7235-40-7,beta-Carotene,C40H56,536.43820179,Coffea canephora,Coffea,KNApSAcK
+13,C00000920,472-70-8,beta-Cryptoxanthin,C40H56O,552.43311641,Coffea arabica,Coffea,KNApSAcK
+14,C00000920,472-70-8,beta-Cryptoxanthin,C40H56O,552.43311641,Coffea canephora,Coffea,KNApSAcK
+15,C00000926,472-93-5,gamma-Carotene,C40H56,536.43820179,Coffea canephora,Coffea,KNApSAcK
+16,C00000926,472-93-5,gamma-Carotene,C40H56,536.43820179,Coffea arabica,Coffea,KNApSAcK
+17,C00001122,492-62-6,alpha-D-Glucose,C6H12O6,180.06338812,Coffea arabica,Coffea,KNApSAcK
+18,C00001151,57-50-1,D-Sucrose,C12H22O11,342.11621155,Coffea arabica,Coffea,KNApSAcK
+19,C00001162,16908-86-4,Galactinol,C12H22O11,342.11621155,Coffea arabica,Coffea,KNApSAcK
+20,C00001164,87-89-8,Inositol,C6H12O6,180.06338812,Coffea arabica,Coffea,KNApSAcK
+21,C00001176,64-19-7,Acetic acid,C2H4O2,60.02112937,Coffea canephora,Coffea,KNApSAcK
+22,C00001176,64-19-7,Acetic acid,C2H4O2,60.02112937,Coffea arabica,Coffea,KNApSAcK
+23,C00001189,503-74-2,3-Methylbutanoic acid,C5H10O2,102.06807956,Coffea arabica,Coffea,KNApSAcK
+24,C00001208,109-52-4,pentanoic acid,C5H10O2,102.06807956,Coffea arabica,Coffea,KNApSAcK
+25,C00001218,142-62-1,Caproic acid,C6H12O2,116.08372963,Coffea arabica,Coffea,KNApSAcK
+26,C00001254,110-43-0,2-Heptanone,C7H14O,114.10446507,Coffea arabica,Coffea,KNApSAcK
+27,C00001265,629-62-9,n-Pentadecane,C15H32,212.25040102,Coffea canephora,Coffea,KNApSAcK
+28,C00001265,629-62-9,n-Pentadecane,C15H32,212.25040102,Coffea arabica,Coffea,KNApSAcK
+29,C00001308,141-78-6,Ethyl acetate,C4H8O2,88.0524295,Coffea arabica,Coffea,KNApSAcK
+30,C00001318,104-61-0,gamma-Nonalactone,C9H16O2,156.11502975,Coffea arabica,Coffea,KNApSAcK
+31,C00001418,120-72-9,Indole,C8H7N,117.05784923,Coffea arabica,Coffea,KNApSAcK
+32,C00001418,120-72-9,Indole,C8H7N,117.05784923,Coffea canephora,Coffea,KNApSAcK
+33,C00001490,73-24-5,Adenine,C5H5N5,135.0544952,Coffea racemosa,Coffea,KNApSAcK
+34,C00001490,73-24-5,Adenine,C5H5N5,135.0544952,Coffea canephora,Coffea,KNApSAcK
+35,C00001490,73-24-5,Adenine,C5H5N5,135.0544952,Coffea dewevrei,Coffea,KNApSAcK
+36,C00001490,73-24-5,Adenine,C5H5N5,135.0544952,Coffea eugeniodes,Coffea,KNApSAcK
+37,C00001490,73-24-5,Adenine,C5H5N5,135.0544952,Coffea kianjavatensis,Coffea,KNApSAcK
+38,C00001490,73-24-5,Adenine,C5H5N5,135.0544952,Coffea liberica,Coffea,KNApSAcK
+39,C00001490,73-24-5,Adenine,C5H5N5,135.0544952,Coffea arabica,Coffea,KNApSAcK
+40,C00001490,73-24-5,Adenine,C5H5N5,135.0544952,Coffea salvatrix,Coffea,KNApSAcK
+41,C00001492,58-08-2,Caffeine,C8H10N4O2,194.08037559,Coffea dewevrei,Coffea,KNApSAcK
+42,C00001492,58-08-2,Caffeine,C8H10N4O2,194.08037559,Coffea salvatrix,Coffea,KNApSAcK
+43,C00001492,58-08-2,Caffeine,C8H10N4O2,194.08037559,Coffea kianjavatensis,Coffea,KNApSAcK
+44,C00001492,58-08-2,Caffeine,C8H10N4O2,194.08037559,Coffea liberica,Coffea,KNApSAcK
+45,C00001492,58-08-2,Caffeine,C8H10N4O2,194.08037559,Coffea racemosa,Coffea,KNApSAcK
+46,C00001492,58-08-2,Caffeine,C8H10N4O2,194.08037559,Coffea eugenioides,Coffea,KNApSAcK
+47,C00001492,58-08-2,Caffeine,C8H10N4O2,194.08037559,Coffea arabica,Coffea,KNApSAcK
+48,C00001492,58-08-2,Caffeine,C8H10N4O2,194.08037559,Coffea canephora,Coffea,KNApSAcK
+49,C00001492,58-08-2,Caffeine,C8H10N4O2,194.08037559,Coffea spp,Coffea,KNApSAcK
+50,C00001492,58-08-2,Caffeine,C8H10N4O2,194.08037559,Coffea eugeniodes,Coffea,KNApSAcK
+51,C00001492,58-08-2,Caffeine,C8H10N4O2,194.08037559,Coffea excelsa,Coffea,KNApSAcK
+52,C00001492,58-08-2,Caffeine,C8H10N4O2,194.08037559,Coffea spp.,Coffea,KNApSAcK
+53,C00001492,58-08-2,Caffeine,C8H10N4O2,194.08037559,"Coffea, Thea",Coffea,KNApSAcK
+54,C00001509,83-67-0,Theobromine,C7H8N4O2,180.06472553,Coffea eugeniodes,Coffea,KNApSAcK
+55,C00001509,83-67-0,Theobromine,C7H8N4O2,180.06472553,Coffea liberica,Coffea,KNApSAcK
+56,C00001509,83-67-0,Theobromine,C7H8N4O2,180.06472553,Coffea racemosa,Coffea,KNApSAcK
+57,C00001509,83-67-0,Theobromine,C7H8N4O2,180.06472553,Coffea salvatrix,Coffea,KNApSAcK
+58,C00001509,83-67-0,Theobromine,C7H8N4O2,180.06472553,Coffea canephora,Coffea,KNApSAcK
+59,C00001509,83-67-0,Theobromine,C7H8N4O2,180.06472553,Coffea kianjavatensis,Coffea,KNApSAcK
+60,C00001509,83-67-0,Theobromine,C7H8N4O2,180.06472553,Coffea dewevrei,Coffea,KNApSAcK
+61,C00001510,58-55-9,Theophylline,C7H8N4O2,180.06472553,Coffea canephora,Coffea,KNApSAcK
+62,C00001510,58-55-9,Theophylline,C7H8N4O2,180.06472553,Coffea eugeniodes,Coffea,KNApSAcK
+63,C00001510,58-55-9,Theophylline,C7H8N4O2,180.06472553,Coffea dewevrei,Coffea,KNApSAcK
+64,C00001510,58-55-9,Theophylline,C7H8N4O2,180.06472553,Coffea arabica,Coffea,KNApSAcK
+65,C00001510,58-55-9,Theophylline,C7H8N4O2,180.06472553,Coffea kianjavatensis,Coffea,KNApSAcK
+66,C00001510,58-55-9,Theophylline,C7H8N4O2,180.06472553,Coffea liberica,Coffea,KNApSAcK
+67,C00001510,58-55-9,Theophylline,C7H8N4O2,180.06472553,Coffea racemosa,Coffea,KNApSAcK
+68,C00001510,58-55-9,Theophylline,C7H8N4O2,180.06472553,Coffea salvatrix,Coffea,KNApSAcK
+69,C00001514,133-89-1,UDP-D-glucose,C15H24N2O17P2,566.05502034,Coffea arabica,Coffea,KNApSAcK
+70,C00001528,479-61-8,Chlorophyll a,C55H72MgN4O5,892.53531331,Coffea canephora,Coffea,KNApSAcK
+71,C00001528,479-61-8,Chlorophyll a,C55H72MgN4O5,892.53531331,Coffea arabica,Coffea,KNApSAcK
+72,C00001555,535-83-1,Trigonelline,C7H7NO2,137.04767848,Coffea spp.,Coffea,KNApSAcK
+73,C00002645,106-44-5,4-Methylphenol,C7H8O,108.05751488,Coffea arabica,Coffea,KNApSAcK
+74,C00002654,90-05-1,Guaiacol,C7H8O2,124.0524295,Coffea arabica,Coffea,KNApSAcK
+75,C00002654,90-05-1,Guaiacol,C7H8O2,124.0524295,Coffea canephora,Coffea,KNApSAcK
+76,C00002663,60-12-8,2-Phenylethanol,C8H10O,122.07316494,Coffea arabica,Coffea,KNApSAcK
+77,C00002663,60-12-8,2-Phenylethanol,C8H10O,122.07316494,Coffea canephora,Coffea,KNApSAcK
+78,C00002664,108-95-2,Phenol,C6H6O,94.04186481,Coffea arabica,Coffea,KNApSAcK
+79,C00002664,108-95-2,Phenol,C6H6O,94.04186481,Coffea canephora,Coffea,KNApSAcK
+80,C00002724,327-97-9,3-O-Caffeoylquinic acid,C16H18O9,354.09508217,Coffea arabica,Coffea,KNApSAcK
+81,C00002751,14534-61-3,"3,4-Dicaffeoylquinic acid",C25H24O12,516.12677623,Coffea robusta,Coffea,KNApSAcK
+82,C00002751,14534-61-3,"3,4-Dicaffeoylquinic acid",C25H24O12,516.12677623,Coffea arabica,Coffea,KNApSAcK
+83,C00003047,78-70-6,(+-)-Linalool,C10H18O,154.1357652,Coffea canephora,Coffea,KNApSAcK
+84,C00003047,78-70-6,(+-)-Linalool,C10H18O,154.1357652,Coffea arabica,Coffea,KNApSAcK
+85,C00003407,469-83-0,Cafestol,C20H28O3,316.20384476,Coffea arabica,Coffea,KNApSAcK
+86,C00003407,469-83-0,Cafestol,C20H28O3,316.20384476,Coffea canephora,Coffea,KNApSAcK
+87,C00003407,469-83-0,Cafestol,C20H28O3,316.20384476,Coffea spp.,Coffea,KNApSAcK
+88,C00003453,55465-97-9,Mascaroside,C26H36O11,524.22576199,Coffea vianneyi,Coffea,KNApSAcK
+89,C00003453,55465-97-9,Mascaroside,C26H36O11,524.22576199,Coffea vanneyi,Coffea,KNApSAcK
+90,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Coffea liberica var.dewevrei,Coffea,KNApSAcK
+91,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Coffea congensis,Coffea,KNApSAcK
+92,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Coffea hetero calyx,Coffea,KNApSAcK
+93,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Coffea humblotiana,Coffea,KNApSAcK
+94,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Coffea eugenioides,Coffea,KNApSAcK
+95,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Coffea charrieriana,Coffea,KNApSAcK
+96,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Coffea canephora,Coffea,KNApSAcK
+97,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Coffea humilis,Coffea,KNApSAcK
+98,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Coffea kapakata,Coffea,KNApSAcK
+99,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Coffea racemosa,Coffea,KNApSAcK
+100,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Coffea pseudozanguebariae,Coffea,KNApSAcK
+101,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Coffea liberica var.liberica,Coffea,KNApSAcK
+102,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Coffea stenophylla,Coffea,KNApSAcK
+103,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Coffea sessiliflora,Coffea,KNApSAcK
+104,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Coffea salvatrix,Coffea,KNApSAcK
+105,C00003730,82290-17-3,Sergeolide,C25H28O11,504.16316174,Picrolemma pseudocoffea,Coffea,KNApSAcK
+106,C00003760,640-03-9,Antheraxanthin,C40H56O3,584.42294565,Coffea canephora,Coffea,KNApSAcK
+107,C00003760,640-03-9,Antheraxanthin,C40H56O3,584.42294565,Coffea arabica,Coffea,KNApSAcK
+108,C00003765,7488-99-5,alpha-Carotene,C40H56,536.43820179,Coffea canephora,Coffea,KNApSAcK
+109,C00003765,7488-99-5,alpha-Carotene,C40H56,536.43820179,Coffea arabica,Coffea,KNApSAcK
+110,C00003766,472-92-4,delta-Carotene,C40H56,536.43820179,Coffea canephora,Coffea,KNApSAcK
+111,C00003770,24480-38-4,alpha-Cryptoxanthin,C40H56O,552.43311641,Coffea canephora,Coffea,KNApSAcK
+112,C00003770,24480-38-4,alpha-Cryptoxanthin,C40H56O,552.43311641,Coffea arabica,Coffea,KNApSAcK
+113,C00003776,127-40-2,Lutein,C40H56O2,568.42803103,Coffea arabica,Coffea,KNApSAcK
+114,C00003776,127-40-2,Lutein,C40H56O2,568.42803103,Coffea canephora,Coffea,KNApSAcK
+115,C00003780,14660-91-4,Neoxanthin,C40H56O4,600.41786028,Coffea arabica,Coffea,KNApSAcK
+116,C00003780,14660-91-4,Neoxanthin,C40H56O4,600.41786028,Coffea canephora,Coffea,KNApSAcK
+117,C00003787,126-29-4,Violaxanthin,C40H56O4,600.41786028,Coffea arabica,Coffea,KNApSAcK
+118,C00003787,126-29-4,Violaxanthin,C40H56O4,600.41786028,Coffea canephora,Coffea,KNApSAcK
+119,C00007222,146-80-5,Xanthosine,C10H12N4O6,284.07568415,Coffea salvatrix,Coffea,KNApSAcK
+120,C00007222,146-80-5,Xanthosine,C10H12N4O6,284.07568415,Coffea arabica,Coffea,KNApSAcK
+121,C00007222,146-80-5,Xanthosine,C10H12N4O6,284.07568415,Coffea canephora,Coffea,KNApSAcK
+122,C00007222,146-80-5,Xanthosine,C10H12N4O6,284.07568415,Coffea dewevrei,Coffea,KNApSAcK
+123,C00007222,146-80-5,Xanthosine,C10H12N4O6,284.07568415,Coffea eugeniodes,Coffea,KNApSAcK
+124,C00007222,146-80-5,Xanthosine,C10H12N4O6,284.07568415,Coffea kianjavatensis,Coffea,KNApSAcK
+125,C00007222,146-80-5,Xanthosine,C10H12N4O6,284.07568415,Coffea liberica,Coffea,KNApSAcK
+126,C00007222,146-80-5,Xanthosine,C10H12N4O6,284.07568415,Coffea racemosa,Coffea,KNApSAcK
+127,C00007224,131-99-7,IMP,C10H13N4O8P,348.04709991,Coffea kianjavatensis,Coffea,KNApSAcK
+128,C00007224,131-99-7,IMP,C10H13N4O8P,348.04709991,Coffea racemosa,Coffea,KNApSAcK
+129,C00007224,131-99-7,IMP,C10H13N4O8P,348.04709991,Coffea salvatrix,Coffea,KNApSAcK
+130,C00007224,131-99-7,IMP,C10H13N4O8P,348.04709991,Coffea arabica,Coffea,KNApSAcK
+131,C00007224,131-99-7,IMP,C10H13N4O8P,348.04709991,Coffea canephora,Coffea,KNApSAcK
+132,C00007224,131-99-7,IMP,C10H13N4O8P,348.04709991,Coffea liberica,Coffea,KNApSAcK
+133,C00007224,131-99-7,IMP,C10H13N4O8P,348.04709991,Coffea dewevrei,Coffea,KNApSAcK
+134,C00007224,131-99-7,IMP,C10H13N4O8P,348.04709991,Coffea eugeniodes,Coffea,KNApSAcK
+135,C00007246,3123-67-9,GDP-Manose,C16H25N5O16P2,605.07715277,Coffea arabica,Coffea,KNApSAcK
+136,C00007305,643-13-0,D-Fructose 6-phosphate,C6H13O9P,260.02971851,Coffea arabica,Coffea,KNApSAcK
+137,C00007322,23290-26-8,delta7-Avenasterol,C29H48O,412.37051615,Coffea sessiliflora,Coffea,KNApSAcK
+138,C00007322,23290-26-8,delta7-Avenasterol,C29H48O,412.37051615,Coffea stenophylla,Coffea,KNApSAcK
+139,C00007322,23290-26-8,delta7-Avenasterol,C29H48O,412.37051615,Coffea liberica var.dewevrei,Coffea,KNApSAcK
+140,C00007322,23290-26-8,delta7-Avenasterol,C29H48O,412.37051615,Coffea liberica var.liberica,Coffea,KNApSAcK
+141,C00007322,23290-26-8,delta7-Avenasterol,C29H48O,412.37051615,Coffea pseudozanguebariae,Coffea,KNApSAcK
+142,C00007322,23290-26-8,delta7-Avenasterol,C29H48O,412.37051615,Coffea racemosa,Coffea,KNApSAcK
+143,C00007322,23290-26-8,delta7-Avenasterol,C29H48O,412.37051615,Coffea salvatrix,Coffea,KNApSAcK
+144,C00007322,23290-26-8,delta7-Avenasterol,C29H48O,412.37051615,Coffea charrieriana,Coffea,KNApSAcK
+145,C00007322,23290-26-8,delta7-Avenasterol,C29H48O,412.37051615,Coffea congensis,Coffea,KNApSAcK
+146,C00007322,23290-26-8,delta7-Avenasterol,C29H48O,412.37051615,Coffea eugenioides,Coffea,KNApSAcK
+147,C00007322,23290-26-8,delta7-Avenasterol,C29H48O,412.37051615,Coffea hetero calyx,Coffea,KNApSAcK
+148,C00007322,23290-26-8,delta7-Avenasterol,C29H48O,412.37051615,Coffea humblotiana,Coffea,KNApSAcK
+149,C00007322,23290-26-8,delta7-Avenasterol,C29H48O,412.37051615,Coffea canephora,Coffea,KNApSAcK
+150,C00007322,23290-26-8,delta7-Avenasterol,C29H48O,412.37051615,Coffea humilis,Coffea,KNApSAcK
+151,C00007322,23290-26-8,delta7-Avenasterol,C29H48O,412.37051615,Coffea kapakata,Coffea,KNApSAcK
+152,C00007326,552-62-5,7-Methylxanthine,C6H6N4O2,166.04907547,Coffea dewevrei,Coffea,KNApSAcK
+153,C00007326,552-62-5,7-Methylxanthine,C6H6N4O2,166.04907547,Coffea eugeniodes,Coffea,KNApSAcK
+154,C00007326,552-62-5,7-Methylxanthine,C6H6N4O2,166.04907547,Coffea racemosa,Coffea,KNApSAcK
+155,C00007326,552-62-5,7-Methylxanthine,C6H6N4O2,166.04907547,Coffea salvatrix,Coffea,KNApSAcK
+156,C00007326,552-62-5,7-Methylxanthine,C6H6N4O2,166.04907547,Coffea canephora,Coffea,KNApSAcK
+157,C00007326,552-62-5,7-Methylxanthine,C6H6N4O2,166.04907547,Coffea arabica,Coffea,KNApSAcK
+158,C00007326,552-62-5,7-Methylxanthine,C6H6N4O2,166.04907547,Coffea kianjavatensis,Coffea,KNApSAcK
+159,C00007326,552-62-5,7-Methylxanthine,C6H6N4O2,166.04907547,Coffea liberica,Coffea,KNApSAcK
+160,C00007376,519-62-0,Chlorophyll b,C55H70MgN4O6,906.51457787,Coffea canephora,Coffea,KNApSAcK
+161,C00007376,519-62-0,Chlorophyll b,C55H70MgN4O6,906.51457787,Coffea arabica,Coffea,KNApSAcK
+162,C00007390,2956-16-3,UDP-Galactose,C15H24N2O17P2,566.05502034,Coffea arabica,Coffea,KNApSAcK
+163,C00007392,75-07-0,Acetaldehyde,C2H4O,44.02621475,Coffea arabica,Coffea,KNApSAcK
+164,C00007396,523-98-8,Xanthosine 5'-monophosphate,C10H13N4O9P,364.04201454,Coffea eugeniodes,Coffea,KNApSAcK
+165,C00007396,523-98-8,Xanthosine 5'-monophosphate,C10H13N4O9P,364.04201454,Coffea dewevrei,Coffea,KNApSAcK
+166,C00007396,523-98-8,Xanthosine 5'-monophosphate,C10H13N4O9P,364.04201454,Coffea canephora,Coffea,KNApSAcK
+167,C00007396,523-98-8,Xanthosine 5'-monophosphate,C10H13N4O9P,364.04201454,Coffea arabica,Coffea,KNApSAcK
+168,C00007396,523-98-8,Xanthosine 5'-monophosphate,C10H13N4O9P,364.04201454,Coffea liberica,Coffea,KNApSAcK
+169,C00007396,523-98-8,Xanthosine 5'-monophosphate,C10H13N4O9P,364.04201454,Coffea kianjavatensis,Coffea,KNApSAcK
+170,C00007396,523-98-8,Xanthosine 5'-monophosphate,C10H13N4O9P,364.04201454,Coffea salvatrix,Coffea,KNApSAcK
+171,C00007396,523-98-8,Xanthosine 5'-monophosphate,C10H13N4O9P,364.04201454,Coffea racemosa,Coffea,KNApSAcK
+172,C00007444,58-61-7,Adenosine,C10H13N5O4,267.09675394,Coffea canephora,Coffea,KNApSAcK
+173,C00007444,58-61-7,Adenosine,C10H13N5O4,267.09675394,Coffea arabica,Coffea,KNApSAcK
+174,C00007452,22372-29-8,Sucrose 6-phosphate,C12H23O14P,422.08254194,Coffea arabica,Coffea,KNApSAcK
+175,C00007572,29885-96-9,7-Methylxanthosine,C11H15N4O6,299.09915924,Coffea liberica,Coffea,KNApSAcK
+176,C00007572,29885-96-9,7-Methylxanthosine,C11H15N4O6,299.09915924,Coffea racemosa,Coffea,KNApSAcK
+177,C00007572,29885-96-9,7-Methylxanthosine,C11H15N4O6,299.09915924,Coffea salvatrix,Coffea,KNApSAcK
+178,C00007572,29885-96-9,7-Methylxanthosine,C11H15N4O6,299.09915924,Coffea arabica,Coffea,KNApSAcK
+179,C00007572,29885-96-9,7-Methylxanthosine,C11H15N4O6,299.09915924,Coffea dewevrei,Coffea,KNApSAcK
+180,C00007572,29885-96-9,7-Methylxanthosine,C11H15N4O6,299.09915924,Coffea canephora,Coffea,KNApSAcK
+181,C00007572,29885-96-9,7-Methylxanthosine,C11H15N4O6,299.09915924,Coffea eugeniodes,Coffea,KNApSAcK
+182,C00007572,29885-96-9,7-Methylxanthosine,C11H15N4O6,299.09915924,Coffea kianjavatensis,Coffea,KNApSAcK
+183,C00019347,61-19-8,AMP,C10H14N5O7P,347.06308433,Coffea salvatrix,Coffea,KNApSAcK
+184,C00019347,61-19-8,AMP,C10H14N5O7P,347.06308433,Coffea racemosa,Coffea,KNApSAcK
+185,C00019347,61-19-8,AMP,C10H14N5O7P,347.06308433,Coffea liberica,Coffea,KNApSAcK
+186,C00019347,61-19-8,AMP,C10H14N5O7P,347.06308433,Coffea kianjavatensis,Coffea,KNApSAcK
+187,C00019347,61-19-8,AMP,C10H14N5O7P,347.06308433,Coffea eugeniodes,Coffea,KNApSAcK
+188,C00019347,61-19-8,AMP,C10H14N5O7P,347.06308433,Coffea dewevrei,Coffea,KNApSAcK
+189,C00019347,61-19-8,AMP,C10H14N5O7P,347.06308433,Coffea canephora,Coffea,KNApSAcK
+190,C00019347,61-19-8,AMP,C10H14N5O7P,347.06308433,Coffea arabica,Coffea,KNApSAcK
+191,C00019558,116-09-6,Acetol,C3H6O2,74.03677944,Coffea arabica,Coffea,KNApSAcK
+192,C00029423,3391-86-4,1-Octen-3-ol,C8H16O,128.12011513,Coffea canephora,Coffea,KNApSAcK
+193,C00029423,3391-86-4,1-Octen-3-ol,C8H16O,128.12011513,Coffea arabica,Coffea,KNApSAcK
+194,C00029449,1072-83-9,2-Acetyl pyrrole,C6H7NO,109.05276385,Coffea arabica,Coffea,KNApSAcK
+195,C00029456,98-00-0,Furfuryl alcohol,C5H6O2,98.03677944,Coffea arabica,Coffea,KNApSAcK
+196,C00029462,79-31-2,2-Methylpropanoic acid,C4H8O2,88.0524295,Coffea arabica,Coffea,KNApSAcK
+197,C00029463,821-55-6,2-Nonanone,C9H18O,142.1357652,Coffea arabica,Coffea,KNApSAcK
+198,C00029540,905-99-7,4-Caffeoylquinic acid,C16H18O9,354.09508217,Coffea sp.,Coffea,KNApSAcK
+199,C00029546,7786-61-0,4-Vinyl guaiacol,C9H10O2,150.06807956,Coffea canephora,Coffea,KNApSAcK
+200,C00029546,7786-61-0,4-Vinyl guaiacol,C9H10O2,150.06807956,Coffea arabica,Coffea,KNApSAcK
+201,C00029674,98-55-5,alpha-Terpineol,C10H18O,154.1357652,Coffea arabica,Coffea,KNApSAcK
+202,C00029811,100-51-6,Benzenemethanol,C7H8O,108.05751488,Coffea arabica,Coffea,KNApSAcK
+203,C00029816,79-77-6,beta-Ionone,C13H20O,192.15141526,Coffea canephora,Coffea,KNApSAcK
+204,C00029816,79-77-6,beta-Ionone,C13H20O,192.15141526,Coffea arabica,Coffea,KNApSAcK
+205,C00030100,112-30-1,1-Decanol,C10H22O,158.16706532,Coffea arabica,Coffea,KNApSAcK
+206,C00030331,98-01-1,Furfural,C5H4O2,96.02112937,Coffea canephora,Coffea,KNApSAcK
+207,C00030331,98-01-1,Furfural,C5H4O2,96.02112937,Coffea arabica,Coffea,KNApSAcK
+208,C00030755,112-39-0,Methyl hexadecanoate,C17H34O2,270.25588033,Coffea arabica,Coffea,KNApSAcK
+209,C00030767,119-36-8,Methyl salicylate,C8H8O3,152.04734412,Coffea arabica,Coffea,KNApSAcK
+210,C00030807,906-33-2,5-Caffeoylquinic acid,C16H18O9,354.09508217,Coffea canephora,Coffea,KNApSAcK
+211,C00030807,906-33-2,5-Caffeoylquinic acid,C16H18O9,354.09508217,Coffea arabica,Coffea,KNApSAcK
+212,C00030828,124-19-6,Nonadienal,C9H18O,142.1357652,Coffea canephora,Coffea,KNApSAcK
+213,C00030829,112-05-0,Nonanoic acid,C9H18O2,158.13067982,Coffea arabica,Coffea,KNApSAcK
+214,C00030880,124-13-0,Octanal,C8H16O,128.12011513,Coffea arabica,Coffea,KNApSAcK
+215,C00032163,83-45-4,"(3beta,5alpha)-Stigmastan-3-ol",C29H52O,416.40181628,Coffea kapakata,Coffea,KNApSAcK
+216,C00032163,83-45-4,"(3beta,5alpha)-Stigmastan-3-ol",C29H52O,416.40181628,Coffea congensis,Coffea,KNApSAcK
+217,C00032163,83-45-4,"(3beta,5alpha)-Stigmastan-3-ol",C29H52O,416.40181628,Coffea canephora,Coffea,KNApSAcK
+218,C00032163,83-45-4,"(3beta,5alpha)-Stigmastan-3-ol",C29H52O,416.40181628,Coffea charrieriana,Coffea,KNApSAcK
+219,C00032163,83-45-4,"(3beta,5alpha)-Stigmastan-3-ol",C29H52O,416.40181628,Coffea stenophylla,Coffea,KNApSAcK
+220,C00032163,83-45-4,"(3beta,5alpha)-Stigmastan-3-ol",C29H52O,416.40181628,Coffea sessiliflora,Coffea,KNApSAcK
+221,C00032163,83-45-4,"(3beta,5alpha)-Stigmastan-3-ol",C29H52O,416.40181628,Coffea salvatrix,Coffea,KNApSAcK
+222,C00032163,83-45-4,"(3beta,5alpha)-Stigmastan-3-ol",C29H52O,416.40181628,Coffea pseudozanguebariae,Coffea,KNApSAcK
+223,C00032163,83-45-4,"(3beta,5alpha)-Stigmastan-3-ol",C29H52O,416.40181628,Coffea humilis,Coffea,KNApSAcK
+224,C00032163,83-45-4,"(3beta,5alpha)-Stigmastan-3-ol",C29H52O,416.40181628,Coffea eugenioides,Coffea,KNApSAcK
+225,C00032163,83-45-4,"(3beta,5alpha)-Stigmastan-3-ol",C29H52O,416.40181628,Coffea hetero calyx,Coffea,KNApSAcK
+226,C00032163,83-45-4,"(3beta,5alpha)-Stigmastan-3-ol",C29H52O,416.40181628,Coffea racemosa,Coffea,KNApSAcK
+227,C00032163,83-45-4,"(3beta,5alpha)-Stigmastan-3-ol",C29H52O,416.40181628,Coffea humblotiana,Coffea,KNApSAcK
+228,C00032163,83-45-4,"(3beta,5alpha)-Stigmastan-3-ol",C29H52O,416.40181628,Coffea liberica var.liberica,Coffea,KNApSAcK
+229,C00032163,83-45-4,"(3beta,5alpha)-Stigmastan-3-ol",C29H52O,416.40181628,Coffea liberica var.dewevrei,Coffea,KNApSAcK
+230,C00033727,2364-23-0,Clerosterol,C29H48O,412.37051615,Coffea sessiliflora,Coffea,KNApSAcK
+231,C00033727,2364-23-0,Clerosterol,C29H48O,412.37051615,Coffea salvatrix,Coffea,KNApSAcK
+232,C00033727,2364-23-0,Clerosterol,C29H48O,412.37051615,Coffea racemosa,Coffea,KNApSAcK
+233,C00033727,2364-23-0,Clerosterol,C29H48O,412.37051615,Coffea pseudozanguebariae,Coffea,KNApSAcK
+234,C00033727,2364-23-0,Clerosterol,C29H48O,412.37051615,Coffea kapakata,Coffea,KNApSAcK
+235,C00033727,2364-23-0,Clerosterol,C29H48O,412.37051615,Coffea humilis,Coffea,KNApSAcK
+236,C00033727,2364-23-0,Clerosterol,C29H48O,412.37051615,Coffea humblotiana,Coffea,KNApSAcK
+237,C00033727,2364-23-0,Clerosterol,C29H48O,412.37051615,Coffea hetero calyx,Coffea,KNApSAcK
+238,C00033727,2364-23-0,Clerosterol,C29H48O,412.37051615,Coffea eugenioides,Coffea,KNApSAcK
+239,C00033727,2364-23-0,Clerosterol,C29H48O,412.37051615,Coffea congensis,Coffea,KNApSAcK
+240,C00033727,2364-23-0,Clerosterol,C29H48O,412.37051615,Coffea liberica var.dewevrei,Coffea,KNApSAcK
+241,C00033727,2364-23-0,Clerosterol,C29H48O,412.37051615,Coffea canephora,Coffea,KNApSAcK
+242,C00033727,2364-23-0,Clerosterol,C29H48O,412.37051615,Coffea charrieriana,Coffea,KNApSAcK
+243,C00033727,2364-23-0,Clerosterol,C29H48O,412.37051615,Coffea liberica var.liberica,Coffea,KNApSAcK
+244,C00033727,2364-23-0,Clerosterol,C29H48O,412.37051615,Coffea stenophylla,Coffea,KNApSAcK
+245,C00033758,6869-99-4,delta7-Stigmastenol,C29H50O,414.38616622,Coffea salvatrix,Coffea,KNApSAcK
+246,C00033758,6869-99-4,delta7-Stigmastenol,C29H50O,414.38616622,Coffea liberica var.liberica,Coffea,KNApSAcK
+247,C00033758,6869-99-4,delta7-Stigmastenol,C29H50O,414.38616622,Coffea racemosa,Coffea,KNApSAcK
+248,C00033758,6869-99-4,delta7-Stigmastenol,C29H50O,414.38616622,Coffea pseudozanguebariae,Coffea,KNApSAcK
+249,C00033758,6869-99-4,delta7-Stigmastenol,C29H50O,414.38616622,Coffea eugenioides,Coffea,KNApSAcK
+250,C00033758,6869-99-4,delta7-Stigmastenol,C29H50O,414.38616622,Coffea humilis,Coffea,KNApSAcK
+251,C00033758,6869-99-4,delta7-Stigmastenol,C29H50O,414.38616622,Coffea stenophylla,Coffea,KNApSAcK
+252,C00033758,6869-99-4,delta7-Stigmastenol,C29H50O,414.38616622,Coffea humblotiana,Coffea,KNApSAcK
+253,C00033758,6869-99-4,delta7-Stigmastenol,C29H50O,414.38616622,Coffea congensis,Coffea,KNApSAcK
+254,C00033758,6869-99-4,delta7-Stigmastenol,C29H50O,414.38616622,Coffea liberica var.dewevrei,Coffea,KNApSAcK
+255,C00033758,6869-99-4,delta7-Stigmastenol,C29H50O,414.38616622,Coffea kapakata,Coffea,KNApSAcK
+256,C00033758,6869-99-4,delta7-Stigmastenol,C29H50O,414.38616622,Coffea charrieriana,Coffea,KNApSAcK
+257,C00033758,6869-99-4,delta7-Stigmastenol,C29H50O,414.38616622,Coffea canephora,Coffea,KNApSAcK
+258,C00033758,6869-99-4,delta7-Stigmastenol,C29H50O,414.38616622,Coffea hetero calyx,Coffea,KNApSAcK
+259,C00033758,6869-99-4,delta7-Stigmastenol,C29H50O,414.38616622,Coffea sessiliflora,Coffea,KNApSAcK
+260,C00033848,57-48-7,D-Fructose,C6H12O6,180.06338812,Coffea arabica,Coffea,KNApSAcK
+261,C00034312,2309-49-1,Theacrine,C9H12N4O3,224.09094028,Coffea liberica,Coffea,KNApSAcK
+262,C00034312,2309-49-1,Theacrine,C9H12N4O3,224.09094028,Coffea dewevrei,Coffea,KNApSAcK
+263,C00034452,100-52-7,Benzaldehyde,C7H6O,106.04186481,Coffea arabica,Coffea,KNApSAcK
+264,C00034452,100-52-7,Benzaldehyde,C7H6O,106.04186481,Coffea canephora,Coffea,KNApSAcK
+265,C00035116,123-92-2,3-Methyl butyl acetate,C7H14O2,130.09937969,Coffea arabica,Coffea,KNApSAcK
+266,C00035128,108-39-4,3-Methylphenol,C7H8O,108.05751488,Coffea arabica,Coffea,KNApSAcK
+267,C00035536,23726-93-4,beta-Damascenone,C13H18O,190.1357652,Coffea canephora,Coffea,KNApSAcK
+268,C00035536,23726-93-4,beta-Damascenone,C13H18O,190.1357652,Coffea arabica,Coffea,KNApSAcK
+269,C00035612,123-66-0,Ethyl hexanoate,C8H16O2,144.11502975,Coffea arabica,Coffea,KNApSAcK
+270,C00035613,106-32-1,Ethyl octanoate,C10H20O2,172.14632988,Coffea arabica,Coffea,KNApSAcK
+271,C00035701,142-92-7,1-Hexyl acetate,C8H16O2,144.11502975,Coffea arabica,Coffea,KNApSAcK
+272,C00035729,109-60-4,Propyl acetate,C5H10O2,102.06807956,Coffea arabica,Coffea,KNApSAcK
+273,C00035784,71-41-0,1-Pentanol,C5H12O,88.08881501,Coffea arabica,Coffea,KNApSAcK
+274,C00035792,589-35-5,3-Methyl-1-pentanol,C6H14O,102.10446507,Coffea arabica,Coffea,KNApSAcK
+275,C00035814,71-36-3,1-Butanol,C4H10O,74.07316494,Coffea arabica,Coffea,KNApSAcK
+276,C00035879,629-59-4,n-Tetradecane,C14H30,198.23475096,Coffea canephora,Coffea,KNApSAcK
+277,C00035879,629-59-4,n-Tetradecane,C14H30,198.23475096,Coffea arabica,Coffea,KNApSAcK
+278,C00037855,100-42-5,Styrene,C8H8,104.06260026,Coffea arabica,Coffea,KNApSAcK
+279,C00039930,611-59-6,Paraxanthine,C7H8N4O2,180.06472553,Coffea racemosa,Coffea,KNApSAcK
+280,C00039930,611-59-6,Paraxanthine,C7H8N4O2,180.06472553,Coffea eugeniodes,Coffea,KNApSAcK
+281,C00039930,611-59-6,Paraxanthine,C7H8N4O2,180.06472553,Coffea dewevrei,Coffea,KNApSAcK
+282,C00039930,611-59-6,Paraxanthine,C7H8N4O2,180.06472553,Coffea canephora,Coffea,KNApSAcK
+283,C00039930,611-59-6,Paraxanthine,C7H8N4O2,180.06472553,Coffea liberica,Coffea,KNApSAcK
+284,C00039930,611-59-6,Paraxanthine,C7H8N4O2,180.06472553,Coffea arabica,Coffea,KNApSAcK
+285,C00039930,611-59-6,Paraxanthine,C7H8N4O2,180.06472553,Coffea salvatrix,Coffea,KNApSAcK
+286,C00039930,611-59-6,Paraxanthine,C7H8N4O2,180.06472553,Coffea kianjavatensis,Coffea,KNApSAcK
+287,C00043196,1076-22-8,3-Methylxanthine,C6H6N4O2,166.04907547,Coffea canephora,Coffea,KNApSAcK
+288,C00043196,1076-22-8,3-Methylxanthine,C6H6N4O2,166.04907547,Coffea arabica,Coffea,KNApSAcK
+289,C00043196,1076-22-8,3-Methylxanthine,C6H6N4O2,166.04907547,Coffea kianjavatensis,Coffea,KNApSAcK
+290,C00043196,1076-22-8,3-Methylxanthine,C6H6N4O2,166.04907547,Coffea dewevrei,Coffea,KNApSAcK
+291,C00043196,1076-22-8,3-Methylxanthine,C6H6N4O2,166.04907547,Coffea eugeniodes,Coffea,KNApSAcK
+292,C00043196,1076-22-8,3-Methylxanthine,C6H6N4O2,166.04907547,Coffea salvatrix,Coffea,KNApSAcK
+293,C00043196,1076-22-8,3-Methylxanthine,C6H6N4O2,166.04907547,Coffea racemosa,Coffea,KNApSAcK
+294,C00043196,1076-22-8,3-Methylxanthine,C6H6N4O2,166.04907547,Coffea liberica,Coffea,KNApSAcK
+295,C00048479,79-20-9,Methyl acetate,C3H6O2,74.03677944,Coffea canephora,Coffea,KNApSAcK
+296,C00048949,590-86-3,3-Methyl-butanal,C5H10O,86.07316494,Coffea arabica,Coffea,KNApSAcK
+297,C00050411,513-85-9,"2,3-Butanediol",C4H10O2,90.06807956,Coffea arabica,Coffea,KNApSAcK
+298,C00050414,543-49-7,2-Heptanol,C7H16O,116.12011513,Coffea arabica,Coffea,KNApSAcK
+299,C00050420,28664-35-9,"4,5-Dimethyl-3-hydroxy-2(5H)-furanone",C6H8O3,128.04734412,Coffea canephora,Coffea,KNApSAcK
+300,C00050420,28664-35-9,"4,5-Dimethyl-3-hydroxy-2(5H)-furanone",C6H8O3,128.04734412,Coffea arabica,Coffea,KNApSAcK
+301,C00050421,2628-17-3,4-Vinylphenol,C8H8O,120.05751488,Coffea arabica,Coffea,KNApSAcK
+302,C00050424,513-86-0,3-hydroxy-2-Butanone,C4H8O2,88.0524295,Coffea arabica,Coffea,KNApSAcK
+303,C00050431,123-72-8,Butanal,C4H8O,72.05751488,Coffea arabica,Coffea,KNApSAcK
+304,C00050437,431-03-8,"2,3-Butanedione",C4H6O2,86.03677944,Coffea canephora,Coffea,KNApSAcK
+305,C00050437,431-03-8,"2,3-Butanedione",C4H6O2,86.03677944,Coffea arabica,Coffea,KNApSAcK
+306,C00050446,105-54-4,Ethyl butanoate,C6H12O2,116.08372963,Coffea arabica,Coffea,KNApSAcK
+307,C00050455,628-97-7,Ethyl palmitate,C18H36O2,284.27153039,Coffea arabica,Coffea,KNApSAcK
+308,C00050468,123-51-3,Isoamyl alcohol,C5H12O,88.08881501,Coffea arabica,Coffea,KNApSAcK
+309,C00050470,78-83-1,2-methyl-1-propanol,C4H10O,74.07316494,Coffea arabica,Coffea,KNApSAcK
+310,C00050471,110-19-0,Isobutyl acetate,C6H12O2,116.08372963,Coffea arabica,Coffea,KNApSAcK
+311,C00050488,71-23-8,1-Propanol,C3H8O,60.05751488,Coffea arabica,Coffea,KNApSAcK
+312,C00051532,89-78-1,Menthol,C10H20O,156.15141526,Coffea arabica,Coffea,KNApSAcK
+313,C00051588,108-88-3,Toluene,C7H8,92.06260026,Coffea canephora,Coffea,KNApSAcK
+314,C00051588,108-88-3,Toluene,C7H8,92.06260026,Coffea arabica,Coffea,KNApSAcK
+315,C00051956,51168-26-4,Methylliberine,C9H12N4O3,224.09094028,Coffea liberica,Coffea,KNApSAcK
+316,C00051956,51168-26-4,Methylliberine,C9H12N4O3,224.09094028,Coffea dewevrei,Coffea,KNApSAcK
+317,C00051957,5415-44-1,"1,3,7-Trimethyluric acid",C8H10N4O3,210.07529022,Coffea dewevrei,Coffea,KNApSAcK
+318,C00051957,5415-44-1,"1,3,7-Trimethyluric acid",C8H10N4O3,210.07529022,Coffea liberica,Coffea,KNApSAcK
+319,C00051958,84567-50-0,7-Methyl-XMP,C11H16N5O8P,377.07364902,Coffea arabica,Coffea,KNApSAcK
+320,C00051958,84567-50-0,7-Methyl-XMP,C11H16N5O8P,377.07364902,Coffea dewevrei,Coffea,KNApSAcK
+321,C00051958,84567-50-0,7-Methyl-XMP,C11H16N5O8P,377.07364902,Coffea eugeniodes,Coffea,KNApSAcK
+322,C00051958,84567-50-0,7-Methyl-XMP,C11H16N5O8P,377.07364902,Coffea kianjavatensis,Coffea,KNApSAcK
+323,C00051958,84567-50-0,7-Methyl-XMP,C11H16N5O8P,377.07364902,Coffea canephora,Coffea,KNApSAcK
+324,C00051958,84567-50-0,7-Methyl-XMP,C11H16N5O8P,377.07364902,Coffea liberica,Coffea,KNApSAcK
+325,C00051958,84567-50-0,7-Methyl-XMP,C11H16N5O8P,377.07364902,Coffea salvatrix,Coffea,KNApSAcK
+326,C00051958,84567-50-0,7-Methyl-XMP,C11H16N5O8P,377.07364902,Coffea racemosa,Coffea,KNApSAcK
+327,C00051959,,Liberine,C8H10N4O3,210.07529022,Coffea liberica,Coffea,KNApSAcK
+328,C00051959,,Liberine,C8H10N4O3,210.07529022,Coffea dewevrei,Coffea,KNApSAcK
+329,C00052006,73-31-4,Melatonin,C13H16N2O2,232.12117777,Coffea arabica,Coffea,KNApSAcK
+330,C00052006,73-31-4,Melatonin,C13H16N2O2,232.12117777,Coffea canephora,Coffea,KNApSAcK
+331,C00052216,95-16-9,Benzothiazole,C7H5NS,135.0142699,Coffea arabica,Coffea,KNApSAcK
+332,C00052571,1438-94-4,1-Furfuryl pyrrole,C9H9NO,147.06841392,Coffea arabica,Coffea,KNApSAcK
+333,C00052574,5077-67-8,1-Hydroxy-2-butanone,C4H8O2,88.0524295,Coffea arabica,Coffea,KNApSAcK
+334,C00052577,96-54-8,1-Methylpyrrole,C5H7N,81.05784923,Coffea arabica,Coffea,KNApSAcK
+335,C00052577,96-54-8,1-Methylpyrrole,C5H7N,81.05784923,Coffea canephora,Coffea,KNApSAcK
+336,C00052584,497-23-4,2(5H)-furanone,C4H4O2,84.02112937,Coffea arabica,Coffea,KNApSAcK
+337,C00052588,5910-89-4,"2,3-Dimethylpyrazine",C6H8N2,108.06874827,Coffea canephora,Coffea,KNApSAcK
+338,C00052588,5910-89-4,"2,3-Dimethylpyrazine",C6H8N2,108.06874827,Coffea arabica,Coffea,KNApSAcK
+339,C00052608,123-32-0,"2,5-Dimethylpyrazine",C6H8N2,108.06874827,Coffea arabica,Coffea,KNApSAcK
+340,C00052608,123-32-0,"2,5-Dimethylpyrazine",C6H8N2,108.06874827,Coffea canephora,Coffea,KNApSAcK
+341,C00052612,108-50-9,"2,6-Dimethylpyrazine",C6H8N2,108.06874827,Coffea arabica,Coffea,KNApSAcK
+342,C00052612,108-50-9,"2,6-Dimethylpyrazine",C6H8N2,108.06874827,Coffea canephora,Coffea,KNApSAcK
+343,C00052620,1122-62-9,2-Acetylpyridine,C7H7NO,121.05276385,Coffea arabica,Coffea,KNApSAcK
+344,C00052633,13925-03-6,2-Ethyl-6-methylpyrazine,C7H10N2,122.08439833,Coffea arabica,Coffea,KNApSAcK
+345,C00052633,13925-03-6,2-Ethyl-6-methylpyrazine,C7H10N2,122.08439833,Coffea canephora,Coffea,KNApSAcK
+346,C00052636,1003-29-8,2-Formylpyrrole,C5H5NO,95.03711379,Coffea arabica,Coffea,KNApSAcK
+347,C00052644,24683-00-9,2-Methoxy-3-isobutylpyrazine,C9H14N2O,166.11061308,Coffea arabica,Coffea,KNApSAcK
+348,C00052645,1628-89-3,2-Methoxypyridine,C6H7NO,109.05276385,Coffea arabica,Coffea,KNApSAcK
+349,C00052646,109-08-0,2-Methylpyrazine,C5H6N2,94.05309821,Coffea arabica,Coffea,KNApSAcK
+350,C00052646,109-08-0,2-Methylpyrazine,C5H6N2,94.05309821,Coffea canephora,Coffea,KNApSAcK
+351,C00052647,636-41-9,2-Methylpyrrole,C5H7N,81.05784923,Coffea arabica,Coffea,KNApSAcK
+352,C00052649,565-69-5,2-Methyl-3-pentanone,C6H12O,100.08881501,Coffea arabica,Coffea,KNApSAcK
+353,C00052652,96-17-3,2-Methylbutanal,C5H10O,86.07316494,Coffea arabica,Coffea,KNApSAcK
+354,C00052687,616-43-3,3-Methylpyrrole,C5H7N,81.05784923,Coffea arabica,Coffea,KNApSAcK
+355,C00052712,3658-77-3,"4-Hydroxy-2,5-dimethyl-3(2H)-furanone",C6H8O3,128.04734412,Coffea canephora,Coffea,KNApSAcK
+356,C00052712,3658-77-3,"4-Hydroxy-2,5-dimethyl-3(2H)-furanone",C6H8O3,128.04734412,Coffea arabica,Coffea,KNApSAcK
+357,C00052742,591-11-7,5-methyl-2(5H)-furanone,C5H6O2,98.03677944,Coffea arabica,Coffea,KNApSAcK
+358,C00052743,620-02-0,5-Methylfurfural,C6H6O2,110.03677944,Coffea canephora,Coffea,KNApSAcK
+359,C00052743,620-02-0,5-Methylfurfural,C6H6O2,110.03677944,Coffea arabica,Coffea,KNApSAcK
+360,C00052883,100-41-4,Ethylbenzene,C8H10,106.07825032,Coffea arabica,Coffea,KNApSAcK
+361,C00053130,75-18-3,Dimethyl sulfide,C2H6S,62.01902092,Coffea arabica,Coffea,KNApSAcK
+362,C00053130,75-18-3,Dimethyl sulfide,C2H6S,62.01902092,Coffea canephora,Coffea,KNApSAcK
+363,C00053167,96-48-0,gamma Butyrolactone,C4H6O2,86.03677944,Coffea canephora,Coffea,KNApSAcK
+364,C00053167,96-48-0,gamma Butyrolactone,C4H6O2,86.03677944,Coffea arabica,Coffea,KNApSAcK
+365,C00053169,97-62-1,Ethyl isobutyrate,C6H12O2,116.08372963,Coffea arabica,Coffea,KNApSAcK
+366,C00053185,623-17-6,2-Furan methyl acetate,C7H8O3,140.04734412,Coffea arabica,Coffea,KNApSAcK
+367,C00053185,623-17-6,2-Furan methyl acetate,C7H8O3,140.04734412,Coffea canephora,Coffea,KNApSAcK
+368,C00053196,695-06-7,gamma-Caprolactone,C6H10O2,114.06807956,Coffea arabica,Coffea,KNApSAcK
+369,C00053387,6894-43-5,Kahweol,C20H26O3,314.1881947,Coffea canephora,Coffea,KNApSAcK
+370,C00053387,6894-43-5,Kahweol,C20H26O3,314.1881947,Coffea arabica,Coffea,KNApSAcK
+371,C00053664,109-66-0,Pentane,C5H12,72.09390038,Coffea arabica,Coffea,KNApSAcK
+372,C00053734,110-86-1,Pyridine,C5H5N,79.04219917,Coffea arabica,Coffea,KNApSAcK
+373,C00053734,110-86-1,Pyridine,C5H5N,79.04219917,Coffea canephora,Coffea,KNApSAcK
+374,C00054102,109163-69-1,Caffeoyltryptophan,C20H18N2O5,366.1215717,Coffea canephora,Coffea,KNApSAcK
+375,C00054542,21249-34-3,Nb-Eicosanoylserotonin,C30H50N2O2,470.38722885,Coffea arabica,Coffea,KNApSAcK
+376,C00054543,21249-36-5,Nb-Tetracosanoylserotonin,C34H58N2O2,526.44982911,Coffea arabica,Coffea,KNApSAcK
+377,C00057512,70717-95-2,Mozambioside,C26H36O10,508.23084737,Coffea arabica,Coffea,KNApSAcK
+378,C00057512,70717-95-2,Mozambioside,C26H36O10,508.23084737,Coffea pseudozanguebariae,Coffea,KNApSAcK
+0,C00002151,484-29-7,Dictamine,C12H9NO2,199.06332854,Spiranthera odoratissima,Spiranthera,KNApSAcK
+1,C00002159,524-15-2,gamma-Fagarine,C13H11NO3,229.07389323,Spiranthera odorantissima,Spiranthera,KNApSAcK
+2,C00002198,83-95-4,Skimmianine,C14H13NO4,259.08445791,Spiranthera odoratissima,Spiranthera,KNApSAcK
+0,C00000297,66-97-7,Ficusin,C11H6O3,186.03169406,Feronia limonia,Limonia,KNApSAcK
+1,C00000575,484-20-8,5-Methoxypsoralen,C12H8O4,216.04225874,Feronia limonia,Limonia,KNApSAcK
+2,C00000576,298-81-7,Xanthotoxin,C12H8O4,216.04225874,Feronia limonia,Limonia,KNApSAcK
+3,C00000583,482-27-9,Isopimpinellin,C13H10O5,246.05282343,Feronia limonia,Limonia,KNApSAcK
+4,C00001265,629-62-9,n-Pentadecane,C15H32,212.25040102,Citrus limonia,Limonia,KNApSAcK
+5,C00002151,484-29-7,Dictamine,C12H9NO2,199.06332854,Feronia limonia,Limonia,KNApSAcK
+6,C00002471,305-01-1,Aesculetin,C9H6O4,178.02660868,Citrus limonia,Limonia,KNApSAcK
+7,C00002631,21453-69-0,(+)-Lirioresinol B,C22H26O8,418.16276781,Limonia acidissima,Limonia,KNApSAcK
+8,C00002648,490-79-9,Gentisic acid,C7H6O4,154.02660868,Citrus limonia,Limonia,KNApSAcK
+9,C00002683,5463-22-9,Vanillin,C8H8O3,152.04734412,Citrus limonia,Limonia,KNApSAcK
+10,C00002743,1135-24-6,Ferulic acid,C10H10O4,194.05790881,Citrus limonia,Limonia,KNApSAcK
+11,C00002776,530-59-6,Sinapic acid,C11H12O5,224.06847349,Citrus limonia,Limonia,KNApSAcK
+12,C00003776,127-40-2,Lutein,C40H56O2,568.42803103,Citrus limonia,Limonia,KNApSAcK
+13,C00003787,126-29-4,Violaxanthin,C40H56O4,600.41786028,Citrus limonia,Limonia,KNApSAcK
+14,C00007512,,4-Hydroxyphenylpyruvate,C9H8O4,180.04225874,Citrus limonia,Limonia,KNApSAcK
+15,C00014241,417705-70-5,"(2S)-5,3'-Dihydroxy-4'-methoxy-6'',6''-dimethylpyrano[2'',3'':7,8]flavanone",C21H20O6,368.12598837,Feronia limonia,Limonia,KNApSAcK
+16,C00019834,145613-13-4,Dorstenin,C21H20O6,368.12598837,Feronia limonia,Limonia,KNApSAcK
+17,C00019869,122537-46-6,Fernolin,C22H20O7,396.12090299,Feronia limonia,Limonia,KNApSAcK
+18,C00023769,83-47-6,Clionasterol,C29H50O,414.38616622,Citrus limonia,Limonia,KNApSAcK
+19,C00024235,57959-88-3,Atalaphyllidine,C18H15NO4,309.10010798,Citrus sinensis grafted on Citrus limonia,Limonia,KNApSAcK
+20,C00024247,81525-61-3,Citracridone-I,C20H19NO5,353.12632273,Citrus limonia,Limonia,KNApSAcK
+21,C00024249,86680-32-2,Citrusinine I,C16H15NO5,301.0950226,Citrus limonia,Limonia,KNApSAcK
+22,C00026442,81943-13-7,Integriquinolone,C11H11NO3,205.07389323,Limonia crenulata,Limonia,KNApSAcK
+23,C00026442,81943-13-7,Integriquinolone,C11H11NO3,205.07389323,Limonia acidissima,Limonia,KNApSAcK
+24,C00030108,21422-04-8,Demethylsuberosin,C14H14O3,230.09429431,Feronia limonia,Limonia,KNApSAcK
+25,C00035822,5392-40-5,Citral,C10H16O,152.12011513,Citrus limonia,Limonia,KNApSAcK
+26,C00035823,106-23-0,Citronellal,C10H18O,154.1357652,Citrus limonia,Limonia,KNApSAcK
+27,C00050490,156-38-7,p-Hydroxyphenyl acetic acid,C8H8O3,152.04734412,Citrus limonia,Limonia,KNApSAcK
+28,C00051021,93767-25-0,Acidissimin,C26H28O8,468.17841787,Limonia acidissima,Limonia,KNApSAcK
+29,C00054101,91821-04-4,Nb-Acetyl-Nb-methyltryptamine,C13H16N2O,216.12626315,Limonia acidissima,Limonia,KNApSAcK
+30,C00054385,1203465-68-2,"9'',10''-Didehydroacidissiminin epoxide",C43H63NO5,673.47062413,Limonia acidissima,Limonia,KNApSAcK
+31,C00054386,1203465-67-1,"9'',10''-Didehydrodihydroxyacidissiminin",C43H65NO6,691.48118881,Limonia acidissima,Limonia,KNApSAcK
+32,C00054387,126005-91-2,Acidissiminin,C43H65NO4,659.49135957,Limonia acidissima,Limonia,KNApSAcK
+33,C00054388,139083-09-3,Acidissiminin epoxide,C43H65NO5,675.48627419,Limonia acidissima,Limonia,KNApSAcK
+34,C00054389,126006-00-6,Acidissiminol,C25H31NO3,393.23039386,Limonia acidissima,Limonia,KNApSAcK
+35,C00054390,139165-01-8,Acidissiminol epoxide,C25H31NO4,409.22530849,Limonia acidissima,Limonia,KNApSAcK
+36,C00054391,1203465-66-0,Dihydroxyacidissiminin,C43H67NO6,693.49683888,Limonia acidissima,Limonia,KNApSAcK
+37,C00054392,160387-10-0,Dihydroxyacidissiminol,C25H33NO5,427.23587317,Limonia acidissima,Limonia,KNApSAcK
+38,C00054534,81892-79-7,Dihydrosuberenol,C15H18O4,262.12050906,Limonia acidissima,Limonia,KNApSAcK
+39,C00056408,106449-15-4,"1-(1H-Indol-3-yl)-3-methyl-2,3-butanediol",C13H17NO2,219.12592879,Limonia acidissima,Limonia,KNApSAcK
+40,C00056634,120727-26-6,"10,20-Dihydroxyeicosanoic acid",C20H40O4,344.29265977,Limonia acidissima,Limonia,KNApSAcK
+41,C00056746,1256447-62-7,Limodissimin A,C23H18O6,390.11033831,Limonia acidissima,Limonia,KNApSAcK
+42,C00057990,18529-47-0,(E)-Suberenol,C15H16O4,260.104859,Limonia acidissima,Limonia,KNApSAcK
+0,C00024457,72058-36-7,Lochnericine,C21H24N2O3,352.17869265,Hazunta modesta var.modesta subvar montana,Hazunta,KNApSAcK
+1,C00024488,76177-27-0,"14,15-Dihydroxyvincadifformine",C21H26N2O4,370.18925733,Hazunta modesta var.modesta subvar montana,Hazunta,KNApSAcK
+2,C00024508,67249-35-8,3-Oxotabersonine,C21H22N2O3,350.16304258,Hazunta modesta var.modesta subvar montana,Hazunta,KNApSAcK
+3,C00024582,57932-88-4,Modestanine,C21H24N2O3,352.17869265,Hazunta modesta var.modesta subvar montana,Hazunta,KNApSAcK
+4,C00024619,15266-46-3,Voaphylline,C19H24N2O,296.1888634,Hazunta modesta spp.modesta var.divaricata,Hazunta,KNApSAcK
+5,C00025941,63425-00-3,Methuenine,C19H22N2O,294.17321334,Hazunta modesta var.divaricata,Hazunta,KNApSAcK
+6,C00025941,63425-00-3,Methuenine,C19H22N2O,294.17321334,Hazunta modesta var.brevituba,Hazunta,KNApSAcK
+0,C00024494,87387-67-5,19beta-Hydroxyvenalstonidine,C21H24N2O4,368.17360727,Melodinus insulae-pinorum Boiteau.,Itea,KNApSAcK
+1,C00025867,65617-99-4,Ervitsine,C19H20N2O,292.15756328,Pandaca boiteau,Itea,KNApSAcK
+2,C00025912,6519-27-3,"16R,19E-Isositsirikine",C21H26N2O3,354.19434271,Melodinus insulae-pinorum Boiteau.,Itea,KNApSAcK
+3,C00047000,488-44-8,Allitol,C6H14O6,182.07903818,Itea ilicifolia,Itea,KNApSAcK
+0,C00007993,18777-73-6,Sieboldin,C21H24O11,452.13186161,Balanophora tobiraco,Tobira,KNApSAcK
+1,C00011705,126654-58-8,Pittosporanoside B1,C28H44O7,492.30870376,Pittosporum tobira,Tobira,KNApSAcK
+2,C00011706,126654-59-9,Pittosporanoside B2,C28H44O7,492.30870376,Pittosporum tobira,Tobira,KNApSAcK
+3,C00011707,126654-60-2,Pittosporanoside B3,C28H44O7,492.30870376,Pittosporum tobira,Tobira,KNApSAcK
+4,C00011736,115526-27-7,Pittosporatobiraside A,C26H38O5,430.27192432,Pittosporum tobira,Tobira,KNApSAcK
+5,C00011737,127610-67-7,Pittosporatobiraside B,C26H38O5,430.27192432,Pittosporum tobira,Tobira,KNApSAcK
+6,C00021218,104472-69-7,Pittosporanoside A1,C28H44O7,492.30870376,Pittosporum tobira,Tobira,KNApSAcK
+7,C00021219,104472-70-0,Pittosporanoside A2,C28H44O7,492.30870376,Pittosporum tobira,Tobira,KNApSAcK
+8,C00023171,,"5',6'-Epoxy-3'-hydroxy-3-methoxy-4,6-didehydro-5',6'-dihydro-4,6-cyclo-5,6-seco-beta,beta-caroten-5-one",C41H56O4,612.41786028,Pittosporum tobira,Tobira,KNApSAcK
+9,C00023172,,"5',8'-Epoxy-3'-hydroxy-3-methoxy-4,6-didehydro-5',8'-dihydro-4,6-cyclo-5,6-seco-beta,beta-caroten-5-one",C41H56O4,612.41786028,Pittosporum tobira,Tobira,KNApSAcK
+10,C00040029,174390-05-7,Pittosporumxanthin A3,C69H104O6,1028.78329105,Pittosporum tobira,Tobira,KNApSAcK
+11,C00040030,174390-06-8,Pittosporumxanthin A4,C69H104O6,1028.78329105,Pittosporum tobira,Tobira,KNApSAcK
+12,C00040031,174232-45-2,Pittosporumxanthin B1,C69H104O5,1012.78837643,Pittosporum tobira,Tobira,KNApSAcK
+13,C00040032,174390-03-5,Pittosporumxanthin B2,C69H104O5,1012.78837643,Pittosporum tobira,Tobira,KNApSAcK
+14,C00040033,174232-46-3,Pittosporumxanthin C1,C69H104O6,1028.78329105,Pittosporum tobira,Tobira,KNApSAcK
+15,C00040034,174390-04-6,Pittosporumxanthin C2,C69H104O6,1028.78329105,Pittosporum tobira,Tobira,KNApSAcK
+16,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Pittosporum tobira,Tobira,KNApSAcK
+0,C00001878,475-75-2,Liriodenine,C17H9NO3,275.05824316,Aquilaria agallocha,Aquilaria,KNApSAcK
+1,C00002428,61828-53-3,Flindersiachromone,C17H14O2,250.09937969,Aquilaria spp.,Aquilaria,KNApSAcK
+2,C00002435,92911-82-5,2-(4-Methoxyphenethyl)chromone,C18H16O3,280.10994438,Aquilaria spp.,Aquilaria,KNApSAcK
+3,C00002962,4773-96-0,Aphloiol,C19H18O11,422.08491142,Aquilaria sinensis,Aquilaria,KNApSAcK
+4,C00012754,5956-13-8,Agarol,C15H20O3,248.1412445,Aquilaria agallocha,Aquilaria,KNApSAcK
+5,C00013100,5956-12-7,Dehydrodeoxybaimuxinol,C15H24O,220.18271539,Aquilaria agallocha,Aquilaria,KNApSAcK
+6,C00013104,15052-76-3,4-Hydroxydihydroagarofuran,C15H26O2,238.19328007,Aquilaria agallocha,Aquilaria,KNApSAcK
+7,C00016999,20489-45-6,(+)-Valerianol,C15H26O,222.19836545,Aquilaria agallocha,Aquilaria,KNApSAcK
+8,C00017001,86747-08-2,(-)-Jinkoheremol,C15H26O,222.19836545,Aquilaria sinensis,Aquilaria,KNApSAcK
+9,C00017001,86747-08-2,(-)-Jinkoheremol,C15H26O,222.19836545,Aquilaria sp.,Aquilaria,KNApSAcK
+10,C00017001,86747-08-2,(-)-Jinkoheremol,C15H26O,222.19836545,Aquilaria agallocha,Aquilaria,KNApSAcK
+11,C00021766,86703-03-9,Jinkohol II,C15H26O,222.19836545,Aquilaria sp.,Aquilaria,KNApSAcK
+12,C00021766,86703-03-9,Jinkohol II,C15H26O,222.19836545,Aquilaria agallocha,Aquilaria,KNApSAcK
+13,C00021771,66512-57-0,Allokhusiol,C15H26O,222.19836545,Aquilaria agallocha,Aquilaria,KNApSAcK
+14,C00021771,66512-57-0,Allokhusiol,C15H26O,222.19836545,Aquilaria malacacensis,Aquilaria,KNApSAcK
+15,C00050743,84294-88-2,6-Methoxy-2-[2-(3'-methoxyphenyl) ethyl] chromone,C19H18O4,310.12050906,Aquilaria sinensis,Aquilaria,KNApSAcK
+16,C00050857,104060-61-9,Isoagarotetrol,C17H18O6,318.11033831,Aquilaria agallocha,Aquilaria,KNApSAcK
+17,C00050875,122798-42-9,Isobaimuxinol,C15H26O2,238.19328007,Aquilaria sinensis,Aquilaria,KNApSAcK
+0,C00001160,608-66-2,Dulcitol,C6H14O6,182.07903818,Euonymus atropurpureus,Euonymus,KNApSAcK
+1,C00001189,503-74-2,3-Methylbutanoic acid,C5H10O2,102.06807956,Euonymus japonicus,Euonymus,KNApSAcK
+2,C00001197,328-42-7,Oxalacetic acid,C4H4O5,132.00587324,Euonymus alatus,Euonymus,KNApSAcK
+3,C00001455,71933-54-5,Sarmentosin,C11H17NO7,275.10050191,Euonymus japonicus,Euonymus,KNApSAcK
+4,C00001810,524-20-9,Armepavine,C19H23NO3,313.16779361,Euonymus europaeus L.,Euonymus,KNApSAcK
+5,C00001810,524-20-9,Armepavine,C19H23NO3,313.16779361,Euonymus europaea,Euonymus,KNApSAcK
+6,C00001987,37239-51-3,Wilfordin,C43H49NO19,883.28987839,Euonymus alatus,Euonymus,KNApSAcK
+7,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Euonymus alatus,Euonymus,KNApSAcK
+8,C00003759,50802-21-6,Maytenin,C28H36O3,420.26644502,Euonymus tingens,Euonymus,KNApSAcK
+9,C00005154,61402-81-1,Kaempferol 3-rhamnosyl-(1->4)-xyloside,C26H28O14,564.14790561,Euonymus alatus,Euonymus,KNApSAcK
+10,C00005184,2392-95-2,Kaempferol 3-glucoside-7-rhamnoside,C27H30O15,594.15847029,Euonymus japonicus,Euonymus,KNApSAcK
+11,C00005372,482-36-0,Hyperin,C21H20O12,464.09547611,Euonymus sacrosancta,Euonymus,KNApSAcK
+12,C00005421,35972-56-1,Quercetin 3-xyloside-7-glucoside,C26H28O16,596.13773485,Euonymus maackii,Euonymus,KNApSAcK
+13,C00005421,35972-56-1,Quercetin 3-xyloside-7-glucoside,C26H28O16,596.13773485,Euonymus lanceifolia,Euonymus,KNApSAcK
+14,C00005427,6892-74-6,"Quercetin 3,7-O-beta-diglucopyranoside",C27H30O17,626.14829954,Euonymus maackii,Euonymus,KNApSAcK
+15,C00005431,17306-45-5,Quercetin-3-O-rhamnoside-7-O-glucoside,C27H30O16,610.15338491,Euonymus europaea,Euonymus,KNApSAcK
+16,C00005431,17306-45-5,Quercetin-3-O-rhamnoside-7-O-glucoside,C27H30O16,610.15338491,Euonymus maackii,Euonymus,KNApSAcK
+17,C00006652,27661-36-5,Cyanidin 3-O-beta-D-galactopyranoside,C21H21O11,449.10838652,Euonymus europaea,Euonymus,KNApSAcK
+18,C00009909,113023-68-0,Garhwalin,C19H12O6,336.06338812,Euonymus pendulus,Euonymus,KNApSAcK
+19,C00013106,89945-80-2,Alatusamine,C38H47NO17,789.28439909,Euonymus alatus,Euonymus,KNApSAcK
+20,C00013107,89945-79-9,Alatusinine,C38H47NO19,821.27422833,Euonymus alatus,Euonymus,KNApSAcK
+21,C00013117,41758-54-7,Evonimine,C36H43NO17,761.25309896,Euonymus sieboldiana,Euonymus,KNApSAcK
+22,C00013117,41758-54-7,Evonimine,C36H43NO17,761.25309896,Euonymus europaeus,Euonymus,KNApSAcK
+23,C00013118,41758-69-4,Euonine,C38H47NO18,805.27931371,Euonymus sieboldiana,Euonymus,KNApSAcK
+24,C00013119,41855-33-8,Alatamine,C41H45NO18,839.26366364,Euonymus alatus,Euonymus,KNApSAcK
+25,C00013120,33458-64-9,Evonine,C36H43NO17,761.25309896,Euonymus nanas,Euonymus,KNApSAcK
+26,C00013120,33458-64-9,Evonine,C36H43NO17,761.25309896,Euonymus europaeus,Euonymus,KNApSAcK
+27,C00013120,33458-64-9,Evonine,C36H43NO17,761.25309896,Euonymus europaea,Euonymus,KNApSAcK
+28,C00013120,33458-64-9,Evonine,C36H43NO17,761.25309896,Euonymus alatus,Euonymus,KNApSAcK
+29,C00013120,33458-64-9,Evonine,C36H43NO17,761.25309896,Euonymus sachalinensis,Euonymus,KNApSAcK
+30,C00013120,33458-64-9,Evonine,C36H43NO17,761.25309896,Euonymus sieboldiana,Euonymus,KNApSAcK
+31,C00013121,36017-57-9,O2-Deacetylevonine,C34H41NO16,719.24253427,Euonymus europaeus,Euonymus,KNApSAcK
+32,C00013122,33540-08-8,Evorine,C34H41NO16,719.24253427,Euonymus sieboldiana,Euonymus,KNApSAcK
+33,C00013122,33540-08-8,Evorine,C34H41NO16,719.24253427,Euonymus europaeus,Euonymus,KNApSAcK
+34,C00013122,33540-08-8,Evorine,C34H41NO16,719.24253427,Euonymus alatus,Euonymus,KNApSAcK
+35,C00013123,36072-68-1,"O2,O6-Dideacetylevonine",C32H39NO15,677.23196959,Euonymus europaeus,Euonymus,KNApSAcK
+36,C00013124,35721-62-1,Evozine,C32H39NO15,677.23196959,Euonymus europaeus,Euonymus,KNApSAcK
+37,C00013125,36017-50-2,Evonoline,C36H43NO16,745.25818434,Euonymus europaeus,Euonymus,KNApSAcK
+38,C00013126,33458-82-1,Euonymin,C38H47NO18,805.27931371,Euonymus sieboldiana,Euonymus,KNApSAcK
+39,C00013126,33458-82-1,Euonymin,C38H47NO18,805.27931371,Euonymus alatus,Euonymus,KNApSAcK
+40,C00013127,33510-25-7,Neoeuonymine,C36H45NO17,763.26874902,Euonymus sieboldiana,Euonymus,KNApSAcK
+41,C00013130,122494-23-9,Ejap 6,C34H42O15,690.25237067,Euonymus japonicus,Euonymus,KNApSAcK
+42,C00013138,56691-82-8,Euolalin,C38H46O12,694.29892693,Euonymus alatus,Euonymus,KNApSAcK
+43,C00013140,57461-75-3,Alatol,C15H26O7,318.16785319,Euonymus verrucosus,Euonymus,KNApSAcK
+44,C00013140,57461-75-3,Alatol,C15H26O7,318.16785319,Euonymus alatus,Euonymus,KNApSAcK
+45,C00013141,60389-86-8,Alatolin,C42H44O13,756.27819149,Euonymus europaeus,Euonymus,KNApSAcK
+46,C00013141,60389-86-8,Alatolin,C42H44O13,756.27819149,Euonymus alatus,Euonymus,KNApSAcK
+47,C00013142,60389-91-5,Ejap 5,C32H40O13,632.24689137,Euonymus latifolius,Euonymus,KNApSAcK
+48,C00013142,60389-91-5,Ejap 5,C32H40O13,632.24689137,Euonymus japonicus,Euonymus,KNApSAcK
+49,C00013142,60389-91-5,Ejap 5,C32H40O13,632.24689137,Euonymus europaeus,Euonymus,KNApSAcK
+50,C00013143,122475-54-1,Ejap 12,C30H38O12,590.23632668,Euonymus japonicus,Euonymus,KNApSAcK
+51,C00013144,122475-47-2,Celahin D,C37H42O13,694.26254143,Euonymus latifolius,Euonymus,KNApSAcK
+52,C00013145,122475-53-0,Ejap 4,C32H40O13,632.24689137,Euonymus japonicus,Euonymus,KNApSAcK
+53,C00013159,89945-78-8,Neoalatamine,C39H43NO17,797.25309896,Euonymus alatus,Euonymus,KNApSAcK
+54,C00013166,122475-45-0,"[3R-(3alpha,5beta,5aalpha,6alpha,7alpha,9alpha,9aalpha,10R*)]-5a-[(Acetyloxy)methyl]octahydro-2,2,9-trimethyl-, 6,7,10-triacetate 5-benzoate 2H-3,9a-methano-1-benzoxepin-5,6,7,10-tetrol",C30H38O11,574.24141206,Euonymus europaeus,Euonymus,KNApSAcK
+55,C00013166,122475-45-0,"[3R-(3alpha,5beta,5aalpha,6alpha,7alpha,9alpha,9aalpha,10R*)]-5a-[(Acetyloxy)methyl]octahydro-2,2,9-trimethyl-, 6,7,10-triacetate 5-benzoate 2H-3,9a-methano-1-benzoxepin-5,6,7,10-tetrol",C30H38O11,574.24141206,Euonymus latifolius,Euonymus,KNApSAcK
+56,C00013175,122475-50-7,Ejap 3,C30H38O11,574.24141206,Euonymus japonicus,Euonymus,KNApSAcK
+57,C00013176,122475-51-8,Ejap 14,C29H37NO11,575.23666103,Euonymus japonicus,Euonymus,KNApSAcK
+58,C00013177,122475-52-9,Ejap 10,C28H36O10,532.23084737,Euonymus japonicus,Euonymus,KNApSAcK
+59,C00013184,122475-48-3,Ejap 2,C28H36O9,516.23593275,Euonymus japonicus,Euonymus,KNApSAcK
+60,C00013185,122475-49-4,Ejap 7,C27H35NO9,517.23118172,Euonymus japonicus,Euonymus,KNApSAcK
+61,C00028242,156280-98-7,Emarginatine E,C39H46N2O17,814.27964806,Euonymus laxiflorus,Euonymus,KNApSAcK
+62,C00029821,1058-61-3,Sitostenone,C29H48O,412.37051615,Euonymus alatus,Euonymus,KNApSAcK
+63,C00031394,23670-94-2,"Stigmast-4-en-3,6-dione",C29H46O2,426.34978071,Euonymus alatus,Euonymus,KNApSAcK
+64,C00031793,5085-72-3,Friedelanol,C30H52O,428.40181628,Euonymus japonica,Euonymus,KNApSAcK
+65,C00037127,133740-15-5,Euojaponine C,C46H49NO17,887.30004915,Euonymus verrucosides,Euonymus,KNApSAcK
+66,C00037127,133740-15-5,Euojaponine C,C46H49NO17,887.30004915,Euonymus laxiflorus,Euonymus,KNApSAcK
+67,C00037127,133740-15-5,Euojaponine C,C46H49NO17,887.30004915,Euonymus phellomana,Euonymus,KNApSAcK
+68,C00037128,133740-16-6,Euoverrine A,C48H51NO18,929.31061384,Euonymus verrucosides,Euonymus,KNApSAcK
+69,C00037129,496865-95-3,Euoverrine B,C43H49NO18,867.29496377,Euonymus verrucosides,Euonymus,KNApSAcK
+70,C00037129,496865-95-3,Euoverrine B,C43H49NO18,867.29496377,Euonymus fortunei,Euonymus,KNApSAcK
+71,C00038299,75686-40-7,6alpha-Hydroxystigmast-4-en-3-one,C29H48O2,428.36543078,Euonymus alatus,Euonymus,KNApSAcK
+72,C00040800,52475-25-9,20-Hydroxytingenone,C28H36O4,436.26135964,Euonymus tingens,Euonymus,KNApSAcK
+73,C00044856,524944-98-7,Laxifolone A,C31H50O2,454.38108084,Euonymus laxiflorus,Euonymus,KNApSAcK
+74,C00045036,18671-50-6,Putranjivadione,C30H48O2,440.36543078,Euonymus laxiflorus,Euonymus,KNApSAcK
+75,C00051664,152253-67-3,Mupinensisone,C30H48O2,440.36543078,Euonymus mupinensis,Euonymus,KNApSAcK
+76,C00051743,,Evoninic acid,C11H13NO4,223.08445791,Euonymus sachalinensis,Euonymus,KNApSAcK
+77,C00051743,,Evoninic acid,C11H13NO4,223.08445791,Euonymus nanas,Euonymus,KNApSAcK
+78,C00055848,79435-42-0,Evobioside,C35H54O13,682.35644181,Euonymus europaea,Euonymus,KNApSAcK
+79,C00055849,508-93-0,Evomonoside,C29H44O8,520.30361838,Euonymus europaea,Euonymus,KNApSAcK
+0,C00002674,530-57-4,Syringic acid,C9H10O5,198.05282343,Trichilia emetica,Trichilia,KNApSAcK
+1,C00002913,85081-24-9,Cinchonain Ia,C24H20O9,452.11073224,Trichilia catigua,Trichilia,KNApSAcK
+2,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Trichilia estipulata,Trichilia,KNApSAcK
+3,C00003723,751-03-1,Obacunone,C26H30O7,454.19915331,Trichilia trifolia,Trichilia,KNApSAcK
+4,C00003734,77182-69-5,Trichilin A,C35H46O13,674.29384156,Trichilia roka,Trichilia,KNApSAcK
+5,C00008964,85022-69-1,Cinchonain Ib,C24H20O9,452.11073224,Trichilia catigua,Trichilia,KNApSAcK
+6,C00008965,85081-22-7,Cinchonain Ic,C24H20O9,452.11073224,Trichilia catigua,Trichilia,KNApSAcK
+7,C00012778,70389-88-7,Voleneol,C15H26O2,238.19328007,Lepidotrichilia volensii,Trichilia,KNApSAcK
+8,C00029821,1058-61-3,Sitostenone,C29H48O,412.37051615,Trichilia estipulata,Trichilia,KNApSAcK
+9,C00029846,6985-35-9,Bourjotinolone A,C30H48O4,472.35526002,Trichilia hispida,Trichilia,KNApSAcK
+10,C00030484,78739-39-6,Hispidol B,C30H52O4,476.38656015,Trichilia hispida,Trichilia,KNApSAcK
+11,C00031861,73891-72-2,Hispidone,C30H48O4,472.35526002,Trichilia hispida,Trichilia,KNApSAcK
+12,C00036646,329318-75-4,7-Deoxo-7alpha-hydroxykihadanin A,C26H32O9,488.20463262,Trichilia elegans ssp. elegans,Trichilia,KNApSAcK
+13,C00036647,329318-71-0,7-Deoxo-7beta-acetoxykihadanin A,C28H34O10,530.21519731,Trichilia elegans ssp. elegans,Trichilia,KNApSAcK
+14,C00036648,329318-72-1,7-Deoxo-7beta-acetoxykihadanin B,C28H34O10,530.21519731,Trichilia elegans ssp. elegans,Trichilia,KNApSAcK
+15,C00036649,329318-73-2,7-Deoxo-7beta-hydroxykihadanin A,C26H32O9,488.20463262,Trichilia elegans ssp. elegans,Trichilia,KNApSAcK
+16,C00036650,329318-74-3,7-Deoxo-7beta-hydroxykihadanin B,C26H32O9,488.20463262,Trichilia elegans ssp. elegans,Trichilia,KNApSAcK
+17,C00037684,308111-08-2,Prieurianoside,C40H62O12,734.42412745,Trichilia prieuriana,Trichilia,KNApSAcK
+18,C00037684,308111-08-2,Prieurianoside,C40H62O12,734.42412745,trichilia prieuriana,Trichilia,KNApSAcK
+19,C00038006,253786-75-3,Voamatin A,C36H40O11,648.25706212,Astrotrichilia voamatata,Trichilia,KNApSAcK
+20,C00038007,253786-76-4,Voamatin B,C36H40O11,648.25706212,Astrotrichilia voamatata,Trichilia,KNApSAcK
+21,C00038008,262359-78-4,Voamatin C,C43H62O11,754.42921282,Astrotrichilia voamatata,Trichilia,KNApSAcK
+22,C00038009,262359-79-5,Voamatin D,C36H38O11,646.24141206,Astrotrichilia voamatata,Trichilia,KNApSAcK
+23,C00038713,1001609-86-4,Catiguanin A,C25H22O10,482.12129692,Trichilia catigua,Trichilia,KNApSAcK
+24,C00038714,1001609-88-6,Catiguanin B,C25H22O10,482.12129692,Trichilia catigua,Trichilia,KNApSAcK
+25,C00040845,220098-17-9,7-Deacetyl-21-hydroxyneotrichilenonelide,C26H34O6,442.23553882,Trichilia estipulata,Trichilia,KNApSAcK
+26,C00040846,220098-16-8,7-Deacetyl-23-hydroxyneotrichilenonelide,C26H34O6,442.23553882,Trichilia estipulata,Trichilia,KNApSAcK
+27,C00040910,4547-30-2,Carnaubadiol,C31H54O2,458.41238097,Trichilia estipulata,Trichilia,KNApSAcK
+28,C00045829,13291-81-1,Deacetylhirtin,C30H34O10,554.21519731,Trichilia pallida,Trichilia,KNApSAcK
+29,C00045829,13291-81-1,Deacetylhirtin,C30H34O10,554.21519731,Trichilia hirta,Trichilia,KNApSAcK
+30,C00046009,13291-80-0,Hirtin,C32H36O11,596.22576199,Trichilia hirta,Trichilia,KNApSAcK
+31,C00046009,13291-80-0,Hirtin,C32H36O11,596.22576199,Trichilia pallida,Trichilia,KNApSAcK
+32,C00058340,189997-45-3,7-Hydroxy-1-oxo-14-norcalamenene,C14H18O2,218.13067982,Trichilia catigua,Trichilia,KNApSAcK

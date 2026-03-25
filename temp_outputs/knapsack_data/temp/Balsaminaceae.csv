@@ -1,0 +1,91 @@
+,C_ID,CAS ID,example_compound_name,Molecular formula,Mw,Organism,knapsack_search_term,Source
+0,C00000107,771-51-7,Indole-3-acetonitrile,C10H8N2,156.06874827,Impatiens balsamina,Impatiens,KNApSAcK
+1,C00001463,19041-10-2,Glucobrassicanapin,C12H21NO9S2,387.06577274,Cardamine impatiens,Impatiens,KNApSAcK
+2,C00002384,16727-30-3,Malvin,C29H35O17,655.1874247,Impatiens balsamina,Impatiens,KNApSAcK
+3,C00002387,17334-58-6,Pelargonin,C27H31O15,595.16629532,Impatiens balsamina,Impatiens,KNApSAcK
+4,C00002460,91-64-5,Coumarin,C9H6O2,146.03677944,Impatiens siculifer,Impatiens,KNApSAcK
+5,C00002674,530-57-4,Syringic acid,C9H10O5,198.05282343,Impatiens balsamina,Impatiens,KNApSAcK
+6,C00002837,83-72-7,Lawsone,C10H6O3,174.03169406,Impatiens balsamina,Impatiens,KNApSAcK
+7,C00003552,78693-94-4,Soyasaponin A1,C59H96O29,1268.60372711,Impatiens siculifer,Impatiens,KNApSAcK
+8,C00003553,51330-27-9,Soyasaponin I,C48H78O18,942.51881569,Impatiens siculifer,Impatiens,KNApSAcK
+9,C00003673,481-18-5,Spinasterol,C29H48O,412.37051615,Impatiens siculifer,Impatiens,KNApSAcK
+10,C00003777,28368-08-3,"Lutein 5,6-epoxide",C40H56O3,584.42294565,Impatiens nolitangere,Impatiens,KNApSAcK
+11,C00004565,520-18-3,Kaempferol,C15H10O6,286.04773805,Impatiens capensis,Impatiens,KNApSAcK
+12,C00005213,28140-19-4,Kaempferol 3-(3G-glucosylneohesperidoside),C33H40O20,756.21129372,Impatiens balsamina,Impatiens,KNApSAcK
+13,C00006613,25041-66-1,Aurantinidin,C15H11O6,287.05556308,Impatiens aurantiaca,Impatiens,KNApSAcK
+14,C00006630,18466-51-8,Callistephin,C21H21O10,433.11347189,Impatiens balsamina,Impatiens,KNApSAcK
+15,C00006698,6906-38-3,Myrtillin,C21H21O12.Cl,500.07215385,Impatiens balsamina,Impatiens,KNApSAcK
+16,C00007232,134-04-3,Pelargonidin,C15H11O5.Cl,306.02950117,Impatiens balsamina,Impatiens,KNApSAcK
+17,C00007346,499-26-3,Benzylglucosinolate,C14H19NO9S2,409.05012267,Cardamine impatiens,Impatiens,KNApSAcK
+18,C00007586,19041-09-9,Gluconapin,C11H19NO9S2,373.05012267,Cardamine impatiens,Impatiens,KNApSAcK
+19,C00020647,643-84-5,Malvidin,C17H15O7,331.08177783,Impatiens balsamina,Impatiens,KNApSAcK
+20,C00022912,24730-28-7,Deepoxyneoxanthin,C40H56O3,584.42294565,Impatiens noli-tangere,Impatiens,KNApSAcK
+21,C00030105,117210-14-7,Dehydrosoyasaponin I,C48H76O18,940.50316563,Impatiens siculifer,Impatiens,KNApSAcK
+22,C00040337,55319-36-3,Soyasaponin II,C47H76O17,912.508251,Impatiens siculifer,Impatiens,KNApSAcK
+23,C00048422,1161733-92-1,Impatienoside A,C42H66O14,794.44525682,Impatiens siculifer,Impatiens,KNApSAcK
+24,C00048423,1161733-93-2,Impatienoside B,C47H76O19,944.49808025,Impatiens siculifer,Impatiens,KNApSAcK
+25,C00048424,1161733-94-3,Impatienoside C,C58H94O27,1222.5982478,Impatiens siculifer,Impatiens,KNApSAcK
+26,C00048425,553677-72-8,Impatienoside D,C59H96O28,1252.60881249,Impatiens siculifer,Impatiens,KNApSAcK
+27,C00048426,1161733-95-4,Impatienoside E,C61H98O30,1310.6142918,Impatiens siculifer,Impatiens,KNApSAcK
+28,C00048427,1161733-96-5,Impatienoside F,C58H94O28,1238.59316242,Impatiens siculifer,Impatiens,KNApSAcK
+29,C00048476,1158964-28-3,Malvidin 3-O-(6-O-(3-hydroxy-3-methylglutaryl)-beta-glucopyranoside,C29H33O16,637.17686001,Impatiens textori,Impatiens,KNApSAcK
+30,C00048530,135272-91-2,Sandosaponin A,C48H76O19,956.49808025,Impatiens siculifer,Impatiens,KNApSAcK
+31,C00048543,152505-09-4,Soyasaponin Bg,C47H74O17,910.49260094,Impatiens siculifer,Impatiens,KNApSAcK
+32,C00048544,86764-13-8,Soyasaponin I methyl ester,C49H80O18,956.53446575,Impatiens siculifer,Impatiens,KNApSAcK
+33,C00048545,108906-97-4,Soyasaponin IV,C41H66O13,766.4503422,Impatiens siculifer,Impatiens,KNApSAcK
+34,C00049940,2348-82-5,"2-Methoxy-1,4-naphthoquinone",C11H8O3,188.04734412,Impatiens balsamina,Impatiens,KNApSAcK
+35,C00050009,213271-54-6,Balsaminone A,C21H12O5,344.06847349,Impatiens balsamina,Impatiens,KNApSAcK
+36,C00050010,213271-56-8,Balsaminone B,C27H22O10,506.12129692,Impatiens balsamina,Impatiens,KNApSAcK
+0,C00000107,771-51-7,Indole-3-acetonitrile,C10H8N2,156.06874827,Impatiens balsamina,Balsamina,KNApSAcK
+1,C00002384,16727-30-3,Malvin,C29H35O17,655.1874247,Impatiens balsamina,Balsamina,KNApSAcK
+2,C00002387,17334-58-6,Pelargonin,C27H31O15,595.16629532,Impatiens balsamina,Balsamina,KNApSAcK
+3,C00002674,530-57-4,Syringic acid,C9H10O5,198.05282343,Impatiens balsamina,Balsamina,KNApSAcK
+4,C00002770,20283-92-5,Labiatenic acid,C18H16O8,360.08451749,Momordica balsamina,Balsamina,KNApSAcK
+5,C00002837,83-72-7,Lawsone,C10H6O3,174.03169406,Impatiens balsamina,Balsamina,KNApSAcK
+6,C00005213,28140-19-4,Kaempferol 3-(3G-glucosylneohesperidoside),C33H40O20,756.21129372,Impatiens balsamina,Balsamina,KNApSAcK
+7,C00006630,18466-51-8,Callistephin,C21H21O10,433.11347189,Impatiens balsamina,Balsamina,KNApSAcK
+8,C00006698,6906-38-3,Myrtillin,C21H21O12.Cl,500.07215385,Impatiens balsamina,Balsamina,KNApSAcK
+9,C00007232,134-04-3,Pelargonidin,C15H11O5.Cl,306.02950117,Impatiens balsamina,Balsamina,KNApSAcK
+10,C00020647,643-84-5,Malvidin,C17H15O7,331.08177783,Impatiens balsamina,Balsamina,KNApSAcK
+11,C00030598,922192-67-4,Karavilagenin C,C31H52O3,472.39164553,Momordica balsamina,Balsamina,KNApSAcK
+12,C00047747,1189131-49-4,Balsaminapentaol A,C30H50O5,490.36582471,Momordica balsamina,Balsamina,KNApSAcK
+13,C00047748,1189131-51-8,Balsaminol A,C30H50O4,474.37091008,Momordica balsamina,Balsamina,KNApSAcK
+14,C00047749,1189131-53-0,Balsaminol B,C31H52O4,488.38656015,Momordica balsamina,Balsamina,KNApSAcK
+15,C00047944,877603-72-0,Karavilagenin E,C30H48O3,456.3603454,Momordica balsamina,Balsamina,KNApSAcK
+16,C00049940,2348-82-5,"2-Methoxy-1,4-naphthoquinone",C11H8O3,188.04734412,Impatiens balsamina,Balsamina,KNApSAcK
+17,C00050009,213271-54-6,Balsaminone A,C21H12O5,344.06847349,Impatiens balsamina,Balsamina,KNApSAcK
+18,C00050010,213271-56-8,Balsaminone B,C27H22O10,506.12129692,Impatiens balsamina,Balsamina,KNApSAcK
+19,C00052856,1193748-69-4,Balsaminagenin A,C30H50O4,474.37091008,Momordica balsamina,Balsamina,KNApSAcK
+20,C00052857,1193748-70-7,Balsaminagenin B,C31H52O4,488.38656015,Momordica balsamina,Balsamina,KNApSAcK
+21,C00052858,1039502-24-3,Balsaminagenin C,C30H50O3,458.37599546,Momordica balsamina,Balsamina,KNApSAcK
+22,C00052859,1242601-44-0,Balsaminol C,C30H46O4,470.33960996,Momordica balsamina,Balsamina,KNApSAcK
+23,C00052860,1242601-45-1,Balsaminol D,C27H42O4,430.30830983,Momordica balsamina,Balsamina,KNApSAcK
+24,C00052861,1242601-46-2,Balsaminol E,C30H48O3,456.3603454,Momordica balsamina,Balsamina,KNApSAcK
+25,C00052862,1268063-25-7,Balsaminol F,C30H50O3,458.37599546,Momordica balsamina,Balsamina,KNApSAcK
+26,C00052863,1193748-71-8,Balsaminoside A,C37H62O8,634.44446896,Momordica balsamina,Balsamina,KNApSAcK
+27,C00052864,1352809-95-0,Balsaminoside B,C36H60O8,620.42881889,Momordica balsamina,Balsamina,KNApSAcK
+28,C00052865,132587-66-7,Balsaminoside C,C36H60O8,620.42881889,Momordica balsamina,Balsamina,KNApSAcK
+29,C00052921,1189131-54-1,Cucurbalsaminol A,C30H50O4,474.37091008,Momordica balsamina,Balsamina,KNApSAcK
+30,C00052922,1189131-55-2,Cucurbalsaminol B,C31H52O4,488.38656015,Momordica balsamina,Balsamina,KNApSAcK
+31,C00052942,1269766-70-2,Cucurbalsaminol C,C31H52O4,488.38656015,Momordica balsamina,Balsamina,KNApSAcK
+32,C00053388,1193459-66-3,Karavoate A,C33H54O4,514.40221021,Momordica balsamina,Balsamina,KNApSAcK
+33,C00053389,1193459-68-5,Karavoate B,C35H56O5,556.4127749,Momordica balsamina,Balsamina,KNApSAcK
+34,C00053390,1193459-70-9,Karavoate C,C34H56O4,528.41786028,Momordica balsamina,Balsamina,KNApSAcK
+35,C00053391,1193459-72-1,Karavoate D,C37H60O5,584.44407503,Momordica balsamina,Balsamina,KNApSAcK
+36,C00053392,1193459-74-3,Karavoate E,C35H58O4,542.43351034,Momordica balsamina,Balsamina,KNApSAcK
+37,C00053393,1269766-59-7,Karavoate F,C39H64O5,612.47537515,Momordica balsamina,Balsamina,KNApSAcK
+38,C00053394,2009357-40-6,Karavoate G,C38H56O4,576.41786028,Momordica balsamina,Balsamina,KNApSAcK
+39,C00053395,1269766-60-0,Karavoate H,C45H60O5,680.44407503,Momordica balsamina,Balsamina,KNApSAcK
+40,C00053396,1269766-61-1,Karavoate I,C38H55NO6,621.4029385,Momordica balsamina,Balsamina,KNApSAcK
+41,C00053397,1269766-62-2,Karavoate J,C45H58N2O9,770.41423147,Momordica balsamina,Balsamina,KNApSAcK
+42,C00053398,1269766-63-3,Karavoate K,C38H55ClO4,610.37888795,Momordica balsamina,Balsamina,KNApSAcK
+43,C00053399,1269766-64-4,Karavoate L,C45H58Cl2O5,748.36613038,Momordica balsamina,Balsamina,KNApSAcK
+44,C00053400,1269766-65-5,Karavoate M,C39H58O5,606.42842496,Momordica balsamina,Balsamina,KNApSAcK
+45,C00053401,1269766-66-6,Karavoate N,C47H64O7,740.4652044,Momordica balsamina,Balsamina,KNApSAcK
+46,C00053402,1269766-67-7,Karavoate O,C40H58O4,602.43351034,Momordica balsamina,Balsamina,KNApSAcK
+47,C00053403,1269766-68-8,Karavoate P,C49H64O5,732.47537515,Momordica balsamina,Balsamina,KNApSAcK
+48,C00053404,2009357-41-7,Karavoate Q,C35H56O6,572.40768952,Momordica balsamina,Balsamina,KNApSAcK
+49,C00053405,2009357-42-8,Karavoate R,C39H60O9,672.42373351,Momordica balsamina,Balsamina,KNApSAcK
+50,C00053410,1041631-92-8,Kuguaglycoside A,C37H62O8,634.44446896,Momordica balsamina,Balsamina,KNApSAcK
+51,C00053859,1352755-91-9,Triacetylbalsaminol F,C36H56O6,584.40768952,Momordica balsamina,Balsamina,KNApSAcK
+52,C00053861,1352755-93-1,Tribenzoylbalsaminol F,C51H62O6,770.45463971,Momordica balsamina,Balsamina,KNApSAcK

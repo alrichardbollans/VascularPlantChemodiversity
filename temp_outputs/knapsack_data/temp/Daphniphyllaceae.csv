@@ -1,0 +1,136 @@
+,C_ID,CAS ID,example_compound_name,Molecular formula,Mw,Organism,knapsack_search_term,Source
+0,C00001183,110-17-8,Fumaric acid,C4H4O4,116.01095862,Daphniphyllum calycinum,Daphniphyllum,KNApSAcK
+1,C00002207,486-89-5,(-)-Anagyrine,C15H20N2O,244.15756328,Daphniphyllum oldhami,Daphniphyllum,KNApSAcK
+2,C00002215,58845-83-3,Camoensine,C14H18N2O,230.14191321,Daphniphyllum oldhami,Daphniphyllum,KNApSAcK
+3,C00002227,519-02-8,(+)-Matrine,C15H24N2O,248.1888634,Daphniphyllum oldhami,Daphniphyllum,KNApSAcK
+4,C00003072,14259-45-1,Asperuloside,C18H22O11,414.11621155,Daphniphyllum macropodum,Daphniphyllum,KNApSAcK
+5,C00003072,14259-45-1,Asperuloside,C18H22O11,414.11621155,Daphniphyllum spp.,Daphniphyllum,KNApSAcK
+6,C00006704,53158-73-9,Delphinidin 3-sambubioside,C26H29O16,597.14555988,Daphniphyllum macropodum,Daphniphyllum,KNApSAcK
+7,C00007758,16837-52-8,"Matrine, N-oxide",C15H24N2O2,264.18377802,Daphniphyllum oldhami,Daphniphyllum,KNApSAcK
+8,C00007759,6483-15-4,Sophocarpine,C15H22N2O,246.17321334,Daphniphyllum oldhami,Daphniphyllum,KNApSAcK
+9,C00013254,,Ent-afzelechin-7-O-beta-D-glucopyranoside,C21H24O10,436.13694699,Daphniphyllum oldhamii,Daphniphyllum,KNApSAcK
+10,C00013824,205527-00-0,6-Hydroxykaempferol 3-rutinoside,C27H30O16,610.15338491,Daphniphyllum calycinum,Daphniphyllum,KNApSAcK
+11,C00031721,14260-99-2,Daphylloside,C19H26O12,446.1424263,Daphniphyllum macropodum Miq.,Daphniphyllum,KNApSAcK
+12,C00038684,596799-33-6,Calyciphylline B,C22H31NO3,357.23039386,Daphniphyllum oldhami,Daphniphyllum,KNApSAcK
+13,C00038818,14694-15-6,Codaphniphylline,C30H47NO3,469.35559437,Daphniphyllum subverticillatum,Daphniphyllum,KNApSAcK
+14,C00038818,14694-15-6,Codaphniphylline,C30H47NO3,469.35559437,Daphniphyllum oldhami,Daphniphyllum,KNApSAcK
+15,C00038926,19775-48-5,Daphmacrine,C32H49NO4,511.36615906,Daphniphyllum oldhami,Daphniphyllum,KNApSAcK
+16,C00038927,39729-21-0,Daphmacropodine,C32H51NO4,513.38180912,Daphniphyllum oldhami,Daphniphyllum,KNApSAcK
+17,C00038927,39729-21-0,Daphmacropodine,C32H51NO4,513.38180912,Daphniphyllum macropodum Miq.,Daphniphyllum,KNApSAcK
+18,C00038928,462117-89-1,Daphmanidin A,C25H33NO5,427.23587317,Daphniphyllum oldhami,Daphniphyllum,KNApSAcK
+19,C00038931,57362-24-0,Daphnigraciline,C23H35NO4,389.25660861,Daphniphyllum oldhami,Daphniphyllum,KNApSAcK
+20,C00038931,57362-24-0,Daphnigraciline,C23H35NO4,389.25660861,Daphniphyllum gracile,Daphniphyllum,KNApSAcK
+21,C00038931,57362-24-0,Daphnigraciline,C23H35NO4,389.25660861,Daphniphyllum subverticillatum,Daphniphyllum,KNApSAcK
+22,C00038932,38826-56-1,Daphnilactone B,C22H31NO2,341.23547924,Daphniphyllum oldhami,Daphniphyllum,KNApSAcK
+23,C00038932,38826-56-1,Daphnilactone B,C22H31NO2,341.23547924,Daphniphyllum macropodum Miq.,Daphniphyllum,KNApSAcK
+24,C00038933,42521-95-9,Daphnilongeranin D,C30H47NO4,485.350509,Daphniphyllum subverticillatum,Daphniphyllum,KNApSAcK
+25,C00038933,42521-95-9,Daphnilongeranin D,C30H47NO4,485.350509,Daphniphyllum longeracemosum,Daphniphyllum,KNApSAcK
+26,C00038933,42521-95-9,Daphnilongeranin D,C30H47NO4,485.350509,Daphniphyllum oldhami,Daphniphyllum,KNApSAcK
+27,C00038934,20249-89-2,Daphnimacropine,C31H49NO3,483.37124444,Daphniphyllum oldhami,Daphniphyllum,KNApSAcK
+28,C00038935,906647-30-1,Daphnioldhanin A,C23H35NO4,389.25660861,Daphniphyllum oldhami,Daphniphyllum,KNApSAcK
+29,C00038936,906647-31-2,Daphnioldhanin B,C25H37NO6,447.26208792,Daphniphyllum oldhami,Daphniphyllum,KNApSAcK
+30,C00038937,906647-32-3,Daphnioldhanin C,C22H33NO4,375.24095855,Daphniphyllum oldhami,Daphniphyllum,KNApSAcK
+31,C00038938,952482-10-9,Daphnioldhanin D,C30H47NO3,469.35559437,Daphniphyllum oldhami,Daphniphyllum,KNApSAcK
+32,C00038939,952482-11-0,Daphnioldhanin E,C32H49NO4,511.36615906,Daphniphyllum oldhami,Daphniphyllum,KNApSAcK
+33,C00038940,952482-12-1,Daphnioldhanin F,C30H49NO3,471.37124444,Daphniphyllum oldhami,Daphniphyllum,KNApSAcK
+34,C00038941,952482-13-2,Daphnioldhanin G,C32H51NO4,513.38180912,Daphniphyllum oldhami,Daphniphyllum,KNApSAcK
+35,C00038942,1007392-47-3,Daphnioldhanin I,C32H47NO4,509.350509,Daphniphyllum oldhami,Daphniphyllum,KNApSAcK
+36,C00038943,1007392-49-5,Daphnioldhanin J,C22H31NO3,357.23039386,Daphniphyllum oldhami,Daphniphyllum,KNApSAcK
+37,C00038944,881388-87-0,Daphniyunnine A,C23H31NO3,369.23039386,Daphniphyllum paxianum,Daphniphyllum,KNApSAcK
+38,C00038944,881388-87-0,Daphniyunnine A,C23H31NO3,369.23039386,Daphniphyllum subverticillatum,Daphniphyllum,KNApSAcK
+39,C00038944,881388-87-0,Daphniyunnine A,C23H31NO3,369.23039386,Daphniphyllum yunnanense,Daphniphyllum,KNApSAcK
+40,C00038945,881388-89-2,Daphniyunnine C,C21H27NO2,325.20417911,Daphniphyllum paxianum,Daphniphyllum,KNApSAcK
+41,C00038945,881388-89-2,Daphniyunnine C,C21H27NO2,325.20417911,Daphniphyllum yunnanense,Daphniphyllum,KNApSAcK
+42,C00038946,881388-90-5,Daphniyunnine D,C21H27NO3,341.19909374,Daphniphyllum paxianum,Daphniphyllum,KNApSAcK
+43,C00038946,881388-90-5,Daphniyunnine D,C21H27NO3,341.19909374,Daphniphyllum yunnanense,Daphniphyllum,KNApSAcK
+44,C00038947,881388-91-6,Daphniyunnine E,C21H27NO3,341.19909374,Daphniphyllum paxianum,Daphniphyllum,KNApSAcK
+45,C00038947,881388-91-6,Daphniyunnine E,C21H27NO3,341.19909374,Daphniphyllum yunnanense,Daphniphyllum,KNApSAcK
+46,C00038957,57362-27-3,Dehydrodaphnigraciline,C23H33NO3,371.24604393,Daphniphyllum oldhami,Daphniphyllum,KNApSAcK
+47,C00038986,619326-74-8,Deoxycalyciphylline B,C22H31NO2,341.23547924,Daphniphyllum subverticillatum,Daphniphyllum,KNApSAcK
+48,C00038986,619326-74-8,Deoxycalyciphylline B,C22H31NO2,341.23547924,Daphniphyllum oldhami,Daphniphyllum,KNApSAcK
+49,C00038989,619326-75-9,Deoxyisocalyciphylline B,C22H31NO2,341.23547924,Daphniphyllum subverticillatum,Daphniphyllum,KNApSAcK
+50,C00038989,619326-75-9,Deoxyisocalyciphylline B,C22H31NO2,341.23547924,Daphniphyllum oldhami,Daphniphyllum,KNApSAcK
+51,C00038989,619326-75-9,Deoxyisocalyciphylline B,C22H31NO2,341.23547924,Daphniphyllum longeracemosum,Daphniphyllum,KNApSAcK
+52,C00039435,62074-39-9,Isodaphnilactone B,C22H31NO2,341.23547924,Daphniphyllum oldhami,Daphniphyllum,KNApSAcK
+53,C00039649,857672-34-5,Longistylumphylline A,C23H29NO3,367.2147438,Daphniphyllum paxianum,Daphniphyllum,KNApSAcK
+54,C00039649,857672-34-5,Longistylumphylline A,C23H29NO3,367.2147438,Daphniphyllum subverticillatum,Daphniphyllum,KNApSAcK
+55,C00039649,857672-34-5,Longistylumphylline A,C23H29NO3,367.2147438,Daphniphyllum longeracemosum,Daphniphyllum,KNApSAcK
+56,C00039690,26548-56-1,Macrodaphniphyllidine,C25H35NO4,413.25660861,Daphniphyllum oldhami,Daphniphyllum,KNApSAcK
+57,C00039690,26548-56-1,Macrodaphniphyllidine,C25H35NO4,413.25660861,Daphniphyllum macropodum Miq.,Daphniphyllum,KNApSAcK
+58,C00039756,28519-09-7,Methyl homosecodaphniphyllate,C23H37NO2,359.28242943,Daphniphyllum oldhami,Daphniphyllum,KNApSAcK
+59,C00039757,956222-85-8,Methyl longistylumphylline B,C24H35NO3,385.26169399,Daphniphyllum paxianum,Daphniphyllum,KNApSAcK
+60,C00040058,949172-76-3,Pordamacrine A,C23H31NO5,401.22022311,Daphniphyllum macropodum,Daphniphyllum,KNApSAcK
+61,C00040059,951677-64-8,Pordamacrine B,C23H31NO4,385.22530849,Daphniphyllum macropodum,Daphniphyllum,KNApSAcK
+62,C00040267,28606-61-3,Secodaphniphylline,C30H47NO3,469.35559437,Daphniphyllum subverticillatum,Daphniphyllum,KNApSAcK
+63,C00040267,28606-61-3,Secodaphniphylline,C30H47NO3,469.35559437,Daphniphyllum oldhami,Daphniphyllum,KNApSAcK
+64,C00040720,17232-65-4,Yuzurimine B,C23H33NO3,371.24604393,Daphniphyllum oldhami,Daphniphyllum,KNApSAcK
+65,C00040720,17232-65-4,Yuzurimine B,C23H33NO3,371.24604393,Daphniphyllum macropodum Miq.,Daphniphyllum,KNApSAcK
+66,C00040721,752252-76-9,Yuzurimine E,C25H35NO5,429.25152324,Daphniphyllum calycinum,Daphniphyllum,KNApSAcK
+67,C00040721,752252-76-9,Yuzurimine E,C25H35NO5,429.25152324,Daphniphyllum oldhami,Daphniphyllum,KNApSAcK
+68,C00040722,54370-35-3,Yuzurine,C24H37NO4,403.27225868,Daphniphyllum oldhami,Daphniphyllum,KNApSAcK
+69,C00040722,54370-35-3,Yuzurine,C24H37NO4,403.27225868,Daphniphyllum subverticillatum,Daphniphyllum,KNApSAcK
+70,C00041473,877257-02-8,Daphmanidin E,C25H31NO5,425.22022311,Daphniphyllum teijsmanii,Daphniphyllum,KNApSAcK
+71,C00041474,877257-04-0,Daphmanidin F,C25H31NO6,441.21513773,Daphniphyllum teijsmanii,Daphniphyllum,KNApSAcK
+72,C00041475,874201-05-5,Daphnilongeranin A,C23H29NO4,383.20965842,Daphniphyllum subverticillatum,Daphniphyllum,KNApSAcK
+73,C00041475,874201-05-5,Daphnilongeranin A,C23H29NO4,383.20965842,Daphniphyllum longeracemosum,Daphniphyllum,KNApSAcK
+74,C00041476,874201-06-6,Daphnilongeranin B,C21H27NO2,325.20417911,Daphniphyllum longeracemosum,Daphniphyllum,KNApSAcK
+75,C00041477,750649-07-1,Daphnilongeranin C,C22H29NO3,355.2147438,Daphniphyllum longeracemosum,Daphniphyllum,KNApSAcK
+76,C00041478,15007-67-7,Daphniphylline,C32H49NO5,527.36107368,Daphniphyllum longeracemosum,Daphniphyllum,KNApSAcK
+77,C00041478,15007-67-7,Daphniphylline,C32H49NO5,527.36107368,Daphniphyllum bancanum,Daphniphyllum,KNApSAcK
+78,C00041479,881388-88-1,Longeracinphyllin B,C21H29NO3,343.2147438,Daphniphyllum yunnanense,Daphniphyllum,KNApSAcK
+79,C00041479,881388-88-1,Longeracinphyllin B,C21H29NO3,343.2147438,Daphniphyllum longeracemosum,Daphniphyllum,KNApSAcK
+80,C00041640,17807-72-6,Macrodaphniphyllamine,C23H33NO4,387.24095855,Daphniphyllum yunnanense,Daphniphyllum,KNApSAcK
+81,C00041640,17807-72-6,Macrodaphniphyllamine,C23H33NO4,387.24095855,Daphniphyllum macropodum Miq.,Daphniphyllum,KNApSAcK
+82,C00041972,917955-52-3,Yunnandaphnine A,C23H33NO3,371.24604393,Daphniphyllum yunnanense,Daphniphyllum,KNApSAcK
+83,C00041973,917955-53-4,Yunnandaphnine B,C23H33NO3,371.24604393,Daphniphyllum yunnanense,Daphniphyllum,KNApSAcK
+84,C00041974,917955-54-5,Yunnandaphnine C,C23H33NO3,371.24604393,Daphniphyllum yunnanense,Daphniphyllum,KNApSAcK
+85,C00041975,917955-55-6,Yunnandaphnine D,C23H33NO2,355.2511293,Daphniphyllum yunnanense,Daphniphyllum,KNApSAcK
+86,C00043439,752252-75-8,Daphcalycinosidine C,C38H49NO12,711.32547604,Daphniphyllum calycinum,Daphniphyllum,KNApSAcK
+87,C00044019,752252-77-0,Yuzurimic acid B,C22H31NO3,357.23039386,Daphniphyllum calycinum,Daphniphyllum,KNApSAcK
+88,C00047205,1103670-13-8,Calyciphylline N,C23H31NO3,369.23039386,Daphniphyllum calycinum,Daphniphyllum,KNApSAcK
+89,C00047206,1103670-16-1,Calyciphylline O,C23H37NO3,375.27734405,Daphniphyllum calycinum,Daphniphyllum,KNApSAcK
+90,C00047207,1103670-18-3,Calyciphylline P,C30H49NO4,487.36615906,Daphniphyllum calycinum,Daphniphyllum,KNApSAcK
+91,C00047635,1186496-68-3,11-Hydroxycodaphniphylline,C30H47NO4,485.350509,Daphniphyllum subverticillatum,Daphniphyllum,KNApSAcK
+92,C00047772,1056015-53-2,Caldaphnidine R,C23H35NO3,373.26169399,Daphniphyllum subverticillatum,Daphniphyllum,KNApSAcK
+93,C00047833,73861-50-4,Daphgraciline,C23H33NO4,387.24095855,Daphniphyllum subverticillatum,Daphniphyllum,KNApSAcK
+94,C00047834,1147716-84-4,Daphlongamine E,C21H27NO2,325.20417911,Daphniphyllum subverticillatum,Daphniphyllum,KNApSAcK
+95,C00047835,247078-42-8,Daphnezomine A,C22H35NO3,361.26169399,Daphniphyllum subverticillatum,Daphniphyllum,KNApSAcK
+96,C00047836,474535-59-6,Daphnezomine M,C22H35NO2,345.26677937,Daphniphyllum subverticillatum,Daphniphyllum,KNApSAcK
+97,C00047837,922522-15-4,Daphnilongeridine,C32H51NO4,513.38180912,Daphniphyllum subverticillatum,Daphniphyllum,KNApSAcK
+98,C00047838,1160917-18-9,Dapholdhamine A,C22H33NO3,359.24604393,Daphniphyllum oldhami,Daphniphyllum,KNApSAcK
+99,C00047839,1160917-21-4,Dapholdhamine B,C22H35NO3,361.26169399,Daphniphyllum oldhami,Daphniphyllum,KNApSAcK
+100,C00047840,1160917-24-7,Dapholdhamine C,C23H25NO6,411.16818754,Daphniphyllum oldhami,Daphniphyllum,KNApSAcK
+101,C00047841,1160917-27-0,Dapholdhamine D,C26H29NO6,451.19948767,Daphniphyllum oldhami,Daphniphyllum,KNApSAcK
+102,C00047993,23496-03-9,Methyl homodaphniphyllate,C23H37NO2,359.28242943,Daphniphyllum subverticillatum,Daphniphyllum,KNApSAcK
+103,C00048031,848490-57-3,Oldhamiphylline A,C22H31NO3,357.23039386,Daphniphyllum subverticillatum,Daphniphyllum,KNApSAcK
+104,C00048035,57426-46-7,Oxodaphnigraciline,C23H33NO5,403.23587317,Daphniphyllum gracile,Daphniphyllum,KNApSAcK
+105,C00048035,57426-46-7,Oxodaphnigraciline,C23H33NO5,403.23587317,Daphniphyllum subverticillatum,Daphniphyllum,KNApSAcK
+106,C00048046,1092555-02-6,Paxiphylline D,C23H29NO4,383.20965842,Daphniphyllum subverticillatum,Daphniphyllum,KNApSAcK
+107,C00048047,1092555-03-7,Paxiphylline E,C23H29NO5,399.20457304,Daphniphyllum subverticillatum,Daphniphyllum,KNApSAcK
+108,C00048155,1186496-67-2,Subdaphnidine A,C25H33NO5,427.23587317,Daphniphyllum subverticillatum,Daphniphyllum,KNApSAcK
+0,C00003917,18103-41-8,Corymbosin,C19H18O7,358.10525293,Webera corymbosa,Webera,KNApSAcK
+0,C00000100,87-51-4,Indole-3-acetic acid,C10H9NO2,175.06332854,Ricinus communis,Ricinus,KNApSAcK
+1,C00000101,1912-33-0,Methyl indole-3-acetate,C11H11NO2,189.0789786,Ricinus communis,Ricinus,KNApSAcK
+2,C00000864,24286-51-9,Casbene,C20H32,272.25040102,Ricinus communis,Ricinus,KNApSAcK
+3,C00000880,,ent-CPP,C20H36O7P2,450.19362648,Ricinus communis,Ricinus,KNApSAcK
+4,C00001186,298-12-4,Glyoxalic acid,C2H2O3,74.00039393,Ricinus communis,Ricinus,KNApSAcK
+5,C00001199,111-16-0,Pimelic acid,C7H12O4,160.07355887,Ricinus communis,Ricinus,KNApSAcK
+6,C00001202,111-20-6,Sebacic acid,C10H18O4,202.12050906,Ricinus communis,Ricinus,KNApSAcK
+7,C00001204,505-48-6,Suberic acid,C8H14O4,174.08920894,Ricinus communis,Ricinus,KNApSAcK
+8,C00001214,120-87-6,"9,10-Dihydroxystearic acid",C18H36O4,316.26135964,Ricinus communis,Ricinus,KNApSAcK
+9,C00001237,141-22-0,Ricinoleic acid,C18H34O3,298.25079495,Ricinus opp.,Ricinus,KNApSAcK
+10,C00001237,141-22-0,Ricinoleic acid,C18H34O3,298.25079495,Ricinus communis,Ricinus,KNApSAcK
+11,C00002069,524-40-3,Ricinine,C8H8N2O2,164.05857751,Ricinus communis,Ricinus,KNApSAcK
+12,C00002559,13401-40-6,Phaseolin,C20H18O4,322.12050906,Ricinus communis,Ricinus,KNApSAcK
+13,C00002915,23094-69-1,Corilagin,C27H22O18,634.0806139,Ricinus communis,Ricinus,KNApSAcK
+14,C00003650,469-38-5,Cycloartenol,C30H50O,426.38616622,Ricinus communis,Ricinus,KNApSAcK
+15,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Ricinus communis,Ricinus,KNApSAcK
+16,C00004631,117-39-5,Quercetin,C15H10O7,302.04265268,Ricinus communis,Ricinus,KNApSAcK
+17,C00005134,60933-78-0,Kaempferol 3-xyloside,C20H18O10,418.0899968,Ricinus communis,Ricinus,KNApSAcK
+18,C00005169,17650-84-9,Kaempferol 3-rutinoside,C27H30O15,594.15847029,Ricinus communis,Ricinus,KNApSAcK
+19,C00005370,6743-88-0,Reynoutrin,C20H18O11,434.08491142,Ricinus communis,Ricinus,KNApSAcK
+20,C00005373,482-35-9,Hirsutrin,C21H20O12,464.09547611,Ricinus communis,Ricinus,KNApSAcK
+21,C00007282,7200-26-2,"(S)-2,3-Epoxysqualene",C30H50O,426.38616622,Ricinus communis,Ricinus,KNApSAcK
+22,C00013786,195702-53-5,Kaempferol 3-(6''-acetylglucosyl)-(1->3)-galactoside,C29H32O17,652.1639496,Ricinus communis,Ricinus,KNApSAcK
+23,C00014318,172089-70-2,Naringenin 7-(2-p-Coumaroylglucoside),C30H28O12,580.15807636,Ricinus communis,Ricinus,KNApSAcK
+24,C00057288,2540-54-7,Ricinolein,C57H104O9,932.76803492,Ricinus communis,Ricinus,KNApSAcK

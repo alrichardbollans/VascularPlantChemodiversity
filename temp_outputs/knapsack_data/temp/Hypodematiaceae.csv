@@ -1,0 +1,112 @@
+,C_ID,CAS ID,example_compound_name,Molecular formula,Mw,Organism,knapsack_search_term,Source
+0,C00026543,220191-60-6,1-Acetyl-8-hydroxy-beta-carboline,C13H10N2O2,226.07422758,Hypodematium squamuloso-pilosum,Hypodematium,KNApSAcK
+1,C00050800,134746-11-5,Hypodematine,C17H13NO,247.09971404,Hypodematium sinense,Hypodematium,KNApSAcK
+0,C00001454,99-18-3,Prunasin,C14H17NO6,295.10558728,Cystopteris spp.,Cystopteris,KNApSAcK
+1,C00006063,85290-33-1,Kaempferol 3-(3''-sulfatoglucoside),C21H20O14S,528.05737608,Cystopteris fragilis,Cystopteris,KNApSAcK
+2,C00006064,85290-34-2,Kaempferol 3-beta-(6''-sulfatoglucoside),C21H20O14S,528.05737608,Cystopteris fragilis,Cystopteris,KNApSAcK
+0,C00001458,155-57-7,Vicianin,C19H25NO10,427.14784603,Davallia spp.,Davallia,KNApSAcK
+1,C00002962,4773-96-0,Aphloiol,C19H18O11,422.08491142,Davallia solida,Davallia,KNApSAcK
+2,C00008437,618910-88-6,Eriodictyol 7-glucuronide,C21H20O12,464.09547611,Davallia mariesii,Davallia,KNApSAcK
+3,C00008838,98819-14-8,Epicatechin 3-O-beta-D-allopyranoside,C21H24O11,452.13186161,Davallia maries,Davallia,KNApSAcK
+4,C00008838,98819-14-8,Epicatechin 3-O-beta-D-allopyranoside,C21H24O11,452.13186161,Davallia griffithiana,Davallia,KNApSAcK
+5,C00008838,98819-14-8,Epicatechin 3-O-beta-D-allopyranoside,C21H24O11,452.13186161,Davallia divaricata,Davallia,KNApSAcK
+6,C00008839,98752-08-0,Epicatechin 3-O-(2-trans-cinnamoyl-beta-D-allopyranoside),C30H30O12,582.17372642,Davallia divaricata,Davallia,KNApSAcK
+7,C00008840,98752-09-1,Epicatechin 3-O-(3-trans-cinnamoyl-beta-D-allopyranoside),C30H30O12,582.17372642,Davallia divaricata,Davallia,KNApSAcK
+8,C00008846,88126-53-8,Catechin-5-O-beta-D-glucopyranoside,C21H24O11,452.13186161,Davallia griffithiana,Davallia,KNApSAcK
+9,C00008847,131831-20-4,Epicatechin-5-O-beta-D-glucopyranoside,C21H24O11,452.13186161,Davallia mariesii,Davallia,KNApSAcK
+10,C00008847,131831-20-4,Epicatechin-5-O-beta-D-glucopyranoside,C21H24O11,452.13186161,Davallia griffithiana,Davallia,KNApSAcK
+11,C00008973,131747-15-4,Davallioside A,C25H29NO12,535.1689754,Davallia mariesii,Davallia,KNApSAcK
+12,C00009076,12798-57-1,Procyanidin B5,C30H26O12,578.1424263,Davallia mariesii,Davallia,KNApSAcK
+13,C00009077,29106-49-8,Procyanidin B2,C30H26O12,578.1424263,Davallia mariesii,Davallia,KNApSAcK
+14,C00009090,88903-74-6,Epicatechin-(4beta->8)-epicatechin-(4beta->6)-epicatechin,C45H38O18,866.20581441,Davallia mariesii,Davallia,KNApSAcK
+15,C00009090,88903-74-6,Epicatechin-(4beta->8)-epicatechin-(4beta->6)-epicatechin,C45H38O18,866.20581441,Davallia divaricata,Davallia,KNApSAcK
+16,C00009102,139390-86-6,Davallin,C60H50O23,1138.27428791,Davallia mariesii,Davallia,KNApSAcK
+17,C00009103,126671-46-3,Epicatechin-(4beta->6)-epicatechin-(4beta->8)-epicatechin-(4beta->6)-epicatechin,C60H50O24,1154.26920253,Davallia divaricata,Davallia,KNApSAcK
+18,C00009103,126671-46-3,Epicatechin-(4beta->6)-epicatechin-(4beta->8)-epicatechin-(4beta->6)-epicatechin,C60H50O24,1154.26920253,Davallia mariesii,Davallia,KNApSAcK
+19,C00009103,126671-46-3,Epicatechin-(4beta->6)-epicatechin-(4beta->8)-epicatechin-(4beta->6)-epicatechin,C60H50O24,1154.26920253,Davallia griffithiana,Davallia,KNApSAcK
+20,C00009250,126722-61-0,Epicatechin-(4beta->8)-dryopteric acid,C32H28O14,636.14790561,Davallia griffithiana,Davallia,KNApSAcK
+21,C00009250,126722-61-0,Epicatechin-(4beta->8)-dryopteric acid,C32H28O14,636.14790561,Davallia divaricata,Davallia,KNApSAcK
+22,C00009317,126655-10-5,Dryopteric acid,C17H16O8,348.08451749,Davallia griffithiana,Davallia,KNApSAcK
+23,C00009317,126655-10-5,Dryopteric acid,C17H16O8,348.08451749,Davallia divaricata,Davallia,KNApSAcK
+24,C00024015,131831-19-1,Davallioside B,C25H29NO12,535.1689754,Davallia mariesii MOORE,Davallia,KNApSAcK
+25,C00024028,146713-93-1,Marioside,C22H34O10,458.21519731,Davallia mariesii MOORE,Davallia,KNApSAcK
+26,C00024211,133360-41-5,Davallialactone,C25H20O9,464.11073224,Davallia mariesii MOORE,Davallia,KNApSAcK
+27,C00050938,1812-64-2,Isohop-22-(29)-ene,C30H50,410.39125159,Davallia mariesii,Davallia,KNApSAcK
+0,C00004724,27500-34-1,Corniculatusin,C16H12O8,332.05321736,Humata pectinata,Humata,KNApSAcK
+1,C00005356,51857-20-6,Sexangularetin 3-glucoside,C22H22O12,478.11112617,Humata pectinata,Humata,KNApSAcK
+2,C00005705,85966-34-3,Corniculatusin 3-glucoside,C22H22O13,494.10604079,Humata pectinata,Humata,KNApSAcK
+0,C00002690,584-28-1,Aspidin,C25H32O8,460.209718,Aspidium spp.,Aspidium,KNApSAcK
+1,C00002691,519-40-4,Aspidinol,C12H16O4,224.104859,Aspidium filix-mas,Aspidium,KNApSAcK
+0,C00000094,2365-40-4,N6-(delta2-Isopentenyl)adenine,C10H13N5,203.11709545,Dryopteris crassirhizoma,Dryopteris,KNApSAcK
+1,C00000983,10236-47-2,Naringin,C27H32O14,580.17920573,Dryopteris crassirhizoma,Dryopteris,KNApSAcK
+2,C00000998,529-55-5,Naringenin 7-O-beta-D-glucoside,C21H22O10,434.12129692,Dryopteris sp.,Dryopteris,KNApSAcK
+3,C00001238,57-11-4,Octadecanoic acid,C18H36O2,284.27153039,Dryopteris crassirhizoma,Dryopteris,KNApSAcK
+4,C00002417,89701-85-9,Biflorin,C16H18O9,354.09508217,Dryopteris crassirhizoma,Dryopteris,KNApSAcK
+5,C00002690,584-28-1,Aspidin,C25H32O8,460.209718,Dryopteris austriaca,Dryopteris,KNApSAcK
+6,C00002691,519-40-4,Aspidinol,C12H16O4,224.104859,Dryopteris filix-mas,Dryopteris,KNApSAcK
+7,C00002691,519-40-4,Aspidinol,C12H16O4,224.104859,Dryopteris austriaca,Dryopteris,KNApSAcK
+8,C00002691,519-40-4,Aspidinol,C12H16O4,224.104859,Dryopteris crassirhizoma,Dryopteris,KNApSAcK
+9,C00002696,4482-83-1,Filixic acid BBB,C36H44O12,668.28327687,Dryopteris filix-mas,Dryopteris,KNApSAcK
+10,C00003558,77-52-1,Ursolic acid,C30H48O3,456.3603454,Dryopteris crassirhizoma,Dryopteris,KNApSAcK
+11,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Dryopteris crassirhizoma,Dryopteris,KNApSAcK
+12,C00003746,1615-99-2,Fern 9(11)-ene,C30H50,410.39125159,Dryopteris crassirhizoma,Dryopteris,KNApSAcK
+13,C00005140,482-39-3,Afzelin,C21H20O10,432.10564686,Dryopteris crassirhizoma,Dryopteris,KNApSAcK
+14,C00005146,,Kaempferol 7-xyloside,C20H18O10,418.0899968,Dryopteris spp.,Dryopteris,KNApSAcK
+15,C00005150,20196-89-8,Kaempferol 7-O-rhamnoside,C21H20O10,432.10564686,Dryopteris crassirhizoma,Dryopteris,KNApSAcK
+16,C00005189,482-38-2,Kaempferitrin,C27H30O14,578.16355567,Dryopteris crassirhizoma,Dryopteris,KNApSAcK
+17,C00005226,"301-19-9,81992-85-0",Robinin,C33H40O19,740.2163791,Dryopteris spp.,Dryopteris,KNApSAcK
+18,C00005871,72947-91-2,Kaempferol 7-(6''-p-succinylglucoside),C25H24O14,548.11660548,Dryopteris spp.,Dryopteris,KNApSAcK
+19,C00005896,138079-60-4,Sutchuenoside A,C29H32O15,620.17412036,Dryopteris crassirhizoma,Dryopteris,KNApSAcK
+20,C00006610,1151-98-0,Apigeninidin,C15H11O4,255.06573384,Dryopteris spp.,Dryopteris,KNApSAcK
+21,C00008168,56297-79-1,Desmethoxymatteucinol,C17H16O4,284.104859,Dryopteris crassirhizoma,Dryopteris,KNApSAcK
+22,C00008243,489-38-3,Matteucinol,C18H18O5,314.11542369,Dryopteris crassirhizoma,Dryopteris,KNApSAcK
+23,C00009317,126655-10-5,Dryopteric acid,C17H16O8,348.08451749,Dryopteris crassirhizoma,Dryopteris,KNApSAcK
+24,C00009318,79214-53-2,Dryopterin,C17H14O7,330.0739528,Dryopteris filix-mas,Dryopteris,KNApSAcK
+25,C00011938,34328-48-8,Fraginol,C13H18O4,238.12050906,Dryopteris fragrans,Dryopteris,KNApSAcK
+26,C00013741,205103-97-5,"Kaempferol 3,5-diglucoside",C27H30O16,610.15338491,Dryopteris dickinsii,Dryopteris,KNApSAcK
+27,C00013790,349654-87-1,"Kaempferol 3-(2'',3''-diacetylrhamnoside)-7-rhamnoside",C31H34O16,662.18468504,Dryopteris crassirhizoma,Dryopteris,KNApSAcK
+28,C00019308,474-58-8,3-O-beta-D-Glucopyranosyl sitosterol,C35H60O6,576.43898965,Dryopteris crassirhizoma,Dryopteris,KNApSAcK
+29,C00029295,905975-75-9,(+)-Catechin 6-C-beta-D-glucopyranoside,C21H24O9,420.14203237,Dryopteris crassirhizoma,Dryopteris,KNApSAcK
+30,C00029416,148707-37-3,1-beta-D-Glucopyranosyloxy-3-methoxy-5-hydroxybenzene,C13H18O8,302.10016755,Dryopteris crassirhizoma,Dryopteris,KNApSAcK
+31,C00030020,349654-85-9,Crassirhizomoside A,C31H34O16,662.18468504,Dryopteris crassirhizoma,Dryopteris,KNApSAcK
+32,C00030021,349654-86-0,Crassirhizomoside B,C31H34O16,662.18468504,Dryopteris crassirhizoma,Dryopteris,KNApSAcK
+33,C00030156,1041795-45-2,Dryopteric acid A,C30H48O3,456.3603454,Dryopteris crassirhizoma,Dryopteris,KNApSAcK
+34,C00030157,1040750-41-1,Dryopteric acid B,C30H48O3,456.3603454,Dryopteris crassirhizoma,Dryopteris,KNApSAcK
+35,C00030158,906081-66-1,Dryopteroside,C23H34O14,534.1948558,Dryopteris crassirhizoma,Dryopteris,KNApSAcK
+36,C00030518,152041-16-2,Isobiflorin,C16H18O9,354.09508217,Dryopteris crassirhizoma,Dryopteris,KNApSAcK
+37,C00030750,82051-52-3,Methoxymatteucin,C18H18O9,378.09508217,Dryopteris crassirhizoma,Dryopteris,KNApSAcK
+38,C00050591,114-42-1,Flavaspidic acid BB,C24H30O8,446.19406794,Dryopteris chrysocoma,Dryopteris,KNApSAcK
+39,C00050591,114-42-1,Flavaspidic acid BB,C24H30O8,446.19406794,Dryopteris caucasica,Dryopteris,KNApSAcK
+40,C00050591,114-42-1,Flavaspidic acid BB,C24H30O8,446.19406794,Dryopteris filix-mas.,Dryopteris,KNApSAcK
+41,C00051483,1867-82-9,Margaspidin,C24H30O8,446.19406794,Dryopteris pacifica,Dryopteris,KNApSAcK
+42,C00051483,1867-82-9,Margaspidin,C24H30O8,446.19406794,Dryopteris sacrosancta,Dryopteris,KNApSAcK
+43,C00051483,1867-82-9,Margaspidin,C24H30O8,446.19406794,Dryopteris marginata,Dryopteris,KNApSAcK
+44,C00051483,1867-82-9,Margaspidin,C24H30O8,446.19406794,Dryopteris marginalis,Dryopteris,KNApSAcK
+0,C00002724,327-97-9,3-O-Caffeoylquinic acid,C16H18O9,354.09508217,Polypodium vulgare,Polypodium,KNApSAcK
+1,C00003583,33650-66-7,Osladin,C45H74O17,886.49260094,Polypodium vulgare,Polypodium,KNApSAcK
+2,C00003583,33650-66-7,Osladin,C45H74O17,886.49260094,Polypodium niponicum,Polypodium,KNApSAcK
+3,C00003651,3604-87-3,Ecdysone,C27H44O6,464.31378914,Polypodium virginianum,Polypodium,KNApSAcK
+4,C00003651,3604-87-3,Ecdysone,C27H44O6,464.31378914,Polypodium vulgare,Polypodium,KNApSAcK
+5,C00003654,5289-74-7,20-Hydroxyecdysone,C27H44O7,480.30870376,Polypodium virginianum,Polypodium,KNApSAcK
+6,C00003665,1912-66-9,Pollinastanol,C28H48O,400.37051615,Polypodium niponicum,Polypodium,KNApSAcK
+7,C00003666,18069-14-2,Polypodine B,C27H44O8,496.30361838,Polypodium vulgare,Polypodium,KNApSAcK
+8,C00003748,58193-25-2,Hopane-29-acetate,C32H54O2,470.41238097,Polypodium juglandifolium,Polypodium,KNApSAcK
+9,C00008836,114590-44-2,Afzelechin 7-O-beta-D-apiofuranoside,C20H22O9,406.1263823,Polypodium glycyrrhiza,Polypodium,KNApSAcK
+10,C00008849,81905-13-7,Catechin 7-O-apiofuranoside,C20H22O10,422.12129692,Polypodium vulgare,Polypodium,KNApSAcK
+11,C00008850,29289-02-9,Polydine,C20H22O10,422.12129692,Polypodium vulgare,Polypodium,KNApSAcK
+12,C00050663,1259-94-5,24-Methylenecycloartanyl acetate,C33H54O2,482.41238097,Polypodium niponicum,Polypodium,KNApSAcK
+13,C00051443,6915-15-7,Malic acid,C4H6O5,134.0215233,Polypodium vulgare,Polypodium,KNApSAcK
+14,C00051443,6915-15-7,Malic acid,C4H6O5,134.0215233,Polypodium cuspidatum,Polypodium,KNApSAcK
+15,C00051661,72247-03-1,Multiflor-7-ene,C30H50,410.39125159,Polypodium niponicum,Polypodium,KNApSAcK
+16,C00051662,63543-59-9,Multiflor-8-ene,C30H50,410.39125159,Polypodium niponicum,Polypodium,KNApSAcK
+17,C00051663,88206-86-4,Multiflor-9(11)-ene,C39H50,518.39125159,Polypodium niponicum,Polypodium,KNApSAcK
+18,C00056920,119784-25-7,Polypodoside A,C45H72O17,884.47695088,Polypodium glycyrrhiza,Polypodium,KNApSAcK
+19,C00056923,120015-16-9,Polypodoside B,C39H62O13,738.41904207,Polypodium glycyrrhiza,Polypodium,KNApSAcK
+20,C00056924,120015-17-0,Polypodoside C,C40H64O13,752.43469213,Polypodium glycyrrhiza,Polypodium,KNApSAcK
+21,C00057350,33285-16-4,Polypodosaponin,C39H62O13,738.41904207,Polypodium vulgare,Polypodium,KNApSAcK
+0,C00014321,147659-04-9,Fumotonaringin,C28H34O14,594.1948558,Microlepia marginata,Microlepia,KNApSAcK
+1,C00021448,87625-62-5,Ptaquiloside,C20H30O8,398.19406794,Microlepia strigosa,Microlepia,KNApSAcK
+2,C00021496,98474-70-5,Spelosin,C15H20O4,264.13615913,Microlepia speluncae,Microlepia,KNApSAcK
+3,C00051485,147659-02-7,Marginatoside A,C30H48O10,568.32474775,Microlepia marginata,Microlepia,KNApSAcK
+4,C00051486,147659-03-8,Marginatoside B,C32H50O11,610.33531244,Microlepia marginata,Microlepia,KNApSAcK
+5,C00051599,61667-46-7,Microlepin,C27H46O8,498.31926845,Microlepia marginata,Microlepia,KNApSAcK

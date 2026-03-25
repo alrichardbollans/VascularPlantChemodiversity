@@ -1,0 +1,88 @@
+,C_ID,CAS ID,example_compound_name,Molecular formula,Mw,Organism,knapsack_search_term,Source
+0,C00000674,491-70-3,"5,7,3',4'-Tetrahydroxyflavone",C15H10O6,286.04773805,Smilax riparia,Smilax,KNApSAcK
+1,C00000677,480-18-2,Dihydroquercetin,C15H12O7,304.05830274,Smilax glabra,Smilax,KNApSAcK
+2,C00000967,19253-17-9,Glycyphyllin,C21H24O9,420.14203237,Smilax glycyphylla,Smilax,KNApSAcK
+3,C00000967,19253-17-9,Glycyphyllin,C21H24O9,420.14203237,Smilax spp.,Smilax,KNApSAcK
+4,C00001059,38953-85-4,Isovitexin,C21H20O10,432.10564686,Smilax bracteata,Smilax,KNApSAcK
+5,C00001110,3681-93-4,Vitexin,C21H20O10,432.10564686,Smilax bracteata,Smilax,KNApSAcK
+6,C00002674,530-57-4,Syringic acid,C9H10O5,198.05282343,Smilax glabra,Smilax,KNApSAcK
+7,C00002720,73263-62-4,5-O-Caffeoylshikimic acid,C16H16O8,336.08451749,Smilax bracteata,Smilax,KNApSAcK
+8,C00002720,73263-62-4,5-O-Caffeoylshikimic acid,C16H16O8,336.08451749,Smilax glabra,Smilax,KNApSAcK
+9,C00002903,501-36-0,Resveratrol,C14H12O3,228.07864425,Smilax bracteata,Smilax,KNApSAcK
+10,C00002903,501-36-0,Resveratrol,C14H12O3,228.07864425,Smilax aspera subsp.mauritanica (POIR.) ARCANG.,Smilax,KNApSAcK
+11,C00002903,501-36-0,Resveratrol,C14H12O3,228.07864425,Smilax menispermoidea,Smilax,KNApSAcK
+12,C00002962,4773-96-0,Aphloiol,C19H18O11,422.08491142,Smilax bracteata,Smilax,KNApSAcK
+13,C00003563,14835-43-9,Asparagoside A,C33H54O8,578.3818687,Smilax aristolochiaefolia,Smilax,KNApSAcK
+14,C00003575,19057-60-4,Collettiside III,C45H72O16,868.48203625,Smilax china,Smilax,KNApSAcK
+15,C00003576,512-04-9,Diosgenin,C27H42O3,414.31339521,Smilax china,Smilax,KNApSAcK
+16,C00003576,512-04-9,Diosgenin,C27H42O3,414.31339521,Smilax zeylanica L.,Smilax,KNApSAcK
+17,C00003579,19083-00-2,Gracillin,C45H72O17,884.47695088,Smilax china,Smilax,KNApSAcK
+18,C00003584,19057-61-5,Parillin,C51H84O22,1048.54542437,Smilax aristolochaefolia,Smilax,KNApSAcK
+19,C00003584,19057-61-5,Parillin,C51H84O22,1048.54542437,Smilax aristolochiaefolia,Smilax,KNApSAcK
+20,C00003585,55056-80-9,Protodioscin,C51H84O22,1048.54542437,Smilax china,Smilax,KNApSAcK
+21,C00003589,24333-07-1,Sarsaparilloside,C57H96O28,1228.60881249,Smilax aristolochaefolia,Smilax,KNApSAcK
+22,C00003589,24333-07-1,Sarsaparilloside,C57H96O28,1228.60881249,Smilax aristolochiaefolia,Smilax,KNApSAcK
+23,C00003590,126-19-2,Sarsasapogenin,C27H44O3,416.32904527,Smilax rotundifolia,Smilax,KNApSAcK
+24,C00003590,126-19-2,Sarsasapogenin,C27H44O3,416.32904527,Smilax spp.,Smilax,KNApSAcK
+25,C00003590,126-19-2,Sarsasapogenin,C27H44O3,416.32904527,Smilax lanceolata,Smilax,KNApSAcK
+26,C00003592,126-18-1,Smilagenin,C27H44O3,416.32904527,Smilax ornata,Smilax,KNApSAcK
+27,C00003593,77-60-1,Tigogenin,C27H44O3,416.32904527,Smilax sieboldii,Smilax,KNApSAcK
+28,C00003597,512-06-1,Yamogenin,C27H42O3,414.31339521,Smilax aspera,Smilax,KNApSAcK
+29,C00003665,1912-66-9,Pollinastanol,C28H48O,400.37051615,Smilax medica,Smilax,KNApSAcK
+30,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Smilax china,Smilax,KNApSAcK
+31,C00004631,117-39-5,Quercetin,C15H10O7,302.04265268,Smilax bracteata,Smilax,KNApSAcK
+32,C00004631,117-39-5,Quercetin,C15H10O7,302.04265268,Smilax riparia,Smilax,KNApSAcK
+33,C00004634,90-19-7,Rhamnetin,C16H12O7,316.05830274,Smilax riparia,Smilax,KNApSAcK
+34,C00008672,572-31-6,Dihydrokaempferol-3-O-alpha-L-rhamnopyranoside,C21H22O10,434.12129692,Smilax glabra,Smilax,KNApSAcK
+35,C00008672,572-31-6,Dihydrokaempferol-3-O-alpha-L-rhamnopyranoside,C21H22O10,434.12129692,Smilax china,Smilax,KNApSAcK
+36,C00008672,572-31-6,Dihydrokaempferol-3-O-alpha-L-rhamnopyranoside,C21H22O10,434.12129692,Smilax bockii,Smilax,KNApSAcK
+37,C00008673,30987-58-7,Isoengeletin,C21H22O10,434.12129692,Smilax glabra,Smilax,KNApSAcK
+38,C00008703,29838-67-3,Astilbin,C21H22O11,450.11621155,Smilax glabra,Smilax,KNApSAcK
+39,C00008703,29838-67-3,Astilbin,C21H22O11,450.11621155,Smilax bockii,Smilax,KNApSAcK
+40,C00008832,,Arthromerin B,C21H24O10,436.13694699,Smilax bockii,Smilax,KNApSAcK
+41,C00013329,520-32-1,Tricin,C17H14O7,330.0739528,Smilax bracteata,Smilax,KNApSAcK
+42,C00014414,222846-33-5,Smitilbin,C21H22O11,450.11621155,Smilax glabra,Smilax,KNApSAcK
+43,C00014415,452962-93-5,Neosmitilbin,C21H22O11,450.11621155,Smilax glabra,Smilax,KNApSAcK
+44,C00019005,18086-40-3,"7,2'-Dihydroxy-5'-methoxyisoflavone",C16H12O5,284.06847349,Smilax glabra,Smilax,KNApSAcK
+45,C00019308,474-58-8,3-O-beta-D-Glucopyranosyl sitosterol,C35H60O6,576.43898965,Smilax china,Smilax,KNApSAcK
+46,C00019309,56317-21-6,"2-(3,5-Dihydroxyphenyl)-6-hydroxybenzofuran",C14H10O4,242.05790881,Smilax bracteata,Smilax,KNApSAcK
+47,C00029518,67604-48-2,"4',5,7-Trihydroxyflavanone",C15H12O5,272.06847349,Smilax bracteata,Smilax,KNApSAcK
+48,C00029745,60267-25-6,Asparagoside E,C45H76O19,920.49808025,Smilax aspera subsp.mauritanica (POIR.) ARCANG.,Smilax,KNApSAcK
+49,C00029746,84633-35-2,Asparoside A,C52H88O23,1080.57163912,Smilax aspera subsp.mauritanica (POIR.) ARCANG.,Smilax,KNApSAcK
+50,C00029747,301643-62-9,Asparoside B,C44H72O17,872.47695088,Smilax aspera subsp.mauritanica (POIR.) ARCANG.,Smilax,KNApSAcK
+51,C00030069,150677-83-1,Curillin G,C39H64O13,740.43469213,Smilax aspera subsp.mauritanica (POIR.) ARCANG.,Smilax,KNApSAcK
+52,C00030221,102-37-4,Ethyl caffeate,C11H12O4,208.07355887,Smilax china,Smilax,KNApSAcK
+53,C00030764,54522-52-0,22-O-Methylprotodioscin,C52H86O22,1062.56107443,Smilax china,Smilax,KNApSAcK
+54,C00031101,102115-79-7,Pseudoprotodioscin,C51H82O21,1030.53485968,Smilax china,Smilax,KNApSAcK
+55,C00031101,102115-79-7,Pseudoprotodioscin,C51H82O21,1030.53485968,Smilax bockii,Smilax,KNApSAcK
+56,C00031101,102115-79-7,Pseudoprotodioscin,C51H82O21,1030.53485968,Smilax stans,Smilax,KNApSAcK
+57,C00031174,922143-63-3,Riparoside A,C51H84O22,1048.54542437,Smilax riparia,Smilax,KNApSAcK
+58,C00031175,922143-64-4,Riparoside B,C51H84O23,1064.54033899,Smilax riparia,Smilax,KNApSAcK
+59,C00033906,107647-20-1,Helonioside A,C32H38O17,694.21089979,Smilax china,Smilax,KNApSAcK
+60,C00033906,107647-20-1,Helonioside A,C32H38O17,694.21089979,Smilax bracteata,Smilax,KNApSAcK
+61,C00033906,107647-20-1,Helonioside A,C32H38O17,694.21089979,Smilax glabra,Smilax,KNApSAcK
+62,C00033907,107647-21-2,Helonioside B,C34H40O18,736.22146448,Smilax bracteata,Smilax,KNApSAcK
+63,C00034259,1023754-99-5,Smilaside G,C40H42O18,810.23711454,Smilax bracteata,Smilax,KNApSAcK
+64,C00034260,1023755-00-1,Smilaside H,C42H44O19,852.24767923,Smilax bracteata,Smilax,KNApSAcK
+65,C00034261,1023755-01-2,Smilaside I,C42H44O19,852.24767923,Smilax bracteata,Smilax,KNApSAcK
+66,C00034262,1023755-02-3,Smilaside J,C41H44O19,840.24767923,Smilax bracteata,Smilax,KNApSAcK
+67,C00034263,1023354-81-5,Smilaside K,C43H46O20,882.25824391,Smilax bracteata,Smilax,KNApSAcK
+68,C00034264,1023755-03-4,Smilaside L,C42H46O20,870.25824391,Smilax bracteata,Smilax,KNApSAcK
+69,C00034326,483363-91-3,trans-Scirpusin A,C28H22O7,470.13655306,Smilax bracteata,Smilax,KNApSAcK
+70,C00035663,28876-18-8,Isoinnovanoside,C21H22O10,434.12129692,Smilax bockii,Smilax,KNApSAcK
+71,C00035730,102100-46-9,Pseudoproto-Pb,C57H92O25,1176.59276849,Smilax bockii,Smilax,KNApSAcK
+72,C00037828,288254-95-5,Smiglaside A,C48H52O23,996.28993797,Smilax glabra,Smilax,KNApSAcK
+73,C00037829,288254-96-6,Smiglaside B,C46H50O22,954.27937329,Smilax glabra,Smilax,KNApSAcK
+74,C00037830,288254-97-7,Smiglaside C,C38H44O20,820.24259385,Smilax glabra,Smilax,KNApSAcK
+75,C00037831,288254-98-8,Smiglaside D,C47H50O22,966.27937329,Smilax glabra,Smilax,KNApSAcK
+76,C00037832,288254-99-9,Smiglaside E,C45H48O21,924.2688086,Smilax glabra,Smilax,KNApSAcK
+77,C00042477,770721-94-3,Disporoside A,C45H74O18,902.48751556,Smilax medica,Smilax,KNApSAcK
+78,C00043003,154287-51-1,Smilaside A,C36H42O19,778.23202916,Smilax china,Smilax,KNApSAcK
+79,C00043004,870296-06-3,Smilaside B,C34H40O18,736.22146448,Smilax china,Smilax,KNApSAcK
+80,C00043005,407611-38-5,Smilaside C,C41H44O19,840.24767923,Smilax china,Smilax,KNApSAcK
+81,C00043006,870296-08-5,Smilaside D,C43H46O20,882.25824391,Smilax china,Smilax,KNApSAcK
+82,C00043007,870296-12-1,Smilaside E,C43H46O20,882.25824391,Smilax china,Smilax,KNApSAcK
+83,C00043008,870296-15-4,Smilaside F,C44H46O20,894.25824391,Smilax china,Smilax,KNApSAcK
+84,C00051222,1177-71-5,Laxogenin,C27H42O4,430.30830983,Smilax sieboldii,Smilax,KNApSAcK
+85,C00054152,17305-15-6,Asperagenin,C27H44O5,448.31887452,Smilax aspera,Smilax,KNApSAcK
+86,C00057953,166736-13-6,Smilanippin A,C39H64O12,724.43977751,Smilax nipponica,Smilax,KNApSAcK

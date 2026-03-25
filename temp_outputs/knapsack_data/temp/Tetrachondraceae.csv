@@ -1,0 +1,381 @@
+,C_ID,CAS ID,example_compound_name,Molecular formula,Mw,Organism,knapsack_search_term,Source
+0,C00000218,6894-38-8,(-)-Jasmonic acid,C12H18O3,210.12559444,Cleyera ochnacea,Cleyera,KNApSAcK
+0,C00000149,6750-60-3,Espatulenol,C15H24O,220.18271539,Veronica spicata,Veronica,KNApSAcK
+1,C00000152,7400-08-0,p-Coumaric acid,C9H8O3,164.04734412,Veronica orchidea,Veronica,KNApSAcK
+2,C00000152,7400-08-0,p-Coumaric acid,C9H8O3,164.04734412,Veronica officinalis,Veronica,KNApSAcK
+3,C00000152,7400-08-0,p-Coumaric acid,C9H8O3,164.04734412,Veronica spicata,Veronica,KNApSAcK
+4,C00000152,7400-08-0,p-Coumaric acid,C9H8O3,164.04734412,Veronica teucrium,Veronica,KNApSAcK
+5,C00000165,1209-71-8,gamma-Eudesmol,C15H26O,222.19836545,Veronica spicata,Veronica,KNApSAcK
+6,C00000615,501-16-6,Caffeic acid,C9H8O4,180.04225874,Veronica orchidea,Veronica,KNApSAcK
+7,C00000615,501-16-6,Caffeic acid,C9H8O4,180.04225874,Veronica polita,Veronica,KNApSAcK
+8,C00000615,501-16-6,Caffeic acid,C9H8O4,180.04225874,Veronica montana,Veronica,KNApSAcK
+9,C00000615,501-16-6,Caffeic acid,C9H8O4,180.04225874,Veronica officinalis,Veronica,KNApSAcK
+10,C00000615,501-16-6,Caffeic acid,C9H8O4,180.04225874,Veronica teucrium,Veronica,KNApSAcK
+11,C00000615,501-16-6,Caffeic acid,C9H8O4,180.04225874,Veronica spuria,Veronica,KNApSAcK
+12,C00000619,97-53-0,Eugenol,C10H12O2,164.08372963,Veronica spicata,Veronica,KNApSAcK
+13,C00000674,491-70-3,"5,7,3',4'-Tetrahydroxyflavone",C15H10O6,286.04773805,Veronica chamaedrys,Veronica,KNApSAcK
+14,C00000674,491-70-3,"5,7,3',4'-Tetrahydroxyflavone",C15H10O6,286.04773805,Veronica officinalis,Veronica,KNApSAcK
+15,C00000674,491-70-3,"5,7,3',4'-Tetrahydroxyflavone",C15H10O6,286.04773805,Veronica teucrium,Veronica,KNApSAcK
+16,C00000674,491-70-3,"5,7,3',4'-Tetrahydroxyflavone",C15H10O6,286.04773805,Veronica orchidea,Veronica,KNApSAcK
+17,C00000827,89-82-7,Pulegone,C10H16O,152.12011513,Veronica spicata,Veronica,KNApSAcK
+18,C00000843,3338-55-4,cis-beta-Ocimene,C10H16,136.12520051,Veronica spicata,Veronica,KNApSAcK
+19,C00000856,99-96-7,4-hydroxybenzoic acid,C7H6O3,138.03169406,Veronica polita,Veronica,KNApSAcK
+20,C00000856,99-96-7,4-hydroxybenzoic acid,C7H6O3,138.03169406,Veronica spuria,Veronica,KNApSAcK
+21,C00000856,99-96-7,4-hydroxybenzoic acid,C7H6O3,138.03169406,Veronica americana,Veronica,KNApSAcK
+22,C00000856,99-96-7,4-hydroxybenzoic acid,C7H6O3,138.03169406,Veronica montana,Veronica,KNApSAcK
+23,C00000861,586-62-9,alpha-Terpinolene,C10H16,136.12520051,Veronica spicata,Veronica,KNApSAcK
+24,C00001017,578-74-5,Apigenin 7-O-beta-D-glucopyranoside,C21H20O10,432.10564686,Veronica spuria,Veronica,KNApSAcK
+25,C00001017,578-74-5,Apigenin 7-O-beta-D-glucopyranoside,C21H20O10,432.10564686,Veronica montana,Veronica,KNApSAcK
+26,C00001017,578-74-5,Apigenin 7-O-beta-D-glucopyranoside,C21H20O10,432.10564686,Veronica polita,Veronica,KNApSAcK
+27,C00001029,491-71-4,Chrysoeriol,C16H12O6,300.06338812,Veronica triloba,Veronica,KNApSAcK
+28,C00001029,491-71-4,Chrysoeriol,C16H12O6,300.06338812,Veronica hederifolia,Veronica,KNApSAcK
+29,C00001050,1447-88-7,Hispidulin,C16H12O6,300.06338812,Veronica orchidea,Veronica,KNApSAcK
+30,C00001050,1447-88-7,Hispidulin,C16H12O6,300.06338812,Veronica teucrium,Veronica,KNApSAcK
+31,C00001050,1447-88-7,Hispidulin,C16H12O6,300.06338812,Veronica officinalis,Veronica,KNApSAcK
+32,C00001160,608-66-2,Dulcitol,C6H14O6,182.07903818,Veronica persica,Veronica,KNApSAcK
+33,C00001160,608-66-2,Dulcitol,C6H14O6,182.07903818,Veronica hederifolia,Veronica,KNApSAcK
+34,C00001165,69-65-8,D-Mannitol,C6H14O6,182.07903818,Veronica ligustrifolia A.Cunn,Veronica,KNApSAcK
+35,C00001165,69-65-8,D-Mannitol,C6H14O6,182.07903818,Veronica austriaca L.,Veronica,KNApSAcK
+36,C00001165,69-65-8,D-Mannitol,C6H14O6,182.07903818,Veronicastrum sibiricum,Veronica,KNApSAcK
+37,C00001165,69-65-8,D-Mannitol,C6H14O6,182.07903818,Veronica spuria,Veronica,KNApSAcK
+38,C00001165,69-65-8,D-Mannitol,C6H14O6,182.07903818,Veronicastrum virginicum (L.) Farw.,Veronica,KNApSAcK
+39,C00001165,69-65-8,D-Mannitol,C6H14O6,182.07903818,Veronica x andersonii Lindl. et Pax,Veronica,KNApSAcK
+40,C00002632,7374-79-0,Acanthoside B,C28H36O13,580.21559124,Veronica thymoides subsp.pseudocinerea,Veronica,KNApSAcK
+41,C00002638,497-76-7,Arbutin,C12H16O7,272.08960287,Veronica turrilliana,Veronica,KNApSAcK
+42,C00002648,490-79-9,Gentisic acid,C7H6O4,154.02660868,Veronica orchidea,Veronica,KNApSAcK
+43,C00002648,490-79-9,Gentisic acid,C7H6O4,154.02660868,Veronica officinalis,Veronica,KNApSAcK
+44,C00002648,490-79-9,Gentisic acid,C7H6O4,154.02660868,Veronica teucrium,Veronica,KNApSAcK
+45,C00002668,99-50-3,"3,4-Dihydroxybenzoic acid",C7H6O4,154.02660868,Veronica peregrina L.,Veronica,KNApSAcK
+46,C00002668,99-50-3,"3,4-Dihydroxybenzoic acid",C7H6O4,154.02660868,Veronica americana,Veronica,KNApSAcK
+47,C00002668,99-50-3,"3,4-Dihydroxybenzoic acid",C7H6O4,154.02660868,Veronica spicata,Veronica,KNApSAcK
+48,C00002668,99-50-3,"3,4-Dihydroxybenzoic acid",C7H6O4,154.02660868,Veronica spuria,Veronica,KNApSAcK
+49,C00002668,99-50-3,"3,4-Dihydroxybenzoic acid",C7H6O4,154.02660868,Veronica montana,Veronica,KNApSAcK
+50,C00002668,99-50-3,"3,4-Dihydroxybenzoic acid",C7H6O4,154.02660868,Veronica polita,Veronica,KNApSAcK
+51,C00002674,530-57-4,Syringic acid,C9H10O5,198.05282343,Veronica spicata,Veronica,KNApSAcK
+52,C00002682,121-34-6,Vanillic acid,C8H8O4,168.04225874,Veronica peregrina L.,Veronica,KNApSAcK
+53,C00002707,530-14-3,Picein,C14H18O7,298.10525293,Veronica perfoliata,Veronica,KNApSAcK
+54,C00002707,530-14-3,Picein,C14H18O7,298.10525293,Veronica bellidioides,Veronica,KNApSAcK
+55,C00002724,327-97-9,3-O-Caffeoylquinic acid,C16H18O9,354.09508217,Veronica orchidea,Veronica,KNApSAcK
+56,C00002724,327-97-9,3-O-Caffeoylquinic acid,C16H18O9,354.09508217,Veronica officinalis,Veronica,KNApSAcK
+57,C00002724,327-97-9,3-O-Caffeoylquinic acid,C16H18O9,354.09508217,Veronica spuria,Veronica,KNApSAcK
+58,C00002724,327-97-9,3-O-Caffeoylquinic acid,C16H18O9,354.09508217,Veronica polita,Veronica,KNApSAcK
+59,C00002724,327-97-9,3-O-Caffeoylquinic acid,C16H18O9,354.09508217,Veronica montana,Veronica,KNApSAcK
+60,C00002724,327-97-9,3-O-Caffeoylquinic acid,C16H18O9,354.09508217,Veronica teucrium,Veronica,KNApSAcK
+61,C00002743,1135-24-6,Ferulic acid,C10H10O4,194.05790881,Veronica orchidea,Veronica,KNApSAcK
+62,C00002743,1135-24-6,Ferulic acid,C10H10O4,194.05790881,Veronica teucrium,Veronica,KNApSAcK
+63,C00002743,1135-24-6,Ferulic acid,C10H10O4,194.05790881,Veronica spicata,Veronica,KNApSAcK
+64,C00002743,1135-24-6,Ferulic acid,C10H10O4,194.05790881,Veronica officinalis,Veronica,KNApSAcK
+65,C00002767,104777-68-6,Plantamajoside,C29H36O16,640.20033511,Veronica beccabunga,Veronica,KNApSAcK
+66,C00002770,20283-92-5,Labiatenic acid,C18H16O8,360.08451749,Veronica spicata,Veronica,KNApSAcK
+67,C00002776,530-59-6,Sinapic acid,C11H12O5,224.06847349,Veronica officinalis,Veronica,KNApSAcK
+68,C00002776,530-59-6,Sinapic acid,C11H12O5,224.06847349,Veronica orchidea,Veronica,KNApSAcK
+69,C00002776,530-59-6,Sinapic acid,C11H12O5,224.06847349,Veronica teucrium,Veronica,KNApSAcK
+70,C00002783,61276-17-3,Acteoside,C29H36O15,624.20542048,Veronica austriaca L.,Veronica,KNApSAcK
+71,C00002783,61276-17-3,Acteoside,C29H36O15,624.20542048,Veronica polita,Veronica,KNApSAcK
+72,C00002783,61276-17-3,Acteoside,C29H36O15,624.20542048,Veronica persica,Veronica,KNApSAcK
+73,C00002783,61276-17-3,Acteoside,C29H36O15,624.20542048,Veronica montana,Veronica,KNApSAcK
+74,C00002783,61276-17-3,Acteoside,C29H36O15,624.20542048,Veronica spuria,Veronica,KNApSAcK
+75,C00003054,89-81-6,Piperitone,C10H16O,152.12011513,Veronica spicata,Veronica,KNApSAcK
+76,C00003067,18309-32-5,(R)-(+)-Verbenone,C10H14O,150.10446507,Veronica spicata,Veronica,KNApSAcK
+77,C00003073,479-98-1,Aucubin,C15H22O9,346.1263823,Veronica alpina,Veronica,KNApSAcK
+78,C00003073,479-98-1,Aucubin,C15H22O9,346.1263823,Veronica pectinata,Veronica,KNApSAcK
+79,C00003073,479-98-1,Aucubin,C15H22O9,346.1263823,Veronica hederifolia,Veronica,KNApSAcK
+80,C00003073,479-98-1,Aucubin,C15H22O9,346.1263823,Veronica cuneifolia,Veronica,KNApSAcK
+81,C00003073,479-98-1,Aucubin,C15H22O9,346.1263823,Veronica derwentiana,Veronica,KNApSAcK
+82,C00003073,479-98-1,Aucubin,C15H22O9,346.1263823,Veronica perfoliata,Veronica,KNApSAcK
+83,C00003073,479-98-1,Aucubin,C15H22O9,346.1263823,Veronica turrilliana,Veronica,KNApSAcK
+84,C00003073,479-98-1,Aucubin,C15H22O9,346.1263823,Veronica serpyllifolia,Veronica,KNApSAcK
+85,C00003073,479-98-1,Aucubin,C15H22O9,346.1263823,Veronica persica,Veronica,KNApSAcK
+86,C00003073,479-98-1,Aucubin,C15H22O9,346.1263823,Veronica cymbalaria,Veronica,KNApSAcK
+87,C00003073,479-98-1,Aucubin,C15H22O9,346.1263823,Veronica bellidioides,Veronica,KNApSAcK
+88,C00003073,479-98-1,Aucubin,C15H22O9,346.1263823,Veronica arvensis,Veronica,KNApSAcK
+89,C00003075,2415-24-9,Catalpol,C15H22O10,362.12129692,Veronica siaretensis,Veronica,KNApSAcK
+90,C00003075,2415-24-9,Catalpol,C15H22O10,362.12129692,Veronica austriaca L.,Veronica,KNApSAcK
+91,C00003075,2415-24-9,Catalpol,C15H22O10,362.12129692,Veronica bellidioides,Veronica,KNApSAcK
+92,C00003075,2415-24-9,Catalpol,C15H22O10,362.12129692,Veronica cymbalaria,Veronica,KNApSAcK
+93,C00003075,2415-24-9,Catalpol,C15H22O10,362.12129692,Veronica ligustrifolia A.Cunn,Veronica,KNApSAcK
+94,C00003075,2415-24-9,Catalpol,C15H22O10,362.12129692,Veronica salicifolia G. Forst.,Veronica,KNApSAcK
+95,C00003075,2415-24-9,Catalpol,C15H22O10,362.12129692,Veronica spp.,Veronica,KNApSAcK
+96,C00003075,2415-24-9,Catalpol,C15H22O10,362.12129692,Veronica turrilliana,Veronica,KNApSAcK
+97,C00003075,2415-24-9,Catalpol,C15H22O10,362.12129692,Veronica x andersonii Lindl. et Pax,Veronica,KNApSAcK
+98,C00003075,2415-24-9,Catalpol,C15H22O10,362.12129692,Veronicastrum sibiricum (L.) Pennell,Veronica,KNApSAcK
+99,C00003075,2415-24-9,Catalpol,C15H22O10,362.12129692,Veronica polita,Veronica,KNApSAcK
+100,C00003075,2415-24-9,Catalpol,C15H22O10,362.12129692,Veronica persica,Veronica,KNApSAcK
+101,C00003075,2415-24-9,Catalpol,C15H22O10,362.12129692,Veronica perfoliata,Veronica,KNApSAcK
+102,C00003075,2415-24-9,Catalpol,C15H22O10,362.12129692,Veronicastrum virginicum (L.) Farw.,Veronica,KNApSAcK
+103,C00003075,2415-24-9,Catalpol,C15H22O10,362.12129692,Veronica cuneifolia,Veronica,KNApSAcK
+104,C00003075,2415-24-9,Catalpol,C15H22O10,362.12129692,Veronica pectinata,Veronica,KNApSAcK
+105,C00003075,2415-24-9,Catalpol,C15H22O10,362.12129692,Veronica longifolia,Veronica,KNApSAcK
+106,C00003075,2415-24-9,Catalpol,C15H22O10,362.12129692,Veronica francispetae,Veronica,KNApSAcK
+107,C00003076,6736-85-2,Catalposide,C22H26O12,482.1424263,Veronica persica,Veronica,KNApSAcK
+108,C00003076,6736-85-2,Catalposide,C22H26O12,482.1424263,Veronica pectinata,Veronica,KNApSAcK
+109,C00003076,6736-85-2,Catalposide,C22H26O12,482.1424263,Veronica hederifolia,Veronica,KNApSAcK
+110,C00003076,6736-85-2,Catalposide,C22H26O12,482.1424263,Veronica turrilliana,Veronica,KNApSAcK
+111,C00003076,6736-85-2,Catalposide,C22H26O12,482.1424263,Veronica bellidioides,Veronica,KNApSAcK
+112,C00003076,6736-85-2,Catalposide,C22H26O12,482.1424263,Veronica anagallis-aquatica,Veronica,KNApSAcK
+113,C00003110,87-44-5,beta-Caryophyllene,C15H24,204.18780077,Veronica spicata,Veronica,KNApSAcK
+114,C00003467,150-86-7,Phytol,C20H40O,296.3079159,Veronica spicata,Veronica,KNApSAcK
+115,C00003576,512-04-9,Diosgenin,C27H42O3,414.31339521,Veronica gentianoides,Veronica,KNApSAcK
+116,C00003646,474-67-9,Brassicasterol,C28H46O,398.35486609,Veronica officinalis,Veronica,KNApSAcK
+117,C00003646,474-67-9,Brassicasterol,C28H46O,398.35486609,Veronica orchidea,Veronica,KNApSAcK
+118,C00003646,474-67-9,Brassicasterol,C28H46O,398.35486609,Veronica teucrium,Veronica,KNApSAcK
+119,C00003647,474-62-4,Campesterol,C28H48O,400.37051615,Veronica orchidea,Veronica,KNApSAcK
+120,C00003647,474-62-4,Campesterol,C28H48O,400.37051615,Veronica teucrium,Veronica,KNApSAcK
+121,C00003647,474-62-4,Campesterol,C28H48O,400.37051615,Veronica officinalis,Veronica,KNApSAcK
+122,C00003652,57-87-4,Ergosterol,C28H44O,396.33921603,Veronica teucrium,Veronica,KNApSAcK
+123,C00003652,57-87-4,Ergosterol,C28H44O,396.33921603,Veronica officinalis,Veronica,KNApSAcK
+124,C00003652,57-87-4,Ergosterol,C28H44O,396.33921603,Veronica orchidea,Veronica,KNApSAcK
+125,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Veronica orchidea,Veronica,KNApSAcK
+126,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Veronica officinalis,Veronica,KNApSAcK
+127,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Veronica teucrium,Veronica,KNApSAcK
+128,C00003674,83-48-7,beta-Stigmasterol,C29H48O,412.37051615,Veronica teucrium,Veronica,KNApSAcK
+129,C00003674,83-48-7,beta-Stigmasterol,C29H48O,412.37051615,Veronica orchidea,Veronica,KNApSAcK
+130,C00003674,83-48-7,beta-Stigmasterol,C29H48O,412.37051615,Veronica officinalis,Veronica,KNApSAcK
+131,C00003794,480-40-0,Chrysin,C15H10O4,254.05790881,Veronica spicata,Veronica,KNApSAcK
+132,C00003817,520-36-5,Apigenin,C15H10O5,270.05282343,Veronica officinalis,Veronica,KNApSAcK
+133,C00003817,520-36-5,Apigenin,C15H10O5,270.05282343,Veronica chamaedrys,Veronica,KNApSAcK
+134,C00003817,520-36-5,Apigenin,C15H10O5,270.05282343,Veronica teucrium,Veronica,KNApSAcK
+135,C00003817,520-36-5,Apigenin,C15H10O5,270.05282343,Veronica orchidea,Veronica,KNApSAcK
+136,C00003817,520-36-5,Apigenin,C15H10O5,270.05282343,Veronica spicata,Veronica,KNApSAcK
+137,C00003820,480-44-4,Acacetin,C16H12O5,284.06847349,Veronica teucrium,Veronica,KNApSAcK
+138,C00003820,480-44-4,Acacetin,C16H12O5,284.06847349,Veronica officinalis,Veronica,KNApSAcK
+139,C00003820,480-44-4,Acacetin,C16H12O5,284.06847349,Veronica orchidea,Veronica,KNApSAcK
+140,C00003845,22368-21-4,Eupatilin,C18H16O7,344.08960287,Veronica officinalis,Veronica,KNApSAcK
+141,C00003845,22368-21-4,Eupatilin,C18H16O7,344.08960287,Veronica orchidea,Veronica,KNApSAcK
+142,C00003845,22368-21-4,Eupatilin,C18H16O7,344.08960287,Veronica teucrium,Veronica,KNApSAcK
+143,C00003851,51876-19-8,Takakin,C16H12O6,300.06338812,Veronica filiformis,Veronica,KNApSAcK
+144,C00003867,25739-41-7,Velutin,C17H14O6,314.07903818,Veronica flexuosa,Veronica,KNApSAcK
+145,C00003884,18003-33-3,6-Hydroxyluteolin,C15H10O7,302.04265268,Veronica triloba,Veronica,KNApSAcK
+146,C00003884,18003-33-3,6-Hydroxyluteolin,C15H10O7,302.04265268,Veronica hederifolia,Veronica,KNApSAcK
+147,C00003890,18085-97-7,Jaceosidin,C17H14O7,330.0739528,Veronica officinalis,Veronica,KNApSAcK
+148,C00003890,18085-97-7,Jaceosidin,C17H14O7,330.0739528,Veronica orchidea,Veronica,KNApSAcK
+149,C00003890,18085-97-7,Jaceosidin,C17H14O7,330.0739528,Veronica teucrium,Veronica,KNApSAcK
+150,C00003894,855-96-9,Eupatorin,C18H16O7,344.08960287,Veronica teucrium,Veronica,KNApSAcK
+151,C00003894,855-96-9,Eupatorin,C18H16O7,344.08960287,Veronica officinalis,Veronica,KNApSAcK
+152,C00003894,855-96-9,Eupatorin,C18H16O7,344.08960287,Veronica orchidea,Veronica,KNApSAcK
+153,C00004252,,Isoscutellarein 4'-methyl ether 7-(6'''-acetylallosyl)(1->2)-glucoside,C30H34O17,666.17959966,Veronica filiformis,Veronica,KNApSAcK
+154,C00004266,5373-11-5,Cinaroside,C21H20O11,448.10056148,Veronica spicata,Veronica,KNApSAcK
+155,C00004266,5373-11-5,Cinaroside,C21H20O11,448.10056148,Veronica fuhsii,Veronica,KNApSAcK
+156,C00004266,5373-11-5,Cinaroside,C21H20O11,448.10056148,Veronica spuria,Veronica,KNApSAcK
+157,C00004266,5373-11-5,Cinaroside,C21H20O11,448.10056148,Veronica polita,Veronica,KNApSAcK
+158,C00004266,5373-11-5,Cinaroside,C21H20O11,448.10056148,Veronica montana,Veronica,KNApSAcK
+159,C00004266,5373-11-5,Cinaroside,C21H20O11,448.10056148,Veronica thymoides ssp.pseudocinerea,Veronica,KNApSAcK
+160,C00004266,5373-11-5,Cinaroside,C21H20O11,448.10056148,Veronica peregrina L.,Veronica,KNApSAcK
+161,C00004266,5373-11-5,Cinaroside,C21H20O11,448.10056148,Veronicastrum sibiricum,Veronica,KNApSAcK
+162,C00004268,29741-10-4,Luteolin 7-O-beta-D-glucuronide,C21H18O12,462.07982604,Veronica spuria,Veronica,KNApSAcK
+163,C00004283,25694-72-8,Lonicerin,C27H30O15,594.15847029,Veronicastrum sibiricum,Veronica,KNApSAcK
+164,C00004319,135546-08-6,Luteolin 7-(6'''-acetylsophoroside),C29H32O17,652.1639496,Veronica linariifolia dilatata,Veronica,KNApSAcK
+165,C00004631,117-39-5,Quercetin,C15H10O7,302.04265268,Veronica teucrium,Veronica,KNApSAcK
+166,C00004631,117-39-5,Quercetin,C15H10O7,302.04265268,Veronica polita,Veronica,KNApSAcK
+167,C00004631,117-39-5,Quercetin,C15H10O7,302.04265268,Veronica officinalis,Veronica,KNApSAcK
+168,C00004631,117-39-5,Quercetin,C15H10O7,302.04265268,Veronica spicata,Veronica,KNApSAcK
+169,C00004631,117-39-5,Quercetin,C15H10O7,302.04265268,Veronica francispetae,Veronica,KNApSAcK
+170,C00004631,117-39-5,Quercetin,C15H10O7,302.04265268,Veronica persica,Veronica,KNApSAcK
+171,C00004631,117-39-5,Quercetin,C15H10O7,302.04265268,Veronica orchidea,Veronica,KNApSAcK
+172,C00004631,117-39-5,Quercetin,C15H10O7,302.04265268,Veronica siaretensis,Veronica,KNApSAcK
+173,C00004705,479-91-4,Casticin,C19H18O8,374.10016755,Veronica officinalis,Veronica,KNApSAcK
+174,C00004705,479-91-4,Casticin,C19H18O8,374.10016755,Veronica teucrium,Veronica,KNApSAcK
+175,C00004705,479-91-4,Casticin,C19H18O8,374.10016755,Veronica orchidea,Veronica,KNApSAcK
+176,C00005149,16290-07-6,Kaempferol 7-O-beta-D-glucopyranoside,C21H20O11,448.10056148,Veronica francispetae,Veronica,KNApSAcK
+177,C00005149,16290-07-6,Kaempferol 7-O-beta-D-glucopyranoside,C21H20O11,448.10056148,Veronica persica,Veronica,KNApSAcK
+178,C00005149,16290-07-6,Kaempferol 7-O-beta-D-glucopyranoside,C21H20O11,448.10056148,Veronica polita,Veronica,KNApSAcK
+179,C00005149,16290-07-6,Kaempferol 7-O-beta-D-glucopyranoside,C21H20O11,448.10056148,Veronica siaretensis,Veronica,KNApSAcK
+180,C00005373,482-35-9,Hirsutrin,C21H20O12,464.09547611,Veronica polita,Veronica,KNApSAcK
+181,C00005373,482-35-9,Hirsutrin,C21H20O12,464.09547611,Veronica spuria,Veronica,KNApSAcK
+182,C00005373,482-35-9,Hirsutrin,C21H20O12,464.09547611,Veronica montana,Veronica,KNApSAcK
+183,C00005374,522-12-3,Quercetin 3-O-alpha-L-rhamnoside,C21H20O11,448.10056148,Veronica teucrium,Veronica,KNApSAcK
+184,C00005374,522-12-3,Quercetin 3-O-alpha-L-rhamnoside,C21H20O11,448.10056148,Veronica spicata,Veronica,KNApSAcK
+185,C00005374,522-12-3,Quercetin 3-O-alpha-L-rhamnoside,C21H20O11,448.10056148,Veronica orchidea,Veronica,KNApSAcK
+186,C00005374,522-12-3,Quercetin 3-O-alpha-L-rhamnoside,C21H20O11,448.10056148,Veronica officinalis,Veronica,KNApSAcK
+187,C00005413,153-18-4,Quercetin 3-rutinoside,C27H30O16,610.15338491,Veronica spicata,Veronica,KNApSAcK
+188,C00008301,28978-03-2,Persiconin,C23H26O11,478.14751167,Veronica persica,Veronica,KNApSAcK
+189,C00008301,28978-03-2,Persiconin,C23H26O11,478.14751167,Veronica perfoliata,Veronica,KNApSAcK
+190,C00010278,35536-70-0,Stachannin,C22H22O11,462.11621155,Veronica spp.,Veronica,KNApSAcK
+191,C00010495,126005-85-4,Asystasioside E,C15H23ClO10,398.09797467,Veronica longifolia,Veronica,KNApSAcK
+192,C00010513,50932-20-2,Verproside,C22H26O13,498.13734092,Veronica cymbalaria,Veronica,KNApSAcK
+193,C00010513,50932-20-2,Verproside,C22H26O13,498.13734092,Veronica officinalis,Veronica,KNApSAcK
+194,C00010513,50932-20-2,Verproside,C22H26O13,498.13734092,Veronica persica,Veronica,KNApSAcK
+195,C00010513,50932-20-2,Verproside,C22H26O13,498.13734092,Veronica salicifolia G. Forst.,Veronica,KNApSAcK
+196,C00010513,50932-20-2,Verproside,C22H26O13,498.13734092,Veronica turrilliana,Veronica,KNApSAcK
+197,C00010513,50932-20-2,Verproside,C22H26O13,498.13734092,Veronica perfoliata,Veronica,KNApSAcK
+198,C00010513,50932-20-2,Verproside,C22H26O13,498.13734092,Veronica pectinata,Veronica,KNApSAcK
+199,C00010513,50932-20-2,Verproside,C22H26O13,498.13734092,Veronica longifolia,Veronica,KNApSAcK
+200,C00010513,50932-20-2,Verproside,C22H26O13,498.13734092,Veronica cuneifolia,Veronica,KNApSAcK
+201,C00010513,50932-20-2,Verproside,C22H26O13,498.13734092,Veronica austriaca L.,Veronica,KNApSAcK
+202,C00010513,50932-20-2,Verproside,C22H26O13,498.13734092,Veronica anagallis-aquatica,Veronica,KNApSAcK
+203,C00010520,50981-09-4,Veronicoside,C22H26O11,466.14751167,Veronica officinalis,Veronica,KNApSAcK
+204,C00010520,50981-09-4,Veronicoside,C22H26O11,466.14751167,Veronica pectinata,Veronica,KNApSAcK
+205,C00010520,50981-09-4,Veronicoside,C22H26O11,466.14751167,Veronica cuneifolia,Veronica,KNApSAcK
+206,C00010520,50981-09-4,Veronicoside,C22H26O11,466.14751167,Veronica anagallis-aquatica,Veronica,KNApSAcK
+207,C00010520,50981-09-4,Veronicoside,C22H26O11,466.14751167,Veronica bellidioides,Veronica,KNApSAcK
+208,C00010520,50981-09-4,Veronicoside,C22H26O11,466.14751167,Veronica hederifolia,Veronica,KNApSAcK
+209,C00010520,50981-09-4,Veronicoside,C22H26O11,466.14751167,Veronica persica,Veronica,KNApSAcK
+210,C00010521,50932-19-9,Verminoside,C24H28O13,524.15299098,Veronica spuria,Veronica,KNApSAcK
+211,C00010521,50932-19-9,Verminoside,C24H28O13,524.15299098,Veronica x andersonii Lindl. et Pax,Veronica,KNApSAcK
+212,C00010521,50932-19-9,Verminoside,C24H28O13,524.15299098,Veronica salicifolia G. Forst.,Veronica,KNApSAcK
+213,C00010521,50932-19-9,Verminoside,C24H28O13,524.15299098,Veronica persica,Veronica,KNApSAcK
+214,C00010521,50932-19-9,Verminoside,C24H28O13,524.15299098,Veronica officinalis,Veronica,KNApSAcK
+215,C00010521,50932-19-9,Verminoside,C24H28O13,524.15299098,Veronica ligustrifolia A.Cunn,Veronica,KNApSAcK
+216,C00010521,50932-19-9,Verminoside,C24H28O13,524.15299098,Veronica cymbalaria,Veronica,KNApSAcK
+217,C00010521,50932-19-9,Verminoside,C24H28O13,524.15299098,Veronica bellidioides,Veronica,KNApSAcK
+218,C00010521,50932-19-9,Verminoside,C24H28O13,524.15299098,Veronica anagallis-aquatica,Veronica,KNApSAcK
+219,C00010521,50932-19-9,Verminoside,C24H28O13,524.15299098,Veronica cuneifolia,Veronica,KNApSAcK
+220,C00010521,50932-19-9,Verminoside,C24H28O13,524.15299098,Veronica montana,Veronica,KNApSAcK
+221,C00010521,50932-19-9,Verminoside,C24H28O13,524.15299098,Veronica polita,Veronica,KNApSAcK
+222,C00010521,50932-19-9,Verminoside,C24H28O13,524.15299098,Veronica hederifolia,Veronica,KNApSAcK
+223,C00010521,50932-19-9,Verminoside,C24H28O13,524.15299098,Veronica perfoliata,Veronica,KNApSAcK
+224,C00010522,51005-44-8,Minecoside,C25H30O13,538.16864105,Veronicastrum sibiricum,Veronica,KNApSAcK
+225,C00010522,51005-44-8,Minecoside,C25H30O13,538.16864105,Veronica perfoliata,Veronica,KNApSAcK
+226,C00010522,51005-44-8,Minecoside,C25H30O13,538.16864105,Veronica bellidioides,Veronica,KNApSAcK
+227,C00010522,51005-44-8,Minecoside,C25H30O13,538.16864105,Veronica officinalis,Veronica,KNApSAcK
+228,C00010556,54835-76-6,Gardoside,C16H22O10,374.12129692,Veronica derwentiana,Veronica,KNApSAcK
+229,C00010556,54835-76-6,Gardoside,C16H22O10,374.12129692,Veronica perfoliata,Veronica,KNApSAcK
+230,C00010556,54835-76-6,Gardoside,C16H22O10,374.12129692,Veronica beccabunga,Veronica,KNApSAcK
+231,C00010556,54835-76-6,Gardoside,C16H22O10,374.12129692,Veronica salicifolia G. Forst.,Veronica,KNApSAcK
+232,C00010564,27741-01-1,Geniposidic acid,C16H22O10,374.12129692,Veronica bellidioides,Veronica,KNApSAcK
+233,C00010600,52949-83-4,Ajugol,C15H24O9,348.14203237,Veronicastrum virginicum (L.) Farw.,Veronica,KNApSAcK
+234,C00010600,52949-83-4,Ajugol,C15H24O9,348.14203237,Veronicastrum sibiricum (L.) Pennell,Veronica,KNApSAcK
+235,C00010629,82451-22-7,Mussaenosidic acid,C16H24O10,376.13694699,Veronica perfoliata,Veronica,KNApSAcK
+236,C00010629,82451-22-7,Mussaenosidic acid,C16H24O10,376.13694699,Veronica derwentiana,Veronica,KNApSAcK
+237,C00010629,82451-22-7,Mussaenosidic acid,C16H24O10,376.13694699,Veronica beccabunga,Veronica,KNApSAcK
+238,C00010630,64421-27-8,Mussaenoside,C17H26O10,390.15259705,Veronica bellidioides,Veronica,KNApSAcK
+239,C00010630,64421-27-8,Mussaenoside,C17H26O10,390.15259705,Veronica alpina,Veronica,KNApSAcK
+240,C00010631,76994-10-0,Ladroside,C26H32O13,552.18429111,Veronica spp.,Veronica,KNApSAcK
+241,C00010830,5286-38-4,Piperitone oxide,C10H16O2,168.11502975,Veronica spicata,Veronica,KNApSAcK
+242,C00012061,89354-71-2,"11,13-Dihydrovernodalin",C19H22O7,362.13655306,Veronica amygdalina,Veronica,KNApSAcK
+243,C00012425,24703-35-3,(+)-Bicyclogermacrene,C15H24,204.18780077,Veronica spicata,Veronica,KNApSAcK
+244,C00012483,1139-30-6,(-)-beta-Caryophyllene epoxide,C15H24O,220.18271539,Veronica spicata,Veronica,KNApSAcK
+245,C00013669,173792-54-6,Luteorin 7-(6''''-acetylallosyl-(1->3)-glucosyl-(1->2)-glucoside,C35H42O22,814.21677303,Veronica didyma,Veronica,KNApSAcK
+246,C00013690,651317-77-0,Spicoside A,C30H26O15,626.12717016,Veronica liwanensis,Veronica,KNApSAcK
+247,C00013695,651317-75-8,6-Hydroxyluteolin 4'-methyl eter 7-rhamnosyl-(1->2)-(6''-acetylglucoside),C30H34O17,666.17959966,Veronica liwanensis,Veronica,KNApSAcK
+248,C00021903,13474-59-4,trans-alpha-Bergamotene,C15H24,204.18780077,Veronica spicata,Veronica,KNApSAcK
+249,C00023295,59806-19-8,3-Oxocativiniv acid,C20H32O3,320.23514489,Brickellia veronicaefolia,Veronica,KNApSAcK
+250,C00023327,88202-36-2,"2alpha,3alpha-Dihydroxycativic acid",C20H34O4,338.24570957,Brickellia veronicaefolia,Veronica,KNApSAcK
+251,C00029350,28973-97-9,cis-beta-Farnesene,C15H24,204.18780077,Veronica spicata,Veronica,KNApSAcK
+252,C00029479,93-07-2,"3,4-dimethoxybenzoic acid",C9H10O4,182.05790881,Veronica americana,Veronica,KNApSAcK
+253,C00029536,100-09-4,4-Methoxybenzoic acid,C8H8O3,152.04734412,Veronica americana,Veronica,KNApSAcK
+254,C00029601,82509-41-9,8-Epiloganic acid,C16H24O10,376.13694699,Veronica derwentiana,Veronica,KNApSAcK
+255,C00029601,82509-41-9,8-Epiloganic acid,C16H24O10,376.13694699,Veronica perfoliata,Veronica,KNApSAcK
+256,C00029601,82509-41-9,8-Epiloganic acid,C16H24O10,376.13694699,Veronica beccabunga,Veronica,KNApSAcK
+257,C00029816,79-77-6,beta-Ionone,C13H20O,192.15141526,Veronica spicata,Veronica,KNApSAcK
+258,C00030471,593-49-7,Heptacosane,C27H56,380.43820179,Veronica spicata,Veronica,KNApSAcK
+259,C00030478,630-01-3,Hexacosane,C26H54,366.42255172,Veronica spicata,Veronica,KNApSAcK
+260,C00030516,61303-13-7,Isoacteoside,C29H36O15,624.20542048,Veronica montana,Veronica,KNApSAcK
+261,C00030516,61303-13-7,Isoacteoside,C29H36O15,624.20542048,Veronica spuria,Veronica,KNApSAcK
+262,C00030516,61303-13-7,Isoacteoside,C29H36O15,624.20542048,Veronica polita,Veronica,KNApSAcK
+263,C00030516,61303-13-7,Isoacteoside,C29H36O15,624.20542048,Veronica persica,Veronica,KNApSAcK
+264,C00030541,505-32-8,Isophytol,C20H40O,296.3079159,Veronica spicata,Veronica,KNApSAcK
+265,C00030807,906-33-2,5-Caffeoylquinic acid,C16H18O9,354.09508217,Veronica polita,Veronica,KNApSAcK
+266,C00030807,906-33-2,5-Caffeoylquinic acid,C16H18O9,354.09508217,Veronica montana,Veronica,KNApSAcK
+267,C00030807,906-33-2,5-Caffeoylquinic acid,C16H18O9,354.09508217,Veronica spuria,Veronica,KNApSAcK
+268,C00030958,629-99-2,n-Pentacosane,C25H52,352.40690166,Veronica spicata,Veronica,KNApSAcK
+269,C00031030,231280-24-3,Pikuroside,C23H30O14,530.16355567,Veronica hederifolia,Veronica,KNApSAcK
+270,C00031274,10338-51-9,Rhodioloside,C14H20O7,300.12090299,Veronica beccabunga,Veronica,KNApSAcK
+271,C00031379,723300-08-1,Sibiriquinone A,C19H20O2,280.14632988,Veronicastrum sibiricum,Veronica,KNApSAcK
+272,C00031380,723300-09-2,Sibiriquinone B,C19H22O2,282.16197995,Veronicastrum sibiricum,Veronica,KNApSAcK
+273,C00031401,568-73-0,Tanshinone I,C18H12O3,276.07864425,Veronicastrum sibiricum,Veronica,KNApSAcK
+274,C00031697,35825-57-1,Cryptotanshinone,C19H20O3,296.1412445,Veronicastrum sibiricum,Veronica,KNApSAcK
+275,C00031760,106323-63-1,Ehrenoside,C34H44O19,756.24767923,Veronica bellidioides,Veronica,KNApSAcK
+276,C00031760,106323-63-1,Ehrenoside,C34H44O19,756.24767923,Veronica pectinata var.glandulosa,Veronica,KNApSAcK
+277,C00031760,106323-63-1,Ehrenoside,C34H44O19,756.24767923,Veronicastrum sibiricum (L.) Pennell,Veronica,KNApSAcK
+278,C00032307,646-31-1,Tetracosane,C24H50,338.39125159,Veronica spicata,Veronica,KNApSAcK
+279,C00032409,638-67-5,n-Tridecane,C23H48,324.37560153,Veronica spicata,Veronica,KNApSAcK
+280,C00032701,180028-16-4,Alpinoside,C18H24O11,416.13186161,Veronica beccabunga,Veronica,KNApSAcK
+281,C00032701,180028-16-4,Alpinoside,C18H24O11,416.13186161,Veronica cymbalaria,Veronica,KNApSAcK
+282,C00033467,448963-58-4,Verpectoside A,C35H46O19,770.26332929,Veronica multifida,Veronica,KNApSAcK
+283,C00033467,448963-58-4,Verpectoside A,C35H46O19,770.26332929,Veronica prectinata var.glandulosa,Veronica,KNApSAcK
+284,C00033467,448963-58-4,Verpectoside A,C35H46O19,770.26332929,Veronica pectinata var.glandulosa,Veronica,KNApSAcK
+285,C00033468,306287-87-6,Verpectoside B,C35H46O20,786.25824391,Veronica pectinata var.glandulosa,Veronica,KNApSAcK
+286,C00033468,306287-87-6,Verpectoside B,C35H46O20,786.25824391,Veronica prectinata var.glandulosa,Veronica,KNApSAcK
+287,C00033469,448963-65-3,Verpectoside C,C36H48O20,800.27389398,Veronica pectinata var.glandulosa,Veronica,KNApSAcK
+288,C00034409,34779-62-9,Amphicoside,C23H28O13,512.15299098,Veronica pectinata,Veronica,KNApSAcK
+289,C00034409,34779-62-9,Amphicoside,C23H28O13,512.15299098,Veronica turrilliana,Veronica,KNApSAcK
+290,C00034409,34779-62-9,Amphicoside,C23H28O13,512.15299098,Veronica hederifolia,Veronica,KNApSAcK
+291,C00034409,34779-62-9,Amphicoside,C23H28O13,512.15299098,Veronica persica,Veronica,KNApSAcK
+292,C00034409,34779-62-9,Amphicoside,C23H28O13,512.15299098,Veronica cuneifolia,Veronica,KNApSAcK
+293,C00034409,34779-62-9,Amphicoside,C23H28O13,512.15299098,Veronica cymbalaria,Veronica,KNApSAcK
+294,C00034409,34779-62-9,Amphicoside,C23H28O13,512.15299098,Veronica bellidioides,Veronica,KNApSAcK
+295,C00034409,34779-62-9,Amphicoside,C23H28O13,512.15299098,Veronica kellererii,Veronica,KNApSAcK
+296,C00034556,110559-87-0,Isovanilloylcatalpol,C23H28O13,512.15299098,Veronica turrilliana,Veronica,KNApSAcK
+297,C00034597,67884-12-2,Martynoside,C31H40O15,652.23672061,Veronica anagallis-aquatica,Veronica,KNApSAcK
+298,C00034733,943900-57-0,Turrillianoside,C39H62O14,754.41395669,Veronica turrilliana,Veronica,KNApSAcK
+299,C00034734,943900-55-8,Turrillioside A,C35H46O20,786.25824391,Veronica turrilliana,Veronica,KNApSAcK
+300,C00034735,943900-56-9,Turrillioside B,C45H54O23,962.30558804,Veronica turrilliana,Veronica,KNApSAcK
+301,C00034797,325798-51-4,Arborescosidic acid,C16H22O10,374.12129692,Veronica ligustrifolia A.Cunn,Veronica,KNApSAcK
+302,C00034797,325798-51-4,Arborescosidic acid,C16H22O10,374.12129692,Veronica beccabunga,Veronica,KNApSAcK
+303,C00034797,325798-51-4,Arborescosidic acid,C16H22O10,374.12129692,Veronica salicifolia G. Forst.,Veronica,KNApSAcK
+304,C00034797,325798-51-4,Arborescosidic acid,C16H22O10,374.12129692,Veronica perfoliata,Veronica,KNApSAcK
+305,C00034798,94130-58-2,Arenarioside,C34H44O19,756.24767923,Veronica ligustrifolia A.Cunn,Veronica,KNApSAcK
+306,C00034810,114217-04-8,Calceolarioside C,C28H34O15,610.18977042,Veronica anagallis-aquatica,Veronica,KNApSAcK
+307,C00034818,6537-80-0,Cichoric acid,C22H18O12,474.07982604,Veronica spicata,Veronica,KNApSAcK
+308,C00034857,876184-80-4,Hebeoside,C34H44O19,756.24767923,Veronica salicifolia G. Forst.,Veronica,KNApSAcK
+309,C00034894,72514-90-0,Specioside,C24H28O12,508.15807636,Veronica perfoliata,Veronica,KNApSAcK
+310,C00035043,80-26-2,alpha-terpineol acetate,C12H20O2,196.14632988,Veronica spicata,Veronica,KNApSAcK
+311,C00035305,862423-33-4,Erinoside,C16H20O11,388.10056148,Veronica perfoliata,Veronica,KNApSAcK
+312,C00035527,765956-66-9,Aquaticoside A,C23H28O11,480.16316174,Veronica anagallis-aquatica,Veronica,KNApSAcK
+313,C00035528,765956-68-1,Aquaticoside B,C23H28O12,496.15807636,Veronica anagallis-aquatica,Veronica,KNApSAcK
+314,C00035529,765970-70-5,Aquaticoside C,C23H26O11,478.14751167,Veronica anagallis-aquatica,Veronica,KNApSAcK
+315,C00035592,629-97-0,Docosane,C22H46,310.35995147,Veronica spicata,Veronica,KNApSAcK
+316,C00036007,791846-69-0,"3,5-Dihydroxyphenethyl alcohol 3-O-beta-glucopyranoside",C14H20O8,316.11581762,Veronica thymoides subsp.pseudocinerea,Veronica,KNApSAcK
+317,C00036009,791846-68-9,Spicoside D,C28H24O15,600.1115201,Veronica thymoides subsp.pseudocinerea,Veronica,KNApSAcK
+318,C00036040,625855-85-8,Aragoside,C34H44O20,772.24259385,Veronica lavaudiana,Veronica,KNApSAcK
+319,C00036395,259753-11-2,10-Acetoxymajoroside,C19H26O12,446.1424263,Veronica cymbalaria,Veronica,KNApSAcK
+320,C00037821,173046-19-0,Sibirioside A,C21H28O12,472.15807636,Veronicastrum sibiricum,Veronica,KNApSAcK
+321,C00038309,56973-43-4,6-O-Veratroylcatalpol,C24H30O13,526.16864105,Veronica persica,Veronica,KNApSAcK
+322,C00038309,56973-43-4,6-O-Veratroylcatalpol,C24H30O13,526.16864105,Veronica cymbalaria,Veronica,KNApSAcK
+323,C00042165,219787-01-6,6'-O-Menthiafoloylmussaenosidic acid,C26H38O12,542.23632668,Veronica bellidioides,Veronica,KNApSAcK
+324,C00043019,219787-02-7,Speedoside,C30H38O18,686.20581441,Veronica montana,Veronica,KNApSAcK
+325,C00043019,219787-02-7,Speedoside,C30H38O18,686.20581441,Veronica spuria,Veronica,KNApSAcK
+326,C00043019,219787-02-7,Speedoside,C30H38O18,686.20581441,Veronica polita,Veronica,KNApSAcK
+327,C00043019,219787-02-7,Speedoside,C30H38O18,686.20581441,Veronica bellidioides,Veronica,KNApSAcK
+328,C00043118,219787-03-8,Welloside,C31H40O18,700.22146448,Veronica bellidioides,Veronica,KNApSAcK
+329,C00048073,55483-00-6,Pungenin,C14H18O8,314.10016755,Veronica catarractae,Veronica,KNApSAcK
+330,C00048073,55483-00-6,Pungenin,C14H18O8,314.10016755,Veronica derwentiana,Veronica,KNApSAcK
+331,C00048073,55483-00-6,Pungenin,C14H18O8,314.10016755,Veronica perfoliata,Veronica,KNApSAcK
+332,C00048329,18252-44-3,beta-Copaene,C15H24,204.18780077,Veronica spicata,Veronica,KNApSAcK
+333,C00051213,117895-00-8,Lavandulifolioside,C34H44O19,756.24767923,Veronica persica,Veronica,KNApSAcK
+334,C00063581,1000070-69-8,Hebitol II,C21H30O14,506.16355567,Veronica lavaudiana,Veronica,KNApSAcK
+335,C00063582,1000070-70-1,Hebitol I,C19H28O12,448.15807636,Veronica lavaudiana,Veronica,KNApSAcK
+336,C00063596,1016987-86-2,Derwentioside A,C22H26O10,450.15259705,Veronica derwentiana,Veronica,KNApSAcK
+337,C00063596,1016987-86-2,Derwentioside A,C22H26O10,450.15259705,Veronica catarractae,Veronica,KNApSAcK
+338,C00063596,1016987-86-2,Derwentioside A,C22H26O10,450.15259705,Veronica perfoliata,Veronica,KNApSAcK
+339,C00063597,1016987-87-3,Derwentioside B,C22H26O11,466.14751167,Veronica derwentiana,Veronica,KNApSAcK
+340,C00063597,1016987-87-3,Derwentioside B,C22H26O11,466.14751167,Veronica catarractae,Veronica,KNApSAcK
+341,C00063597,1016987-87-3,Derwentioside B,C22H26O11,466.14751167,Veronica perfoliata,Veronica,KNApSAcK
+342,C00063598,1016987-89-5,Derwentioside C,C23H28O12,496.15807636,Veronica derwentiana,Veronica,KNApSAcK
+343,C00063598,1016987-89-5,Derwentioside C,C23H28O12,496.15807636,Veronica catarractae,Veronica,KNApSAcK
+344,C00063598,1016987-89-5,Derwentioside C,C23H28O12,496.15807636,Veronica perfoliata,Veronica,KNApSAcK
+345,C00063599,1016987-92-0,Catarractoside,C21H33ClO14,544.15588347,Veronica catarractae,Veronica,KNApSAcK
+346,C00063599,1016987-92-0,Catarractoside,C21H33ClO14,544.15588347,Veronica perfoliata,Veronica,KNApSAcK
+347,C00063599,1016987-92-0,Catarractoside,C21H33ClO14,544.15588347,Veronica derwentiana,Veronica,KNApSAcK
+348,C00063702,1201640-32-5,Longifolioside B,C24H29ClO13,560.12966872,Veronica longifolia,Veronica,KNApSAcK
+349,C00063735,1246457-29-3,Longifolioside A,C22H27ClO13,534.11401866,Veronica longifolia,Veronica,KNApSAcK
+350,C00063742,1254045-52-7,Chionoside D,C40H54O25,934.29541728,Veronica lavaudiana,Veronica,KNApSAcK
+351,C00063769,1308298-61-4,6'-O-Caffeoylcatalpol,C24H28O13,524.15299098,Veronica lavaudiana,Veronica,KNApSAcK
+352,C00063772,1309606-23-2,Lavaudioside A,C31H42O18,702.23711454,Veronica lavaudiana,Veronica,KNApSAcK
+353,C00063773,1309606-26-5,Lavaudioside B,C31H40O18,700.22146448,Veronica lavaudiana,Veronica,KNApSAcK
+354,C00063774,1309606-27-6,Lavaudioside C,C46H58O26,1026.32163203,Veronica lavaudiana,Veronica,KNApSAcK
+355,C00063775,1309606-29-8,Helioside A,C39H52O24,904.28485259,Veronica lavaudiana,Veronica,KNApSAcK
+356,C00063776,1309606-38-9,Helioside B,C48H58O27,1066.31654665,Veronica lavaudiana,Veronica,KNApSAcK
+357,C00063777,1309606-42-5,Helioside C,C40H54O24,918.30050266,Veronica lavaudiana,Veronica,KNApSAcK
+358,C00063784,1312014-30-4,Methoxyflavone,,0.0,Veronica francispetae,Veronica,KNApSAcK
+359,C00063784,1312014-30-4,Methoxyflavone,,0.0,Veronica polita,Veronica,KNApSAcK
+360,C00063784,1312014-30-4,Methoxyflavone,,0.0,Veronica persica,Veronica,KNApSAcK
+361,C00063784,1312014-30-4,Methoxyflavone,,0.0,Veronica siaretensis,Veronica,KNApSAcK
+362,C00063831,1370465-09-0,Chionoside J,C35H46O21,802.25315854,Veronica beccabunga,Veronica,KNApSAcK
+363,C00063844,1401523-22-5,Quercetin hexoside,C21H20O12,464.09547611,Veronica montana,Veronica,KNApSAcK
+364,C00063844,1401523-22-5,Quercetin hexoside,C21H20O12,464.09547611,Veronica polita,Veronica,KNApSAcK
+365,C00063844,1401523-22-5,Quercetin hexoside,C21H20O12,464.09547611,Veronica spuria,Veronica,KNApSAcK
+366,C00063954,1615652-83-9,10-O-Protocatechuyl-catalpol,C22H26O13,498.13734092,Veronica americana,Veronica,KNApSAcK
+367,C00064106,1961245-47-5,6-O-Isovanilloylcatalpol,C23H28O13,512.15299098,Veronica siaretensis,Veronica,KNApSAcK
+368,C00064106,1961245-47-5,6-O-Isovanilloylcatalpol,C23H28O13,512.15299098,Veronica cuneifolia,Veronica,KNApSAcK
+369,C00064106,1961245-47-5,6-O-Isovanilloylcatalpol,C23H28O13,512.15299098,Veronica persica,Veronica,KNApSAcK
+370,C00064106,1961245-47-5,6-O-Isovanilloylcatalpol,C23H28O13,512.15299098,Veronica polita,Veronica,KNApSAcK
+371,C00064106,1961245-47-5,6-O-Isovanilloylcatalpol,C23H28O13,512.15299098,Veronica francispetae,Veronica,KNApSAcK
+372,C00064197,227290-73-5,Fuhsioside,C21H24O11,452.13186161,Veronica fuhsii,Veronica,KNApSAcK
+373,C00064342,474646-73-6,Multifidoside,C57H92O27,1208.58259774,Veronica multifida,Veronica,KNApSAcK
+374,C00064342,474646-73-6,Multifidoside,C57H92O27,1208.58259774,Veronica fuhsii,Veronica,KNApSAcK
+375,C00064343,475113-28-1,Globularitol,C22H32O14,520.17920573,Veronica lavaudiana,Veronica,KNApSAcK
+376,C00064459,639826-03-2,Urphoside B,C23H29ClO13,548.12966872,Veronica pectinata,Veronica,KNApSAcK
+377,C00064459,639826-03-2,Urphoside B,C23H29ClO13,548.12966872,Veronica longifolia,Veronica,KNApSAcK
+378,C00064587,86848-73-9,Aculeatiside A,C51H82O22,1046.52977431,Veronica fuhsii,Veronica,KNApSAcK

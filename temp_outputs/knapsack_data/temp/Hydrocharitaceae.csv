@@ -1,0 +1,174 @@
+,C_ID,CAS ID,example_compound_name,Molecular formula,Mw,Organism,knapsack_search_term,Source
+0,C00004161,74696-01-8,Apigenin 7-glucuronosyl-(1->2)-glucuronide,C27H26O17,622.11699941,Elodea canadensis,Elodea,KNApSAcK
+1,C00004288,96400-45-2,Luteolin 7-glucuronosyl-(1->2)-glucuronide,C27H26O18,638.11191403,Elodea canadensis,Elodea,KNApSAcK
+2,C00004346,83097-46-5,Luteolin 3'-methyl ether 7-glucuronosyl-(1->2)-glucuronide,C28H28O18,652.12756409,Elodea canadensis,Elodea,KNApSAcK
+0,C00000105,30536-48-2,Caulilexin C,C11H10N2O,186.07931296,Thellungiella halophila,Halophila,KNApSAcK
+1,C00000107,771-51-7,Indole-3-acetonitrile,C10H8N2,156.06874827,Thellungiella halophila,Halophila,KNApSAcK
+2,C00000615,501-16-6,Caffeic acid,C9H8O4,180.04225874,Halophila minor,Halophila,KNApSAcK
+3,C00000615,501-16-6,Caffeic acid,C9H8O4,180.04225874,Halophila engelmannii,Halophila,KNApSAcK
+4,C00000615,501-16-6,Caffeic acid,C9H8O4,180.04225874,Halophila hawaiiana,Halophila,KNApSAcK
+5,C00000674,491-70-3,"5,7,3',4'-Tetrahydroxyflavone",C15H10O6,286.04773805,Halophila johnsonii,Halophila,KNApSAcK
+6,C00000856,99-96-7,4-hydroxybenzoic acid,C7H6O3,138.03169406,Halophila hawaiiana,Halophila,KNApSAcK
+7,C00000856,99-96-7,4-hydroxybenzoic acid,C7H6O3,138.03169406,Halophila engelmannii,Halophila,KNApSAcK
+8,C00000856,99-96-7,4-hydroxybenzoic acid,C7H6O3,138.03169406,Halophila minor,Halophila,KNApSAcK
+9,C00001029,491-71-4,Chrysoeriol,C16H12O6,300.06338812,Halophila stipulacea,Halophila,KNApSAcK
+10,C00001043,437-64-9,"5,4'-Dihydroxy-7-methoxyflavone",C16H12O5,284.06847349,Halophila stipulacea,Halophila,KNApSAcK
+11,C00001071,529-44-2,Myricetin,C15H10O8,318.0375673,Halophila johnsonii,Halophila,KNApSAcK
+12,C00002647,149-91-7,Gallic acid,C7H6O5,170.0215233,Halophila minor,Halophila,KNApSAcK
+13,C00002648,490-79-9,Gentisic acid,C7H6O4,154.02660868,Halophila hawaiiana,Halophila,KNApSAcK
+14,C00002668,99-50-3,"3,4-Dihydroxybenzoic acid",C7H6O4,154.02660868,Halophila engelmannii,Halophila,KNApSAcK
+15,C00002668,99-50-3,"3,4-Dihydroxybenzoic acid",C7H6O4,154.02660868,Halophila hawaiiana,Halophila,KNApSAcK
+16,C00002682,121-34-6,Vanillic acid,C8H8O4,168.04225874,Halophila hawaiiana,Halophila,KNApSAcK
+17,C00002682,121-34-6,Vanillic acid,C8H8O4,168.04225874,Halophila engelmannii,Halophila,KNApSAcK
+18,C00002743,1135-24-6,Ferulic acid,C10H10O4,194.05790881,Halophila engelmannii,Halophila,KNApSAcK
+19,C00003647,474-62-4,Campesterol,C28H48O,400.37051615,Halophila spinulosa,Halophila,KNApSAcK
+20,C00003647,474-62-4,Campesterol,C28H48O,400.37051615,Halophila ovata,Halophila,KNApSAcK
+21,C00003647,474-62-4,Campesterol,C28H48O,400.37051615,Halophila ovalis,Halophila,KNApSAcK
+22,C00003648,57-88-5,Cholesterol,C27H46O,386.35486609,Halophila spinulosa,Halophila,KNApSAcK
+23,C00003648,57-88-5,Cholesterol,C27H46O,386.35486609,Halophila ovalis,Halophila,KNApSAcK
+24,C00003648,57-88-5,Cholesterol,C27H46O,386.35486609,Halophila ovata,Halophila,KNApSAcK
+25,C00003656,481-14-1,Isofucosterol,C29H48O,412.37051615,Halophila spinulosa,Halophila,KNApSAcK
+26,C00003656,481-14-1,Isofucosterol,C29H48O,412.37051615,Halophila ovalis,Halophila,KNApSAcK
+27,C00003656,481-14-1,Isofucosterol,C29H48O,412.37051615,Halophila ovata,Halophila,KNApSAcK
+28,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Halophila ovalis,Halophila,KNApSAcK
+29,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Halophila spinulosa,Halophila,KNApSAcK
+30,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Halophila ovata,Halophila,KNApSAcK
+31,C00003674,83-48-7,beta-Stigmasterol,C29H48O,412.37051615,Halophila ovalis,Halophila,KNApSAcK
+32,C00003674,83-48-7,beta-Stigmasterol,C29H48O,412.37051615,Halophila spinulosa,Halophila,KNApSAcK
+33,C00003674,83-48-7,beta-Stigmasterol,C29H48O,412.37051615,Halophila ovata,Halophila,KNApSAcK
+34,C00003817,520-36-5,Apigenin,C15H10O5,270.05282343,Halophila stipulacea,Halophila,KNApSAcK
+35,C00003817,520-36-5,Apigenin,C15H10O5,270.05282343,Halophila johnsonii,Halophila,KNApSAcK
+36,C00003835,23130-22-5,ladanetin,C16H12O6,300.06338812,Halophila johnsonii,Halophila,KNApSAcK
+37,C00003886,22384-63-0,6-Hydroxyluteolin 6-methyl ether,C16H12O7,316.05830274,Halophila johnsonii,Halophila,KNApSAcK
+38,C00004220,26046-94-6,Plantaginin,C21H20O11,448.10056148,Halophila johnsonii,Halophila,KNApSAcK
+39,C00004386,54300-65-1,6-Hydroxyluteolin 7-glucoside,C21H20O12,464.09547611,Halophila johnsonii,Halophila,KNApSAcK
+40,C00007329,4837-74-5,Arvelexin,C11H10N2O,186.07931296,Thellungiella halophila,Halophila,KNApSAcK
+41,C00026890,253676-41-4,Wasalexin A,C13H14N2O2S2,294.04966917,Thellungiella halophila ecotype Shandong,Halophila,KNApSAcK
+42,C00026891,253676-42-5,Wasalexin B,C13H14N2O2S2,294.04966917,Thellungiella halophila ecotype Shandong,Halophila,KNApSAcK
+43,C00034053,142449-75-0,Methoxybrassenin B,C13H14N2O2S2,294.04966917,Thellungiella halophila ecotype Shandong,Halophila,KNApSAcK
+44,C00034193,929083-72-7,Rapalexin A,C10H8N2OS,204.03573362,Thellungiella halophila ecotype Shandong,Halophila,KNApSAcK
+45,C00048487,331754-99-5,Neoascorbigen,C16H17NO7,335.10050191,Thellungiella halophila,Halophila,KNApSAcK
+46,C00053051,25429-38-3,Coumaric acid,C9H8O3,164.04734412,Halophila minor,Halophila,KNApSAcK
+47,C00053051,25429-38-3,Coumaric acid,C9H8O3,164.04734412,Halophila hawaiiana,Halophila,KNApSAcK
+48,C00053051,25429-38-3,Coumaric acid,C9H8O3,164.04734412,Halophila engelmannii,Halophila,KNApSAcK
+49,C00055107,1207609-95-7,Biswasalexin A1,C26H28N4O4S4,588.09933833,Thellungiella halophila,Halophila,KNApSAcK
+50,C00055108,1207609-96-8,Biswasalexin A2,C26H28N4O4S4,588.09933833,Thellungiella halophila,Halophila,KNApSAcK
+0,C00003673,481-18-5,Spinasterol,C29H48O,412.37051615,Vallisneria spiralis,Vallisneria,KNApSAcK
+0,C00000010,118-34-3,Syringin,C17H24O9,372.14203237,Thalassia hemprichii,Thalassia,KNApSAcK
+1,C00000152,7400-08-0,p-Coumaric acid,C9H8O3,164.04734412,Thalassia testudinum,Thalassia,KNApSAcK
+2,C00000615,501-16-6,Caffeic acid,C9H8O4,180.04225874,Thalassia ciliatum,Thalassia,KNApSAcK
+3,C00000615,501-16-6,Caffeic acid,C9H8O4,180.04225874,Thalassia testudinum,Thalassia,KNApSAcK
+4,C00000615,501-16-6,Caffeic acid,C9H8O4,180.04225874,Thalassia hemprichii,Thalassia,KNApSAcK
+5,C00000856,99-96-7,4-hydroxybenzoic acid,C7H6O3,138.03169406,Thalassia hemprichii,Thalassia,KNApSAcK
+6,C00000856,99-96-7,4-hydroxybenzoic acid,C7H6O3,138.03169406,Thalassia testudinum,Thalassia,KNApSAcK
+7,C00000856,99-96-7,4-hydroxybenzoic acid,C7H6O3,138.03169406,Thalassia ciliatum,Thalassia,KNApSAcK
+8,C00000940,520-42-3,Asebogenin,C16H16O5,288.09977362,Thalassia ciliatum,Thalassia,KNApSAcK
+9,C00000947,154-23-4,(+)-Catechin,C15H14O6,290.07903818,Thalassia ciliatum,Thalassia,KNApSAcK
+10,C00001029,491-71-4,Chrysoeriol,C16H12O6,300.06338812,Thalassia testudinum,Thalassia,KNApSAcK
+11,C00002647,149-91-7,Gallic acid,C7H6O5,170.0215233,Thalassia hemprichii,Thalassia,KNApSAcK
+12,C00002648,490-79-9,Gentisic acid,C7H6O4,154.02660868,Thalassia hemprichii,Thalassia,KNApSAcK
+13,C00002648,490-79-9,Gentisic acid,C7H6O4,154.02660868,Thalassia testudinum,Thalassia,KNApSAcK
+14,C00002657,123-08-0,4-Hydroxybenzaldehyde,C7H6O2,122.03677944,Thalassia testudinum,Thalassia,KNApSAcK
+15,C00002668,99-50-3,"3,4-Dihydroxybenzoic acid",C7H6O4,154.02660868,Thalassia testudinum,Thalassia,KNApSAcK
+16,C00002668,99-50-3,"3,4-Dihydroxybenzoic acid",C7H6O4,154.02660868,Thalassia hemprichii,Thalassia,KNApSAcK
+17,C00002668,99-50-3,"3,4-Dihydroxybenzoic acid",C7H6O4,154.02660868,Thalassia ciliatum,Thalassia,KNApSAcK
+18,C00002682,121-34-6,Vanillic acid,C8H8O4,168.04225874,Thalassia testudinum,Thalassia,KNApSAcK
+19,C00002682,121-34-6,Vanillic acid,C8H8O4,168.04225874,Thalassia hemprichii,Thalassia,KNApSAcK
+20,C00002683,5463-22-9,Vanillin,C8H8O3,152.04734412,Thalassia testudinum,Thalassia,KNApSAcK
+21,C00002743,1135-24-6,Ferulic acid,C10H10O4,194.05790881,Thalassia hemprichii,Thalassia,KNApSAcK
+22,C00002743,1135-24-6,Ferulic acid,C10H10O4,194.05790881,Thalassia ciliatum,Thalassia,KNApSAcK
+23,C00002743,1135-24-6,Ferulic acid,C10H10O4,194.05790881,Thalassia testudinum,Thalassia,KNApSAcK
+24,C00002770,20283-92-5,Labiatenic acid,C18H16O8,360.08451749,Thalassia hemprichii,Thalassia,KNApSAcK
+25,C00003647,474-62-4,Campesterol,C28H48O,400.37051615,Thalassia hemprichii,Thalassia,KNApSAcK
+26,C00003648,57-88-5,Cholesterol,C27H46O,386.35486609,Thalassia hemprichii,Thalassia,KNApSAcK
+27,C00003656,481-14-1,Isofucosterol,C29H48O,412.37051615,Thalassia hemprichii,Thalassia,KNApSAcK
+28,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Thalassia hemprichii,Thalassia,KNApSAcK
+29,C00003674,83-48-7,beta-Stigmasterol,C29H48O,412.37051615,Thalassia hemprichii,Thalassia,KNApSAcK
+30,C00003817,520-36-5,Apigenin,C15H10O5,270.05282343,Thalassia testudinum,Thalassia,KNApSAcK
+31,C00003848,41440-05-5,Isoscutellarein,C15H10O6,286.04773805,Thalassia hemprichii,Thalassia,KNApSAcK
+32,C00005413,153-18-4,Quercetin 3-rutinoside,C27H30O16,610.15338491,Thalassia ciliatum,Thalassia,KNApSAcK
+33,C00005427,6892-74-6,"Quercetin 3,7-O-beta-diglucopyranoside",C27H30O17,626.14829954,Thalassia ciliatum,Thalassia,KNApSAcK
+34,C00007992,11075-15-3,Asebotin,C22H26O10,450.15259705,Thalassia ciliatum,Thalassia,KNApSAcK
+35,C00013671,207683-70-3,Thalassiolin A,C21H20O14S,528.05737608,Thalassia hemprichii,Thalassia,KNApSAcK
+36,C00013671,207683-70-3,Thalassiolin A,C21H20O14S,528.05737608,Thalassia testudinum,Thalassia,KNApSAcK
+37,C00031115,549-32-6,Reinutrin,C20H18O11,434.08491142,Thalassia ciliatum,Thalassia,KNApSAcK
+38,C00034818,6537-80-0,Cichoric acid,C22H18O12,474.07982604,Thalassia hemprichii,Thalassia,KNApSAcK
+39,C00042128,850650-31-6,3-Hydroxyasebotin,C22H26O11,466.14751167,Thalassia ciliatum,Thalassia,KNApSAcK
+40,C00053051,25429-38-3,Coumaric acid,C9H8O3,164.04734412,Thalassia testudinum,Thalassia,KNApSAcK
+41,C00053051,25429-38-3,Coumaric acid,C9H8O3,164.04734412,Thalassia hemprichii,Thalassia,KNApSAcK
+42,C00055599,530-45-0,"1,1-Bis(p-tolyl)-ethane",C16H18,210.14085057,Thalassia testudinum,Thalassia,KNApSAcK
+43,C00055684,18970-30-4,"4,4'-diisopropylbiphenyl",C18H22,238.1721507,Thalassia testudinum,Thalassia,KNApSAcK
+44,C00056172,518057-59-5,Thalassiolin B,C22H22O14S,542.07302614,Thalassia hemprichii,Thalassia,KNApSAcK
+45,C00056172,518057-59-5,Thalassiolin B,C22H22O14S,542.07302614,Thalassia testudinum,Thalassia,KNApSAcK
+46,C00056173,518057-56-2,Thalassiolin C,C21H20O13S,512.06246146,Thalassia testudinum,Thalassia,KNApSAcK
+0,C00000674,491-70-3,"5,7,3',4'-Tetrahydroxyflavone",C15H10O6,286.04773805,Enhalus acoroides,Enhalus,KNApSAcK
+1,C00000856,99-96-7,4-hydroxybenzoic acid,C7H6O3,138.03169406,Enhalus acoroides,Enhalus,KNApSAcK
+2,C00002647,149-91-7,Gallic acid,C7H6O5,170.0215233,Enhalus acoroides,Enhalus,KNApSAcK
+3,C00002657,123-08-0,4-Hydroxybenzaldehyde,C7H6O2,122.03677944,Enhalus acoroides,Enhalus,KNApSAcK
+4,C00003647,474-62-4,Campesterol,C28H48O,400.37051615,Enhalus acoroides,Enhalus,KNApSAcK
+5,C00003648,57-88-5,Cholesterol,C27H46O,386.35486609,Enhalus acoroides,Enhalus,KNApSAcK
+6,C00003656,481-14-1,Isofucosterol,C29H48O,412.37051615,Enhalus acoroides,Enhalus,KNApSAcK
+7,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Enhalus acoroides,Enhalus,KNApSAcK
+8,C00003674,83-48-7,beta-Stigmasterol,C29H48O,412.37051615,Enhalus acoroides,Enhalus,KNApSAcK
+9,C00003817,520-36-5,Apigenin,C15H10O5,270.05282343,Enhalus acoroides,Enhalus,KNApSAcK
+10,C00004274,53527-42-7,Luteolin 3'-O-beta-D-glucuronide,C21H18O12,462.07982604,Enhalus acoroides,Enhalus,KNApSAcK
+11,C00019308,474-58-8,3-O-beta-D-Glucopyranosyl sitosterol,C35H60O6,576.43898965,Enhalus acoroides,Enhalus,KNApSAcK
+12,C00037441,53527-43-8,Luteolin 4'-glucuronide,C21H18O12,462.07982604,Enhalus acoroides,Enhalus,KNApSAcK
+0,C00006678,64164-89-2,5-Methylcyanidin 3-glucoside,C22H23O11,463.12403658,Egeria densa,Egeria,KNApSAcK
+0,C00000615,501-16-6,Caffeic acid,C9H8O4,180.04225874,Salvinia molesta D.S.Mitch.,Salvinia,KNApSAcK
+1,C00002770,20283-92-5,Labiatenic acid,C18H16O8,360.08451749,Salvinia molesta,Salvinia,KNApSAcK
+2,C00003011,23180-57-6,Paeoniflorin,C23H28O11,480.16316174,Salvinia molesta D.S.Mitch.,Salvinia,KNApSAcK
+3,C00031030,231280-24-3,Pikuroside,C23H30O14,530.16355567,Salvinia molesta D.S.Mitch.,Salvinia,KNApSAcK
+4,C00034054,93-58-3,Methyl benzoate,C8H8O2,136.0524295,Salvinia molesta D.S.Mitch.,Salvinia,KNApSAcK
+0,C00049493,1466-67-7,"N,N'-Dibenzylurea",C15H16N2O,240.12626315,Pentadiplandra brazzeana,Diplandra,KNApSAcK
+0,C00000615,501-16-6,Caffeic acid,C9H8O4,180.04225874,Zostera muelleri,Zostera,KNApSAcK
+1,C00000615,501-16-6,Caffeic acid,C9H8O4,180.04225874,Zostera noltii,Zostera,KNApSAcK
+2,C00000615,501-16-6,Caffeic acid,C9H8O4,180.04225874,Zostera capricorni,Zostera,KNApSAcK
+3,C00000615,501-16-6,Caffeic acid,C9H8O4,180.04225874,Zostera marina,Zostera,KNApSAcK
+4,C00000856,99-96-7,4-hydroxybenzoic acid,C7H6O3,138.03169406,Zostera noltii,Zostera,KNApSAcK
+5,C00000856,99-96-7,4-hydroxybenzoic acid,C7H6O3,138.03169406,Zostera tasmanica,Zostera,KNApSAcK
+6,C00000856,99-96-7,4-hydroxybenzoic acid,C7H6O3,138.03169406,Zostera capricorni,Zostera,KNApSAcK
+7,C00000856,99-96-7,4-hydroxybenzoic acid,C7H6O3,138.03169406,Zostera marina,Zostera,KNApSAcK
+8,C00000856,99-96-7,4-hydroxybenzoic acid,C7H6O3,138.03169406,Zostera muelleri,Zostera,KNApSAcK
+9,C00001112,36465-64-2,beta-D-Apiose,C5H10O5,150.05282343,Zostera nana,Zostera,KNApSAcK
+10,C00002647,149-91-7,Gallic acid,C7H6O5,170.0215233,Zostera muelleri,Zostera,KNApSAcK
+11,C00002647,149-91-7,Gallic acid,C7H6O5,170.0215233,Zostera capricorni,Zostera,KNApSAcK
+12,C00002647,149-91-7,Gallic acid,C7H6O5,170.0215233,Zostera marina,Zostera,KNApSAcK
+13,C00002648,490-79-9,Gentisic acid,C7H6O4,154.02660868,Zostera capricorni,Zostera,KNApSAcK
+14,C00002648,490-79-9,Gentisic acid,C7H6O4,154.02660868,Zostera marina,Zostera,KNApSAcK
+15,C00002668,99-50-3,"3,4-Dihydroxybenzoic acid",C7H6O4,154.02660868,Zostera marina,Zostera,KNApSAcK
+16,C00002668,99-50-3,"3,4-Dihydroxybenzoic acid",C7H6O4,154.02660868,Zostera capricorni,Zostera,KNApSAcK
+17,C00002682,121-34-6,Vanillic acid,C8H8O4,168.04225874,Zostera marina,Zostera,KNApSAcK
+18,C00002743,1135-24-6,Ferulic acid,C10H10O4,194.05790881,Zostera capricorni,Zostera,KNApSAcK
+19,C00002743,1135-24-6,Ferulic acid,C10H10O4,194.05790881,Zostera marina,Zostera,KNApSAcK
+20,C00002770,20283-92-5,Labiatenic acid,C18H16O8,360.08451749,Zostera noltii,Zostera,KNApSAcK
+21,C00002770,20283-92-5,Labiatenic acid,C18H16O8,360.08451749,Zostera marina,Zostera,KNApSAcK
+22,C00004331,59176-62-4,"Luteolin 7,3'-disulfate",C15H10O12S2,445.96136725,Zostera marina,Zostera,KNApSAcK
+23,C00004356,60048-90-0,Luteolin 3'-methyl ether 7-sulfate,C16H12O9S,380.02020271,Zostera marina,Zostera,KNApSAcK
+24,C00004366,60048-91-1,Luteolin 4'-methyl ether 7-sulfate,C16H12O9S,380.02020271,Zostera marina,Zostera,KNApSAcK
+25,C00014632,145039-89-0,Zosterin,C25H28O12,520.15807636,Zostera sp.,Zostera,KNApSAcK
+26,C00053051,25429-38-3,Coumaric acid,C9H8O3,164.04734412,Zostera capricorni,Zostera,KNApSAcK
+27,C00053051,25429-38-3,Coumaric acid,C9H8O3,164.04734412,Zostera marina,Zostera,KNApSAcK
+28,C00053051,25429-38-3,Coumaric acid,C9H8O3,164.04734412,Zostera muelleri,Zostera,KNApSAcK
+29,C00053051,25429-38-3,Coumaric acid,C9H8O3,164.04734412,Zostera noltii,Zostera,KNApSAcK
+30,C00056286,151481-49-1,Zosteric acid,C9H8O6S,244.00415872,Zostera noltii,Zostera,KNApSAcK
+31,C00056286,151481-49-1,Zosteric acid,C9H8O6S,244.00415872,Zostera marina,Zostera,KNApSAcK
+0,C00003848,41440-05-5,Isoscutellarein,C15H10O6,286.04773805,Odixia angusta,Ixia,KNApSAcK
+1,C00003848,41440-05-5,Isoscutellarein,C15H10O6,286.04773805,Odixia achlaena,Ixia,KNApSAcK
+2,C00003851,51876-19-8,Takakin,C16H12O6,300.06338812,Odixia achlaena,Ixia,KNApSAcK
+3,C00003851,51876-19-8,Takakin,C16H12O6,300.06338812,Odixia angusta,Ixia,KNApSAcK
+4,C00004533,548-83-4,Galangin,C15H10O5,270.05282343,Odixia spp.,Ixia,KNApSAcK
+5,C00023374,83991-76-8,Secoathrixic acid,C20H32O3,320.23514489,Athrixia elata,Ixia,KNApSAcK
+6,C00024335,2506-26-5,(-)-Vincamajine,C22H26N2O3,366.19434271,Alstonia legouixiae,Ixia,KNApSAcK
+7,C00041717,878552-35-3,Pachydermin,C13H8ClNO6,309.00401471,Chamonixia pachydermis,Ixia,KNApSAcK
+0,C00028171,133401-12-4,Dercitamide,C21H18N4OS,374.12013196,Oceanapia sagittaria,Sagittaria,KNApSAcK
+1,C00028952,185543-92-4,Sagitol,C21H18N4O2S,390.11504658,Oceanapia sagittaria,Sagittaria,KNApSAcK
+2,C00041813,116965-48-1,Sagittine A,C20H30O2,302.2245802,Sagittaria sagittifolia,Sagittaria,KNApSAcK
+3,C00041814,878157-94-9,Sagittine B,C25H40O5,420.28757439,Sagittaria sagittifolia,Sagittaria,KNApSAcK
+4,C00041815,878157-96-1,Sagittine C,C27H42O6,462.29813907,Sagittaria sagittifolia,Sagittaria,KNApSAcK
+5,C00041816,878157-98-3,Sagittine D,C27H42O6,462.29813907,Sagittaria sagittifolia,Sagittaria,KNApSAcK
+6,C00041817,878158-00-0,Sagittine E,C29H44O7,504.30870376,Sagittaria sagittifolia,Sagittaria,KNApSAcK
+7,C00041818,878158-01-1,Sagittine F,C29H44O7,504.30870376,Sagittaria sagittifolia,Sagittaria,KNApSAcK
+8,C00041819,878158-02-2,Sagittine G,C20H32O3,320.23514489,Sagittaria sagittifolia,Sagittaria,KNApSAcK
+9,C00060477,1808014-11-0,"[(1S,4aR,4bS,7S,10aR)-7-Ethenyl-1,2,3,4,4a,4b,5,6,7,8,10,10a-dodecahydro-1,4a,7-trimethyl-1-phenanthrenyl]methyl alpha-L-arabinofuranoside",C25H40O5,420.28757439,Sagittaria latifolia,Sagittaria,KNApSAcK
+10,C00060478,1808014-12-1,"[(1S,4aR,4bS,7S,10aR)-7-Ethenyl-1,2,3,4,4a,4b,5,6,7,8,10,10a-dodecahydro-1,4a,7-trimethyl-1-phenanthrenyl]methyl alpha-L-arabinofuranoside, 5-acetate",C27H42O6,462.29813907,Sagittaria latifolia,Sagittaria,KNApSAcK

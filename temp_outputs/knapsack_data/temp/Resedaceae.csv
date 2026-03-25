@@ -1,0 +1,364 @@
+,C_ID,CAS ID,example_compound_name,Molecular formula,Mw,Organism,knapsack_search_term,Source
+0,C00000125,4356-52-9,Glucobrassicin,C16H20N2O9S2,448.06102171,Reseda crystallina,Reseda,KNApSAcK
+1,C00000125,4356-52-9,Glucobrassicin,C16H20N2O9S2,448.06102171,Reseda odorata,Reseda,KNApSAcK
+2,C00000125,4356-52-9,Glucobrassicin,C16H20N2O9S2,448.06102171,Reseda media,Reseda,KNApSAcK
+3,C00000125,4356-52-9,Glucobrassicin,C16H20N2O9S2,448.06102171,Reseda luteola,Reseda,KNApSAcK
+4,C00000125,4356-52-9,Glucobrassicin,C16H20N2O9S2,448.06102171,Reseda alba,Reseda,KNApSAcK
+5,C00000125,4356-52-9,Glucobrassicin,C16H20N2O9S2,448.06102171,Reseda complicata,Reseda,KNApSAcK
+6,C00000125,4356-52-9,Glucobrassicin,C16H20N2O9S2,448.06102171,Reseda lutea,Reseda,KNApSAcK
+7,C00000126,5187-84-8,Neoglucobrassicin,C17H22N2O10S2,478.0715864,Resedaceae,Reseda,KNApSAcK
+8,C00000126,5187-84-8,Neoglucobrassicin,C17H22N2O10S2,478.0715864,Reseda complicata,Reseda,KNApSAcK
+9,C00000615,501-16-6,Caffeic acid,C9H8O4,180.04225874,Reseda muricata C.Presl.,Reseda,KNApSAcK
+10,C00000674,491-70-3,"5,7,3',4'-Tetrahydroxyflavone",C15H10O6,286.04773805,Reseda muricata C.Presl.,Reseda,KNApSAcK
+11,C00000674,491-70-3,"5,7,3',4'-Tetrahydroxyflavone",C15H10O6,286.04773805,Reseda luteola,Reseda,KNApSAcK
+12,C00000856,99-96-7,4-hydroxybenzoic acid,C7H6O3,138.03169406,Reseda muricata C.Presl.,Reseda,KNApSAcK
+13,C00001469,28463-28-7,Glucoconringiin,C11H21NO10S2,391.06068736,Reseda alba,Reseda,KNApSAcK
+14,C00002591,18423-69-3,Cubebin,C20H20O6,356.12598837,Reseda suffruticosa,Reseda,KNApSAcK
+15,C00002724,327-97-9,3-O-Caffeoylquinic acid,C16H18O9,354.09508217,Reseda muricata C.Presl.,Reseda,KNApSAcK
+16,C00002743,1135-24-6,Ferulic acid,C10H10O4,194.05790881,Reseda muricata C.Presl.,Reseda,KNApSAcK
+17,C00003817,520-36-5,Apigenin,C15H10O5,270.05282343,Reseda muricata C.Presl.,Reseda,KNApSAcK
+18,C00004290,52187-80-1,"Luteolin 3',7-di-O-beta-glucoside",C27H30O16,610.15338491,Reseda luteola,Reseda,KNApSAcK
+19,C00004565,520-18-3,Kaempferol,C15H10O6,286.04773805,Reseda muricata C.Presl.,Reseda,KNApSAcK
+20,C00005149,16290-07-6,Kaempferol 7-O-beta-D-glucopyranoside,C21H20O11,448.10056148,Reseda muricata C.Presl.,Reseda,KNApSAcK
+21,C00005562,28289-13-6,Isorhamnetin 3-glucoside-4'-rhamnoside,C28H32O16,624.16903498,Reseda gredensis,Reseda,KNApSAcK
+22,C00007204,548-29-8,Isolariciresinol,C20H24O6,360.1572885,Reseda suffruticosa,Reseda,KNApSAcK
+23,C00007346,499-26-3,Benzylglucosinolate,C14H19NO9S2,409.05012267,Reseda media,Reseda,KNApSAcK
+24,C00007346,499-26-3,Benzylglucosinolate,C14H19NO9S2,409.05012267,Reseda lutea,Reseda,KNApSAcK
+25,C00007350,499-30-9,2-Phenylethylglucosinolate,C15H21NO9S2,423.06577274,Reseda media,Reseda,KNApSAcK
+26,C00007350,499-30-9,2-Phenylethylglucosinolate,C15H21NO9S2,423.06577274,Reseda luteola,Reseda,KNApSAcK
+27,C00007350,499-30-9,2-Phenylethylglucosinolate,C15H21NO9S2,423.06577274,Reseda stricta,Reseda,KNApSAcK
+28,C00007350,499-30-9,2-Phenylethylglucosinolate,C15H21NO9S2,423.06577274,Reseda alba,Reseda,KNApSAcK
+29,C00007803,,2-Hydroxybenzyl glucosinolate,C14H19NO10S2,425.0450373,Reseda odorata,Reseda,KNApSAcK
+30,C00007804,59204-64-7,3-Hydorxybenzyl glucosinolate,C14H19NO10S2,425.0450373,Reseda media,Reseda,KNApSAcK
+31,C00007805,19253-84-0,4-Hydroxybenzyl glucosinolate,C14H19NO10S2,425.0450373,Reseda lutea,Reseda,KNApSAcK
+32,C00007805,19253-84-0,4-Hydroxybenzyl glucosinolate,C14H19NO10S2,425.0450373,Reseda alba,Reseda,KNApSAcK
+33,C00007805,19253-84-0,4-Hydroxybenzyl glucosinolate,C14H19NO10S2,425.0450373,Reseda luteola,Reseda,KNApSAcK
+34,C00007805,19253-84-0,4-Hydroxybenzyl glucosinolate,C14H19NO10S2,425.0450373,Reseda stricta,Reseda,KNApSAcK
+35,C00007816,,2(R)-Hydroxy-2-phenylethyl glucosinolate,C15H21NO10S2,439.06068736,Reseda luteola,Reseda,KNApSAcK
+36,C00007859,,2-(alpha-L-Rhamnopyranosyloxy)benzyl glucosinolate,C20H29NO14S2,571.1029461,Reseda odorata,Reseda,KNApSAcK
+37,C00013799,352283-41-1,Kaempferol 3-glucosyl-(1->2)-rhamnoside-7-(6''-(E)-p-coumaroylglucoside),C42H46O22,902.24807316,Reseda muricata,Reseda,KNApSAcK
+38,C00051349,66855-47-8,Lutine,C16H11NO5,297.06372247,Reseda luteola,Reseda,KNApSAcK
+0,C00007805,19253-84-0,4-Hydroxybenzyl glucosinolate,C14H19NO10S2,425.0450373,Caylusea abyssinica,Caylusea,KNApSAcK
+1,C00007816,,2(R)-Hydroxy-2-phenylethyl glucosinolate,C15H21NO10S2,439.06068736,Caylusea abyssinica,Caylusea,KNApSAcK
+0,C00007350,499-30-9,2-Phenylethylglucosinolate,C15H21NO9S2,423.06577274,Sesamoides canescens,Sesamoides,KNApSAcK
+1,C00007350,499-30-9,2-Phenylethylglucosinolate,C15H21NO9S2,423.06577274,Sesamoides pygmaea,Sesamoides,KNApSAcK
+2,C00007790,80754-95-6,2-(alpha-L-Arabinopyranosyloxyl)-2-phenylethyl glucosinolate,C20H29NO14S2,571.1029461,Sesamoides canescens,Sesamoides,KNApSAcK
+3,C00007816,,2(R)-Hydroxy-2-phenylethyl glucosinolate,C15H21NO10S2,439.06068736,Sesamoides canescens,Sesamoides,KNApSAcK
+0,C00005140,482-39-3,Afzelin,C21H20O10,432.10564686,Ochradenus baccatus,Ochradenus,KNApSAcK
+1,C00005374,522-12-3,Quercetin 3-O-alpha-L-rhamnoside,C21H20O11,448.10056148,Ochradenus baccatus,Ochradenus,KNApSAcK
+2,C00005411,7431-83-6,Quercetin 3-gentiobioside,C27H30O17,626.14829954,Ochradenus baccatus,Ochradenus,KNApSAcK
+3,C00005475,138989-37-4,Quercetin 3-glucosyl-(1->2)-rhamnoside-7-rhamnoside,C33H40O20,756.21129372,Ochradenus baccatus,Ochradenus,KNApSAcK
+4,C00005999,138989-38-5,Quercetin 3-(6'''-p-coumaryl-gentiobioside)-7-rhamnoside,C42H46O23,918.24298778,Ochradenus baccatus,Ochradenus,KNApSAcK
+0,C00000125,4356-52-9,Glucobrassicin,C16H20N2O9S2,448.06102171,Reseda luteola,Luteola,KNApSAcK
+1,C00000674,491-70-3,"5,7,3',4'-Tetrahydroxyflavone",C15H10O6,286.04773805,Reseda luteola,Luteola,KNApSAcK
+2,C00002075,72741-87-8,Swainsonine,C8H15NO3,173.10519335,Swainsona luteola,Luteola,KNApSAcK
+3,C00004290,52187-80-1,"Luteolin 3',7-di-O-beta-glucoside",C27H30O16,610.15338491,Reseda luteola,Luteola,KNApSAcK
+4,C00004532,6889-78-7,3-Hydroxy-4'-methoxyflavone,C16H12O4,268.07355887,Vigna luteola,Luteola,KNApSAcK
+5,C00005150,20196-89-8,Kaempferol 7-O-rhamnoside,C21H20O10,432.10564686,Vigna luteola,Luteola,KNApSAcK
+6,C00005203,123618-28-0,Kaempferol 3-isorhamninoside,C33H40O19,740.2163791,Vigna luteola,Luteola,KNApSAcK
+7,C00005254,123479-26-5,Kaempferol 3-isorhamninoside-7-rhamnoside,C39H50O23,886.27428791,Vigna luteola,Luteola,KNApSAcK
+8,C00007350,499-30-9,2-Phenylethylglucosinolate,C15H21NO9S2,423.06577274,Reseda luteola,Luteola,KNApSAcK
+9,C00007805,19253-84-0,4-Hydroxybenzyl glucosinolate,C14H19NO10S2,425.0450373,Reseda luteola,Luteola,KNApSAcK
+10,C00007816,,2(R)-Hydroxy-2-phenylethyl glucosinolate,C15H21NO10S2,439.06068736,Reseda luteola,Luteola,KNApSAcK
+11,C00051349,66855-47-8,Lutine,C16H11NO5,297.06372247,Reseda luteola,Luteola,KNApSAcK
+0,C00010784,178600-68-5,Oleoside,C16H22O11,390.11621155,Forestiera acuminata (Michx.) Poir.,Forestiera,KNApSAcK
+0,C00000627,6216-81-5,Lirioresinol B,C22H26O8,418.16276781,Drypetes molunduana Pax and Hoffm,Drypetes,KNApSAcK
+1,C00001467,36286-64-3,Glucocleomin,C12H23NO10S2,405.07633742,Drypetes roxburghii,Drypetes,KNApSAcK
+2,C00001479,18432-16-1,Glucoputranjivin,C10H19NO9S2,361.05012267,Drypetes roxburghii,Drypetes,KNApSAcK
+3,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Drypetes inaequalis,Drypetes,KNApSAcK
+4,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Drypetes tessmanniana,Drypetes,KNApSAcK
+5,C00003674,83-48-7,beta-Stigmasterol,C29H48O,412.37051615,Drypetes inaequalis,Drypetes,KNApSAcK
+6,C00003747,559-74-0,3-Friedelanone,C30H50O,426.38616622,Drypetes tessmanniana,Drypetes,KNApSAcK
+7,C00003747,559-74-0,3-Friedelanone,C30H50O,426.38616622,Drypetes inaequalis,Drypetes,KNApSAcK
+8,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Drypetes tessmanniana,Drypetes,KNApSAcK
+9,C00007342,35610-41-4,4-Hydroxybutylglucosinolate,C11H21NO10S2,391.06068736,Drypetes gossweileri,Drypetes,KNApSAcK
+10,C00019064,508-02-1,Oleanolic acid,C30H48O3,456.3603454,Drypetes inaequalis,Drypetes,KNApSAcK
+11,C00019065,545-48-2,Erythrodiol,C30H50O2,442.38108084,Drypetes molunduana Pax and Hoffm,Drypetes,KNApSAcK
+12,C00029487,279255-75-3,"3beta,6alpha-Dihydroxylup-20(29)-ene",C30H50O2,442.38108084,Drypetes tessmanniana,Drypetes,KNApSAcK
+13,C00030459,465-99-6,Hederagenin,C30H48O4,472.35526002,Drypetes molunduana Pax and Hoffm,Drypetes,KNApSAcK
+14,C00031116,511-82-0,Queretaroic acid,C30H48O4,472.35526002,Drypetes inaequalis,Drypetes,KNApSAcK
+15,C00033565,4339-72-4,3-Acetyl oleanolic acid,C32H50O4,498.37091008,Drypetes molunduana Pax and Hoffm,Drypetes,KNApSAcK
+16,C00037072,307924-65-8,Drypemolundein A,C15H14O4,258.08920894,Drypetes molunduana Pax and Hoffm,Drypetes,KNApSAcK
+17,C00037073,307924-66-9,Drypemolundein B,C30H48O2,440.36543078,Drypetes molunduana Pax and Hoffm,Drypetes,KNApSAcK
+18,C00045528,349655-27-2,1-Hydroxy-7-hydroxymethyl-6-methoxyxanthone,C15H12O5,272.06847349,Drypetes littoralis,Drypetes,KNApSAcK
+19,C00045868,350686-44-1,Drypetenone A,C19H20O4,312.13615913,Drypetes littoralis,Drypetes,KNApSAcK
+20,C00045869,350686-45-2,Drypetenone B,C19H22O4,314.15180919,Drypetes littoralis,Drypetes,KNApSAcK
+21,C00045870,350686-46-3,Drypetenone C,C20H22O5,342.14672381,Drypetes littoralis,Drypetes,KNApSAcK
+22,C00048287,76235-99-9,3-Oxofriedelan-25-al,C30H48O2,440.36543078,Drypetes inaequalis,Drypetes,KNApSAcK
+23,C00048533,25488-57-7,Serjanic acid,C31H48O5,500.35017464,Drypetes inaequalis,Drypetes,KNApSAcK
+0,C00000149,6750-60-3,Espatulenol,C15H24O,220.18271539,Excoecaria parvifolia,Excoecaria,KNApSAcK
+1,C00001203,138-59-0,Shikimic acid,C7H10O5,174.05282343,Excoecaria cochinchinensis var.viridis,Excoecaria,KNApSAcK
+2,C00002647,149-91-7,Gallic acid,C7H6O5,170.0215233,Excoecaria cochinchinensis var.viridis,Excoecaria,KNApSAcK
+3,C00003490,92219-48-2,Terpenoid EA-I,C30H40O8,528.27231825,Excoecaria agallocha,Excoecaria,KNApSAcK
+4,C00003758,127-22-0,Taraxerol,C30H50O,426.38616622,Excoecaria agallocha L.,Excoecaria,KNApSAcK
+5,C00005137,23627-87-4,Kaempferol 3-O-galactoside,C21H20O11,448.10056148,Excoecaria cochinchinensis var.viridis,Excoecaria,KNApSAcK
+6,C00005140,482-39-3,Afzelin,C21H20O10,432.10564686,Excoecaria cochinchinensis var.viridis,Excoecaria,KNApSAcK
+7,C00014413,677274-17-8,"(2R,3R)-3,5,7,3',5'-Pentahydroxyflavanone 3-rhamnoside",C21H22O11,450.11621155,Excoecaria agallocha,Excoecaria,KNApSAcK
+8,C00019226,20460-33-7,3-Epitaraxerol,C30H50O,426.38616622,Excoecaria agallocha L.,Excoecaria,KNApSAcK
+9,C00022388,64657-21-2,Isoforskolin,C22H34O7,410.23045344,Excoecaria cochinchinensis,Excoecaria,KNApSAcK
+10,C00022389,67921-06-6,Coleonol C,C22H34O7,410.23045344,Excoecaria cochinchinensis,Excoecaria,KNApSAcK
+11,C00022654,1616-93-9,beta-Amyrin acetate,C32H52O2,468.3967309,Excoecaria agallocha L.,Excoecaria,KNApSAcK
+12,C00029492,4439-99-0,epi-Lupeol,C30H50O,426.38616622,Excoecaria agallocha L.,Excoecaria,KNApSAcK
+13,C00031781,677709-23-8,Excoecarin V1,C20H30O4,334.21440945,Excoecaria agallocha,Excoecaria,KNApSAcK
+14,C00031782,677709-24-9,Excoecarin V2,C20H30O4,334.21440945,Excoecaria agallocha,Excoecaria,KNApSAcK
+15,C00031783,677709-26-1,Excoecarin V3,C20H32O3,320.23514489,Excoecaria agallocha,Excoecaria,KNApSAcK
+16,C00032287,514-07-8,Taraxerone,C30H48O,424.37051615,Excoecaria agallocha L.,Excoecaria,KNApSAcK
+17,C00034689,28958-15-8,Stachenone,C20H30O,286.22966558,Excoecaria parvifolia,Excoecaria,KNApSAcK
+18,C00037098,173243-81-7,ent-16-hydroxy-3-oxo-13-epi-manoyl oxide,C20H32O3,320.23514489,Excoecaria agallocha L.,Excoecaria,KNApSAcK
+19,C00044754,479665-78-6,Excoecarin R1,C40H64O11,720.44486289,Excoecaria agallocha,Excoecaria,KNApSAcK
+20,C00044755,479665-79-7,Excoecarin R2,C40H64O11,720.44486289,Excoecaria agallocha,Excoecaria,KNApSAcK
+21,C00045214,413615-42-6,Agallochin F,C20H30O3,318.21949482,Excoecaria agallocha,Excoecaria,KNApSAcK
+22,C00045215,413615-43-7,Agallochin G,C20H30O2,302.2245802,Excoecaria agallocha,Excoecaria,KNApSAcK
+23,C00045216,413615-44-8,Agallochin H,C20H30O3,318.21949482,Excoecaria agallocha,Excoecaria,KNApSAcK
+24,C00045217,413615-45-9,Agallochin I,C19H28O3,304.20384476,Excoecaria agallocha,Excoecaria,KNApSAcK
+25,C00046737,263545-01-3,Excoecarin D,C20H30O3,318.21949482,Excoecaria agallocha,Excoecaria,KNApSAcK
+26,C00046738,183900-31-4,Excoecarin E,C20H20O2,292.14632988,Excoecaria agallocha,Excoecaria,KNApSAcK
+27,C00046739,183900-32-5,Excoecarin K,C20H30O2,302.2245802,Excoecaria agallocha,Excoecaria,KNApSAcK
+0,C00000152,7400-08-0,p-Coumaric acid,C9H8O3,164.04734412,Asparagus officinalis,Asparagus,KNApSAcK
+1,C00000302,42258-87-7,Asparagusic acid syn-S-oxide,C4H6O3S2,165.97583552,Asparagus officinalis,Asparagus,KNApSAcK
+2,C00000304,2224-02-4,Asparagusic acid,C4H6O2S2,149.9809209,Asparagus officinalis,Asparagus,KNApSAcK
+3,C00000305,7634-96-0,Dihydroasparagusic acid,C4H8O2S2,151.99657096,Asparagus officinalis,Asparagus,KNApSAcK
+4,C00000306,38146-83-7,S-Acetyl dihydroasparagusic acid,C6H10O3S2,194.00713565,Asparagus officinalis,Asparagus,KNApSAcK
+5,C00000307,42258-86-6,Asparagusic acid anti-S-oxide,C4H6O3S2,165.97583552,Asparagus officinalis,Asparagus,KNApSAcK
+6,C00000615,501-16-6,Caffeic acid,C9H8O4,180.04225874,Asparagus officinalis,Asparagus,KNApSAcK
+7,C00000674,491-70-3,"5,7,3',4'-Tetrahydroxyflavone",C15H10O6,286.04773805,Asparagus officinalis,Asparagus,KNApSAcK
+8,C00000677,480-18-2,Dihydroquercetin,C15H12O7,304.05830274,Asparagus officinalis,Asparagus,KNApSAcK
+9,C00000722,17676-24-3,cis-Hinokiresinol,C17H16O2,252.11502975,Asparagus cochinchinensis,Asparagus,KNApSAcK
+10,C00000775,59-43-8,Thiamine,C12H17N4OS,265.11230692,Asparagus officinalis,Asparagus,KNApSAcK
+11,C00000819,76-22-2,(+)-Camphor,C10H16O,152.12011513,Asparagus racemosus,Asparagus,KNApSAcK
+12,C00000823,138-86-3,Limonene,C10H16,136.12520051,Asparagus racemosus,Asparagus,KNApSAcK
+13,C00000846,763-10-0,Geranyl diphospate,C10H20O7P2,314.06842597,Asparagus racemosus,Asparagus,KNApSAcK
+14,C00000848,358-71-4,Isopentenyl diphosphate,C5H12O7P2,246.00582572,Asparagus racemosus,Asparagus,KNApSAcK
+15,C00000907,13058-04-3,Farnesyl pyrophosphate,C15H28O7P2,382.13102623,Asparagus officinalis,Asparagus,KNApSAcK
+16,C00000919,7235-40-7,beta-Carotene,C40H56,536.43820179,Asparagus officinalis L.,Asparagus,KNApSAcK
+17,C00000920,472-70-8,beta-Cryptoxanthin,C40H56O,552.43311641,Asparagus officinalis,Asparagus,KNApSAcK
+18,C00000931,144-68-3,Zeaxanthin,C40H56O2,568.42803103,Asparagus officinalis L.,Asparagus,KNApSAcK
+19,C00000938,27200-12-0,Ampelopsin,C15H12O8,320.05321736,Asparagus officinalis,Asparagus,KNApSAcK
+20,C00000947,154-23-4,(+)-Catechin,C15H14O6,290.07903818,Asparagus officinalis,Asparagus,KNApSAcK
+21,C00000982,480-41-1,Naringenin,C15H12O5,272.06847349,Asparagus officinalis,Asparagus,KNApSAcK
+22,C00001017,578-74-5,Apigenin 7-O-beta-D-glucopyranoside,C21H20O10,432.10564686,Asparagus officinalis,Asparagus,KNApSAcK
+23,C00001071,529-44-2,Myricetin,C15H10O8,318.0375673,Asparagus officinalis,Asparagus,KNApSAcK
+24,C00001179,50-81-7,(+)-Ascorbic acid,C6H8O6,176.03208799,Asparagus officinalis,Asparagus,KNApSAcK
+25,C00001195,150-97-0,Mevalonic acid,C6H12O4,148.07355887,Asparagus officinalis,Asparagus,KNApSAcK
+26,C00001224,60-33-3,Linoleic acid,C18H32O2,280.24023027,Asparagus officinalis,Asparagus,KNApSAcK
+27,C00001304,99-32-1,Chelidonic acid,C7H4O6,184.00078786,Asparagus racemosus,Asparagus,KNApSAcK
+28,C00001304,99-32-1,Chelidonic acid,C7H4O6,184.00078786,Asparagus cochinchinensis,Asparagus,KNApSAcK
+29,C00001550,79-83-4,Pantothenic acid,C9H17NO5,219.11067266,Asparagus officinalis,Asparagus,KNApSAcK
+30,C00002376,18719-76-1,Antirrhinin,C27H31O15.Cl,630.13514803,Asparagus officinalis,Asparagus,KNApSAcK
+31,C00002460,91-64-5,Coumarin,C9H6O2,146.03677944,Asparagus officinalis,Asparagus,KNApSAcK
+32,C00002657,123-08-0,4-Hydroxybenzaldehyde,C7H6O2,122.03677944,Asparagus officinalis,Asparagus,KNApSAcK
+33,C00002674,530-57-4,Syringic acid,C9H10O5,198.05282343,Asparagus officinalis,Asparagus,KNApSAcK
+34,C00002682,121-34-6,Vanillic acid,C8H8O4,168.04225874,Asparagus officinalis,Asparagus,KNApSAcK
+35,C00002683,5463-22-9,Vanillin,C8H8O3,152.04734412,Asparagus spp.,Asparagus,KNApSAcK
+36,C00002683,5463-22-9,Vanillin,C8H8O3,152.04734412,Asparagus officinalis,Asparagus,KNApSAcK
+37,C00002683,5463-22-9,Vanillin,C8H8O3,152.04734412,Asparagus cochinchinensis,Asparagus,KNApSAcK
+38,C00002683,5463-22-9,Vanillin,C8H8O3,152.04734412,Asparagus racemosus,Asparagus,KNApSAcK
+39,C00002724,327-97-9,3-O-Caffeoylquinic acid,C16H18O9,354.09508217,Asparagus officinalis,Asparagus,KNApSAcK
+40,C00002727,531-29-3,Coniferin,C16H22O8,342.13146768,Asparagus spp.,Asparagus,KNApSAcK
+41,C00002743,1135-24-6,Ferulic acid,C10H10O4,194.05790881,Asparagus officinalis,Asparagus,KNApSAcK
+42,C00003028,507-70-0,Borneol,C10H18O,154.1357652,Asparagus racemosus,Asparagus,KNApSAcK
+43,C00003029,79-92-5,Camphene,C10H16,136.12520051,Asparagus racemosus,Asparagus,KNApSAcK
+44,C00003563,14835-43-9,Asparagoside A,C33H54O8,578.3818687,Asparagus officinalis,Asparagus,KNApSAcK
+45,C00003575,19057-60-4,Collettiside III,C45H72O16,868.48203625,Asparagus cochinchinensis,Asparagus,KNApSAcK
+46,C00003575,19057-60-4,Collettiside III,C45H72O16,868.48203625,Asparagus officinalis,Asparagus,KNApSAcK
+47,C00003576,512-04-9,Diosgenin,C27H42O3,414.31339521,Asparagus officinalis,Asparagus,KNApSAcK
+48,C00003576,512-04-9,Diosgenin,C27H42O3,414.31339521,Asparagus racemosus,Asparagus,KNApSAcK
+49,C00003582,57944-18-0,Officinalisnin I,C45H76O19,920.49808025,Asparagus officinalis,Asparagus,KNApSAcK
+50,C00003585,55056-80-9,Protodioscin,C51H84O22,1048.54542437,Asparagus racemosus,Asparagus,KNApSAcK
+51,C00003585,55056-80-9,Protodioscin,C51H84O22,1048.54542437,Asparagus officinalis,Asparagus,KNApSAcK
+52,C00003585,55056-80-9,Protodioscin,C51H84O22,1048.54542437,Asparagus dumosus Baker,Asparagus,KNApSAcK
+53,C00003585,55056-80-9,Protodioscin,C51H84O22,1048.54542437,Asparagus cochinchinensis,Asparagus,KNApSAcK
+54,C00003590,126-19-2,Sarsasapogenin,C27H44O3,416.32904527,Asparagus racemosus,Asparagus,KNApSAcK
+55,C00003590,126-19-2,Sarsasapogenin,C27H44O3,416.32904527,Asparagus spp.,Asparagus,KNApSAcK
+56,C00003590,126-19-2,Sarsasapogenin,C27H44O3,416.32904527,Asparagus officinalis,Asparagus,KNApSAcK
+57,C00003590,126-19-2,Sarsasapogenin,C27H44O3,416.32904527,Asparagus broussonetii,Asparagus,KNApSAcK
+58,C00003590,126-19-2,Sarsasapogenin,C27H44O3,416.32904527,Asparagus cochinchinensis,Asparagus,KNApSAcK
+59,C00003591,84633-34-1,Asparanin B,C45H74O17,886.49260094,Asparagus racemosus,Asparagus,KNApSAcK
+60,C00003591,84633-34-1,Asparanin B,C45H74O17,886.49260094,Asparagus curillus,Asparagus,KNApSAcK
+61,C00003596,60478-69-5,Protoneodioscin,C51H84O22,1048.54542437,Asparagus officinalis,Asparagus,KNApSAcK
+62,C00003597,512-06-1,Yamogenin,C27H42O3,414.31339521,Asparagus officinalis,Asparagus,KNApSAcK
+63,C00003597,512-06-1,Yamogenin,C27H42O3,414.31339521,Asparagus tenuifolium,Asparagus,KNApSAcK
+64,C00003598,110996-52-6,Yamogenin 3-O-neohesperidoside,C39H62O12,722.42412745,Asparagus setaceus,Asparagus,KNApSAcK
+65,C00003598,110996-52-6,Yamogenin 3-O-neohesperidoside,C39H62O12,722.42412745,Asparagus plumosus,Asparagus,KNApSAcK
+66,C00003650,469-38-5,Cycloartenol,C30H50O,426.38616622,Asparagus racemosus,Asparagus,KNApSAcK
+67,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Asparagus tenuifolium,Asparagus,KNApSAcK
+68,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Asparagus officinalis,Asparagus,KNApSAcK
+69,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Asparagus racemosus,Asparagus,KNApSAcK
+70,C00003674,83-48-7,beta-Stigmasterol,C29H48O,412.37051615,Asparagus officinalis,Asparagus,KNApSAcK
+71,C00003760,640-03-9,Antheraxanthin,C40H56O3,584.42294565,Asparagus officinalis,Asparagus,KNApSAcK
+72,C00003763,465-42-9,Capsanthin,C40H56O3,584.42294565,Asparagus officinalis,Asparagus,KNApSAcK
+73,C00003764,470-38-2,Capsorubin,C40H56O4,600.41786028,Asparagus officinalis,Asparagus,KNApSAcK
+74,C00003765,7488-99-5,alpha-Carotene,C40H56,536.43820179,Asparagus officinalis L.,Asparagus,KNApSAcK
+75,C00003766,472-92-4,delta-Carotene,C40H56,536.43820179,Asparagus officinalis L.,Asparagus,KNApSAcK
+76,C00003776,127-40-2,Lutein,C40H56O2,568.42803103,Asparagus officinalis L.,Asparagus,KNApSAcK
+77,C00003780,14660-91-4,Neoxanthin,C40H56O4,600.41786028,Asparagus officinalis,Asparagus,KNApSAcK
+78,C00003783,144-67-2,Physalien,C72H116O4,1044.88736219,Asparagus officinalis,Asparagus,KNApSAcK
+79,C00003787,126-29-4,Violaxanthin,C40H56O4,600.41786028,Asparagus officinalis,Asparagus,KNApSAcK
+80,C00003817,520-36-5,Apigenin,C15H10O5,270.05282343,Asparagus officinalis,Asparagus,KNApSAcK
+81,C00004565,520-18-3,Kaempferol,C15H10O6,286.04773805,Asparagus officinalis,Asparagus,KNApSAcK
+82,C00004631,117-39-5,Quercetin,C15H10O7,302.04265268,Asparagus officinalis,Asparagus,KNApSAcK
+83,C00005372,482-36-0,Hyperin,C21H20O12,464.09547611,Asparagus racemosus,Asparagus,KNApSAcK
+84,C00005413,153-18-4,Quercetin 3-rutinoside,C27H30O16,610.15338491,Asparagus officinalis,Asparagus,KNApSAcK
+85,C00005413,153-18-4,Quercetin 3-rutinoside,C27H30O16,610.15338491,Asparagus racemosus,Asparagus,KNApSAcK
+86,C00006652,27661-36-5,Cyanidin 3-O-beta-D-galactopyranoside,C21H21O11,449.10838652,Asparagus racemosus,Asparagus,KNApSAcK
+87,C00006681,6906-39-4,Oxycoccicyanin,C22H23O11.Cl,498.09288929,Asparagus cepa,Asparagus,KNApSAcK
+88,C00006686,27539-32-8,Peonidin 3-rutinoside,C28H33O15,609.18194539,Asparagus officinalis,Asparagus,KNApSAcK
+89,C00007233,25515-46-2,Naringenin chalcone,C15H12O5,272.06847349,Asparagus officinalis,Asparagus,KNApSAcK
+90,C00007234,480-20-6,(+)-Dihydrokaempferol,C15H12O6,288.06338812,Asparagus officinalis,Asparagus,KNApSAcK
+91,C00007259,72-89-9,Acetyl-CoA,C23H38N7O17P3S,809.12577304,Asparagus officinalis,Asparagus,KNApSAcK
+92,C00007268,372-97-4,"(2E,6E)-Farnesyl diphosphate",C15H28O7P2,382.13102623,Asparagus racemosus,Asparagus,KNApSAcK
+93,C00007269,1420-36-6,Acetoacetyl-CoA,C25H40N7O18P3S,851.13633773,Asparagus officinalis,Asparagus,KNApSAcK
+94,C00007270,1553-55-5,HMG-CoA,C27H44N7O20P3S,911.1574671,Asparagus officinalis,Asparagus,KNApSAcK
+95,C00007280,30802-00-7,p-Coumaroyl CoA,C30H42N7O18P3S,913.15198779,Asparagus officinalis,Asparagus,KNApSAcK
+96,C00007282,7200-26-2,"(S)-2,3-Epoxysqualene",C30H50O,426.38616622,Asparagus racemosus,Asparagus,KNApSAcK
+97,C00007288,17989-41-2,Glycerol-3-phosphate,C3H9O6P,172.01367451,Asparagus officinalis,Asparagus,KNApSAcK
+98,C00007292,190079-18-6,DXP,C5H11O7P,214.0242392,Asparagus officinalis,Asparagus,KNApSAcK
+99,C00007294,358-72-5,Dimethylallyl diphosphate,C5H12O7P2,246.00582572,Asparagus racemosus,Asparagus,KNApSAcK
+100,C00007295,151435-51-7,"2-C-Methyl-D-erythritol 2,4-cyclodiphosphate",C5H12O9P2,277.99565496,Asparagus officinalis,Asparagus,KNApSAcK
+101,C00007297,206440-72-4,2-C-Methyl-D-erythritol 4-phosphate,C5H13O7P,216.03988926,Asparagus officinalis,Asparagus,KNApSAcK
+102,C00007366,59-02-9,alpha-Tocopherol,C29H50O2,430.38108084,Asparagus officinalis,Asparagus,KNApSAcK
+103,C00007444,58-61-7,Adenosine,C10H13N5O4,267.09675394,Asparagus officinalis,Asparagus,KNApSAcK
+104,C00007558,134-96-3,Syringaldehyde,C9H10O4,182.05790881,Asparagus officinalis,Asparagus,KNApSAcK
+105,C00007884,81139-16-4,Chalconaringenin 2'-rhamnosyl-(1->4)-glucoside,C27H32O14,580.17920573,Asparagus gonocladus,Asparagus,KNApSAcK
+106,C00008025,25078-14-2,"4,6,4'-Trihydroxyaurone",C15H10O5,270.05282343,Asparagus gonocladus,Asparagus,KNApSAcK
+107,C00011040,547-61-5,trans-(-)-Pinocarveol,C10H16O,152.12011513,Asparagus racemosus,Asparagus,KNApSAcK
+108,C00019121,349152-33-6,"5,6,7,4'-Tetrahydroxy-8-methoxyisoflavone 7-O-glucoside",C22H22O12,478.11112617,Asparagus racemosus,Asparagus,KNApSAcK
+109,C00019308,474-58-8,3-O-beta-D-Glucopyranosyl sitosterol,C35H60O6,576.43898965,Asparagus officinalis,Asparagus,KNApSAcK
+110,C00022984,7044-42-0,Cryptocapsin,C40H56O2,568.42803103,Asparagus officinalis,Asparagus,KNApSAcK
+111,C00023025,310898-15-8,Capsoneoxanthin,C40H56O4,600.41786028,Asparagus falcatus,Asparagus,KNApSAcK
+112,C00023035,29486-21-3,"Capsanthin 5,6-epoxide",C40H56O4,600.41786028,Asparagus officinalis,Asparagus,KNApSAcK
+113,C00029745,60267-25-6,Asparagoside E,C45H76O19,920.49808025,Asparagus officinalis L.,Asparagus,KNApSAcK
+114,C00029747,301643-62-9,Asparoside B,C44H72O17,872.47695088,Asparagus filicinus,Asparagus,KNApSAcK
+115,C00029961,621-82-9,Cinnamic acid,C9H8O2,148.0524295,Asparagus officinalis,Asparagus,KNApSAcK
+116,C00029977,1845-30-3,cis-Verbenol,C10H16O,152.12011513,Asparagus racemosus,Asparagus,KNApSAcK
+117,C00030069,150677-83-1,Curillin G,C39H64O13,740.43469213,Asparagus racemosus,Asparagus,KNApSAcK
+118,C00030764,54522-52-0,22-O-Methylprotodioscin,C52H86O22,1062.56107443,Asparagus officinalis,Asparagus,KNApSAcK
+119,C00030828,124-19-6,Nonadienal,C9H18O,142.1357652,Asparagus officinalis,Asparagus,KNApSAcK
+120,C00031101,102115-79-7,Pseudoprotodioscin,C51H82O21,1030.53485968,Asparagus cochinchinensis,Asparagus,KNApSAcK
+121,C00031101,102115-79-7,Pseudoprotodioscin,C51H82O21,1030.53485968,Asparagus racemosus,Asparagus,KNApSAcK
+122,C00031369,18194-29-1,Sequirin C,C17H18O5,302.11542369,Asparagus gobicus,Asparagus,KNApSAcK
+123,C00032538,60478-68-4,Yamogenin 3-O-alpha-L-rhamnopyranosyl(1->4)-alpha-L-rhamnopyranosyl(1->2)-beta-D-glucopyranoside,C45H72O16,868.48203625,Asparagus officinalis,Asparagus,KNApSAcK
+124,C00033951,602306-86-5,(-)-Immunoside,C45H74O16,870.49768632,Asparagus officinalis,Asparagus,KNApSAcK
+125,C00033951,602306-86-5,(-)-Immunoside,C45H74O16,870.49768632,Asparagus racemosus,Asparagus,KNApSAcK
+126,C00034218,84633-33-0,(-)-Asparanin A,C39H64O13,740.43469213,Asparagus racemosus,Asparagus,KNApSAcK
+127,C00034218,84633-33-0,(-)-Asparanin A,C39H64O13,740.43469213,Asparagus officinalis,Asparagus,KNApSAcK
+128,C00034218,84633-33-0,(-)-Asparanin A,C39H64O13,740.43469213,Asparagus oligoclonos,Asparagus,KNApSAcK
+129,C00034241,84633-36-3,Shatavarin I,C51H86O23,1066.55598906,Asparagus racemosus,Asparagus,KNApSAcK
+130,C00034242,1010395-66-0,Shatavarin IX,C45H74O18,902.48751556,Asparagus racemosus,Asparagus,KNApSAcK
+131,C00034243,918800-68-7,Shatavarin V,C45H74O17,886.49260094,Asparagus racemosus,Asparagus,KNApSAcK
+132,C00034244,1010395-63-7,Shatavarin VI,C45H74O17,886.49260094,Asparagus racemosus,Asparagus,KNApSAcK
+133,C00034245,1010395-64-8,Shatavarin VII,C45H72O17,884.47695088,Asparagus racemosus,Asparagus,KNApSAcK
+134,C00034246,1010395-65-9,Shatavarin VIII,C50H82O22,1034.52977431,Asparagus racemosus,Asparagus,KNApSAcK
+135,C00034247,1010395-68-2,Shatavarin X,C47H76O18,928.50316563,Asparagus racemosus,Asparagus,KNApSAcK
+136,C00034394,263016-94-0,CDP-ME,C14H25N3O14P2,521.08117551,Asparagus officinalis,Asparagus,KNApSAcK
+137,C00034434,156798-15-1,Asparagamine A,C22H27NO5,385.18892298,Asparagus racemosus Willd.,Asparagus,KNApSAcK
+138,C00035154,905929-89-7,Racemoside A,C51H84O22,1048.54542437,Asparagus racemosus,Asparagus,KNApSAcK
+139,C00035155,905929-90-0,Racemoside B,C45H74O17,886.49260094,Asparagus racemosus,Asparagus,KNApSAcK
+140,C00035156,905929-91-1,Racemoside C,C45H74O16,870.49768632,Asparagus racemosus,Asparagus,KNApSAcK
+141,C00037269,629-54-9,Palmitic acid amide,C16H33NO,255.25621468,Asparagus officinalis,Asparagus,KNApSAcK
+142,C00041988,96895-25-9,Nyasol,C17H16O2,252.11502975,Asparagus cochinchinensis,Asparagus,KNApSAcK
+143,C00042001,185020-38-6,(+)-Nyasol,C17H16O2,252.11502975,Asparagus cochinchinensis,Asparagus,KNApSAcK
+144,C00042001,185020-38-6,(+)-Nyasol,C17H16O2,252.11502975,Asparagus africanus,Asparagus,KNApSAcK
+145,C00042063,542-44-9,"2,3-Dihydroxypropyl hexadecanoate",C19H38O4,330.2770097,Asparagus officinalis,Asparagus,KNApSAcK
+146,C00042245,852873-37-1,Aspaoligonin A,C39H64O14,756.42960675,Asparagus officinalis,Asparagus,KNApSAcK
+147,C00042245,852873-37-1,Aspaoligonin A,C39H64O14,756.42960675,Asparagus oligoclonos,Asparagus,KNApSAcK
+148,C00042246,847063-04-1,Aspaoligonin B,C44H72O17,872.47695088,Asparagus oligoclonos,Asparagus,KNApSAcK
+149,C00042440,65-46-3,Cytidine,C9H13N3O5,243.08552055,Asparagus officinalis,Asparagus,KNApSAcK
+150,C00043195,671774-39-3,3''-Methoxynyasol,C18H18O3,282.12559444,Asparagus cochinchinensis,Asparagus,KNApSAcK
+151,C00043295,671774-36-0,Asparacoside,C49H80O21,1004.51920962,Asparagus cochinchinensis,Asparagus,KNApSAcK
+152,C00043296,671774-37-1,Asparacosin A,C27H40O5,444.28757439,Asparagus cochinchinensis,Asparagus,KNApSAcK
+153,C00043297,671774-38-2,Asparacosin B,C29H46O6,490.3294392,Asparagus cochinchinensis,Asparagus,KNApSAcK
+154,C00043298,166762-98-7,Asparenydiol,C17H14O3,266.09429431,Asparagus cochinchinensis,Asparagus,KNApSAcK
+155,C00043990,32811-40-8,trans-Coniferyl alcohol,C10H12O3,180.07864425,Asparagus cochinchinensis,Asparagus,KNApSAcK
+156,C00045482,62741-95-1,13-cis-Capsanthin,C40H56O3,584.42294565,Asparagus falcatus,Asparagus,KNApSAcK
+157,C00045483,62776-23-2,(13'Z)-Capsanthin,C40H56O3,584.42294565,Asparagus falcatus,Asparagus,KNApSAcK
+158,C00045498,62741-96-2,9-cis-Capsanthin,C40H56O3,584.42294565,Asparagus falcatus,Asparagus,KNApSAcK
+159,C00045499,80779-34-6,(9'Z)-Capsanthin,C40H56O3,584.42294565,Asparagus falcatus,Asparagus,KNApSAcK
+160,C00045500,26927-07-1,(9Z)-Violaxanthin,C40H56O4,600.41786028,Asparagus falcatus,Asparagus,KNApSAcK
+161,C00048438,67-63-0,Isopropyl alcohol,C3H8O,60.05751488,Asparagus officinalis,Asparagus,KNApSAcK
+162,C00050430,62624-30-0,Ascorbic acid,C6H8O6,176.03208799,Asparagus officinalis,Asparagus,KNApSAcK
+163,C00050437,431-03-8,"2,3-Butanedione",C4H6O2,86.03677944,Asparagus officinalis,Asparagus,KNApSAcK
+164,C00050732,1917-64-2,5-Methoxymethyl furfural,C7H8O3,140.04734412,Asparagus cochinchinensis,Asparagus,KNApSAcK
+165,C00052035,,DMAPP,C5H12O7P2,246.00582572,Asparagus officinalis,Asparagus,KNApSAcK
+166,C00052039,,IPP,C5H12O7P2,246.00582572,Asparagus officinalis,Asparagus,KNApSAcK
+167,C00052344,588-30-7,3-Hydroxycinnamic acid,C9H8O3,164.04734412,Asparagus officinalis,Asparagus,KNApSAcK
+168,C00052612,108-50-9,"2,6-Dimethylpyrazine",C6H8N2,108.06874827,Asparagus officinalis,Asparagus,KNApSAcK
+169,C00052637,2463-63-0,2-Heptenal,C7H12O,112.08881501,Asparagus officinalis,Asparagus,KNApSAcK
+170,C00052646,109-08-0,2-Methylpyrazine,C5H6N2,94.05309821,Asparagus officinalis,Asparagus,KNApSAcK
+171,C00052732,94073-09-3,5-Caranol,C10H18O,154.1357652,Asparagus racemosus,Asparagus,KNApSAcK
+172,C00052827,131123-74-5,Aspafilioside C,C49H82O22,1022.52977431,Asparagus racemosus,Asparagus,KNApSAcK
+173,C00052827,131123-74-5,Aspafilioside C,C49H82O22,1022.52977431,Asparagus cochinchinensis,Asparagus,KNApSAcK
+174,C00052828,1685285-82-8,Asparanin B2,C44H72O16,856.48203625,Asparagus cochinchinensis,Asparagus,KNApSAcK
+175,C00052829,1685285-88-4,Asparanin B5,C50H82O21,1018.53485968,Asparagus racemosus,Asparagus,KNApSAcK
+176,C00052830,1685285-89-5,Asparanin B9,C50H84O23,1052.54033899,Asparagus racemosus,Asparagus,KNApSAcK
+177,C00052831,1715940-28-5,Asparaptine,C10H18N4O3S2,306.08203193,Asparagus officinalis,Asparagus,KNApSAcK
+178,C00052832,1685285-93-1,Asparaside A,C51H86O23,1066.55598906,Asparagus racemosus,Asparagus,KNApSAcK
+179,C00053068,36151-02-7,Blumenol C,C13H22O2,210.16197995,Asparagus officinalis,Asparagus,KNApSAcK
+180,C00053106,554-59-6,Carene,C10H18,138.14085057,Asparagus racemosus,Asparagus,KNApSAcK
+181,C00053263,6418-92-4,Glycerophosphoglycerol,C6H15O8P,246.05045395,Asparagus officinalis,Asparagus,KNApSAcK
+182,C00053683,554-62-1,Phytosphingosine,C18H39NO3,317.29299412,Asparagus officinalis,Asparagus,KNApSAcK
+183,C00053945,131622-60-1,AS 1,C44H72O17,872.47695088,Asparagus officinalis,Asparagus,KNApSAcK
+184,C00053946,60267-23-4,Asparagoside C,C39H64O13,740.43469213,Asparagus officinalis,Asparagus,KNApSAcK
+185,C00053947,60267-24-5,Asparagoside D,C45H74O18,902.48751556,Asparagus officinalis,Asparagus,KNApSAcK
+186,C00053948,60267-26-7,Asparagoside F,C50H82O22,1034.52977431,Asparagus officinalis,Asparagus,KNApSAcK
+187,C00054529,1037068-20-4,Asparagus officinalis Anthocyanin A1,C33H41O20+,757.21911875,Asparagus officinalis,Asparagus,KNApSAcK
+188,C00054689,27785-15-5,"5,8:5',8'-Diepoxy-5,5',8,8'-tetrahydro-beta,beta-carotene-3,3'-diol",C40H56O4,600.41786028,Asparagus officinalis,Asparagus,KNApSAcK
+189,C00055374,166762-97-6,Asparenyol,C18H16O3,280.10994438,Asparagus officinalis,Asparagus,KNApSAcK
+190,C00055394,60237-69-6,Asparagoside B,C33H56O9,596.39243339,Asparagus officinalis,Asparagus,KNApSAcK
+191,C00055395,60267-27-8,Asparagoside G,C51H86O24,1082.55090368,Asparagus officinalis,Asparagus,KNApSAcK
+192,C00055396,60267-28-9,Asparagoside H,C56H94O28,1214.59316242,Asparagus officinalis,Asparagus,KNApSAcK
+193,C00055403,60433-66-1,Asparasaponin II,C45H74O18,902.48751556,Asparagus officinalis,Asparagus,KNApSAcK
+194,C00056096,851983-04-5,Racemofuran,C17H16O4,284.104859,Asparagus racemosus,Asparagus,KNApSAcK
+195,C00056866,1137515-79-7,Sarsasaponin O,C41H66O14,782.44525682,Asparagus officinalis,Asparagus,KNApSAcK
+196,C00057158,179667-62-0,Phytosulfokine alpha,C33H46N6O16S2,846.24117093,Asparagus officinalis,Asparagus,KNApSAcK
+197,C00057159,179667-63-1,Phytosulfokine beta,C28H38N4O14S2,718.18259341,Asparagus officinalis,Asparagus,KNApSAcK
+198,C00057208,197080-19-6,Muzanzagenin,C27H38O5,442.27192432,Asparagus africanus,Asparagus,KNApSAcK
+199,C00057451,57944-19-1,Officinalisnin II,C50H84O23,1052.54033899,Asparagus officinalis,Asparagus,KNApSAcK
+200,C00057631,888724-00-3,Sarsasapogenin N,C45H74O17,886.49260094,Asparagus officinalis,Asparagus,KNApSAcK
+201,C00058136,55826-88-5,Yuccoside C,C45H74O18,902.48751556,Asparagus officinalis,Asparagus,KNApSAcK
+202,C00058154,62574-21-4,"1,2,3-Trithiane-5-carboxylic acid",C4H6O2S3,181.95299163,Asparagus officinalis,Asparagus,KNApSAcK
+203,C00059339,117857-56-4,"13,13'-cis-Canthaxanthin",C40H52O2,564.3967309,Asparagus officinalis,Asparagus,KNApSAcK
+204,C00059731,135969-90-3,"(9-cis,9'-cis)-beta,beta-Carotene-4,4'-dione",C40H52O2,564.3967309,Asparagus officinalis,Asparagus,KNApSAcK
+205,C00059908,1425501-12-7,"D-myo-Inositol, 1-[(2R)-2-hydroxy-3-[(1-oxohexadecyl)oxy]propyl hydrogen phosphate]",C25H49O12P,572.29616352,Asparagus officinalis,Asparagus,KNApSAcK
+206,C00060366,17364-17-9,3-Palmitoyl-sn-glycerol-1-phosphorylcholine,C24H50NO7P,495.33248945,Asparagus officinalis,Asparagus,KNApSAcK
+207,C00060547,185432-00-2,Timosaponin C,C45H74O18,902.48751556,Asparagus officinalis,Asparagus,KNApSAcK
+208,C00060578,189270-58-4,"(3R,3'R,6'R,13-cis,13'-cis)-beta,epsilon-Carotene-3,3'-diol",C40H56O2,568.42803103,Asparagus officinalis,Asparagus,KNApSAcK
+209,C00060580,189294-69-7,Protoprogenin II,C45H74O18,902.48751556,Asparagus officinalis,Asparagus,KNApSAcK
+210,C00060591,1912-50-1,Luteoxanthin,C40H56O4,600.41786028,Asparagus officinalis,Asparagus,KNApSAcK
+211,C00060641,196701-58-3,Neolutein C,C40H56O2,568.42803103,Asparagus officinalis,Asparagus,KNApSAcK
+212,C00060651,19805-25-5,Lysophosphatidylethanolamine C16:0,C21H44NO7P,453.28553926,Asparagus officinalis,Asparagus,KNApSAcK
+213,C00061320,29662-79-1,Quercetin 3-O-rhamnoglucoside,C27H30O16,610.15338491,Asparagus officinalis,Asparagus,KNApSAcK
+214,C00061364,30551-18-9,Decadienal,C10H16O,152.12011513,Asparagus officinalis,Asparagus,KNApSAcK
+215,C00061438,326495-22-1,"(2R)-3-[[(2,3-Dihydroxypropoxy)hydroxyphosphinyl]oxy]-2-hydroxypropyl hexadecanoate",C22H45O9P1-,484.28011953,Asparagus officinalis,Asparagus,KNApSAcK
+216,C00061440,3268-49-3,3-Methyl thiopropanal,C4H8OS,104.02958561,Asparagus officinalis,Asparagus,KNApSAcK
+217,C00061697,39276-09-0,Furancarboxaldehyde,C5H4O2,96.02112937,Asparagus officinalis,Asparagus,KNApSAcK
+218,C00062204,557769-32-1,Aspacochioside A,C45H76O18,904.50316563,Asparagus officinalis,Asparagus,KNApSAcK
+219,C00062383,600-14-6,"2,3-Pentanedione",C5H8O2,100.0524295,Asparagus officinalis,Asparagus,KNApSAcK
+220,C00062400,60497-64-5,9-cis-Zeaxanthin,C40H56O2,568.42803103,Asparagus officinalis,Asparagus,KNApSAcK
+221,C00062401,60497-65-6,13-cis-Zeaxanthin,C40H56O2,568.42803103,Asparagus officinalis,Asparagus,KNApSAcK
+222,C00062493,625-33-2,3-Penten-2-one,C5H8O,84.05751488,Asparagus officinalis,Asparagus,KNApSAcK
+223,C00062793,7220-34-0,1-Palmitoyl-sn-glyceryl 3-phosphate,C19H39O7P,410.24334009,Asparagus officinalis,Asparagus,KNApSAcK
+224,C00063145,85201-99-6,(8R)-Mutatoxanthin,C40H56O3,584.42294565,Asparagus officinalis,Asparagus,KNApSAcK
+225,C00063146,85202-00-2,(8S)-Mutatoxanthin,C40H56O3,584.42294565,Asparagus officinalis,Asparagus,KNApSAcK
+226,C00063405,927890-95-7,"(3beta,5beta,22alpha,25R)-26-(beta-D-Glucopyranosyloxy)-22-hydroxyfurostan-3-yl 4-O-(6-deoxy-alpha-L-mannopyranosyl)-beta-D-glucopyranoside",C45H76O18,904.50316563,Asparagus officinalis,Asparagus,KNApSAcK
+227,C00063586,1006878-70-1,Aspafilioside E,C43H70O17,858.46130081,Asparagus filicinus,Asparagus,KNApSAcK
+228,C00063587,1006878-71-2,Aspafilioside F,C38H62O13,726.41904207,Asparagus filicinus,Asparagus,KNApSAcK
+229,C00063608,103805-86-3,Racemosol,C21H24O4,340.16745925,Asparagus racemosus,Asparagus,KNApSAcK
+230,C00063693,1191075-51-0,Shatavaroside A,C44H72O16,856.48203625,Asparagus racemosus,Asparagus,KNApSAcK
+231,C00063694,1191075-87-2,Shatavaroside B,C50H82O21,1018.53485968,Asparagus racemosus,Asparagus,KNApSAcK
+232,C00063732,1240503-84-7,Filiasparoside E,C49H80O21,1004.51920962,Asparagus filicinus,Asparagus,KNApSAcK
+233,C00063733,1240503-85-8,Filiasparoside F,C43H70O17,858.46130081,Asparagus filicinus,Asparagus,KNApSAcK
+234,C00063734,1240503-86-9,Filiasparoside G,C49H80O21,1004.51920962,Asparagus filicinus,Asparagus,KNApSAcK
+235,C00063783,131123-73-4,Aspafilioside B,C43H70O16,842.46638619,Asparagus filicinus,Asparagus,KNApSAcK
+236,C00063996,166762-96-5,Asparenyn,C19H18O3,294.12559444,Asparagus officinalis,Asparagus,KNApSAcK
+237,C00064027,173614-61-4,1-O-Feruloyl-3-O-p-coumaroylglycerol,C22H22O8,414.13146768,Asparagus officinalis,Asparagus,KNApSAcK
+238,C00064458,639-96-3,Sarsasapogenone,C27H42O3,414.31339521,Asparagus officinalis,Asparagus,KNApSAcK
+239,C00064512,72947-73-0,Aspafilioside A,C38H62O12,710.42412745,Asparagus filicinus,Asparagus,KNApSAcK
+240,C00064564,83997-41-5,Asparanin C,C44H72O16,856.48203625,Asparagus racemosus,Asparagus,KNApSAcK
+241,C00064638,948048-13-3,Filiasparoside A,C43H68O17,856.44565075,Asparagus filicinus,Asparagus,KNApSAcK
+242,C00064639,948048-15-5,Filiasparoside B,C38H60O13,724.403392,Asparagus filicinus,Asparagus,KNApSAcK
+243,C00064640,948048-17-7,Filiasparoside C,C44H72O16,856.48203625,Asparagus racemosus,Asparagus,KNApSAcK
+244,C00064640,948048-17-7,Filiasparoside C,C44H72O16,856.48203625,Asparagus filicinus,Asparagus,KNApSAcK
+0,C00006221,72036-50-1,Isovitexin 2''-O-rhamnoside,C27H30O14,578.16355567,Allophylus edulis,Allophylus,KNApSAcK
+1,C00006351,146177-28-8,Mollupentin 2''-O-rhamnoside,C26H28O13,548.15299098,Allophylus edulis,Allophylus,KNApSAcK
+2,C00006389,33569-09-4,Cerarvensin 2''-O-rhamnoside,C26H28O13,548.15299098,Allophylus edulis,Allophylus,KNApSAcK

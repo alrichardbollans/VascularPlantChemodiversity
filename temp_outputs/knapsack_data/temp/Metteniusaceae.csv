@@ -1,0 +1,88 @@
+,C_ID,CAS ID,example_compound_name,Molecular formula,Mw,Organism,knapsack_search_term,Source
+0,C00025543,13293-85-1,Planchonelline,C12H19NO2S,241.11364959,Planchonella thysoidea C.T.White,Planchonella,KNApSAcK
+1,C00025543,13293-85-1,Planchonelline,C12H19NO2S,241.11364959,Planchonella thyrsoides,Planchonella,KNApSAcK
+2,C00025543,13293-85-1,Planchonelline,C12H19NO2S,241.11364959,Planchonella anteridifera,Planchonella,KNApSAcK
+0,C00013235,53915-44-9,Emmotin A,C16H22O4,278.15180919,Emmotum nitens,Emmotum,KNApSAcK
+1,C00013236,53915-45-0,Emmotin B,C16H22O5,294.14672381,Emmotum nitens,Emmotum,KNApSAcK
+2,C00013237,53915-46-1,Emmotin C,C15H16O3,244.10994438,Emmotum nitens,Emmotum,KNApSAcK
+3,C00013238,53915-47-2,Emmotin D,C15H14O4,258.08920894,Emmotum nitens,Emmotum,KNApSAcK
+4,C00013239,61263-72-7,Emmotin F,C15H20O3,248.1412445,Emmotum nitens,Emmotum,KNApSAcK
+5,C00013240,81263-73-8,Emmotin G,C15H18O2,230.13067982,Emmotum nitens,Emmotum,KNApSAcK
+6,C00013241,61263-74-9,Emmotin H,C15H16O3,244.10994438,Emmotum nitens,Emmotum,KNApSAcK
+0,C00002145,7689-03-4,Camptothecin,C20H16N2O4,348.11100701,Nothapodytes nimmoniana,Apodytes,KNApSAcK
+1,C00002145,7689-03-4,Camptothecin,C20H16N2O4,348.11100701,Nothapodytes foetida,Apodytes,KNApSAcK
+2,C00007191,81426-17-7,(+)-8-Hydroxypinoresinol,C20H22O7,374.13655306,Nothapodytes foetida,Apodytes,KNApSAcK
+3,C00028736,142727-51-3,Nothapodytine A,C20H18N2O3,334.13174246,Nothapodytes foetida,Apodytes,KNApSAcK
+4,C00028737,55854-89-2,Nothapodytine B,C19H16N2O2,304.12117777,Nothapodytes foetida,Apodytes,KNApSAcK
+5,C00029058,20824-29-7,Strictosidine,C27H34N2O9,530.2264307,Nothapodytes nimmoniana,Apodytes,KNApSAcK
+6,C00029058,20824-29-7,Strictosidine,C27H34N2O9,530.2264307,Nothapodytes foetida,Apodytes,KNApSAcK
+7,C00029611,39026-92-1,9-Methoxycamptothecin,C21H18N2O5,378.1215717,Nothapodytes foetida (Wight)Sleumer,Apodytes,KNApSAcK
+8,C00031110,126722-26-7,Pumiloside,C26H28N2O9,512.17948051,Nothapodytes foetida,Apodytes,KNApSAcK
+9,C00031110,126722-26-7,Pumiloside,C26H28N2O9,512.17948051,Nothapodytes nimmoniana,Apodytes,KNApSAcK
+10,C00036264,126624-20-2,3(S)-Deoxypumiloside,C26H28N2O8,496.18456589,Nothapodytes foetida,Apodytes,KNApSAcK
+11,C00036264,126624-20-2,3(S)-Deoxypumiloside,C26H28N2O8,496.18456589,Nothapodytes nimmoniana,Apodytes,KNApSAcK
+12,C00052110,39026-93-2,20-O-acetyl-9-methoxycamptothecin,C23H20N2O6,420.13213639,Nothapodytes foetida (Wight)Sleumer,Apodytes,KNApSAcK
+13,C00052111,7688-64-4,20-O-Acetylcamptothecin,C22H18N2O5,390.1215717,Nothapodytes foetida (Wight)Sleumer,Apodytes,KNApSAcK
+0,C00003543,75303-44-5,Pittoside A,C41H68O14,784.46090688,Pittosporum nilghrense,Pittosporum,KNApSAcK
+1,C00010874,99-84-3,beta-Terpinen,C10H16,136.12520051,Pittosporum tenuifolium,Pittosporum,KNApSAcK
+2,C00011705,126654-58-8,Pittosporanoside B1,C28H44O7,492.30870376,Pittosporum tobira,Pittosporum,KNApSAcK
+3,C00011706,126654-59-9,Pittosporanoside B2,C28H44O7,492.30870376,Pittosporum tobira,Pittosporum,KNApSAcK
+4,C00011707,126654-60-2,Pittosporanoside B3,C28H44O7,492.30870376,Pittosporum tobira,Pittosporum,KNApSAcK
+5,C00011736,115526-27-7,Pittosporatobiraside A,C26H38O5,430.27192432,Pittosporum tobira,Pittosporum,KNApSAcK
+6,C00011737,127610-67-7,Pittosporatobiraside B,C26H38O5,430.27192432,Pittosporum tobira,Pittosporum,KNApSAcK
+7,C00021218,104472-69-7,Pittosporanoside A1,C28H44O7,492.30870376,Pittosporum tobira,Pittosporum,KNApSAcK
+8,C00021219,104472-70-0,Pittosporanoside A2,C28H44O7,492.30870376,Pittosporum tobira,Pittosporum,KNApSAcK
+9,C00023171,,"5',6'-Epoxy-3'-hydroxy-3-methoxy-4,6-didehydro-5',6'-dihydro-4,6-cyclo-5,6-seco-beta,beta-caroten-5-one",C41H56O4,612.41786028,Pittosporum tobira,Pittosporum,KNApSAcK
+10,C00023172,,"5',8'-Epoxy-3'-hydroxy-3-methoxy-4,6-didehydro-5',8'-dihydro-4,6-cyclo-5,6-seco-beta,beta-caroten-5-one",C41H56O4,612.41786028,Pittosporum tobira,Pittosporum,KNApSAcK
+11,C00034619,934712-35-3,Pancherin A,C25H40O6,436.28248901,Pittosporum pancheri,Pittosporum,KNApSAcK
+12,C00034620,934712-42-2,Pancherin B,C25H40O6,436.28248901,Pittosporum pancheri,Pittosporum,KNApSAcK
+13,C00040029,174390-05-7,Pittosporumxanthin A3,C69H104O6,1028.78329105,Pittosporum tobira,Pittosporum,KNApSAcK
+14,C00040030,174390-06-8,Pittosporumxanthin A4,C69H104O6,1028.78329105,Pittosporum tobira,Pittosporum,KNApSAcK
+15,C00040031,174232-45-2,Pittosporumxanthin B1,C69H104O5,1012.78837643,Pittosporum tobira,Pittosporum,KNApSAcK
+16,C00040032,174390-03-5,Pittosporumxanthin B2,C69H104O5,1012.78837643,Pittosporum tobira,Pittosporum,KNApSAcK
+17,C00040033,174232-46-3,Pittosporumxanthin C1,C69H104O6,1028.78329105,Pittosporum tobira,Pittosporum,KNApSAcK
+18,C00040034,174390-04-6,Pittosporumxanthin C2,C69H104O6,1028.78329105,Pittosporum tobira,Pittosporum,KNApSAcK
+19,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Pittosporum tobira,Pittosporum,KNApSAcK
+0,C00002145,7689-03-4,Camptothecin,C20H16N2O4,348.11100701,Nothapodytes foetida,Nothapodytes,KNApSAcK
+1,C00002145,7689-03-4,Camptothecin,C20H16N2O4,348.11100701,Nothapodytes nimmoniana,Nothapodytes,KNApSAcK
+2,C00007191,81426-17-7,(+)-8-Hydroxypinoresinol,C20H22O7,374.13655306,Nothapodytes foetida,Nothapodytes,KNApSAcK
+3,C00028736,142727-51-3,Nothapodytine A,C20H18N2O3,334.13174246,Nothapodytes foetida,Nothapodytes,KNApSAcK
+4,C00028737,55854-89-2,Nothapodytine B,C19H16N2O2,304.12117777,Nothapodytes foetida,Nothapodytes,KNApSAcK
+5,C00029058,20824-29-7,Strictosidine,C27H34N2O9,530.2264307,Nothapodytes nimmoniana,Nothapodytes,KNApSAcK
+6,C00029058,20824-29-7,Strictosidine,C27H34N2O9,530.2264307,Nothapodytes foetida,Nothapodytes,KNApSAcK
+7,C00029611,39026-92-1,9-Methoxycamptothecin,C21H18N2O5,378.1215717,Nothapodytes foetida (Wight)Sleumer,Nothapodytes,KNApSAcK
+8,C00031110,126722-26-7,Pumiloside,C26H28N2O9,512.17948051,Nothapodytes foetida,Nothapodytes,KNApSAcK
+9,C00031110,126722-26-7,Pumiloside,C26H28N2O9,512.17948051,Nothapodytes nimmoniana,Nothapodytes,KNApSAcK
+10,C00036264,126624-20-2,3(S)-Deoxypumiloside,C26H28N2O8,496.18456589,Nothapodytes foetida,Nothapodytes,KNApSAcK
+11,C00036264,126624-20-2,3(S)-Deoxypumiloside,C26H28N2O8,496.18456589,Nothapodytes nimmoniana,Nothapodytes,KNApSAcK
+12,C00052110,39026-93-2,20-O-acetyl-9-methoxycamptothecin,C23H20N2O6,420.13213639,Nothapodytes foetida (Wight)Sleumer,Nothapodytes,KNApSAcK
+13,C00052111,7688-64-4,20-O-Acetylcamptothecin,C22H18N2O5,390.1215717,Nothapodytes foetida (Wight)Sleumer,Nothapodytes,KNApSAcK
+0,C00038209,1056677-99-6,20-O-Methylptychonal acetal,C21H30O3,330.21949482,Ptychopetalum olacoides,Ptychopetalum,KNApSAcK
+1,C00040108,1058669-48-9,Ptychonal,C20H28O3,316.20384476,Ptychopetalum olacoides,Ptychopetalum,KNApSAcK
+2,C00040109,1056678-05-7,Ptychonal hemiacetal,C20H28O3,316.20384476,Ptychopetalum olacoides,Ptychopetalum,KNApSAcK
+3,C00040110,1056677-92-9,Ptychonolide,C20H26O3,314.1881947,Ptychopetalum olacoides,Ptychopetalum,KNApSAcK
+0,C00007190,487-36-5,(+)-Pinoresinol,C20H22O6,358.14163844,Poraqueiba paraensis,Poraqueiba,KNApSAcK
+1,C00007191,81426-17-7,(+)-8-Hydroxypinoresinol,C20H22O7,374.13655306,Poraqueiba guianensis,Poraqueiba,KNApSAcK
+0,C00002145,7689-03-4,Camptothecin,C20H16N2O4,348.11100701,Mappia foetida,Mappia,KNApSAcK
+1,C00029611,39026-92-1,9-Methoxycamptothecin,C21H18N2O5,378.1215717,Mappia foetida Miers.,Mappia,KNApSAcK
+0,C00000919,7235-40-7,beta-Carotene,C40H56,536.43820179,Hofmeisteria schaffneri,Meisteria,KNApSAcK
+1,C00030228,532-48-9,Euparin,C13H12O3,216.07864425,Hofmeisteria schaffneri,Meisteria,KNApSAcK
+2,C00033517,122427-50-3,"1,4-Bis(2'-hydroxy-4'-methylphenyl)butane-1,4-dione",C18H18O4,298.12050906,Hofmeisteria schanffneri,Meisteria,KNApSAcK
+3,C00033552,1023647-97-3,"2-Hydroxy-2-(2-hydroxy-4-methylphenyl)propane-1,3-diyl (2Z,2'Z)- bis(2-methylbut-2-enoate)",C20H26O6,362.17293856,Hofmeisteria schanffneri,Meisteria,KNApSAcK
+4,C00033917,1000692-87-4,Hofmeisterin III,C15H20O2,232.14632988,Hofmeisteria schanffneri,Meisteria,KNApSAcK
+5,C00042100,223680-32-8,"3',4',4a',9a'-Tetrahydro-6,7'-dimethylspiro[benzofuran-3(2H),2'-pyrano[2,3-b]benzofuran]-2,4a',diol",C20H20O5,340.13107375,Hofmeisteria schaffneri,Meisteria,KNApSAcK
+6,C00042589,860806-61-7,Hofmeisterin,C11H12O4,208.07355887,Hofmeisteria schaffneri,Meisteria,KNApSAcK
+0,C00001645,74991-71-2,Icaceine,C22H33NO4,375.24095855,Icacina guessfeldtii,Icacina,KNApSAcK
+1,C00001645,74991-71-2,Icaceine,C22H33NO4,375.24095855,Icacina guesfeldtii,Icacina,KNApSAcK
+2,C00001646,64999-57-1,Icacine,C22H31NO6,405.21513773,Icacina guessfeldtii,Icacina,KNApSAcK
+3,C00001646,64999-57-1,Icacine,C22H31NO6,405.21513773,Icacina guesfeldtii,Icacina,KNApSAcK
+0,C00000136,470-82-6,"1,8-Cineol",C10H18O,154.1357652,Eucalyptus sideroxylon,Sideroxylon,KNApSAcK
+1,C00000805,80-56-8,alpha-Pinene,C10H16,136.12520051,Eucalyptus sideroxylon,Sideroxylon,KNApSAcK
+2,C00000823,138-86-3,Limonene,C10H16,136.12520051,Eucalyptus sideroxylon,Sideroxylon,KNApSAcK
+3,C00000958,989-51-5,epi-Gallocatechin 3-O-gallate,C22H18O11,458.08491142,Sideroxylon inerme L.,Sideroxylon,KNApSAcK
+4,C00002896,27208-80-6,(E)-Piceid,C20H22O8,390.13146768,Eucalyptus sideroxylon,Sideroxylon,KNApSAcK
+5,C00002903,501-36-0,Resveratrol,C14H12O3,228.07864425,Eucalyptus sideroxylon,Sideroxylon,KNApSAcK
+6,C00002904,155-58-8,Rhaponticin,C21H24O9,420.14203237,Eucalyptus sideroxylon,Sideroxylon,KNApSAcK
+7,C00003989,3122-87-0,Sideroxylin,C18H16O5,312.09977362,Eucalyptus sideroxylon,Sideroxylon,KNApSAcK
+8,C00008672,572-31-6,Dihydrokaempferol-3-O-alpha-L-rhamnopyranoside,C21H22O10,434.12129692,Eucalyptus sideroxylon,Sideroxylon,KNApSAcK
+9,C00009075,20315-25-7,Procyanidin B1,C30H26O12,578.1424263,Sideroxylon inerme L.,Sideroxylon,KNApSAcK

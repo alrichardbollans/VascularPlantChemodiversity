@@ -1,0 +1,606 @@
+,C_ID,CAS ID,example_compound_name,Molecular formula,Mw,Organism,knapsack_search_term,Source
+0,C00001403,462-94-2,Cadaverine,C5H14N2,102.11569846,Huperzia serrata,Huperzia,KNApSAcK
+1,C00001937,15228-74-7,Fawcettimine,C16H25NO2,263.18852905,Huperzia serrata,Huperzia,KNApSAcK
+2,C00001939,103548-82-9,Huperzine B,C16H20N2O,256.15756328,Huperzia serrata,Huperzia,KNApSAcK
+3,C00001944,20316-18-1,Lycodine,C16H22N2,242.17829872,Huperzia serrata,Huperzia,KNApSAcK
+4,C00001948,466-61-5,Lycopodine,C16H25NO,247.19361443,Huperzia selago,Huperzia,KNApSAcK
+5,C00001948,466-61-5,Lycopodine,C16H25NO,247.19361443,Huperzia serrata,Huperzia,KNApSAcK
+6,C00001948,466-61-5,Lycopodine,C16H25NO,247.19361443,Huperzia miyoshiana,Huperzia,KNApSAcK
+7,C00001951,596-55-4,alpha-Obscurine,C17H26N2O,274.20451347,Huperzia selago,Huperzia,KNApSAcK
+8,C00001954,66834-87-5,Phlegmarine,C16H30N2,250.24089897,Huperzia serrata,Huperzia,KNApSAcK
+9,C00001957,19637-58-2,Serratanidine,C16H25NO4,295.17835829,Huperzia serrata,Huperzia,KNApSAcK
+10,C00001958,15252-93-4,Serratine,C16H25NO3,279.18344367,Huperzia serrata,Huperzia,KNApSAcK
+11,C00002062,2858-66-4,Pelletierine,C8H15NO,141.11536411,Huperzia serrata,Huperzia,KNApSAcK
+12,C00002743,1135-24-6,Ferulic acid,C10H10O4,194.05790881,Huperzia selago,Huperzia,KNApSAcK
+13,C00025378,466-62-6,Clavolonine,C16H25NO2,263.18852905,Huperzia miyoshiana,Huperzia,KNApSAcK
+14,C00025384,7096-84-6,Flabelliformine,C16H25NO2,263.18852905,Huperzia miyoshiana,Huperzia,KNApSAcK
+15,C00025387,22594-91-8,Lucidioline,C16H25NO2,263.18852905,Huperzia serrata,Huperzia,KNApSAcK
+16,C00025388,6900-91-0,Lycoclavine,C18H29NO3,307.2147438,Huperzia serrata,Huperzia,KNApSAcK
+17,C00025389,6900-92-1,Lycodoline,C16H25NO2,263.18852905,Huperzia selago,Huperzia,KNApSAcK
+18,C00025389,6900-92-1,Lycodoline,C16H25NO2,263.18852905,Huperzia serrata,Huperzia,KNApSAcK
+19,C00025389,6900-92-1,Lycodoline,C16H25NO2,263.18852905,Huperzia miyoshiana,Huperzia,KNApSAcK
+20,C00025395,21061-90-5,12-Epilycodoline,C16H25NO2,263.18852905,Huperzia selago,Huperzia,KNApSAcK
+21,C00025395,21061-90-5,12-Epilycodoline,C16H25NO2,263.18852905,Huperzia miyoshiana,Huperzia,KNApSAcK
+22,C00025396,20084-82-6,Serratidine,C16H23NO2,261.17287899,Huperzia serratum,Huperzia,KNApSAcK
+23,C00025396,20084-82-6,Serratidine,C16H23NO2,261.17287899,Huperzia serratum var.serratum f. intermedium,Huperzia,KNApSAcK
+24,C00025396,20084-82-6,Serratidine,C16H23NO2,261.17287899,Huperzia serrata,Huperzia,KNApSAcK
+25,C00025396,20084-82-6,Serratidine,C16H23NO2,261.17287899,Huperzia selago,Huperzia,KNApSAcK
+26,C00027658,460722-81-0,11alpha-Hydroxyphlegmariurine B,C16H23NO3,277.16779361,Huperzia serrata,Huperzia,KNApSAcK
+27,C00027765,21061-92-7,6alpha-Hydroxylycopodine,C16H25NO2,263.18852905,Huperzia serrata,Huperzia,KNApSAcK
+28,C00027768,125295-13-8,6beta-Hydroxyhuperzine A,C15H18N2O2,258.13682783,Huperzia serrata,Huperzia,KNApSAcK
+29,C00027772,460722-82-1,7alpha-Hydroxyphlegmariurine B,C16H23NO3,277.16779361,Huperzia serrata,Huperzia,KNApSAcK
+30,C00027780,328946-15-2,8alpha-Hydroxyphlegmariurine B,C16H23NO3,277.16779361,Huperzia serrata,Huperzia,KNApSAcK
+31,C00027781,328946-16-3,8beta-Hydroxyphlegmariurine B,C16H23NO3,277.16779361,Huperzia serrata,Huperzia,KNApSAcK
+32,C00027934,467-79-8,beta-Obscurine,C17H24N2O,272.1888634,Huperzia selago,Huperzia,KNApSAcK
+33,C00028360,158182-11-7,Huperserratinine,C25H33NO5,427.23587317,Huperzia serrata,Huperzia,KNApSAcK
+34,C00028361,102518-79-6,Huperzine A,C15H18N2O,242.14191321,Huperzia selago,Huperzia,KNApSAcK
+35,C00028361,102518-79-6,Huperzine A,C15H18N2O,242.14191321,Huperzia varium,Huperzia,KNApSAcK
+36,C00028361,102518-79-6,Huperzine A,C15H18N2O,242.14191321,Huperzia serrata,Huperzia,KNApSAcK
+37,C00028362,163089-71-2,Huperzine C,C15H18N2O,242.14191321,Huperzia serrata,Huperzia,KNApSAcK
+38,C00028363,163047-27-6,Huperzine D,C17H22N2O2,286.16812796,Huperzia serrata,Huperzia,KNApSAcK
+39,C00028364,371918-17-1,Huperzine E,C16H21NO2,259.15722892,Huperzia serrata,Huperzia,KNApSAcK
+40,C00028365,220205-68-5,Huperzine G,C18H26N2O3,318.19434271,Huperzia serrata,Huperzia,KNApSAcK
+41,C00028366,245432-14-8,Huperzine H,C16H21NO2,259.15722892,Huperzia serrata,Huperzia,KNApSAcK
+42,C00028367,291764-11-9,Huperzine I,C16H23NO2,261.17287899,Huperzia serrata,Huperzia,KNApSAcK
+43,C00028368,316821-09-7,Huperzine J,C17H30N2O,278.23581359,Huperzia serrata,Huperzia,KNApSAcK
+44,C00028369,316821-10-0,Huperzine K,C16H28N2O,264.22016353,Huperzia serrata,Huperzia,KNApSAcK
+45,C00028370,316821-11-1,Huperzine L,C17H30N2O2,294.23072822,Huperzia serrata,Huperzia,KNApSAcK
+46,C00028371,314285-43-3,Huperzine O,C16H23NO3,277.16779361,Huperzia serrata,Huperzia,KNApSAcK
+47,C00028372,292601-58-2,Huperzine P,C16H21NO3,275.15214354,Huperzia serrata,Huperzia,KNApSAcK
+48,C00028373,441756-04-3,Huperzine Q,C16H25NO2,263.18852905,Huperzia serrata,Huperzia,KNApSAcK
+49,C00028374,618457-04-8,Huperzine S,C16H23NO3,277.16779361,Huperzia serrata,Huperzia,KNApSAcK
+50,C00028375,618457-05-9,Huperzine T,C16H23NO3,277.16779361,Huperzia serrata,Huperzia,KNApSAcK
+51,C00028376,618457-06-0,Huperzine U,C16H22N2O2,274.16812796,Huperzia serrata,Huperzia,KNApSAcK
+52,C00028377,439694-98-1,Huperzine W,C14H21NO2,235.15722892,Huperzia serrata,Huperzia,KNApSAcK
+53,C00028378,119188-49-7,Huperzinine,C17H22N2O2,286.16812796,Huperzia serrata,Huperzia,KNApSAcK
+54,C00028521,677723-05-6,Lycoposerramine G,C16H25NO3,279.18344367,Huperzia serrata,Huperzia,KNApSAcK
+55,C00028522,677723-08-9,Lycoposerramine H,C16H23NO2,261.17287899,Huperzia serrata,Huperzia,KNApSAcK
+56,C00028523,677723-10-3,Lycoposerramine I,C16H23NO2,261.17287899,Huperzia serrata,Huperzia,KNApSAcK
+57,C00028524,677723-12-5,Lycoposerramine K,C16H23NO2,261.17287899,Huperzia serrata,Huperzia,KNApSAcK
+58,C00028525,677723-14-7,Lycoposerramine L,C16H25NO2,263.18852905,Huperzia serrata,Huperzia,KNApSAcK
+59,C00028526,677723-17-0,Lycoposerramine M,C16H25NO2,263.18852905,Huperzia serrata,Huperzia,KNApSAcK
+60,C00028527,677723-20-5,Lycoposerramine N,C18H27NO4,321.19400836,Huperzia serrata,Huperzia,KNApSAcK
+61,C00028528,677723-23-8,Lycoposerramine O,C20H39NO6,389.27773799,Huperzia serrata,Huperzia,KNApSAcK
+62,C00028592,623945-29-9,Lycoposerramine F,C16H25NO4,295.17835829,Huperzia serrata,Huperzia,KNApSAcK
+63,C00028592,623945-29-9,Lycoposerramine F,C16H25NO4,295.17835829,Huperzia miyoshiana,Huperzia,KNApSAcK
+64,C00028593,623945-30-2,Lycoposerramine J,C16H25NO2,263.18852905,Huperzia serrata,Huperzia,KNApSAcK
+65,C00028593,623945-30-2,Lycoposerramine J,C16H25NO2,263.18852905,Huperzia miyoshiana,Huperzia,KNApSAcK
+66,C00028634,103526-54-1,"N,N-Dimethylhuperzine A",C17H22N2O,270.17321334,Huperzia serrata,Huperzia,KNApSAcK
+67,C00028668,677335-27-2,Neohuperzinine,C16H23NO3,277.16779361,Huperzia serrata,Huperzia,KNApSAcK
+68,C00028703,110037-64-4,N-Methyl-huperzine B,C17H22N2O,270.17321334,Huperzia serrata,Huperzia,KNApSAcK
+69,C00028738,441756-05-4,N-Oxyhuperzine Q,C16H25NO3,279.18344367,Huperzia serrata,Huperzia,KNApSAcK
+70,C00028826,93754-82-6,Phlegmariurine A,C16H23NO2,261.17287899,Huperzia serrata,Huperzia,KNApSAcK
+71,C00028827,93754-83-7,Phlegmariurine B,C16H23NO2,261.17287899,Huperzia serrata,Huperzia,KNApSAcK
+72,C00028986,790220-40-5,Selagoline,C16H25NO,247.19361443,Huperzia selago,Huperzia,KNApSAcK
+73,C00029002,7689-04-5,Serratinidine,C18H28N2O2,304.21507815,Huperzia serrata,Huperzia,KNApSAcK
+74,C00029003,5545-99-3,Serratinine,C16H25NO3,279.18344367,Huperzia serrata,Huperzia,KNApSAcK
+75,C00034239,2239-24-9,Serratenediol,C30H50O2,442.38108084,Huperzia serrata,Huperzia,KNApSAcK
+76,C00037280,475473-11-1,Huperzine,C17H17NO3,283.12084342,Huperzia serrata,Huperzia,KNApSAcK
+77,C00040237,777855-51-3,Sauroine,C16H25NO3,279.18344367,Huperzia saururus,Huperzia,KNApSAcK
+78,C00044440,627481-44-1,"3alpha,21alpha-Dihydroxyserrat-14-en-24-oic acid",C30H48O4,472.35526002,Huperzia serrata,Huperzia,KNApSAcK
+79,C00044441,53800-21-8,"3alpha,21beta,24-Trihydroxyserrat-14-en-16-one",C30H48O4,472.35526002,Huperzia serrata,Huperzia,KNApSAcK
+80,C00044442,24513-51-7,"3alpha,21beta-Dihydroxyserrat-14-en-16-one",C30H48O3,456.3603454,Huperzia serrata,Huperzia,KNApSAcK
+81,C00044444,38746-57-5,3beta-Hydroxyserrat-14-en-21alpha-yl acetate,C32H52O3,484.39164553,Huperzia serrata,Huperzia,KNApSAcK
+82,C00044445,3787-73-3,3beta-Hydroxyserrat-14-en-21-one,C30H48O2,440.36543078,Huperzia serrata,Huperzia,KNApSAcK
+83,C00050657,35302-52-4,21alpha-Hydroxyserrat-14-en-3beta-yl acetate,C32H52O3,484.39164553,Huperzia serrata,Huperzia,KNApSAcK
+84,C00050658,627481-38-3,21alpha-Hydroxyserrat-14-en-3beta-yl propanedioic acid monoester,C33H52O5,528.38147477,Huperzia serrata,Huperzia,KNApSAcK
+85,C00050659,1260-05-5,21beta-Hydroxyserrat-14-en-3beta-yl acetate,C32H52O3,484.39164553,Huperzia serrata,Huperzia,KNApSAcK
+86,C00051882,,5-Aminopentanal,C5H11NO,101.08406398,Huperzia serrata,Huperzia,KNApSAcK
+87,C00051883,,delta1-Piperideine,C5H9N,83.07349929,Huperzia serrata,Huperzia,KNApSAcK
+88,C00051892,,Lycodane,C16H28N2,248.22524891,Huperzia serrata,Huperzia,KNApSAcK
+0,C00001403,462-94-2,Cadaverine,C5H14N2,102.11569846,Lycopodium annotinum,Lycopodium,KNApSAcK
+1,C00001407,61-50-7,"N,N-Dimethyltryptamine",C12H16N2,188.13134853,Lycopodium phlegmaria,Lycopodium,KNApSAcK
+2,C00001653,26000-17-9,Lycoctonine,C25H41NO7,467.28830267,Lycopodium serratum,Lycopodium,KNApSAcK
+3,C00001653,26000-17-9,Lycoctonine,C25H41NO7,467.28830267,Lycopodium gnidioides,Lycopodium,KNApSAcK
+4,C00001653,26000-17-9,Lycoctonine,C25H41NO7,467.28830267,Lycopodium paniculatum,Lycopodium,KNApSAcK
+5,C00001653,26000-17-9,Lycoctonine,C25H41NO7,467.28830267,Lycopodium clavatum var. megastachyon,Lycopodium,KNApSAcK
+6,C00001930,664-24-4,Acrifoline,C16H23NO2,261.17287899,Lycopodium acrifolium,Lycopodium,KNApSAcK
+7,C00001930,664-24-4,Acrifoline,C16H23NO2,261.17287899,Lycopodium annotinum var. acrifolium,Lycopodium,KNApSAcK
+8,C00001930,664-24-4,Acrifoline,C16H23NO2,261.17287899,Lycopodium selago,Lycopodium,KNApSAcK
+9,C00001931,664-23-3,Annofoline,C16H25NO2,263.18852905,Lycopodium annotinum,Lycopodium,KNApSAcK
+10,C00001932,5096-59-3,Annotine,C16H21NO3,275.15214354,Lycopodium annotinum,Lycopodium,KNApSAcK
+11,C00001933,559-49-9,Annotinine,C16H21NO3,275.15214354,Lycopodium annotinum,Lycopodium,KNApSAcK
+12,C00001933,559-49-9,Annotinine,C16H21NO3,275.15214354,Lycopodium flabelliforme,Lycopodium,KNApSAcK
+13,C00001933,559-49-9,Annotinine,C16H21NO3,275.15214354,Lycopodium obscurum,Lycopodium,KNApSAcK
+14,C00001933,559-49-9,Annotinine,C16H21NO3,275.15214354,Lycopodium selago,Lycopodium,KNApSAcK
+15,C00001934,36101-39-0,Carolinianine,C16H24N2O2,276.18377802,Lycopodium carolinianum var. affine,Lycopodium,KNApSAcK
+16,C00001935,6880-84-8,Cernuine,C16H26N2O,262.20451347,Lycopodium cernuum,Lycopodium,KNApSAcK
+17,C00001935,6880-84-8,Cernuine,C16H26N2O,262.20451347,Lycopodium australianum,Lycopodium,KNApSAcK
+18,C00001935,6880-84-8,Cernuine,C16H26N2O,262.20451347,Lycopodium chinense,Lycopodium,KNApSAcK
+19,C00001935,6880-84-8,Cernuine,C16H26N2O,262.20451347,Lycopodium carolinianum,Lycopodium,KNApSAcK
+20,C00001936,14912-31-3,Fawcettidine,C16H23NO,245.17796436,Lycopodium fawcettii,Lycopodium,KNApSAcK
+21,C00001936,14912-31-3,Fawcettidine,C16H23NO,245.17796436,Lycopodium phlegmaria,Lycopodium,KNApSAcK
+22,C00001937,15228-74-7,Fawcettimine,C16H25NO2,263.18852905,Lycopodium annotinum,Lycopodium,KNApSAcK
+23,C00001937,15228-74-7,Fawcettimine,C16H25NO2,263.18852905,Lycopodium fawcettii,Lycopodium,KNApSAcK
+24,C00001937,15228-74-7,Fawcettimine,C16H25NO2,263.18852905,Lycopodium clavatum var. inflexum,Lycopodium,KNApSAcK
+25,C00001938,6900-86-3,Flabellidine,C18H28N2O,288.22016353,Lycopodium paniculatum,Lycopodium,KNApSAcK
+26,C00001938,6900-86-3,Flabellidine,C18H28N2O,288.22016353,Lycopodium flabelliforme,Lycopodium,KNApSAcK
+27,C00001938,6900-86-3,Flabellidine,C18H28N2O,288.22016353,Lycopodium complanatum,Lycopodium,KNApSAcK
+28,C00001938,6900-86-3,Flabellidine,C18H28N2O,288.22016353,Lycopodium obscurum,Lycopodium,KNApSAcK
+29,C00001938,6900-86-3,Flabellidine,C18H28N2O,288.22016353,Lycopodium thyoides,Lycopodium,KNApSAcK
+30,C00001939,103548-82-9,Huperzine B,C16H20N2O,256.15756328,Lycopodium serratum,Lycopodium,KNApSAcK
+31,C00001940,34415-56-0,Inundatine,C16H23NO2,261.17287899,Lycopodium inundatum,Lycopodium,KNApSAcK
+32,C00001941,71384-23-1,Lucidine B,C30H49N3O,467.38756321,Lycopodium lucidulum,Lycopodium,KNApSAcK
+33,C00001941,71384-23-1,Lucidine B,C30H49N3O,467.38756321,Lycopodium serratum var. serratum f. intermedium,Lycopodium,KNApSAcK
+34,C00001941,71384-23-1,Lucidine B,C30H49N3O,467.38756321,Lycopodium serratum,Lycopodium,KNApSAcK
+35,C00001942,21041-42-9,Lucidiuline,C13H21NO,207.1623143,Lycopodium lucidulum,Lycopodium,KNApSAcK
+36,C00001943,6871-55-2,Lycocernuine,C16H26N2O2,278.19942809,Lycopodium cernuum,Lycopodium,KNApSAcK
+37,C00001943,6871-55-2,Lycocernuine,C16H26N2O2,278.19942809,Lycopodium carolinianum,Lycopodium,KNApSAcK
+38,C00001943,6871-55-2,Lycocernuine,C16H26N2O2,278.19942809,Lycopodium inundatum,Lycopodium,KNApSAcK
+39,C00001944,20316-18-1,Lycodine,C16H22N2,242.17829872,Lycopodium fastigiatum,Lycopodium,KNApSAcK
+40,C00001944,20316-18-1,Lycodine,C16H22N2,242.17829872,Lycopodium deuterodensum,Lycopodium,KNApSAcK
+41,C00001944,20316-18-1,Lycodine,C16H22N2,242.17829872,Lycopodium clavatum var. borbonicum,Lycopodium,KNApSAcK
+42,C00001944,20316-18-1,Lycodine,C16H22N2,242.17829872,Lycopodium australianum,Lycopodium,KNApSAcK
+43,C00001944,20316-18-1,Lycodine,C16H22N2,242.17829872,Lycopodium annotinum,Lycopodium,KNApSAcK
+44,C00001944,20316-18-1,Lycodine,C16H22N2,242.17829872,Lycopodium tristachyum,Lycopodium,KNApSAcK
+45,C00001944,20316-18-1,Lycodine,C16H22N2,242.17829872,Lycopodium serratum var. thunbergii,Lycopodium,KNApSAcK
+46,C00001944,20316-18-1,Lycodine,C16H22N2,242.17829872,Lycopodium serratum var. serratum f. serratum,Lycopodium,KNApSAcK
+47,C00001944,20316-18-1,Lycodine,C16H22N2,242.17829872,Lycopodium magellanicum,Lycopodium,KNApSAcK
+48,C00001944,20316-18-1,Lycodine,C16H22N2,242.17829872,Lycopodium lucidulum,Lycopodium,KNApSAcK
+49,C00001944,20316-18-1,Lycodine,C16H22N2,242.17829872,Lycopodium flabelliforme,Lycopodium,KNApSAcK
+50,C00001944,20316-18-1,Lycodine,C16H22N2,242.17829872,Lycopodium fawcettii,Lycopodium,KNApSAcK
+51,C00001944,20316-18-1,Lycodine,C16H22N2,242.17829872,Lycopodium phlegmaria,Lycopodium,KNApSAcK
+52,C00001944,20316-18-1,Lycodine,C16H22N2,242.17829872,Lycopodium obscurum,Lycopodium,KNApSAcK
+53,C00001944,20316-18-1,Lycodine,C16H22N2,242.17829872,Lycopodium serratum var. serratum f. intermedium,Lycopodium,KNApSAcK
+54,C00001945,3175-90-4,Lycofawcine,C18H29NO4,323.20965842,Lycopodium annotinum,Lycopodium,KNApSAcK
+55,C00001945,3175-90-4,Lycofawcine,C18H29NO4,323.20965842,Lycopodium fawcettii,Lycopodium,KNApSAcK
+56,C00001946,52485-00-4,Lycoflexine,C17H25NO2,275.18852905,Lycopodium clavatum var. inflexum,Lycopodium,KNApSAcK
+57,C00001946,52485-00-4,Lycoflexine,C17H25NO2,275.18852905,Lycopodium serratum var. serratum f. serratum,Lycopodium,KNApSAcK
+58,C00001946,52485-00-4,Lycoflexine,C17H25NO2,275.18852905,Lycopodium serratum var. serratum f. intermedium,Lycopodium,KNApSAcK
+59,C00001946,52485-00-4,Lycoflexine,C17H25NO2,275.18852905,Lycopodium serratum,Lycopodium,KNApSAcK
+60,C00001946,52485-00-4,Lycoflexine,C17H25NO2,275.18852905,Lycopodium phlegmaria,Lycopodium,KNApSAcK
+61,C00001946,52485-00-4,Lycoflexine,C17H25NO2,275.18852905,Lycopodium inundatum,Lycopodium,KNApSAcK
+62,C00001946,52485-00-4,Lycoflexine,C17H25NO2,275.18852905,Lycopodium fastigiatum,Lycopodium,KNApSAcK
+63,C00001946,52485-00-4,Lycoflexine,C17H25NO2,275.18852905,Lycopodium deuterodensum,Lycopodium,KNApSAcK
+64,C00001946,52485-00-4,Lycoflexine,C17H25NO2,275.18852905,Lycopodium clavatum var. borbonicum,Lycopodium,KNApSAcK
+65,C00001946,52485-00-4,Lycoflexine,C17H25NO2,275.18852905,Lycopodium carolinianum,Lycopodium,KNApSAcK
+66,C00001947,6900-93-2,Lyconnotine,C17H25NO3,291.18344367,Lycopodium annotinum,Lycopodium,KNApSAcK
+67,C00001948,466-61-5,Lycopodine,C16H25NO,247.19361443,Lycopodium lucidulum,Lycopodium,KNApSAcK
+68,C00001948,466-61-5,Lycopodine,C16H25NO,247.19361443,Lycopodium deuterodensum,Lycopodium,KNApSAcK
+69,C00001948,466-61-5,Lycopodine,C16H25NO,247.19361443,Lycopodium magellanicum,Lycopodium,KNApSAcK
+70,C00001948,466-61-5,Lycopodine,C16H25NO,247.19361443,Lycopodium lucidum Michx.,Lycopodium,KNApSAcK
+71,C00001948,466-61-5,Lycopodine,C16H25NO,247.19361443,Lycopodium japonicum,Lycopodium,KNApSAcK
+72,C00001948,466-61-5,Lycopodine,C16H25NO,247.19361443,Lycopodium issleri,Lycopodium,KNApSAcK
+73,C00001948,466-61-5,Lycopodine,C16H25NO,247.19361443,Lycopodium inundatum,Lycopodium,KNApSAcK
+74,C00001948,466-61-5,Lycopodine,C16H25NO,247.19361443,Lycopodium flabelliforme,Lycopodium,KNApSAcK
+75,C00001948,466-61-5,Lycopodine,C16H25NO,247.19361443,Lycopodium fastigiatum,Lycopodium,KNApSAcK
+76,C00001948,466-61-5,Lycopodine,C16H25NO,247.19361443,Lycopodium erythraeum,Lycopodium,KNApSAcK
+77,C00001948,466-61-5,Lycopodine,C16H25NO,247.19361443,Lycopodium densum,Lycopodium,KNApSAcK
+78,C00001948,466-61-5,Lycopodine,C16H25NO,247.19361443,Lycopodium contiguum,Lycopodium,KNApSAcK
+79,C00001948,466-61-5,Lycopodine,C16H25NO,247.19361443,Lycopodium complanatum,Lycopodium,KNApSAcK
+80,C00001948,466-61-5,Lycopodine,C16H25NO,247.19361443,Lycopodium clavatum,Lycopodium,KNApSAcK
+81,C00001948,466-61-5,Lycopodine,C16H25NO,247.19361443,Lycopodium cernuum,Lycopodium,KNApSAcK
+82,C00001948,466-61-5,Lycopodine,C16H25NO,247.19361443,Lycopodium carolinum,Lycopodium,KNApSAcK
+83,C00001948,466-61-5,Lycopodine,C16H25NO,247.19361443,Lycopodium annotinum,Lycopodium,KNApSAcK
+84,C00001948,466-61-5,Lycopodine,C16H25NO,247.19361443,Lycopodium alopecuroides,Lycopodium,KNApSAcK
+85,C00001948,466-61-5,Lycopodine,C16H25NO,247.19361443,Lycopodium volubile,Lycopodium,KNApSAcK
+86,C00001948,466-61-5,Lycopodine,C16H25NO,247.19361443,Lycopodium verticillatum,Lycopodium,KNApSAcK
+87,C00001948,466-61-5,Lycopodine,C16H25NO,247.19361443,Lycopodium tristachyum,Lycopodium,KNApSAcK
+88,C00001948,466-61-5,Lycopodine,C16H25NO,247.19361443,Lycopodium thyoides,Lycopodium,KNApSAcK
+89,C00001948,466-61-5,Lycopodine,C16H25NO,247.19361443,Lycopodium stichense,Lycopodium,KNApSAcK
+90,C00001948,466-61-5,Lycopodine,C16H25NO,247.19361443,Lycopodium serratum,Lycopodium,KNApSAcK
+91,C00001948,466-61-5,Lycopodine,C16H25NO,247.19361443,Lycopodium phlegmaria,Lycopodium,KNApSAcK
+92,C00001948,466-61-5,Lycopodine,C16H25NO,247.19361443,Lycopodium paniculatum,Lycopodium,KNApSAcK
+93,C00001948,466-61-5,Lycopodine,C16H25NO,247.19361443,Lycopodium obscurum,Lycopodium,KNApSAcK
+94,C00001949,61273-75-4,Magellanine,C17H25NO2,275.18852905,Lycopodium magellanicum,Lycopodium,KNApSAcK
+95,C00001950,72049-07-1,Megastachine,C20H29NO3,331.2147438,Lycopodium megastachyum,Lycopodium,KNApSAcK
+96,C00001951,596-55-4,alpha-Obscurine,C17H26N2O,274.20451347,Lycopodium clavatum,Lycopodium,KNApSAcK
+97,C00001951,596-55-4,alpha-Obscurine,C17H26N2O,274.20451347,Lycopodium complanatum,Lycopodium,KNApSAcK
+98,C00001951,596-55-4,alpha-Obscurine,C17H26N2O,274.20451347,Lycopodium fastigiatum,Lycopodium,KNApSAcK
+99,C00001951,596-55-4,alpha-Obscurine,C17H26N2O,274.20451347,Lycopodium flabelliforme,Lycopodium,KNApSAcK
+100,C00001951,596-55-4,alpha-Obscurine,C17H26N2O,274.20451347,Lycopodium magellanicum,Lycopodium,KNApSAcK
+101,C00001951,596-55-4,alpha-Obscurine,C17H26N2O,274.20451347,Lycopodium obscurum,Lycopodium,KNApSAcK
+102,C00001951,596-55-4,alpha-Obscurine,C17H26N2O,274.20451347,Lycopodium selago,Lycopodium,KNApSAcK
+103,C00001951,596-55-4,alpha-Obscurine,C17H26N2O,274.20451347,Lycopodium sitchense,Lycopodium,KNApSAcK
+104,C00001951,596-55-4,alpha-Obscurine,C17H26N2O,274.20451347,Lycopodium thyoides,Lycopodium,KNApSAcK
+105,C00001951,596-55-4,alpha-Obscurine,C17H26N2O,274.20451347,Lycopodium annotinum,Lycopodium,KNApSAcK
+106,C00001952,467-78-8,beta-Obscurine,C17H24N2O,272.1888634,Lycopodium clavatum,Lycopodium,KNApSAcK
+107,C00001953,71384-25-3,Oxolucidine B,C30H49N3O2,483.38247783,Lycopodium lucidulum,Lycopodium,KNApSAcK
+108,C00001953,71384-25-3,Oxolucidine B,C30H49N3O2,483.38247783,Lycopodium serratum,Lycopodium,KNApSAcK
+109,C00001953,71384-25-3,Oxolucidine B,C30H49N3O2,483.38247783,Lycopodium lucidum,Lycopodium,KNApSAcK
+110,C00001954,66834-87-5,Phlegmarine,C16H30N2,250.24089897,Lycopodium annotinum,Lycopodium,KNApSAcK
+111,C00001954,66834-87-5,Phlegmarine,C16H30N2,250.24089897,Lycopodium phlegmaria,Lycopodium,KNApSAcK
+112,C00001955,3279-74-1,Sauroxine,C17H26N2O,274.20451347,Lycopodium saururus,Lycopodium,KNApSAcK
+113,C00001956,116-28-9,Selagine,C15H18N2O,242.14191321,Lycopodium serratum,Lycopodium,KNApSAcK
+114,C00001956,116-28-9,Selagine,C15H18N2O,242.14191321,Lycopodium gnidioides,Lycopodium,KNApSAcK
+115,C00001956,116-28-9,Selagine,C15H18N2O,242.14191321,Lycopodium saururus,Lycopodium,KNApSAcK
+116,C00001956,116-28-9,Selagine,C15H18N2O,242.14191321,Lycopodium selago,Lycopodium,KNApSAcK
+117,C00001956,116-28-9,Selagine,C15H18N2O,242.14191321,Lycopodium erythraeum,Lycopodium,KNApSAcK
+118,C00001957,19637-58-2,Serratanidine,C16H25NO4,295.17835829,Lycopodium serratum var. serratum f. intermedium,Lycopodium,KNApSAcK
+119,C00001957,19637-58-2,Serratanidine,C16H25NO4,295.17835829,Lycopodium serratum var. serratum f. serratum,Lycopodium,KNApSAcK
+120,C00001957,19637-58-2,Serratanidine,C16H25NO4,295.17835829,Lycopodium serratum,Lycopodium,KNApSAcK
+121,C00001958,15252-93-4,Serratine,C16H25NO3,279.18344367,Lycopodium serratum var. serratum f. serratum,Lycopodium,KNApSAcK
+122,C00001958,15252-93-4,Serratine,C16H25NO3,279.18344367,Lycopodium serratum var. serratum f. intermedium,Lycopodium,KNApSAcK
+123,C00001958,15252-93-4,Serratine,C16H25NO3,279.18344367,Lycopodium serratum,Lycopodium,KNApSAcK
+124,C00001958,15252-93-4,Serratine,C16H25NO3,279.18344367,Lycopodium serratum var. thunbergii,Lycopodium,KNApSAcK
+125,C00001959,89647-79-0,Spirolucidine,C30H49N3O2,483.38247783,Lycopodium lucidum,Lycopodium,KNApSAcK
+126,C00001959,89647-79-0,Spirolucidine,C30H49N3O2,483.38247783,Lycopodium lucidulum,Lycopodium,KNApSAcK
+127,C00002057,54-11-5,Nicotine,C10H14N2,162.11569846,Lycopodium spp.,Lycopodium,KNApSAcK
+128,C00002062,2858-66-4,Pelletierine,C8H15NO,141.11536411,Lycopodium annotinum,Lycopodium,KNApSAcK
+129,C00002657,123-08-0,4-Hydroxybenzaldehyde,C7H6O2,122.03677944,Lycopodium spp.,Lycopodium,KNApSAcK
+130,C00002743,1135-24-6,Ferulic acid,C10H10O4,194.05790881,Lycopodium japonicum,Lycopodium,KNApSAcK
+131,C00003674,83-48-7,beta-Stigmasterol,C29H48O,412.37051615,Lycopodium cernuum,Lycopodium,KNApSAcK
+132,C00004335,74336-86-0,Luteolin 3'-methyl ether 5-glucoside,C22H22O11,462.11621155,Lycopodium scariosum,Lycopodium,KNApSAcK
+133,C00004347,74336-87-1,"Luteolin 3'-methyl ether 5,4'-diglucoside",C28H32O16,624.16903498,Lycopodium scariosum,Lycopodium,KNApSAcK
+134,C00004349,36451-45-3,"Luteolin 3'-methyl ether 7,4'-diglucoside",C28H32O16,624.16903498,Lycopodium scariosum,Lycopodium,KNApSAcK
+135,C00004465,71855-50-0,Tricin 4'-glucoside,C23H24O12,492.12677623,Lycopodium scariosum,Lycopodium,KNApSAcK
+136,C00004467,74336-88-2,"Tricin 5,7-diglucoside",C29H34O17,654.17959966,Lycopodium scariosum,Lycopodium,KNApSAcK
+137,C00025372,6793-40-4,Acetylacrifoline,C18H25NO3,303.18344367,Lycopodium carolinum (Lawalree) Symoens,Lycopodium,KNApSAcK
+138,C00025372,6793-40-4,Acetylacrifoline,C18H25NO3,303.18344367,Lycopodium ophioglossoides,Lycopodium,KNApSAcK
+139,C00025372,6793-40-4,Acetylacrifoline,C18H25NO3,303.18344367,Lycopodium annotinum,Lycopodium,KNApSAcK
+140,C00025373,52998-89-7,Acetyldihydrolycopodine,C18H29NO2,291.21982918,Lycopodium contiguum,Lycopodium,KNApSAcK
+141,C00025373,52998-89-7,Acetyldihydrolycopodine,C18H29NO2,291.21982918,Lycopodium paniculatum,Lycopodium,KNApSAcK
+142,C00025373,52998-89-7,Acetyldihydrolycopodine,C18H29NO2,291.21982918,Lycopodium thyoides,Lycopodium,KNApSAcK
+143,C00025373,52998-89-7,Acetyldihydrolycopodine,C18H29NO2,291.21982918,Lycopodium magellanicum,Lycopodium,KNApSAcK
+144,C00025373,52998-89-7,Acetyldihydrolycopodine,C18H29NO2,291.21982918,Lycopodium clavatum var.borbonicum,Lycopodium,KNApSAcK
+145,C00025374,52998-88-6,Acetylfawcettiine,C20H31NO4,349.22530849,Lycopodium annotinum,Lycopodium,KNApSAcK
+146,C00025374,52998-88-6,Acetylfawcettiine,C20H31NO4,349.22530849,Lycopodium thyoides,Lycopodium,KNApSAcK
+147,C00025374,52998-88-6,Acetylfawcettiine,C20H31NO4,349.22530849,Lycopodium saururus,Lycopodium,KNApSAcK
+148,C00025374,52998-88-6,Acetylfawcettiine,C20H31NO4,349.22530849,Lycopodium contiguum,Lycopodium,KNApSAcK
+149,C00025374,52998-88-6,Acetylfawcettiine,C20H31NO4,349.22530849,Lycopodium clavatum,Lycopodium,KNApSAcK
+150,C00025374,52998-88-6,Acetylfawcettiine,C20H31NO4,349.22530849,Lycopodium magellanicum,Lycopodium,KNApSAcK
+151,C00025374,52998-88-6,Acetylfawcettiine,C20H31NO4,349.22530849,Lycopodium fawcettii,Lycopodium,KNApSAcK
+152,C00025375,102418-32-6,Acetyllycoclavine,C20H31NO4,349.22530849,Lycopodium carolinum (Lawalree)Symoens,Lycopodium,KNApSAcK
+153,C00025375,102418-32-6,Acetyllycoclavine,C20H31NO4,349.22530849,Lycopodium clavatum var. megastachyon,Lycopodium,KNApSAcK
+154,C00025376,561-15-9,alpha-Lofoline,C18H29NO3,307.2147438,Lycopodium carolinum (Lawalree)Symoens,Lycopodium,KNApSAcK
+155,C00025376,561-15-9,alpha-Lofoline,C18H29NO3,307.2147438,Lycopodium annotinum,Lycopodium,KNApSAcK
+156,C00025377,61328-12-9,Anhydrodeacetylpaniculine,C16H25NO,247.19361443,Lycopodium paniculatum Desvaux,Lycopodium,KNApSAcK
+157,C00025378,466-62-6,Clavolonine,C16H25NO2,263.18852905,Lycopodium contiguum,Lycopodium,KNApSAcK
+158,C00025378,466-62-6,Clavolonine,C16H25NO2,263.18852905,Lycopodium thyoides,Lycopodium,KNApSAcK
+159,C00025378,466-62-6,Clavolonine,C16H25NO2,263.18852905,Lycopodium stichense,Lycopodium,KNApSAcK
+160,C00025378,466-62-6,Clavolonine,C16H25NO2,263.18852905,Lycopodium sitchense,Lycopodium,KNApSAcK
+161,C00025378,466-62-6,Clavolonine,C16H25NO2,263.18852905,Lycopodium sieboldii,Lycopodium,KNApSAcK
+162,C00025378,466-62-6,Clavolonine,C16H25NO2,263.18852905,Lycopodium serratum var. serratum f. serratum,Lycopodium,KNApSAcK
+163,C00025378,466-62-6,Clavolonine,C16H25NO2,263.18852905,Lycopodium serratum var. serratum f. intermedium,Lycopodium,KNApSAcK
+164,C00025378,466-62-6,Clavolonine,C16H25NO2,263.18852905,Lycopodium saururus,Lycopodium,KNApSAcK
+165,C00025378,466-62-6,Clavolonine,C16H25NO2,263.18852905,Lycopodium obscurum,Lycopodium,KNApSAcK
+166,C00025378,466-62-6,Clavolonine,C16H25NO2,263.18852905,Lycopodium magellanicum,Lycopodium,KNApSAcK
+167,C00025378,466-62-6,Clavolonine,C16H25NO2,263.18852905,Lycopodium inundatum,Lycopodium,KNApSAcK
+168,C00025378,466-62-6,Clavolonine,C16H25NO2,263.18852905,Lycopodium flabelliforme,Lycopodium,KNApSAcK
+169,C00025378,466-62-6,Clavolonine,C16H25NO2,263.18852905,Lycopodium deuterodensum,Lycopodium,KNApSAcK
+170,C00025378,466-62-6,Clavolonine,C16H25NO2,263.18852905,Lycopodium densum,Lycopodium,KNApSAcK
+171,C00025378,466-62-6,Clavolonine,C16H25NO2,263.18852905,Lycopodium clavatum L.,Lycopodium,KNApSAcK
+172,C00025379,54307-46-9,Deacetylfawcettiine,C16H27NO2,265.20417911,Lycopodium thyoides,Lycopodium,KNApSAcK
+173,C00025379,54307-46-9,Deacetylfawcettiine,C16H27NO2,265.20417911,Lycopodium contiguum,Lycopodium,KNApSAcK
+174,C00025379,54307-46-9,Deacetylfawcettiine,C16H27NO2,265.20417911,Lycopodium fawcettii,Lycopodium,KNApSAcK
+175,C00025379,54307-46-9,Deacetylfawcettiine,C16H27NO2,265.20417911,Lycopodium magellanicum,Lycopodium,KNApSAcK
+176,C00025380,23627-70-5,Deacetyllycoclavine,C16H27NO2,265.20417911,Lycopodium paniculatum,Lycopodium,KNApSAcK
+177,C00025380,23627-70-5,Deacetyllycoclavine,C16H27NO2,265.20417911,Lycopodium serratum,Lycopodium,KNApSAcK
+178,C00025380,23627-70-5,Deacetyllycoclavine,C16H27NO2,265.20417911,Lycopodium clavatum var. megastachyon,Lycopodium,KNApSAcK
+179,C00025381,73907-65-0,Deacetylpaniculine,C16H27NO2,265.20417911,Lycopodium paniculatum,Lycopodium,KNApSAcK
+180,C00025381,73907-65-0,Deacetylpaniculine,C16H27NO2,265.20417911,Lycopodium confertum,Lycopodium,KNApSAcK
+181,C00025382,23768-74-3,Dihydrolycopodine,C16H27NO,249.20926449,Lycopodium clavatum var. inflexum,Lycopodium,KNApSAcK
+182,C00025382,23768-74-3,Dihydrolycopodine,C16H27NO,249.20926449,Lycopodium clavatum var. megastachyon,Lycopodium,KNApSAcK
+183,C00025382,23768-74-3,Dihydrolycopodine,C16H27NO,249.20926449,Lycopodium contiguum,Lycopodium,KNApSAcK
+184,C00025382,23768-74-3,Dihydrolycopodine,C16H27NO,249.20926449,Lycopodium flabelliforme,Lycopodium,KNApSAcK
+185,C00025382,23768-74-3,Dihydrolycopodine,C16H27NO,249.20926449,Lycopodium magellanicum,Lycopodium,KNApSAcK
+186,C00025382,23768-74-3,Dihydrolycopodine,C16H27NO,249.20926449,Lycopodium obscurum,Lycopodium,KNApSAcK
+187,C00025382,23768-74-3,Dihydrolycopodine,C16H27NO,249.20926449,Lycopodium paniculatum,Lycopodium,KNApSAcK
+188,C00025382,23768-74-3,Dihydrolycopodine,C16H27NO,249.20926449,Lycopodium saururus,Lycopodium,KNApSAcK
+189,C00025382,23768-74-3,Dihydrolycopodine,C16H27NO,249.20926449,Lycopodium thyoides,Lycopodium,KNApSAcK
+190,C00025382,23768-74-3,Dihydrolycopodine,C16H27NO,249.20926449,Lycopodium volubile,Lycopodium,KNApSAcK
+191,C00025382,23768-74-3,Dihydrolycopodine,C16H27NO,249.20926449,Lycopodium clavatum,Lycopodium,KNApSAcK
+192,C00025382,23768-74-3,Dihydrolycopodine,C16H27NO,249.20926449,Lycopodium carolinum,Lycopodium,KNApSAcK
+193,C00025382,23768-74-3,Dihydrolycopodine,C16H27NO,249.20926449,Lycopodium clavatum var. borbonicum,Lycopodium,KNApSAcK
+194,C00025383,6899-87-2,Fawcettiine,C18H29NO3,307.2147438,Lycopodium annotinum,Lycopodium,KNApSAcK
+195,C00025383,6899-87-2,Fawcettiine,C18H29NO3,307.2147438,Lycopodium thyoides,Lycopodium,KNApSAcK
+196,C00025383,6899-87-2,Fawcettiine,C18H29NO3,307.2147438,Lycopodium saururus,Lycopodium,KNApSAcK
+197,C00025383,6899-87-2,Fawcettiine,C18H29NO3,307.2147438,Lycopodium magellanicum,Lycopodium,KNApSAcK
+198,C00025383,6899-87-2,Fawcettiine,C18H29NO3,307.2147438,Lycopodium fawcettii,Lycopodium,KNApSAcK
+199,C00025383,6899-87-2,Fawcettiine,C18H29NO3,307.2147438,Lycopodium contiguum,Lycopodium,KNApSAcK
+200,C00025383,6899-87-2,Fawcettiine,C18H29NO3,307.2147438,Lycopodium clavatum,Lycopodium,KNApSAcK
+201,C00025384,7096-84-6,Flabelliformine,C16H25NO2,263.18852905,Lycopodium clavatum var. megastachyon,Lycopodium,KNApSAcK
+202,C00025384,7096-84-6,Flabelliformine,C16H25NO2,263.18852905,Lycopodium flabelliforme Fernald.,Lycopodium,KNApSAcK
+203,C00025384,7096-84-6,Flabelliformine,C16H25NO2,263.18852905,Lycopodium annotinum,Lycopodium,KNApSAcK
+204,C00025384,7096-84-6,Flabelliformine,C16H25NO2,263.18852905,Lycopodium carolinum (Lawalree) Symoens,Lycopodium,KNApSAcK
+205,C00025384,7096-84-6,Flabelliformine,C16H25NO2,263.18852905,Lycopodium clavatum,Lycopodium,KNApSAcK
+206,C00025385,6899-89-4,Flabelline,C18H28N2O,288.22016353,Lycopodium deuterodensum,Lycopodium,KNApSAcK
+207,C00025385,6899-89-4,Flabelline,C18H28N2O,288.22016353,Lycopodium carolinum (Lawalree) Symoens,Lycopodium,KNApSAcK
+208,C00025385,6899-89-4,Flabelline,C18H28N2O,288.22016353,Lycopodium lucidulum,Lycopodium,KNApSAcK
+209,C00025385,6899-89-4,Flabelline,C18H28N2O,288.22016353,Lycopodium flabelliforme,Lycopodium,KNApSAcK
+210,C00025386,62023-83-0,Gnidioidine,C16H23NO2,261.17287899,Lycopodium gnidioides,Lycopodium,KNApSAcK
+211,C00025386,62023-83-0,Gnidioidine,C16H23NO2,261.17287899,Lycopodium phlegmaria,Lycopodium,KNApSAcK
+212,C00025387,22594-91-8,Lucidioline,C16H25NO2,263.18852905,Lycopodium gnidioides,Lycopodium,KNApSAcK
+213,C00025387,22594-91-8,Lucidioline,C16H25NO2,263.18852905,Lycopodium lucidulum,Lycopodium,KNApSAcK
+214,C00025387,22594-91-8,Lucidioline,C16H25NO2,263.18852905,Lycopodium ophioglossoides,Lycopodium,KNApSAcK
+215,C00025387,22594-91-8,Lucidioline,C16H25NO2,263.18852905,Lycopodium serratum,Lycopodium,KNApSAcK
+216,C00025388,6900-91-0,Lycoclavine,C18H29NO3,307.2147438,Lycopodium paniculatum,Lycopodium,KNApSAcK
+217,C00025388,6900-91-0,Lycoclavine,C18H29NO3,307.2147438,Lycopodium clavatum var.megastachyon Fern.et Bissel.,Lycopodium,KNApSAcK
+218,C00025388,6900-91-0,Lycoclavine,C18H29NO3,307.2147438,Lycopodium alpinum,Lycopodium,KNApSAcK
+219,C00025388,6900-91-0,Lycoclavine,C18H29NO3,307.2147438,Lycopodium gnidioides,Lycopodium,KNApSAcK
+220,C00025389,6900-92-1,Lycodoline,C16H25NO2,263.18852905,Lycopodium fawcettii,Lycopodium,KNApSAcK
+221,C00025389,6900-92-1,Lycodoline,C16H25NO2,263.18852905,Lycopodium serratum var. serratum,Lycopodium,KNApSAcK
+222,C00025389,6900-92-1,Lycodoline,C16H25NO2,263.18852905,Lycopodium serratum var. f. serratum,Lycopodium,KNApSAcK
+223,C00025389,6900-92-1,Lycodoline,C16H25NO2,263.18852905,Lycopodium serratum var. f. intermedium,Lycopodium,KNApSAcK
+224,C00025389,6900-92-1,Lycodoline,C16H25NO2,263.18852905,Lycopodium serratum,Lycopodium,KNApSAcK
+225,C00025389,6900-92-1,Lycodoline,C16H25NO2,263.18852905,Lycopodium selago,Lycopodium,KNApSAcK
+226,C00025389,6900-92-1,Lycodoline,C16H25NO2,263.18852905,Lycopodium saururus,Lycopodium,KNApSAcK
+227,C00025389,6900-92-1,Lycodoline,C16H25NO2,263.18852905,Lycopodium phlegmaria,Lycopodium,KNApSAcK
+228,C00025389,6900-92-1,Lycodoline,C16H25NO2,263.18852905,Lycopodium lucidulum,Lycopodium,KNApSAcK
+229,C00025389,6900-92-1,Lycodoline,C16H25NO2,263.18852905,Lycopodium japonicum,Lycopodium,KNApSAcK
+230,C00025389,6900-92-1,Lycodoline,C16H25NO2,263.18852905,Lycopodium inundatum,Lycopodium,KNApSAcK
+231,C00025389,6900-92-1,Lycodoline,C16H25NO2,263.18852905,Lycopodium clavatum var. inflexum,Lycopodium,KNApSAcK
+232,C00025389,6900-92-1,Lycodoline,C16H25NO2,263.18852905,Lycopodium clavatum var. borbonicum,Lycopodium,KNApSAcK
+233,C00025389,6900-92-1,Lycodoline,C16H25NO2,263.18852905,Lycopodium clavatum,Lycopodium,KNApSAcK
+234,C00025389,6900-92-1,Lycodoline,C16H25NO2,263.18852905,Lycopodium carolinum,Lycopodium,KNApSAcK
+235,C00025389,6900-92-1,Lycodoline,C16H25NO2,263.18852905,Lycopodium annotinum var. acerifolium,Lycopodium,KNApSAcK
+236,C00025389,6900-92-1,Lycodoline,C16H25NO2,263.18852905,Lycopodium annotinum,Lycopodium,KNApSAcK
+237,C00025390,7163-08-8,Lycofoline,C16H25NO2,263.18852905,Lycopodium obscurum,Lycopodium,KNApSAcK
+238,C00025390,7163-08-8,Lycofoline,C16H25NO2,263.18852905,Lycopodium fawcettii,Lycopodium,KNApSAcK
+239,C00025390,7163-08-8,Lycofoline,C16H25NO2,263.18852905,Lycopodium carolinum (Lawalree) Symoens,Lycopodium,KNApSAcK
+240,C00025390,7163-08-8,Lycofoline,C16H25NO2,263.18852905,Lycopodium annotinum,Lycopodium,KNApSAcK
+241,C00025391,62023-84-1,Lycognidine,C27H39NO5,457.28282336,Lycopodium gnidioides,Lycopodium,KNApSAcK
+242,C00025392,82841-97-2,Lycophlegmine,C16H23NO2,261.17287899,Lycopodium phlegmaria L.,Lycopodium,KNApSAcK
+243,C00025393,62023-86-3,Lycoverticine,C18H28N2O2,304.21507815,Lycopodium verticillatum L.,Lycopodium,KNApSAcK
+244,C00025394,61328-14-1,Paniculine,C18H29NO3,307.2147438,Lycopodium confertum,Lycopodium,KNApSAcK
+245,C00025394,61328-14-1,Paniculine,C18H29NO3,307.2147438,Lycopodium paniculatum,Lycopodium,KNApSAcK
+246,C00025395,21061-90-5,12-Epilycodoline,C16H25NO2,263.18852905,Lycopodium selago,Lycopodium,KNApSAcK
+247,C00025395,21061-90-5,12-Epilycodoline,C16H25NO2,263.18852905,Lycopodium carolinum (Lawalree) Symoens,Lycopodium,KNApSAcK
+248,C00025395,21061-90-5,12-Epilycodoline,C16H25NO2,263.18852905,Lycopodium lucidulum,Lycopodium,KNApSAcK
+249,C00025396,20084-82-6,Serratidine,C16H23NO2,261.17287899,Lycopodium serratum,Lycopodium,KNApSAcK
+250,C00025396,20084-82-6,Serratidine,C16H23NO2,261.17287899,Lycopodium carolinum (Lawalree)Symoens,Lycopodium,KNApSAcK
+251,C00027765,21061-92-7,6alpha-Hydroxylycopodine,C16H25NO2,263.18852905,Lycopodium lucidulum,Lycopodium,KNApSAcK
+252,C00027768,125295-13-8,6beta-Hydroxyhuperzine A,C15H18N2O2,258.13682783,Lycopodium selago,Lycopodium,KNApSAcK
+253,C00027782,82841-99-4,8-Deoxyserratinidine,C18H28N2O,288.22016353,Lycopodium phlegmaria,Lycopodium,KNApSAcK
+254,C00027783,18331-31-2,8-Deoxyserratinine,C16H25NO2,263.18852905,Lycopodium serratum var. serratum f. intermedium,Lycopodium,KNApSAcK
+255,C00027800,123118-13-8,Acetyllobscurinol,C19H27NO3,317.19909374,Lycopodium ophioglossoides,Lycopodium,KNApSAcK
+256,C00027806,639-32-7,Acrifolinol,C16H25NO2,263.18852905,Lycopodium annotinum,Lycopodium,KNApSAcK
+257,C00027806,639-32-7,Acrifolinol,C16H25NO2,263.18852905,Lycopodium obscurum,Lycopodium,KNApSAcK
+258,C00027830,23185-50-4,Alolycopine,C16H21NO2,259.15722892,Lycopodium alopecuroides,Lycopodium,KNApSAcK
+259,C00027832,23258-68-6,Alopecurine,C23H29NO3,367.2147438,Lycopodium alopecuroides,Lycopodium,KNApSAcK
+260,C00027861,62023-85-2,Anhydroaposerratinine,C16H23NO2,261.17287899,Lycopodium verticillatum,Lycopodium,KNApSAcK
+261,C00027862,54551-08-5,Anhydrodihydrolycopodine,C16H25N,231.1986998,Lycopodium tristachyum,Lycopodium,KNApSAcK
+262,C00027863,34331-32-3,Anhydrolycocernuine,C16H24N2O,260.1888634,Lycopodium inundatum,Lycopodium,KNApSAcK
+263,C00027863,34331-32-3,Anhydrolycocernuine,C16H24N2O,260.1888634,Lycopodium carolinianum var. affine,Lycopodium,KNApSAcK
+264,C00027863,34331-32-3,Anhydrolycocernuine,C16H24N2O,260.1888634,Lycopodium cernuum,Lycopodium,KNApSAcK
+265,C00027864,18834-79-2,Anhydrolycodoline,C16H23NO,245.17796436,Lycopodium phlegmaria,Lycopodium,KNApSAcK
+266,C00027864,18834-79-2,Anhydrolycodoline,C16H23NO,245.17796436,Lycopodium gnidioides,Lycopodium,KNApSAcK
+267,C00027864,18834-79-2,Anhydrolycodoline,C16H23NO,245.17796436,Lycopodium inundatum,Lycopodium,KNApSAcK
+268,C00027864,18834-79-2,Anhydrolycodoline,C16H23NO,245.17796436,Lycopodium clavatum var. borbonicum,Lycopodium,KNApSAcK
+269,C00027864,18834-79-2,Anhydrolycodoline,C16H23NO,245.17796436,Lycopodium saururus,Lycopodium,KNApSAcK
+270,C00027864,18834-79-2,Anhydrolycodoline,C16H23NO,245.17796436,Lycopodium carolinum,Lycopodium,KNApSAcK
+271,C00027869,20390-90-3,Annopodine,C17H25NO3,291.18344367,Lycopodium annotinum,Lycopodium,KNApSAcK
+272,C00027934,467-79-8,beta-Obscurine,C17H24N2O,272.1888634,Lycopodium flabelliforme,Lycopodium,KNApSAcK
+273,C00027934,467-79-8,beta-Obscurine,C17H24N2O,272.1888634,Lycopodium annotinum,Lycopodium,KNApSAcK
+274,C00027934,467-79-8,beta-Obscurine,C17H24N2O,272.1888634,Lycopodium selago,Lycopodium,KNApSAcK
+275,C00027934,467-79-8,beta-Obscurine,C17H24N2O,272.1888634,Lycopodium obscurum var. dendroideum,Lycopodium,KNApSAcK
+276,C00027934,467-79-8,beta-Obscurine,C17H24N2O,272.1888634,Lycopodium obscurum,Lycopodium,KNApSAcK
+277,C00027934,467-79-8,beta-Obscurine,C17H24N2O,272.1888634,Lycopodium magellanicum,Lycopodium,KNApSAcK
+278,C00028027,760947-73-7,Cermizine A,C19H34N2O2,322.26202834,Lycopodium cernuum,Lycopodium,KNApSAcK
+279,C00028028,760947-74-8,Cermizine B,C17H32N2,264.25654904,Lycopodium cernuum,Lycopodium,KNApSAcK
+280,C00028029,760947-75-9,Cermizine C,C11H21N,167.16739968,Lycopodium cernuum,Lycopodium,KNApSAcK
+281,C00028030,760947-78-2,Cermizine D,C16H30N2,250.24089897,Lycopodium cernuum,Lycopodium,KNApSAcK
+282,C00028031,760947-79-3,Cernuine N-oxide,C16H26N2O2,278.19942809,Lycopodium cernuum,Lycopodium,KNApSAcK
+283,C00028083,317802-77-0,Complanadine A,C32H42N4,482.34094737,Lycopodium complanatum,Lycopodium,KNApSAcK
+284,C00028140,31147-30-5,Dehydrolycopecurine,C16H23NO,245.17796436,Lycopodium inundatum,Lycopodium,KNApSAcK
+285,C00028173,105054-02-2,Des-N-methyl-fastigiatine,C18H26N2O,286.20451347,Lycopodium fastigiatum,Lycopodium,KNApSAcK
+286,C00028194,15216-33-8,Dihydrodeoxycernuine,C16H28N2,248.22524891,Lycopodium carolinianum var. affine,Lycopodium,KNApSAcK
+287,C00028197,71384-29-7,Dihydrolycolucine,C30H45N3O,463.35626308,Lycopodium lucidum Michx.,Lycopodium,KNApSAcK
+288,C00028197,71384-29-7,Dihydrolycolucine,C30H45N3O,463.35626308,Lycopodium lucidulum,Lycopodium,KNApSAcK
+289,C00028246,82890-00-4,Epidihydrofawcettidine,C16H25NO,247.19361443,Lycopodium phlegmaria,Lycopodium,KNApSAcK
+290,C00028248,123165-90-2,Epilobscurinol,C17H25NO2,275.18852905,Lycopodium ophioglossoides,Lycopodium,KNApSAcK
+291,C00028265,103805-65-8,Fastigiatine,C19H28N2O,300.22016353,Lycopodium fastigiatum,Lycopodium,KNApSAcK
+292,C00028346,552831-75-1,Himeradine A,C29H45N3O,451.35626308,Lycopodium chinense,Lycopodium,KNApSAcK
+293,C00028400,34324-37-3,Isoinundatine,C16H23NO2,261.17287899,Lycopodium inundatum,Lycopodium,KNApSAcK
+294,C00028408,123118-11-6,Isoobscurinine,C17H24N2O,272.1888634,Lycopodium ophioglossoides,Lycopodium,KNApSAcK
+295,C00028485,123118-12-7,Lobscurinol,C17H25NO2,275.18852905,Lycopodium ophioglossoides,Lycopodium,KNApSAcK
+296,C00028492,72254-08-1,Lucidine A,C30H49N3O,467.38756321,Lycopodium lucidulum,Lycopodium,KNApSAcK
+297,C00028493,21030-40-0,Lucidulinone,C13H19NO2,221.14157886,Lycopodium lucidulum,Lycopodium,KNApSAcK
+298,C00028499,760947-80-6,Lycocernuine N-oxide,C16H26N2O3,294.19434271,Lycopodium cernuum,Lycopodium,KNApSAcK
+299,C00028504,71384-28-6,Lycolucine,C30H43N3O,461.34061302,Lycopodium lucidum Michx.,Lycopodium,KNApSAcK
+300,C00028504,71384-28-6,Lycolucine,C30H43N3O,461.34061302,Lycopodium lucidulum,Lycopodium,KNApSAcK
+301,C00028505,362512-63-8,Lyconadine A,C16H20N2O,256.15756328,Lycopodium complanatum,Lycopodium,KNApSAcK
+302,C00028506,462065-73-2,Lyconesidine A,C16H25NO2,263.18852905,Lycopodium chinense,Lycopodium,KNApSAcK
+303,C00028507,462065-74-3,Lyconesidine B,C16H25NO3,279.18344367,Lycopodium chinense,Lycopodium,KNApSAcK
+304,C00028508,462065-75-4,Lyconesidine C,C29H39NO6,497.27773799,Lycopodium chinense,Lycopodium,KNApSAcK
+305,C00028510,123145-46-0,Lyconnotinol,C16H25NO2,263.18852905,Lycopodium ophioglossoides,Lycopodium,KNApSAcK
+306,C00028511,58786-38-2,Lycopaniculatine,C17H27NO2,277.20417911,Lycopodium paniculatum,Lycopodium,KNApSAcK
+307,C00028515,80953-35-1,Lycophlegmarine,C18H27NO3,305.19909374,Lycopodium phlegmaria,Lycopodium,KNApSAcK
+308,C00028516,53938-16-2,Lycopodium base R,C16H24N2O2,276.18377802,Lycopodium fawcettii,Lycopodium,KNApSAcK
+309,C00028517,392725-16-5,Lycoposerramine A,C18H29N3O2,319.22597719,Lycopodium serratum,Lycopodium,KNApSAcK
+310,C00028518,481048-23-1,Lycoposerramine C,C16H23NO2,261.17287899,Lycopodium serratum,Lycopodium,KNApSAcK
+311,C00028519,481048-29-7,Lycoposerramine D,C17H25NO3,291.18344367,Lycopodium serratum,Lycopodium,KNApSAcK
+312,C00028520,481048-27-5,Lycoposerramine E,C16H23NO3,277.16779361,Lycopodium serratum,Lycopodium,KNApSAcK
+313,C00028521,677723-05-6,Lycoposerramine G,C16H25NO3,279.18344367,Lycopodium serratum,Lycopodium,KNApSAcK
+314,C00028522,677723-08-9,Lycoposerramine H,C16H23NO2,261.17287899,Lycopodium serratum,Lycopodium,KNApSAcK
+315,C00028523,677723-10-3,Lycoposerramine I,C16H23NO2,261.17287899,Lycopodium serratum,Lycopodium,KNApSAcK
+316,C00028524,677723-12-5,Lycoposerramine K,C16H23NO2,261.17287899,Lycopodium serratum,Lycopodium,KNApSAcK
+317,C00028525,677723-14-7,Lycoposerramine L,C16H25NO2,263.18852905,Lycopodium serratum,Lycopodium,KNApSAcK
+318,C00028526,677723-17-0,Lycoposerramine M,C16H25NO2,263.18852905,Lycopodium serratum,Lycopodium,KNApSAcK
+319,C00028527,677723-20-5,Lycoposerramine N,C18H27NO4,321.19400836,Lycopodium serratum,Lycopodium,KNApSAcK
+320,C00028528,677723-23-8,Lycoposerramine O,C20H39NO6,389.27773799,Lycopodium serratum,Lycopodium,KNApSAcK
+321,C00028529,481048-33-3,Lycoposerramine P,C16H25NO3,279.18344367,Lycopodium serratum,Lycopodium,KNApSAcK
+322,C00028530,481048-37-7,Lycoposerramine Q,C16H25NO,247.19361443,Lycopodium serratum,Lycopodium,KNApSAcK
+323,C00028531,480443-97-8,Lycoposerramine S,C17H30N2,262.24089897,Lycopodium serratum,Lycopodium,KNApSAcK
+324,C00028532,481048-31-1,Lycoposerramine U,C17H25NO3,291.18344367,Lycopodium serratum,Lycopodium,KNApSAcK
+325,C00028533,11052-60-1,Lycothunine,C16H23NO2,261.17287899,Lycopodium serratum var. longipetiolatum,Lycopodium,KNApSAcK
+326,C00028536,154963-00-5,Macleanine,C16H26N2,246.20959884,Lycopodium serratum,Lycopodium,KNApSAcK
+327,C00028544,73885-47-9,Magellaninone,C17H23NO2,273.17287899,Lycopodium magellanicum,Lycopodium,KNApSAcK
+328,C00028592,623945-29-9,Lycoposerramine F,C16H25NO4,295.17835829,Lycopodium serratum,Lycopodium,KNApSAcK
+329,C00028593,623945-30-2,Lycoposerramine J,C16H25NO2,263.18852905,Lycopodium serratum,Lycopodium,KNApSAcK
+330,C00028650,66834-89-7,N-beta-Methylphlegmarine,C17H32N2,264.25654904,Lycopodium phlegmaria,Lycopodium,KNApSAcK
+331,C00028658,157645-66-4,N-Demethylhuperzinine,C16H20N2O,256.15756328,Lycopodium casuarinoids,Lycopodium,KNApSAcK
+332,C00028704,54301-02-9,N-Methyl-lycodine,C17H24N2,256.19394878,Lycopodium erythraeum,Lycopodium,KNApSAcK
+333,C00028704,54301-02-9,N-Methyl-lycodine,C17H24N2,256.19394878,Lycopodium magellanicum,Lycopodium,KNApSAcK
+334,C00028704,54301-02-9,N-Methyl-lycodine,C17H24N2,256.19394878,Lycopodium obscurum,Lycopodium,KNApSAcK
+335,C00028704,54301-02-9,N-Methyl-lycodine,C17H24N2,256.19394878,Lycopodium complanatum,Lycopodium,KNApSAcK
+336,C00028754,113883-30-0,Obscurinine,C17H24N2O,272.1888634,Lycopodium obscurum,Lycopodium,KNApSAcK
+337,C00028754,113883-30-0,Obscurinine,C17H24N2O,272.1888634,Lycopodium ophioglossoides,Lycopodium,KNApSAcK
+338,C00028783,221316-49-0,Oxolucidine A,C30H49N3O2,483.38247783,Lycopodium lucidulum,Lycopodium,KNApSAcK
+339,C00028826,93754-82-6,Phlegmariurine A,C16H23NO2,261.17287899,Lycopodium serratum,Lycopodium,KNApSAcK
+340,C00028991,357165-71-0,Senepodine A,C23H40N2,344.31914929,Lycopodium chinense,Lycopodium,KNApSAcK
+341,C00028992,572873-44-0,Senepodine B,C23H39N2,343.31132426,Lycopodium chinense,Lycopodium,KNApSAcK
+342,C00028993,572873-45-1,Senepodine C,C22H38N2,330.30349923,Lycopodium chinense,Lycopodium,KNApSAcK
+343,C00028994,572873-46-2,Senepodine D,C23H38N2O,358.29841385,Lycopodium chinense,Lycopodium,KNApSAcK
+344,C00028995,572873-47-3,Senepodine E,C24H40N2O,372.31406391,Lycopodium chinense,Lycopodium,KNApSAcK
+345,C00028996,760947-76-0,Senepodine G,C11H20N,166.15957465,Lycopodium chinense,Lycopodium,KNApSAcK
+346,C00028997,760947-77-1,Senepodine H,C14H26NO,224.20143946,Lycopodium chinense,Lycopodium,KNApSAcK
+347,C00028999,301679-55-0,Serratezomine A,C16H25NO3,279.18344367,Lycopodium serratum var. longipetiolatum,Lycopodium,KNApSAcK
+348,C00029000,301679-57-2,Serratezomine B,C16H25NO4,295.17835829,Lycopodium serratum var. longipetiolatum,Lycopodium,KNApSAcK
+349,C00029001,301677-01-0,Serratezomine C,C16H25NO3,279.18344367,Lycopodium serratum var. longipetiolatum,Lycopodium,KNApSAcK
+350,C00029002,7689-04-5,Serratinidine,C18H28N2O2,304.21507815,Lycopodium serratum var. serratum f. intermedium,Lycopodium,KNApSAcK
+351,C00029002,7689-04-5,Serratinidine,C18H28N2O2,304.21507815,Lycopodium serratum,Lycopodium,KNApSAcK
+352,C00029002,7689-04-5,Serratinidine,C18H28N2O2,304.21507815,Lycopodium serratum var. serratum f. serratum,Lycopodium,KNApSAcK
+353,C00029003,5545-99-3,Serratinine,C16H25NO3,279.18344367,Lycopodium serratum var. serratum f. serratum,Lycopodium,KNApSAcK
+354,C00029003,5545-99-3,Serratinine,C16H25NO3,279.18344367,Lycopodium serratum,Lycopodium,KNApSAcK
+355,C00029003,5545-99-3,Serratinine,C16H25NO3,279.18344367,Lycopodium serratum var. serratum,Lycopodium,KNApSAcK
+356,C00029003,5545-99-3,Serratinine,C16H25NO3,279.18344367,Lycopodium serratum var. thunbergii,Lycopodium,KNApSAcK
+357,C00029003,5545-99-3,Serratinine,C16H25NO3,279.18344367,Lycopodium serratum var. serratum f. intermedium,Lycopodium,KNApSAcK
+358,C00029013,619326-44-2,Sieboldine A,C16H23NO4,293.16270823,Lycopodium sieboldii,Lycopodium,KNApSAcK
+359,C00030713,1092555-62-8,Malycorin A,C19H31NO3,321.23039386,Lycopodium phlegmaria,Lycopodium,KNApSAcK
+360,C00030714,1092555-63-9,Malycorin B,C28H37NO7,499.25700254,Lycopodium phlegmaria,Lycopodium,KNApSAcK
+361,C00030715,1092555-64-0,Malycorin C,C30H41NO8,543.28321729,Lycopodium phlegmaria,Lycopodium,KNApSAcK
+362,C00033631,511-01-3,alpha-Onocerin,C30H50O2,442.38108084,Lycopodium obscurum,Lycopodium,KNApSAcK
+363,C00033631,511-01-3,alpha-Onocerin,C30H50O2,442.38108084,Lycopodium casuarinoides,Lycopodium,KNApSAcK
+364,C00033631,511-01-3,alpha-Onocerin,C30H50O2,442.38108084,Lycopodium cernuum,Lycopodium,KNApSAcK
+365,C00033631,511-01-3,alpha-Onocerin,C30H50O2,442.38108084,Lycopodium japonicum,Lycopodium,KNApSAcK
+366,C00034035,53755-77-4,Lycernuic acid A,C30H48O4,472.35526002,Lycopodium cernuum,Lycopodium,KNApSAcK
+367,C00034036,27832-90-2,Lycoclavanin,C30H48O5,488.35017464,Lycopodium japonicum,Lycopodium,KNApSAcK
+368,C00034037,13956-51-9,Lycoclavanol,C30H50O3,458.37599546,Lycopodium japonicum,Lycopodium,KNApSAcK
+369,C00034043,30356-01-5,Lyfoline,C25H27NO5,421.18892298,Lycopodium annotinum,Lycopodium,KNApSAcK
+370,C00034239,2239-24-9,Serratenediol,C30H50O2,442.38108084,Lycopodium megastacyum,Lycopodium,KNApSAcK
+371,C00034239,2239-24-9,Serratenediol,C30H50O2,442.38108084,Lycopodium complanatum,Lycopodium,KNApSAcK
+372,C00034239,2239-24-9,Serratenediol,C30H50O2,442.38108084,Lycopodium cernuum,Lycopodium,KNApSAcK
+373,C00034239,2239-24-9,Serratenediol,C30H50O2,442.38108084,Lycopodium phlegmara,Lycopodium,KNApSAcK
+374,C00038224,942502-21-8,2beta-Hydroxylycothunine,C16H23NO3,277.16779361,Lycopodium serratum,Lycopodium,KNApSAcK
+375,C00038327,942502-20-7,"8alpha,11alpha-Dihydroxyfawcettidine",C16H23NO3,277.16779361,Lycopodium serratum,Lycopodium,KNApSAcK
+376,C00038330,942502-22-9,8alpha-Hydroxylycothunine,C16H23NO3,277.16779361,Lycopodium serratum,Lycopodium,KNApSAcK
+377,C00044441,53800-21-8,"3alpha,21beta,24-Trihydroxyserrat-14-en-16-one",C30H48O4,472.35526002,Lycopodium cernuum,Lycopodium,KNApSAcK
+378,C00051355,53755-78-5,Lycernuic acid B,C30H48O5,488.35017464,Lycopodium cernuum,Lycopodium,KNApSAcK
+379,C00051356,448260-71-7,Lycernuic acid C,C30H50O7,522.35565395,Lycopodium cernuum,Lycopodium,KNApSAcK
+380,C00051357,448260-73-9,Lycernuic acid D,C30H50O6,506.36073933,Lycopodium cernuum,Lycopodium,KNApSAcK
+381,C00051358,448260-75-1,Lycernuic acid E,C30H50O5,490.36582471,Lycopodium cernuum,Lycopodium,KNApSAcK
+382,C00051359,448260-77-3,Lycernuic ketone A,C31H48O6,516.34508926,Lycopodium cernuum,Lycopodium,KNApSAcK
+383,C00051360,448260-79-5,Lycernuic ketone B,C31H48O6,516.34508926,Lycopodium cernuum,Lycopodium,KNApSAcK
+384,C00051361,53755-76-3,Lyclaninol,C30H50O4,474.37091008,Lycopodium japonicum,Lycopodium,KNApSAcK
+385,C00051362,53761-96-9,Lyclanitin,C30H50O5,490.36582471,Lycopodium complanatum,Lycopodium,KNApSAcK
+386,C00051882,,5-Aminopentanal,C5H11NO,101.08406398,Lycopodium annotinum,Lycopodium,KNApSAcK
+387,C00051883,,delta1-Piperideine,C5H9N,83.07349929,Lycopodium annotinum,Lycopodium,KNApSAcK
+388,C00051892,,Lycodane,C16H28N2,248.22524891,Lycopodium annotinum,Lycopodium,KNApSAcK
+0,C00001946,52485-00-4,Lycoflexine,C17H25NO2,275.18852905,Phlegmariurus phlegmaria,Phlegmariurus,KNApSAcK
+1,C00025389,6900-92-1,Lycodoline,C16H25NO2,263.18852905,Phlegmariurus fordii,Phlegmariurus,KNApSAcK
+2,C00025392,82841-97-2,Lycophlegmine,C16H23NO2,261.17287899,Phlegmariurus phlegmaria,Phlegmariurus,KNApSAcK
+3,C00028515,80953-35-1,Lycophlegmarine,C18H27NO3,305.19909374,Phlegmariurus phlegmaria,Phlegmariurus,KNApSAcK
+4,C00028826,93754-82-6,Phlegmariurine A,C16H23NO2,261.17287899,Phlegmariurus fordii,Phlegmariurus,KNApSAcK
+5,C00028827,93754-83-7,Phlegmariurine B,C16H23NO2,261.17287899,Phlegmariurus fordii,Phlegmariurus,KNApSAcK
+6,C00028828,115491-58-2,Phlegmariurine C,C32H44N2O4,520.33010791,Phlegmariurus fordii,Phlegmariurus,KNApSAcK
+7,C00051363,53755-73-0,Lycocryptol,C30H50O4,474.37091008,Phlegmariurus phlegmaria,Phlegmariurus,KNApSAcK
+0,C00033544,1449-06-5,21-epi-Serratenediol,C30H50O2,442.38108084,Diphasiastrum complanatum L.Holub,Diphasiastrum,KNApSAcK
+1,C00033631,511-01-3,alpha-Onocerin,C30H50O2,442.38108084,Diphasiastrum complanatum L.Holub,Diphasiastrum,KNApSAcK
+2,C00034035,53755-77-4,Lycernuic acid A,C30H48O4,472.35526002,Diphasiastrum complanatum L.Holub,Diphasiastrum,KNApSAcK
+3,C00034036,27832-90-2,Lycoclavanin,C30H48O5,488.35017464,Diphasiastrum complanatum L.Holub,Diphasiastrum,KNApSAcK
+4,C00034037,13956-51-9,Lycoclavanol,C30H50O3,458.37599546,Diphasiastrum complanatum L.Holub,Diphasiastrum,KNApSAcK
+5,C00034238,1004984-92-2,"Serratane-3alpha,14alpha,15alpha,20beta,21beta,24,29-Heptol",C30H52O7,524.37130401,Diphasiastrum complanatum L.Holub,Diphasiastrum,KNApSAcK
+6,C00034239,2239-24-9,Serratenediol,C30H50O2,442.38108084,Diphasiastrum complanatum L.Holub,Diphasiastrum,KNApSAcK
+7,C00034338,77311-65-0,Wightianol B,C30H50O4,474.37091008,Diphasiastrum complanatum L.Holub,Diphasiastrum,KNApSAcK
+0,C00001403,462-94-2,Cadaverine,C5H14N2,102.11569846,Palhinhaea cernua,Palhinhaea,KNApSAcK
+1,C00001937,15228-74-7,Fawcettimine,C16H25NO2,263.18852905,Palhinhaea cernua,Palhinhaea,KNApSAcK
+2,C00001944,20316-18-1,Lycodine,C16H22N2,242.17829872,Palhinhaea cernua,Palhinhaea,KNApSAcK
+3,C00001948,466-61-5,Lycopodine,C16H25NO,247.19361443,Palhinhaea cernua,Palhinhaea,KNApSAcK
+4,C00001954,66834-87-5,Phlegmarine,C16H30N2,250.24089897,Palhinhaea cernua,Palhinhaea,KNApSAcK
+5,C00002062,2858-66-4,Pelletierine,C8H15NO,141.11536411,Palhinhaea cernua,Palhinhaea,KNApSAcK
+6,C00051882,,5-Aminopentanal,C5H11NO,101.08406398,Palhinhaea cernua,Palhinhaea,KNApSAcK
+7,C00051883,,delta1-Piperideine,C5H9N,83.07349929,Palhinhaea cernua,Palhinhaea,KNApSAcK
+8,C00051892,,Lycodane,C16H28N2,248.22524891,Palhinhaea cernua,Palhinhaea,KNApSAcK
+0,C00001076,478-01-3,Nobiletin,C21H22O8,402.13146768,Ozothamnus lycopodioides,Lycopodioides,KNApSAcK
+1,C00003977,6965-36-2,"5,6,7,8,3',4',5'-Heptamethoxyflavone",C22H24O9,432.14203237,Ozothamnus lycopodioides,Lycopodioides,KNApSAcK
+2,C00004005,3162-42-3,Linderoflavone B,C20H18O8,386.10016755,Ozothamnus lycopodioides,Lycopodioides,KNApSAcK
+3,C00004008,73340-44-0,Eupalestin,C21H20O9,416.11073224,Ozothamnus lycopodioides,Lycopodioides,KNApSAcK
+4,C00004638,2068-02-2,"Quercetin 3,7-dimethyl ether",C17H14O7,330.0739528,Ozothamnus lycopodioides,Lycopodioides,KNApSAcK
+5,C00004684,5188-73-8,Axillarin,C17H14O8,346.06886743,Ozothamnus lycopodioides,Lycopodioides,KNApSAcK
+6,C00004733,4693-88-3,"Gossypetin 3,7,8-trimethyl ether",C18H16O8,360.08451749,Ozothamnus lycopodioides,Lycopodioides,KNApSAcK
+7,C00004744,14965-12-9,"Gossypetin 3,7,8,3',4'-pentamethyl ether",C20H20O8,388.11581762,Ozothamnus lycopodioides,Lycopodioides,KNApSAcK
+8,C00005755,56691-93-1,Myricetin 5-methyl ether 3-glucoside,C22H22O13,494.10604079,Cassiope lycopodioides,Lycopodioides,KNApSAcK
+9,C00005757,56691-92-0,Myricetin 5-methyl ether 7-glucoside,C22H22O13,494.10604079,Cassiope lycopodioides,Lycopodioides,KNApSAcK
+10,C00007243,53060-59-6,(+)-alpha-Barbatene,C15H24,204.18780077,Barbilophozia lycopodioides,Lycopodioides,KNApSAcK
+11,C00021419,84881-60-7,Hercynolactone,C15H20O2,232.14632988,Barbilophozia lycopodioides,Lycopodioides,KNApSAcK
+12,C00021886,39863-73-5,beta-Barbatene,C15H24,204.18780077,Barbilophozia lycopodioides,Lycopodioides,KNApSAcK
+0,C00001930,664-24-4,Acrifoline,C16H23NO2,261.17287899,Lycopodium selago,Selago,KNApSAcK
+1,C00001933,559-49-9,Annotinine,C16H21NO3,275.15214354,Lycopodium selago,Selago,KNApSAcK
+2,C00001948,466-61-5,Lycopodine,C16H25NO,247.19361443,Huperzia selago,Selago,KNApSAcK
+3,C00001951,596-55-4,alpha-Obscurine,C17H26N2O,274.20451347,Lycopodium selago,Selago,KNApSAcK
+4,C00001951,596-55-4,alpha-Obscurine,C17H26N2O,274.20451347,Huperzia selago,Selago,KNApSAcK
+5,C00001956,116-28-9,Selagine,C15H18N2O,242.14191321,Lycopodium selago,Selago,KNApSAcK
+6,C00002743,1135-24-6,Ferulic acid,C10H10O4,194.05790881,Huperzia selago,Selago,KNApSAcK
+7,C00025389,6900-92-1,Lycodoline,C16H25NO2,263.18852905,Huperzia selago,Selago,KNApSAcK
+8,C00025389,6900-92-1,Lycodoline,C16H25NO2,263.18852905,Lycopodium selago,Selago,KNApSAcK
+9,C00025395,21061-90-5,12-Epilycodoline,C16H25NO2,263.18852905,Huperzia selago,Selago,KNApSAcK
+10,C00025395,21061-90-5,12-Epilycodoline,C16H25NO2,263.18852905,Lycopodium selago,Selago,KNApSAcK
+11,C00025396,20084-82-6,Serratidine,C16H23NO2,261.17287899,Huperzia selago,Selago,KNApSAcK
+12,C00027768,125295-13-8,6beta-Hydroxyhuperzine A,C15H18N2O2,258.13682783,Lycopodium selago,Selago,KNApSAcK
+13,C00027934,467-79-8,beta-Obscurine,C17H24N2O,272.1888634,Lycopodium selago,Selago,KNApSAcK
+14,C00027934,467-79-8,beta-Obscurine,C17H24N2O,272.1888634,Huperzia selago,Selago,KNApSAcK
+15,C00028361,102518-79-6,Huperzine A,C15H18N2O,242.14191321,Huperzia selago,Selago,KNApSAcK
+16,C00028986,790220-40-5,Selagoline,C16H25NO,247.19361443,Huperzia selago,Selago,KNApSAcK
+0,C00001403,462-94-2,Cadaverine,C5H14N2,102.11569846,Lycopodiastrum casuarinoides,Lycopodiastrum,KNApSAcK
+1,C00001939,103548-82-9,Huperzine B,C16H20N2O,256.15756328,Lycopodiastrum casuarinoides,Lycopodiastrum,KNApSAcK
+2,C00001944,20316-18-1,Lycodine,C16H22N2,242.17829872,Lycopodiastrum casuarinoides,Lycopodiastrum,KNApSAcK
+3,C00001954,66834-87-5,Phlegmarine,C16H30N2,250.24089897,Lycopodiastrum casuarinoides,Lycopodiastrum,KNApSAcK
+4,C00002062,2858-66-4,Pelletierine,C8H15NO,141.11536411,Lycopodiastrum casuarinoides,Lycopodiastrum,KNApSAcK
+5,C00051882,,5-Aminopentanal,C5H11NO,101.08406398,Lycopodiastrum casuarinoides,Lycopodiastrum,KNApSAcK
+6,C00051883,,delta1-Piperideine,C5H9N,83.07349929,Lycopodiastrum casuarinoides,Lycopodiastrum,KNApSAcK
+7,C00051892,,Lycodane,C16H28N2,248.22524891,Lycopodiastrum casuarinoides,Lycopodiastrum,KNApSAcK
+0,C00000606,580-72-3,(-)-Matairesinol,C20H22O6,358.14163844,Selaginella doederleinii,Selaginella,KNApSAcK
+1,C00000607,148409-36-3,(+)-Matairesinol,C20H22O6,358.14163844,Selaginella doederleinii,Selaginella,KNApSAcK
+2,C00000625,,(-)-Lirioresinol A,C22H26O8,418.16276781,Selaginella doederleinii,Selaginella,KNApSAcK
+3,C00000627,6216-81-5,Lirioresinol B,C22H26O8,418.16276781,Selaginella doederleinii,Selaginella,KNApSAcK
+4,C00000629,33464-78-7,(-)-Nortracheloside,C26H32O12,536.18937649,Selaginella doederleinii,Selaginella,KNApSAcK
+5,C00001015,1617-53-4,Amentoflavone,C30H18O10,538.0899968,Selaginella moellendorffii,Selaginella,KNApSAcK
+6,C00001015,1617-53-4,Amentoflavone,C30H18O10,538.0899968,Selaginella omeiensis,Selaginella,KNApSAcK
+7,C00001015,1617-53-4,Amentoflavone,C30H18O10,538.0899968,Selaginella pulvinata,Selaginella,KNApSAcK
+8,C00001015,1617-53-4,Amentoflavone,C30H18O10,538.0899968,Selaginella sinensis,Selaginella,KNApSAcK
+9,C00001015,1617-53-4,Amentoflavone,C30H18O10,538.0899968,Selaginella spp.,Selaginella,KNApSAcK
+10,C00001015,1617-53-4,Amentoflavone,C30H18O10,538.0899968,Selaginella stauntoniana,Selaginella,KNApSAcK
+11,C00001015,1617-53-4,Amentoflavone,C30H18O10,538.0899968,Selaginella tamariscina,Selaginella,KNApSAcK
+12,C00001015,1617-53-4,Amentoflavone,C30H18O10,538.0899968,Selaginella uncinata,Selaginella,KNApSAcK
+13,C00001015,1617-53-4,Amentoflavone,C30H18O10,538.0899968,Selaginella sanguinolenta,Selaginella,KNApSAcK
+14,C00001015,1617-53-4,Amentoflavone,C30H18O10,538.0899968,Selaginella braunii,Selaginella,KNApSAcK
+15,C00001015,1617-53-4,Amentoflavone,C30H18O10,538.0899968,Selaginella delicatula,Selaginella,KNApSAcK
+16,C00001015,1617-53-4,Amentoflavone,C30H18O10,538.0899968,Selaginella doederleinii,Selaginella,KNApSAcK
+17,C00001015,1617-53-4,Amentoflavone,C30H18O10,538.0899968,Selaginella involvens,Selaginella,KNApSAcK
+18,C00001015,1617-53-4,Amentoflavone,C30H18O10,538.0899968,Selaginella davidii,Selaginella,KNApSAcK
+19,C00001044,481-46-9,Ginkgetin,C32H22O10,566.12129692,Selaginella moellendorffii,Selaginella,KNApSAcK
+20,C00001049,19202-36-9,Hinokiflavone,C30H18O10,538.0899968,Selaginella tamariscina,Selaginella,KNApSAcK
+21,C00001094,49620-13-5,Robustaflavone,C30H18O10,538.0899968,Selaginella delicatula,Selaginella,KNApSAcK
+22,C00001152,99-20-7,Trehalose,C12H22O11,342.11621155,Selaginella tamariscina,Selaginella,KNApSAcK
+23,C00001152,99-20-7,Trehalose,C12H22O11,342.11621155,Selaginella involvens,Selaginella,KNApSAcK
+24,C00001152,99-20-7,Trehalose,C12H22O11,342.11621155,Selaginella lepidophylla,Selaginella,KNApSAcK
+25,C00002631,21453-69-0,(+)-Lirioresinol B,C22H26O8,418.16276781,Selaginella doederleinii,Selaginella,KNApSAcK
+26,C00003817,520-36-5,Apigenin,C15H10O5,270.05282343,Selaginella tamariscina,Selaginella,KNApSAcK
+27,C00006489,2608-21-1,Sotetsuflavone,C31H20O10,552.10564686,Selaginella tamariscina,Selaginella,KNApSAcK
+28,C00006493,34394-13-3,"Amentoflavone 4',7''-dimethyl ether",C32H22O10,566.12129692,Selaginella spp.,Selaginella,KNApSAcK
+29,C00006535,20931-58-2,Isocryptomerin,C31H20O10,552.10564686,Selaginella tamariscina,Selaginella,KNApSAcK
+30,C00006540,168029-93-4,"2'',3''-Dihydroisocryptomerin",C31H22O10,554.12129692,Selaginella willdenowii,Selaginella,KNApSAcK
+31,C00007190,487-36-5,(+)-Pinoresinol,C20H22O6,358.14163844,Selaginella sinensis,Selaginella,KNApSAcK
+32,C00007203,61521-74-2,Wikstromol,C20H22O7,374.13655306,Selaginella doederleinii,Selaginella,KNApSAcK
+33,C00014697,343569-15-3,Delicaflavone,C30H18O10,538.0899968,Selaginella delicatula,Selaginella,KNApSAcK
+34,C00014728,275365-36-1,Robustaflavone 4'-methyl ether,C31H20O10,552.10564686,Selaginella delicatula,Selaginella,KNApSAcK
+35,C00014729,275365-37-2,"Robustaflavone 7,4'-dimethyl ether",C32H22O10,566.12129692,Selaginella delicatula,Selaginella,KNApSAcK
+36,C00014730,,"2'',3''-Dihydrorobustaflavone 7,4'-dimethyl ether",C32H24O10,568.13694699,Selaginella delicatula,Selaginella,KNApSAcK
+37,C00014731,,"2'',3''-Dihydrorobustaflavone 7,4',7''-trimethyl ether",C33H26O10,582.15259705,Selaginella delicatula,Selaginella,KNApSAcK
+38,C00032440,48215-55-0,Uncinoside A,C18H22O9,382.1263823,Selaginella uncinata,Selaginella,KNApSAcK
+39,C00032441,474104-96-6,Uncinoside B,C20H24O10,424.13694699,Selaginella uncinata,Selaginella,KNApSAcK
+40,C00047524,1158820-19-9,Neoselaginellic acid,C18H24N2O3,316.17869265,Selaginella moellendorfii,Selaginella,KNApSAcK
+41,C00047567,1158820-17-7,Selaginellic acid,C18H24N2O2,300.18377802,Selaginella moellendorfii,Selaginella,KNApSAcK
+0,C00002724,327-97-9,3-O-Caffeoylquinic acid,C16H18O9,354.09508217,Polypodium vulgare,Polypodium,KNApSAcK
+1,C00003583,33650-66-7,Osladin,C45H74O17,886.49260094,Polypodium niponicum,Polypodium,KNApSAcK
+2,C00003583,33650-66-7,Osladin,C45H74O17,886.49260094,Polypodium vulgare,Polypodium,KNApSAcK
+3,C00003651,3604-87-3,Ecdysone,C27H44O6,464.31378914,Polypodium virginianum,Polypodium,KNApSAcK
+4,C00003651,3604-87-3,Ecdysone,C27H44O6,464.31378914,Polypodium vulgare,Polypodium,KNApSAcK
+5,C00003654,5289-74-7,20-Hydroxyecdysone,C27H44O7,480.30870376,Polypodium virginianum,Polypodium,KNApSAcK
+6,C00003665,1912-66-9,Pollinastanol,C28H48O,400.37051615,Polypodium niponicum,Polypodium,KNApSAcK
+7,C00003666,18069-14-2,Polypodine B,C27H44O8,496.30361838,Polypodium vulgare,Polypodium,KNApSAcK
+8,C00003748,58193-25-2,Hopane-29-acetate,C32H54O2,470.41238097,Polypodium juglandifolium,Polypodium,KNApSAcK
+9,C00008836,114590-44-2,Afzelechin 7-O-beta-D-apiofuranoside,C20H22O9,406.1263823,Polypodium glycyrrhiza,Polypodium,KNApSAcK
+10,C00008849,81905-13-7,Catechin 7-O-apiofuranoside,C20H22O10,422.12129692,Polypodium vulgare,Polypodium,KNApSAcK
+11,C00008850,29289-02-9,Polydine,C20H22O10,422.12129692,Polypodium vulgare,Polypodium,KNApSAcK
+12,C00050663,1259-94-5,24-Methylenecycloartanyl acetate,C33H54O2,482.41238097,Polypodium niponicum,Polypodium,KNApSAcK
+13,C00051443,6915-15-7,Malic acid,C4H6O5,134.0215233,Polypodium cuspidatum,Polypodium,KNApSAcK
+14,C00051443,6915-15-7,Malic acid,C4H6O5,134.0215233,Polypodium vulgare,Polypodium,KNApSAcK
+15,C00051661,72247-03-1,Multiflor-7-ene,C30H50,410.39125159,Polypodium niponicum,Polypodium,KNApSAcK
+16,C00051662,63543-59-9,Multiflor-8-ene,C30H50,410.39125159,Polypodium niponicum,Polypodium,KNApSAcK
+17,C00051663,88206-86-4,Multiflor-9(11)-ene,C39H50,518.39125159,Polypodium niponicum,Polypodium,KNApSAcK
+18,C00056920,119784-25-7,Polypodoside A,C45H72O17,884.47695088,Polypodium glycyrrhiza,Polypodium,KNApSAcK
+19,C00056923,120015-16-9,Polypodoside B,C39H62O13,738.41904207,Polypodium glycyrrhiza,Polypodium,KNApSAcK
+20,C00056924,120015-17-0,Polypodoside C,C40H64O13,752.43469213,Polypodium glycyrrhiza,Polypodium,KNApSAcK
+21,C00057350,33285-16-4,Polypodosaponin,C39H62O13,738.41904207,Polypodium vulgare,Polypodium,KNApSAcK

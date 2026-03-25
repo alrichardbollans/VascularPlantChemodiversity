@@ -1,0 +1,132 @@
+,C_ID,CAS ID,example_compound_name,Molecular formula,Mw,Organism,knapsack_search_term,Source
+0,C00000947,154-23-4,(+)-Catechin,C15H14O6,290.07903818,Combretum quadrangulare,Combretum,KNApSAcK
+1,C00000956,490-46-0,(-)-Epicatechin,C15H14O6,290.07903818,Combretum quadrangulare,Combretum,KNApSAcK
+2,C00000992,480-39-7,Dihydrochrysin,C15H12O4,256.07355887,Combretum albopunctatum Suesseng,Combretum,KNApSAcK
+3,C00001062,1592-70-7,Isokaempferide,C16H12O6,300.06338812,Combretum quadrangulare,Combretum,KNApSAcK
+4,C00001110,3681-93-4,Vitexin,C21H20O10,432.10564686,Combretum quadrangulare,Combretum,KNApSAcK
+5,C00001345,515-25-3,(-)-Betonicine,C7H13NO3,159.08954329,Combretum micranthum,Combretum,KNApSAcK
+6,C00002074,471-87-4,Stachydrine,C7H13NO2,143.09462867,Combretum micranthum,Combretum,KNApSAcK
+7,C00002647,149-91-7,Gallic acid,C7H6O5,170.0215233,Combretum quadrangulare,Combretum,KNApSAcK
+8,C00002886,39499-84-8,Isobatatasin I,C17H16O4,284.104859,Combretum psidioides,Combretum,KNApSAcK
+9,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Combretum quadrangulare,Combretum,KNApSAcK
+10,C00004569,3301-49-3,"Kaempferol 3,7-dimethyl ether",C17H14O6,314.07903818,Combretum quadrangulare,Combretum,KNApSAcK
+11,C00004775,74705-43-4,"Myricetin 3,7,3',5'-tetramethyl ether",C19H18O8,374.10016755,Combretum quadrangulare,Combretum,KNApSAcK
+12,C00004777,5084-19-5,Combretol,C20H20O8,388.11581762,Combretum quadrangulare,Combretum,KNApSAcK
+13,C00007298,62-49-7,Choline,C5H14NO1,104.10753908,Combretum micranthum,Combretum,KNApSAcK
+14,C00008143,36052-37-6,(-)-Alpinetin,C16H14O4,270.08920894,Combretum albopunctatum Suesseng,Combretum,KNApSAcK
+15,C00008817,970-73-0,(+)-Gallocatechin,C15H14O7,306.0739528,Combretum quadrangulare,Combretum,KNApSAcK
+16,C00008818,970-74-1,(-)-Epigallocatechin,C15H14O7,306.0739528,Combretum quadrangulare,Combretum,KNApSAcK
+17,C00008866,1257-08-5,(-)-Epicatechin 3-O-gallate,C22H18O10,442.0899968,Combretum quadrangulare,Combretum,KNApSAcK
+18,C00011153,476-66-4,Ellagic acid,C14H6O8,302.00626717,Combretum yunnanensis,Combretum,KNApSAcK
+19,C00015203,109971-64-4,"2,3-Dihydroxy-3',4,4',5-tetramethoxybibenzyl",C18H22O6,334.14163844,Combretum caffrum,Combretum,KNApSAcK
+20,C00015204,109971-63-3,Combretastatin A1,C18H20O6,332.12598837,Combretum caffrum,Combretum,KNApSAcK
+21,C00015206,111394-46-8,Combretastatin B2,C17H20O5,304.13107375,Combretum caffrum,Combretum,KNApSAcK
+22,C00015209,35450-73-8,"2,3-Dimethoxy-4,6,7-trihydroxy-9,10-dihydrophenanthrene",C16H16O5,288.09977362,Combretum psidioides,Combretum,KNApSAcK
+23,C00015209,35450-73-8,"2,3-Dimethoxy-4,6,7-trihydroxy-9,10-dihydrophenanthrene",C16H16O5,288.09977362,Combretum molle,Combretum,KNApSAcK
+24,C00015209,35450-73-8,"2,3-Dimethoxy-4,6,7-trihydroxy-9,10-dihydrophenanthrene",C16H16O5,288.09977362,Combretum apiculatum,Combretum,KNApSAcK
+25,C00015210,35323-54-7,"4,6,7-Trihydroxy-2,3-dimethoxyphenanthrene",C16H14O5,286.08412356,Combretum psidioides,Combretum,KNApSAcK
+26,C00015210,35323-54-7,"4,6,7-Trihydroxy-2,3-dimethoxyphenanthrene",C16H14O5,286.08412356,Combretum molle,Combretum,KNApSAcK
+27,C00015210,35323-54-7,"4,6,7-Trihydroxy-2,3-dimethoxyphenanthrene",C16H14O5,286.08412356,Combretum apiculatum,Combretum,KNApSAcK
+28,C00015243,35323-58-1,"2,6-Dihydroxy-3,4,7-trimethoxy-9,10-dihydrophenanthrene",C17H18O5,302.11542369,Combretum molle,Combretum,KNApSAcK
+29,C00015243,35323-58-1,"2,6-Dihydroxy-3,4,7-trimethoxy-9,10-dihydrophenanthrene",C17H18O5,302.11542369,Combretum apiculatum,Combretum,KNApSAcK
+30,C00015244,35323-56-9,"2,6-Dihydroxy-3,4,7-trimethoxyphenanthrene",C17H16O5,300.09977362,Combretum apiculatum,Combretum,KNApSAcK
+31,C00015256,39499-93-9,"2,7-Dihydroxy-3,4,6-trimethoxy-9,10-dihydrophenanthrene",C17H18O5,302.11542369,Combretum psidioides,Combretum,KNApSAcK
+32,C00015256,39499-93-9,"2,7-Dihydroxy-3,4,6-trimethoxy-9,10-dihydrophenanthrene",C17H18O5,302.11542369,Combretum hereroense,Combretum,KNApSAcK
+33,C00015256,39499-93-9,"2,7-Dihydroxy-3,4,6-trimethoxy-9,10-dihydrophenanthrene",C17H18O5,302.11542369,Combretum caffrum,Combretum,KNApSAcK
+34,C00015256,39499-93-9,"2,7-Dihydroxy-3,4,6-trimethoxy-9,10-dihydrophenanthrene",C17H18O5,302.11542369,Combretum apiculatum,Combretum,KNApSAcK
+35,C00015257,39499-89-3,"2,7-Dihydroxy-3,4,6-trimethoxyphenanthrene",C17H16O5,300.09977362,Combretum psidioides,Combretum,KNApSAcK
+36,C00015271,116963-91-8,"2-Hydroxy-3,4,6,7-tetramethoxy-9,10-dihydrophenanthrene",C18H20O5,316.13107375,Combretum caffrum,Combretum,KNApSAcK
+37,C00015305,116518-76-4,"3',4'-Dihydroxy-3,4,5-trimethoxybibenzyl",C17H20O5,304.13107375,Combretum caffrum,Combretum,KNApSAcK
+38,C00015306,838826-34-9,"3,4'-Dihydroxy-3',4,5-trimethoxybibenzyl",C17H20O5,304.13107375,Combretum apiculatum,Combretum,KNApSAcK
+39,C00015310,116518-75-3,"3,4-Dihydroxy-3',5'-dimethoxybibenzyl",C16H18O4,274.12050906,Combretum caffrum,Combretum,KNApSAcK
+40,C00015313,35450-75-0,"3,4'-Dihydroxy-4,5-dimethoxybibenzyl",C16H18O4,274.12050906,Combretum psidioides,Combretum,KNApSAcK
+41,C00015313,35450-75-0,"3,4'-Dihydroxy-4,5-dimethoxybibenzyl",C16H18O4,274.12050906,Combretum molle,Combretum,KNApSAcK
+42,C00015313,35450-75-0,"3,4'-Dihydroxy-4,5-dimethoxybibenzyl",C16H18O4,274.12050906,Combretum apiculatum,Combretum,KNApSAcK
+43,C00015315,67884-29-1,"3,4'-Dihydroxy-5-methoxybibenzyl",C15H16O3,244.10994438,Combretum apiculatum,Combretum,KNApSAcK
+44,C00015317,39500-03-3,"3,4-Dimethoxy-2,6,7-trihydroxy-9,10-dihydrophenanthrene",C16H16O5,288.09977362,Combretum psidioides,Combretum,KNApSAcK
+45,C00015318,39500-01-1,"3,4-Dimethoxy-2,6,7-trihydroxyphenanthrene",C16H14O5,286.08412356,Combretum psidioides,Combretum,KNApSAcK
+46,C00015319,111394-44-6,"3',4'-Dimethoxy-3'-hydroxy-4,5-methylenedioxystilbene",C17H16O5,300.09977362,Combretum caffrum,Combretum,KNApSAcK
+47,C00015328,111394-45-7,"3',5-Dihydroxy-3,4,4'-trimethoxystilbene",C17H18O5,302.11542369,Combretum caffrum,Combretum,KNApSAcK
+48,C00015401,42050-15-7,"3,6-Dihydroxy-2,4,7-trimethoxy-9,10-Dihydropenanthrene",C17H18O5,302.11542369,Combretum hereroense,Combretum,KNApSAcK
+49,C00015402,481-81-2,"3,6-Dimethoxy-4-hydroxyphenanthrene",C16H14O3,254.09429431,Combretum hereroense,Combretum,KNApSAcK
+50,C00015403,,"3,7-Dihydroxy-2,4,6-trimethoxyphenanthrene",C17H16O5,300.09977362,Combretum apiculatum,Combretum,KNApSAcK
+51,C00015422,82855-09-2,"3',7'-Dihydroxy-3,4,4'5-tetramethoxybibenzyl",C18H22O6,334.14163844,Combretum caffrum,Combretum,KNApSAcK
+52,C00015425,152173-29-0,"3-Hydroxy-2,4,6,7-tetramethoxy-9,10-dihydrophenanthrene",C18H20O5,316.13107375,Combretum apiculatum,Combretum,KNApSAcK
+53,C00015429,117048-59-6,"3'-Hydroxy-3,4,4'5-tetramethoxystilbene",C18H20O5,316.13107375,Combretum caffrum,Combretum,KNApSAcK
+54,C00015538,117596-88-0,"4,5-Dimethoxy-3,3',4'-trihydroxybibenzyl",C16H18O5,290.11542369,Combretum apiculatum,Combretum,KNApSAcK
+55,C00015539,185410-57-5,"4,6-Dimethoxy,2,3,7-trihydroxyphenanthrene",C16H14O5,286.08412356,Combretum apiculatum,Combretum,KNApSAcK
+56,C00015540,35323-51-4,"4,7-Dihydorxy-2,3,6-trimethoxy-9,10-dihydrophenanthrene",C17H18O5,302.11542369,Combretum psidioides,Combretum,KNApSAcK
+57,C00015540,35323-51-4,"4,7-Dihydorxy-2,3,6-trimethoxy-9,10-dihydrophenanthrene",C17H18O5,302.11542369,Combretum apiculatum,Combretum,KNApSAcK
+58,C00015542,35450-72-7,"4,7-dihydroxy-2,3,6-trimethoxyphenanthrene",C17H16O5,300.09977362,Combretum apiculatum,Combretum,KNApSAcK
+59,C00015545,35323-48-9,"4,7-Dihydroxy-2,6-dimethoxy-9,10-dihydrophenanthrene",C16H16O4,272.104859,Combretum molle,Combretum,KNApSAcK
+60,C00015545,35323-48-9,"4,7-Dihydroxy-2,6-dimethoxy-9,10-dihydrophenanthrene",C16H16O4,272.104859,Combretum psidioides,Combretum,KNApSAcK
+61,C00015545,35323-48-9,"4,7-Dihydroxy-2,6-dimethoxy-9,10-dihydrophenanthrene",C16H16O4,272.104859,Combretum apiculatum,Combretum,KNApSAcK
+62,C00015553,39499-95-1,"4'-Hydroxy-3,4,5-trimethoxybibenzyl",C17H20O4,288.13615913,Combretum psidioides,Combretum,KNApSAcK
+63,C00015607,39500-00-0,"6,7-Dihydroxy-2,3,4-trimethoxy-9,10-dihydrophenanthrene",C17H18O5,302.11542369,Combretum psidioides,Combretum,KNApSAcK
+64,C00015607,39500-00-0,"6,7-Dihydroxy-2,3,4-trimethoxy-9,10-dihydrophenanthrene",C17H18O5,302.11542369,Combretum caffrum,Combretum,KNApSAcK
+65,C00015607,39500-00-0,"6,7-Dihydroxy-2,3,4-trimethoxy-9,10-dihydrophenanthrene",C17H18O5,302.11542369,Combretum apiculatum,Combretum,KNApSAcK
+66,C00015608,35450-76-1,"6,7-Dihydroxy-2,3,4-trimethoxyphenanthrene",C17H16O5,300.09977362,Combretum hereroense,Combretum,KNApSAcK
+67,C00015608,35450-76-1,"6,7-Dihydroxy-2,3,4-trimethoxyphenanthrene",C17H16O5,300.09977362,Combretum molle,Combretum,KNApSAcK
+68,C00015608,35450-76-1,"6,7-Dihydroxy-2,3,4-trimethoxyphenanthrene",C17H16O5,300.09977362,Combretum psidioides,Combretum,KNApSAcK
+69,C00015609,42050-16-8,"6,7-Dihydroxy-2,4-dimethoxyphenanthrene",C16H14O4,270.08920894,Combretum hereroense,Combretum,KNApSAcK
+70,C00015683,39499-88-2,"7-Hydroxy-2,3,4,6-tetramethoxy-9,10-dihydrophenanthrene",C18H20O5,316.13107375,Combretum caffrum,Combretum,KNApSAcK
+71,C00015683,39499-88-2,"7-Hydroxy-2,3,4,6-tetramethoxy-9,10-dihydrophenanthrene",C18H20O5,316.13107375,Combretum apiculatum,Combretum,KNApSAcK
+72,C00015683,39499-88-2,"7-Hydroxy-2,3,4,6-tetramethoxy-9,10-dihydrophenanthrene",C18H20O5,316.13107375,Combretum psidioides,Combretum,KNApSAcK
+73,C00015685,39499-86-0,"7-Hydroxy-2,3,4,6-tetramethoxyphenanthrene",C18H18O5,314.11542369,Combretum caffrum,Combretum,KNApSAcK
+74,C00015685,39499-86-0,"7-Hydroxy-2,3,4,6-tetramethoxyphenanthrene",C18H18O5,314.11542369,Combretum psidioides,Combretum,KNApSAcK
+75,C00015686,39499-85-9,"7-Hydroxy-2,4,6-trimethoxy-9,10-dihydrophenanthrene",C17H18O4,286.12050906,Combretum psidioides,Combretum,KNApSAcK
+76,C00019308,474-58-8,3-O-beta-D-Glucopyranosyl sitosterol,C35H60O6,576.43898965,Combretum quadrangulare,Combretum,KNApSAcK
+77,C00029412,70868-78-9,19alpha-Hydroxyasiatic acid,C30H48O6,504.34508927,Combretum quadrangulare,Combretum,KNApSAcK
+78,C00029724,465-00-9,Arjunolic acid,C30H48O5,488.35017464,Combretum quadrangulare,Combretum,KNApSAcK
+79,C00029724,465-00-9,Arjunolic acid,C30H48O5,488.35017464,Combretum molle,Combretum,KNApSAcK
+80,C00030754,99-24-1,"Methyl 3,4,5-trihydroxybenzoate",C8H8O5,184.03717337,Combretum quadrangulare,Combretum,KNApSAcK
+81,C00032626,151676-27-6,"28-O-beta-D-glucopyranosyl-6beta,23-dihydroxytormentic acid",C36H58O12,682.39282732,Combretum quadrangulare,Combretum,KNApSAcK
+82,C00032735,31297-79-7,Arjunetin,C36H58O10,650.40299807,Combretum quadrangulare,Combretum,KNApSAcK
+83,C00032736,62369-72-6,Arjunglucoside II,C36H58O10,650.40299807,Combretum quadrangulare,Combretum,KNApSAcK
+84,C00032809,149475-28-5,Chebuloside II,C36H58O11,666.3979127,Combretum quadrangulare,Combretum,KNApSAcK
+85,C00032852,173485-48-8,Combreglucoside,C36H58O12,682.39282732,Combretum quadrangulare,Combretum,KNApSAcK
+86,C00033331,297141-60-7,Quadranoside IX,C43H62O16,834.40378593,Combretum quadrangulare,Combretum,KNApSAcK
+87,C00033332,297141-54-9,Quadranoside VI,C36H56O11,664.38226263,Combretum quadrangulare,Combretum,KNApSAcK
+88,C00033333,297141-56-1,Quadranoside VII,C36H56O11,664.38226263,Combretum quadrangulare,Combretum,KNApSAcK
+89,C00033334,297141-58-3,Quadranoside VIII,C36H56O10,648.38734801,Combretum quadrangulare,Combretum,KNApSAcK
+90,C00033335,297141-62-9,Quadranoside X,C36H58O10,650.40299807,Combretum quadrangulare,Combretum,KNApSAcK
+91,C00033336,297141-64-1,Quadranoside XI,C43H62O15,818.40887131,Combretum quadrangulare,Combretum,KNApSAcK
+92,C00033689,166197-43-9,Callosin,C16H16O4,272.104859,Combretum apiculatum,Combretum,KNApSAcK
+93,C00035051,58880-25-4,Arjungenin,C30H48O6,504.34508927,Combretum quadrangulare,Combretum,KNApSAcK
+94,C00035052,62319-70-4,Arjunglucoside I,C36H58O11,666.3979127,Combretum quadrangulare,Combretum,KNApSAcK
+95,C00035241,776-35-2,"9,10-Dihydrophenanthrene",C14H12,180.09390038,Combretum caffrum,Combretum,KNApSAcK
+96,C00035241,776-35-2,"9,10-Dihydrophenanthrene",C14H12,180.09390038,Combretum molle,Combretum,KNApSAcK
+97,C00035241,776-35-2,"9,10-Dihydrophenanthrene",C14H12,180.09390038,Combretum apiculatum,Combretum,KNApSAcK
+98,C00035342,99646-14-7,Mollic acid,C30H48O4,472.35526002,Combretum molle,Combretum,KNApSAcK
+99,C00040129,267001-54-7,Quadranoside III,C36H58O11,666.3979127,Combretum quadrangulare,Combretum,KNApSAcK
+100,C00040951,220751-58-6,Erythrophyllic acid,C30H42O3,450.31339521,Combretum erythrophyllum,Combretum,KNApSAcK
+101,C00045579,331732-53-7,6beta-Hydroxyarjunic acid,C30H48O6,504.34508927,Combretum quadrangulare,Combretum,KNApSAcK
+102,C00045580,331732-52-6,6beta-Hydroxyhovenic acid,C30H48O6,504.34508927,Combretum quadrangulare,Combretum,KNApSAcK
+103,C00045663,31298-06-3,Arjunic acid,C30H48O5,488.35017464,Combretum quadrangulare,Combretum,KNApSAcK
+104,C00046340,267001-53-6,Quadranoside II,C36H58O11,666.3979127,Combretum quadrangulare,Combretum,KNApSAcK
+105,C00046341,267001-55-8,Quadranoside IV,C36H58O10,650.40299807,Combretum quadrangulare,Combretum,KNApSAcK
+106,C00046573,254754-47-7,24-Epiquadrangularic acid G,C31H48O7,532.34000389,Combretum quadrangulare,Combretum,KNApSAcK
+107,C00046590,254754-51-3,7beta-Hydroxy-23-deoxojessic acid,C31H50O5,502.36582471,Combretum quadrangulare,Combretum,KNApSAcK
+108,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Combretum apiculatum,Combretum,KNApSAcK
+109,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Combretum molle,Combretum,KNApSAcK
+110,C00046822,254754-48-8,Methyl quadrangularate I,C31H50O6,518.36073933,Combretum quadrangulare,Combretum,KNApSAcK
+111,C00046834,254757-98-7,Norquadrangularic acid A,C27H42O6,462.29813907,Combretum quadrangulare,Combretum,KNApSAcK
+112,C00046869,254757-91-0,Quadrangularic acid F,C31H48O8,548.33491851,Combretum quadrangulare,Combretum,KNApSAcK
+113,C00046870,254757-92-1,Quadrangularic acid G,C31H48O7,532.34000389,Combretum quadrangulare,Combretum,KNApSAcK
+114,C00046871,254757-93-2,Quadrangularic acid H,C30H44O7,516.30870376,Combretum quadrangulare,Combretum,KNApSAcK
+115,C00046872,254757-94-3,Quadrangularic acid J,C31H50O5,502.36582471,Combretum quadrangulare,Combretum,KNApSAcK
+116,C00046873,254757-96-5,Quadrangularic acid L,C30H50O6,506.36073933,Combretum quadrangulare,Combretum,KNApSAcK
+117,C00046874,254757-97-6,Quadrangularic acid M,C30H48O5,488.35017464,Combretum quadrangulare,Combretum,KNApSAcK
+118,C00047080,158848-20-5,Pinfaensin,C36H56O11,664.38226263,Combretum quadrangulare,Combretum,KNApSAcK
+119,C00047084,267001-52-5,Quadranoside I,C36H58O10,650.40299807,Combretum quadrangulare,Combretum,KNApSAcK
+120,C00047085,267001-56-9,Quadranoside V,C36H56O11,664.38226263,Combretum quadrangulare,Combretum,KNApSAcK
+121,C00050819,114076-53-8,Imberbic acid,C30H48O4,472.35526002,Combretum imberbe,Combretum,KNApSAcK
+0,C00000207,65-85-0,Benzoic acid,C7H6O2,122.03677944,Homalium cochinchinensis,Homalium,KNApSAcK
+1,C00002344,20410-93-9,Homaline,C30H42N4O2,490.33077661,Homalium pornyense,Homalium,KNApSAcK
+2,C00002344,20410-93-9,Homaline,C30H42N4O2,490.33077661,Homalium pronyense,Homalium,KNApSAcK
+3,C00003019,29836-40-6,Tremulacin,C27H28O11,528.16316174,Homalium cochinchinensis,Homalium,KNApSAcK
+4,C00043403,690269-43-3,Cochinchiside A,C27H28O11,528.16316174,Homalium cochinchinensis,Homalium,KNApSAcK
+5,C00043404,690269-45-5,Cochinchiside B,C27H28O12,544.15807636,Homalium cochinchinensis,Homalium,KNApSAcK
+6,C00043991,529-66-8,Tremuloidin,C20H22O8,390.13146768,Homalium cochinchinensis,Homalium,KNApSAcK
+7,C00049863,205501-86-6,Cochinolide,C15H14O4,258.08920894,Homalium cochinchinensis,Homalium,KNApSAcK
+8,C00049864,205182-79-2,Cochinolide beta-glucopyranoside,C21H24O9,420.14203237,Homalium cochinchinensis,Homalium,KNApSAcK

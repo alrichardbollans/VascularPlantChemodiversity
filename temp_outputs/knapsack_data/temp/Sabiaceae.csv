@@ -1,0 +1,795 @@
+,C_ID,CAS ID,example_compound_name,Molecular formula,Mw,Organism,knapsack_search_term,Source
+0,C00006708,15674-58-5,Tulipanin,C27H31O16.Cl,646.13006266,Meliosma tenuis,Meliosma,KNApSAcK
+1,C00029346,95632-87-4,(Z)-3-Hexenyl beta-D-glucopyranoside,C12H22O6,262.14163844,Meliosma sp.,Meliosma,KNApSAcK
+2,C00029658,156199-49-4,Alangionoside A,C19H34O8,390.22536806,Meliosma pinnata ssp. Arnottiana,Meliosma,KNApSAcK
+3,C00029980,120330-44-1,Citroside A,C19H30O8,386.19406794,Meliosma sp.,Meliosma,KNApSAcK
+4,C00031751,17609-07-3,Dihydrosyringin,C17H26O9,374.15768243,Meliosma sp.,Meliosma,KNApSAcK
+5,C00053470,1639330-21-4,Meliosmoside A,C45H70O16,866.46638619,Meliosma henryi,Meliosma,KNApSAcK
+6,C00053470,1639330-21-4,Meliosmoside A,C45H70O16,866.46638619,Meliosma sp.,Meliosma,KNApSAcK
+7,C00053471,1639330-22-5,Meliosmoside B,C50H78O20,998.50864493,Meliosma sp.,Meliosma,KNApSAcK
+8,C00053471,1639330-22-5,Meliosmoside B,C50H78O20,998.50864493,Meliosma henryi,Meliosma,KNApSAcK
+9,C00053472,1639330-23-6,Meliosmoside C,C55H86O24,1130.55090368,Meliosma henryi,Meliosma,KNApSAcK
+10,C00053472,1639330-23-6,Meliosmoside C,C55H86O24,1130.55090368,Meliosma sp.,Meliosma,KNApSAcK
+11,C00053473,1639330-24-7,Meliosmoside D,C56H88O25,1160.56146836,Meliosma sp.,Meliosma,KNApSAcK
+12,C00053473,1639330-24-7,Meliosmoside D,C56H88O25,1160.56146836,Meliosma henryi,Meliosma,KNApSAcK
+13,C00053474,1639330-25-8,Meliosmoside E,C56H88O24,1144.56655374,Meliosma sp.,Meliosma,KNApSAcK
+14,C00053474,1639330-25-8,Meliosmoside E,C56H88O24,1144.56655374,Meliosma henryi,Meliosma,KNApSAcK
+15,C00053475,1639330-26-9,Meliosmoside F,C57H92O24,1160.59785387,Meliosma henryi,Meliosma,KNApSAcK
+16,C00053475,1639330-26-9,Meliosmoside F,C57H92O24,1160.59785387,Meliosma sp.,Meliosma,KNApSAcK
+17,C00053476,1639330-27-0,Meliosmoside G,C53H78O20,1034.50864493,Meliosma sp.,Meliosma,KNApSAcK
+18,C00053476,1639330-27-0,Meliosmoside G,C53H78O20,1034.50864493,Meliosma henryi,Meliosma,KNApSAcK
+19,C00060064,151516-48-2,Scorospiroside,C19H34O8,390.22536806,Meliosma sp.,Meliosma,KNApSAcK
+20,C00060111,155645-75-3,Castaraleside F,C42H66O16,826.43508606,Meliosma sp.,Meliosma,KNApSAcK
+21,C00060411,178248-95-8,"(2beta,3beta,4alpha)-28-(beta-D-Glucopyranosyloxy)-2,23-dihydroxy-28-oxoolean-12-en-3-yl beta-D-glucopyranosiduronic acid, methyl ester",C43H68O16,840.45073613,Meliosma sp.,Meliosma,KNApSAcK
+22,C00060412,178248-96-9,"(2beta,3beta,4alpha)-28-(beta-D-Glucopyranosyloxy)-2,23-dihydroxy-28-oxoolean-12-en-3-yl beta-D-glucopyranosiduronic acid",C42H66O16,826.43508606,Meliosma sp.,Meliosma,KNApSAcK
+23,C00060413,178248-97-0,"(2beta,3beta,4alpha)-28-(beta-D-Glucopyranosyloxy)-2,23-dihydroxy-28-oxoolean-12-en-3-yl 4-deoxy-alpha-L-threo-hex-4-enopyranosiduronic acid, methyl ester",C43H66O15,822.44017144,Meliosma sp.,Meliosma,KNApSAcK
+24,C00060414,178248-98-1,"(2beta,3beta,4alpha)-28-(beta-D-Glucopyranosyloxy)-2,23-dihydroxy-28-oxoolean-12-en-3-yl 4-O-beta-D-galactopyranosyl-beta-D-glucopyranosiduronic acid, methyl ester",C49H78O21,1002.50355956,Meliosma sp.,Meliosma,KNApSAcK
+25,C00060415,178248-99-2,"(2beta,3beta,4alpha)-28-(beta-D-Glucopyranosyloxy)-2,23-dihydroxy-28-oxoolean-12-en-3-yl 4-O-beta-D-galactopyranosyl-beta-D-glucopyranosiduronic acid",C48H76O21,988.48790949,Meliosma sp.,Meliosma,KNApSAcK
+26,C00060416,178249-00-8,"(2beta,3beta,4alpha)-28-(beta-D-Glucopyranosyloxy)-2,23-dihydroxy-28-oxoolean-12-en-3-yl 4-O-alpha-L-arabinopyranosyl-beta-D-glucopyranosiduronic acid, methyl ester",C48H76O20,972.49299487,Meliosma sp.,Meliosma,KNApSAcK
+27,C00060417,178249-01-9,"(3beta,4alpha)-28-(beta-D-Glucopyranosyloxy)-23-hydroxy-28-oxoolean-12-en-3-yl 4-O-beta-D-galactopyranosyl-beta-D-glucopyranosiduronic acid, methyl ester",C49H78O20,986.50864493,Meliosma sp.,Meliosma,KNApSAcK
+28,C00060418,178249-02-0,"(3beta,4alpha)-28-(beta-D-Glucopyranosyloxy)-23-hydroxy-28-oxoolean-12-en-3-yl 4-O-beta-D-galactopyranosyl-beta-D-glucopyranosiduronic acid",C48H76O20,972.49299487,Meliosma sp.,Meliosma,KNApSAcK
+29,C00060696,2033097-29-7,Melionoside A,C19H34O9,406.22028269,Meliosma sp.,Meliosma,KNApSAcK
+30,C00060697,2033097-30-0,Melionoside B,C19H34O9,406.22028269,Meliosma sp.,Meliosma,KNApSAcK
+31,C00060698,2033097-31-1,Meliosmaionol B,C13H26O4,246.18310932,Meliosma sp.,Meliosma,KNApSAcK
+32,C00060699,2033097-32-2,(9R)-Melionoside C,C19H34O10,422.21519731,Meliosma sp.,Meliosma,KNApSAcK
+33,C00060702,2034224-53-6,Melionoside C,C19H34O10,422.21519731,Meliosma sp.,Meliosma,KNApSAcK
+34,C00060703,2034224-54-7,Melionoside D,C19H32O9,404.20463262,Meliosma sp.,Meliosma,KNApSAcK
+35,C00060704,2034224-55-8,Melionoside E,C19H34O8,390.22536806,Meliosma sp.,Meliosma,KNApSAcK
+36,C00060705,2034224-56-9,Meliosmaionol A,C13H24O4,244.16745925,Meliosma sp.,Meliosma,KNApSAcK
+0,C00000580,501-98-4,(E)-p-Coumaric acid,C9H8O3,164.04734412,Wasabia japonica,Sabia,KNApSAcK
+1,C00001244,592-88-1,Diallyl sulfide,C6H10S,114.05032105,Wasabia japonica,Sabia,KNApSAcK
+2,C00002074,471-87-4,Stachydrine,C7H13NO2,143.09462867,Sabia schumanniana,Sabia,KNApSAcK
+3,C00007800,,6-Heptenyl glucosinolate,C14H25NO9S2,415.09707287,Wasabia japonica,Sabia,KNApSAcK
+4,C00007801,76265-24-2,5-Hexenyl glucosinolate,C13H23NO9S2,401.0814228,Wasabia japonica,Sabia,KNApSAcK
+5,C00007827,956700-00-8,3-Methylpentyl glucosinolate,C13H25NO9S2,403.09707287,Wasabia japonica,Sabia,KNApSAcK
+6,C00026511,30083-24-0,1-Methoxyindole-3-carboxylate,C19H19NO3,309.13649348,Wasabia japonica,Sabia,KNApSAcK
+7,C00026890,253676-41-4,Wasalexin A,C13H14N2O2S2,294.04966917,Wasabia japonica,Sabia,KNApSAcK
+8,C00026891,253676-42-5,Wasalexin B,C13H14N2O2S2,294.04966917,Wasabia japonica,Sabia,KNApSAcK
+9,C00033558,14737-89-4,"3,4-Dimethoxy-trans-cinnamic acid",C11H12O4,208.07355887,Wasabia japonica,Sabia,KNApSAcK
+10,C00034325,537-98-4,(E)-Ferulic acid,C10H10O4,194.05790881,Wasabia japonica,Sabia,KNApSAcK
+11,C00034327,7362-37-0,(E)-Sinapic acid,C11H12O5,224.06847349,Wasabia japonica,Sabia,KNApSAcK
+12,C00034328,42041-51-0,Sinapic acid methyl ester,C12H14O5,238.08412356,Wasabia japonica,Sabia,KNApSAcK
+13,C00054564,1010691-94-7,1-Caffeoyl-2'-sinapoylgentiobiose,C32H38O18,710.20581441,Wasabia japonica,Sabia,KNApSAcK
+14,C00054565,1010691-95-8,"1,2'-Bis(3,4-dihydroxy-5-methoxycinnamoyl)gentiobiose",C32H38O19,726.20072904,Wasabia japonica,Sabia,KNApSAcK
+15,C00054764,4430-42-6,Berteroin,C7H13NS2,175.04894088,Wasabia japonica,Sabia,KNApSAcK
+16,C00056334,1010691-91-4,"1-(3,4-Dihydroxy-5-methoxycinnamoyl)-2'-sinapoylgentiobiose",C33H40O19,740.2163791,Wasabia japonica,Sabia,KNApSAcK
+17,C00056335,1010691-92-5,"1,2'-Disinapoylgentiobiose",C34H42O19,754.23202916,Wasabia japonica,Sabia,KNApSAcK
+18,C00056336,1010691-93-6,1-Feruloyl-2'-sinapoylgentiobiose,C33H40O18,724.22146448,Wasabia japonica,Sabia,KNApSAcK
+19,C00056337,1010691-96-9,"1-(3,4-Dihydroxy-5-methoxycinnamoyl)-2'-feruloylgentiobiose",C32H38O18,710.20581441,Wasabia japonica,Sabia,KNApSAcK
+20,C00057394,4430-38-0,7-(Methylthio)heptyl isothiocyanate,C9H17NS2,203.08024101,Wasabia japonica,Sabia,KNApSAcK
+21,C00057395,4430-39-1,6-(Methylthio)hexyl isothiocyanate,C8H15NS2,189.06459095,Wasabia japonica,Sabia,KNApSAcK
+22,C00057396,4430-41-5,8-(Methylthio)octyl isothiocyanate,C10H19NS2,217.09589107,Wasabia japonica,Sabia,KNApSAcK
+23,C00057538,75272-78-5,7-(Methylthio)heptanenitrile,C8H15NS,157.09252022,Wasabia japonica,Sabia,KNApSAcK
+24,C00058233,862288-10-6,7-O-trans-Sinapoylisovitexin,C32H30O14,638.16355567,Wasabia japonica,Sabia,KNApSAcK
+0,C00003834,529-53-3,Scutellarein,C15H10O6,286.04773805,Millingtonia hortensis,Millingtonia,KNApSAcK
+0,C00000555,518-82-1,Emodin,C15H10O5,270.05282343,Myrsine africana,Myrsine,KNApSAcK
+1,C00002822,550-24-3,Embelin,C17H26O4,294.18310932,Myrsine africana,Myrsine,KNApSAcK
+2,C00002842,56005-10-8,5-O-Methylembelin,C18H28O4,308.19875938,Myrsine africana,Myrsine,KNApSAcK
+3,C00002847,58322-78-4,Norobtusifolin,C15H10O5,270.05282343,Myrsine africana,Myrsine,KNApSAcK
+4,C00002860,573-40-0,Rapanone,C19H30O4,322.21440945,Myrsine spp.,Myrsine,KNApSAcK
+5,C00011178,200353-68-0,"Myricetin 3,4'-di-O-alpha-L-rhamnopyranoside",C27H30O16,610.15338491,Myrsine seguinii,Myrsine,KNApSAcK
+6,C00013844,200353-66-8,Quercetin 3-rhamnoside-3'-glucoside,C27H30O16,610.15338491,Myrsine seguinii,Myrsine,KNApSAcK
+7,C00013859,187410-77-1,Quercetin 3-glucosyl-(1->4)-rhamnoside-7-rutinoside,C39H50O25,918.26411715,Myrsine africana,Myrsine,KNApSAcK
+8,C00013966,200353-67-9,Myricetin 3-rhamnoside-3'-glucoside,C27H30O17,626.14829954,Myrsine seguinii,Myrsine,KNApSAcK
+9,C00013976,184533-13-9,"Myricetin 3-(3'',4''-diacetylrhamnoside)",C25H24O14,548.11660548,Myrsine africana,Myrsine,KNApSAcK
+10,C00029682,138665-44-8,Ampelopsisionoside,C19H32O8,388.209718,Myrsine seguinii,Myrsine,KNApSAcK
+11,C00030801,374569-55-8,Myrsinionoside A,C19H34O7,374.23045344,Myrsine seguinii,Myrsine,KNApSAcK
+12,C00030802,346616-70-4,Myrsinionoside D,C19H36O7,376.2461035,Myrsine seguinii,Myrsine,KNApSAcK
+13,C00031363,220777-96-8,Seguinoside B,C17H24O11,404.13186161,Myrsine seguinii,Myrsine,KNApSAcK
+14,C00031702,220778-07-4,Cucurbitoside E,C24H28O12,508.15807636,Myrsine seguinii,Myrsine,KNApSAcK
+15,C00033114,160169-57-3,Linarionoside A,C19H34O7,374.23045344,Myrsine seguinii,Myrsine,KNApSAcK
+16,C00033240,374569-56-9,Myrsinionoside B,C19H34O8,390.22536806,Myrsine seguinii,Myrsine,KNApSAcK
+17,C00033241,374569-58-1,Myrsinionoside C,C19H36O7,376.2461035,Myrsine seguinii,Myrsine,KNApSAcK
+18,C00033242,374569-86-5,Myrsinionoside E,C24H42O11,506.27271219,Myrsine seguinii,Myrsine,KNApSAcK
+19,C00034893,220778-37-0,Seguinoside F,C26H32O15,584.17412036,Myrsine seguinii,Myrsine,KNApSAcK
+20,C00037685,465-95-2,Primulagenin A,C30H50O3,458.37599546,Myrsine africana,Myrsine,KNApSAcK
+21,C00037809,257888-26-9,Seguinoside K,C26H32O15,584.17412036,Myrsine seguinii,Myrsine,KNApSAcK
+22,C00039140,220777-86-6,Eriosemaside B,C17H24O11,404.13186161,Myrsine seguinii,Myrsine,KNApSAcK
+23,C00040272,257887-43-7,Seguinoside G,C22H30O12,486.17372642,Myrsine seguinii,Myrsine,KNApSAcK
+24,C00040273,257887-49-3,Seguinoside H,C22H26O13,498.13734092,Myrsine seguinii,Myrsine,KNApSAcK
+25,C00040274,257887-75-5,Seguinoside I,C27H38O13,570.2312413,Myrsine seguinii,Myrsine,KNApSAcK
+26,C00040275,257888-16-7,Seguinoside J,C23H32O12,500.18937649,Myrsine seguinii,Myrsine,KNApSAcK
+27,C00040746,63358-12-3,(+)-Isolarisiresinol 3a-O-beta-D-glucopyranoside,C26H34O11,522.21011193,Myrsine seguinii,Myrsine,KNApSAcK
+28,C00041123,220778-12-1,Seguinoside D,C24H28O13,524.15299098,Myrsine seguinii,Myrsine,KNApSAcK
+29,C00041124,220778-23-4,Seguinoside E,C25H30O14,554.16355567,Myrsine seguinii,Myrsine,KNApSAcK
+30,C00051586,14547-59-2,Methylanhydrovilangin,C36H52O7,596.37130401,Myrsine africana,Myrsine,KNApSAcK
+31,C00051593,14547-57-0,Methylvilangin,C36H54O8,614.3818687,Myrsine africana,Myrsine,KNApSAcK
+32,C00054896,1256288-35-3,"2'',4''-Di-O-acetylmearnsitrin",C26H26O14,562.13225554,Myrsine africana,Myrsine,KNApSAcK
+33,C00056845,1093121-66-4,Myrsinoside A,C20H22O12,454.11112617,Myrsine africana,Myrsine,KNApSAcK
+34,C00057067,145040-57-9,Myrsinone,C17H26O4,294.18310932,Myrsine africana,Myrsine,KNApSAcK
+35,C00057173,184533-14-0,Myricetin 7-rhamnoside,C21H20O12,464.09547611,Myrsine africana,Myrsine,KNApSAcK
+0,C00000100,87-51-4,Indole-3-acetic acid,C10H9NO2,175.06332854,Quercus robur,Quercus,KNApSAcK
+1,C00000101,1912-33-0,Methyl indole-3-acetate,C11H11NO2,189.0789786,Quercus robur,Quercus,KNApSAcK
+2,C00000136,470-82-6,"1,8-Cineol",C10H18O,154.1357652,Quercus coccifera,Quercus,KNApSAcK
+3,C00000218,6894-38-8,(-)-Jasmonic acid,C12H18O3,210.12559444,Quercus robur,Quercus,KNApSAcK
+4,C00000606,580-72-3,(-)-Matairesinol,C20H22O6,358.14163844,Quercus iberica,Quercus,KNApSAcK
+5,C00000682,2955-23-9,Olivil,C20H24O7,376.15220312,Quercus iberica,Quercus,KNApSAcK
+6,C00000805,80-56-8,alpha-Pinene,C10H16,136.12520051,Quercus coccifera,Quercus,KNApSAcK
+7,C00000816,127-91-3,beta-Pinene,C10H16,136.12520051,Quercus coccifera,Quercus,KNApSAcK
+8,C00000853,123-35-3,beta-Myrcene,C10H16,136.12520051,Quercus coccifera,Quercus,KNApSAcK
+9,C00000861,586-62-9,alpha-Terpinolene,C10H16,136.12520051,Quercus coccifera,Quercus,KNApSAcK
+10,C00000947,154-23-4,(+)-Catechin,C15H14O6,290.07903818,Quercus robur,Quercus,KNApSAcK
+11,C00001015,1617-53-4,Amentoflavone,C30H18O10,538.0899968,Quercus infectoria,Quercus,KNApSAcK
+12,C00001170,488-73-3,(+)-Quercitol,C6H12O5,164.06847349,Quercus robur,Quercus,KNApSAcK
+13,C00001250,630-04-6,Hentriacontane,C31H64,436.50080204,Quercus myrsenaefolia,Quercus,KNApSAcK
+14,C00001250,630-04-6,Hentriacontane,C31H64,436.50080204,Quercus stenophylla Makino.,Quercus,KNApSAcK
+15,C00001250,630-04-6,Hentriacontane,C31H64,436.50080204,Quercus glauca Thunb.,Quercus,KNApSAcK
+16,C00001260,630-03-5,Nonacosane,C29H60,408.46950191,Quercus glauca Thunb.,Quercus,KNApSAcK
+17,C00001260,630-03-5,Nonacosane,C29H60,408.46950191,Quercus stenophylla Makino.,Quercus,KNApSAcK
+18,C00001260,630-03-5,Nonacosane,C29H60,408.46950191,Quercus myrsenaefolia,Quercus,KNApSAcK
+19,C00001270,630-05-7,Triacontane,C33H68,464.53210217,Quercus stenophylla Makino.,Quercus,KNApSAcK
+20,C00001270,630-05-7,Triacontane,C33H68,464.53210217,Quercus myrsenaefolia,Quercus,KNApSAcK
+21,C00001270,630-05-7,Triacontane,C33H68,464.53210217,Quercus glauca Thunb.,Quercus,KNApSAcK
+22,C00002647,149-91-7,Gallic acid,C7H6O5,170.0215233,Quercus infectoria,Quercus,KNApSAcK
+23,C00002647,149-91-7,Gallic acid,C7H6O5,170.0215233,Quercus robur,Quercus,KNApSAcK
+24,C00002647,149-91-7,Gallic acid,C7H6O5,170.0215233,Quercus alba,Quercus,KNApSAcK
+25,C00002674,530-57-4,Syringic acid,C9H10O5,198.05282343,Quercus infectoria,Quercus,KNApSAcK
+26,C00002728,458-36-6,Coniferaldehyde,C10H10O3,178.06299419,Quercus spp.,Quercus,KNApSAcK
+27,C00002775,4206-58-0,Sinapaldehyde,C11H12O4,208.07355887,Quercus spp.,Quercus,KNApSAcK
+28,C00002909,79786-00-8,Casuarictin,C41H28O26,936.08688107,Quercus spp.,Quercus,KNApSAcK
+29,C00002920,58970-75-5,Eugeniin,C41H30O26,938.10253114,Quercus spp.,Quercus,KNApSAcK
+30,C00002932,7045-42-3,Pedunculagin,C34H24O22,784.07592246,Quercus spp.,Quercus,KNApSAcK
+31,C00002933,14937-32-7,"1,2,3,4,6-Penta-O-galloyl-beta-D-glucose",C41H32O26,940.1181812,Quercus infectoria,Quercus,KNApSAcK
+32,C00002938,79786-08-6,Tellimagrandin I,C34H26O22,786.09157252,Quercus sp.,Quercus,KNApSAcK
+33,C00003013,569-77-7,Purpurogallin,C11H8O5,220.03717337,Quercus pedunculanta,Quercus,KNApSAcK
+34,C00003040,99-87-6,p-Cymene,C10H14,134.10955045,Quercus coccifera,Quercus,KNApSAcK
+35,C00003045,1195-79-5,Fenchone,C10H16O,152.12011513,Quercus coccifera,Quercus,KNApSAcK
+36,C00003047,78-70-6,(+-)-Linalool,C10H18O,154.1357652,Quercus coccifera,Quercus,KNApSAcK
+37,C00003051,99-83-2,alpha-Phellandrene,C10H16,136.12520051,Quercus coccifera,Quercus,KNApSAcK
+38,C00003060,99-86-5,alpha-Terpinene,C10H16,136.12520051,Quercus coccifera,Quercus,KNApSAcK
+39,C00003067,18309-32-5,(R)-(+)-Verbenone,C10H14O,150.10446507,Quercus coccifera,Quercus,KNApSAcK
+40,C00003110,87-44-5,beta-Caryophyllene,C15H24,204.18780077,Quercus coccifera,Quercus,KNApSAcK
+41,C00003118,3856-25-5,alpha-Copaene,C15H24,204.18780077,Quercus coccifera,Quercus,KNApSAcK
+42,C00003131,18794-84-8,E-beta-farnesene,C15H24,204.18780077,Quercus coccifera,Quercus,KNApSAcK
+43,C00003147,6753-98-6,alpha-Caryophyllene (obsol.),C15H24,204.18780077,Quercus coccifera,Quercus,KNApSAcK
+44,C00003204,495-60-3,alpha-Zingiberene,C15H24,204.18780077,Quercus coccifera,Quercus,KNApSAcK
+45,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Quercus stenophylla Makino.,Quercus,KNApSAcK
+46,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Quercus myrsenaefolia,Quercus,KNApSAcK
+47,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Quercus glauca Thunb.,Quercus,KNApSAcK
+48,C00003738,559-70-6,beta-Amyrin,C30H50O,426.38616622,Quercus glauca Thunb.,Quercus,KNApSAcK
+49,C00003738,559-70-6,beta-Amyrin,C30H50O,426.38616622,Quercus stenophylla Makino.,Quercus,KNApSAcK
+50,C00003738,559-70-6,beta-Amyrin,C30H50O,426.38616622,Quercus myrsenaefolia,Quercus,KNApSAcK
+51,C00003747,559-74-0,3-Friedelanone,C30H50O,426.38616622,Quercus stenophylla Makino.,Quercus,KNApSAcK
+52,C00003747,559-74-0,3-Friedelanone,C30H50O,426.38616622,Quercus glauca Thunb.,Quercus,KNApSAcK
+53,C00003747,559-74-0,3-Friedelanone,C30H50O,426.38616622,Quercus myrsenaefolia,Quercus,KNApSAcK
+54,C00003747,559-74-0,3-Friedelanone,C30H50O,426.38616622,Quercus suber,Quercus,KNApSAcK
+55,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Quercus myrsenaefolia,Quercus,KNApSAcK
+56,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Quercus stenophylla Makino.,Quercus,KNApSAcK
+57,C00005374,522-12-3,Quercetin 3-O-alpha-L-rhamnoside,C21H20O11,448.10056148,Quercus iberica,Quercus,KNApSAcK
+58,C00005374,522-12-3,Quercetin 3-O-alpha-L-rhamnoside,C21H20O11,448.10056148,Quercus tinctoria,Quercus,KNApSAcK
+59,C00005730,17912-87-7,Myricitrin,C21H20O12,464.09547611,Quercus rubra,Quercus,KNApSAcK
+60,C00005741,,Myricetin 3-rhamnoside-7-glucoside,C27H30O17,626.14829954,Quercus rubra,Quercus,KNApSAcK
+61,C00005847,56317-05-6,Kaempferol 3-(6''-galloylglucoside),C28H24O15,600.1115201,Quercus canariensis,Quercus,KNApSAcK
+62,C00005849,137018-32-7,Kaempferol 3-(2''-p-coumarylglucoside),C30H26O13,594.13734092,Quercus suber,Quercus,KNApSAcK
+63,C00005851,20316-62-5,Kaempferol 3-O-beta-D-(6''-E-p-coumaroyl)glucopyranoside,C30H26O13,594.13734092,Quercus suber,Quercus,KNApSAcK
+64,C00005851,20316-62-5,Kaempferol 3-O-beta-D-(6''-E-p-coumaroyl)glucopyranoside,C30H26O13,594.13734092,Quercus ilex,Quercus,KNApSAcK
+65,C00005853,115651-95-1,Kaempferol 3-(4''-acetyl-6''-p-coumarylglucoside),C32H28O14,636.14790561,Quercus cerris,Quercus,KNApSAcK
+66,C00005853,115651-95-1,Kaempferol 3-(4''-acetyl-6''-p-coumarylglucoside),C32H28O14,636.14790561,Quercus suber,Quercus,KNApSAcK
+67,C00005854,121651-61-4,"Kaempferol 3-(2'',6''-di-(E)-p-coumarylglucoside)",C39H32O15,740.17412036,Quercus canariensis,Quercus,KNApSAcK
+68,C00005854,121651-61-4,"Kaempferol 3-(2'',6''-di-(E)-p-coumarylglucoside)",C39H32O15,740.17412036,Quercus ilex,Quercus,KNApSAcK
+69,C00005855,137120-98-0,Kaempferol 3-(2''-(Z)-p-coumaryl-6''-(E)-p-coumarylglucoside),C39H32O15,740.17412036,Quercus canariensis,Quercus,KNApSAcK
+70,C00005858,137018-29-2,"Kaempferol 3-(2'',3''-diacetyl-4''-(Z)-p-coumaryl-6''-(E)-p-coumarylglucoside)",C43H36O17,824.19524973,Quercus rubra,Quercus,KNApSAcK
+71,C00005858,137018-29-2,"Kaempferol 3-(2'',3''-diacetyl-4''-(Z)-p-coumaryl-6''-(E)-p-coumarylglucoside)",C43H36O17,824.19524973,Quercus suber,Quercus,KNApSAcK
+72,C00005858,137018-29-2,"Kaempferol 3-(2'',3''-diacetyl-4''-(Z)-p-coumaryl-6''-(E)-p-coumarylglucoside)",C43H36O17,824.19524973,Quercus canariensis,Quercus,KNApSAcK
+73,C00005859,137018-33-8,"Kaempferol 3-(3'',4''-diacetyl-2'',6''-di-(E)-p-coumarylglucoside)",C43H36O17,824.19524973,Quercus rubra,Quercus,KNApSAcK
+74,C00005859,137018-33-8,"Kaempferol 3-(3'',4''-diacetyl-2'',6''-di-(E)-p-coumarylglucoside)",C43H36O17,824.19524973,Quercus suber,Quercus,KNApSAcK
+75,C00005859,137018-33-8,"Kaempferol 3-(3'',4''-diacetyl-2'',6''-di-(E)-p-coumarylglucoside)",C43H36O17,824.19524973,Quercus canariensis,Quercus,KNApSAcK
+76,C00006008,115651-94-0,Isorhamnetin 3-(6''-galloylglucoside),C29H26O16,630.12208479,Quercus cerris,Quercus,KNApSAcK
+77,C00006009,"84534-24-7,110351-14-9",Isorhamnetin 3-(6''-p-coumarylglucoside),C31H28O14,624.14790561,Quercus cerris,Quercus,KNApSAcK
+78,C00006178,35927-39-0,Lucenin 1,C26H28O15,580.14282023,Quercus sp.,Quercus,KNApSAcK
+79,C00006535,20931-58-2,Isocryptomerin,C31H20O10,552.10564686,Quercus infectoria,Quercus,KNApSAcK
+80,C00007205,14464-90-5,(+)-Lyoniresinol,C22H28O8,420.17841787,Quercus petraea,Quercus,KNApSAcK
+81,C00007636,483-76-1,delta-Cadinene,C15H24,204.18780077,Quercus coccifera,Quercus,KNApSAcK
+82,C00008841,109280-46-8,Catechin 3-O-beta-D-glucopyranoside,C21H24O11,452.13186161,Quercus marilandica,Quercus,KNApSAcK
+83,C00008841,109280-46-8,Catechin 3-O-beta-D-glucopyranoside,C21H24O11,452.13186161,Quercus miyagii,Quercus,KNApSAcK
+84,C00008843,103630-03-1,Catechin 3-O-alpha-L-rhamnoside,C21H24O10,436.13694699,Quercus miyagii,Quercus,KNApSAcK
+85,C00008844,155260-73-4,Catechin 3-O-rutinoside,C27H34O15,598.18977042,Quercus marilandica,Quercus,KNApSAcK
+86,C00009070,12798-58-2,Procyanidin B6,C30H26O12,578.1424263,Quercus miyagii,Quercus,KNApSAcK
+87,C00009071,23567-23-9,Procyanidin B3,C30H26O12,578.1424263,Quercus miyagii,Quercus,KNApSAcK
+88,C00009072,51196-37-3,Catechin-(4beta->8)-catechin,C30H26O12,578.1424263,Quercus marilandica,Quercus,KNApSAcK
+89,C00009073,12798-60-6,Procyanidin B8,C30H26O12,578.1424263,Quercus spp.,Quercus,KNApSAcK
+90,C00009074,12798-59-3,Procyanidin B7,C30H26O12,578.1424263,Quercus petraea,Quercus,KNApSAcK
+91,C00009074,12798-59-3,Procyanidin B7,C30H26O12,578.1424263,Quercus miyagii,Quercus,KNApSAcK
+92,C00009075,20315-25-7,Procyanidin B1,C30H26O12,578.1424263,Quercus miyagii,Quercus,KNApSAcK
+93,C00009095,87727-69-3,Procyanidin C4,C45H38O18,866.20581441,Quercus miyagii,Quercus,KNApSAcK
+94,C00009110,110064-49-8,Gallocatechin-(4alpha->6)-catechin,C30H26O13,594.13734092,Quercus dentata,Quercus,KNApSAcK
+95,C00009111,78392-25-3,Prodelphinidin C,C30H26O13,594.13734092,Quercus miyagii,Quercus,KNApSAcK
+96,C00009111,78392-25-3,Prodelphinidin C,C30H26O13,594.13734092,Quercus dentata,Quercus,KNApSAcK
+97,C00009116,110115-59-8,Prodelphinidin B3,C30H26O14,610.13225554,Quercus dentata,Quercus,KNApSAcK
+98,C00009199,155260-74-5,3-O-beta-D-Glucosylcatechin-(4alpha->8)-catechin,C36H36O17,740.19524973,Quercus marilandica,Quercus,KNApSAcK
+99,C00009200,109194-84-5,3-O-alpha-L-Rhamnopyranosylcatechin-(4alpha->8)-catechin,C36H36O16,724.20033511,Quercus miyagii,Quercus,KNApSAcK
+100,C00009202,118627-69-3,Catechin-(4alpha->8)-catechin-3-O-beta-D-glucopyranoside,C36H36O17,740.19524973,Quercus marilandica Muenchh.,Quercus,KNApSAcK
+101,C00009203,109194-83-4,Catechin-(4alpha->8)-catechin-3-O-rhamnopyranoside,C36H36O16,724.20033511,Quercus miyagii,Quercus,KNApSAcK
+102,C00009208,109280-47-9,3-O-Galloylepicatechin-(4beta->8)-epicatechin,C37H30O16,730.15338491,Quercus falcata,Quercus,KNApSAcK
+103,C00009231,110081-90-8,3-O-Galloylepigallocatechin-(4beta->8)-catechin,C37H30O17,746.14829954,Quercus dentata,Quercus,KNApSAcK
+104,C00009338,145826-23-9,Guajavin B,C56H38O32,1222.13461913,Quercus petraea,Quercus,KNApSAcK
+105,C00009339,145826-25-1,Eugenigrandin A,C56H38O32,1222.13461913,Quercus petraea,Quercus,KNApSAcK
+106,C00009358,108906-66-7,Acutissimin A,C56H38O31,1206.1397045,Quercus acutissima,Quercus,KNApSAcK
+107,C00009359,108906-65-6,Acutissimin B,C56H38O31,1206.1397045,Quercus acutissima,Quercus,KNApSAcK
+108,C00009360,108907-40-0,Acutissimin C,C42H32O23,904.13343733,Quercus mongolica,Quercus,KNApSAcK
+109,C00009363,118964-16-2,Mongolicain A,C63H42O36,1374.14557774,Quercus mongolica,Quercus,KNApSAcK
+110,C00009370,118964-13-9,Mongolicin A,C62H46O37,1382.17179249,Quercus mongolica,Quercus,KNApSAcK
+111,C00009371,118964-14-0,Mongolicin B,C62H46O37,1382.17179249,Quercus mongolica,Quercus,KNApSAcK
+112,C00009372,118964-17-3,Mongolicanin,C71H50O37,1494.20309262,Quercus mongolica,Quercus,KNApSAcK
+113,C00009373,97775-88-7,Stenophyllanin A,C56H40O31,1208.15535457,Quercus stenophylla,Quercus,KNApSAcK
+114,C00009374,97775-89-8,Stenophyllanin B,C56H40O31,1208.15535457,Quercus stenophylla,Quercus,KNApSAcK
+115,C00009375,97775-90-1,Stenophyllanin C,C49H36O27,1056.14439595,Quercus stenophylla,Quercus,KNApSAcK
+116,C00009376,105330-40-3,Stenophynin A,C49H36O27,1056.14439595,Quercus stenophylla,Quercus,KNApSAcK
+117,C00009377,105330-41-4,Stenophynin B,C42H34O23,906.1490874,Quercus stenophylla,Quercus,KNApSAcK
+118,C00010872,555-10-2,beta-Phellandrene,C10H16,136.12520051,Quercus coccifera,Quercus,KNApSAcK
+119,C00011067,508-32-7,Teresantanane,C10H16,136.12520051,Quercus coccifera,Quercus,KNApSAcK
+120,C00011153,476-66-4,Ellagic acid,C14H6O8,302.00626717,Quercus infectoria,Quercus,KNApSAcK
+121,C00011153,476-66-4,Ellagic acid,C14H6O8,302.00626717,Quercus alba,Quercus,KNApSAcK
+122,C00011153,476-66-4,Ellagic acid,C14H6O8,302.00626717,Quercus robur,Quercus,KNApSAcK
+123,C00011617,4176-17-4,(R)-(-)-alpha-Curcumene,C15H22,202.1721507,Quercus coccifera,Quercus,KNApSAcK
+124,C00013777,351491-18-4,Kaempferol 3-(2''-(E)-p-coumaroyl-6''-acetylglucoside),C32H28O14,636.14790561,Quercus dentata,Quercus,KNApSAcK
+125,C00021884,5208-59-3,beta-Bourbonene,C15H24,204.18780077,Quercus coccifera,Quercus,KNApSAcK
+126,C00022654,1616-93-9,beta-Amyrin acetate,C32H52O2,468.3967309,Quercus myrsenaefolia,Quercus,KNApSAcK
+127,C00022654,1616-93-9,beta-Amyrin acetate,C32H52O2,468.3967309,Quercus glauca Thunb.,Quercus,KNApSAcK
+128,C00022654,1616-93-9,beta-Amyrin acetate,C32H52O2,468.3967309,Quercus stenophylla Makino.,Quercus,KNApSAcK
+129,C00029350,28973-97-9,cis-beta-Farnesene,C15H24,204.18780077,Quercus coccifera,Quercus,KNApSAcK
+130,C00029412,70868-78-9,19alpha-Hydroxyasiatic acid,C30H48O6,504.34508927,Quercus ilex,Quercus,KNApSAcK
+131,C00029671,10208-80-7,alpha-Muurolene,C15H24,204.18780077,Quercus coccifera,Quercus,KNApSAcK
+132,C00030345,39029-41-9,gamma-Cadinene,C15H24,204.18780077,Quercus coccifera,Quercus,KNApSAcK
+133,C00030471,593-49-7,Heptacosane,C27H56,380.43820179,Quercus glauca Thunb.,Quercus,KNApSAcK
+134,C00030471,593-49-7,Heptacosane,C27H56,380.43820179,Quercus myrsenaefolia,Quercus,KNApSAcK
+135,C00030471,593-49-7,Heptacosane,C27H56,380.43820179,Quercus stenophylla Makino.,Quercus,KNApSAcK
+136,C00031258,3387-41-5,4(10)-Thujene,C10H16,136.12520051,Quercus coccifera,Quercus,KNApSAcK
+137,C00034456,73464-47-8,beta-Gurjunene,C15H24,204.18780077,Quercus coccifera,Quercus,KNApSAcK
+138,C00035162,55306-03-1,Sericic acid,C30H48O6,504.34508927,Quercus ilex,Quercus,KNApSAcK
+139,C00035163,55306-04-2,Sericoside,C36H58O11,666.3979127,Quercus ilex,Quercus,KNApSAcK
+140,C00037275,564-14-7,Hop-17(21)-en-3beta-ol,C30H50O,426.38616622,Quercus championi,Quercus,KNApSAcK
+141,C00045266,418770-56-6,Cocciferin D1,C75H56O48,1724.19410366,Quercus coccifera,Quercus,KNApSAcK
+142,C00045267,420808-75-9,Cocciferin D2,C82H52O52,1868.14246202,Quercus coccifera,Quercus,KNApSAcK
+143,C00045268,420812-30-2,Cocciferin T1,C116H82O74,2658.26533467,Quercus coccifera,Quercus,KNApSAcK
+144,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Quercus coccifera,Quercus,KNApSAcK
+145,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Quercus serrata,Quercus,KNApSAcK
+146,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Quercus wislizenii,Quercus,KNApSAcK
+147,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Quercus virginiana,Quercus,KNApSAcK
+148,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Quercus velutina,Quercus,KNApSAcK
+149,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Quercus trojana,Quercus,KNApSAcK
+150,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Quercus suber,Quercus,KNApSAcK
+151,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Quercus rubra,Quercus,KNApSAcK
+152,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Quercus rotundifolia,Quercus,KNApSAcK
+153,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Quercus robur,Quercus,KNApSAcK
+154,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Quercus pyrenaica,Quercus,KNApSAcK
+155,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Quercus pubescens,Quercus,KNApSAcK
+156,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Quercus prinus,Quercus,KNApSAcK
+157,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Quercus phellos,Quercus,KNApSAcK
+158,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Quercus petraea,Quercus,KNApSAcK
+159,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Quercus nigra,Quercus,KNApSAcK
+160,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Quercus mexicana,Quercus,KNApSAcK
+161,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Quercus macrolepis,Quercus,KNApSAcK
+162,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Quercus lobata,Quercus,KNApSAcK
+163,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Quercus libani,Quercus,KNApSAcK
+164,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Quercus laurifolia,Quercus,KNApSAcK
+165,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Quercus laevis,Quercus,KNApSAcK
+166,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Quercus ithaburiensis,Quercus,KNApSAcK
+167,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Quercus incana,Quercus,KNApSAcK
+168,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Quercus ilex,Quercus,KNApSAcK
+169,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Quercus garryana,Quercus,KNApSAcK
+170,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Quercus gambelii,Quercus,KNApSAcK
+171,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Quercus frainetto,Quercus,KNApSAcK
+172,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Quercus faginea,Quercus,KNApSAcK
+173,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Quercus dumosa,Quercus,KNApSAcK
+174,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Quercus douglasii,Quercus,KNApSAcK
+175,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Quercus coccinea,Quercus,KNApSAcK
+176,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Quercus agrifolia,Quercus,KNApSAcK
+177,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Quercus alba,Quercus,KNApSAcK
+178,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Quercus borealis,Quercus,KNApSAcK
+179,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Quercus calliprinos,Quercus,KNApSAcK
+180,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Quercus canariensis,Quercus,KNApSAcK
+181,C00057617,87340-30-5,Quercilicoside A,C36H58O11,666.3979127,Quercus ilex,Quercus,KNApSAcK
+0,C00000947,154-23-4,(+)-Catechin,C15H14O6,290.07903818,Embelia ribes Burm.,Embelia,KNApSAcK
+1,C00002822,550-24-3,Embelin,C17H26O4,294.18310932,Embelia ribes,Embelia,KNApSAcK
+2,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Embelia ribes Burm.,Embelia,KNApSAcK
+3,C00003673,481-18-5,Spinasterol,C29H48O,412.37051615,Embelia parviflora,Embelia,KNApSAcK
+4,C00003674,83-48-7,beta-Stigmasterol,C29H48O,412.37051615,Embelia schimperi,Embelia,KNApSAcK
+5,C00003758,127-22-0,Taraxerol,C30H50O,426.38616622,Embelia schimperi,Embelia,KNApSAcK
+6,C00013841,189135-70-4,Quercetin 3-galactosyl-(1->2)-rhamnoside,C27H30O16,610.15338491,Embelia schimperi,Embelia,KNApSAcK
+7,C00019308,474-58-8,3-O-beta-D-Glucopyranosyl sitosterol,C35H60O6,576.43898965,Embelia ribes Burm.,Embelia,KNApSAcK
+8,C00032287,514-07-8,Taraxerone,C30H48O,424.37051615,Embelia schimperi,Embelia,KNApSAcK
+9,C00035039,2749-23-7,Aegicerin,C30H48O3,456.3603454,Embelia schimperi,Embelia,KNApSAcK
+10,C00035151,2611-08-7,Protoprimulagenin A,C30H50O3,458.37599546,Embelia schimperi,Embelia,KNApSAcK
+11,C00035159,75018-57-4,Schimperinone,C30H48O3,456.3603454,Embelia schimperi,Embelia,KNApSAcK
+12,C00037092,538357-88-9,Embelinone,C30H46O3,454.34469533,Embelia schimperi,Embelia,KNApSAcK
+13,C00037685,465-95-2,Primulagenin A,C30H50O3,458.37599546,Embelia schimperi,Embelia,KNApSAcK
+14,C00041279,138168-58-8,"5-(8Z,11Z-Heptadecadienyl)-1,3-benzenediol",C23H36O2,344.27153039,Embelia ribes Burm.,Embelia,KNApSAcK
+15,C00041280,52483-19-9,"5-(8Z-Heptadecenyl)-1,3-benzenediol",C23H38O2,346.28718046,Embelia ribes Burm.,Embelia,KNApSAcK
+16,C00051531,506-50-3,Triacontanoic acid,C30H60O2,452.45933116,Embelia parviflora,Embelia,KNApSAcK
+0,C00003527,17184-21-3,Cauloside A,C35H56O8,604.39751876,Sapindus mukorossi,Sapindus,KNApSAcK
+1,C00003528,27013-91-8,Sapindoside A,C41H66O12,750.45542757,Sapindus mukorossi,Sapindus,KNApSAcK
+2,C00003817,520-36-5,Apigenin,C15H10O5,270.05282343,Sapindus mukorossi,Sapindus,KNApSAcK
+3,C00030459,465-99-6,Hederagenin,C30H48O4,472.35526002,Sapindus mukorossi,Sapindus,KNApSAcK
+4,C00031288,919110-74-0,Sapimukoside E,C54H88O20,1056.58689525,Sapindus mukorossi GAERTN,Sapindus,KNApSAcK
+5,C00031289,919110-75-1,Sapimukoside F,C54H88O20,1056.58689525,Sapindus mukorossi GAERTN,Sapindus,KNApSAcK
+6,C00031290,919110-76-2,Sapimukoside G,C53H86O20,1042.57124519,Sapindus mukorossi GAERTN,Sapindus,KNApSAcK
+7,C00031291,919110-77-3,Sapimukoside H,C55H90O20,1070.60254532,Sapindus mukorossi GAERTN,Sapindus,KNApSAcK
+8,C00031292,919110-78-4,Sapimukoside I,C54H88O20,1056.58689525,Sapindus mukorossi GAERTN,Sapindus,KNApSAcK
+9,C00031293,919096-61-0,Sapimukoside J,C44H72O12,792.50237776,Sapindus mukorossi GAERTN,Sapindus,KNApSAcK
+10,C00033709,20853-58-1,Cauloside C,C41H66O13,766.4503422,Sapindus mukorossi,Sapindus,KNApSAcK
+11,C00034064,87733-78-6,Mukurozisaponin E1,C48H76O17,924.508251,Sapindus mukorossi,Sapindus,KNApSAcK
+12,C00034065,87733-79-7,Mukurozisaponin G,C50H78O18,966.51881569,Sapindus mukorossi,Sapindus,KNApSAcK
+13,C00034210,30994-75-3,Kalopanaxsaponin I,C46H74O16,882.49768632,Sapindus mukorossi,Sapindus,KNApSAcK
+14,C00034211,1033414-93-5,Sapinmusaponin K,C48H76O17,924.508251,Sapindus mukorossi,Sapindus,KNApSAcK
+15,C00034212,1033414-95-7,Sapinmusaponin L,C48H76O17,924.508251,Sapindus mukorossi,Sapindus,KNApSAcK
+16,C00034213,1033414-97-9,Sapinmusaponin M,C50H78O18,966.51881569,Sapindus mukorossi,Sapindus,KNApSAcK
+17,C00034214,1033414-99-1,Sapinmusaponin N,C50H78O18,966.51881569,Sapindus mukorossi,Sapindus,KNApSAcK
+18,C00034215,120727-85-7,Sapinmusaponin O,C42H72O12,768.50237776,Sapindus mukorossi,Sapindus,KNApSAcK
+19,C00034216,1033415-01-8,Sapinmusaponin P,C42H72O12,768.50237776,Sapindus mukorossi,Sapindus,KNApSAcK
+20,C00036918,80666-65-5,Clemontanoside C,C46H74O16,882.49768632,Sapindus mukorossi,Sapindus,KNApSAcK
+21,C00041832,886986-15-8,Sapinmusaponin F,C43H70O12,778.4867277,Sapindus mukorossi,Sapindus,KNApSAcK
+22,C00041833,886986-16-9,Sapinmusaponin G,C43H70O12,778.4867277,Sapindus mukorossi,Sapindus,KNApSAcK
+23,C00041834,886986-17-0,Sapinmusaponin H,C43H70O12,778.4867277,Sapindus mukorossi,Sapindus,KNApSAcK
+24,C00041835,886986-18-1,Sapinmusaponin I,C49H80O16,924.54463651,Sapindus mukorossi,Sapindus,KNApSAcK
+25,C00041836,886986-19-2,Sapinmusaponin J,C49H80O16,924.54463651,Sapindus mukorossi,Sapindus,KNApSAcK
+26,C00048481,103001-37-2,Mukurozioside Ia,C45H78O24,1002.48830342,Sapindus mukorossi,Sapindus,KNApSAcK
+27,C00048481,103001-37-2,Mukurozioside Ia,C45H78O24,1002.48830342,Sapindus rarak,Sapindus,KNApSAcK
+28,C00048482,103001-36-1,Mukurozioside Ib,C45H76O24,1000.47265336,Sapindus rarak,Sapindus,KNApSAcK
+29,C00048482,103001-36-1,Mukurozioside Ib,C45H76O24,1000.47265336,Sapindus mukorossi,Sapindus,KNApSAcK
+30,C00048483,103001-35-0,Mukurozioside IIa,C51H88O28,1148.54621223,Sapindus mukorossi,Sapindus,KNApSAcK
+31,C00048483,103001-35-0,Mukurozioside IIa,C51H88O28,1148.54621223,Sapindus rarak,Sapindus,KNApSAcK
+32,C00048484,103001-34-9,Mukurozioside IIb,C51H86O28,1146.53056217,Sapindus mukorossi,Sapindus,KNApSAcK
+33,C00048484,103001-34-9,Mukurozioside IIb,C51H86O28,1146.53056217,Sapindus rarak,Sapindus,KNApSAcK
+34,C00048524,1190750-06-1,Rarasaponin I,C48H76O17,924.508251,Sapindus rarak,Sapindus,KNApSAcK
+35,C00051654,87733-77-5,Mukurozisaponin X,C53H86O22,1074.56107443,Sapindus mukorossi,Sapindus,KNApSAcK
+36,C00051655,87733-76-4,Mukurozisaponin Y1,C58H94O26,1206.60333318,Sapindus mukorossi,Sapindus,KNApSAcK
+37,C00051656,87781-65-5,Mukurozisaponin Y2,C58H94O26,1206.60333318,Sapindus mukorossi,Sapindus,KNApSAcK
+38,C00058951,102907-11-9,Pyishiauoside Ib,C33H56O15,692.36192112,Sapindus mukorossi,Sapindus,KNApSAcK
+39,C00059010,104494-26-0,Hishoushi saponin A,C46H74O15,866.5027717,Sapindus mukorossi,Sapindus,KNApSAcK
+40,C00059011,104494-27-1,Hishoushi saponin Ee,C48H76O17,924.508251,Sapindus mukorossi,Sapindus,KNApSAcK
+41,C00059012,104530-99-6,"(3beta,4alpha)-3-[(O-3,4-Di-O-acetyl-beta-D-xylopyranosyl-(1->3)-O-6-deoxy-alpha-L-mannopyranosyl-(1->2)-alpha-L-arabinopyranosyl)oxy]-23-hydroxyolean-12-en-28-oic acid",C50H78O18,966.51881569,Sapindus mukorossi,Sapindus,KNApSAcK
+42,C00059294,1157918-38-1,Rarasaponin IV,C52H80O19,1008.52938038,Sapindus mukorossi,Sapindus,KNApSAcK
+43,C00059372,1190750-07-2,Raraoside A,C42H68O11,748.47616301,Sapindus mukorossi,Sapindus,KNApSAcK
+44,C00059665,1333170-09-4,6'-O-Acetyl mukurozioside IIa,C53H90O29,1190.55677692,Sapindus mukorossi,Sapindus,KNApSAcK
+45,C00059666,1333170-10-7,4''-O-Acetyl mukurozioside IIa,C53H90O29,1190.55677692,Sapindus mukorossi,Sapindus,KNApSAcK
+46,C00059667,1333170-11-8,6''''-O-Acetyl mukurozioside IIa,C53H90O29,1190.55677692,Sapindus mukorossi,Sapindus,KNApSAcK
+47,C00059668,1333170-12-9,4''''-O-Acetyl mukurozioside IIa,C53H90O29,1190.55677692,Sapindus mukorossi,Sapindus,KNApSAcK
+48,C00059792,138329-72-3,Pyishiauoside IIb,C32H54O15,678.34627106,Sapindus mukorossi,Sapindus,KNApSAcK
+49,C00059793,138329-73-4,Pyishiauoside IIIa,C50H86O28,1134.53056217,Sapindus mukorossi,Sapindus,KNApSAcK
+50,C00059795,138382-87-3,Pyishiauoside IVb,C49H82O28,1118.49926204,Sapindus mukorossi,Sapindus,KNApSAcK
+51,C00060314,170032-86-7,"(3beta,4alpha)-3-[(O-6-Deoxy-alpha-L-mannopyranosyl-(1->2)-O-[beta-D-xylopyranosyl-(1->3)]-alpha-L-arabinopyranosyl)oxy]-23-hydroxyolean-12-en-28-oic acid",C46H74O16,882.49768632,Sapindus mukorossi,Sapindus,KNApSAcK
+52,C00060465,1801912-64-0,"4'',4'''''-O-Diacetylmukurozioside IIa",C55H92O30,1232.5673416,Sapindus mukorossi,Sapindus,KNApSAcK
+53,C00060834,2207553-89-5,"(3beta,4alpha)-3-[(O-alpha-L-Arabinopyranosyl-(1->3)-O-6-deoxy-alpha-L-mannopyranosyl-(1->2)-alpha-L-arabinopyranosyl)oxy]-23-oxo-olean-12-en-28-oic acid",C46H72O16,880.48203625,Sapindus mukorossi,Sapindus,KNApSAcK
+54,C00060974,2361040-98-2,Mukuroziosides Ie,C39H68O20,856.43039462,Sapindus mukorossi,Sapindus,KNApSAcK
+55,C00060975,2361040-99-3,Mukuroziosides IIc,C53H88O29,1188.54112685,Sapindus mukorossi,Sapindus,KNApSAcK
+56,C00060976,2361041-00-9,"(3beta,4alpha)-3-[(O-6-Deoxy-alpha-L-mannopyranosyl-(1->3)-O-6-deoxy-alpha-L-mannopyranosyl-(1->2)-alpha-L-arabinopyranosyl)oxy]-23-hydroxy-olean-12-en-28-oic acid",C47H76O16,896.51333638,Sapindus mukorossi,Sapindus,KNApSAcK
+57,C00060977,2361041-01-0,"(3beta,4alpha)-3-[(O-4-O-Acetyl-alpha-L-idopyranosyl-(1->3)-O-6-deoxy-alpha-L-mannopyranosyl-(1->2)-alpha-L-arabinopyranosyl)oxy]-23-hydroxy-olean-12-en-28-oic acid",C49H78O18,954.51881569,Sapindus mukorossi,Sapindus,KNApSAcK
+58,C00060978,2361041-02-1,(3beta)-3-[(O-beta-D-Glucopyranosyl-(1->2)-O-6-deoxy-alpha-L-mannopyranosyl-(1->3)-O-6-deoxy-alpha-L-mannopyranosyl-(1->2)-beta-D-glucopyranosyl)oxy]-olean-12-en-28-oic acid,C54H88O21,1072.58180988,Sapindus mukorossi,Sapindus,KNApSAcK
+59,C00060979,2361041-03-2,(3beta)-3-[(O-beta-D-Xylopyranosyl-(1->2)-O-6-deoxy-alpha-L-mannopyranosyl-(1->3)-O-6-deoxy-alpha-L-mannopyranosyl-(1->2)-beta-D-glucopyranosyl)oxy]-olean-12-en-28-oic acid,C53H86O20,1042.57124519,Sapindus mukorossi,Sapindus,KNApSAcK
+60,C00060980,2361041-04-3,(3beta)-3-[(O-4-O-Acetyl-alpha-L-arabinopyranosyl-(1->3)-O-6-deoxy-alpha-L-mannopyranosyl-(1->2)-alpha-L-arabinopyranosyl)oxy]-olean-12-en-28-oic acid,C48H76O16,908.51333638,Sapindus mukorossi,Sapindus,KNApSAcK
+61,C00060981,2361041-05-4,"(3beta,4alpha)-3-[(O-6-Deoxy-alpha-L-mannopyranosyl-(1->3)-O-6-deoxy-alpha-L-mannopyranosyl-(1->2)-alpha-L-arabinopyranosyl)oxy]-23-oxo-olean-12-en-28-oic acid",C47H74O16,894.49768632,Sapindus mukorossi,Sapindus,KNApSAcK
+62,C00060982,2361289-90-7,Pyishiauoside IVc,C45H76O25,1016.46756798,Sapindus mukorossi,Sapindus,KNApSAcK
+63,C00060983,2361289-91-8,Pyishiauoside IVe,C44H74O24,986.4570033,Sapindus mukorossi,Sapindus,KNApSAcK
+64,C00060984,2361289-92-9,Mukuroziosides Ic,C45H78O25,1018.48321805,Sapindus mukorossi,Sapindus,KNApSAcK
+65,C00060985,2361289-93-0,Mukuroziosides Id,C44H76O24,988.47265336,Sapindus mukorossi,Sapindus,KNApSAcK
+66,C00060986,2361289-94-1,Mukuroziosides IId,C47H80O25,1044.49886811,Sapindus mukorossi,Sapindus,KNApSAcK
+67,C00060987,2361512-01-6,Pyishiauoside IVf,C49H82O28,1118.49926204,Sapindus mukorossi,Sapindus,KNApSAcK
+68,C00061327,29781-27-9,Sapindoside C,C52H84O21,1044.55050975,Sapindus mukorossi,Sapindus,KNApSAcK
+69,C00061637,372104-50-2,"(3beta,4alpha)-3-[(O-2-O-Acetyl-beta-D-xylopyranosyl-(1->3)-O-6-deoxy-alpha-L-mannopyranosyl-(1->2)-alpha-L-arabinopyranosyl)oxy]-23-hydroxyolean-12-en-28-oic acid",C48H76O17,924.508251,Sapindus mukorossi,Sapindus,KNApSAcK
+70,C00061675,38631-44-6,Akebia saponin B,C40H64O12,736.43977751,Sapindus mukorossi,Sapindus,KNApSAcK
+71,C00061822,452963-18-7,Mukurozioside A,C55H92O30,1232.5673416,Sapindus mukorossi,Sapindus,KNApSAcK
+72,C00062991,780038-68-8,"(3beta,13alpha,14beta,17alpha,20S,21S,23R)-3-[(O-alpha-L-Arabinopyranosyl-(1->3)-O-[6-deoxy-alpha-L-mannopyranosyl-(1->2)]-beta-D-glucopyranosyl)oxy]-21,23-epoxy-21-ethoxy-lanosta-7,24-dien-11-one",C49H78O17,938.52390107,Sapindus mukorossi,Sapindus,KNApSAcK
+73,C00062992,780038-70-2,"(3beta,13alpha,14beta,17alpha,20S,21S,23R)-3-[(O-alpha-L-Arabinopyranosyl-(1->3)-O-[6-deoxy-alpha-L-mannopyranosyl-(1->2)]-beta-D-glucopyranosyl)oxy]-21,23-epoxy-21-methoxy-lanosta-7,24-dien-11-one",C48H76O17,924.508251,Sapindus mukorossi,Sapindus,KNApSAcK
+74,C00063125,84607-60-3,"(3beta,4alpha)-3-[(O-alpha-L-Arabinofuranosyl-(1->3)-6-deoxy-alpha-L-mannopyranosyl-(1->2)-alpha-L-arabinopyranosyl)oxy]-23-hydroxyolean-12-en-28-oic acid",C46H74O16,882.49768632,Sapindus mukorossi,Sapindus,KNApSAcK
+75,C00063172,857859-19-9,Sapinmusaponin A,C42H72O13,784.49729239,Sapindus mukorossi,Sapindus,KNApSAcK
+76,C00063173,857859-20-2,Sapinmusaponin B,C42H72O14,800.49220701,Sapindus mukorossi,Sapindus,KNApSAcK
+77,C00063174,857859-21-3,Sapinmusaponin C,C42H72O14,800.49220701,Sapindus mukorossi,Sapindus,KNApSAcK
+78,C00063175,857859-22-4,Sapinmusaponin D,C43H74O14,814.50785707,Sapindus mukorossi,Sapindus,KNApSAcK
+79,C00063176,857859-23-5,Sapinmusaponin E,C43H74O13,798.51294245,Sapindus mukorossi,Sapindus,KNApSAcK
+80,C00063507,957471-79-3,Sapinmusaponin Q,C43H70O13,794.48164232,Sapindus mukorossi,Sapindus,KNApSAcK
+81,C00063508,957471-80-6,Sapinmusaponin R,C49H80O17,940.53955113,Sapindus mukorossi,Sapindus,KNApSAcK
+0,C00000602,27003-73-2,(+)-Lariciresinol,C20H24O6,360.1572885,Premna resinosa,Premna,KNApSAcK
+1,C00000682,2955-23-9,Olivil,C20H24O7,376.15220312,Premna corymbosa var. obtusifolia,Premna,KNApSAcK
+2,C00001777,53472-14-3,Trichotomine,C30H20N4O6,532.1382844,Premna microphylla,Premna,KNApSAcK
+3,C00004826,139889-56-8,"3,5,7,3'-Tetrahydroxy-6,4',5'-trimethoxyflavone",C18H16O9,376.07943211,Premna oligotricha,Premna,KNApSAcK
+4,C00004831,139889-55-7,"3,5,3'-Trihydroxy-6,7,4',5'-tetramethoxyflavone",C19H18O9,390.09508217,Premna oligotricha,Premna,KNApSAcK
+5,C00006380,59914-91-9,Vicenin 3,C26H28O14,564.14790561,Premna spp.,Premna,KNApSAcK
+6,C00007191,81426-17-7,(+)-8-Hydroxypinoresinol,C20H22O7,374.13655306,Premna resinosa,Premna,KNApSAcK
+7,C00010662,125874-28-4,Premnoside B,C39H44O19,816.24767923,Premna odorata,Premna,KNApSAcK
+8,C00010663,125874-30-8,Premnoside D,C40H46O19,830.26332929,Premna odorata,Premna,KNApSAcK
+9,C00010664,125697-68-9,Premnoside A,C39H44O20,832.24259385,Premna odorata,Premna,KNApSAcK
+10,C00010665,125874-29-5,Premnoside C,C40H46O20,846.25824391,Premna odorata,Premna,KNApSAcK
+11,C00020019,115028-58-5,Pygmaeoherin,C17H18O4,286.12050906,Pygmaeopremna herbacea,Premna,KNApSAcK
+12,C00040064,147793-93-9,Premnaodoroside A,C42H66O20,890.41474455,Premna subscandens,Premna,KNApSAcK
+13,C00040065,260803-62-1,Premnaodoroside D,C42H66O20,890.41474455,Premna subscandens,Premna,KNApSAcK
+14,C00040066,260803-63-2,Premnaodoroside E,C42H62O20,886.38344442,Premna subscandens,Premna,KNApSAcK
+0,C00004569,3301-49-3,"Kaempferol 3,7-dimethyl ether",C17H14O6,314.07903818,Chamaesaracha sordida,Maesa,KNApSAcK
+1,C00013852,,Quercetin 3-rhamnosyl-(1->4)-rhamnoside-7-galactoside,C33H40O20,756.21129372,Maesa lanceolata,Maesa,KNApSAcK
+2,C00013963,481070-37-5,Myricetin 3-xylosyl-(1->3)-rhamnoside,C26H28O16,596.13773485,Maesa lanceolata,Maesa,KNApSAcK
+3,C00013977,481070-27-3,"Myricetin 3-(2'',3'',4''-triacetylxyloside)",C26H24O15,576.1115201,Maesa lanceolata,Maesa,KNApSAcK
+4,C00013978,,"Myricetin 3-(3'''-6'''-diacetylglucosyl)-(1->4)-(2'',3''-diacetylrhamnoside)",C35H38O21,794.19055828,Maesa lanceolata,Maesa,KNApSAcK
+5,C00033149,354542-95-3,Maetenoside A,C65H104O30,1364.66124199,Maesa tenra,Maesa,KNApSAcK
+6,C00033149,354542-95-3,Maetenoside A,C65H104O30,1364.66124199,Maesa tenera,Maesa,KNApSAcK
+7,C00033150,354527-10-9,Maetenoside B,C59H94O25,1202.60841856,Maesa tenera,Maesa,KNApSAcK
+8,C00033150,354527-10-9,Maetenoside B,C59H94O25,1202.60841856,Maesa tenra,Maesa,KNApSAcK
+9,C00039700,259868-36-5,Maesasaponin I,C59H94O27,1234.5982478,Maesa lanceolata,Maesa,KNApSAcK
+10,C00039701,259868-37-6,Maesasaponin II,C61H96O28,1276.60881249,Maesa lanceolata,Maesa,KNApSAcK
+11,C00039702,259868-38-7,Maesasaponin III,C61H96O28,1276.60881249,Maesa lanceolata,Maesa,KNApSAcK
+12,C00039703,259868-68-3,Maesasaponin IV2,C63H98O29,1318.61937717,Maesa lanceolata,Maesa,KNApSAcK
+13,C00039704,259868-87-6,Maesasaponin IV3,C62H98O28,1290.62446255,Maesa lanceolata,Maesa,KNApSAcK
+14,C00039705,259868-88-7,Maesasaponin V2,C64H100O29,1332.63502724,Maesa lanceolata,Maesa,KNApSAcK
+15,C00039706,259868-89-8,Maesasaponin V3,C63H100O28,1304.64011261,Maesa lanceolata,Maesa,KNApSAcK
+16,C00039707,259869-05-1,Maesasaponin VI2,C64H100O28,1316.64011261,Maesa perlarius,Maesa,KNApSAcK
+17,C00039707,259869-05-1,Maesasaponin VI2,C64H100O28,1316.64011261,Maesa lanceolata,Maesa,KNApSAcK
+18,C00039708,259869-30-2,Maesasaponin VI3,C65H102O29,1346.6506773,Maesa lanceolata,Maesa,KNApSAcK
+19,C00039709,259869-31-3,Maesasaponin VII1,C66H102O29,1358.6506773,Maesa lanceolata,Maesa,KNApSAcK
+20,C00049213,221467-02-3,Maejaposide A,C65H104O30,1364.66124199,Maesa japonica,Maesa,KNApSAcK
+21,C00049214,221467-31-8,Maejaposide C,C69H108O32,1448.68237136,Maesa japonica,Maesa,KNApSAcK
+22,C00049215,221467-40-9,Maejaposide D,C69H110O32,1450.69802142,Maesa japonica,Maesa,KNApSAcK
+23,C00049216,221467-44-3,Maejaposide E,C70H110O32,1462.69802142,Maesa japonica,Maesa,KNApSAcK
+24,C00049217,82380-21-0,Maesanin,C22H34O4,362.24570957,Maesa lanceolata,Maesa,KNApSAcK
+25,C00049654,230309-49-6,Maelaxin A,C65H104O29,1348.66632736,Maesa laxiflora,Maesa,KNApSAcK
+26,C00049655,230309-50-9,Maelaxin B,C65H104O29,1348.66632736,Maesa laxiflora,Maesa,KNApSAcK
+27,C00049656,230309-58-7,Maelaxin C,C67H106O30,1390.67689205,Maesa laxiflora,Maesa,KNApSAcK
+28,C00049657,230309-59-8,Maelaxin D,C67H106O30,1390.67689205,Maesa laxiflora,Maesa,KNApSAcK
+29,C00049658,230309-60-1,Maelaxin E,C66H106O29,1362.68197743,Maesa laxiflora,Maesa,KNApSAcK
+30,C00049659,230309-61-2,Maelaxin F,C66H106O29,1362.68197743,Maesa laxiflora,Maesa,KNApSAcK
+31,C00051423,19833-20-6,Maesaquinone,C26H42O4,418.30830983,Maesa japonica,Maesa,KNApSAcK
+32,C00051423,19833-20-6,Maesaquinone,C26H42O4,418.30830983,Maesa indica,Maesa,KNApSAcK
+0,C00000956,490-46-0,(-)-Epicatechin,C15H14O6,290.07903818,Celastrus orbiculatus,Celastrus,KNApSAcK
+1,C00001968,52658-32-9,Celapanine,C30H35NO10,569.22609635,Celastrus paniculata,Celastrus,KNApSAcK
+2,C00001968,52658-32-9,Celapanine,C30H35NO10,569.22609635,Celastrus paniculatus,Celastrus,KNApSAcK
+3,C00005150,20196-89-8,Kaempferol 7-O-rhamnoside,C21H20O10,432.10564686,Celastrus orbiculatus,Celastrus,KNApSAcK
+4,C00005184,2392-95-2,Kaempferol 3-glucoside-7-rhamnoside,C27H30O15,594.15847029,Celastrus orbiculatus,Celastrus,KNApSAcK
+5,C00005189,482-38-2,Kaempferitrin,C27H30O14,578.16355567,Celastrus hypoleucus,Celastrus,KNApSAcK
+6,C00005428,18016-58-5,Quercetin 3-O-beta-D-glucopyranosyl-7-O-alpha-L-rhamnopyranoside,C27H30O16,610.15338491,Celastrus orbiculatus,Celastrus,KNApSAcK
+7,C00005431,17306-45-5,Quercetin-3-O-rhamnoside-7-O-glucoside,C27H30O16,610.15338491,Celastrus hypoglaucus,Celastrus,KNApSAcK
+8,C00005432,28638-13-3,"Quercetin 3,7-di-O-alpha-L-rhamnopyranoside",C27H30O15,594.15847029,Celastrus orbiculatus,Celastrus,KNApSAcK
+9,C00013131,116159-73-0,Celangulin,C32H40O14,648.24180599,Celastrus angulatus,Celastrus,KNApSAcK
+10,C00013132,11950-73-3,8alpha-Benzoyloxyacetylpringleine,C42H44O14,772.27310612,Celastrus pringlei,Celastrus,KNApSAcK
+11,C00013136,111950-80-2,Pringlein,C33H38O11,610.24141206,Celastrus pringlei,Celastrus,KNApSAcK
+12,C00013137,111950-72-2,Acetylpringleine,C35H40O12,652.25197674,Celastrus pringlei,Celastrus,KNApSAcK
+13,C00013144,122475-47-2,Celahin D,C37H42O13,694.26254143,Celastrus hindsii BENTH,Celastrus,KNApSAcK
+14,C00013182,52691-07-3,Celapanigine,C32H37NO9,579.24683179,Celastrus paniculatus,Celastrus,KNApSAcK
+15,C00013183,58074-71-8,Deacetylcelapanigine,C30H35NO8,537.2362671,Celastrus paniculatus,Celastrus,KNApSAcK
+16,C00013186,52691-06-2,(-)-Malkangunin,C24H32O7,432.21480338,Celastrus paniculatus,Celastrus,KNApSAcK
+17,C00013187,59812-47-4,(-)-Isocelorbicol,C15H26O4,270.18310932,Celastrus orbiculatus,Celastrus,KNApSAcK
+18,C00013188,59812-48-5,"[3R-[3alpha,5beta,5aalpha,6alpha(E),7alpha,9alpha,9aalpha]]-5,7-bis(Acetyloxy)octahydro-2,2,5a,9-tetramethyl-2H-3,9a-methano-1-benzoxepin-6-yl ester 3-phenyl-2-propenoic acid",C28H36O7,484.2461035,Celastrus orbiculatus,Celastrus,KNApSAcK
+19,C00013190,59812-41-8,Celorbicol,C15H26O4,270.18310932,Celastrus orbiculatus,Celastrus,KNApSAcK
+20,C00013252,323586-47-6,Epicatechin 5-O-beta-D-glucopyranoside-3-benzoate,C28H28O12,556.15807636,Celastrus orbiculatus,Celastrus,KNApSAcK
+21,C00013255,,Catechin 5-O-beta-D-glucopyranoside-4'-Me,C22H26O11,466.14751167,Celastrus angulatus,Celastrus,KNApSAcK
+22,C00019220,1617-70-5,Lupenone,C30H48O,424.37051615,Celastrus hindsii BENTH,Celastrus,KNApSAcK
+23,C00028014,172889-43-9,Celahinine A,C53H53NO18,991.3262639,Celastrus hindsii,Celastrus,KNApSAcK
+24,C00028045,259822-69-0,Chinese bittersweet alkaloid I,C10H14N2O3,210.10044233,Celastrus angulatus,Celastrus,KNApSAcK
+25,C00028046,259822-70-3,Chinese bittersweet alkaloid II,C18H30N2O3,322.22564284,Celastrus angulatus,Celastrus,KNApSAcK
+26,C00028242,156280-98-7,Emarginatine E,C39H46N2O17,814.27964806,Celastrus hindsii BENTH,Celastrus,KNApSAcK
+27,C00029919,34157-83-0,Celastrol,C29H38O4,450.2770097,Celastrus regelii,Celastrus,KNApSAcK
+28,C00029919,34157-83-0,Celastrol,C29H38O4,450.2770097,Celastrus orbiculatus,Celastrus,KNApSAcK
+29,C00029919,34157-83-0,Celastrol,C29H38O4,450.2770097,Celastrus scandens,Celastrus,KNApSAcK
+30,C00029919,34157-83-0,Celastrol,C29H38O4,450.2770097,celastrus strigillosus,Celastrus,KNApSAcK
+31,C00031793,5085-72-3,Friedelanol,C30H52O,428.40181628,Celastrus hindsii BENTH,Celastrus,KNApSAcK
+32,C00033122,52591-08-9,Loranthol,C30H50O2,442.38108084,Celastrus hindsii BENTH,Celastrus,KNApSAcK
+33,C00035955,81460-02-5,6alpha-Acetoxy-9beta-benzoyloxy-1beta-cinnamoyloxy-8beta-(2-methylbutanoyloxy)-beta-dihydroagarofuran,C38H46O9,646.31418307,Celastrus orbiculatus,Celastrus,KNApSAcK
+34,C00038717,244204-40-8,Celaphanol A,C17H20O4,288.13615913,Celastrus stehanotifolius,Celastrus,KNApSAcK
+35,C00038717,244204-40-8,Celaphanol A,C17H20O4,288.13615913,Celastrus orbiculatus,Celastrus,KNApSAcK
+36,C00038718,244204-42-0,Celaphanol B,C18H22O5,318.14672381,Celastrus stehanotifolius,Celastrus,KNApSAcK
+37,C00039663,244203-72-3,Lup-20(29)en-28-al-3beta-yl caffeate,C39H54O5,602.39712483,Celastrus stehanotifolius,Celastrus,KNApSAcK
+38,C00039852,113332-25-5,Nimbidiol,C17H22O3,274.15689457,Celastrus stehanotifolius,Celastrus,KNApSAcK
+39,C00046246,227450-73-9,Orbiculin A,C33H38O9,578.25158281,Celastrus orbiculatus,Celastrus,KNApSAcK
+40,C00046247,227450-68-2,Orbiculin D,C27H32O9,500.20463262,Celastrus orbiculatus,Celastrus,KNApSAcK
+41,C00046248,227450-69-3,Orbiculin E,C31H36O10,568.23084737,Celastrus orbiculatus,Celastrus,KNApSAcK
+42,C00046249,227450-70-6,Orbiculin F,C34H36O11,620.22576199,Celastrus orbiculatus,Celastrus,KNApSAcK
+43,C00048243,1173048-20-8,"(3'Z,5'Z)-Celaxanthin",C40H54O,550.41746634,Celastrus orbiculatus,Celastrus,KNApSAcK
+44,C00048244,1172110-65-4,"(3'Z,5'Z)-Torulene",C40H54,534.42255172,Celastrus orbiculatus,Celastrus,KNApSAcK
+45,C00051168,135063-89-7,Kupitengester 1,C34H39NO11,637.2523111,Celastrus angulatus,Celastrus,KNApSAcK
+46,C00051169,149183-64-2,Kupitengester 2,C32H37NO9,579.24683179,Celastrus angulatus,Celastrus,KNApSAcK
+47,C00051170,149252-08-4,Kupitengester 3,C30H38O11,574.24141206,Celastrus angulatus,Celastrus,KNApSAcK
+48,C00051171,132185-62-7,Kupitengester 4,C28H36O9,516.23593275,Celastrus angulatus,Celastrus,KNApSAcK
+49,C00051444,42719-36-8,Malkanguniol,C15H26O6,302.17293856,Celastrus paniculatus,Celastrus,KNApSAcK
+50,C00051517,189171-14-0,Maytenfolone A,C30H46O4,470.33960996,Celastrus orbiculatus,Celastrus,KNApSAcK
+0,C00000010,118-34-3,Syringin,C17H24O9,372.14203237,Fraxinus stylosa,Fraxinus,KNApSAcK
+1,C00000010,118-34-3,Syringin,C17H24O9,372.14203237,Fraxinus griffithii,Fraxinus,KNApSAcK
+2,C00000682,2955-23-9,Olivil,C20H24O7,376.15220312,Fraxinus japonica,Fraxinus,KNApSAcK
+3,C00000682,2955-23-9,Olivil,C20H24O7,376.15220312,Fraxinus mandshurica var. japonica,Fraxinus,KNApSAcK
+4,C00001144,470-57-5,Planteose,C18H32O16,504.16903498,Fraxinus spp.,Fraxinus,KNApSAcK
+5,C00001150,470-55-3,Stachyose,C24H42O21,666.22185841,Fraxinus ornus,Fraxinus,KNApSAcK
+6,C00001165,69-65-8,D-Mannitol,C6H14O6,182.07903818,Fraxinus ornus,Fraxinus,KNApSAcK
+7,C00002458,531-58-8,Cichoriin,C15H16O9,340.07943211,Fraxinus spp.,Fraxinus,KNApSAcK
+8,C00002471,305-01-1,Aesculetin,C9H6O4,178.02660868,Fraxinus bungeana,Fraxinus,KNApSAcK
+9,C00002471,305-01-1,Aesculetin,C9H6O4,178.02660868,Fraxinus ornus,Fraxinus,KNApSAcK
+10,C00002471,305-01-1,Aesculetin,C9H6O4,178.02660868,Fraxinus szaboana,Fraxinus,KNApSAcK
+11,C00002471,305-01-1,Aesculetin,C9H6O4,178.02660868,Fraxinus stylosa,Fraxinus,KNApSAcK
+12,C00002471,305-01-1,Aesculetin,C9H6O4,178.02660868,Fraxinus rhynchophylla,Fraxinus,KNApSAcK
+13,C00002471,305-01-1,Aesculetin,C9H6O4,178.02660868,Fraxinus paxiana,Fraxinus,KNApSAcK
+14,C00002471,305-01-1,Aesculetin,C9H6O4,178.02660868,Fraxinus spp.,Fraxinus,KNApSAcK
+15,C00002471,305-01-1,Aesculetin,C9H6O4,178.02660868,Fraxinus mandshurica,Fraxinus,KNApSAcK
+16,C00002471,305-01-1,Aesculetin,C9H6O4,178.02660868,Fraxinus chinensis,Fraxinus,KNApSAcK
+17,C00002472,531-75-9,Aesculin,C15H16O9,340.07943211,Fraxinus stylosa,Fraxinus,KNApSAcK
+18,C00002472,531-75-9,Aesculin,C15H16O9,340.07943211,Fraxinus szaboana,Fraxinus,KNApSAcK
+19,C00002472,531-75-9,Aesculin,C15H16O9,340.07943211,Fraxinus spp.,Fraxinus,KNApSAcK
+20,C00002472,531-75-9,Aesculin,C15H16O9,340.07943211,Fraxinus rhynchophylla,Fraxinus,KNApSAcK
+21,C00002472,531-75-9,Aesculin,C15H16O9,340.07943211,Fraxinus paxiana,Fraxinus,KNApSAcK
+22,C00002472,531-75-9,Aesculin,C15H16O9,340.07943211,Fraxinus ornus,Fraxinus,KNApSAcK
+23,C00002472,531-75-9,Aesculin,C15H16O9,340.07943211,Fraxinus mandshurica,Fraxinus,KNApSAcK
+24,C00002472,531-75-9,Aesculin,C15H16O9,340.07943211,Fraxinus bungeana,Fraxinus,KNApSAcK
+25,C00002473,574-84-5,Fraxetin,C10H8O5,208.03717337,Fraxinus chinensis,Fraxinus,KNApSAcK
+26,C00002473,574-84-5,Fraxetin,C10H8O5,208.03717337,Fraxinus bungeana,Fraxinus,KNApSAcK
+27,C00002473,574-84-5,Fraxetin,C10H8O5,208.03717337,Fraxinus spp.,Fraxinus,KNApSAcK
+28,C00002473,574-84-5,Fraxetin,C10H8O5,208.03717337,Fraxinus ornus,Fraxinus,KNApSAcK
+29,C00002473,574-84-5,Fraxetin,C10H8O5,208.03717337,Fraxinus japonica Seringe Blume,Fraxinus,KNApSAcK
+30,C00002473,574-84-5,Fraxetin,C10H8O5,208.03717337,Fraxinus floribunda,Fraxinus,KNApSAcK
+31,C00002474,524-30-1,Fraxin,C16H18O10,370.0899968,Fraxinus spp.,Fraxinus,KNApSAcK
+32,C00002474,524-30-1,Fraxin,C16H18O10,370.0899968,Fraxinus bungeana,Fraxinus,KNApSAcK
+33,C00002474,524-30-1,Fraxin,C16H18O10,370.0899968,Fraxinus paxiana,Fraxinus,KNApSAcK
+34,C00002474,524-30-1,Fraxin,C16H18O10,370.0899968,Fraxinus ornus,Fraxinus,KNApSAcK
+35,C00002474,524-30-1,Fraxin,C16H18O10,370.0899968,Fraxinus japonica Seringe Blume,Fraxinus,KNApSAcK
+36,C00002474,524-30-1,Fraxin,C16H18O10,370.0899968,Fraxinus excelsior,Fraxinus,KNApSAcK
+37,C00002474,524-30-1,Fraxin,C16H18O10,370.0899968,Fraxinus szaboana,Fraxinus,KNApSAcK
+38,C00002474,524-30-1,Fraxin,C16H18O10,370.0899968,Fraxinus stylosa,Fraxinus,KNApSAcK
+39,C00002474,524-30-1,Fraxin,C16H18O10,370.0899968,Fraxinus potamophila,Fraxinus,KNApSAcK
+40,C00002499,92-61-5,Scopoletin,C10H8O4,192.04225874,Fraxinus szaboana,Fraxinus,KNApSAcK
+41,C00002631,21453-69-0,(+)-Lirioresinol B,C22H26O8,418.16276781,Fraxinus mandshurica var. japonica,Fraxinus,KNApSAcK
+42,C00002727,531-29-3,Coniferin,C16H22O8,342.13146768,Fraxinus quadrangulata,Fraxinus,KNApSAcK
+43,C00002783,61276-17-3,Acteoside,C29H36O15,624.20542048,Fraxinus uhdei (Wenzig) Lingelsh.,Fraxinus,KNApSAcK
+44,C00002783,61276-17-3,Acteoside,C29H36O15,624.20542048,Fraxinus americana,Fraxinus,KNApSAcK
+45,C00002783,61276-17-3,Acteoside,C29H36O15,624.20542048,Fraxinus excelsior L.,Fraxinus,KNApSAcK
+46,C00002783,61276-17-3,Acteoside,C29H36O15,624.20542048,Fraxinus griffithii C.B.Clarke,Fraxinus,KNApSAcK
+47,C00002783,61276-17-3,Acteoside,C29H36O15,624.20542048,Fraxinus malacophylla Hemsl.,Fraxinus,KNApSAcK
+48,C00002783,61276-17-3,Acteoside,C29H36O15,624.20542048,Fraxinus ornus L.,Fraxinus,KNApSAcK
+49,C00002783,61276-17-3,Acteoside,C29H36O15,624.20542048,Fraxinus oxycarba,Fraxinus,KNApSAcK
+50,C00002783,61276-17-3,Acteoside,C29H36O15,624.20542048,Fraxinus oxycarpa Willd.,Fraxinus,KNApSAcK
+51,C00002783,61276-17-3,Acteoside,C29H36O15,624.20542048,Fraxinus americana L.,Fraxinus,KNApSAcK
+52,C00003093,32619-42-4,Oleuropein,C25H32O13,540.18429111,Fraxinus ornus,Fraxinus,KNApSAcK
+53,C00003093,32619-42-4,Oleuropein,C25H32O13,540.18429111,Fraxinus japonica,Fraxinus,KNApSAcK
+54,C00003093,32619-42-4,Oleuropein,C25H32O13,540.18429111,Fraxinus excelsior L.,Fraxinus,KNApSAcK
+55,C00003093,32619-42-4,Oleuropein,C25H32O13,540.18429111,Fraxinus chinensis,Fraxinus,KNApSAcK
+56,C00003093,32619-42-4,Oleuropein,C25H32O13,540.18429111,Fraxinus americana,Fraxinus,KNApSAcK
+57,C00003093,32619-42-4,Oleuropein,C25H32O13,540.18429111,Fraxinus oxycarba,Fraxinus,KNApSAcK
+58,C00005138,480-10-4,Astragalin,C21H20O11,448.10056148,Fraxinus oxycarba,Fraxinus,KNApSAcK
+59,C00005169,17650-84-9,Kaempferol 3-rutinoside,C27H30O15,594.15847029,Fraxinus oxycarba,Fraxinus,KNApSAcK
+60,C00005413,153-18-4,Quercetin 3-rutinoside,C27H30O16,610.15338491,Fraxinus oxycarba,Fraxinus,KNApSAcK
+61,C00007190,487-36-5,(+)-Pinoresinol,C20H22O6,358.14163844,Fraxinus mandshurica var. japonica,Fraxinus,KNApSAcK
+62,C00007190,487-36-5,(+)-Pinoresinol,C20H22O6,358.14163844,Fraxinus japonica,Fraxinus,KNApSAcK
+63,C00007191,81426-17-7,(+)-8-Hydroxypinoresinol,C20H22O7,374.13655306,Fraxinus mandshurica var. japonica,Fraxinus,KNApSAcK
+64,C00007191,81426-17-7,(+)-8-Hydroxypinoresinol,C20H22O7,374.13655306,Fraxinus ornus,Fraxinus,KNApSAcK
+65,C00007191,81426-17-7,(+)-8-Hydroxypinoresinol,C20H22O7,374.13655306,Fraxinus oxycarba,Fraxinus,KNApSAcK
+66,C00007191,81426-17-7,(+)-8-Hydroxypinoresinol,C20H22O7,374.13655306,Fraxinus micrantha,Fraxinus,KNApSAcK
+67,C00007191,81426-17-7,(+)-8-Hydroxypinoresinol,C20H22O7,374.13655306,Fraxinus japonica,Fraxinus,KNApSAcK
+68,C00010703,56222-02-7,Syringoxide,C17H24O10,388.13694699,Fraxinus excelsior L.,Fraxinus,KNApSAcK
+69,C00010784,178600-68-5,Oleoside,C16H22O11,390.11621155,Fraxinus floribunda Wall.,Fraxinus,KNApSAcK
+70,C00010784,178600-68-5,Oleoside,C16H22O11,390.11621155,Fraxinus chinensis Roxb.,Fraxinus,KNApSAcK
+71,C00010784,178600-68-5,Oleoside,C16H22O11,390.11621155,Fraxinus augustifolia Vahl,Fraxinus,KNApSAcK
+72,C00010784,178600-68-5,Oleoside,C16H22O11,390.11621155,Fraxinus americana L.,Fraxinus,KNApSAcK
+73,C00010784,178600-68-5,Oleoside,C16H22O11,390.11621155,Fraxinus excelsior L.,Fraxinus,KNApSAcK
+74,C00010784,178600-68-5,Oleoside,C16H22O11,390.11621155,Fraxinus griffithii C.B.Clarke,Fraxinus,KNApSAcK
+75,C00010784,178600-68-5,Oleoside,C16H22O11,390.11621155,Fraxinus japonica Blume,Fraxinus,KNApSAcK
+76,C00010784,178600-68-5,Oleoside,C16H22O11,390.11621155,Fraxinus malacophylla Hemsl.,Fraxinus,KNApSAcK
+77,C00010784,178600-68-5,Oleoside,C16H22O11,390.11621155,Fraxinus ornus L.,Fraxinus,KNApSAcK
+78,C00010784,178600-68-5,Oleoside,C16H22O11,390.11621155,Fraxinus oxycarpa Willd.,Fraxinus,KNApSAcK
+79,C00010784,178600-68-5,Oleoside,C16H22O11,390.11621155,Fraxinus pallisiae Wilmott,Fraxinus,KNApSAcK
+80,C00010784,178600-68-5,Oleoside,C16H22O11,390.11621155,Fraxinus uhdei (Wenzig) Lingelsh.,Fraxinus,KNApSAcK
+81,C00010785,35897-92-8,Ligstroside,C25H32O12,524.18937649,Fraxinus insularis,Fraxinus,KNApSAcK
+82,C00010785,35897-92-8,Ligstroside,C25H32O12,524.18937649,Fraxinus oxycarba,Fraxinus,KNApSAcK
+83,C00010785,35897-92-8,Ligstroside,C25H32O12,524.18937649,Fraxinus ornus,Fraxinus,KNApSAcK
+84,C00010785,35897-92-8,Ligstroside,C25H32O12,524.18937649,Fraxinus americana,Fraxinus,KNApSAcK
+85,C00010785,35897-92-8,Ligstroside,C25H32O12,524.18937649,Fraxinus excelsior,Fraxinus,KNApSAcK
+86,C00010786,84638-44-8,10-Hydroxyoleuropein,C25H32O14,556.17920573,Fraxinus oxycarba,Fraxinus,KNApSAcK
+87,C00019873,142902-27-0,Frachinoside,C32H38O19,726.20072904,Fraxinus chinensis,Fraxinus,KNApSAcK
+88,C00019875,525-21-3,Fraxidin,C11H10O5,222.05282343,Fraxinus japonica Seringe Blume,Fraxinus,KNApSAcK
+89,C00020030,114371-80-1,"6,7,8-Trihydroxycoumarin",C9H6O5,194.0215233,Fraxinus japonica Seringe Blume,Fraxinus,KNApSAcK
+90,C00029515,501-94-0,2-(4-Hydroxyphenyl)ethanol,C8H10O2,138.06807956,Fraxinus americana,Fraxinus,KNApSAcK
+91,C00030516,61303-13-7,Isoacteoside,C29H36O15,624.20542048,Fraxinus ornus,Fraxinus,KNApSAcK
+92,C00031274,10338-51-9,Rhodioloside,C14H20O7,300.12090299,Fraxinus excelsior,Fraxinus,KNApSAcK
+93,C00032635,10597-60-1,3-Hydroxytyrosol,C8H10O3,154.06299419,Fraxinus americana,Fraxinus,KNApSAcK
+94,C00033258,39011-92-2,Nuezhenide,C31H42O17,686.24219992,Fraxinus excelsior L.,Fraxinus,KNApSAcK
+95,C00033258,39011-92-2,Nuezhenide,C31H42O17,686.24219992,Fraxinus americana,Fraxinus,KNApSAcK
+96,C00033266,30164-95-5,Oleoside dimethyl ester,C18H26O11,418.14751167,Fraxinus americana,Fraxinus,KNApSAcK
+97,C00033266,30164-95-5,Oleoside dimethyl ester,C18H26O11,418.14751167,Fraxinus excelsior,Fraxinus,KNApSAcK
+98,C00033686,105471-98-5,Calceolarioside B,C23H26O11,478.14751167,Fraxinus ornus,Fraxinus,KNApSAcK
+99,C00034404,878293-90-4,Aceoside,C39H64O16,788.419436,Fraxinus oxycarba,Fraxinus,KNApSAcK
+100,C00036342,326491-77-4,(2''R)-2''-Hydroxyoleuropein,C25H32O14,556.17920573,Fraxinus americana,Fraxinus,KNApSAcK
+101,C00036343,326491-78-5,(2''S)-2''-Hydroxyoleuropein,C25H32O14,556.17920573,Fraxinus americana,Fraxinus,KNApSAcK
+102,C00036871,95519-12-3,Campneoside I,C30H38O16,654.21598517,Fraxinus americana,Fraxinus,KNApSAcK
+103,C00037025,326491-76-3,Demethylligstroside,C24H30O12,510.17372642,Fraxinus americana,Fraxinus,KNApSAcK
+104,C00037110,53212-71-8,Epikingisidic acid,C16H22O11,390.11621155,Fraxinus griffithii C.B.Clarke,Fraxinus,KNApSAcK
+105,C00037160,326594-35-8,Frameroside,C27H38O15,602.22107055,Fraxinus americana,Fraxinus,KNApSAcK
+106,C00037161,326594-34-7,Fraxamoside,C25H30O13,538.16864105,Fraxinus americana,Fraxinus,KNApSAcK
+107,C00037437,117457-37-1,Lugrandoside,C29H36O16,640.20033511,Fraxinus ornus,Fraxinus,KNApSAcK
+108,C00037580,60539-23-3,Oleoside 11-methyl ester,C17H24O11,404.13186161,Fraxinus excelsior,Fraxinus,KNApSAcK
+109,C00037580,60539-23-3,Oleoside 11-methyl ester,C17H24O11,404.13186161,Fraxinus americana,Fraxinus,KNApSAcK
+110,C00037800,59472-23-0,Secologanoside,C16H22O11,390.11621155,Fraxinus chinensis Roxb.,Fraxinus,KNApSAcK
+111,C00040787,106894-33-1,2-(4-Hydroxyphenyl)-ethyl-(6-O-caffeoyl)-beta-D-glucopyranoside,C23H26O10,462.15259705,Fraxinus ornus,Fraxinus,KNApSAcK
+112,C00042518,148225-35-8,Framoside,C32H38O13,630.2312413,Fraxinus ornus,Fraxinus,KNApSAcK
+113,C00042596,219781-74-5,Hydroxyframoside A,C32H38O14,646.22615592,Fraxinus ornus,Fraxinus,KNApSAcK
+114,C00042597,219781-75-6,Hydroxyframoside B,C32H38O14,646.22615592,Fraxinus ornus,Fraxinus,KNApSAcK
+115,C00042598,172045-85-1,Hydroxyornoside,C32H36O14,644.21050586,Fraxinus ornus,Fraxinus,KNApSAcK
+116,C00042613,204522-47-4,Insularoside 3'-O-beta-D-glucoside,C38H46O18,790.26841467,Fraxinus insularis,Fraxinus,KNApSAcK
+117,C00042614,219786-99-9,Insuloside,C40H46O16,782.27858542,Fraxinus insularis,Fraxinus,KNApSAcK
+118,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Fraxinus uhdei,Fraxinus,KNApSAcK
+119,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Fraxinus caroliniana,Fraxinus,KNApSAcK
+120,C00047872,1149762-75-3,Excelside A,C24H36O16,580.20033511,Fraxinus excelsior,Fraxinus,KNApSAcK
+121,C00047873,1149762-83-3,Excelside B,C31H42O17,686.24219992,Fraxinus excelsior,Fraxinus,KNApSAcK
+122,C00049064,35897-94-0,10-Hydroxyligstroside,C25H32O13,540.18429111,Fraxinus oxycarba,Fraxinus,KNApSAcK
+123,C00049161,209851-23-0,Fraxicarboside A,C34H38O16,702.21598517,Fraxinus oxycarba,Fraxinus,KNApSAcK
+124,C00049162,209851-35-4,Fraxicarboside B,C34H38O17,718.21089979,Fraxinus oxycarba,Fraxinus,KNApSAcK
+125,C00049163,209851-36-5,Fraxicarboside C,C36H40O18,760.22146448,Fraxinus oxycarba,Fraxinus,KNApSAcK
+126,C00050949,221660-27-1,Isolugrandoside,C29H36O16,640.20033511,Fraxinus ornus,Fraxinus,KNApSAcK
+0,C00001874,3621-38-3,Jatrorrhizine,C20H20NO4,338.13923313,Enantia chlorantha,Enantia,KNApSAcK
+1,C00001878,475-75-2,Liriodenine,C17H9NO3,275.05824316,Enantia chlorantha,Enantia,KNApSAcK
+2,C00001898,3486-67-7,Palmatine,C21H22NO4,352.1548832,Enantia chlorantha,Enantia,KNApSAcK
+3,C00001904,63490-92-6,Polycarpine,C21H23NO6,385.15253747,Enantia polycarpa,Enantia,KNApSAcK
+4,C00024667,3621-36-1,Columbamine,C20H20NO4,338.13923313,Enantia chlorantha Oliver,Enantia,KNApSAcK
+5,C00025342,19716-66-6,Pseudopalmatine,C21H22NO4,352.1548832,Enantia chlorantha,Enantia,KNApSAcK
+6,C00025632,483-34-1,(-)-Isocorypalmine,C20H23NO4,341.16270823,Enantia chlorantha,Enantia,KNApSAcK
+7,C00025890,5140-38-5,Homomoschatoline,C19H15NO4,321.10010798,Enantia chlorantha,Enantia,KNApSAcK
+8,C00025935,15444-20-9,Lysicamine,C18H13NO3,291.08954329,Enantia chlorantha,Enantia,KNApSAcK
+9,C00026143,64191-04-4,Pseudocolumbamine,C20H20NO4,338.13923313,Enantia chlorantha,Enantia,KNApSAcK
+10,C00026149,27313-86-6,Corypalmine,C20H23NO4,341.16270823,Enantia chlorantha,Enantia,KNApSAcK
+11,C00026150,2934-97-6,(+-)-Tetrahydropalmatine,C21H25NO4,355.17835829,Enantia chlorantha,Enantia,KNApSAcK
+12,C00029094,13407-95-9,Tetrahydropseudopalmatine,C21H25NO4,355.17835829,Enantia chlorantha,Enantia,KNApSAcK
+0,C00000134,21293-29-8,Abscisic acid,C15H20O4,264.13615913,Machilus zuihoensis,Machilus,KNApSAcK
+1,C00000601,607-80-7,(+)-Sesamin,C20H18O6,354.11033831,Machilus glaucescens,Machilus,KNApSAcK
+2,C00000601,607-80-7,(+)-Sesamin,C20H18O6,354.11033831,Machilus thunbergii,Machilus,KNApSAcK
+3,C00000640,526-06-7,(+)-Eudesmin,C22H26O6,386.17293856,Machilus wangchiana,Machilus,KNApSAcK
+4,C00000643,36150-23-9,Kobusin,C21H22O6,370.14163844,Machilus wangchiana,Machilus,KNApSAcK
+5,C00000674,491-70-3,"5,7,3',4'-Tetrahydroxyflavone",C15H10O6,286.04773805,Machilus philippinensis,Machilus,KNApSAcK
+6,C00000697,61989-57-9,(-)-Machilusin,C21H24O5,356.16237388,Machilus japonica,Machilus,KNApSAcK
+7,C00000947,154-23-4,(+)-Catechin,C15H14O6,290.07903818,Machilus thunbergii,Machilus,KNApSAcK
+8,C00001071,529-44-2,Myricetin,C15H10O8,318.0375673,Machilus bombycina,Machilus,KNApSAcK
+9,C00001910,485-19-8,(+)-Reticuline,C19H23NO4,329.16270823,Machilus thunbergii,Machilus,KNApSAcK
+10,C00002499,92-61-5,Scopoletin,C10H8O4,192.04225874,Machilus thunbergii,Machilus,KNApSAcK
+11,C00002605,61891-31-4,(+)-Galbacin,C20H20O5,340.13107375,Machilus thunbergii,Machilus,KNApSAcK
+12,C00002605,61891-31-4,(+)-Galbacin,C20H20O5,340.13107375,Machilus japonica,Machilus,KNApSAcK
+13,C00002611,51020-86-1,(-)-Licarin A,C20H22O4,326.15180919,Machilus japonica,Machilus,KNApSAcK
+14,C00002611,51020-86-1,(-)-Licarin A,C20H22O4,326.15180919,Machilus odoratissima NEES,Machilus,KNApSAcK
+15,C00002611,51020-86-1,(-)-Licarin A,C20H22O4,326.15180919,Machilus thunbergii,Machilus,KNApSAcK
+16,C00002631,21453-69-0,(+)-Lirioresinol B,C22H26O8,418.16276781,Machilus thunbergii,Machilus,KNApSAcK
+17,C00002775,4206-58-0,Sinapaldehyde,C11H12O4,208.07355887,Machilus zuihoensis,Machilus,KNApSAcK
+18,C00003429,15291-75-5,Ginkgolide A,C20H24O9,408.14203237,Machilus wangchiana,Machilus,KNApSAcK
+19,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Machilus zuihoensis,Machilus,KNApSAcK
+20,C00003747,559-74-0,3-Friedelanone,C30H50O,426.38616622,Machilus zuihoensis,Machilus,KNApSAcK
+21,C00004624,480-16-0,Morin,C15H10O7,302.04265268,Machilus bombycina,Machilus,KNApSAcK
+22,C00004631,117-39-5,Quercetin,C15H10O7,302.04265268,Machilus bombycina,Machilus,KNApSAcK
+23,C00005368,22255-13-6,Guaijaverin,C20H18O11,434.08491142,Machilus thunbergii,Machilus,KNApSAcK
+24,C00005374,522-12-3,Quercetin 3-O-alpha-L-rhamnoside,C21H20O11,448.10056148,Machilus thunbergii,Machilus,KNApSAcK
+25,C00006686,27539-32-8,Peonidin 3-rutinoside,C28H33O15,609.18194539,Machilus thunbergii,Machilus,KNApSAcK
+26,C00007205,14464-90-5,(+)-Lyoniresinol,C22H28O8,420.17841787,Machilus thunbergii,Machilus,KNApSAcK
+27,C00007213,528-64-3,(-)-Galbacin,C20H20O5,340.13107375,Machilus thunbergii,Machilus,KNApSAcK
+28,C00007213,528-64-3,(-)-Galbacin,C20H20O5,340.13107375,Machilus japonica,Machilus,KNApSAcK
+29,C00007214,36469-60-0,Dihydroguaiaretic acid,C20H26O4,330.18310932,Machilus edulis,Machilus,KNApSAcK
+30,C00007215,,Mesodihydroguaiaretic acid,C20H26O4,330.18310932,Machilus thunbergii,Machilus,KNApSAcK
+31,C00007366,59-02-9,alpha-Tocopherol,C29H50O2,430.38108084,Machilus zuihoensis,Machilus,KNApSAcK
+32,C00012727,3650-43-9,Costic acid,C15H22O2,234.16197995,Machilus wangchiana,Machilus,KNApSAcK
+33,C00019308,474-58-8,3-O-beta-D-Glucopyranosyl sitosterol,C35H60O6,576.43898965,Machilus zuihoensis,Machilus,KNApSAcK
+34,C00021674,74683-16-2,Nectandrin B,C20H24O5,344.16237388,Machilus wangchiana,Machilus,KNApSAcK
+35,C00021674,74683-16-2,Nectandrin B,C20H24O5,344.16237388,Machilus thunbergii,Machilus,KNApSAcK
+36,C00024160,83864-77-1,Obovatal,C18H16O4,296.104859,Machilus thunbergii,Machilus,KNApSAcK
+37,C00025334,66648-43-9,N-trans-Feruloyltyramine,C18H19NO4,313.1314081,Machilus zuihoensis,Machilus,KNApSAcK
+38,C00029821,1058-61-3,Sitostenone,C29H48O,412.37051615,Machilus zuihoensis,Machilus,KNApSAcK
+39,C00030099,112-31-2,Decanal,C10H20O,156.15141526,Machilus bombycina,Machilus,KNApSAcK
+40,C00030572,94513-61-8,Kachirachirol B,C19H20O4,312.13615913,Machilus odoratissima NEES,Machilus,KNApSAcK
+41,C00030644,112-54-9,Lauraldehyde,C12H24O,184.18271539,Machilus bombycina,Machilus,KNApSAcK
+42,C00030703,114422-21-8,Machilin I,C20H24O5,344.16237388,Machilus odoratissima NEES,Machilus,KNApSAcK
+43,C00030703,114422-21-8,Machilin I,C20H24O5,344.16237388,Machilus wangchiana,Machilus,KNApSAcK
+44,C00030746,66322-34-7,meso-Dihydroguaiaretic acid,C20H26O4,330.18310932,Machilus thunbergii,Machilus,KNApSAcK
+45,C00030746,66322-34-7,meso-Dihydroguaiaretic acid,C20H26O4,330.18310932,Machilus wangchiana,Machilus,KNApSAcK
+46,C00030751,99-76-3,Methylparaben,C8H8O3,152.04734412,Machilus zuihoensis,Machilus,KNApSAcK
+47,C00030867,62058-46-2,Nudiposide,C27H36O12,552.22067662,Machilus thunbergii,Machilus,KNApSAcK
+48,C00030874,214197-14-5,Obovatifol,C20H22O5,342.14672381,Machilus odoratissima NEES,Machilus,KNApSAcK
+49,C00030883,891182-93-7,Odoratisol A,C21H24O5,356.16237388,Machilus odoratissima NEES,Machilus,KNApSAcK
+50,C00030884,891182-94-8,Odoratisol B,C20H24O5,344.16237388,Machilus odoratissima NEES,Machilus,KNApSAcK
+51,C00030885,891182-95-9,Odoratisol C,C20H24O5,344.16237388,Machilus odoratissima NEES,Machilus,KNApSAcK
+52,C00030886,891182-96-0,Odoratisol D,C20H22O5,342.14672381,Machilus odoratissima NEES,Machilus,KNApSAcK
+53,C00031992,107534-93-0,Macelignan,C20H24O4,328.16745925,Machilus thunbergii,Machilus,KNApSAcK
+54,C00032308,124-25-4,Tetradecanal,C14H28O,212.21401552,Machilus bombycina,Machilus,KNApSAcK
+55,C00035336,861840-99-5,Machillene,C29H36O2,416.27153039,Machilus zuihoensis,Machilus,KNApSAcK
+56,C00035391,861841-00-1,Secomahubanolide,C24H44O4,396.32395989,Machilus zuihoensis,Machilus,KNApSAcK
+57,C00035830,15291-77-7,Ginkgolide B,C20H24O10,424.13694699,Machilus wangchiana,Machilus,KNApSAcK
+58,C00037221,36531-08-5,Guaiacin,C20H24O4,328.16745925,Machilus wangchiana,Machilus,KNApSAcK
+59,C00043690,114422-19-4,Machilin G,C21H24O5,356.16237388,Machilus thunbergii,Machilus,KNApSAcK
+60,C00044797,128396-34-9,Hamabiwalactone A,C17H24O2,260.17763001,Machilus wangchiana,Machilus,KNApSAcK
+61,C00047666,83092-96-0,4-(3-Methoxy-4-hydroxy)phenyl-3-methyl-3-buten-2-one,C12H14O3,206.09429431,Machilus wangchiana,Machilus,KNApSAcK
+62,C00047721,1174167-29-3,Apigenosylide A,C43H54O18,858.33101492,Machilus japonica,Machilus,KNApSAcK
+63,C00047722,1174167-30-6,Apigenosylide B,C41H50O18,830.2997148,Machilus japonica,Machilus,KNApSAcK
+64,C00047723,1174167-31-7,Apigenosylide C,C37H44O14,712.27310612,Machilus japonica,Machilus,KNApSAcK
+65,C00047850,2033-08-1,dl-Coclaurine,C17H19NO3,285.13649348,Machilus japonica,Machilus,KNApSAcK
+66,C00047929,78420-65-2,Isomahubanolide 23,C23H40O3,364.29774514,Machilus wangchiana,Machilus,KNApSAcK
+67,C00047968,403602-61-9,Lincomolide B,C17H26O3,278.1881947,Machilus wangchiana,Machilus,KNApSAcK
+68,C00047969,424802-11-9,Lincomolide C,C17H28O3,280.20384476,Machilus wangchiana,Machilus,KNApSAcK
+69,C00051391,110269-50-6,Machilin A,C20H22O4,326.15180919,Machilus thunbergii,Machilus,KNApSAcK
+70,C00051392,114488-90-3,Machilin F,C20H22O5,342.14672381,Machilus thunbergii,Machilus,KNApSAcK
+71,C00052445,150134-24-0,(-)-Acuminatin,C21H24O4,340.16745925,Machilus thunbergii,Machilus,KNApSAcK
+72,C00052453,78341-26-1,(-)-Isoguaiacin,C20H24O4,328.16745925,Machilus thunbergii,Machilus,KNApSAcK
+73,C00052908,114127-24-1,erythro-Austrobailignan-6,C20H24O4,328.16745925,Machilus thunbergii,Machilus,KNApSAcK
+74,C00053322,35354-74-6,Honokiol,C18H18O2,266.13067982,Machilus thunbergii,Machilus,KNApSAcK
+75,C00058313,51148-68-6,11-Dodecenal,C12H22O,182.16706532,Machilus bombycina,Machilus,KNApSAcK
+0,C00000963,20725-03-5,Fustin,C15H12O6,288.06338812,Rhus spp.,Rhus,KNApSAcK
+1,C00000964,1226-22-8,Garbanzol,C15H12O5,272.06847349,Rhus spp.,Rhus,KNApSAcK
+2,C00001014,28441-98-7,Agathisflavone,C30H18O10,538.0899968,Rhus succedanea,Rhus,KNApSAcK
+3,C00001015,1617-53-4,Amentoflavone,C30H18O10,538.0899968,Rhus succedanea,Rhus,KNApSAcK
+4,C00001016,5128-44-9,"5-Hydroxy-7,4'-dimethoxyflavone",C17H14O5,298.08412356,Rhus undulata,Rhus,KNApSAcK
+5,C00001049,19202-36-9,Hinokiflavone,C30H18O10,538.0899968,Rhus succedanea,Rhus,KNApSAcK
+6,C00001071,529-44-2,Myricetin,C15H10O8,318.0375673,Rhus wallichi,Rhus,KNApSAcK
+7,C00001071,529-44-2,Myricetin,C15H10O8,318.0375673,Rhus parviflora,Rhus,KNApSAcK
+8,C00001094,49620-13-5,Robustaflavone,C30H18O10,538.0899968,Rhus succedanea,Rhus,KNApSAcK
+9,C00001094,49620-13-5,Robustaflavone,C30H18O10,538.0899968,Rhus spp.,Rhus,KNApSAcK
+10,C00002388,155518-34-6,Riccionidin A,C15H9O6,285.03991302,Rhus javanica L.,Rhus,KNApSAcK
+11,C00002500,531-44-2,7-(beta-D-glucopyranosyloxy)-6-methoxycoumarin,C16H18O9,354.09508217,Rhus lanceolata,Rhus,KNApSAcK
+12,C00002635,16611-84-0,Anacardic acid,C22H36O3,348.26644502,Rhus javanica,Rhus,KNApSAcK
+13,C00002647,149-91-7,Gallic acid,C7H6O5,170.0215233,Rhus wallichi,Rhus,KNApSAcK
+14,C00002647,149-91-7,Gallic acid,C7H6O5,170.0215233,Rhus chinensis,Rhus,KNApSAcK
+15,C00002647,149-91-7,Gallic acid,C7H6O5,170.0215233,Rhus typhina,Rhus,KNApSAcK
+16,C00002647,149-91-7,Gallic acid,C7H6O5,170.0215233,Rhus coriaria,Rhus,KNApSAcK
+17,C00002647,149-91-7,Gallic acid,C7H6O5,170.0215233,Rhus semialata,Rhus,KNApSAcK
+18,C00002683,5463-22-9,Vanillin,C8H8O3,152.04734412,Rhus semialata,Rhus,KNApSAcK
+19,C00002915,23094-69-1,Corilagin,C27H22O18,634.0806139,Rhus semialata,Rhus,KNApSAcK
+20,C00002916,123134-19-0,"3,5-Di-galloyl-4-O-digalloylquinic acid",C35H28O22,800.10722258,Rhus semialata,Rhus,KNApSAcK
+21,C00002921,88269-47-0,ent-Fisetinidol-(4beta->8)-catechin-(6->4beta)-ent-fisetinidol,C45H38O16,834.21598517,Rhus lancea,Rhus,KNApSAcK
+22,C00002921,88269-47-0,ent-Fisetinidol-(4beta->8)-catechin-(6->4beta)-ent-fisetinidol,C45H38O16,834.21598517,Rhus leptodictya,Rhus,KNApSAcK
+23,C00002933,14937-32-7,"1,2,3,4,6-Penta-O-galloyl-beta-D-glucose",C41H32O26,940.1181812,Rhus spp.,Rhus,KNApSAcK
+24,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Rhus wallichi,Rhus,KNApSAcK
+25,C00004119,,"3',4'-Dihydroxyflavone 4'-glucoside",C21H20O9,416.11073224,Rhus spp.,Rhus,KNApSAcK
+26,C00004157,17306-46-6,Rhoifolin,C27H30O14,578.16355567,Rhus succedanea,Rhus,KNApSAcK
+27,C00004540,2034-65-3,"4',7-Dihydroxyflavonol",C15H10O5,270.05282343,Rhus spp.,Rhus,KNApSAcK
+28,C00004565,520-18-3,Kaempferol,C15H10O6,286.04773805,Rhus parviflora,Rhus,KNApSAcK
+29,C00004565,520-18-3,Kaempferol,C15H10O6,286.04773805,Rhus wallichi,Rhus,KNApSAcK
+30,C00004579,528-48-3,Fisetin,C15H10O6,286.04773805,Rhus cotinus,Rhus,KNApSAcK
+31,C00004579,528-48-3,Fisetin,C15H10O6,286.04773805,Rhus spp.,Rhus,KNApSAcK
+32,C00004579,528-48-3,Fisetin,C15H10O6,286.04773805,Rhus sylvestris,Rhus,KNApSAcK
+33,C00004761,16280-27-6,Europetin,C16H12O8,332.05321736,Rhus spp.,Rhus,KNApSAcK
+34,C00004766,86828-05-9,"Myricetin 7,4'-dimethyl ether",C17H14O8,346.06886743,Rhus lancea,Rhus,KNApSAcK
+35,C00004767,4423-37-4,Syringetin,C17H14O8,346.06886743,Rhus salicifolia,Rhus,KNApSAcK
+36,C00005045,1668-33-3,Demethoxykanugin,C18H14O6,326.07903818,Rhus chinensis,Rhus,KNApSAcK
+37,C00005140,482-39-3,Afzelin,C21H20O10,432.10564686,Rhus parviflora,Rhus,KNApSAcK
+38,C00005301,100272-55-7,Fisetin 7-glucoside,C21H20O11,448.10056148,Rhus succedanea,Rhus,KNApSAcK
+39,C00005372,482-36-0,Hyperin,C21H20O12,464.09547611,Rhus wallichi,Rhus,KNApSAcK
+40,C00005374,522-12-3,Quercetin 3-O-alpha-L-rhamnoside,C21H20O11,448.10056148,Rhus wallichi,Rhus,KNApSAcK
+41,C00005374,522-12-3,Quercetin 3-O-alpha-L-rhamnoside,C21H20O11,448.10056148,Rhus parviflora,Rhus,KNApSAcK
+42,C00005730,17912-87-7,Myricitrin,C21H20O12,464.09547611,Rhus parviflora,Rhus,KNApSAcK
+43,C00005774,86828-99-1,"Myricetin 7,4'-dimethyl ether 3-galactoside",C23H24O13,508.12169086,Rhus lancea,Rhus,KNApSAcK
+44,C00005847,56317-05-6,Kaempferol 3-(6''-galloylglucoside),C28H24O15,600.1115201,Rhus sylvestris,Rhus,KNApSAcK
+45,C00006451,57291-00-6,Succedaneaflavanone,C30H22O10,542.12129692,Rhus succedanea,Rhus,KNApSAcK
+46,C00006457,53497-36-2,Rhusflavone,C30H20O10,540.10564686,Rhus sylvestris,Rhus,KNApSAcK
+47,C00006457,53497-36-2,Rhusflavone,C30H20O10,540.10564686,Rhus succedanea,Rhus,KNApSAcK
+48,C00006458,53060-72-3,Rhusflavanone,C30H22O10,542.12129692,Rhus succedanea,Rhus,KNApSAcK
+49,C00006458,53060-72-3,Rhusflavanone,C30H22O10,542.12129692,Rhus sylvestris,Rhus,KNApSAcK
+50,C00006484,114312-08-2,Sumaflavone,C30H18O11,554.08491142,Rhus coriaria,Rhus,KNApSAcK
+51,C00006941,487-52-5,Butein,C15H12O5,272.06847349,Rhus javanica,Rhus,KNApSAcK
+52,C00007017,64280-22-4,Ovalitenone,C19H14O6,338.07903818,Rhus chinensis,Rhus,KNApSAcK
+53,C00007219,,"Butein 3,2'-diglucoside",C27H32O15,596.17412036,Rhus chondroloma,Rhus,KNApSAcK
+54,C00007219,,"Butein 3,2'-diglucoside",C27H32O15,596.17412036,Rhus virens,Rhus,KNApSAcK
+55,C00008026,120-05-8,Sulfuretin,C15H10O5,270.05282343,Rhus verniciflua,Rhus,KNApSAcK
+56,C00008026,120-05-8,Sulfuretin,C15H10O5,270.05282343,Rhus javanica,Rhus,KNApSAcK
+57,C00008028,54826-89-0,Rengasin,C16H12O6,300.06338812,Rhus spp.,Rhus,KNApSAcK
+58,C00008044,494-49-5,Palasitrin,C27H30O15,594.15847029,Rhus spp.,Rhus,KNApSAcK
+59,C00008068,89984-19-0,"2,6,3',4'-Tetrahydroxy-2-benzylcoumaranone",C15H12O6,288.06338812,Rhus succedanea,Rhus,KNApSAcK
+60,C00008561,17654-28-3,"(2S,3S)-Fustin",C15H12O6,288.06338812,Rhus typhina,Rhus,KNApSAcK
+61,C00008561,17654-28-3,"(2S,3S)-Fustin",C15H12O6,288.06338812,Rhus cotinus,Rhus,KNApSAcK
+62,C00009136,88269-46-9,ent-Fisetinidol-(4alpha->6)-catechin,C30H26O11,562.14751167,Rhus leptodictya,Rhus,KNApSAcK
+63,C00009141,78306-07-7,ent-Fisetinidol-(4alpha->8)-catechin,C30H26O11,562.14751167,Rhus leptodictya,Rhus,KNApSAcK
+64,C00009141,78306-07-7,ent-Fisetinidol-(4alpha->8)-catechin,C30H26O11,562.14751167,Rhus lancea,Rhus,KNApSAcK
+65,C00009142,88269-45-8,ent-Fisetinidol-(4beta->8)-epicatechin,C30H26O11,562.14751167,Rhus leptodictya,Rhus,KNApSAcK
+66,C00009151,81600-44-4,Fisetinidol-(4beta->8)-catechin-(6->4alpha)-fisetinidol,C45H38O16,834.21598517,Rhus lancea,Rhus,KNApSAcK
+67,C00009152,88269-49-2,ent-Fisetinidol-(4alpha->8)-catechin-(6->4alpha)-ent-fisetinidol,C45H38O16,834.21598517,Rhus leptodictya,Rhus,KNApSAcK
+68,C00009153,88269-48-1,ent-Fisetinidol-(4beta->8)-catechin-(6->4alpha)-ent-fisetinidol,C45H38O16,834.21598517,Rhus leptodictya,Rhus,KNApSAcK
+69,C00009153,88269-48-1,ent-Fisetinidol-(4beta->8)-catechin-(6->4alpha)-ent-fisetinidol,C45H38O16,834.21598517,Rhus lancea,Rhus,KNApSAcK
+70,C00009157,,ent-Fisetinidol-(4alpha->6)-ent-fisetinidol-(4alpha->8)-catechin-(6->4alpha)-ent-fisetinidol,C60H50O21,1106.28445866,Rhus lancea,Rhus,KNApSAcK
+71,C00009158,,ent-Fisetinidol-(4beta->6)-ent-fisetinidol-(4beta->8)-catechin-(6->4alpha)-ent-fisetinidol,C60H50O21,1106.28445866,Rhus lancea,Rhus,KNApSAcK
+72,C00014517,278608-67-6,Rhuschalcone I,C32H26O8,538.16276781,Rhus pyroides,Rhus,KNApSAcK
+73,C00014518,541502-80-1,Rhuschalcone II,C30H22O8,510.13146768,Rhus pyroides,Rhus,KNApSAcK
+74,C00014519,541502-81-2,Rhuschalcone III,C31H24O8,524.14711774,Rhus pyroides,Rhus,KNApSAcK
+75,C00014520,541502-82-3,Rhuschalcone IV,C31H24O8,524.14711774,Rhus pyroides,Rhus,KNApSAcK
+76,C00014521,541502-83-4,Rhuschalcone V,C30H24O8,512.14711774,Rhus pyroides,Rhus,KNApSAcK
+77,C00014522,541502-84-5,Rhuschalcone VI,C30H22O8,510.13146768,Rhus pyroides,Rhus,KNApSAcK
+78,C00014686,381866-52-0,"(I-2S,II-2S)-I-7,II-7-Di-O-methyltetrahydroamentoflavone",C32H26O10,570.15259705,Rhus retinorrhoea,Rhus,KNApSAcK
+79,C00015562,500-65-2,Rhapontigenin,C15H14O4,258.08920894,Rhus pontifica,Rhus,KNApSAcK
+80,C00019308,474-58-8,3-O-beta-D-Glucopyranosyl sitosterol,C35H60O6,576.43898965,Rhus wallichi,Rhus,KNApSAcK
+81,C00021969,472-97-9,beta-Caryophyllene alcohol,C15H26O,222.19836545,Rhus coriaria,Rhus,KNApSAcK
+82,C00030222,831-61-8,Ethyl gallate,C9H10O5,198.05282343,Rhus coriaria,Rhus,KNApSAcK
+83,C00030753,2309-07-1,Ferulic acid methyl ester,C11H12O4,208.07355887,Rhus semialata,Rhus,KNApSAcK
+84,C00030754,99-24-1,"Methyl 3,4,5-trihydroxybenzoate",C8H8O5,184.03717337,Rhus chinensis,Rhus,KNApSAcK
+85,C00031163,946852-22-8,Rhusemialin A,C31H34O11,582.21011193,Rhus semialata,Rhus,KNApSAcK
+86,C00031164,946852-23-9,Rhusemialin B,C38H46O16,758.27858542,Rhus semialata,Rhus,KNApSAcK
+87,C00031165,946852-24-0,Rhusemialin C,C48H54O19,934.32592955,Rhus semialata,Rhus,KNApSAcK
+88,C00032984,366479-04-1,Fouquierone,C30H50O3,458.37599546,Rhus javanica,Rhus,KNApSAcK
+89,C00033061,366450-47-7,Isofouquierone peroxide,C30H50O4,474.37091008,Rhus javanica,Rhus,KNApSAcK
+90,C00033379,135630-76-1,Semialatic acid,C30H46O4,470.33960996,Rhus javanica,Rhus,KNApSAcK
+91,C00040814,220599-52-0,"3alpha,20-Dihydroxy-3beta,25-epoxylupane",C30H50O3,458.37599546,Rhus typhina,Rhus,KNApSAcK
+92,C00044053,18100-50-0,28-Hydroxy-beta-Amyrone,C30H48O2,440.36543078,Rhus taitensis,Rhus,KNApSAcK
+93,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Rhus ovata,Rhus,KNApSAcK
+94,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Rhus leptodictya,Rhus,KNApSAcK
+95,C00051183,15979-35-8,Laccaic acid A,C26H19NO12,537.09072508,Rhus verniciflua,Rhus,KNApSAcK
+96,C00051184,17249-00-2,Laccaic acid B,C24H16O12,496.06417598,Rhus verniciflua,Rhus,KNApSAcK
+97,C00051185,23241-56-7,Laccaic acid C,C25H17NO13,539.06998964,Rhus verniciflua,Rhus,KNApSAcK
+98,C00051186,18499-84-8,Laccaic acid D,C16H10O7,314.04265268,Rhus verniciflua,Rhus,KNApSAcK

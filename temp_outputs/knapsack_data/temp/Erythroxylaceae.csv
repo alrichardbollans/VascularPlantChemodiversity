@@ -1,0 +1,415 @@
+,C_ID,CAS ID,example_compound_name,Molecular formula,Mw,Organism,knapsack_search_term,Source
+0,C00026238,42599-89-3,(-)-Chrysogine,C10H10N2O2,190.07422758,Fusarium langsethiae,Sethia,KNApSAcK
+0,C00000170,140-10-3,Cinnamate,C9H8O2,148.0524295,Erythroxylum coca,Erythroxylum,KNApSAcK
+1,C00000297,66-97-7,Ficusin,C11H6O3,186.03169406,Erythroxylum ulei,Erythroxylum,KNApSAcK
+2,C00000674,491-70-3,"5,7,3',4'-Tetrahydroxyflavone",C15H10O6,286.04773805,Erythroxylum novogranatense,Erythroxylum,KNApSAcK
+3,C00000677,480-18-2,Dihydroquercetin,C15H12O7,304.05830274,Erythroxylum coca,Erythroxylum,KNApSAcK
+4,C00000677,480-18-2,Dihydroquercetin,C15H12O7,304.05830274,Erythroxylum novogranatense,Erythroxylum,KNApSAcK
+5,C00000947,154-23-4,(+)-Catechin,C15H14O6,290.07903818,Erythroxylum cuneatum,Erythroxylum,KNApSAcK
+6,C00000947,154-23-4,(+)-Catechin,C15H14O6,290.07903818,Erythroxylum cambodianum,Erythroxylum,KNApSAcK
+7,C00000947,154-23-4,(+)-Catechin,C15H14O6,290.07903818,Erythroxylum rimosum,Erythroxylum,KNApSAcK
+8,C00000956,490-46-0,(-)-Epicatechin,C15H14O6,290.07903818,Erythroxylum rimosum,Erythroxylum,KNApSAcK
+9,C00000956,490-46-0,(-)-Epicatechin,C15H14O6,290.07903818,Erythroxylum leal-costae,Erythroxylum,KNApSAcK
+10,C00000956,490-46-0,(-)-Epicatechin,C15H14O6,290.07903818,Erythroxylum cambodianum,Erythroxylum,KNApSAcK
+11,C00000960,552-58-9,Eriodictyol,C15H12O6,288.06338812,Erythroxylum novogranatense,Erythroxylum,KNApSAcK
+12,C00000960,552-58-9,Eriodictyol,C15H12O6,288.06338812,Erythroxylum australe,Erythroxylum,KNApSAcK
+13,C00002034,454-14-8,Cuscohygrine,C13H24N2O,224.1888634,Erythroxylum coca,Erythroxylum,KNApSAcK
+14,C00002034,454-14-8,Cuscohygrine,C13H24N2O,224.1888634,Erythroxylum novogranatense,Erythroxylum,KNApSAcK
+15,C00002034,454-14-8,Cuscohygrine,C13H24N2O,224.1888634,Erythroxylum cataractarum,Erythroxylum,KNApSAcK
+16,C00002046,496-49-1,Hygrine,C8H15NO,141.11536411,Erythroxylum coca,Erythroxylum,KNApSAcK
+17,C00002046,496-49-1,Hygrine,C8H15NO,141.11536411,Erythroxylum novogranatense,Erythroxylum,KNApSAcK
+18,C00002047,496-47-9,(-)-Hygroline,C8H17NO,143.13101417,Erythroxylum coca,Erythroxylum,KNApSAcK
+19,C00002047,496-47-9,(-)-Hygroline,C8H17NO,143.13101417,Erythroxylum novogranatense,Erythroxylum,KNApSAcK
+20,C00002280,519-09-5,Benzoylecgonine,C16H19NO4,289.1314081,Erythroxylum novogranatense,Erythroxylum,KNApSAcK
+21,C00002280,519-09-5,Benzoylecgonine,C16H19NO4,289.1314081,Erythroxylum coca,Erythroxylum,KNApSAcK
+22,C00002282,131580-36-4,Calystegin A3,C7H13NO3,159.08954329,Erythroxylum novogranatense,Erythroxylum,KNApSAcK
+23,C00002283,127414-85-1,Calystegin B2,C7H13NO4,175.08445791,Erythroxylum novogranatense,Erythroxylum,KNApSAcK
+24,C00002284,521-67-5,Cinnamoylcocaine,C19H23NO4,329.16270823,Erythroxylum truxillense,Erythroxylum,KNApSAcK
+25,C00002284,521-67-5,Cinnamoylcocaine,C19H23NO4,329.16270823,Erythroxylum coca,Erythroxylum,KNApSAcK
+26,C00002285,50-36-2,Cocaine,C17H21NO4,303.14705817,Erythroxylum coca,Erythroxylum,KNApSAcK
+27,C00002285,50-36-2,Cocaine,C17H21NO4,303.14705817,Erythroxylum cataractarum,Erythroxylum,KNApSAcK
+28,C00002285,50-36-2,Cocaine,C17H21NO4,303.14705817,Erythroxylum novogranatense var. truxillense,Erythroxylum,KNApSAcK
+29,C00002291,481-37-8,Ecgonine,C9H15NO3,185.10519335,Erythroxylum novogranatense,Erythroxylum,KNApSAcK
+30,C00002291,481-37-8,Ecgonine,C9H15NO3,185.10519335,Erythroxylum coca,Erythroxylum,KNApSAcK
+31,C00002296,526-13-6,Meteloidine,C13H21NO4,255.14705817,Erythroxylum spp.,Erythroxylum,KNApSAcK
+32,C00002296,526-13-6,Meteloidine,C13H21NO4,255.14705817,Erythroxylum australe,Erythroxylum,KNApSAcK
+33,C00002300,552-70-5,Pseudopelletierine,C9H15NO,153.11536411,Erythroxylum lucidum,Erythroxylum,KNApSAcK
+34,C00002305,537-26-8,3beta-Benzoyloxytropane,C15H19NO2,245.14157886,Erythroxylum mamacoca Mart.,Erythroxylum,KNApSAcK
+35,C00002305,537-26-8,3beta-Benzoyloxytropane,C15H19NO2,245.14157886,Erythroxylum dekindtii (Engl.)O.E.Schultz,Erythroxylum,KNApSAcK
+36,C00002305,537-26-8,3beta-Benzoyloxytropane,C15H19NO2,245.14157886,Erythroxylum cuneatum (Wall.)Kurz,Erythroxylum,KNApSAcK
+37,C00002305,537-26-8,3beta-Benzoyloxytropane,C15H19NO2,245.14157886,Erythroxylum coca Lam.var.coca,Erythroxylum,KNApSAcK
+38,C00002305,537-26-8,3beta-Benzoyloxytropane,C15H19NO2,245.14157886,Erythroxylum ecarinatum Burck,Erythroxylum,KNApSAcK
+39,C00002305,537-26-8,3beta-Benzoyloxytropane,C15H19NO2,245.14157886,Erythroxylum macrocarpum O.E.schulz,Erythroxylum,KNApSAcK
+40,C00002305,537-26-8,3beta-Benzoyloxytropane,C15H19NO2,245.14157886,Erythroxylum novogranatense (Morris) Hieron var.novogranatense,Erythroxylum,KNApSAcK
+41,C00002305,537-26-8,3beta-Benzoyloxytropane,C15H19NO2,245.14157886,Erythroxylum sideroxyloides Lam.,Erythroxylum,KNApSAcK
+42,C00002305,537-26-8,3beta-Benzoyloxytropane,C15H19NO2,245.14157886,Erythroxylum truxillense,Erythroxylum,KNApSAcK
+43,C00002305,537-26-8,3beta-Benzoyloxytropane,C15H19NO2,245.14157886,Erythroxylum ulei o.E.Schulz,Erythroxylum,KNApSAcK
+44,C00002525,485-72-3,Formononetin,C16H12O4,268.07355887,Erythroxylum ulei,Erythroxylum,KNApSAcK
+45,C00002526,446-72-0,Genistein,C15H10O5,270.05282343,Erythroxylum ulei,Erythroxylum,KNApSAcK
+46,C00002554,480-23-9,Orobol,C15H10O6,286.04773805,Erythroxylum ulei,Erythroxylum,KNApSAcK
+47,C00002555,482-53-1,Osajin,C25H24O5,404.16237388,Erythroxylum ulei,Erythroxylum,KNApSAcK
+48,C00002562,572-03-2,Pomiferin,C25H24O6,420.1572885,Erythroxylum ulei,Erythroxylum,KNApSAcK
+49,C00002926,60976-49-0,Geraniin,C41H28O27,952.0817957,Erythroxylum coca,Erythroxylum,KNApSAcK
+50,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Erythroxylum ovalifolium,Erythroxylum,KNApSAcK
+51,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Erythroxylum rimosum,Erythroxylum,KNApSAcK
+52,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Erythroxylum passerinum,Erythroxylum,KNApSAcK
+53,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Erythroxylum subsessile,Erythroxylum,KNApSAcK
+54,C00003737,638-95-9,alpha-Amyrin,C30H50O,426.38616622,Erythroxylum coca,Erythroxylum,KNApSAcK
+55,C00003737,638-95-9,alpha-Amyrin,C30H50O,426.38616622,Erythroxylum rimosum,Erythroxylum,KNApSAcK
+56,C00003738,559-70-6,beta-Amyrin,C30H50O,426.38616622,Erythroxylum passerinum,Erythroxylum,KNApSAcK
+57,C00003738,559-70-6,beta-Amyrin,C30H50O,426.38616622,Erythroxylum rimosum,Erythroxylum,KNApSAcK
+58,C00003747,559-74-0,3-Friedelanone,C30H50O,426.38616622,Erythroxylum subsessile,Erythroxylum,KNApSAcK
+59,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Erythroxylum passerinum,Erythroxylum,KNApSAcK
+60,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Erythroxylum ovalifolium,Erythroxylum,KNApSAcK
+61,C00004565,520-18-3,Kaempferol,C15H10O6,286.04773805,Erythroxylum rimosum,Erythroxylum,KNApSAcK
+62,C00004579,528-48-3,Fisetin,C15H10O6,286.04773805,Erythroxylum coca,Erythroxylum,KNApSAcK
+63,C00004579,528-48-3,Fisetin,C15H10O6,286.04773805,Erythroxylum novogranatense,Erythroxylum,KNApSAcK
+64,C00004631,117-39-5,Quercetin,C15H10O7,302.04265268,Erythroxylum rimosum,Erythroxylum,KNApSAcK
+65,C00004631,117-39-5,Quercetin,C15H10O7,302.04265268,Erythroxylum ulei,Erythroxylum,KNApSAcK
+66,C00004631,117-39-5,Quercetin,C15H10O7,302.04265268,Erythroxylum ovalifolium,Erythroxylum,KNApSAcK
+67,C00004631,117-39-5,Quercetin,C15H10O7,302.04265268,Erythroxylum australe,Erythroxylum,KNApSAcK
+68,C00005132,5041-67-8,Juglanin,C20H18O10,418.0899968,Erythroxylum rimosum,Erythroxylum,KNApSAcK
+69,C00005140,482-39-3,Afzelin,C21H20O10,432.10564686,Erythroxylum subsessile,Erythroxylum,KNApSAcK
+70,C00005183,115404-54-1,Kaempferol 3-alpha-D-glucoside-7-rhamnoside,C27H30O15,594.15847029,Erythroxylum cuneifolium,Erythroxylum,KNApSAcK
+71,C00005189,482-38-2,Kaempferitrin,C27H30O14,578.16355567,Erythroxylum cuneifolium,Erythroxylum,KNApSAcK
+72,C00005370,6743-88-0,Reynoutrin,C20H18O11,434.08491142,Erythroxylum spp.,Erythroxylum,KNApSAcK
+73,C00005373,482-35-9,Hirsutrin,C21H20O12,464.09547611,Erythroxylum rimosum,Erythroxylum,KNApSAcK
+74,C00005374,522-12-3,Quercetin 3-O-alpha-L-rhamnoside,C21H20O11,448.10056148,Erythroxylum subsessile,Erythroxylum,KNApSAcK
+75,C00005374,522-12-3,Quercetin 3-O-alpha-L-rhamnoside,C21H20O11,448.10056148,Erythroxylum leal-costae,Erythroxylum,KNApSAcK
+76,C00005413,153-18-4,Quercetin 3-rutinoside,C27H30O16,610.15338491,Erythroxylum cambodianum,Erythroxylum,KNApSAcK
+77,C00005413,153-18-4,Quercetin 3-rutinoside,C27H30O16,610.15338491,Erythroxylum ovalifolium,Erythroxylum,KNApSAcK
+78,C00005431,17306-45-5,Quercetin-3-O-rhamnoside-7-O-glucoside,C27H30O16,610.15338491,Erythroxylum vacciniifolium,Erythroxylum,KNApSAcK
+79,C00005432,28638-13-3,"Quercetin 3,7-di-O-alpha-L-rhamnopyranoside",C27H30O15,594.15847029,Erythroxylum vacciniifolium,Erythroxylum,KNApSAcK
+80,C00005616,20188-85-6,Ombuoside,C29H34O16,638.18468504,Erythroxylum spp.,Erythroxylum,KNApSAcK
+81,C00005617,96400-43-0,Ombuin 3-rutinoside-5-glucoside,C35H44O21,800.23750847,Erythroxylum cuneifolium,Erythroxylum,KNApSAcK
+82,C00005617,96400-43-0,Ombuin 3-rutinoside-5-glucoside,C35H44O21,800.23750847,Erythroxylum argentinum,Erythroxylum,KNApSAcK
+83,C00006094,3681-99-0,Puerarin,C21H20O9,416.11073224,Erythroxylum ulei,Erythroxylum,KNApSAcK
+84,C00008843,103630-03-1,Catechin 3-O-alpha-L-rhamnoside,C21H24O10,436.13694699,Erythroxylum novogranatense,Erythroxylum,KNApSAcK
+85,C00009200,109194-84-5,3-O-alpha-L-Rhamnopyranosylcatechin-(4alpha->8)-catechin,C36H36O16,724.20033511,Erythroxylum novogranatense,Erythroxylum,KNApSAcK
+86,C00009380,486-66-8,Daidzein,C15H10O4,254.05790881,Erythroxylum ulei,Erythroxylum,KNApSAcK
+87,C00009392,40957-83-3,Glycitein,C16H12O5,284.06847349,Erythroxylum ulei,Erythroxylum,KNApSAcK
+88,C00009394,5908-63-4,Baptigenin,C15H10O6,286.04773805,Erythroxylum ulei,Erythroxylum,KNApSAcK
+89,C00009514,4449-55-2,Warangalone,C25H24O5,404.16237388,Erythroxylum ulei,Erythroxylum,KNApSAcK
+90,C00009522,60297-37-2,Auriculasin,C25H24O6,420.1572885,Erythroxylum ulei,Erythroxylum,KNApSAcK
+91,C00009909,113023-68-0,Garhwalin,C19H12O6,336.06338812,Erythroxylum ulei,Erythroxylum,KNApSAcK
+92,C00009945,139051-61-9,Senegalensin,C25H26O6,422.17293856,Erythroxylum ulei,Erythroxylum,KNApSAcK
+93,C00013687,173615-24-2,6-Hydroxyluteolin 6-rhamnoside,C21H20O11,448.10056148,Erythroxylum leal-costae,Erythroxylum,KNApSAcK
+94,C00013699,173615-23-1,Hypolaetin 8-rhamnoside,C21H20O11,448.10056148,Erythroxylum leal-costae,Erythroxylum,KNApSAcK
+95,C00019065,545-48-2,Erythrodiol,C30H50O2,442.38108084,Erythroxylum passerinum,Erythroxylum,KNApSAcK
+96,C00019068,166375-17-3,Laburnetin,C20H18O6,354.11033831,Erythroxylum ulei,Erythroxylum,KNApSAcK
+97,C00019079,714951-96-9,Scanderone,C25H24O5,404.16237388,Erythroxylum ulei,Erythroxylum,KNApSAcK
+98,C00025552,19145-60-9,3alpha-Benzoyloxytropane,C15H19NO2,245.14157886,Erythroxylum argentinum O.E.Schulz,Erythroxylum,KNApSAcK
+99,C00025552,19145-60-9,3alpha-Benzoyloxytropane,C15H19NO2,245.14157886,Erythroxylum coca,Erythroxylum,KNApSAcK
+100,C00025552,19145-60-9,3alpha-Benzoyloxytropane,C15H19NO2,245.14157886,Erythroxylum hypericifolium Lam.,Erythroxylum,KNApSAcK
+101,C00025552,19145-60-9,3alpha-Benzoyloxytropane,C15H19NO2,245.14157886,Erythroxylum sideroxyloides Lam.,Erythroxylum,KNApSAcK
+102,C00025552,19145-60-9,3alpha-Benzoyloxytropane,C15H19NO2,245.14157886,Erythroxylum novogranatense,Erythroxylum,KNApSAcK
+103,C00025552,19145-60-9,3alpha-Benzoyloxytropane,C15H19NO2,245.14157886,Erythroxylum ellipticum R.Br.,Erythroxylum,KNApSAcK
+104,C00025555,1690-22-8,3alpha-Phenylacetoxytropane,C16H21NO2,259.15722892,Erythroxylum dekindtii (Engl.)O.E.Schultz,Erythroxylum,KNApSAcK
+105,C00025555,1690-22-8,3alpha-Phenylacetoxytropane,C16H21NO2,259.15722892,Erythroxylum pervillei,Erythroxylum,KNApSAcK
+106,C00025555,1690-22-8,3alpha-Phenylacetoxytropane,C16H21NO2,259.15722892,Erythroxylum hypericifolium Lam.,Erythroxylum,KNApSAcK
+107,C00025558,439791-50-1,3-Phenylacetoxynortropane,C15H19NO3,261.13649348,Erythroxylum hypericifolium Lam.,Erythroxylum,KNApSAcK
+108,C00029329,54835-70-0,"(6S,9R)-Roseoside",C19H30O8,386.19406794,Erythroxylum cuneatum,Erythroxylum,KNApSAcK
+109,C00029691,43021-26-7,Anhydroecgonine methyl ester,C10H15NO2,181.11027873,Erythroxylum emarginatum,Erythroxylum,KNApSAcK
+110,C00029980,120330-44-1,Citroside A,C19H30O8,386.19406794,Erythroxylum cuneatum,Erythroxylum,KNApSAcK
+111,C00031776,862885-01-6,Erythroxyloside B,C21H30O13,490.16864105,Erythroxylum cambodianum,Erythroxylum,KNApSAcK
+112,C00031777,862885-00-5,Erythroxyloside A,C20H28O13,476.15299098,Erythroxylum cambodianum,Erythroxylum,KNApSAcK
+113,C00034668,946569-94-4,Ryanodanol,C20H32O7,384.21480338,Erythroxylum passerinum,Erythroxylum,KNApSAcK
+114,C00035885,552-63-6,Tropic acid,C9H10O3,166.06299419,Erythroxylum australe,Erythroxylum,KNApSAcK
+115,C00036530,111534-75-9,"3alpha-(3,4,5-Trimethoxybenzoyloxy)nortropan-6beta-ol",C17H23NO6,337.15253747,Erythroxylum zambesiacum,Erythroxylum,KNApSAcK
+116,C00036531,111509-21-8,"3alpha-(3,4,5-Trimethoxybenzoyloxy)nortropane",C17H23NO5,321.15762285,Erythroxylum zambesiacum,Erythroxylum,KNApSAcK
+117,C00037053,58131-40-1,Dihydrocuscohygrine,C13H26N2O,226.20451347,Erythroxylum cataractarum,Erythroxylum,KNApSAcK
+118,C00037053,58131-40-1,Dihydrocuscohygrine,C13H26N2O,226.20451347,Erythroxylum coca,Erythroxylum,KNApSAcK
+119,C00037053,58131-40-1,Dihydrocuscohygrine,C13H26N2O,226.20451347,Erythroxylum novogranatense,Erythroxylum,KNApSAcK
+120,C00037120,263717-19-7,Erythrozeylanine A,C20H27NO7,393.17875222,Erythroxylum zeylanicum O.E.,Erythroxylum,KNApSAcK
+121,C00037121,185344-70-1,Erythrozeylanine B,C17H21NO2,271.15722892,Erythroxylum zeylanicum O.E.,Erythroxylum,KNApSAcK
+122,C00037122,263717-20-0,Erythrozeylanine C,C19H23NO4,329.16270823,Erythroxylum zeylanicum O.E.,Erythroxylum,KNApSAcK
+123,C00041443,876313-94-9,cis-Pervilleine B,C30H37NO10,571.24174641,Erythroxylum pervillei,Erythroxylum,KNApSAcK
+124,C00041444,876313-95-0,cis-Pervilleine F,C28H33NO7,495.22570242,Erythroxylum pervillei,Erythroxylum,KNApSAcK
+125,C00041741,356758-74-2,Pervilleine A,C30H37NO11,587.23666103,Erythroxylum pervilei,Erythroxylum,KNApSAcK
+126,C00041741,356758-74-2,Pervilleine A,C30H37NO11,587.23666103,Erythroxylum pervillei,Erythroxylum,KNApSAcK
+127,C00041742,392232-04-1,Pervilleine A N-oxide,C30H37NO12,603.23157566,Erythroxylum pervillei,Erythroxylum,KNApSAcK
+128,C00041743,392232-07-4,Pervilleine B,C30H37NO10,571.24174641,Erythroxylum pervillei,Erythroxylum,KNApSAcK
+129,C00041744,392232-10-9,Pervilleine C,C32H39NO10,597.25739647,Erythroxylum pervillei,Erythroxylum,KNApSAcK
+130,C00041745,392232-13-2,Pervilleine D,C32H39NO11,613.2523111,Erythroxylum pervillei,Erythroxylum,KNApSAcK
+131,C00041746,392232-16-5,Pervilleine E,C28H33NO8,511.22061704,Erythroxylum pervillei,Erythroxylum,KNApSAcK
+132,C00041747,392232-17-6,Pervilleine F,C28H33NO7,495.22570242,Erythroxylum pervillei,Erythroxylum,KNApSAcK
+133,C00041748,876313-92-7,Pervilleine G,C20H27NO6,377.1838376,Erythroxylum pervillei,Erythroxylum,KNApSAcK
+134,C00041749,876313-93-8,Pervilleine H,C20H27NO7,393.17875222,Erythroxylum pervillei,Erythroxylum,KNApSAcK
+135,C00042169,864962-33-4,7alpha-Hydroxycatuabine H,C14H20N2O4,280.14230714,Erythroxylum vacciniifolium,Erythroxylum,KNApSAcK
+136,C00042172,864962-32-3,7beta-Hydroxycatuabine H,C14H20N2O4,280.14230714,Erythroxylum vacciniifolium,Erythroxylum,KNApSAcK
+137,C00042173,864962-35-6,7beta-Hydroxycatuabine I,C14H20N2O4,280.14230714,Erythroxylum vacciniifolium,Erythroxylum,KNApSAcK
+138,C00042349,864962-38-9,Catuabine E N-oxide,C20H25N3O5,387.17942093,Erythroxylum vacciniifolium,Erythroxylum,KNApSAcK
+139,C00042350,864962-30-1,Catuabine H,C14H20N2O3,264.14739252,Erythroxylum vacciniifolium,Erythroxylum,KNApSAcK
+140,C00042351,864962-34-5,Catuabine I,C14H20N2O3,264.14739252,Erythroxylum vacciniifolium,Erythroxylum,KNApSAcK
+141,C00043099,864962-36-7,Vaccinine A,C14H20N2O3,264.14739252,Erythroxylum vacciniifolium,Erythroxylum,KNApSAcK
+142,C00043100,864962-37-8,Vaccinine B,C14H20N2O3,264.14739252,Erythroxylum vacciniifolium,Erythroxylum,KNApSAcK
+143,C00044479,526217-17-4,7beta-Acetylcatuabine E,C22H27N3O6,429.18998562,Erythroxylum vacciniifolium,Erythroxylum,KNApSAcK
+144,C00044480,526217-11-8,7beta-Hydroxycatuabine D,C19H23N3O5,373.16377087,Erythroxylum vacciniifolium,Erythroxylum,KNApSAcK
+145,C00044481,526217-15-2,7beta-Hydroxycatuabine E,C20H25N3O5,387.17942093,Erythroxylum vacciniifolium,Erythroxylum,KNApSAcK
+146,C00044482,526217-19-6,7beta-Hydroxycatuabine F,C23H28N2O8,460.18456589,Erythroxylum vacciniifolium,Erythroxylum,KNApSAcK
+147,C00044617,526217-09-4,Catuabine D,C19H23N3O4,357.16885625,Erythroxylum vacciniifolium,Erythroxylum,KNApSAcK
+148,C00044618,526217-13-0,Catuabine E,C20H25N3O4,371.18450631,Erythroxylum vacciniifolium,Erythroxylum,KNApSAcK
+149,C00044619,526217-18-5,Catuabine F,C23H28N2O7,444.18965126,Erythroxylum vacciniifolium,Erythroxylum,KNApSAcK
+150,C00044620,526217-20-9,Catuabine G,C16H21NO5,307.14197279,Erythroxylum vacciniifolium,Erythroxylum,KNApSAcK
+151,C00045240,5973-06-8,beta-Amyrin 3-palmitate,C46H80O2,664.6158318,Erythroxylum passerinum,Erythroxylum,KNApSAcK
+152,C00049233,211444-30-3,Mooniine A,C36H44N2O6,600.31993715,Erythroxylum moonii,Erythroxylum,KNApSAcK
+153,C00049234,211444-31-4,Mooniine B,C36H44N2O6,600.31993715,Erythroxylum moonii,Erythroxylum,KNApSAcK
+154,C00051754,7143-09-1,Methylecgonine,C10H17NO3,199.12084342,Erythroxylum coca,Erythroxylum,KNApSAcK
+155,C00051754,7143-09-1,Methylecgonine,C10H17NO3,199.12084342,Erythroxylum novogranatense,Erythroxylum,KNApSAcK
+156,C00052273,480-57-9,Erythrin,C20H22O10,422.12129692,Erythroxylum ulei,Erythroxylum,KNApSAcK
+157,C00063604,102488-02-8,3alpha-Benzoyloxynortropan-6beta-ol,C14H17NO3,247.12084342,Erythroxylum subsessile,Erythroxylum,KNApSAcK
+158,C00063790,131669-97-1,Inamoside,C19H30O8,386.19406794,Erythroxylum cuneatum,Erythroxylum,KNApSAcK
+159,C00064064,18470-33-2,Nortropacocaine,C14H17NO2,231.12592879,Erythroxylum mamacoca,Erythroxylum,KNApSAcK
+160,C00064300,358721-34-3,Apocynol B,C13H20O4,240.13615913,Erythroxylum cuneatum,Erythroxylum,KNApSAcK
+161,C00064354,490-15-3,beta-Truxilline,C38H46N2O8,658.32541646,Erythroxylum novogranatense,Erythroxylum,KNApSAcK
+162,C00064354,490-15-3,beta-Truxilline,C38H46N2O8,658.32541646,Erythroxylum coca,Erythroxylum,KNApSAcK
+163,C00064355,490-17-5,alpha-Truxilline,C38H46N2O8,658.32541646,Erythroxylum coca,Erythroxylum,KNApSAcK
+164,C00064355,490-17-5,alpha-Truxilline,C38H46N2O8,658.32541646,Erythroxylum novogranatense,Erythroxylum,KNApSAcK
+165,C00064367,50763-20-7,trans-Cinnamoylcocaine,C19H23NO4,329.16270823,Erythroxylum coca,Erythroxylum,KNApSAcK
+166,C00064368,50763-21-8,cis-Cinnamoylcocaine,C19H23NO4,329.16270823,Erythroxylum coca,Erythroxylum,KNApSAcK
+167,C00064467,65636-83-1,3alpha-Tigloyloxytropan-6beta-ol,C12H19NO3,225.13649348,Erythroxylum australe,Erythroxylum,KNApSAcK
+168,C00064515,734512-88-0,3alpha-Benzoyloxytropan-6beta-ol,C15H19NO3,261.13649348,Erythroxylum sideroxyloides,Erythroxylum,KNApSAcK
+0,C00000218,6894-38-8,(-)-Jasmonic acid,C12H18O3,210.12559444,Ficus superba,Ficus,KNApSAcK
+1,C00000219,1211-29-6,Methyl jasmonate,C13H20O3,224.1412445,Ficus superba,Ficus,KNApSAcK
+2,C00000297,66-97-7,Ficusin,C11H6O3,186.03169406,Ficus simplicissima,Ficus,KNApSAcK
+3,C00000297,66-97-7,Ficusin,C11H6O3,186.03169406,Ficus hirta,Ficus,KNApSAcK
+4,C00000297,66-97-7,Ficusin,C11H6O3,186.03169406,Ficus arica,Ficus,KNApSAcK
+5,C00000297,66-97-7,Ficusin,C11H6O3,186.03169406,Ficus sycomorus,Ficus,KNApSAcK
+6,C00000297,66-97-7,Ficusin,C11H6O3,186.03169406,Ficus carica,Ficus,KNApSAcK
+7,C00000550,480-33-1,(R)-(-)-Mellein,C10H10O3,178.06299419,Ficus formosana,Ficus,KNApSAcK
+8,C00000575,484-20-8,5-Methoxypsoralen,C12H8O4,216.04225874,Ficus carica,Ficus,KNApSAcK
+9,C00000575,484-20-8,5-Methoxypsoralen,C12H8O4,216.04225874,Ficus sycomorus,Ficus,KNApSAcK
+10,C00000575,484-20-8,5-Methoxypsoralen,C12H8O4,216.04225874,Ficus palmata,Ficus,KNApSAcK
+11,C00000575,484-20-8,5-Methoxypsoralen,C12H8O4,216.04225874,Ficus eriobotryoides,Ficus,KNApSAcK
+12,C00000575,484-20-8,5-Methoxypsoralen,C12H8O4,216.04225874,Ficus bengalensis,Ficus,KNApSAcK
+13,C00000583,482-27-9,Isopimpinellin,C13H10O5,246.05282343,Ficus cunninghamii,Ficus,KNApSAcK
+14,C00000584,13849-08-6,(+)-Marmesin,C14H14O4,246.08920894,Ficus eriobotryoides,Ficus,KNApSAcK
+15,C00000584,13849-08-6,(+)-Marmesin,C14H14O4,246.08920894,Ficus sycomorus,Ficus,KNApSAcK
+16,C00000584,13849-08-6,(+)-Marmesin,C14H14O4,246.08920894,Ficus cunninghamii,Ficus,KNApSAcK
+17,C00000584,13849-08-6,(+)-Marmesin,C14H14O4,246.08920894,Ficus carica,Ficus,KNApSAcK
+18,C00000674,491-70-3,"5,7,3',4'-Tetrahydroxyflavone",C15H10O6,286.04773805,Ficus cordata,Ficus,KNApSAcK
+19,C00000677,480-18-2,Dihydroquercetin,C15H12O7,304.05830274,Opuntia ficus-indica var.saboten,Ficus,KNApSAcK
+20,C00000970,520-26-3,Hesperidin,C28H34O15,610.18977042,Ficus beecheyana,Ficus,KNApSAcK
+21,C00001105,481-53-8,Tangeretin,C20H20O7,372.12090299,Ficus beecheyana,Ficus,KNApSAcK
+22,C00001183,110-17-8,Fumaric acid,C4H4O4,116.01095862,Ficus carica,Ficus,KNApSAcK
+23,C00001357,59-92-7,"3,4-Dihydroxyphenylalanine",C9H11NO4,197.06880785,Opuntia ficus-indica,Ficus,KNApSAcK
+24,C00001408,51-61-6,Dopamine,C8H11NO2,153.0789786,Opuntia ficus-indica,Ficus,KNApSAcK
+25,C00001419,54-04-6,Mescaline,C11H17NO3,211.12084342,Opuntia ficus-indica,Ficus,KNApSAcK
+26,C00001513,66-22-8,Uracil,C4H4N2O2,112.02727739,Ficus septica,Ficus,KNApSAcK
+27,C00001583,2181-76-2,Betanidin,C18H16N2O8,388.0906655,Opuntia ficus-indica,Ficus,KNApSAcK
+28,C00001584,7659-95-2,Betanin,C24H26N2O13,550.14348893,Opuntia ficus-indica,Ficus,KNApSAcK
+29,C00001587,71199-31-0,DOPA-betaxanthin,C18H18N2O8,390.10631557,Opuntia ficus-indica,Ficus,KNApSAcK
+30,C00001591,2181-75-1,Indicaxanthin,C14H16N2O6,308.10083626,Opuntia ficus-indica,Ficus,KNApSAcK
+31,C00001593,15121-53-6,Isobetanin,C24H26N2O13,550.14348893,Opuntia ficus-indica,Ficus,KNApSAcK
+32,C00001601,81943-08-0,Musca-aurin VII,C15H16N4O6,348.10698427,Opuntia ficus-indica,Ficus,KNApSAcK
+33,C00001604,135545-98-1,Tyrosine-betaxanthin,C18H18N2O7,374.11140095,Opuntia ficus-indica,Ficus,KNApSAcK
+34,C00002339,2520-36-7,Ficine,C20H19NO4,337.1314081,Ficus pantoniana,Ficus,KNApSAcK
+35,C00002346,2255-62-1,Isoficine,C20H19NO4,337.1314081,Ficus pantoniana,Ficus,KNApSAcK
+36,C00002367,482-20-2,Tylophorine,C24H27NO4,393.19400836,Ficus septica,Ficus,KNApSAcK
+37,C00002374,7084-24-4,Cyanidin 3-O-glucoside,C21H21O11.Cl,484.07723923,Ficus carica,Ficus,KNApSAcK
+38,C00002450,523-50-2,Angelicin,C11H6O3,186.03169406,Ficus nitida,Ficus,KNApSAcK
+39,C00002460,91-64-5,Coumarin,C9H6O2,146.03677944,Ficus simplicissima,Ficus,KNApSAcK
+40,C00002472,531-75-9,Aesculin,C15H16O9,340.07943211,Ficus septica,Ficus,KNApSAcK
+41,C00002476,531-59-9,Herniarin,C10H8O3,176.04734412,Ficus cunninghamii,Ficus,KNApSAcK
+42,C00002503,93-35-6,Umbelliferone,C9H6O3,162.03169406,Ficus cunninghamii,Ficus,KNApSAcK
+43,C00002503,93-35-6,Umbelliferone,C9H6O3,162.03169406,Ficus carica,Ficus,KNApSAcK
+44,C00002512,32884-36-9,Cajanin,C16H12O6,300.06338812,Ficus nymphaeifolia,Ficus,KNApSAcK
+45,C00002526,446-72-0,Genistein,C15H10O5,270.05282343,Ficus septica,Ficus,KNApSAcK
+46,C00002526,446-72-0,Genistein,C15H10O5,270.05282343,Ficus nymphaeifolia,Ficus,KNApSAcK
+47,C00002526,446-72-0,Genistein,C15H10O5,270.05282343,Ficus cordata,Ficus,KNApSAcK
+48,C00002528,529-59-9,Genistein 7-O-glucoside,C21H20O10,432.10564686,Ficus septica,Ficus,KNApSAcK
+49,C00002682,121-34-6,Vanillic acid,C8H8O4,168.04225874,Ficus septica,Ficus,KNApSAcK
+50,C00002743,1135-24-6,Ferulic acid,C10H10O4,194.05790881,Opuntia ficus-indica var.saboten,Ficus,KNApSAcK
+51,C00002981,477-90-7,Bergenin,C14H16O9,328.07943211,Ficus racemosa,Ficus,KNApSAcK
+52,C00002981,477-90-7,Bergenin,C14H16O9,328.07943211,Ficus microcarpa,Ficus,KNApSAcK
+53,C00003558,77-52-1,Ursolic acid,C30H48O3,456.3603454,Ficus microcarpa,Ficus,KNApSAcK
+54,C00003661,1449-09-8,24-Methylenecycloartan-3beta-ol,C31H52O,440.40181628,Ficus carica,Ficus,KNApSAcK
+55,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Ficus eriobotryoides,Ficus,KNApSAcK
+56,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Ficus palmata,Ficus,KNApSAcK
+57,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Ficus septica,Ficus,KNApSAcK
+58,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Ficus bengalensis,Ficus,KNApSAcK
+59,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Ficus carica,Ficus,KNApSAcK
+60,C00003674,83-48-7,beta-Stigmasterol,C29H48O,412.37051615,Ficus hirta,Ficus,KNApSAcK
+61,C00003674,83-48-7,beta-Stigmasterol,C29H48O,412.37051615,Ficus septica,Ficus,KNApSAcK
+62,C00003737,638-95-9,alpha-Amyrin,C30H50O,426.38616622,Ficus variegata,Ficus,KNApSAcK
+63,C00003738,559-70-6,beta-Amyrin,C30H50O,426.38616622,Ficus eriobotryoides,Ficus,KNApSAcK
+64,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Ficus rasemosa,Ficus,KNApSAcK
+65,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Ficus carica,Ficus,KNApSAcK
+66,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Ficus microcarpa,Ficus,KNApSAcK
+67,C00003755,111-02-4,All-trans-squalene,C30H50,410.39125159,Ficus septica,Ficus,KNApSAcK
+68,C00003817,520-36-5,Apigenin,C15H10O5,270.05282343,Ficus hirta,Ficus,KNApSAcK
+69,C00003817,520-36-5,Apigenin,C15H10O5,270.05282343,Ficus formosana,Ficus,KNApSAcK
+70,C00003841,1168-42-9,"Scutellarein 5,6,7,4'-tetramethyl ether",C19H18O6,342.11033831,Ficus altissima,Ficus,KNApSAcK
+71,C00003912,17290-70-9,Isosinensetin,C20H20O7,372.12090299,Ficus altissima,Ficus,KNApSAcK
+72,C00003918,53350-26-8,"5,7,3',4',5'-Pentamethoxyflavone",C20H20O7,372.12090299,Ficus maxima,Ficus,KNApSAcK
+73,C00004006,89029-10-7,"5,6,7,3'-Tetramethoxy-4',5'-methylenedioxyflavone",C20H18O8,386.10016755,Ficus maxima,Ficus,KNApSAcK
+74,C00004226,137182-32-2,Scutellarein 6-rhamnosyl-(1->2)-galactoside,C27H30O15,594.15847029,Ficus infectoria,Ficus,KNApSAcK
+75,C00004390,132391-78-7,6-Hydroxyluteolin 6-glucoside-3'-rhamnoside,C27H30O16,610.15338491,Ficus infectoria,Ficus,KNApSAcK
+76,C00004632,1486-70-0,3-O-Methylquercetin,C16H12O7,316.05830274,Opuntia ficus-indica var.saboten,Ficus,KNApSAcK
+77,C00004712,479-90-3,Artemetin,C20H20O8,388.11581762,Ficus altissima,Ficus,KNApSAcK
+78,C00004778,14813-27-5,Myricetin hexamethyl ether,C21H22O8,402.13146768,Ficus altissima,Ficus,KNApSAcK
+79,C00005137,23627-87-4,Kaempferol 3-O-galactoside,C21H20O11,448.10056148,Opuntia ficus-indica var.saboten,Ficus,KNApSAcK
+80,C00005149,16290-07-6,Kaempferol 7-O-beta-D-glucopyranoside,C21H20O11,448.10056148,Opuntia ficus-indica var.saboten,Ficus,KNApSAcK
+81,C00005189,482-38-2,Kaempferitrin,C27H30O14,578.16355567,Ficus septica,Ficus,KNApSAcK
+82,C00005373,482-35-9,Hirsutrin,C21H20O12,464.09547611,Ficus ruficaulis,Ficus,KNApSAcK
+83,C00005413,153-18-4,Quercetin 3-rutinoside,C27H30O16,610.15338491,Ficus carica,Ficus,KNApSAcK
+84,C00005413,153-18-4,Quercetin 3-rutinoside,C27H30O16,610.15338491,Ficus pumila,Ficus,KNApSAcK
+85,C00005413,153-18-4,Quercetin 3-rutinoside,C27H30O16,610.15338491,Ficus ruficaulis Merr.var.antaoensis,Ficus,KNApSAcK
+86,C00005525,5041-82-7,Isorhamnetin 3-O-beta-D-glucopyranoside,C22H22O12,478.11112617,Opuntia ficus-indica var.saboten,Ficus,KNApSAcK
+87,C00005547,55033-90-4,Isorhamnetin 3-O-neohesperidoside,C28H32O16,624.16903498,Opuntia ficus-indica var.saboten,Ficus,KNApSAcK
+88,C00005584,111393-97-6,Isorhamnetin 3-O-rutinosyl-4'-O-beta-D-glucoside,C34H42O21,786.22185841,Opuntia ficus-indica var.saboten,Ficus,KNApSAcK
+89,C00006631,56190-03-5,Pelargonidin 3-rhamnoside,C21H21O9,417.11855727,Ficus sp.,Ficus,KNApSAcK
+90,C00008171,55051-77-9,Isoglabranin,C20H20O4,324.13615913,Ficus formosana,Ficus,KNApSAcK
+91,C00008367,56486-94-3,Norartocarpanone,C15H12O6,288.06338812,Ficus formosana,Ficus,KNApSAcK
+92,C00008431,69640-77-3,Obovatin,C20H18O4,322.12050906,Ficus formosana,Ficus,KNApSAcK
+93,C00008805,24808-04-6,(-)-Epiafzelechin,C15H14O5,274.08412356,Ficus cordata,Ficus,KNApSAcK
+94,C00009457,32884-35-8,2'-Hydroxybiochanin A,C16H12O6,300.06338812,Ficus nymphaeifolia,Ficus,KNApSAcK
+95,C00009492,34086-50-5,Alpinumisoflavone,C20H16O5,336.09977362,Ficus cordata,Ficus,KNApSAcK
+96,C00009492,34086-50-5,Alpinumisoflavone,C20H16O5,336.09977362,Ficus nymphaeifolia,Ficus,KNApSAcK
+97,C00009493,76166-59-1,Derrone,C20H16O5,336.09977362,Ficus nymphaeifolia,Ficus,KNApSAcK
+98,C00009501,63807-85-2,Erythrinin C,C20H18O6,354.11033831,Ficus nymphaeifolia,Ficus,KNApSAcK
+99,C00013424,194735-90-5,"2-[3,5-Dimethoxy-4-[(3-methyl-2-butenyl)oxy]phenyl]-5,6,7-trimethoxy-4H-1-benzopyran-4-one",C25H28O8,456.17841787,Ficus maxima,Ficus,KNApSAcK
+100,C00013432,57498-96-1,Carpachromene,C20H16O5,336.09977362,Ficus formosana,Ficus,KNApSAcK
+101,C00018199,68567-60-2,Lonomycin B,C44H76O14,828.52350714,Streptomyces ribosidificus TM-481,Ficus,KNApSAcK
+102,C00018200,68537-50-8,Lonomycin C,C43H74O14,814.50785707,Streptomyces ribosidificus TM-481,Ficus,KNApSAcK
+103,C00018782,25546-65-0,Antibiotic SF 733,C17H34N4O10,454.22749334,Streptomyces ribosidificus nov. sp. SF-733,Ficus,KNApSAcK
+104,C00019007,186415-86-1,Ficuisoflavone,C20H18O6,354.11033831,Ficus microcarpa,Ficus,KNApSAcK
+105,C00019068,166375-17-3,Laburnetin,C20H18O6,354.11033831,Ficus chlamydocarpa,Ficus,KNApSAcK
+106,C00019068,166375-17-3,Laburnetin,C20H18O6,354.11033831,Ficus cordata,Ficus,KNApSAcK
+107,C00019253,186415-87-2,Isolupinisoflavone E,C25H26O7,438.16785319,Ficus microcarpa,Ficus,KNApSAcK
+108,C00019279,173429-83-9,Ficusin A,C25H24O5,404.16237388,Ficus septica,Ficus,KNApSAcK
+109,C00019280,173429-84-0,Ficusin B,C25H24O6,420.1572885,Ficus septica,Ficus,KNApSAcK
+110,C00019308,474-58-8,3-O-beta-D-Glucopyranosyl sitosterol,C35H60O6,576.43898965,Ficus septica,Ficus,KNApSAcK
+111,C00029502,645-08-9,3-Hydroxy-4-methoxybenzoic acid,C8H8O4,168.04225874,Ficus microcarpa,Ficus,KNApSAcK
+112,C00029633,7372-30-7,Acetylursolic acid,C32H50O4,498.37091008,Ficus microcarpa,Ficus,KNApSAcK
+113,C00029812,4304-12-5,Benzyl beta-D-glucopyranoside,C13H18O6,270.11033831,Ficus pumila,Ficus,KNApSAcK
+114,C00030204,857249-88-8,Erycibenin A,C20H20O7,372.12090299,Ficus nymphaeifolia,Ficus,KNApSAcK
+115,C00031106,905954-17-8,Psoralenoside,C17H18O9,366.09508217,Ficus carica,Ficus,KNApSAcK
+116,C00031160,156258-68-3,Rhoiptelenol,C30H40O,416.3079159,Ficus thunbergii,Ficus,KNApSAcK
+117,C00031786,220796-95-2,Ficusol,C11H14O5,226.08412356,Ficus microcarpa,Ficus,KNApSAcK
+118,C00031793,5085-72-3,Friedelanol,C30H52O,428.40181628,Ficus nitida,Ficus,KNApSAcK
+119,C00032465,6246-46-4,Ursonic acid,C30H46O3,454.34469533,Ficus microcarpa,Ficus,KNApSAcK
+120,C00032624,348608-17-3,27-Nor-3beta-hydroxy-25-oxocycloartane,C29H48O2,428.36543078,Ficus microcarpa,Ficus,KNApSAcK
+121,C00032642,5563-70-2,"3beta,11alpha-Diacetoxy-12-ursene",C34H54O4,526.40221021,Ficus microcarpa L.f.,Ficus,KNApSAcK
+122,C00032643,278181-61-6,3beta-Acetoxy-11alpha-hydroperoxy-12-ursene,C32H52O4,500.38656015,Ficus microcarpa L.f.,Ficus,KNApSAcK
+123,C00032644,5356-55-8,3beta-Acetoxy-11alpha-hydroxy-12-oleanene,C32H52O3,484.39164553,Ficus microcarpa L.f.,Ficus,KNApSAcK
+124,C00032977,321991-55-3,Ficusal,C18H18O6,330.11033831,Ficus microcarpa L.f.,Ficus,KNApSAcK
+125,C00032978,321991-56-4,Ficusesquilignan A,C31H36O11,584.22576199,Ficus microcarpa L.f.,Ficus,KNApSAcK
+126,C00032979,321991-57-5,Ficusesquilignan B,C31H36O11,584.22576199,Ficus microcarpa L.f.,Ficus,KNApSAcK
+127,C00032980,321991-58-6,Ficusolide diacetate,C15H24O6,300.1572885,Ficus microcarpa L.f.,Ficus,KNApSAcK
+128,C00033323,152340-04-0,Pumilaside A,C21H38O8,418.25666819,Ficus pumila,Ficus,KNApSAcK
+129,C00033324,260405-85-4,Pumilaside B,C21H36O7,400.2461035,Ficus pumila,Ficus,KNApSAcK
+130,C00033325,260405-86-5,Pumilaside C,C21H36O7,400.2461035,Ficus pumila,Ficus,KNApSAcK
+131,C00034185,36413-60-2,Quinic acid,C7H12O6,192.06338812,Ficus carica,Ficus,KNApSAcK
+132,C00034988,850354-51-7,"(6R)-9,10-Dihydroxy-4,7-megastigmadien-3-one-9-O-beta-D-glucopyranoside",C19H30O8,386.19406794,Opuntia ficus-indica var.saboten,Ficus,KNApSAcK
+133,C00035133,67884-27-9,n-Butyl-beta-D-fructopyranoside,C10H20O6,236.12598837,Opuntia ficus-indica var.saboten,Ficus,KNApSAcK
+134,C00035167,26560-14-5,Zataroside A,C15H24,204.18780077,Opuntia ficus-indica var.saboten,Ficus,KNApSAcK
+135,C00035185,340026-82-6,(20S)-3beta-Acetoxy-20-hydroperoxy-30-norlupane,C31H52O4,488.38656015,Ficus microcarpa,Ficus,KNApSAcK
+136,C00035186,105645-77-0,(20S)-3beta-Acetoxylupan-29-oic acid,C32H52O4,500.38656015,Ficus microcarpa,Ficus,KNApSAcK
+137,C00035194,863319-21-5,"10R,13aR-Tylocrebrine N-oxide",C24H27NO5,409.18892298,Ficus septica,Ficus,KNApSAcK
+138,C00035195,863319-20-4,"10R,13aR-Tylophorine N-oxide",C24H27NO5,409.18892298,Ficus septica,Ficus,KNApSAcK
+139,C00035196,314744-17-7,"10S,13aR-antofine N-oxide",C23H25NO4,379.17835829,Ficus septica,Ficus,KNApSAcK
+140,C00035197,863319-23-7,"10S,13aR-Isotylocrebrine N-oxide",C24H23NO5,405.15762285,Ficus septica,Ficus,KNApSAcK
+141,C00035198,863319-22-6,"10S,13aR-Tylocrebrine N-oxide",C24H27NO5,409.18892298,Ficus septica,Ficus,KNApSAcK
+142,C00035199,863319-25-9,"10S,13aR-Tylophorine N-oxide",C24H27NO5,409.18892298,Ficus septica,Ficus,KNApSAcK
+143,C00035200,863319-24-8,"10S,13aS-Isotylocrebrine N-oxide",C24H27NO5,409.18892298,Ficus septica,Ficus,KNApSAcK
+144,C00035212,33900-74-2,"2,3-Dihydroxy-1-(4-hydroxy-3,5-dimethoxyphenyl)-1-propanone",C11H14O6,242.07903818,Ficus beecheyana,Ficus,KNApSAcK
+145,C00035218,54781-87-2,2-Demethoxytylophorine,C23H25NO3,363.18344367,Ficus septica,Ficus,KNApSAcK
+146,C00035221,340026-79-1,"3beta-Acetoxy-12beta,13beta-epoxy-11alpha-hydroperoxyursane",C32H52O5,516.38147477,Ficus microcarpa,Ficus,KNApSAcK
+147,C00035222,340026-83-7,3beta-Acetoxy-18alpha-hydroperoxy-12-oleanen-11-one,C32H50O5,514.36582471,Ficus microcarpa,Ficus,KNApSAcK
+148,C00035223,340026-81-5,"3beta-Acetoxy-1beta,11alpha-epidioxy-12-ursene",C32H50O4,498.37091008,Ficus microcarpa,Ficus,KNApSAcK
+149,C00035226,7535-48-0,"4',5'-Dihydropsoralen",C11H18O3,198.12559444,Ficus carica,Ficus,KNApSAcK
+150,C00035242,10376-50-8,3-O-Acetylbetulinic acid,C32H50O4,498.37091008,Ficus microcarpa,Ficus,KNApSAcK
+151,C00035244,32671-82-2,Antofine,C23H25NO3,363.18344367,Ficus septica,Ficus,KNApSAcK
+152,C00035252,6466-94-0,Bauerenol,C30H50O,426.38616622,Ficus carica,Ficus,KNApSAcK
+153,C00035253,4481-62-3,Betulonic acid,C30H46O3,454.34469533,Ficus microcarpa,Ficus,KNApSAcK
+154,C00035289,52936-55-7,Dehydrotylophorine,C24H24NO4,390.17053326,Ficus septica,Ficus,KNApSAcK
+155,C00035306,468094-65-7,"erythro-2,3-Bis(4-hydroxy-3-methoxyphenyl)-3-ethoxypropan-1-ol",C19H24O6,348.1572885,Ficus beecheyana,Ficus,KNApSAcK
+156,C00035308,888317-55-3,Ficuformodiol A,C15H14O5,274.08412356,Ficus formosana,Ficus,KNApSAcK
+157,C00035309,888317-57-5,Ficuformodiol B,C15H14O5,274.08412356,Ficus formosana,Ficus,KNApSAcK
+158,C00035310,503534-36-9,Ficuseptine A,C25H29NO7,455.19440229,Ficus septica,Ficus,KNApSAcK
+159,C00035311,863323-92-6,Ficuseptine B,C23H23NO4,377.16270823,Ficus septica,Ficus,KNApSAcK
+160,C00035312,863323-93-7,Ficuseptine C,C22H21NO3,347.15214354,Ficus septica,Ficus,KNApSAcK
+161,C00035313,863323-94-8,Ficuseptine D,C23H25NO3,363.18344367,Ficus septica,Ficus,KNApSAcK
+162,C00035331,50657-02-8,Isotylocrebrine,C24H27NO4,393.19400836,Ficus septica,Ficus,KNApSAcK
+163,C00035357,17990-42-0,Oleanonic acid,C30H46O3,454.34469533,Ficus microcarpa,Ficus,KNApSAcK
+164,C00035381,745822-57-5,Racemosic acid,C22H28O14,516.14790561,Ficus microcarpa,Ficus,KNApSAcK
+165,C00035381,745822-57-5,Racemosic acid,C22H28O14,516.14790561,Ficus racemosa,Ficus,KNApSAcK
+166,C00035392,29507-75-3,Spatheliachromene,C15H14O4,258.08920894,Ficus formosana,Ficus,KNApSAcK
+167,C00035413,468094-64-6,"threo-2,3-Bis(4-hydroxy-3-methoxyphenyl)-3-ethoxypropan-1-ol",C19H24O6,348.1572885,Ficus beecheyana,Ficus,KNApSAcK
+168,C00035414,468094-67-9,"threo-3-(4-Hydroxy-3,5-dimethoxyphenyl)-3-ethoxypropane-1,2-diol",C13H20O6,272.12598837,Ficus beecheyana,Ficus,KNApSAcK
+169,C00035419,468094-66-8,"trans-4,5-Bis(4-hydroxy-3-methoxyphenyl)-1,3-dioxacyclohexane",C18H20O6,332.12598837,Ficus beecheyana,Ficus,KNApSAcK
+170,C00035421,6879-02-3,Tylocrebrine,C24H27NO4,393.19400836,Ficus septica,Ficus,KNApSAcK
+171,C00040779,173920-65-5,"1beta-(3-Hydroxy-4,5-dimethoxyphenyl)-O-glucopyranoside",C14H20O9,332.11073224,Ficus microcarpa,Ficus,KNApSAcK
+172,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Ficus glumosa,Ficus,KNApSAcK
+173,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Ficus fistulosa,Ficus,KNApSAcK
+174,C00046784,78-79-5,Isoprene,C5H8,68.06260026,Ficus carica,Ficus,KNApSAcK
+175,C00047878,1201799-17-8,Ficuseptamine A,C15H23NO3,265.16779361,Ficus septica,Ficus,KNApSAcK
+176,C00047879,1201799-18-9,Ficuseptamine B,C15H23NO3,265.16779361,Ficus septica,Ficus,KNApSAcK
+177,C00047880,1201799-19-0,Ficuseptamine C,C15H22NO3,264.15996858,Ficus septica,Ficus,KNApSAcK
+178,C00048022,67270-82-0,Norruspoline,C13H17NO2,219.12592879,Ficus septica,Ficus,KNApSAcK
+179,C00048073,55483-00-6,Pungenin,C14H18O8,314.10016755,Ficus septica,Ficus,KNApSAcK
+180,C00048120,24316-18-5,Septicine,C24H29NO4,395.20965842,Ficus septica,Ficus,KNApSAcK
+181,C00051834,,Dopaxanthin-quinone,C18H16N2O8,388.0906655,Opuntia ficus-indica,Ficus,KNApSAcK
+182,C00051835,18766-67-1,Cyclo-DOPA,C9H9NO4,195.05315778,Opuntia ficus-indica,Ficus,KNApSAcK
+183,C00051836,,Leuko-DOPA-chrome-glucoside,C15H18O8,326.10016755,Opuntia ficus-indica,Ficus,KNApSAcK
+184,C00051838,4430-97-1,o-DOPA-quinone,C9H9NO4,195.05315778,Opuntia ficus-indica,Ficus,KNApSAcK
+185,C00051976,,"3,5-Dimethoxy-4-hydroxyphenethylamine",C10H15NO3,197.10519335,Opuntia ficus-indica,Ficus,KNApSAcK
+186,C00051978,1477-68-5,4-Hydroxy-3-methoxyphenethylamine,C9H13NO2,167.09462867,Opuntia ficus-indica,Ficus,KNApSAcK
+187,C00051979,,"4,5-Dihydroxy-3-methoxyphenethylamine",C9H13NO3,183.08954329,Opuntia ficus-indica,Ficus,KNApSAcK
+188,C00051980,,"4,5-seco-DOPA",C9H11NO6,229.05863709,Opuntia ficus-indica,Ficus,KNApSAcK
+189,C00054275,59576-26-0,2-Acetyl-4-methylpyridine,C8H9NO,135.06841392,Ficus carica,Ficus,KNApSAcK
+190,C00054580,81943-09-1,Asparaginebetaxanthin,C15H20N4O6,352.1382844,Opuntia ficus-indica,Ficus,KNApSAcK
+191,C00054958,79435-28-2,"3-O-alpha-L-Arabinopyranosyl-L-arabinose,",C10H18O9,282.09508217,Opuntia ficus-indica,Ficus,KNApSAcK
+192,C00055307,1007894-68-9,4-Aminobutanoic acid betaxanthin,C13H16N2O6,296.10083626,Opuntia ficus-indica,Ficus,KNApSAcK
+193,C00055308,1007894-64-5,"4-[2-[(1-Carboxy-2-hydroxyethyl)imino]ethylidene]-1,2,3,4-tetrahydro-2,6-pyridinedicarboxylic acid",C12H14N2O7,298.08010082,Opuntia ficus-indica,Ficus,KNApSAcK
+194,C00056368,10339-61-4,(E)-3-Nonen-1-ol,C9H18O,142.1357652,Opuntia ficus-indica,Ficus,KNApSAcK
+195,C00056724,124903-89-5,Ficus Latex peptide 1,C29H52N10O8,668.39695871,Ficus carica,Ficus,KNApSAcK
+196,C00056725,124925-14-0,Ficus Latex peptide 2,C31H50N6O7,618.374098,Ficus carica,Ficus,KNApSAcK
+197,C00057258,22104-79-6,2-Nonen-1-ol,C9H18O,142.1357652,Opuntia ficus,Ficus,KNApSAcK
+198,C00057386,1007894-70-3,Phenylalaninebetaxanthin,C18H18N2O6,358.11648632,Opuntia ficus-indica,Ficus,KNApSAcK
+199,C00057514,71199-29-6,Neobetanin,C24H24N2O13,548.12783887,Opuntia ficus-indica,Ficus,KNApSAcK
+200,C00057642,906366-80-1,Opuntiside B,C19H30O8,386.19406794,Opuntia ficus-indica var. saboten,Ficus,KNApSAcK
+201,C00058110,419555-17-2,Valinebetaxanthin,C14H18N2O6,310.11648632,Opuntia ficus-indica,Ficus,KNApSAcK
+202,C00058187,7268-42-0,beta-D-Xylopyranosyl-(1->5)-alpha-L-arabinofuranosyl-(1->3)-L-arabinose,C15H26O13,414.13734092,Opuntia ficus-indica,Ficus,KNApSAcK
+203,C00058188,7268-80-6,5-O-beta-D-Xylopyranosyl-L-arabinose,C10H18O9,282.09508217,Opuntia ficus-indica,Ficus,KNApSAcK
+204,C00058200,78248-68-7,3-O-beta-D-Xylopyranosyl-L-arabinose,C10H18O9,282.09508217,Opuntia ficus-indica,Ficus,KNApSAcK
+205,C00058203,79403-08-0,beta-D-Xylopyranosyl-(1->5)-alpha-L-arabinofuranosyl-(1->5)-L-arabinose,C15H26O13,414.13734092,Opuntia ficus-indica,Ficus,KNApSAcK
+206,C00058204,79409-35-1,beta-D-Xylopyranosyl-(1->3)-alpha-L-arabinofuranosyl-(1->3)-L-arabinose,C15H26O13,414.13734092,Opuntia ficus-indica,Ficus,KNApSAcK
+207,C00058212,81943-10-4,Vulgaxanthin IV,C15H20N2O6,324.13213639,Opuntia ficus-indica,Ficus,KNApSAcK
+208,C00058307,71208-86-1,"(24S)-Stigmast-5-ene-3beta,24-diol",C29H50O2,430.38108084,Ficus pumila,Ficus,KNApSAcK
+0,C00042218,182754-64-9,Aloeresin E,C34H38O16,702.21598517,Aloe peglerae,Peglera,KNApSAcK
+0,C00000601,607-80-7,(+)-Sesamin,C20H18O6,354.11033831,Amanoa oblongifolia,Amanoa,KNApSAcK
+1,C00002615,568-53-6,alpha-Peltatin,C21H20O8,400.11581762,Amanoa oblongifolia,Amanoa,KNApSAcK
+0,C00002034,454-14-8,Cuscohygrine,C13H24N2O,224.1888634,Erythroxylon novogranatense,Erythroxylon,KNApSAcK
+1,C00002034,454-14-8,Cuscohygrine,C13H24N2O,224.1888634,Erythroxylon coca,Erythroxylon,KNApSAcK
+2,C00002046,496-49-1,Hygrine,C8H15NO,141.11536411,Erythroxylon coca,Erythroxylon,KNApSAcK
+3,C00002284,521-67-5,Cinnamoylcocaine,C19H23NO4,329.16270823,Erythroxylon coco,Erythroxylon,KNApSAcK
+4,C00002284,521-67-5,Cinnamoylcocaine,C19H23NO4,329.16270823,Erythroxylon monogynum Roxb.,Erythroxylon,KNApSAcK
+5,C00002285,50-36-2,Cocaine,C17H21NO4,303.14705817,Erythroxylon coca,Erythroxylon,KNApSAcK
+6,C00002285,50-36-2,Cocaine,C17H21NO4,303.14705817,Erythroxylon novogranatense,Erythroxylon,KNApSAcK
+7,C00002293,101-31-5,Hyoscyamine,C17H23NO3,289.16779361,Erythroxylon coca,Erythroxylon,KNApSAcK
+8,C00002296,526-13-6,Meteloidine,C13H21NO4,255.14705817,Erythroxylon australe,Erythroxylon,KNApSAcK
+9,C00002305,537-26-8,3beta-Benzoyloxytropane,C15H19NO2,245.14157886,Erythroxylon novogranatense,Erythroxylon,KNApSAcK
+10,C00002305,537-26-8,3beta-Benzoyloxytropane,C15H19NO2,245.14157886,Erythroxylon coca,Erythroxylon,KNApSAcK
+11,C00019065,545-48-2,Erythrodiol,C30H50O2,442.38108084,Erythroxylon novogranatense,Erythroxylon,KNApSAcK
+12,C00037053,58131-40-1,Dihydrocuscohygrine,C13H26N2O,226.20451347,Erythroxylon coco,Erythroxylon,KNApSAcK
+13,C00037960,532-24-1,Tropinone,C8H13NO,139.09971404,Erythroxylon coca,Erythroxylon,KNApSAcK
+14,C00037960,532-24-1,Tropinone,C8H13NO,139.09971404,Erythroxylon novogranatense,Erythroxylon,KNApSAcK
+15,C00044479,526217-17-4,7beta-Acetylcatuabine E,C22H27N3O6,429.18998562,Erythroxylon vacciniifolium,Erythroxylon,KNApSAcK
+16,C00044480,526217-11-8,7beta-Hydroxycatuabine D,C19H23N3O5,373.16377087,Erythroxylon vacciniifolium,Erythroxylon,KNApSAcK
+17,C00044481,526217-15-2,7beta-Hydroxycatuabine E,C20H25N3O5,387.17942093,Erythroxylon vacciniifolium,Erythroxylon,KNApSAcK
+18,C00044482,526217-19-6,7beta-Hydroxycatuabine F,C23H28N2O8,460.18456589,Erythroxylon vacciniifolium,Erythroxylon,KNApSAcK
+19,C00044617,526217-09-4,Catuabine D,C19H23N3O4,357.16885625,Erythroxylon vacciniifolium,Erythroxylon,KNApSAcK
+20,C00044618,526217-13-0,Catuabine E,C20H25N3O4,371.18450631,Erythroxylon vacciniifolium,Erythroxylon,KNApSAcK
+21,C00044619,526217-18-5,Catuabine F,C23H28N2O7,444.18965126,Erythroxylon vacciniifolium,Erythroxylon,KNApSAcK
+22,C00044620,526217-20-9,Catuabine G,C16H21NO5,307.14197279,Erythroxylon vacciniifolium,Erythroxylon,KNApSAcK
+23,C00063743,1256342-72-9,7alpha-hydroxycatuabine H N-oxide,C14H20N2O5,296.13722176,Erythroxylon vacciniifolium,Erythroxylon,KNApSAcK
+24,C00063944,1575814-77-5,"7beta-Acetoxy-3beta,6beta-dibenzoyloxytropane",C24H25NO6,423.16818754,Erythroxylon rimosum,Erythroxylon,KNApSAcK
+25,C00064367,50763-20-7,trans-Cinnamoylcocaine,C19H23NO4,329.16270823,Erythroxylon coca,Erythroxylon,KNApSAcK
+26,C00064367,50763-20-7,trans-Cinnamoylcocaine,C19H23NO4,329.16270823,Erythroxylon novogranatense,Erythroxylon,KNApSAcK
+27,C00064368,50763-21-8,cis-Cinnamoylcocaine,C19H23NO4,329.16270823,Erythroxylon coca,Erythroxylon,KNApSAcK
+28,C00064368,50763-21-8,cis-Cinnamoylcocaine,C19H23NO4,329.16270823,Erythroxylon novogranatense,Erythroxylon,KNApSAcK
+29,C00064469,65862-78-4,Catuabine A,C24H30N2O7,458.20530133,Erythroxylon vacciniifolium,Erythroxylon,KNApSAcK
+30,C00064470,65862-79-5,Catuabine B,C25H29NO7,455.19440229,Erythroxylon vacciniifolium,Erythroxylon,KNApSAcK
+31,C00064471,65862-80-8,Catuabine C,C19H23N3O4,357.16885625,Erythroxylon vacciniifolium,Erythroxylon,KNApSAcK

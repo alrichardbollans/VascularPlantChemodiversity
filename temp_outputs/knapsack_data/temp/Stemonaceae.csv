@@ -1,0 +1,909 @@
+,C_ID,CAS ID,example_compound_name,Molecular formula,Mw,Organism,knapsack_search_term,Source
+0,C00028104,71239-66-2,Croomine,C18H27NO4,321.19400836,Croomia japonica,Croomia,KNApSAcK
+1,C00028104,71239-66-2,Croomine,C18H27NO4,321.19400836,Croomia heterosepala,Croomia,KNApSAcK
+0,C00000601,607-80-7,(+)-Sesamin,C20H18O6,354.11033831,Stemona collinsae,Stemona,KNApSAcK
+1,C00000614,458-35-5,Coniferyl alcohol,C10H12O3,180.07864425,Stemona collinsae,Stemona,KNApSAcK
+2,C00001079,549-17-7,Oxyayanin A,C18H16O8,360.08451749,Distemonanthus benthamianus,Stemona,KNApSAcK
+3,C00001198,144-62-7,Oxalic acid,C2H2O4,89.99530855,Stemona tuberosa,Stemona,KNApSAcK
+4,C00001205,110-15-6,Succinic acid,C4H6O4,118.02660868,Stemona tuberosa,Stemona,KNApSAcK
+5,C00002878,14531-52-3,Dihydropinosylvin,C14H14O2,214.09937969,Stemona lucida,Stemona,KNApSAcK
+6,C00002878,14531-52-3,Dihydropinosylvin,C14H14O2,214.09937969,Stemona tuberosa,Stemona,KNApSAcK
+7,C00002878,14531-52-3,Dihydropinosylvin,C14H14O2,214.09937969,Stemona sessilifolia,Stemona,KNApSAcK
+8,C00002878,14531-52-3,Dihydropinosylvin,C14H14O2,214.09937969,Stemona pierrei,Stemona,KNApSAcK
+9,C00002878,14531-52-3,Dihydropinosylvin,C14H14O2,214.09937969,Stemona phyllantha,Stemona,KNApSAcK
+10,C00002878,14531-52-3,Dihydropinosylvin,C14H14O2,214.09937969,Stemona cf. pierrei,Stemona,KNApSAcK
+11,C00002878,14531-52-3,Dihydropinosylvin,C14H14O2,214.09937969,Stemona cochinchinensis,Stemona,KNApSAcK
+12,C00002878,14531-52-3,Dihydropinosylvin,C14H14O2,214.09937969,Stemona collinsiae,Stemona,KNApSAcK
+13,C00002878,14531-52-3,Dihydropinosylvin,C14H14O2,214.09937969,Stemona involuta,Stemona,KNApSAcK
+14,C00002878,14531-52-3,Dihydropinosylvin,C14H14O2,214.09937969,Stemona japonica,Stemona,KNApSAcK
+15,C00002878,14531-52-3,Dihydropinosylvin,C14H14O2,214.09937969,Stemona kerrii,Stemona,KNApSAcK
+16,C00002897,22139-77-1,Pinosylvin,C14H12O2,212.08372963,Stemona kerrii,Stemona,KNApSAcK
+17,C00002897,22139-77-1,Pinosylvin,C14H12O2,212.08372963,Stemona involuta,Stemona,KNApSAcK
+18,C00002897,22139-77-1,Pinosylvin,C14H12O2,212.08372963,Stemona japonica,Stemona,KNApSAcK
+19,C00002897,22139-77-1,Pinosylvin,C14H12O2,212.08372963,Stemona parviflora,Stemona,KNApSAcK
+20,C00002897,22139-77-1,Pinosylvin,C14H12O2,212.08372963,Stemona aphylla,Stemona,KNApSAcK
+21,C00002897,22139-77-1,Pinosylvin,C14H12O2,212.08372963,Stemona burkillii,Stemona,KNApSAcK
+22,C00002897,22139-77-1,Pinosylvin,C14H12O2,212.08372963,Stemona cochinchinensis,Stemona,KNApSAcK
+23,C00002897,22139-77-1,Pinosylvin,C14H12O2,212.08372963,Stemona collinsae,Stemona,KNApSAcK
+24,C00002897,22139-77-1,Pinosylvin,C14H12O2,212.08372963,Stemona collinsiae,Stemona,KNApSAcK
+25,C00002897,22139-77-1,Pinosylvin,C14H12O2,212.08372963,Stemona phyllantha,Stemona,KNApSAcK
+26,C00002897,22139-77-1,Pinosylvin,C14H12O2,212.08372963,Stemona pierrei,Stemona,KNApSAcK
+27,C00002897,22139-77-1,Pinosylvin,C14H12O2,212.08372963,Stemona tuberosa,Stemona,KNApSAcK
+28,C00003674,83-48-7,beta-Stigmasterol,C29H48O,412.37051615,Stemona collinsae,Stemona,KNApSAcK
+29,C00004647,572-32-7,Ayanin,C18H16O7,344.08960287,Distemonanthus benthamianus,Stemona,KNApSAcK
+30,C00004650,33554-60-8,"Quercetin 3,5,7,3'-tetramethyl ether",C19H18O7,358.10525293,Distemonanthus benthamianus,Stemona,KNApSAcK
+31,C00004696,548-74-3,Oxyayanin-B,C18H16O8,360.08451749,Distemonanthus benthamianus,Stemona,KNApSAcK
+32,C00004707,63296-15-1,"Quercetagetin 3,7,3',4'-tetramethyl ether",C19H18O8,374.10016755,Distemonanthus benthamianus,Stemona,KNApSAcK
+33,C00004748,37751-25-0,5'-Hydroxymorin,C15H10O8,318.0375673,Distemonanthus benthamianus,Stemona,KNApSAcK
+34,C00004754,23289-81-8,Chrysosplenol E,C19H18O8,374.10016755,Distemonanthus benthamianus,Stemona,KNApSAcK
+35,C00004755,129554-05-8,"5'-hydroxy-3,5,7,2',4'-pentamethoxyflavone",C20H20O8,388.11581762,Distemonanthus benthamianus,Stemona,KNApSAcK
+36,C00004756,72947-61-6,"2'-Hydroxy-3,5,7,4',5'-pentamethoxyflavone",C20H20O8,388.11581762,Distemonanthus benthamianus,Stemona,KNApSAcK
+37,C00004757,72947-63-8,"5-Hydroxy-3,7,2',4',5'-pentamethoxyflavone",C20H20O8,388.11581762,Distemonanthus benthamianus,Stemona,KNApSAcK
+38,C00004758,21829-45-8,"3,5,7,2',4',5'-Hexamethoxyflavone",C21H22O8,402.13146768,Distemonanthus benthamianus,Stemona,KNApSAcK
+39,C00004805,72947-67-2,"3,5,6,7,2',3',4'-Heptahydroxyflavone",C15H10O9,334.03248192,Distemonanthus benthamianus,Stemona,KNApSAcK
+40,C00004813,80496-65-7,"5,6,5'-Trihydroxy-3,7,2',4'-tetramethoxyflavone",C19H18O9,390.09508217,Distemonanthus benthamianus,Stemona,KNApSAcK
+41,C00004815,80496-69-1,"6,5'-Dihydroxy-3,5,7,2',4'-pentamethoxyflavone",C20H20O9,404.11073224,Distemonanthus benthamianus,Stemona,KNApSAcK
+42,C00004816,72947-65-0,"6,2'-Dihydroxy-3,5,7,4',5'-pentamethoxyflavone",C20H20O9,404.11073224,Distemonanthus benthamianus,Stemona,KNApSAcK
+43,C00004819,78368-30-6,Distemonatin,C20H20O9,404.11073224,Distemonanthus benthamianus,Stemona,KNApSAcK
+44,C00004820,34318-24-6,Benthamitin,C22H24O9,432.14203237,Distemonanthus benthamianus,Stemona,KNApSAcK
+45,C00005038,162663-69-6,"6,8-Dimethoxy-2,3-trans-2-(4-hydroxy-2,3-dimethoxyphenyl)-9-(5-hydroxy-2-methoxyphenyl)-3-hydroxymethyl-2,3-dihydro-7H-1,4-dioxono[2,3-h]chromene-7-one",C29H28O12,568.15807636,Distemonanthus benthamianus,Stemona,KNApSAcK
+46,C00005108,53766-41-9,Benthamianin,C17H12O8,344.05321736,Distemonanthus benthamianus,Stemona,KNApSAcK
+47,C00005109,549-20-2,Distemonanthin,C17H10O9,358.03248192,Distemonanthus benthamianus,Stemona,KNApSAcK
+48,C00009595,41059-87-4,Stemonone,C19H14O8,370.06886743,Stemona collinsae,Stemona,KNApSAcK
+49,C00009596,54357-82-3,Stemonal,C19H16O8,372.08451749,Stemona collinsae,Stemona,KNApSAcK
+50,C00009597,54357-81-2,Stemonacetal,C21H20O8,400.11581762,Stemona collinsae,Stemona,KNApSAcK
+51,C00013383,149474-89-5,"5-Hydroxy-3,7,2',3',4',6'-hexamethoxyflavone",C21H22O9,418.1263823,Distemonanthus benthamianus,Stemona,KNApSAcK
+52,C00026018,549-28-0,Protostephanine,C21H27NO4,357.19400836,Stemona japonica Miq.,Stemona,KNApSAcK
+53,C00026715,670254-75-8,Tuberostemonine J,C22H33NO4,375.24095855,Stemona tuberosa,Stemona,KNApSAcK
+54,C00026716,670254-76-9,Tuberostemonine H,C22H33NO4,375.24095855,Stemona tuberosa,Stemona,KNApSAcK
+55,C00026717,477953-07-4,Neostenine,C17H27NO2,277.20417911,Stemona tuberosa,Stemona,KNApSAcK
+56,C00026718,670254-77-0,epi-Bisdehydroneotuberostemonine J,C22H29NO4,371.20965842,Stemona tuberosa,Stemona,KNApSAcK
+57,C00026810,473925-49-4,Neotuberostemonol,C22H31NO5,389.22022311,Stemona tuberosa,Stemona,KNApSAcK
+58,C00027939,145701-16-2,Bisdehydroneostemonine,C18H21NO4,315.14705817,Stemona japonica,Stemona,KNApSAcK
+59,C00028104,71239-66-2,Croomine,C18H27NO4,321.19400836,Stemona tuberosa,Stemona,KNApSAcK
+60,C00028104,71239-66-2,Croomine,C18H27NO4,321.19400836,Stemona japonica,Stemona,KNApSAcK
+61,C00028182,232921-41-4,Didehydrotuberostemonine,C22H29NO4,371.20965842,Stemona tuberosa,Stemona,KNApSAcK
+62,C00028402,263870-90-2,Isomaistemonine,C23H29NO6,415.19948767,Stemona japonica,Stemona,KNApSAcK
+63,C00028409,145841-08-3,Isoprotostemonine,C23H31NO6,417.21513773,Stemona japonica,Stemona,KNApSAcK
+64,C00028415,157009-09-1,Isostemonamide,C18H21NO5,331.14197279,Stemona japonica,Stemona,KNApSAcK
+65,C00028416,85644-16-2,Isostemotinine,C18H25NO5,335.17327292,Stemona tuberosa,Stemona,KNApSAcK
+66,C00028546,137031-44-8,Maistemonine,C23H29NO6,415.19948767,Stemona mairei,Stemona,KNApSAcK
+67,C00028546,137031-44-8,Maistemonine,C23H29NO6,415.19948767,Stemona japonica,Stemona,KNApSAcK
+68,C00028577,139768-07-3,Methoxystemofoline,C23H31NO6,417.21513773,Stemona parviflora,Stemona,KNApSAcK
+69,C00028675,145701-17-3,Neostemodiol,C18H27NO5,337.18892298,Stemona japonica,Stemona,KNApSAcK
+70,C00028676,164124-85-0,Neostemonine,C18H25NO4,319.17835829,Stemona japonica,Stemona,KNApSAcK
+71,C00028678,143120-46-1,Neotuberostemonine,C22H33NO4,375.24095855,Stemona tuberosa,Stemona,KNApSAcK
+72,C00028739,232921-40-3,N-Oxytuberostemonine,C22H33NO5,391.23587317,Stemona tuberosa,Stemona,KNApSAcK
+73,C00028785,20675-62-1,Oxotuberostemonine,C22H31NO5,389.22022311,Stemona sessilifolia,Stemona,KNApSAcK
+74,C00028785,20675-62-1,Oxotuberostemonine,C22H31NO5,389.22022311,Stemona tuberosa,Stemona,KNApSAcK
+75,C00028786,137031-45-9,Oxymaistemonine,C23H29NO7,431.19440229,Stemona mairei,Stemona,KNApSAcK
+76,C00028787,139750-70-2,Oxystemofoline,C22H29NO6,403.19948767,Stemona parviflora,Stemona,KNApSAcK
+77,C00028802,139742-26-0,Parvistemoamide,C12H19NO4,241.1314081,Stemona parviflora,Stemona,KNApSAcK
+78,C00028803,139766-99-7,Parvistemoline,C17H25NO4,307.17835829,Stemona parviflora,Stemona,KNApSAcK
+79,C00028804,131653-95-7,Parvistemonine,C22H33NO5,391.23587317,Stemona parviflora,Stemona,KNApSAcK
+80,C00028804,131653-95-7,Parvistemonine,C22H33NO5,391.23587317,Stemona sp.,Stemona,KNApSAcK
+81,C00028860,27495-40-5,Protostemonine,C23H31NO6,417.21513773,Stemona cochinchinensis,Stemona,KNApSAcK
+82,C00028860,27495-40-5,Protostemonine,C23H31NO6,417.21513773,Stemona cf. pierrei,Stemona,KNApSAcK
+83,C00028860,27495-40-5,Protostemonine,C23H31NO6,417.21513773,Stemona kerrii,Stemona,KNApSAcK
+84,C00028860,27495-40-5,Protostemonine,C23H31NO6,417.21513773,Stemona mairei,Stemona,KNApSAcK
+85,C00028860,27495-40-5,Protostemonine,C23H31NO6,417.21513773,Stemona parviflora,Stemona,KNApSAcK
+86,C00028860,27495-40-5,Protostemonine,C23H31NO6,417.21513773,Stemona sessilifolia,Stemona,KNApSAcK
+87,C00028860,27495-40-5,Protostemonine,C23H31NO6,417.21513773,Stemona japonica,Stemona,KNApSAcK
+88,C00028861,169534-85-4,Protostemotinine,C23H29NO6,415.19948767,Stemona japonica,Stemona,KNApSAcK
+89,C00028861,169534-85-4,Protostemotinine,C23H29NO6,415.19948767,Stemona sessilifolia,Stemona,KNApSAcK
+90,C00029044,142905-25-7,Stemoamide,C12H17NO3,223.12084342,Stemona tuberosa,Stemona,KNApSAcK
+91,C00029045,29881-57-0,Stemofoline,C22H29NO5,387.20457304,Stemona cochinchinensis,Stemona,KNApSAcK
+92,C00029045,29881-57-0,Stemofoline,C22H29NO5,387.20457304,Stemona aphylla,Stemona,KNApSAcK
+93,C00029045,29881-57-0,Stemofoline,C22H29NO5,387.20457304,Stemona burkillii,Stemona,KNApSAcK
+94,C00029045,29881-57-0,Stemofoline,C22H29NO5,387.20457304,Stemona parviflora,Stemona,KNApSAcK
+95,C00029045,29881-57-0,Stemofoline,C22H29NO5,387.20457304,Stemona japonica,Stemona,KNApSAcK
+96,C00029045,29881-57-0,Stemofoline,C22H29NO5,387.20457304,Stemona curtisii,Stemona,KNApSAcK
+97,C00029045,29881-57-0,Stemofoline,C22H29NO5,387.20457304,Stemona collinsae,Stemona,KNApSAcK
+98,C00029046,156953-97-8,Stemonamide,C18H21NO5,331.14197279,Stemona japonica,Stemona,KNApSAcK
+99,C00029047,66267-46-7,Stemonidine,C19H29NO5,351.20457304,Stemona japonica,Stemona,KNApSAcK
+100,C00029048,27498-90-4,Stemonine,C17H25NO4,307.17835829,Stemona cf. pierrei,Stemona,KNApSAcK
+101,C00029048,27498-90-4,Stemonine,C17H25NO4,307.17835829,Stemona japonica,Stemona,KNApSAcK
+102,C00029048,27498-90-4,Stemonine,C17H25NO4,307.17835829,Stemona sessilifolia,Stemona,KNApSAcK
+103,C00029048,27498-90-4,Stemonine,C17H25NO4,307.17835829,Stemona tuberosa,Stemona,KNApSAcK
+104,C00029049,69772-72-1,Stemoninine,C22H31NO5,389.22022311,Stemona sessilifolia,Stemona,KNApSAcK
+105,C00029050,85644-15-1,Stemotinine,C18H25NO5,335.17327292,Stemona tuberosa,Stemona,KNApSAcK
+106,C00029051,16625-37-9,Stenine,C17H27NO2,277.20417911,Stemona sessilifolia Miq.,Stemona,KNApSAcK
+107,C00029051,16625-37-9,Stenine,C17H27NO2,277.20417911,Stemona tuberosa,Stemona,KNApSAcK
+108,C00029152,156280-89-6,Tuberostemoamide,C17H23NO4,305.16270823,Stemona tuberosa,Stemona,KNApSAcK
+109,C00029153,876313-35-8,Tuberostemonine A,C22H33NO4,375.24095855,Stemona tuberosa,Stemona,KNApSAcK
+110,C00029153,876313-35-8,Tuberostemonine A,C22H33NO4,375.24095855,Stemona sessilifolia,Stemona,KNApSAcK
+111,C00029154,263870-88-8,Tuberostemonine B,C22H33NO4,375.24095855,Stemona japonica,Stemona,KNApSAcK
+112,C00029155,263870-89-9,Tuberostemonine C,C22H33NO4,375.24095855,Stemona japonica,Stemona,KNApSAcK
+113,C00029156,156280-88-5,Tuberostemoninol,C22H31NO6,405.21513773,Stemona tuberosa,Stemona,KNApSAcK
+114,C00029157,142905-24-6,Tuberostemonol,C22H31NO5,389.22022311,Stemona tuberosa,Stemona,KNApSAcK
+115,C00029158,134822-46-1,Tuberostemonone,C22H31NO6,405.21513773,Stemona tuberosa,Stemona,KNApSAcK
+116,C00029159,142905-26-8,Tuberostemospironine,C13H19NO4,253.1314081,Stemona tuberosa,Stemona,KNApSAcK
+117,C00034283,1011289-29-4,Stemanthraquinone,C16H14O4,270.08920894,Stemona tuberosa,Stemona,KNApSAcK
+118,C00034284,674774-82-4,Stemanthrene A,C17H18O4,286.12050906,Stemona cf.pierrei,Stemona,KNApSAcK
+119,C00034284,674774-82-4,Stemanthrene A,C17H18O4,286.12050906,Stemona cf. pierrei,Stemona,KNApSAcK
+120,C00034284,674774-82-4,Stemanthrene A,C17H18O4,286.12050906,Stemona tuberosa,Stemona,KNApSAcK
+121,C00034284,674774-82-4,Stemanthrene A,C17H18O4,286.12050906,Stemona sessilifolia,Stemona,KNApSAcK
+122,C00034284,674774-82-4,Stemanthrene A,C17H18O4,286.12050906,Stemona pierrei,Stemona,KNApSAcK
+123,C00034284,674774-82-4,Stemanthrene A,C17H18O4,286.12050906,Stemona lucida,Stemona,KNApSAcK
+124,C00034284,674774-82-4,Stemanthrene A,C17H18O4,286.12050906,Stemona collinsae,Stemona,KNApSAcK
+125,C00034284,674774-82-4,Stemanthrene A,C17H18O4,286.12050906,Stemona cochinchinensis,Stemona,KNApSAcK
+126,C00034285,674774-83-5,Stemanthrene B,C17H18O4,286.12050906,Stemona cf. pierrei,Stemona,KNApSAcK
+127,C00034285,674774-83-5,Stemanthrene B,C17H18O4,286.12050906,Stemona cf.pierrei,Stemona,KNApSAcK
+128,C00034285,674774-83-5,Stemanthrene B,C17H18O4,286.12050906,Stemona cochinchinensis,Stemona,KNApSAcK
+129,C00034285,674774-83-5,Stemanthrene B,C17H18O4,286.12050906,Stemona collinsae,Stemona,KNApSAcK
+130,C00034285,674774-83-5,Stemanthrene B,C17H18O4,286.12050906,Stemona lucida,Stemona,KNApSAcK
+131,C00034285,674774-83-5,Stemanthrene B,C17H18O4,286.12050906,Stemona pierrei,Stemona,KNApSAcK
+132,C00034285,674774-83-5,Stemanthrene B,C17H18O4,286.12050906,Stemona tuberosa,Stemona,KNApSAcK
+133,C00034286,674774-84-6,Stemanthrene C,C18H20O4,300.13615913,Stemona sessilifolia,Stemona,KNApSAcK
+134,C00034286,674774-84-6,Stemanthrene C,C18H20O4,300.13615913,Stemona tuberosa,Stemona,KNApSAcK
+135,C00034286,674774-84-6,Stemanthrene C,C18H20O4,300.13615913,Stemona pierrei,Stemona,KNApSAcK
+136,C00034286,674774-84-6,Stemanthrene C,C18H20O4,300.13615913,Stemona lucida,Stemona,KNApSAcK
+137,C00034286,674774-84-6,Stemanthrene C,C18H20O4,300.13615913,Stemona collinsae,Stemona,KNApSAcK
+138,C00034286,674774-84-6,Stemanthrene C,C18H20O4,300.13615913,Stemona cochinchinensis,Stemona,KNApSAcK
+139,C00034286,674774-84-6,Stemanthrene C,C18H20O4,300.13615913,Stemona cf.pierrei,Stemona,KNApSAcK
+140,C00034286,674774-84-6,Stemanthrene C,C18H20O4,300.13615913,Stemona cf. pierrei,Stemona,KNApSAcK
+141,C00034287,188543-66-0,Stemanthrene D,C17H18O4,286.12050906,Stemona burkillii,Stemona,KNApSAcK
+142,C00034287,188543-66-0,Stemanthrene D,C17H18O4,286.12050906,Stemona aphylla,Stemona,KNApSAcK
+143,C00034287,188543-66-0,Stemanthrene D,C17H18O4,286.12050906,Stemona lucida,Stemona,KNApSAcK
+144,C00034287,188543-66-0,Stemanthrene D,C17H18O4,286.12050906,Stemona curtisii,Stemona,KNApSAcK
+145,C00034287,188543-66-0,Stemanthrene D,C17H18O4,286.12050906,Stemona tuberosa,Stemona,KNApSAcK
+146,C00034287,188543-66-0,Stemanthrene D,C17H18O4,286.12050906,Stemona pierrei,Stemona,KNApSAcK
+147,C00034287,188543-66-0,Stemanthrene D,C17H18O4,286.12050906,Stemona collinsiae,Stemona,KNApSAcK
+148,C00034287,188543-66-0,Stemanthrene D,C17H18O4,286.12050906,Stemona collinsae,Stemona,KNApSAcK
+149,C00034287,188543-66-0,Stemanthrene D,C17H18O4,286.12050906,Stemona cf.pierrei,Stemona,KNApSAcK
+150,C00034422,475673-85-9,2'-Hydroxystemofoline,C22H29NO6,403.19948767,Stemona sp.,Stemona,KNApSAcK
+151,C00034422,475673-85-9,2'-Hydroxystemofoline,C22H29NO6,403.19948767,Stemona cochinchinensis,Stemona,KNApSAcK
+152,C00034422,475673-85-9,2'-Hydroxystemofoline,C22H29NO6,403.19948767,Stemona curtisii,Stemona,KNApSAcK
+153,C00034422,475673-85-9,2'-Hydroxystemofoline,C22H29NO6,403.19948767,Stemona collinsae,Stemona,KNApSAcK
+154,C00034422,475673-85-9,2'-Hydroxystemofoline,C22H29NO6,403.19948767,Stemona burkillii,Stemona,KNApSAcK
+155,C00034428,875662-89-8,6-Hydroxycroomine,C18H27NO5,337.18892298,Stemona tuberosa,Stemona,KNApSAcK
+156,C00034434,156798-15-1,Asparagamine A,C22H27NO5,385.18892298,Stemona sp.,Stemona,KNApSAcK
+157,C00034434,156798-15-1,Asparagamine A,C22H27NO5,385.18892298,Stemona collinsae,Stemona,KNApSAcK
+158,C00034615,610307-84-1,Oxystemokerrin,C22H31NO6,405.21513773,Stemona kerrii,Stemona,KNApSAcK
+159,C00034615,610307-84-1,Oxystemokerrin,C22H31NO6,405.21513773,Stemona sp.,Stemona,KNApSAcK
+160,C00034692,682338-37-0,Stemocurtisinol,C22H31NO6,405.21513773,Stemona curtisii,Stemona,KNApSAcK
+161,C00034693,610756-23-5,Stemokerrine,C22H31NO5,389.22022311,Stemona kerrii,Stemona,KNApSAcK
+162,C00034732,6879-01-2,Tuberostemonine,C22H33NO4,375.24095855,Stemona sessilifolia Miq.,Stemona,KNApSAcK
+163,C00034732,6879-01-2,Tuberostemonine,C22H33NO4,375.24095855,Stemona tuberosa,Stemona,KNApSAcK
+164,C00035502,439697-22-0,4'-methylpinosylvin,C15H14O2,226.09937969,Stemona aphylla,Stemona,KNApSAcK
+165,C00035502,439697-22-0,4'-methylpinosylvin,C15H14O2,226.09937969,Stemona sessilifolia,Stemona,KNApSAcK
+166,C00035502,439697-22-0,4'-methylpinosylvin,C15H14O2,226.09937969,Stemona pierrei,Stemona,KNApSAcK
+167,C00035502,439697-22-0,4'-methylpinosylvin,C15H14O2,226.09937969,Stemona phyllantha,Stemona,KNApSAcK
+168,C00035502,439697-22-0,4'-methylpinosylvin,C15H14O2,226.09937969,Stemona parviflora,Stemona,KNApSAcK
+169,C00035502,439697-22-0,4'-methylpinosylvin,C15H14O2,226.09937969,Stemona kerrii,Stemona,KNApSAcK
+170,C00035502,439697-22-0,4'-methylpinosylvin,C15H14O2,226.09937969,Stemona japonica,Stemona,KNApSAcK
+171,C00035502,439697-22-0,4'-methylpinosylvin,C15H14O2,226.09937969,Stemona involuta,Stemona,KNApSAcK
+172,C00035502,439697-22-0,4'-methylpinosylvin,C15H14O2,226.09937969,Stemona curtisii,Stemona,KNApSAcK
+173,C00035502,439697-22-0,4'-methylpinosylvin,C15H14O2,226.09937969,Stemona collinsiae,Stemona,KNApSAcK
+174,C00035502,439697-22-0,4'-methylpinosylvin,C15H14O2,226.09937969,Stemona collinsae,Stemona,KNApSAcK
+175,C00035502,439697-22-0,4'-methylpinosylvin,C15H14O2,226.09937969,Stemona cochinchinensis,Stemona,KNApSAcK
+176,C00035502,439697-22-0,4'-methylpinosylvin,C15H14O2,226.09937969,Stemona cf.pierrei,Stemona,KNApSAcK
+177,C00035502,439697-22-0,4'-methylpinosylvin,C15H14O2,226.09937969,Stemona cf. pierrei,Stemona,KNApSAcK
+178,C00035502,439697-22-0,4'-methylpinosylvin,C15H14O2,226.09937969,Stemona burkillii,Stemona,KNApSAcK
+179,C00035752,162411-67-8,Stilbostemin B,C15H16O2,228.11502975,Stemona tuberosa,Stemona,KNApSAcK
+180,C00035752,162411-67-8,Stilbostemin B,C15H16O2,228.11502975,Stemona cf. pierrei,Stemona,KNApSAcK
+181,C00035752,162411-67-8,Stilbostemin B,C15H16O2,228.11502975,Stemona cochinchinensis,Stemona,KNApSAcK
+182,C00035752,162411-67-8,Stilbostemin B,C15H16O2,228.11502975,Stemona sessilifolia,Stemona,KNApSAcK
+183,C00035752,162411-67-8,Stilbostemin B,C15H16O2,228.11502975,Stemona pierrei,Stemona,KNApSAcK
+184,C00035752,162411-67-8,Stilbostemin B,C15H16O2,228.11502975,Stemona phyllantha,Stemona,KNApSAcK
+185,C00035752,162411-67-8,Stilbostemin B,C15H16O2,228.11502975,Stemona lucida,Stemona,KNApSAcK
+186,C00035752,162411-67-8,Stilbostemin B,C15H16O2,228.11502975,Stemona kerrii,Stemona,KNApSAcK
+187,C00035752,162411-67-8,Stilbostemin B,C15H16O2,228.11502975,Stemona japonica,Stemona,KNApSAcK
+188,C00035752,162411-67-8,Stilbostemin B,C15H16O2,228.11502975,Stemona involuta,Stemona,KNApSAcK
+189,C00035752,162411-67-8,Stilbostemin B,C15H16O2,228.11502975,Stemona curtisii,Stemona,KNApSAcK
+190,C00035752,162411-67-8,Stilbostemin B,C15H16O2,228.11502975,Stemona collinsiae,Stemona,KNApSAcK
+191,C00035752,162411-67-8,Stilbostemin B,C15H16O2,228.11502975,Stemona collinsae,Stemona,KNApSAcK
+192,C00035752,162411-67-8,Stilbostemin B,C15H16O2,228.11502975,Stemona burkillii,Stemona,KNApSAcK
+193,C00035752,162411-67-8,Stilbostemin B,C15H16O2,228.11502975,Stemona aphylla,Stemona,KNApSAcK
+194,C00035753,162411-68-9,Stilbostemin D,C16H18O3,258.12559444,Stemona tuberosa,Stemona,KNApSAcK
+195,C00035753,162411-68-9,Stilbostemin D,C16H18O3,258.12559444,Stemona parviflora,Stemona,KNApSAcK
+196,C00035753,162411-68-9,Stilbostemin D,C16H18O3,258.12559444,Stemona sessilifolia,Stemona,KNApSAcK
+197,C00035753,162411-68-9,Stilbostemin D,C16H18O3,258.12559444,Stemona pierrei,Stemona,KNApSAcK
+198,C00035753,162411-68-9,Stilbostemin D,C16H18O3,258.12559444,Stemona phyllantha,Stemona,KNApSAcK
+199,C00035753,162411-68-9,Stilbostemin D,C16H18O3,258.12559444,Stemona aphylla,Stemona,KNApSAcK
+200,C00035753,162411-68-9,Stilbostemin D,C16H18O3,258.12559444,Stemona burkillii,Stemona,KNApSAcK
+201,C00035753,162411-68-9,Stilbostemin D,C16H18O3,258.12559444,Stemona cf. pierrei,Stemona,KNApSAcK
+202,C00035753,162411-68-9,Stilbostemin D,C16H18O3,258.12559444,Stemona cochinchinensis,Stemona,KNApSAcK
+203,C00035753,162411-68-9,Stilbostemin D,C16H18O3,258.12559444,Stemona collinsae,Stemona,KNApSAcK
+204,C00035753,162411-68-9,Stilbostemin D,C16H18O3,258.12559444,Stemona collinsiae,Stemona,KNApSAcK
+205,C00035753,162411-68-9,Stilbostemin D,C16H18O3,258.12559444,Stemona curtisii,Stemona,KNApSAcK
+206,C00035753,162411-68-9,Stilbostemin D,C16H18O3,258.12559444,Stemona involuta,Stemona,KNApSAcK
+207,C00035753,162411-68-9,Stilbostemin D,C16H18O3,258.12559444,Stemona japonica,Stemona,KNApSAcK
+208,C00035753,162411-68-9,Stilbostemin D,C16H18O3,258.12559444,Stemona kerrii,Stemona,KNApSAcK
+209,C00035753,162411-68-9,Stilbostemin D,C16H18O3,258.12559444,Stemona lucida,Stemona,KNApSAcK
+210,C00035754,439900-95-5,Stilbostemin E,C16H18O4,274.12050906,Stemona japonica,Stemona,KNApSAcK
+211,C00035754,439900-95-5,Stilbostemin E,C16H18O4,274.12050906,Stemona tuberosa,Stemona,KNApSAcK
+212,C00035754,439900-95-5,Stilbostemin E,C16H18O4,274.12050906,Stemona pierrei,Stemona,KNApSAcK
+213,C00035754,439900-95-5,Stilbostemin E,C16H18O4,274.12050906,Stemona collinsiae,Stemona,KNApSAcK
+214,C00035754,439900-95-5,Stilbostemin E,C16H18O4,274.12050906,Stemona collinsae,Stemona,KNApSAcK
+215,C00035754,439900-95-5,Stilbostemin E,C16H18O4,274.12050906,Stemona cf. pierrei,Stemona,KNApSAcK
+216,C00035755,674774-85-7,Stilbostemin G,C17H20O4,288.13615913,Stemona sessilifolia,Stemona,KNApSAcK
+217,C00035755,674774-85-7,Stilbostemin G,C17H20O4,288.13615913,Stemona cf. pierrei,Stemona,KNApSAcK
+218,C00035755,674774-85-7,Stilbostemin G,C17H20O4,288.13615913,Stemona pierrei,Stemona,KNApSAcK
+219,C00035791,3808-26-2,"all-rac-3,4-Dehydro-alpha-tocopherol",C29H48O2,428.36543078,Stemona burkillii,Stemona,KNApSAcK
+220,C00035791,3808-26-2,"all-rac-3,4-Dehydro-alpha-tocopherol",C29H48O2,428.36543078,Stemona curtisii,Stemona,KNApSAcK
+221,C00035791,3808-26-2,"all-rac-3,4-Dehydro-alpha-tocopherol",C29H48O2,428.36543078,Stemona collinsae,Stemona,KNApSAcK
+222,C00036421,345364-01-4,"16,17-Dihydro-4(E)-16(E)-stemofoline",C22H27NO5,385.18892298,Stemona collinsae,Stemona,KNApSAcK
+223,C00037013,610307-86-3,Dehydroprotostemonine,C23H29NO6,415.19948767,Stemona sp.,Stemona,KNApSAcK
+224,C00037590,682334-81-2,Oxyprotostemonine,C23H29NO7,431.19440229,Stemona sp.,Stemona,KNApSAcK
+225,C00037590,682334-81-2,Oxyprotostemonine,C23H29NO7,431.19440229,Stemona curtisii,Stemona,KNApSAcK
+226,C00037590,682334-81-2,Oxyprotostemonine,C23H29NO7,431.19440229,Stemona kerrii,Stemona,KNApSAcK
+227,C00038115,1028084-91-4,"1,9a-seco-Stemoenonine",C22H27NO8,433.17366685,Stemona tuberosa,Stemona,KNApSAcK
+228,C00038172,1002109-43-4,16-Hydroxystemofoline,C22H29NO6,403.19948767,Stemona japonica,Stemona,KNApSAcK
+229,C00038301,1002109-42-3,6beta-Hydroxystemofoline,C22H29NO6,403.19948767,Stemona japonica,Stemona,KNApSAcK
+230,C00038338,1028084-90-3,9a-O-Methylstemoenonine,C23H29NO7,431.19440229,Stemona tuberosa,Stemona,KNApSAcK
+231,C00039455,558427-04-6,Isostemofoline,C22H29NO5,387.20457304,Stemona japonica,Stemona,KNApSAcK
+232,C00039456,41758-67-2,Isostemonamine,C18H23NO4,317.16270823,Stemona sessilifolia,Stemona,KNApSAcK
+233,C00039456,41758-67-2,Isostemonamine,C18H23NO4,317.16270823,Stemona japonica,Stemona,KNApSAcK
+234,C00039841,1002109-44-5,Neostemofoline,C22H29NO5,387.20457304,Stemona japonica,Stemona,KNApSAcK
+235,C00039914,1028708-21-5,Oxystemoenonine,C22H29NO8,435.18931691,Stemona tuberosa,Stemona,KNApSAcK
+236,C00040077,1002109-45-6,Protostemodiol,C23H33NO7,435.22570242,Stemona japonica,Stemona,KNApSAcK
+237,C00040388,1028708-16-8,Stemoenonine,C22H27NO7,417.17875222,Stemona tuberosa,Stemona,KNApSAcK
+238,C00040389,41758-66-1,Stemonamine,C18H23NO4,317.16270823,Stemona japonica,Stemona,KNApSAcK
+239,C00041895,877661-87-5,Stilbostemin B 3'-beta-D-glucopyranoside,C21H26O7,390.16785319,Stemona tuberosa,Stemona,KNApSAcK
+240,C00041896,877822-76-9,Stilbostemin H 3'-beta-D-glucopyranoside,C22H28O8,420.17841787,Stemona tuberosa,Stemona,KNApSAcK
+241,C00041951,885056-81-5,Tuberospironine,C18H27NO5,337.18892298,Stemona tuberosa,Stemona,KNApSAcK
+242,C00041952,885056-80-4,Tuberostemonine K,C22H33NO4,375.24095855,Stemona tuberosa,Stemona,KNApSAcK
+243,C00042004,872681-58-8,(2'R)-Hydroxystemofoline,C22H29NO6,403.19948767,Stemona sp.,Stemona,KNApSAcK
+244,C00042008,872598-66-8,(3'R)-Stemofolenol,C22H27NO6,401.1838376,Stemona sp.,Stemona,KNApSAcK
+245,C00042009,872598-64-6,(3'S)-Stemofolenol,C22H27NO6,401.1838376,Stemona sp.,Stemona,KNApSAcK
+246,C00042025,161728-26-3,"1',2'-Didehydrostemofoline N-oxide",C22H27NO6,401.1838376,Stemona sp.,Stemona,KNApSAcK
+247,C00042067,132295-44-4,"2,5-Dideoxy-2,5-imino-D-glucitol",C6H13NO4,163.08445791,Stemona tuberosa,Stemona,KNApSAcK
+248,C00042220,119557-99-2,alpha-Homonojirimycin,C7H15NO5,193.0950226,Stemona tuberosa,Stemona,KNApSAcK
+249,C00042740,872681-59-9,Methylstemofoline,C19H23NO5,345.15762285,Stemona sp.,Stemona,KNApSAcK
+250,C00043020,872681-60-2,Stemofolinoside,C28H37NO11,563.23666103,Stemona sp.,Stemona,KNApSAcK
+251,C00043146,771584-52-2,"11(S),12(R)-Dihydrostemofoline",C22H31NO5,389.22022311,Stemona burkillii Prain,Stemona,KNApSAcK
+252,C00043929,773130-19-1,Stemoburkilline,C22H31NO5,389.22022311,Stemona burkillii Prain,Stemona,KNApSAcK
+253,C00045079,574747-63-0,Stemocurtisine,C19H25NO5,347.17327292,Stemona curtisii,Stemona,KNApSAcK
+254,C00046418,439900-83-1,Stemofuran A,C14H10O3,226.06299419,Stemona collinsiae,Stemona,KNApSAcK
+255,C00046418,439900-83-1,Stemofuran A,C14H10O3,226.06299419,Stemona collinsae,Stemona,KNApSAcK
+256,C00046418,439900-83-1,Stemofuran A,C14H10O3,226.06299419,Stemona aphylla,Stemona,KNApSAcK
+257,C00046418,439900-83-1,Stemofuran A,C14H10O3,226.06299419,Stemona cochinchinensis,Stemona,KNApSAcK
+258,C00046418,439900-83-1,Stemofuran A,C14H10O3,226.06299419,Stemona sessilifolia,Stemona,KNApSAcK
+259,C00046418,439900-83-1,Stemofuran A,C14H10O3,226.06299419,Stemona involuta,Stemona,KNApSAcK
+260,C00046418,439900-83-1,Stemofuran A,C14H10O3,226.06299419,Stemona curtisii,Stemona,KNApSAcK
+261,C00046419,439900-84-2,Stemofuran B,C15H12O4,256.07355887,Stemona collinsiae,Stemona,KNApSAcK
+262,C00046419,439900-84-2,Stemofuran B,C15H12O4,256.07355887,Stemona sessilifolia,Stemona,KNApSAcK
+263,C00046419,439900-84-2,Stemofuran B,C15H12O4,256.07355887,Stemona involuta,Stemona,KNApSAcK
+264,C00046419,439900-84-2,Stemofuran B,C15H12O4,256.07355887,Stemona collinsae,Stemona,KNApSAcK
+265,C00046419,439900-84-2,Stemofuran B,C15H12O4,256.07355887,Stemona cochinchinensis,Stemona,KNApSAcK
+266,C00046419,439900-84-2,Stemofuran B,C15H12O4,256.07355887,Stemona burkillii,Stemona,KNApSAcK
+267,C00046419,439900-84-2,Stemofuran B,C15H12O4,256.07355887,Stemona aphylla,Stemona,KNApSAcK
+268,C00046420,439900-85-3,Stemofuran C,C15H12O3,240.07864425,Stemona involuta,Stemona,KNApSAcK
+269,C00046420,439900-85-3,Stemofuran C,C15H12O3,240.07864425,Stemona collinsae,Stemona,KNApSAcK
+270,C00046420,439900-85-3,Stemofuran C,C15H12O3,240.07864425,Stemona collinsiae,Stemona,KNApSAcK
+271,C00046421,439900-86-4,Stemofuran D,C16H14O4,270.08920894,Stemona collinsae,Stemona,KNApSAcK
+272,C00046421,439900-86-4,Stemofuran D,C16H14O4,270.08920894,Stemona collinsiae,Stemona,KNApSAcK
+273,C00046421,439900-86-4,Stemofuran D,C16H14O4,270.08920894,Stemona curtisii,Stemona,KNApSAcK
+274,C00046422,439900-87-5,Stemofuran E,C17H16O4,284.104859,Stemona collinsae,Stemona,KNApSAcK
+275,C00046422,439900-87-5,Stemofuran E,C17H16O4,284.104859,Stemona aphylla,Stemona,KNApSAcK
+276,C00046422,439900-87-5,Stemofuran E,C17H16O4,284.104859,Stemona burkillii,Stemona,KNApSAcK
+277,C00046422,439900-87-5,Stemofuran E,C17H16O4,284.104859,Stemona curtisii,Stemona,KNApSAcK
+278,C00046422,439900-87-5,Stemofuran E,C17H16O4,284.104859,Stemona collinsiae,Stemona,KNApSAcK
+279,C00046422,439900-87-5,Stemofuran E,C17H16O4,284.104859,Stemona cochinchinensis,Stemona,KNApSAcK
+280,C00046423,439900-89-7,Stemofuran G,C18H18O4,298.12050906,Stemona collinsiae,Stemona,KNApSAcK
+281,C00046423,439900-89-7,Stemofuran G,C18H18O4,298.12050906,Stemona collinsae,Stemona,KNApSAcK
+282,C00046423,439900-89-7,Stemofuran G,C18H18O4,298.12050906,Stemona cochinchinensis,Stemona,KNApSAcK
+283,C00046424,439900-90-0,Stemofuran H,C19H20O4,312.13615913,Stemona collinsiae,Stemona,KNApSAcK
+284,C00046424,439900-90-0,Stemofuran H,C19H20O4,312.13615913,Stemona collinsae,Stemona,KNApSAcK
+285,C00046425,439900-91-1,Stemofuran I,C19H20O4,312.13615913,Stemona collinsae,Stemona,KNApSAcK
+286,C00046425,439900-91-1,Stemofuran I,C19H20O4,312.13615913,Stemona collinsiae,Stemona,KNApSAcK
+287,C00046426,439900-92-2,Stemofuran J,C18H18O4,298.12050906,Stemona collinsae,Stemona,KNApSAcK
+288,C00046426,439900-92-2,Stemofuran J,C18H18O4,298.12050906,Stemona curtisii,Stemona,KNApSAcK
+289,C00046426,439900-92-2,Stemofuran J,C18H18O4,298.12050906,Stemona aphylla,Stemona,KNApSAcK
+290,C00046426,439900-92-2,Stemofuran J,C18H18O4,298.12050906,Stemona burkillii,Stemona,KNApSAcK
+291,C00046426,439900-92-2,Stemofuran J,C18H18O4,298.12050906,Stemona cochinchinensis,Stemona,KNApSAcK
+292,C00046427,439697-21-9,Stemofuran K,C18H18O3,282.12559444,Stemona curtisii,Stemona,KNApSAcK
+293,C00046427,439697-21-9,Stemofuran K,C18H18O3,282.12559444,Stemona collinsae,Stemona,KNApSAcK
+294,C00046427,439697-21-9,Stemofuran K,C18H18O3,282.12559444,Stemona collinsiae,Stemona,KNApSAcK
+295,C00046428,439900-93-3,Stilbostemin A,C15H16O3,244.10994438,Stemona kerrii,Stemona,KNApSAcK
+296,C00046428,439900-93-3,Stilbostemin A,C15H16O3,244.10994438,Stemona burkillii,Stemona,KNApSAcK
+297,C00046428,439900-93-3,Stilbostemin A,C15H16O3,244.10994438,Stemona collinsae,Stemona,KNApSAcK
+298,C00046428,439900-93-3,Stilbostemin A,C15H16O3,244.10994438,Stemona collinsiae,Stemona,KNApSAcK
+299,C00046428,439900-93-3,Stilbostemin A,C15H16O3,244.10994438,Stemona tuberosa,Stemona,KNApSAcK
+300,C00046428,439900-93-3,Stilbostemin A,C15H16O3,244.10994438,Stemona sessilifolia,Stemona,KNApSAcK
+301,C00046428,439900-93-3,Stilbostemin A,C15H16O3,244.10994438,Stemona phyllantha,Stemona,KNApSAcK
+302,C00046428,439900-93-3,Stilbostemin A,C15H16O3,244.10994438,Stemona japonica,Stemona,KNApSAcK
+303,C00046429,439900-94-4,Stilbostemin C,C15H16O3,244.10994438,Stemona japonica,Stemona,KNApSAcK
+304,C00046429,439900-94-4,Stilbostemin C,C15H16O3,244.10994438,Stemona involuta,Stemona,KNApSAcK
+305,C00046429,439900-94-4,Stilbostemin C,C15H16O3,244.10994438,Stemona collinsiae,Stemona,KNApSAcK
+306,C00046429,439900-94-4,Stilbostemin C,C15H16O3,244.10994438,Stemona collinsae,Stemona,KNApSAcK
+307,C00046430,439900-96-6,Stilbostemin F,C17H20O4,288.13615913,Stemona tuberosa,Stemona,KNApSAcK
+308,C00046430,439900-96-6,Stilbostemin F,C17H20O4,288.13615913,Stemona lucida,Stemona,KNApSAcK
+309,C00046430,439900-96-6,Stilbostemin F,C17H20O4,288.13615913,Stemona involuta,Stemona,KNApSAcK
+310,C00046430,439900-96-6,Stilbostemin F,C17H20O4,288.13615913,Stemona collinsiae,Stemona,KNApSAcK
+311,C00046430,439900-96-6,Stilbostemin F,C17H20O4,288.13615913,Stemona collinsae,Stemona,KNApSAcK
+312,C00046430,439900-96-6,Stilbostemin F,C17H20O4,288.13615913,Stemona aphylla,Stemona,KNApSAcK
+313,C00048150,1151666-69-1,Stemaphylline,C17H29NO2,279.21982918,Stemona aphylla,Stemona,KNApSAcK
+314,C00048151,1151666-70-4,Stemaphylline N-oxide,C17H29NO3,295.2147438,Stemona aphylla,Stemona,KNApSAcK
+315,C00051011,24945-84-4,Isotuberostemonine,C22H33NO4,375.24095855,Stemona tuberosa,Stemona,KNApSAcK
+316,C00051443,6915-15-7,Malic acid,C4H6O5,134.0215233,Stemona tuberosa,Stemona,KNApSAcK
+317,C00056053,943141-41-1,Parvistemin A,C30H26O6,482.17293856,Stemona parviflora,Stemona,KNApSAcK
+318,C00056054,943141-42-2,Parvistemin B,C30H26O8,514.16276781,Stemona parviflora,Stemona,KNApSAcK
+319,C00056055,943141-43-3,Parvistemin C,C32H30O8,542.19406794,Stemona parviflora,Stemona,KNApSAcK
+320,C00056056,943141-44-4,Parvistemin D,C31H28O7,512.18350325,Stemona parviflora,Stemona,KNApSAcK
+321,C00056096,851983-04-5,Racemofuran,C17H16O4,284.104859,Stemona collinsiae,Stemona,KNApSAcK
+322,C00056128,959154-97-3,Stemanthrene E,C16H16O3,256.10994438,Stemona sessilifolia,Stemona,KNApSAcK
+323,C00056129,933788-22-8,Stemanthrene F,C17H18O3,270.12559444,Stemona japonica,Stemona,KNApSAcK
+324,C00056130,1130113-42-6,Stemanthrene G,C18H18O3,282.12559444,Stemona japonica,Stemona,KNApSAcK
+325,C00056131,439900-88-6,Stemofuran F,C18H18O4,298.12050906,Stemona aphylla,Stemona,KNApSAcK
+326,C00056131,439900-88-6,Stemofuran F,C18H18O4,298.12050906,Stemona collinsiae,Stemona,KNApSAcK
+327,C00056131,439900-88-6,Stemofuran F,C18H18O4,298.12050906,Stemona curtisii,Stemona,KNApSAcK
+328,C00056132,1258271-73-6,Stemofuran L,C17H16O3,268.10994438,Stemona curtisii,Stemona,KNApSAcK
+329,C00056133,1259501-99-9,Stemofuran M,C17H16O5,300.09977362,Stemona aphylla,Stemona,KNApSAcK
+330,C00056133,1259501-99-9,Stemofuran M,C17H16O5,300.09977362,Stemona burkillii,Stemona,KNApSAcK
+331,C00056134,1259502-00-5,Stemofuran N,C17H16O5,300.09977362,Stemona curtisii,Stemona,KNApSAcK
+332,C00056134,1259502-00-5,Stemofuran N,C17H16O5,300.09977362,Stemona aphylla,Stemona,KNApSAcK
+333,C00056135,1259502-01-6,Stemofuran O,C19H20O4,312.13615913,Stemona aphylla,Stemona,KNApSAcK
+334,C00056136,1259502-02-7,Stemofuran P,C18H18O5,314.11542369,Stemona aphylla,Stemona,KNApSAcK
+335,C00056137,1259502-03-8,Stemofuran Q,C18H18O5,314.11542369,Stemona aphylla,Stemona,KNApSAcK
+336,C00056138,1259502-04-9,Stemofuran R,C19H20O5,328.13107375,Stemona aphylla,Stemona,KNApSAcK
+337,C00056139,959154-96-2,Stilbostemin H,C17H20O4,288.13615913,Stemona tuberosa,Stemona,KNApSAcK
+338,C00056139,959154-96-2,Stilbostemin H,C17H20O4,288.13615913,Stemona sessilifolia,Stemona,KNApSAcK
+339,C00056140,959154-98-4,Stilbostemin I,C18H22O3,286.15689457,Stemona sessilifolia,Stemona,KNApSAcK
+340,C00056140,959154-98-4,Stilbostemin I,C18H22O3,286.15689457,Stemona tuberosa,Stemona,KNApSAcK
+341,C00056141,933788-19-3,Stilbostemin J,C16H18O4,274.12050906,Stemona japonica,Stemona,KNApSAcK
+342,C00056142,933788-20-6,Stilbostemin K,C16H18O4,274.12050906,Stemona japonica,Stemona,KNApSAcK
+343,C00056143,933788-21-7,Stilbostemin L,C18H22O4,302.15180919,Stemona japonica,Stemona,KNApSAcK
+344,C00056144,934826-32-1,Stilbostemin M,C17H20O2,256.14632988,Stemona sessilifolia,Stemona,KNApSAcK
+345,C00056144,934826-32-1,Stilbostemin M,C17H20O2,256.14632988,Stemona japonica,Stemona,KNApSAcK
+346,C00056145,1000676-45-8,Stilbostemin N,C16H18O3,258.12559444,Stemona sessilifolia,Stemona,KNApSAcK
+347,C00056146,1011289-18-1,Stilbostemin O,C16H18O3,258.12559444,Stemona tuberosa,Stemona,KNApSAcK
+348,C00056146,1011289-18-1,Stilbostemin O,C16H18O3,258.12559444,Stemona sessilifolia,Stemona,KNApSAcK
+349,C00056147,1011289-19-2,Stilbostemin P,C17H20O4,288.13615913,Stemona tuberosa,Stemona,KNApSAcK
+350,C00056148,1011289-20-5,Stilbostemin Q,C16H18O4,274.12050906,Stemona tuberosa,Stemona,KNApSAcK
+351,C00056149,1011289-21-6,Stilbostemin R,C16H18O3,258.12559444,Stemona japonica,Stemona,KNApSAcK
+352,C00056149,1011289-21-6,Stilbostemin R,C16H18O3,258.12559444,Stemona tuberosa,Stemona,KNApSAcK
+353,C00056149,1011289-21-6,Stilbostemin R,C16H18O3,258.12559444,Stemona aphylla,Stemona,KNApSAcK
+354,C00056150,1011289-22-7,Stilbostemin S,C17H20O4,288.13615913,Stemona japonica,Stemona,KNApSAcK
+355,C00056151,1011289-23-8,Stilbostemin T,C17H20O4,288.13615913,Stemona tuberosa,Stemona,KNApSAcK
+356,C00056151,1011289-23-8,Stilbostemin T,C17H20O4,288.13615913,Stemona japonica,Stemona,KNApSAcK
+357,C00056152,1011289-24-9,Stilbostemin U,C18H22O4,302.15180919,Stemona tuberosa,Stemona,KNApSAcK
+358,C00056153,1011289-25-0,Stilbostemin V,C18H22O4,302.15180919,Stemona tuberosa,Stemona,KNApSAcK
+359,C00056154,1011289-26-1,Stilbostemin W,C17H20O3,272.1412445,Stemona tuberosa,Stemona,KNApSAcK
+360,C00056155,1011289-27-2,Stilbostemin X,C18H22O4,302.15180919,Stemona tuberosa,Stemona,KNApSAcK
+361,C00056156,1011289-28-3,Stilbostemin Y,C18H22O4,302.15180919,Stemona tuberosa,Stemona,KNApSAcK
+0,C00004276,6920-38-3,"5,7,3',4'-Tetrahydroxyflavone 4'-beta-D-glucopyranoside",C21H20O11,448.10056148,Disporum cantoniense,Disporum,KNApSAcK
+0,C00000156,499-75-2,Carvacrol,C10H14O,150.10446507,Trachyspermum roxburghianum,Roxburghia,KNApSAcK
+1,C00000258,530-55-2,"2,6-Dimethoxy-1,4-benzoquinone",C8H8O4,168.04225874,Engelhardia roxburghiana,Roxburghia,KNApSAcK
+2,C00000300,523-59-1,Seselin,C14H12O3,228.07864425,Carum roxburghianum,Roxburghia,KNApSAcK
+3,C00000805,80-56-8,alpha-Pinene,C10H16,136.12520051,Trachyspermum roxburghianum,Roxburghia,KNApSAcK
+4,C00000816,127-91-3,beta-Pinene,C10H16,136.12520051,Trachyspermum roxburghianum,Roxburghia,KNApSAcK
+5,C00002151,484-29-7,Dictamine,C12H9NO2,199.06332854,Euodia roxburghiana,Roxburghia,KNApSAcK
+6,C00002162,523-64-8,Flindersine,C14H13NO2,227.09462867,Atalantia roxburghiana,Roxburghia,KNApSAcK
+7,C00002177,484-08-2,Kokusaginine,C14H13NO4,259.08445791,Euodia roxburghiana,Roxburghia,KNApSAcK
+8,C00002189,50333-13-6,N-Methylflindersine,C15H15NO2,241.11027873,Atalantia roxburghiana,Roxburghia,KNApSAcK
+9,C00002657,123-08-0,4-Hydroxybenzaldehyde,C7H6O2,122.03677944,Engelhardia roxburghiana,Roxburghia,KNApSAcK
+10,C00002682,121-34-6,Vanillic acid,C8H8O4,168.04225874,Engelhardia roxburghiana,Roxburghia,KNApSAcK
+11,C00002683,5463-22-9,Vanillin,C8H8O3,152.04734412,Engelhardia roxburghiana,Roxburghia,KNApSAcK
+12,C00002689,498-02-2,3'-Methoxy-4'-hydroxyacetophenone,C9H10O3,166.06299419,Engelhardia roxburghiana,Roxburghia,KNApSAcK
+13,C00003047,78-70-6,(+-)-Linalool,C10H18O,154.1357652,Trachyspermum roxburghianum,Roxburghia,KNApSAcK
+14,C00003051,99-83-2,alpha-Phellandrene,C10H16,136.12520051,Trachyspermum roxburghianum,Roxburghia,KNApSAcK
+15,C00010872,555-10-2,beta-Phellandrene,C10H16,136.12520051,Trachyspermum roxburghianum,Roxburghia,KNApSAcK
+16,C00019064,508-02-1,Oleanolic acid,C30H48O3,456.3603454,Engelhardia roxburghiana,Roxburghia,KNApSAcK
+17,C00029476,118-41-2,Eudesmic acid,C10H12O5,212.06847349,Engelhardia roxburghiana,Roxburghia,KNApSAcK
+18,C00029515,501-94-0,2-(4-Hydroxyphenyl)ethanol,C8H10O2,138.06807956,Engelhardia roxburghiana,Roxburghia,KNApSAcK
+19,C00029674,98-55-5,alpha-Terpineol,C10H18O,154.1357652,Trachyspermum roxburghianum,Roxburghia,KNApSAcK
+20,C00029821,1058-61-3,Sitostenone,C29H48O,412.37051615,Engelhardia roxburghiana,Roxburghia,KNApSAcK
+21,C00029961,621-82-9,Cinnamic acid,C9H8O2,148.0524295,Engelhardia roxburghiana,Roxburghia,KNApSAcK
+22,C00031258,3387-41-5,4(10)-Thujene,C10H16,136.12520051,Trachyspermum roxburghianum,Roxburghia,KNApSAcK
+23,C00033260,72755-20-5,Odorine,C18H24N2O2,300.18377802,Aglaia roxburghiana,Roxburghia,KNApSAcK
+24,C00034374,2216-69-5,1-Methoxynaphthalene,C11H10O,158.07316494,Engelhardia roxburghiana,Roxburghia,KNApSAcK
+25,C00034390,38736-77-5,3-epi-Betulinic acid,C30H48O3,456.3603454,Engelhardia roxburghiana,Roxburghia,KNApSAcK
+26,C00034393,39560-34-4,4-(2-Hydroxyphenyl)-4-oxobutyric acid,C10H10O4,194.05790881,Engelhardia roxburghiana,Roxburghia,KNApSAcK
+27,C00034397,942304-85-0,"5,8-Dihydroxy-4-methoxy-1-tetralone",C11H12O4,208.07355887,Engelhardia roxburghiana,Roxburghia,KNApSAcK
+28,C00034398,3588-80-5,5-Methoxy-1-naphthalenol,C11H10O2,174.06807956,Engelhardia roxburghiana,Roxburghia,KNApSAcK
+29,C00034485,101927-24-6,Docosyl trans-ferulate,C32H54O4,502.40221021,Engelhardia roxburghiana,Roxburghia,KNApSAcK
+30,C00034498,942502-95-6,Engelhardic acid,C15H22O2,234.16197995,Engelhardia roxburghiana,Roxburghia,KNApSAcK
+31,C00034499,942502-94-5,Engelharolide,C14H16O5,264.09977362,Engelhardia roxburghiana,Roxburghia,KNApSAcK
+32,C00034500,942502-92-3,Engelharquinone,C20H12O6,348.06338812,Engelhardia roxburghiana,Roxburghia,KNApSAcK
+33,C00034501,942502-93-4,Engelharquinone epoxide,C20H12O7,364.05830274,Engelhardia roxburghiana,Roxburghia,KNApSAcK
+34,C00034535,63034-29-7,Hexacosyl trans-ferulate,C36H62O4,558.46481047,Engelhardia roxburghiana,Roxburghia,KNApSAcK
+35,C00034602,105254-34-0,Methyl-4-(butyryloxy)benzoate,C12H14O4,222.08920894,Engelhardia roxburghiana,Roxburghia,KNApSAcK
+36,C00034722,101927-25-7,Tetracosyl trans-ferulate,C34H58O4,530.43351034,Engelhardia roxburghiana,Roxburghia,KNApSAcK
+37,C00034729,101959-30-2,Tricosyl trans-ferulate,C33H56O4,516.41786028,Engelhardia roxburghiana,Roxburghia,KNApSAcK
+38,C00036842,84017-97-0,Buchapsine,C19H23NO2,297.17287899,Euodia roxburghiana,Roxburghia,KNApSAcK
+39,C00037133,523-66-0,Evolitrine,C13H11NO3,229.07389323,Euodia roxburghiana,Roxburghia,KNApSAcK
+40,C00043194,15254-76-9,3-Methoxyjuglone,C11H8O4,204.04225874,Engelhardia roxburghiana,Roxburghia,KNApSAcK
+41,C00048083,103629-93-2,Roxburghiadiol A,C29H48O2,428.36543078,Aglaia roxburghiana,Roxburghia,KNApSAcK
+42,C00050585,936253-88-2,Engelhardione,C19H20O4,312.13615913,Engelhardia roxburghiana,Roxburghia,KNApSAcK
+43,C00050618,359013-54-0,(+)-4-Hydroxy-1-tetralone,C10H10O2,162.06807956,Engelhardia roxburghiana,Roxburghia,KNApSAcK
+44,C00050673,15127-94-3,2-Methoxyjuglone,C11H8O4,204.04225874,Engelhardia roxburghiana,Roxburghia,KNApSAcK
+45,C00052088,175097-25-3,(+)-Roxiamine A,C18H19NO5,329.12632272,Euodia roxburghiana,Roxburghia,KNApSAcK
+46,C00052089,175097-27-5,(+)-Roxiamine C,C16H17NO4,287.11575804,Euodia roxburghiana,Roxburghia,KNApSAcK
+47,C00052405,175097-26-4,Roxiamine B,C18H17NO5,327.11067266,Euodia roxburghiana,Roxburghia,KNApSAcK
+48,C00057431,53811-56-6,6-Methylumbelliferone,C10H8O3,176.04734412,Trachyspermum roxburghianum,Roxburghia,KNApSAcK
+0,C00033283,303008-80-2,Pandamarilactonine A,C18H23NO4,317.16270823,Stichoneuron calcicola,Stichoneuron,KNApSAcK
+1,C00033284,303008-81-3,Pandamarilactonine B,C18H23NO4,317.16270823,Stichoneuron calcicola,Stichoneuron,KNApSAcK
+2,C00033285,477332-25-5,Pandamarilactonine C,C18H23NO4,317.16270823,Stichoneuron calcicola,Stichoneuron,KNApSAcK
+3,C00033286,477332-26-6,Pandamarilactonine D,C18H23NO4,317.16270823,Stichoneuron calcicola,Stichoneuron,KNApSAcK
+4,C00047629,1186098-00-9,"(E,E)-Pandanamine",C18H23NO4,317.16270823,Stichoneuron calcicola,Stichoneuron,KNApSAcK
+0,C00008782,27348-55-6,4'-Hydroxy-7-methoxy-8-methylflavan,C17H18O3,270.12559444,Dianella revoluta,Dianella,KNApSAcK
+1,C00011103,395680-63-4,"Delphinidin 3,7-diglucoside-3',5'-di(6-O-p-coumaroyl-beta-glucoside)",C57H63O31,1243.3353303,Dianella nigra,Dianella,KNApSAcK
+2,C00011103,395680-63-4,"Delphinidin 3,7-diglucoside-3',5'-di(6-O-p-coumaroyl-beta-glucoside)",C57H63O31,1243.3353303,Dianella tasmanica,Dianella,KNApSAcK
+3,C00011104,395680-64-5,"Delphinidin 3-glucoside-7,3',5'-tri(6-O-p-coumaroyl-beta-glucoside)",C66H69O33,1389.37210974,Dianella tasmanica,Dianella,KNApSAcK
+4,C00011104,395680-64-5,"Delphinidin 3-glucoside-7,3',5'-tri(6-O-p-coumaroyl-beta-glucoside)",C66H69O33,1389.37210974,Dianella nigra,Dianella,KNApSAcK
+5,C00011105,395680-65-6,"Delphinidin 3,7,3',5'-tetra(6-O-p-coumaroyl-beta-glucoside)",C75H75O35,1535.40888917,Dianella tasmanica,Dianella,KNApSAcK
+6,C00011105,395680-65-6,"Delphinidin 3,7,3',5'-tetra(6-O-p-coumaroyl-beta-glucoside)",C75H75O35,1535.40888917,Dianella nigra,Dianella,KNApSAcK
+7,C00011106,393525-59-2,Stelladerol,C24H30O13,526.16864105,Dianella tasmanica,Dianella,KNApSAcK
+8,C00011106,393525-59-2,Stelladerol,C24H30O13,526.16864105,Dianella nigra,Dianella,KNApSAcK
+9,C00036143,3187-58-4,Methyl orsellinate,C9H10O4,182.05790881,Dianella ensifolia,Dianella,KNApSAcK
+0,C00001408,51-61-6,Dopamine,C8H11NO2,153.0789786,Cissampelos pareira,Cissampelos,KNApSAcK
+1,C00001435,51-67-2,Tyramine,C8H11NO,137.08406398,Cissampelos pareira,Cissampelos,KNApSAcK
+2,C00001816,477-60-1,(+)-Bebeerine,C36H38N2O6,594.27298696,Cissampelos pareira,Cissampelos,KNApSAcK
+3,C00001824,298-45-3,Bulbocapnine,C19H19NO4,325.1314081,Cissampelos pareira,Cissampelos,KNApSAcK
+4,C00001870,477-62-3,Isochondodendrine,C36H38N2O6,594.27298696,Cissampelos pareira L.,Cissampelos,KNApSAcK
+5,C00001878,475-75-2,Liriodenine,C17H9NO3,275.05824316,Cissampelos sympodialis,Cissampelos,KNApSAcK
+6,C00001885,2141-09-5,Magnoflorine,C20H24NO4,342.17053326,Cissampelos pareira,Cissampelos,KNApSAcK
+7,C00001919,518-34-3,(+)-Tetrandrine,C38H42N2O6,622.30428709,Cissampelos pareira,Cissampelos,KNApSAcK
+8,C00014538,625416-81-1,Cissampeloflavone,C34H26O10,594.15259705,Cissampelos pareira,Cissampelos,KNApSAcK
+9,C00025268,3423-07-2,(+)-N-Methylcoclaurine,C18H21NO3,299.15214354,Cissampelos pareira,Cissampelos,KNApSAcK
+10,C00025295,63527-13-9,beta-Cyclanoline,C20H24NO4,342.17053326,Cissampelos pareira L.,Cissampelos,KNApSAcK
+11,C00025359,18556-27-9,Cyclanoline,C20H24NO4,342.17053326,Cissampelos pareira L.,Cissampelos,KNApSAcK
+12,C00025602,436-05-5,(-)-Curine,C36H38N2O6,594.27298696,Cissampelos pareira L.,Cissampelos,KNApSAcK
+13,C00025604,518-94-5,Cycleanine,C38H42N2O6,622.30428709,Cissampelos pareira L.,Cissampelos,KNApSAcK
+14,C00025655,517-56-6,(+)-Corytuberine,C19H21NO4,327.14705817,Cissampelos pareira L.,Cissampelos,KNApSAcK
+15,C00025658,517-66-8,(+)-Dicentrine,C20H21NO4,339.14705817,Cissampelos pareira L.,Cissampelos,KNApSAcK
+16,C00025797,188845-73-0,Cissaglaberrimine,C17H15NO3,281.10519335,Cissampelos glaberrima St.Hill,Cissampelos,KNApSAcK
+17,C00025812,486-39-5,Coclaurine,C17H19NO3,285.13649348,Cissampelos pareira,Cissampelos,KNApSAcK
+18,C00025827,476-69-7,Corydine,C20H23NO4,341.16270823,Cissampelos fasciculata Benth,Cissampelos,KNApSAcK
+19,C00025835,26057-50-1,Daijisong,C38H44N2I2O6,878.12887315,Cissampelos pareira L.,Cissampelos,KNApSAcK
+20,C00025842,19843-03-9,Dehydrodicentrine,C20H19NO4,337.1314081,Cissampelos pareira L.,Cissampelos,KNApSAcK
+21,C00025855,30996-85-1,Dihydrowarifteine,C36H38N2O6,594.27298696,Cissampelos ovalifolia DC.,Cissampelos,KNApSAcK
+22,C00025856,30994-04-8,Dimethyldihydrowarifteine,C38H42N2O6,622.30428709,Cissampelos ovalifolia DC.,Cissampelos,KNApSAcK
+23,C00025857,7678-91-3,Dimethylwarifteine,C38H40N2O6,620.28863702,Cissampelos ovalifolia DC.,Cissampelos,KNApSAcK
+24,C00025860,216165-78-5,Eletefine,C19H19NO5,341.12632272,Cissampelos glaberrima St.Hill,Cissampelos,KNApSAcK
+25,C00025879,74631-22-4,Grandirubrine,C19H15NO5,337.0950226,Cissampelos pareira L.,Cissampelos,KNApSAcK
+26,C00025885,26057-51-2,Hayatine,C36H38N2O6,594.27298696,Cissampelos pareira L.,Cissampelos,KNApSAcK
+27,C00025886,6879-67-0,Hayatinine,C37H40N2O6,608.28863702,Cissampelos pareira L.,Cissampelos,KNApSAcK
+28,C00025901,549-07-5,Insularine,C38H40N2O6,620.28863702,Cissampelos pareira L.,Cissampelos,KNApSAcK
+29,C00025908,74684-11-0,Isoimerubrine,C20H17NO5,351.11067266,Cissampelos pareira L.,Cissampelos,KNApSAcK
+30,C00025937,6801-40-7,Magnocurarine,C19H24NO3,314.17561864,Cissampelos pareira,Cissampelos,KNApSAcK
+31,C00025942,31114-26-8,Methyldihydrowarifteine,C37H40N2O6,608.28863702,Cissampelos ovalifolia DC.,Cissampelos,KNApSAcK
+32,C00025943,32728-54-4,Methylwarifteine,C37H38N2O6,606.27298696,Cissampelos ovalifolia DC.,Cissampelos,KNApSAcK
+33,C00025944,171485-61-3,Milonine,C19H23NO4,329.16270823,Cissampelos simpodialis Eichl.,Cissampelos,KNApSAcK
+34,C00025961,152606-56-9,Norimeluteine,C19H17NO5,339.11067266,Cissampelos pareira L.,Cissampelos,KNApSAcK
+35,C00025963,58189-34-7,Norrufescine,C18H15NO4,309.10010798,Cissampelos pareira L.,Cissampelos,KNApSAcK
+36,C00025976,475-83-2,Nuciferine,C19H21NO2,295.15722892,Cissampelos pareira L.,Cissampelos,KNApSAcK
+37,C00025976,475-83-2,Nuciferine,C19H21NO2,295.15722892,Cissampelos pareira,Cissampelos,KNApSAcK
+38,C00025993,89368-27-4,Oxobuxifoline,C19H13NO5,335.07937253,Cissampelos glaberrima St.Hill,Cissampelos,KNApSAcK
+39,C00026004,147044-68-6,Pareirubrine,C20H17NO6,367.10558728,Cissampelos pareira L.,Cissampelos,KNApSAcK
+40,C00026005,152845-78-8,Pareirubrine B,C18H13NO4,307.08445791,Cissampelos pareira L.,Cissampelos,KNApSAcK
+41,C00026006,164176-12-9,Pareitropone,C18H13NO3,291.08954329,Cissampelos pareira L.,Cissampelos,KNApSAcK
+42,C00026082,30996-86-2,Warifteine,C36H36N2O6,592.2573369,Cissampelos ovalifolia DC.,Cissampelos,KNApSAcK
+43,C00026082,30996-86-2,Warifteine,C36H36N2O6,592.2573369,Cissampelos simpodialis Eichl.,Cissampelos,KNApSAcK
+44,C00028061,147451-90-9,Cissampentine,C37H40N2O6,608.28863702,Cissampelos fasciculata,Cissampelos,KNApSAcK
+45,C00028454,2888-77-9,Laudanosine,C21H27NO4,357.19400836,Cissampelos pereira,Cissampelos,KNApSAcK
+46,C00034613,22672-77-1,(S)-Norcoclaurine,C16H17NO3,271.12084342,Cissampelos pareira,Cissampelos,KNApSAcK
+47,C00051850,7339-87-9,4-Hydroxyphenylacetaldehyde,C8H8O2,136.0524295,Cissampelos pareira,Cissampelos,KNApSAcK
+48,C00051851,622-54-8,4-Hydroxyphenylpyruvate,C9H7O4-,179.03443371,Cissampelos pareira,Cissampelos,KNApSAcK
+49,C00052007,,N-Demethylcolletine,C19H23NO3,313.16779361,Cissampelos pareira,Cissampelos,KNApSAcK
+0,C00000600,34209-69-3,(-)-Trachelogenin,C21H24O7,388.15220312,Torreya jackii,Torreya,KNApSAcK
+1,C00000609,7770-78-7,Arctigenin,C21H24O6,372.1572885,Torreya nucifera,Torreya,KNApSAcK
+2,C00000609,7770-78-7,Arctigenin,C21H24O6,372.1572885,Torreya jackii,Torreya,KNApSAcK
+3,C00001015,1617-53-4,Amentoflavone,C30H18O10,538.0899968,Torreya yunnanensis,Torreya,KNApSAcK
+4,C00001015,1617-53-4,Amentoflavone,C30H18O10,538.0899968,Torreya nucifera,Torreya,KNApSAcK
+5,C00001044,481-46-9,Ginkgetin,C32H22O10,566.12129692,Torreya nucifera,Torreya,KNApSAcK
+6,C00001098,521-34-6,Sciadopitysin,C33H24O10,580.13694699,Torreya yunnanensis,Torreya,KNApSAcK
+7,C00001098,521-34-6,Sciadopitysin,C33H24O10,580.13694699,Torreya nucifera,Torreya,KNApSAcK
+8,C00001183,110-17-8,Fumaric acid,C4H4O4,116.01095862,Torreya yunnanensis,Torreya,KNApSAcK
+9,C00002064,501-02-0,Pinidine,C9H17N,139.13609955,Pinus torreyana,Torreya,KNApSAcK
+10,C00002609,564-73-8,Hinokiol,C20H30O2,302.2245802,Torreya nucifera var.radicans,Torreya,KNApSAcK
+11,C00003426,514-62-5,(+)-Ferruginol,C20H30O,286.22966558,Torreya nucifera var.radicans,Torreya,KNApSAcK
+12,C00006488,521-32-4,Bilobetin,C31H20O10,552.10564686,Torreya nucifera,Torreya,KNApSAcK
+13,C00006489,2608-21-1,Sotetsuflavone,C31H20O10,552.10564686,Torreya yunnanensis,Torreya,KNApSAcK
+14,C00007190,487-36-5,(+)-Pinoresinol,C20H22O6,358.14163844,Torreya jackii,Torreya,KNApSAcK
+15,C00007201,28115-68-6,(-)-Pluviatolide,C20H20O6,356.12598837,Torreya jackii,Torreya,KNApSAcK
+16,C00007203,61521-74-2,Wikstromol,C20H22O7,374.13655306,Torreya jackii,Torreya,KNApSAcK
+17,C00011445,23262-34-2,Dendrolasin,C15H22O,218.16706532,Torreya nucifera,Torreya,KNApSAcK
+18,C00011489,1786-16-9,Neotorreyol,C15H22O2,234.16197995,Torreya nucifera,Torreya,KNApSAcK
+19,C00011490,6755-82-4,Torreyal,C15H20O2,232.14632988,Torreya nucifera,Torreya,KNApSAcK
+20,C00011623,39599-18-3,(+-)-(E)-Nuciferol,C15H22O,218.16706532,Torreya nucifera,Torreya,KNApSAcK
+21,C00011624,25532-74-5,(+)-Nuciferal,C15H20O,216.15141526,Torreya nucifera,Torreya,KNApSAcK
+22,C00022520,26296-35-5,Kayadiol,C20H34O2,306.25588033,Torreya nucifera,Torreya,KNApSAcK
+23,C00022717,33947-55-6,Torreferol,C20H34O2,306.25588033,Torreya nucifera,Torreya,KNApSAcK
+24,C00022718,4549-12-6,13-Epitorreferol,C20H34O2,306.25588033,Torreya nucifera,Torreya,KNApSAcK
+25,C00037882,98604-34-3,Taiwanin F,C20H28O4,332.19875938,Torreya nucifera var.radicans,Torreya,KNApSAcK
+26,C00037890,220785-02-4,Taxusabietane A,C21H28O4,344.19875938,Torreya nucifera var.radicans,Torreya,KNApSAcK
+27,C00042729,120051-54-9,Meridinol,C20H18O7,370.10525293,Torreya yunnanensis,Torreya,KNApSAcK
+28,C00045113,583861-71-6,Torreyayunnin,C20H26O4,330.18310932,Torreya yunnanensis,Torreya,KNApSAcK
+29,C00052444,362662-48-4,(-)-4'-Demethyltraxillagenin,C21H24O7,388.15220312,Torreya nucifera,Torreya,KNApSAcK
+30,C00052464,79288-73-6,(-)-Traxillagenin,C22H26O7,402.16785319,Torreya nucifera,Torreya,KNApSAcK
+0,C00000004,468-44-0,Gibberellin A4,C19H24O5,332.16237388,Dioscorea polystachya,Dioscorea,KNApSAcK
+1,C00000012,1164-45-0,Gibberellin A12,C20H28O4,332.19875938,Dioscorea polystachya,Dioscorea,KNApSAcK
+2,C00000019,6980-44-5,Gibberellin A19,C20H26O6,362.17293856,Dioscorea polystachya,Dioscorea,KNApSAcK
+3,C00000020,19143-87-4,Gibberellin A20,C19H24O5,332.16237388,Dioscorea polystachya,Dioscorea,KNApSAcK
+4,C00000036,38076-57-2,Gibberellin A36,C20H26O6,362.17293856,Dioscorea polystachya,Dioscorea,KNApSAcK
+5,C00000053,51576-08-0,Gibberellin A53,C20H28O5,348.193674,Dioscorea polystachya,Dioscorea,KNApSAcK
+6,C00000152,7400-08-0,p-Coumaric acid,C9H8O3,164.04734412,Dioscorea alata,Dioscorea,KNApSAcK
+7,C00000170,140-10-3,Cinnamate,C9H8O2,148.0524295,Dioscorea alata,Dioscorea,KNApSAcK
+8,C00000208,59-67-6,Vitamin B3,C6H5NO2,123.03202841,Dioscorea alata,Dioscorea,KNApSAcK
+9,C00000325,51415-00-0,Batatasin I,C17H16O4,284.104859,Dioscorea alata,Dioscorea,KNApSAcK
+10,C00000325,51415-00-0,Batatasin I,C17H16O4,284.104859,Dioscorea dumetorum,Dioscorea,KNApSAcK
+11,C00000325,51415-00-0,Batatasin I,C17H16O4,284.104859,Dioscorea sansibarensis,Dioscorea,KNApSAcK
+12,C00000325,51415-00-0,Batatasin I,C17H16O4,284.104859,Dioscorea opposita,Dioscorea,KNApSAcK
+13,C00000325,51415-00-0,Batatasin I,C17H16O4,284.104859,Dioscorea rotundata,Dioscorea,KNApSAcK
+14,C00000325,51415-00-0,Batatasin I,C17H16O4,284.104859,Dioscorea composita,Dioscorea,KNApSAcK
+15,C00000325,51415-00-0,Batatasin I,C17H16O4,284.104859,Dioscorea trifida,Dioscorea,KNApSAcK
+16,C00000325,51415-00-0,Batatasin I,C17H16O4,284.104859,Dioscorea batatas,Dioscorea,KNApSAcK
+17,C00000325,51415-00-0,Batatasin I,C17H16O4,284.104859,Dioscorea cayenensis,Dioscorea,KNApSAcK
+18,C00000325,51415-00-0,Batatasin I,C17H16O4,284.104859,Dioscorea bulbifera,Dioscorea,KNApSAcK
+19,C00000615,501-16-6,Caffeic acid,C9H8O4,180.04225874,Dioscorea alata,Dioscorea,KNApSAcK
+20,C00000677,480-18-2,Dihydroquercetin,C15H12O7,304.05830274,Dioscorea alata,Dioscorea,KNApSAcK
+21,C00000919,7235-40-7,beta-Carotene,C40H56,536.43820179,Dioscorea spp.,Dioscorea,KNApSAcK
+22,C00000920,472-70-8,beta-Cryptoxanthin,C40H56O,552.43311641,Dioscorea bulbifera,Dioscorea,KNApSAcK
+23,C00000931,144-68-3,Zeaxanthin,C40H56O2,568.42803103,Dioscorea bulbifera,Dioscorea,KNApSAcK
+24,C00000947,154-23-4,(+)-Catechin,C15H14O6,290.07903818,Dioscorea alata,Dioscorea,KNApSAcK
+25,C00000982,480-41-1,Naringenin,C15H12O5,272.06847349,Dioscorea alata,Dioscorea,KNApSAcK
+26,C00001071,529-44-2,Myricetin,C15H10O8,318.0375673,Dioscorea bulbifera,Dioscorea,KNApSAcK
+27,C00001217,112-86-7,Erucic acid,C22H42O2,338.31848058,Dioscorea alata,Dioscorea,KNApSAcK
+28,C00001233,57-10-3,Palmitic acid,C16H32O2,256.24023027,Dioscorea opposita,Dioscorea,KNApSAcK
+29,C00001569,639-41-8,Crinamine,C17H19NO4,301.1314081,Dioscorea dregeana,Dioscorea,KNApSAcK
+30,C00002036,3329-91-7,Dioscorine,C13H19NO2,221.14157886,Dioscorea hispida,Dioscorea,KNApSAcK
+31,C00002036,3329-91-7,Dioscorine,C13H19NO2,221.14157886,Dioscorea hirsuta,Dioscorea,KNApSAcK
+32,C00002374,7084-24-4,Cyanidin 3-O-glucoside,C21H21O11.Cl,484.07723923,Dioscorea alata,Dioscorea,KNApSAcK
+33,C00002384,16727-30-3,Malvin,C29H35O17,655.1874247,Dioscorea tryphida,Dioscorea,KNApSAcK
+34,C00002631,21453-69-0,(+)-Lirioresinol B,C22H26O8,418.16276781,Dioscorea spongiosa,Dioscorea,KNApSAcK
+35,C00002770,20283-92-5,Labiatenic acid,C18H16O8,360.08451749,Dioscorea alata,Dioscorea,KNApSAcK
+36,C00002871,60347-67-3,Batatasin IV,C15H16O3,244.10994438,Dioscorea batatus,Dioscorea,KNApSAcK
+37,C00002871,60347-67-3,Batatasin IV,C15H16O3,244.10994438,Dioscorea rotundata,Dioscorea,KNApSAcK
+38,C00002871,60347-67-3,Batatasin IV,C15H16O3,244.10994438,Dioscorea alata,Dioscorea,KNApSAcK
+39,C00002871,60347-67-3,Batatasin IV,C15H16O3,244.10994438,Dioscorea batatas,Dioscorea,KNApSAcK
+40,C00002871,60347-67-3,Batatasin IV,C15H16O3,244.10994438,Dioscorea opposita,Dioscorea,KNApSAcK
+41,C00002877,113276-63-4,Demethylbatatasin IV,C14H14O3,230.09429431,Dioscorea dumetorum,Dioscorea,KNApSAcK
+42,C00002877,113276-63-4,Demethylbatatasin IV,C14H14O3,230.09429431,Dioscorea bulbifera,Dioscorea,KNApSAcK
+43,C00002877,113276-63-4,Demethylbatatasin IV,C14H14O3,230.09429431,Dioscorea rotundata,Dioscorea,KNApSAcK
+44,C00002877,113276-63-4,Demethylbatatasin IV,C14H14O3,230.09429431,Dioscorea rotundifolia,Dioscorea,KNApSAcK
+45,C00002877,113276-63-4,Demethylbatatasin IV,C14H14O3,230.09429431,Dioscorea alata,Dioscorea,KNApSAcK
+46,C00002878,14531-52-3,Dihydropinosylvin,C14H14O2,214.09937969,Dioscorea batatas,Dioscorea,KNApSAcK
+47,C00002878,14531-52-3,Dihydropinosylvin,C14H14O2,214.09937969,Dioscorea alata,Dioscorea,KNApSAcK
+48,C00002878,14531-52-3,Dihydropinosylvin,C14H14O2,214.09937969,Dioscorea opposita,Dioscorea,KNApSAcK
+49,C00002878,14531-52-3,Dihydropinosylvin,C14H14O2,214.09937969,Dioscorea rotundata,Dioscorea,KNApSAcK
+50,C00002879,58436-28-5,Dihydroresveratrol,C14H14O3,230.09429431,Dioscorea dumetorum,Dioscorea,KNApSAcK
+51,C00002879,58436-28-5,Dihydroresveratrol,C14H14O3,230.09429431,Dioscorea bulbifera,Dioscorea,KNApSAcK
+52,C00002884,41060-05-3,Hircinol,C15H14O3,242.09429431,Dioscorea rotundata,Dioscorea,KNApSAcK
+53,C00002886,39499-84-8,Isobatatasin I,C17H16O4,284.104859,Dioscorea rotundata,Dioscorea,KNApSAcK
+54,C00003571,55659-75-1,Deltonin,C45H72O17,884.47695088,Dioscorea cyphocarpa,Dioscorea,KNApSAcK
+55,C00003571,55659-75-1,Deltonin,C45H72O17,884.47695088,Dioscorea cayenensis,Dioscorea,KNApSAcK
+56,C00003571,55659-75-1,Deltonin,C45H72O17,884.47695088,Dioscorea nipponica,Dioscorea,KNApSAcK
+57,C00003571,55659-75-1,Deltonin,C45H72O17,884.47695088,Dioscorea villosa,Dioscorea,KNApSAcK
+58,C00003571,55659-75-1,Deltonin,C45H72O17,884.47695088,Dioscorea parviflora,Dioscorea,KNApSAcK
+59,C00003571,55659-75-1,Deltonin,C45H72O17,884.47695088,Dioscorea deltoidea,Dioscorea,KNApSAcK
+60,C00003572,62751-68-2,Deltoside,C51H84O23,1064.54033899,Dioscorea parviflora,Dioscorea,KNApSAcK
+61,C00003572,62751-68-2,Deltoside,C51H84O23,1064.54033899,Dioscorea deltoidea,Dioscorea,KNApSAcK
+62,C00003575,19057-60-4,Collettiside III,C45H72O16,868.48203625,Dioscorea draco,Dioscorea,KNApSAcK
+63,C00003575,19057-60-4,Collettiside III,C45H72O16,868.48203625,Dioscorea collettii,Dioscorea,KNApSAcK
+64,C00003575,19057-60-4,Collettiside III,C45H72O16,868.48203625,Dioscorea batatas,Dioscorea,KNApSAcK
+65,C00003575,19057-60-4,Collettiside III,C45H72O16,868.48203625,Dioscorea althaeoides,Dioscorea,KNApSAcK
+66,C00003575,19057-60-4,Collettiside III,C45H72O16,868.48203625,Dioscorea cayenensis,Dioscorea,KNApSAcK
+67,C00003575,19057-60-4,Collettiside III,C45H72O16,868.48203625,Dioscorea bulbifera var.sativa,Dioscorea,KNApSAcK
+68,C00003575,19057-60-4,Collettiside III,C45H72O16,868.48203625,Dioscorea zingiberensis,Dioscorea,KNApSAcK
+69,C00003575,19057-60-4,Collettiside III,C45H72O16,868.48203625,Dioscorea villosa,Dioscorea,KNApSAcK
+70,C00003575,19057-60-4,Collettiside III,C45H72O16,868.48203625,Dioscorea tokoro Makino.,Dioscorea,KNApSAcK
+71,C00003575,19057-60-4,Collettiside III,C45H72O16,868.48203625,Dioscorea spp.,Dioscorea,KNApSAcK
+72,C00003575,19057-60-4,Collettiside III,C45H72O16,868.48203625,Dioscorea spongiosa,Dioscorea,KNApSAcK
+73,C00003575,19057-60-4,Collettiside III,C45H72O16,868.48203625,Dioscorea pseudojaponica,Dioscorea,KNApSAcK
+74,C00003575,19057-60-4,Collettiside III,C45H72O16,868.48203625,Dioscorea parviflora,Dioscorea,KNApSAcK
+75,C00003575,19057-60-4,Collettiside III,C45H72O16,868.48203625,Dioscorea panthaica,Dioscorea,KNApSAcK
+76,C00003575,19057-60-4,Collettiside III,C45H72O16,868.48203625,Dioscorea nipponica,Dioscorea,KNApSAcK
+77,C00003575,19057-60-4,Collettiside III,C45H72O16,868.48203625,Dioscorea japonica,Dioscorea,KNApSAcK
+78,C00003575,19057-60-4,Collettiside III,C45H72O16,868.48203625,Dioscorea hypoglauca,Dioscorea,KNApSAcK
+79,C00003575,19057-60-4,Collettiside III,C45H72O16,868.48203625,Dioscorea gracillima,Dioscorea,KNApSAcK
+80,C00003575,19057-60-4,Collettiside III,C45H72O16,868.48203625,Dioscorea futschauensis,Dioscorea,KNApSAcK
+81,C00003576,512-04-9,Diosgenin,C27H42O3,414.31339521,Dioscorea mutinervis,Dioscorea,KNApSAcK
+82,C00003576,512-04-9,Diosgenin,C27H42O3,414.31339521,Dioscorea jaliscana,Dioscorea,KNApSAcK
+83,C00003576,512-04-9,Diosgenin,C27H42O3,414.31339521,Dioscorea lobata,Dioscorea,KNApSAcK
+84,C00003576,512-04-9,Diosgenin,C27H42O3,414.31339521,Dioscorea macrostachya,Dioscorea,KNApSAcK
+85,C00003576,512-04-9,Diosgenin,C27H42O3,414.31339521,Dioscorea mexicana,Dioscorea,KNApSAcK
+86,C00003576,512-04-9,Diosgenin,C27H42O3,414.31339521,Dioscorea hirsuticaulis,Dioscorea,KNApSAcK
+87,C00003576,512-04-9,Diosgenin,C27H42O3,414.31339521,Dioscorea militaris,Dioscorea,KNApSAcK
+88,C00003576,512-04-9,Diosgenin,C27H42O3,414.31339521,Dioscorea minima,Dioscorea,KNApSAcK
+89,C00003576,512-04-9,Diosgenin,C27H42O3,414.31339521,Dioscorea hirsuta Blume,Dioscorea,KNApSAcK
+90,C00003576,512-04-9,Diosgenin,C27H42O3,414.31339521,Dioscorea grandiflora,Dioscorea,KNApSAcK
+91,C00003576,512-04-9,Diosgenin,C27H42O3,414.31339521,Dioscorea galeottiana,Dioscorea,KNApSAcK
+92,C00003576,512-04-9,Diosgenin,C27H42O3,414.31339521,Dioscorea dugesii,Dioscorea,KNApSAcK
+93,C00003576,512-04-9,Diosgenin,C27H42O3,414.31339521,Dioscorea cyphocarpa,Dioscorea,KNApSAcK
+94,C00003576,512-04-9,Diosgenin,C27H42O3,414.31339521,Dioscorea composita,Dioscorea,KNApSAcK
+95,C00003576,512-04-9,Diosgenin,C27H42O3,414.31339521,Dioscorea zingiberensis,Dioscorea,KNApSAcK
+96,C00003576,512-04-9,Diosgenin,C27H42O3,414.31339521,Dioscorea urceolata,Dioscorea,KNApSAcK
+97,C00003576,512-04-9,Diosgenin,C27H42O3,414.31339521,Dioscorea colletii,Dioscorea,KNApSAcK
+98,C00003576,512-04-9,Diosgenin,C27H42O3,414.31339521,Dioscorea capillaris,Dioscorea,KNApSAcK
+99,C00003576,512-04-9,Diosgenin,C27H42O3,414.31339521,Dioscorea alata,Dioscorea,KNApSAcK
+100,C00003576,512-04-9,Diosgenin,C27H42O3,414.31339521,Dioscorea ulinei,Dioscorea,KNApSAcK
+101,C00003576,512-04-9,Diosgenin,C27H42O3,414.31339521,Dioscorea tokoro Makino.,Dioscorea,KNApSAcK
+102,C00003576,512-04-9,Diosgenin,C27H42O3,414.31339521,Dioscorea testudinaria,Dioscorea,KNApSAcK
+103,C00003576,512-04-9,Diosgenin,C27H42O3,414.31339521,Dioscorea subtomentosa,Dioscorea,KNApSAcK
+104,C00003576,512-04-9,Diosgenin,C27H42O3,414.31339521,Dioscorea spp.,Dioscorea,KNApSAcK
+105,C00003576,512-04-9,Diosgenin,C27H42O3,414.31339521,Dioscorea remotiflora,Dioscorea,KNApSAcK
+106,C00003576,512-04-9,Diosgenin,C27H42O3,414.31339521,Dioscorea pringlei,Dioscorea,KNApSAcK
+107,C00003576,512-04-9,Diosgenin,C27H42O3,414.31339521,Dioscorea platycalpata,Dioscorea,KNApSAcK
+108,C00003576,512-04-9,Diosgenin,C27H42O3,414.31339521,Dioscorea parviflora,Dioscorea,KNApSAcK
+109,C00003576,512-04-9,Diosgenin,C27H42O3,414.31339521,Dioscorea palmifera,Dioscorea,KNApSAcK
+110,C00003577,511-96-6,Gitogenin,C27H44O4,432.32395989,Dioscorea tokoro,Dioscorea,KNApSAcK
+111,C00003579,19083-00-2,Gracillin,C45H72O17,884.47695088,Dioscorea collettii var.hypoglauca,Dioscorea,KNApSAcK
+112,C00003579,19083-00-2,Gracillin,C45H72O17,884.47695088,Dioscorea fustchauensis,Dioscorea,KNApSAcK
+113,C00003579,19083-00-2,Gracillin,C45H72O17,884.47695088,Dioscorea futschauensis,Dioscorea,KNApSAcK
+114,C00003579,19083-00-2,Gracillin,C45H72O17,884.47695088,Dioscorea gracillima,Dioscorea,KNApSAcK
+115,C00003579,19083-00-2,Gracillin,C45H72O17,884.47695088,Dioscorea panthaica,Dioscorea,KNApSAcK
+116,C00003579,19083-00-2,Gracillin,C45H72O17,884.47695088,Dioscorea parviflora,Dioscorea,KNApSAcK
+117,C00003579,19083-00-2,Gracillin,C45H72O17,884.47695088,Dioscorea pseudojaponica,Dioscorea,KNApSAcK
+118,C00003579,19083-00-2,Gracillin,C45H72O17,884.47695088,Dioscorea spongiosa,Dioscorea,KNApSAcK
+119,C00003579,19083-00-2,Gracillin,C45H72O17,884.47695088,Dioscorea villosa,Dioscorea,KNApSAcK
+120,C00003579,19083-00-2,Gracillin,C45H72O17,884.47695088,Dioscorea spp.,Dioscorea,KNApSAcK
+121,C00003579,19083-00-2,Gracillin,C45H72O17,884.47695088,Dioscorea zingiberensis,Dioscorea,KNApSAcK
+122,C00003579,19083-00-2,Gracillin,C45H72O17,884.47695088,Dioscorea nipponica,Dioscorea,KNApSAcK
+123,C00003579,19083-00-2,Gracillin,C45H72O17,884.47695088,Dioscorea althaeoides,Dioscorea,KNApSAcK
+124,C00003579,19083-00-2,Gracillin,C45H72O17,884.47695088,Dioscorea cayenensis,Dioscorea,KNApSAcK
+125,C00003585,55056-80-9,Protodioscin,C51H84O22,1048.54542437,Dioscorea nipponica,Dioscorea,KNApSAcK
+126,C00003585,55056-80-9,Protodioscin,C51H84O22,1048.54542437,Dioscorea cayenensis,Dioscorea,KNApSAcK
+127,C00003585,55056-80-9,Protodioscin,C51H84O22,1048.54542437,Dioscorea tokoro,Dioscorea,KNApSAcK
+128,C00003585,55056-80-9,Protodioscin,C51H84O22,1048.54542437,Dioscorea panthaica,Dioscorea,KNApSAcK
+129,C00003585,55056-80-9,Protodioscin,C51H84O22,1048.54542437,Dioscorea gracillima,Dioscorea,KNApSAcK
+130,C00003585,55056-80-9,Protodioscin,C51H84O22,1048.54542437,Dioscorea futschauensis,Dioscorea,KNApSAcK
+131,C00003585,55056-80-9,Protodioscin,C51H84O22,1048.54542437,Dioscorea collettii var.hypoglauca,Dioscorea,KNApSAcK
+132,C00003585,55056-80-9,Protodioscin,C51H84O22,1048.54542437,Dioscorea villosa,Dioscorea,KNApSAcK
+133,C00003586,54848-30-5,Protogracillin,C51H84O23,1064.54033899,Dioscorea gracillima,Dioscorea,KNApSAcK
+134,C00003586,54848-30-5,Protogracillin,C51H84O23,1064.54033899,Dioscorea spongiosa,Dioscorea,KNApSAcK
+135,C00003586,54848-30-5,Protogracillin,C51H84O23,1064.54033899,Dioscorea tokoro,Dioscorea,KNApSAcK
+136,C00003586,54848-30-5,Protogracillin,C51H84O23,1064.54033899,Dioscorea zingiberensis,Dioscorea,KNApSAcK
+137,C00003586,54848-30-5,Protogracillin,C51H84O23,1064.54033899,Dioscorea futschauensis,Dioscorea,KNApSAcK
+138,C00003589,24333-07-1,Sarsaparilloside,C57H96O28,1228.60881249,Dioscorea nipponica,Dioscorea,KNApSAcK
+139,C00003589,24333-07-1,Sarsaparilloside,C57H96O28,1228.60881249,Dioscorea villosa,Dioscorea,KNApSAcK
+140,C00003589,24333-07-1,Sarsaparilloside,C57H96O28,1228.60881249,Dioscorea cayenensis,Dioscorea,KNApSAcK
+141,C00003590,126-19-2,Sarsasapogenin,C27H44O3,416.32904527,Dioscorea colletii,Dioscorea,KNApSAcK
+142,C00003592,126-18-1,Smilagenin,C27H44O3,416.32904527,Dioscorea tokoro,Dioscorea,KNApSAcK
+143,C00003592,126-18-1,Smilagenin,C27H44O3,416.32904527,Dioscorea colletii,Dioscorea,KNApSAcK
+144,C00003593,77-60-1,Tigogenin,C27H44O3,416.32904527,Dioscorea tokoro,Dioscorea,KNApSAcK
+145,C00003595,27530-69-4,Tokoronin,C32H52O9,580.36113326,Dioscorea tokoro,Dioscorea,KNApSAcK
+146,C00003596,60478-69-5,Protoneodioscin,C51H84O22,1048.54542437,Dioscorea collettii var.hypoglauca,Dioscorea,KNApSAcK
+147,C00003596,60478-69-5,Protoneodioscin,C51H84O22,1048.54542437,Dioscorea futschauensis,Dioscorea,KNApSAcK
+148,C00003596,60478-69-5,Protoneodioscin,C51H84O22,1048.54542437,Dioscorea hypoglauca,Dioscorea,KNApSAcK
+149,C00003597,512-06-1,Yamogenin,C27H42O3,414.31339521,Dioscorea paranensis,Dioscorea,KNApSAcK
+150,C00003597,512-06-1,Yamogenin,C27H42O3,414.31339521,Dioscorea colletii,Dioscorea,KNApSAcK
+151,C00003597,512-06-1,Yamogenin,C27H42O3,414.31339521,Dioscorea collettii,Dioscorea,KNApSAcK
+152,C00003597,512-06-1,Yamogenin,C27H42O3,414.31339521,Dioscorea gracillima,Dioscorea,KNApSAcK
+153,C00003597,512-06-1,Yamogenin,C27H42O3,414.31339521,Dioscorea hypoglauca,Dioscorea,KNApSAcK
+154,C00003597,512-06-1,Yamogenin,C27H42O3,414.31339521,Dioscorea tokoro,Dioscorea,KNApSAcK
+155,C00003597,512-06-1,Yamogenin,C27H42O3,414.31339521,Dioscorea parviflora,Dioscorea,KNApSAcK
+156,C00003647,474-62-4,Campesterol,C28H48O,400.37051615,Dioscorea cyphocarpa,Dioscorea,KNApSAcK
+157,C00003648,57-88-5,Cholesterol,C27H46O,386.35486609,Dioscorea zingiberensis,Dioscorea,KNApSAcK
+158,C00003650,469-38-5,Cycloartenol,C30H50O,426.38616622,Dioscorea zingiberensis,Dioscorea,KNApSAcK
+159,C00003657,79-63-0,Lanosterol,C30H50O,426.38616622,Dioscorea deltoidea,Dioscorea,KNApSAcK
+160,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Dioscorea opposita,Dioscorea,KNApSAcK
+161,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Dioscorea colletii,Dioscorea,KNApSAcK
+162,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Dioscorea cyphocarpa,Dioscorea,KNApSAcK
+163,C00003674,83-48-7,beta-Stigmasterol,C29H48O,412.37051615,Dioscorea cyphocarpa,Dioscorea,KNApSAcK
+164,C00003674,83-48-7,beta-Stigmasterol,C29H48O,412.37051615,Dioscorea batatas,Dioscorea,KNApSAcK
+165,C00003776,127-40-2,Lutein,C40H56O2,568.42803103,Dioscorea bulbifera,Dioscorea,KNApSAcK
+166,C00003780,14660-91-4,Neoxanthin,C40H56O4,600.41786028,Dioscorea bulbifera,Dioscorea,KNApSAcK
+167,C00003787,126-29-4,Violaxanthin,C40H56O4,600.41786028,Dioscorea bulbifera,Dioscorea,KNApSAcK
+168,C00004338,19993-32-9,Chrysoeriol 7-O-beta-D-glucopyranoside,C22H22O11,462.11621155,Dioscorea opposita,Dioscorea,KNApSAcK
+169,C00004565,520-18-3,Kaempferol,C15H10O6,286.04773805,Dioscorea bulbifera L.var sativa,Dioscorea,KNApSAcK
+170,C00004565,520-18-3,Kaempferol,C15H10O6,286.04773805,Dioscorea alata,Dioscorea,KNApSAcK
+171,C00004631,117-39-5,Quercetin,C15H10O7,302.04265268,Dioscorea alata,Dioscorea,KNApSAcK
+172,C00004637,1486-66-4,Caryatin,C17H14O7,330.0739528,Dioscorea bulbifera,Dioscorea,KNApSAcK
+173,C00005169,17650-84-9,Kaempferol 3-rutinoside,C27H30O15,594.15847029,Dioscorea alata,Dioscorea,KNApSAcK
+174,C00005373,482-35-9,Hirsutrin,C21H20O12,464.09547611,Dioscorea bulbifera,Dioscorea,KNApSAcK
+175,C00005413,153-18-4,Quercetin 3-rutinoside,C27H30O16,610.15338491,Dioscorea alata,Dioscorea,KNApSAcK
+176,C00005427,6892-74-6,"Quercetin 3,7-O-beta-diglucopyranoside",C27H30O17,626.14829954,Dioscorea alata,Dioscorea,KNApSAcK
+177,C00005548,604-80-8,Isorhamnetin 3-O-rutinoside,C28H32O16,624.16903498,Dioscorea alata,Dioscorea,KNApSAcK
+178,C00005728,15648-86-9,Myricetin 3-O-galactopyranoside,C21H20O13,480.09039073,Dioscorea bulbifera,Dioscorea,KNApSAcK
+179,C00005729,19833-12-6,Isomyricitrin,C21H20O13,480.09039073,Dioscorea bulbifera,Dioscorea,KNApSAcK
+180,C00006135,119269-48-6,Alternanthin,C22H22O9,430.1263823,Dioscorea opposita,Dioscorea,KNApSAcK
+181,C00006614,13306-05-3,Cyanidin,C15H11O6,287.05556308,Dioscorea alata,Dioscorea,KNApSAcK
+182,C00006660,4453-78-5,Cyanidin 3-gentiobioside,C27H31O16,611.16120995,Dioscorea alata,Dioscorea,KNApSAcK
+183,C00006688,132-37-6,"Peonidin-3,5-diglucoside",C28H33O16,625.17686001,Dioscorea trifida,Dioscorea,KNApSAcK
+184,C00006688,132-37-6,"Peonidin-3,5-diglucoside",C28H33O16,625.17686001,Dioscorea tryphida,Dioscorea,KNApSAcK
+185,C00006806,131189-50-9,Alatanin 1,C38H41O20,817.21911875,Dioscorea alata,Dioscorea,KNApSAcK
+186,C00006807,138688-63-8,Alatanin C,C38H41O20,817.21911875,Dioscorea alata,Dioscorea,KNApSAcK
+187,C00006864,131189-51-0,Alatanin 2,C39H43O20,831.23476882,Dioscorea alata,Dioscorea,KNApSAcK
+188,C00007232,134-04-3,Pelargonidin,C15H11O5.Cl,306.02950117,Dioscorea alata,Dioscorea,KNApSAcK
+189,C00007233,25515-46-2,Naringenin chalcone,C15H12O5,272.06847349,Dioscorea alata,Dioscorea,KNApSAcK
+190,C00007234,480-20-6,(+)-Dihydrokaempferol,C15H12O6,288.06338812,Dioscorea alata,Dioscorea,KNApSAcK
+191,C00007235,480-17-1,Leucocyanidin,C15H14O7,306.0739528,Dioscorea alata,Dioscorea,KNApSAcK
+192,C00007264,30802-02-9,Feruloyl-CoA,C31H44N7O19P3S,943.16255248,Dioscorea alata,Dioscorea,KNApSAcK
+193,C00007280,30802-00-7,p-Coumaroyl CoA,C30H42N7O18P3S,913.15198779,Dioscorea alata,Dioscorea,KNApSAcK
+194,C00007281,53034-79-0,caffeoyl-CoA,C30H42N7O19P3S,929.14690242,Dioscorea alata,Dioscorea,KNApSAcK
+195,C00007282,7200-26-2,"(S)-2,3-Epoxysqualene",C30H50O,426.38616622,Dioscorea zingiberensis,Dioscorea,KNApSAcK
+196,C00007444,58-61-7,Adenosine,C10H13N5O4,267.09675394,Dioscorea opposita,Dioscorea,KNApSAcK
+197,C00007468,97-59-6,Allantoin,C4H6N4O3,158.04399009,Dioscorea bulbifera,Dioscorea,KNApSAcK
+198,C00009071,23567-23-9,Procyanidin B3,C30H26O12,578.1424263,Dioscorea alata,Dioscorea,KNApSAcK
+199,C00009075,20315-25-7,Procyanidin B1,C30H26O12,578.1424263,Dioscorea bulbifera,Dioscorea,KNApSAcK
+200,C00009075,20315-25-7,Procyanidin B1,C30H26O12,578.1424263,Dioscorea alata,Dioscorea,KNApSAcK
+201,C00009076,12798-57-1,Procyanidin B5,C30H26O12,578.1424263,Dioscorea cirrhosa,Dioscorea,KNApSAcK
+202,C00009085,128779-44-2,Catechin-(4alpha->6)-epicatechin-(4beta->8)-epicatechin,C45H38O18,866.20581441,Dioscorea cirrhosa,Dioscorea,KNApSAcK
+203,C00009086,82801-35-2,Epicatechin-(4beta->6)-epicatechin-(4beta->8)-catechin,C45H38O18,866.20581441,Dioscorea cirrhosa,Dioscorea,KNApSAcK
+204,C00009095,87727-69-3,Procyanidin C4,C45H38O18,866.20581441,Dioscorea cirrhosa,Dioscorea,KNApSAcK
+205,C00009096,99297-48-0,Epicatechin-(4beta->8)-catechin-(4alpha->8)-epicatechin,C45H38O18,866.20581441,Dioscorea cirrhosa,Dioscorea,KNApSAcK
+206,C00009098,65085-09-8,Procyanidin C1,C45H38O18,866.20581441,Dioscorea cirrhosa,Dioscorea,KNApSAcK
+207,C00009104,99274-68-7,Catechin-(4alpha->6)-[epicatechin-(4beta->8)]2-epicatechin,C60H50O24,1154.26920253,Dioscorea cirrhosa,Dioscorea,KNApSAcK
+208,C00009107,86631-38-1,Cinnamtannin A1,C60H50O24,1154.26920253,Dioscorea cirrhosa,Dioscorea,KNApSAcK
+209,C00015202,22318-82-7,"2,3,5,7-Tetrahydroxy-9,10-dihydrophenanthrene",C14H12O4,244.07355887,Dioscorea bulbifera,Dioscorea,KNApSAcK
+210,C00015212,68570-34-3,"2,4,5,6-Tetrahydroxyphenanthrene",C14H10O4,242.05790881,Dioscorea bulbifera,Dioscorea,KNApSAcK
+211,C00015252,68415-38-3,"2,7-Dihydroxy-1,3,5-trimethoxy-9,10-dihydrophenanthrene",C17H18O5,302.11542369,Dioscorea decipiens,Dioscorea,KNApSAcK
+212,C00015260,108352-70-1,"2,7-Dihydroxy-3,5-dimethoxyphenanthrene.",C16H14O4,270.08920894,Dioscorea batatas,Dioscorea,KNApSAcK
+213,C00015260,108352-70-1,"2,7-Dihydroxy-3,5-dimethoxyphenanthrene.",C16H14O4,270.08920894,Dioscorea opposita,Dioscorea,KNApSAcK
+214,C00015270,65817-45-0,Batatasin V,C17H20O4,288.13615913,Dioscorea preussii,Dioscorea,KNApSAcK
+215,C00015270,65817-45-0,Batatasin V,C17H20O4,288.13615913,Dioscorea opposita,Dioscorea,KNApSAcK
+216,C00015270,65817-45-0,Batatasin V,C17H20O4,288.13615913,Dioscorea floribunda,Dioscorea,KNApSAcK
+217,C00015292,56684-87-8,Batatasin III,C15H16O3,244.10994438,Dioscorea opposita,Dioscorea,KNApSAcK
+218,C00015292,56684-87-8,Batatasin III,C15H16O3,244.10994438,Dioscorea dumetorum,Dioscorea,KNApSAcK
+219,C00015292,56684-87-8,Batatasin III,C15H16O3,244.10994438,Dioscorea batatas,Dioscorea,KNApSAcK
+220,C00015292,56684-87-8,Batatasin III,C15H16O3,244.10994438,Dioscorea alata,Dioscorea,KNApSAcK
+221,C00015292,56684-87-8,Batatasin III,C15H16O3,244.10994438,Dioscorea batatus,Dioscorea,KNApSAcK
+222,C00015398,108352-75-6,"3,5-Dimethoxy-2'-hydroxybibenzyl",C16H18O3,258.12559444,Dioscorea opposita,Dioscorea,KNApSAcK
+223,C00015585,58115-32-5,"5,6-Dihydroxy-1,3,4-trimethoxy-9,10-dihydrophenanthrene",C17H18O5,302.11542369,Dioscorea prazeri,Dioscorea,KNApSAcK
+224,C00015586,58115-33-6,"5,6-Dihydroxy-2,4-dimethoxy-9,10-dihydropenanthrene",C16H16O4,272.104859,Dioscorea prazeri,Dioscorea,KNApSAcK
+225,C00015609,42050-16-8,"6,7-Dihydroxy-2,4-dimethoxyphenanthrene",C16H14O4,270.08920894,Dioscorea opposita,Dioscorea,KNApSAcK
+226,C00015744,39354-56-8,Batatasin II,C16H18O4,274.12050906,Dioscorea sansibarensis,Dioscorea,KNApSAcK
+227,C00015744,39354-56-8,Batatasin II,C16H18O4,274.12050906,Dioscorea alata,Dioscorea,KNApSAcK
+228,C00015744,39354-56-8,Batatasin II,C16H18O4,274.12050906,Dioscorea batatas,Dioscorea,KNApSAcK
+229,C00015744,39354-56-8,Batatasin II,C16H18O4,274.12050906,Dioscorea composita,Dioscorea,KNApSAcK
+230,C00015744,39354-56-8,Batatasin II,C16H18O4,274.12050906,Dioscorea floribunda,Dioscorea,KNApSAcK
+231,C00015744,39354-56-8,Batatasin II,C16H18O4,274.12050906,Dioscorea opposita,Dioscorea,KNApSAcK
+232,C00015898,86630-46-8,Nudol,C16H14O4,270.08920894,Dioscorea rotundata,Dioscorea,KNApSAcK
+233,C00016953,157207-93-7,Sesaminone,C20H18O7,370.10525293,Dioscorea spongiosa,Dioscorea,KNApSAcK
+234,C00019308,474-58-8,3-O-beta-D-Glucopyranosyl sitosterol,C35H60O6,576.43898965,Dioscorea spongiosa,Dioscorea,KNApSAcK
+235,C00020638,520-17-2,Leucopelargonidin,C15H14O6,290.07903818,Dioscorea alata,Dioscorea,KNApSAcK
+236,C00026130,6873-09-2,Epiberberine,C20H18NO4,336.12358307,Dioscorea floribunda,Dioscorea,KNApSAcK
+237,C00030135,334669-89-5,Dioscoreside A,C51H82O24,1078.51960355,Dioscorea panthaica,Dioscorea,KNApSAcK
+238,C00030136,334669-99-7,Dioscoreside B,C51H82O24,1078.51960355,Dioscorea panthaica,Dioscorea,KNApSAcK
+239,C00030137,344912-80-7,Dioscoreside C,C52H84O22,1060.54542437,Dioscorea panthaica,Dioscorea,KNApSAcK
+240,C00030137,344912-80-7,Dioscoreside C,C52H84O22,1060.54542437,Dioscorea futschauensis,Dioscorea,KNApSAcK
+241,C00030138,403484-14-0,Dioscoreside D,C51H82O23,1062.52468893,Dioscorea collettii var.hypoglauca,Dioscorea,KNApSAcK
+242,C00030138,403484-14-0,Dioscoreside D,C51H82O23,1062.52468893,Dioscorea panthaica,Dioscorea,KNApSAcK
+243,C00030138,403484-14-0,Dioscoreside D,C51H82O23,1062.52468893,Dioscorea spongiosa,Dioscorea,KNApSAcK
+244,C00030139,435321-73-6,Dioscoreside E,C52H84O23,1076.54033899,Dioscorea futschauensis,Dioscorea,KNApSAcK
+245,C00030140,19057-67-1,Diosgenin 3-O-alpha-L-rhamnopyranosyl(1->2)-beta-D-glucopyranoside,C39H62O12,722.42412745,Dioscorea villosa,Dioscorea,KNApSAcK
+246,C00030140,19057-67-1,Diosgenin 3-O-alpha-L-rhamnopyranosyl(1->2)-beta-D-glucopyranoside,C39H62O12,722.42412745,Dioscorea polygonoides,Dioscorea,KNApSAcK
+247,C00030140,19057-67-1,Diosgenin 3-O-alpha-L-rhamnopyranosyl(1->2)-beta-D-glucopyranoside,C39H62O12,722.42412745,Dioscorea panthaica,Dioscorea,KNApSAcK
+248,C00030140,19057-67-1,Diosgenin 3-O-alpha-L-rhamnopyranosyl(1->2)-beta-D-glucopyranoside,C39H62O12,722.42412745,Dioscorea bulbifera var.sativa,Dioscorea,KNApSAcK
+249,C00030140,19057-67-1,Diosgenin 3-O-alpha-L-rhamnopyranosyl(1->2)-beta-D-glucopyranoside,C39H62O12,722.42412745,Dioscorea nipponica,Dioscorea,KNApSAcK
+250,C00030140,19057-67-1,Diosgenin 3-O-alpha-L-rhamnopyranosyl(1->2)-beta-D-glucopyranoside,C39H62O12,722.42412745,Dioscorea cayenensis,Dioscorea,KNApSAcK
+251,C00030140,19057-67-1,Diosgenin 3-O-alpha-L-rhamnopyranosyl(1->2)-beta-D-glucopyranoside,C39H62O12,722.42412745,Dioscorea alata,Dioscorea,KNApSAcK
+252,C00030142,623939-65-1,Diospolysaponin A,C39H62O16,786.40378593,Dioscorea polygonoides,Dioscorea,KNApSAcK
+253,C00030163,221526-58-5,Dumoside,C40H62O16,798.40378593,Dioscorea spongiosa,Dioscorea,KNApSAcK
+254,C00030412,55972-80-0,Glycoside D,C45H74O18,902.48751556,Dioscorea spongiosa,Dioscorea,KNApSAcK
+255,C00030762,920979-50-6,Methyl parvifloside,C58H96O28,1240.60881249,Dioscorea parviflora,Dioscorea,KNApSAcK
+256,C00030763,84774-05-0,Methyl protobioside,C46H76O18,916.50316563,Dioscorea deltoidea var.orbiculata,Dioscorea,KNApSAcK
+257,C00030764,54522-52-0,22-O-Methylprotodioscin,C52H86O22,1062.56107443,Dioscorea pseudojaponica,Dioscorea,KNApSAcK
+258,C00030764,54522-52-0,22-O-Methylprotodioscin,C52H86O22,1062.56107443,Dioscorea futschauensis,Dioscorea,KNApSAcK
+259,C00030764,54522-52-0,22-O-Methylprotodioscin,C52H86O22,1062.56107443,Dioscorea collettii var.hypoglauca,Dioscorea,KNApSAcK
+260,C00030764,54522-52-0,22-O-Methylprotodioscin,C52H86O22,1062.56107443,Dioscorea bulbifera var.sativa,Dioscorea,KNApSAcK
+261,C00030764,54522-52-0,22-O-Methylprotodioscin,C52H86O22,1062.56107443,Dioscorea villosa,Dioscorea,KNApSAcK
+262,C00030764,54522-52-0,22-O-Methylprotodioscin,C52H86O22,1062.56107443,Dioscorea spongiosa,Dioscorea,KNApSAcK
+263,C00030764,54522-52-0,22-O-Methylprotodioscin,C52H86O22,1062.56107443,Dioscorea rotundata,Dioscorea,KNApSAcK
+264,C00030765,54522-53-1,Methyl protogracillin,C52H86O23,1078.55598906,Dioscorea pseudojaponica,Dioscorea,KNApSAcK
+265,C00030765,54522-53-1,Methyl protogracillin,C52H86O23,1078.55598906,Dioscorea futschauensis,Dioscorea,KNApSAcK
+266,C00030765,54522-53-1,Methyl protogracillin,C52H86O23,1078.55598906,Dioscorea collettii var.hypoglauca,Dioscorea,KNApSAcK
+267,C00030766,60478-70-8,Methyl protoneodioscin,C52H86O22,1062.56107443,Dioscorea futschauensis,Dioscorea,KNApSAcK
+268,C00030766,60478-70-8,Methyl protoneodioscin,C52H86O22,1062.56107443,Dioscorea collettii var.hypoglauca,Dioscorea,KNApSAcK
+269,C00030930,50773-42-7,Asperin,C51H82O20,1014.53994506,Dioscorea cayenensis,Dioscorea,KNApSAcK
+270,C00030930,50773-42-7,Asperin,C51H82O20,1014.53994506,Dioscorea bulbifera var.sativa,Dioscorea,KNApSAcK
+271,C00030930,50773-42-7,Asperin,C51H82O20,1014.53994506,Dioscorea pseudojaponica,Dioscorea,KNApSAcK
+272,C00030930,50773-42-7,Asperin,C51H82O20,1014.53994506,Dioscorea nipponica,Dioscorea,KNApSAcK
+273,C00030930,50773-42-7,Asperin,C51H82O20,1014.53994506,Dioscorea villosa,Dioscorea,KNApSAcK
+274,C00030931,855779-32-7,Parvifloside,C57H94O28,1226.59316242,Dioscorea parviflora,Dioscorea,KNApSAcK
+275,C00030931,855779-32-7,Parvifloside,C57H94O28,1226.59316242,Dioscorea villosa,Dioscorea,KNApSAcK
+276,C00030931,855779-32-7,Parvifloside,C57H94O28,1226.59316242,Dioscorea nipponica,Dioscorea,KNApSAcK
+277,C00030931,855779-32-7,Parvifloside,C57H94O28,1226.59316242,Dioscorea cayenensis,Dioscorea,KNApSAcK
+278,C00031080,50773-43-8,Pregnadienolone-3-O-beta-D-chacotrioside,C39H60O15,768.39322125,Dioscorea futschauensis,Dioscorea,KNApSAcK
+279,C00031080,50773-43-8,Pregnadienolone-3-O-beta-D-chacotrioside,C39H60O15,768.39322125,Dioscorea panthaica,Dioscorea,KNApSAcK
+280,C00031080,50773-43-8,Pregnadienolone-3-O-beta-D-chacotrioside,C39H60O15,768.39322125,Dioscorea spongiosa,Dioscorea,KNApSAcK
+281,C00031081,39941-68-9,Pregnadienolone-3-O-beta-D-gracillimatriose,C39H60O16,784.38813587,Dioscorea panthaica,Dioscorea,KNApSAcK
+282,C00031081,39941-68-9,Pregnadienolone-3-O-beta-D-gracillimatriose,C39H60O16,784.38813587,Dioscorea spongiosa,Dioscorea,KNApSAcK
+283,C00031081,39941-68-9,Pregnadienolone-3-O-beta-D-gracillimatriose,C39H60O16,784.38813587,Dioscorea futschauensis,Dioscorea,KNApSAcK
+284,C00031085,19057-68-2,Progenin II,C39H62O12,722.42412745,Dioscorea villosa,Dioscorea,KNApSAcK
+285,C00031085,19057-68-2,Progenin II,C39H62O12,722.42412745,Dioscorea panthaica,Dioscorea,KNApSAcK
+286,C00031085,19057-68-2,Progenin II,C39H62O12,722.42412745,Dioscorea futschauensis,Dioscorea,KNApSAcK
+287,C00031088,128052-96-0,Protobioside,C45H74O18,902.48751556,Dioscorea cayenensis,Dioscorea,KNApSAcK
+288,C00031088,128052-96-0,Protobioside,C45H74O18,902.48751556,Dioscorea nipponica,Dioscorea,KNApSAcK
+289,C00031088,128052-96-0,Protobioside,C45H74O18,902.48751556,Dioscorea villosa,Dioscorea,KNApSAcK
+290,C00031088,128052-96-0,Protobioside,C45H74O18,902.48751556,Dioscorea deltoidea var.orbiculata,Dioscorea,KNApSAcK
+291,C00031090,191334-50-6,Protoneogracillin,C51H84O23,1064.54033899,Dioscorea futschauensis,Dioscorea,KNApSAcK
+292,C00031101,102115-79-7,Pseudoprotodioscin,C51H82O21,1030.53485968,Dioscorea villosa,Dioscorea,KNApSAcK
+293,C00031101,102115-79-7,Pseudoprotodioscin,C51H82O21,1030.53485968,Dioscorea panthaica,Dioscorea,KNApSAcK
+294,C00031101,102115-79-7,Pseudoprotodioscin,C51H82O21,1030.53485968,Dioscorea futschauensis,Dioscorea,KNApSAcK
+295,C00031101,102115-79-7,Pseudoprotodioscin,C51H82O21,1030.53485968,Dioscorea nipponica,Dioscorea,KNApSAcK
+296,C00031101,102115-79-7,Pseudoprotodioscin,C51H82O21,1030.53485968,Dioscorea cayenensis,Dioscorea,KNApSAcK
+297,C00031102,637349-03-2,Pseudoprotogracillin,C51H82O22,1046.52977431,Dioscorea futschauensis,Dioscorea,KNApSAcK
+298,C00032096,384343-16-2,Orbiculatoside B,C45H72O17,884.47695088,Dioscorea deltoidea var.orbiculata,Dioscorea,KNApSAcK
+299,C00032109,26662-91-9,Palmitoyloleoylphosphatidylcholine,C42H82NO8P,759.57780509,Dioscorea opposita,Dioscorea,KNApSAcK
+300,C00032175,114297-20-0,Soyacerebroside I,C40H75NO9,713.544183,Dioscorea opposita,Dioscorea,KNApSAcK
+301,C00032184,133952-03-1,Spiroconazole A,C45H72O17,884.47695088,Dioscorea bulbifera var.sativa,Dioscorea,KNApSAcK
+302,C00032187,552298-01-8,Spongioside A,C51H86O21,1034.56615981,Dioscorea spongiosa,Dioscorea,KNApSAcK
+303,C00032188,552298-02-9,Spongioside B,C53H86O23,1090.55598906,Dioscorea spongiosa,Dioscorea,KNApSAcK
+304,C00032189,552297-97-9,Spongipregnoloside A,C33H50O11,622.33531244,Dioscorea spongiosa,Dioscorea,KNApSAcK
+305,C00032190,552297-98-0,Spongipregnoloside B,C33H50O11,622.33531244,Dioscorea spongiosa,Dioscorea,KNApSAcK
+306,C00032191,552297-99-1,Spongipregnoloside C,C45H70O20,930.44604468,Dioscorea spongiosa,Dioscorea,KNApSAcK
+307,C00032192,552298-00-7,Spongipregnoloside D,C40H64O16,800.419436,Dioscorea spongiosa,Dioscorea,KNApSAcK
+308,C00032413,99664-41-2,Trigofoenoside D-1,C52H82O23,1074.52468893,Dioscorea spongiosa,Dioscorea,KNApSAcK
+309,C00033661,913170-80-6,Bafoudiosbulbin A,C21H22O8,402.13146768,Dioscorea bulbifera L.var sativa,Dioscorea,KNApSAcK
+310,C00033662,913170-81-7,Bafoudiosbulbin B,C20H20O8,388.11581762,Dioscorea bulbifera L.var sativa,Dioscorea,KNApSAcK
+311,C00033663,953793-40-3,Bafoudiosbulbin C,C21H22O7,386.13655306,Dioscorea bulbifera L.var sativa,Dioscorea,KNApSAcK
+312,C00033664,1095563-62-4,Bafoudiosbulbin F,C21H24O8,404.14711774,Dioscorea bulbifera L.var sativa,Dioscorea,KNApSAcK
+313,C00033665,1095563-64-6,Bafoudiosbulbin G,C23H26O10,462.15259705,Dioscorea bulbifera L.var sativa,Dioscorea,KNApSAcK
+314,C00033778,1023928-58-6,Dioseptemloside A,C45H74O18,902.48751556,Dioscorea septemloba,Dioscorea,KNApSAcK
+315,C00033779,1023928-59-7,Dioseptemloside B,C33H54O9,594.37678332,Dioscorea septemloba,Dioscorea,KNApSAcK
+316,C00033780,1023928-60-0,Dioseptemloside C,C39H62O13,738.41904207,Dioscorea septemloba,Dioscorea,KNApSAcK
+317,C00033781,1023928-61-1,Dioseptemloside D,C39H62O13,738.41904207,Dioscorea septemloba,Dioscorea,KNApSAcK
+318,C00033782,1023928-62-2,Dioseptemloside E,C45H72O17,884.47695088,Dioscorea septemloba,Dioscorea,KNApSAcK
+319,C00033783,1023928-63-3,Dioseptemloside F,C39H62O13,738.41904207,Dioscorea septemloba,Dioscorea,KNApSAcK
+320,C00033784,1023928-64-4,Dioseptemloside G,C45H72O17,884.47695088,Dioscorea septemloba,Dioscorea,KNApSAcK
+321,C00033785,1023928-65-5,Dioseptemloside H,C39H62O13,738.41904207,Dioscorea septemloba,Dioscorea,KNApSAcK
+322,C00034158,278608-08-5,Plicatol C,C15H14O4,258.08920894,Dioscorea rotundata,Dioscorea,KNApSAcK
+323,C00037499,99353-00-1,Methyl rosmarinate,C19H18O8,374.10016755,Dioscorea alata,Dioscorea,KNApSAcK
+324,C00042157,864448-08-8,"6,7-Dihydroxy-2-methoxy-1,4-phenanthrenedione",C15H10O5,270.05282343,Dioscorea opposita,Dioscorea,KNApSAcK
+325,C00045143,81425-28-7,Zizyvoside I,C25H40O12,532.25197674,Dioscorea spongiosa,Dioscorea,KNApSAcK
+326,C00050813,21152-89-6,Igagenin,C27H44O5,448.31887452,Dioscorea tokoro,Dioscorea,KNApSAcK
+327,C00050962,7050-40-0,Isonarthogenin,C27H42O4,430.30830983,Dioscorea collettii,Dioscorea,KNApSAcK
+328,C00051125,564-44-3,Kammogenin,C27H40O5,444.28757439,Dioscorea tokoro,Dioscorea,KNApSAcK
+329,C00051149,639-93-0,Kogagenin,C27H44O6,464.31378914,Dioscorea tokoro,Dioscorea,KNApSAcK
+330,C00054333,96552-67-9,"5,6-Dihydro-4-methyl-6-[(1-methyl-2-piperidinyl)methyl]-2H-pyran-2-one",C13H21NO2,223.15722892,Dioscorea dumetorum,Dioscorea,KNApSAcK
+331,C00054712,20086-06-0,"8beta,12alpha:15,16-Diepoxy-19-nor-13(16),14-clerodadiene-17,6beta:18,2alpha-diolide",C19H20O6,344.12598837,Dioscorea bulbifera,Dioscorea,KNApSAcK
+332,C00055117,96552-66-8,Dihydrodioscorine,C13H21NO2,223.15722892,Dioscorea dumetorum,Dioscorea,KNApSAcK
+333,C00055372,953793-51-6,Bafoudiosbulbin E,C21H20O9,416.11073224,Dioscorea bulbifera var. sativa,Dioscorea,KNApSAcK
+334,C00055373,953793-45-8,Bafoudiosbulbin D,C21H22O8,402.13146768,Dioscorea bulbifera var. sativa,Dioscorea,KNApSAcK
+335,C00055405,94992-08-2,Balanitoside,C51H84O23,1064.54033899,Dioscorea villosa,Dioscorea,KNApSAcK
+336,C00055405,94992-08-2,Balanitoside,C51H84O23,1064.54033899,Dioscorea cayenensis,Dioscorea,KNApSAcK
+337,C00055405,94992-08-2,Balanitoside,C51H84O23,1064.54033899,Dioscorea nipponica,Dioscorea,KNApSAcK
+338,C00055482,139610-21-2,Alatanin A,C67H81O39,1509.43549785,Dioscorea alata,Dioscorea,KNApSAcK
+339,C00055483,139610-20-1,Alatanin B,C61H71O34,1347.38267442,Dioscorea alata,Dioscorea,KNApSAcK
+340,C00056075,18736-36-2,Peonidin,C16H13O6,301.07121315,Dioscorea alata,Dioscorea,KNApSAcK
+341,C00056437,1092368-67-6,8-Epidiosbulbin E acetate,C20H22O7,374.13655306,Dioscorea bulbifera,Dioscorea,KNApSAcK
+342,C00056580,1187951-05-8,Diosbulbin I,C29H30O8,506.19406794,Dioscorea bulbifera,Dioscorea,KNApSAcK
+343,C00056581,1187951-06-9,Diosbulbin J,C19H22O8,378.13146768,Dioscorea bulbifera,Dioscorea,KNApSAcK
+344,C00056590,1192596-76-1,Diosbulbiside C,C45H70O17,882.46130081,Dioscorea bulbifera,Dioscorea,KNApSAcK
+345,C00056591,1193603-13-2,Diosbulbisin B,C27H40O5,444.28757439,Dioscorea bulbifera,Dioscorea,KNApSAcK
+346,C00056592,1193603-14-3,Diosbulbisin C,C27H40O5,444.28757439,Dioscorea bulbifera,Dioscorea,KNApSAcK
+347,C00056593,1193603-15-4,Diosbulbisin D,C27H38O5,442.27192432,Dioscorea bulbifera,Dioscorea,KNApSAcK
+348,C00056594,1193603-16-5,Diosbulbiside A,C39H62O14,754.41395669,Dioscorea bulbifera,Dioscorea,KNApSAcK
+349,C00056595,1193603-17-6,Diosbulbiside B,C45H72O18,900.4718655,Dioscorea bulbifera,Dioscorea,KNApSAcK
+350,C00056652,121379-44-0,"1-[2-(3,7-Dimethyl-2,6-octadienyl)-4-hydroxy-6-methoxyphenyl]ethanone",C19H26O3,302.1881947,Dioscorea bulbifera,Dioscorea,KNApSAcK
+351,C00056699,1236285-86-1,Diosbulbin K,C20H24O7,376.15220312,Dioscorea bulbifera,Dioscorea,KNApSAcK
+352,C00056700,1236285-87-2,Diosbulbin L,C19H22O7,362.13655306,Dioscorea bulbifera,Dioscorea,KNApSAcK
+353,C00056701,1236285-88-3,Diosbulbin M,C19H20O7,360.12090299,Dioscorea bulbifera,Dioscorea,KNApSAcK
+354,C00056702,1236285-89-4,Diosbulbinoside G,C25H30O12,522.17372642,Dioscorea bulbifera,Dioscorea,KNApSAcK
+355,C00057419,511-91-1,Neochlorogenin,C27H44O4,432.32395989,Dioscorea tokoro,Dioscorea,KNApSAcK
+356,C00057493,66756-57-8,Neodiosbulbin,C19H20O6,344.12598837,Dioscorea bulbifera,Dioscorea,KNApSAcK
+357,C00058125,512-07-2,Spirostan-3-one,C27H42O3,414.31339521,Dioscorea deltoidea,Dioscorea,KNApSAcK
+358,C00058955,103-29-7,Dihydrostilbene,C14H14,182.10955045,Dioscorea alata,Dioscorea,KNApSAcK
+359,C00061894,47845-44-3,"2-(3,4-Dihydroxyphenyl)-3-[(6-O-beta-D-glucopyranosyl-beta-D-glucopyranosyl)oxy]-5,7-dihydroxy-1-benzopyrylium",C27H31O16,611.16120995,Dioscorea alata,Dioscorea,KNApSAcK
+360,C00063605,1026020-27-8,Huangjiangsu A,C51H82O22,1046.52977431,Dioscorea cayenensis,Dioscorea,KNApSAcK
+361,C00063605,1026020-27-8,Huangjiangsu A,C51H82O22,1046.52977431,Dioscorea nipponica,Dioscorea,KNApSAcK
+362,C00063605,1026020-27-8,Huangjiangsu A,C51H82O22,1046.52977431,Dioscorea villosa,Dioscorea,KNApSAcK
+363,C00063641,109491-66-9,25(R)-Dracaenoside G,C45H72O17,884.47695088,Dioscorea villosa,Dioscorea,KNApSAcK
+364,C00063641,109491-66-9,25(R)-Dracaenoside G,C45H72O17,884.47695088,Dioscorea cayenensis,Dioscorea,KNApSAcK
+365,C00063641,109491-66-9,25(R)-Dracaenoside G,C45H72O17,884.47695088,Dioscorea nipponica,Dioscorea,KNApSAcK
+366,C00063696,1193603-12-1,Diosbulbisin A,C27H40O4,428.29265977,Dioscorea bulbifera,Dioscorea,KNApSAcK
+367,C00063867,1427961-28-1,Dioscoreavilloside A,C39H66O14,758.44525682,Dioscorea villosa,Dioscorea,KNApSAcK
+368,C00063867,1427961-28-1,Dioscoreavilloside A,C39H66O14,758.44525682,Dioscorea nipponica,Dioscorea,KNApSAcK
+369,C00063867,1427961-28-1,Dioscoreavilloside A,C39H66O14,758.44525682,Dioscorea cayenensis,Dioscorea,KNApSAcK
+370,C00063868,1427961-30-5,Dioscoreavilloside B,C39H64O14,756.42960675,Dioscorea villosa,Dioscorea,KNApSAcK
+371,C00063868,1427961-30-5,Dioscoreavilloside B,C39H64O14,756.42960675,Dioscorea nipponica,Dioscorea,KNApSAcK
+372,C00063868,1427961-30-5,Dioscoreavilloside B,C39H64O14,756.42960675,Dioscorea cayenensis,Dioscorea,KNApSAcK
+373,C00063892,1469752-64-4,Dioscoreanoside A,C45H72O18,900.4718655,Dioscorea bulbifera,Dioscorea,KNApSAcK
+374,C00063893,1469752-65-5,Dioscoreanoside B,C51H82O22,1046.52977431,Dioscorea bulbifera,Dioscorea,KNApSAcK
+375,C00063894,1469752-66-6,Dioscoreanoside C,C45H72O19,916.46678012,Dioscorea bulbifera,Dioscorea,KNApSAcK
+376,C00063895,1469752-67-7,Dioscoreanoside D,C51H82O23,1062.52468893,Dioscorea bulbifera,Dioscorea,KNApSAcK
+377,C00063896,1469752-68-8,Dioscoreanoside E,C45H72O19,916.46678012,Dioscorea bulbifera,Dioscorea,KNApSAcK
+378,C00063897,1469752-69-9,Dioscoreanoside F,C39H62O15,770.40887131,Dioscorea bulbifera,Dioscorea,KNApSAcK
+379,C00063898,1469752-70-2,Dioscoreanoside G,C51H82O23,1062.52468893,Dioscorea bulbifera,Dioscorea,KNApSAcK
+380,C00063899,1469752-71-3,Dioscoreanoside H,C51H82O22,1046.52977431,Dioscorea bulbifera,Dioscorea,KNApSAcK
+381,C00063900,1469752-72-4,Dioscoreanoside I,C57H92O27,1208.58259774,Dioscorea bulbifera,Dioscorea,KNApSAcK
+382,C00063901,1469752-73-5,Dioscoreanoside J,C39H62O15,770.40887131,Dioscorea bulbifera,Dioscorea,KNApSAcK
+383,C00063902,1469752-74-6,Dioscoreanoside K,C45H72O19,916.46678012,Dioscorea bulbifera,Dioscorea,KNApSAcK
+384,C00064113,1978410-75-1,Alatanin D,C55H61O29,1185.32985099,Dioscorea alata,Dioscorea,KNApSAcK
+385,C00064114,1978410-76-2,Alatanin E,C44H51O25,979.27194218,Dioscorea alata,Dioscorea,KNApSAcK
+386,C00064115,1978410-77-3,Alatanin G,C37H39O19,787.20855407,Dioscorea alata,Dioscorea,KNApSAcK
+387,C00064118,20086-05-9,Diosbulbin A,C20H24O7,376.15220312,Dioscorea bulbifera,Dioscorea,KNApSAcK
+388,C00064119,20086-07-1,Diosbulbin C,C19H22O7,362.13655306,Dioscorea bulbifera,Dioscorea,KNApSAcK
+389,C00064213,2488305-34-4,Diosbulbin N,C19H22O7,362.13655306,Dioscorea bulbifera,Dioscorea,KNApSAcK
+390,C00064214,2488351-13-7,Diosbulbin P,C20H24O8,392.14711774,Dioscorea bulbifera,Dioscorea,KNApSAcK
+391,C00064328,43207-25-6,Diosbulbin O,C19H20O7,360.12090299,Dioscorea bulbifera,Dioscorea,KNApSAcK
+392,C00064375,511-97-7,Yuccagenin,C27H42O4,430.30830983,Dioscorea tokoro,Dioscorea,KNApSAcK
+393,C00064395,547-01-3,Tokorogenin,C27H44O5,448.31887452,Dioscorea tokoro,Dioscorea,KNApSAcK
+394,C00064481,66835-37-8,Diosbulbin F,C20H24O7,376.15220312,Dioscorea bulbifera,Dioscorea,KNApSAcK
+395,C00064483,67567-13-9,Diosbulbin H,C23H30O7,418.19915331,Dioscorea bulbifera,Dioscorea,KNApSAcK
+396,C00064484,67567-14-0,diosbulbin E,C19H22O6,346.14163844,Dioscorea bulbifera,Dioscorea,KNApSAcK
+397,C00064485,67567-15-1,Diosbulbin G,C19H22O6,346.14163844,Dioscorea bulbifera,Dioscorea,KNApSAcK

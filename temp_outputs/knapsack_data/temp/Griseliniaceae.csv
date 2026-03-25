@@ -1,0 +1,183 @@
+,C_ID,CAS ID,example_compound_name,Molecular formula,Mw,Organism,knapsack_search_term,Source
+0,C00010550,71035-06-8,Griselinoside,C18H24O12,432.12677623,Griselinia littoralis,Griselinia,KNApSAcK
+0,C00002034,454-14-8,Cuscohygrine,C13H24N2O,224.1888634,Scopolia spp.,Scopolia,KNApSAcK
+1,C00002277,51-55-8,Atropine,C17H23NO3,289.16779361,Scopolia carniolica,Scopolia,KNApSAcK
+2,C00002292,51-34-3,Hyoscine,C17H21NO4,303.14705817,Scopolia parviflora,Scopolia,KNApSAcK
+3,C00002292,51-34-3,Hyoscine,C17H21NO4,303.14705817,Scopolia carniolica,Scopolia,KNApSAcK
+4,C00002292,51-34-3,Hyoscine,C17H21NO4,303.14705817,Scopolia japonica,Scopolia,KNApSAcK
+5,C00002293,101-31-5,Hyoscyamine,C17H23NO3,289.16779361,Scopolia carniolica,Scopolia,KNApSAcK
+6,C00002293,101-31-5,Hyoscyamine,C17H23NO3,289.16779361,Scopolia japonica,Scopolia,KNApSAcK
+7,C00002293,101-31-5,Hyoscyamine,C17H23NO3,289.16779361,Mandragora scopoliae,Scopolia,KNApSAcK
+8,C00002293,101-31-5,Hyoscyamine,C17H23NO3,289.16779361,Scopolia lurida,Scopolia,KNApSAcK
+9,C00002297,537-29-1,Norhyoscyamine,C16H21NO3,275.15214354,Scopolia japonica,Scopolia,KNApSAcK
+10,C00002301,135-97-7,Pseudotropine,C8H15NO,141.11536411,Scopolia carniolica,Scopolia,KNApSAcK
+11,C00002306,120-29-6,Tropine,C8H15NO,141.11536411,Scopolia carniolica,Scopolia,KNApSAcK
+12,C00002499,92-61-5,Scopoletin,C10H8O4,192.04225874,Scopolia japonica,Scopolia,KNApSAcK
+13,C00002500,531-44-2,7-(beta-D-glucopyranosyloxy)-6-methoxycoumarin,C16H18O9,354.09508217,Scopolia japonica,Scopolia,KNApSAcK
+14,C00028001,127414-86-2,Calystegine B1,C7H13NO4,175.08445791,Scopolia spp.,Scopolia,KNApSAcK
+15,C00035552,178231-95-3,Calystegine B3,C7H13NO4,175.08445791,Scopolia japonica,Scopolia,KNApSAcK
+16,C00036863,165905-26-0,Calystegine A5,C7H13NO3,159.08954329,Scopolia japonica,Scopolia,KNApSAcK
+17,C00036866,184046-85-3,Calystegine B4,C7H13NO4,175.08445791,Scopolia japonica,Scopolia,KNApSAcK
+18,C00036868,156705-04-3,Calystegine C1,C7H13NO5,191.07937253,Scopolia japonica,Scopolia,KNApSAcK
+0,C00000503,161017-04-5,Xuxuarin A alpha,C56H70O7,854.51215459,Maytenus chuchuhuasca,Maytenus,KNApSAcK
+1,C00000856,99-96-7,4-hydroxybenzoic acid,C7H6O3,138.03169406,Maytenus loevis,Maytenus,KNApSAcK
+2,C00000956,490-46-0,(-)-Epicatechin,C15H14O6,290.07903818,Maytenus heterophylla,Maytenus,KNApSAcK
+3,C00001405,492-39-7,Cathine,C9H13NO,151.09971404,Maytenus krukovii,Maytenus,KNApSAcK
+4,C00001406,71031-15-7,D-Cathinone,C9H11NO,149.08406398,Maytenus krukovii,Maytenus,KNApSAcK
+5,C00001987,37239-51-3,Wilfordin,C43H49NO19,883.28987839,Maytenus chiapensis,Maytenus,KNApSAcK
+6,C00002322,53938-08-2,Celabenzine,C23H29N3O2,379.22597719,Maytenus mossambicensis,Maytenus,KNApSAcK
+7,C00002351,35846-53-8,Maytansine,C34H46ClN3O10,691.28717242,Maytenus serrata,Maytenus,KNApSAcK
+8,C00002351,35846-53-8,Maytansine,C34H46ClN3O10,691.28717242,Maytenus ovatus,Maytenus,KNApSAcK
+9,C00002351,35846-53-8,Maytansine,C34H46ClN3O10,691.28717242,Maytenus hookeri,Maytenus,KNApSAcK
+10,C00002351,35846-53-8,Maytansine,C34H46ClN3O10,691.28717242,Maytenus buchananii,Maytenus,KNApSAcK
+11,C00002351,35846-53-8,Maytansine,C34H46ClN3O10,691.28717242,Maytenus confertiflorus,Maytenus,KNApSAcK
+12,C00002351,35846-53-8,Maytansine,C34H46ClN3O10,691.28717242,Maytenus guangsinensis,Maytenus,KNApSAcK
+13,C00002351,35846-53-8,Maytansine,C34H46ClN3O10,691.28717242,Maytenus senata,Maytenus,KNApSAcK
+14,C00002631,21453-69-0,(+)-Lirioresinol B,C22H26O8,418.16276781,Maytenus aquifolium,Maytenus,KNApSAcK
+15,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Maytenus loevis,Maytenus,KNApSAcK
+16,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Maytenus guianensis,Maytenus,KNApSAcK
+17,C00003738,559-70-6,beta-Amyrin,C30H50O,426.38616622,Maytenus heterophylla,Maytenus,KNApSAcK
+18,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Maytenus chiapensis,Maytenus,KNApSAcK
+19,C00003740,473-98-3,Betulin,C30H50O2,442.38108084,Maytenus cuzcoina,Maytenus,KNApSAcK
+20,C00003747,559-74-0,3-Friedelanone,C30H50O,426.38616622,Maytenus aquifolium,Maytenus,KNApSAcK
+21,C00003747,559-74-0,3-Friedelanone,C30H50O,426.38616622,Maytenus macrocarpa,Maytenus,KNApSAcK
+22,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Maytenus cuzcoina,Maytenus,KNApSAcK
+23,C00003751,18211-63-7,Messagenin,C29H48O3,444.3603454,Maytenus chiapensis,Maytenus,KNApSAcK
+24,C00003753,1258-84-0,Pristimerin,C30H40O4,464.29265977,Maytenus spp.,Maytenus,KNApSAcK
+25,C00003753,1258-84-0,Pristimerin,C30H40O4,464.29265977,Maytenus canariensis,Maytenus,KNApSAcK
+26,C00003753,1258-84-0,Pristimerin,C30H40O4,464.29265977,Maytenus chuchuhuasca,Maytenus,KNApSAcK
+27,C00003753,1258-84-0,Pristimerin,C30H40O4,464.29265977,Maytenus aquifolium,Maytenus,KNApSAcK
+28,C00003753,1258-84-0,Pristimerin,C30H40O4,464.29265977,Maytenus illicifolia Mart ex Reiss.,Maytenus,KNApSAcK
+29,C00003759,50802-21-6,Maytenin,C28H36O3,420.26644502,Maytenus catingarum,Maytenus,KNApSAcK
+30,C00003759,50802-21-6,Maytenin,C28H36O3,420.26644502,Maytenus chuchuhuasca,Maytenus,KNApSAcK
+31,C00003759,50802-21-6,Maytenin,C28H36O3,420.26644502,Maytenus spp.,Maytenus,KNApSAcK
+32,C00003759,50802-21-6,Maytenin,C28H36O3,420.26644502,Maytenus aquifolium,Maytenus,KNApSAcK
+33,C00003759,50802-21-6,Maytenin,C28H36O3,420.26644502,Maytenus canariensis,Maytenus,KNApSAcK
+34,C00004762,16805-10-0,Mearnsetin,C16H12O8,332.05321736,Maytenus loevis,Maytenus,KNApSAcK
+35,C00008820,17291-05-3,Ourateacatechin,C16H16O7,320.08960287,Maytenus heterophylla,Maytenus,KNApSAcK
+36,C00008820,17291-05-3,Ourateacatechin,C16H16O7,320.08960287,Maytenus rigida,Maytenus,KNApSAcK
+37,C00009061,18206-61-6,Ourateaproanthocyanidin A,C31H28O12,592.15807636,Maytenus loevis,Maytenus,KNApSAcK
+38,C00009061,18206-61-6,Ourateaproanthocyanidin A,C31H28O12,592.15807636,Maytenus rigida,Maytenus,KNApSAcK
+39,C00009062,27567-66-4,Ourateaproanthocyanidin B,C31H28O12,592.15807636,Maytenus rigida,Maytenus,KNApSAcK
+40,C00010600,52949-83-4,Ajugol,C15H24O9,348.14203237,Maytenus loevis,Maytenus,KNApSAcK
+41,C00013107,89945-79-9,Alatusinine,C38H47NO19,821.27422833,Maytenus chiapensis,Maytenus,KNApSAcK
+42,C00013118,41758-69-4,Euonine,C38H47NO18,805.27931371,Maytenus chiapensis,Maytenus,KNApSAcK
+43,C00013118,41758-69-4,Euonine,C38H47NO18,805.27931371,Maytenus laevis,Maytenus,KNApSAcK
+44,C00013119,41855-33-8,Alatamine,C41H45NO18,839.26366364,Maytenus chiapensis,Maytenus,KNApSAcK
+45,C00013126,33458-82-1,Euonymin,C38H47NO18,805.27931371,Maytenus chiapensis,Maytenus,KNApSAcK
+46,C00013126,33458-82-1,Euonymin,C38H47NO18,805.27931371,Maytenus laevis,Maytenus,KNApSAcK
+47,C00013128,31146-55-1,Maytoline,C29H37NO13,607.22649028,Maytenus serrata,Maytenus,KNApSAcK
+48,C00013128,31146-55-1,Maytoline,C29H37NO13,607.22649028,Maytenus ovatus Loes.,Maytenus,KNApSAcK
+49,C00013129,60512-69-8,Maytolidine,C36H41NO14,711.25270503,Maytenus serrata,Maytenus,KNApSAcK
+50,C00013139,31146-56-2,Maytine,C29H37NO12,591.23157566,Maytenus serrata,Maytenus,KNApSAcK
+51,C00013139,31146-56-2,Maytine,C29H37NO12,591.23157566,Maytenus ovatus Loes.,Maytenus,KNApSAcK
+52,C00013147,128397-65-9,"[3R-(3alpha,4alpha,5alpha,5aalpha,6alpha,7alpha,9alpha,9aalpha,10R*)]-Octahydro-5a-(hydroxymethyl)-2,2,9-trimethyl-, 4,6,7,10-tetraacetate 5-benzoate 2H-3,9a-methano-1-benzoxepin-4,5,6,7,10-pentol",C30H38O12,590.23632668,Maytenus chubutensis,Maytenus,KNApSAcK
+53,C00013157,102865-30-5,Horridine,C43H49NO18,867.29496377,Maytenus hookeri,Maytenus,KNApSAcK
+54,C00013158,104736-05-2,Mayteine,C43H49NO18,867.29496377,Maytenus laevis,Maytenus,KNApSAcK
+55,C00013158,104736-05-2,Mayteine,C43H49NO18,867.29496377,Maytenus putterlickoides,Maytenus,KNApSAcK
+56,C00013158,104736-05-2,Mayteine,C43H49NO18,867.29496377,Maytenus loevis,Maytenus,KNApSAcK
+57,C00013158,104736-05-2,Mayteine,C43H49NO18,867.29496377,Maytenus guianensis,Maytenus,KNApSAcK
+58,C00013158,104736-05-2,Mayteine,C43H49NO18,867.29496377,Maytenus chiapensis,Maytenus,KNApSAcK
+59,C00013163,93772-06-6,Maymyrsine,C32H37NO10,595.24174641,Maytenus myrsinoides,Maytenus,KNApSAcK
+60,C00013164,93772-07-7,Acetylmaymyrsine,C34H39NO11,637.2523111,Maytenus myrsinoides,Maytenus,KNApSAcK
+61,C00013165,128397-60-4,"[3R-(3alpha,5beta,5aalpha,6alpha,7alpha,9alpha,9aalpha,10R*)]-Octahydro-5a-(hydroxymethyl)-2,2,9-trimethyl-, 6,7,10-triacetate 5-benzoate 2H-3,9a-methano-1-benzoxepin-5,6,7,10-tetrol",C28H36O10,532.23084737,Maytenus chubutensis,Maytenus,KNApSAcK
+62,C00013166,122475-45-0,"[3R-(3alpha,5beta,5aalpha,6alpha,7alpha,9alpha,9aalpha,10R*)]-5a-[(Acetyloxy)methyl]octahydro-2,2,9-trimethyl-, 6,7,10-triacetate 5-benzoate 2H-3,9a-methano-1-benzoxepin-5,6,7,10-tetrol",C30H38O11,574.24141206,Maytenus chubutensis,Maytenus,KNApSAcK
+63,C00013172,112592-79-7,Acetyleumaitenol,C29H34O12,574.20502655,Maytenus boaria,Maytenus,KNApSAcK
+64,C00013179,112569-60-5,Eumaitenol,C27H32O10,516.19954724,Maytenus boaria,Maytenus,KNApSAcK
+65,C00013181,112516-44-6,Eumaitenin,C26H34O10,506.21519731,Maytenus boaria,Maytenus,KNApSAcK
+66,C00013191,98618-76-9,Wilforidine,C36H45NO18,779.26366364,Maytenus chiapensis,Maytenus,KNApSAcK
+67,C00013193,11088-09-8,Wilforine,C43H49NO18,867.29496377,Maytenus senegalensis,Maytenus,KNApSAcK
+68,C00013193,11088-09-8,Wilforine,C43H49NO18,867.29496377,Maytenus laevis,Maytenus,KNApSAcK
+69,C00013765,214407-43-9,Kaempferol 3-glucosyl-(1->3)-rhamnosyl-(1->2)-[rhamnosyl-(1->6)-galactoside],C39H50O24,902.26920253,Maytenus aquifolium,Maytenus,KNApSAcK
+70,C00019065,545-48-2,Erythrodiol,C30H50O2,442.38108084,Maytenus ilicifolia,Maytenus,KNApSAcK
+71,C00019144,5989-02-6,(-)-Loliolide,C11H16O3,196.10994438,Maytenus cinfertiflorus,Maytenus,KNApSAcK
+72,C00019220,1617-70-5,Lupenone,C30H48O,424.37051615,Maytenus chiapensis,Maytenus,KNApSAcK
+73,C00019220,1617-70-5,Lupenone,C30H48O,424.37051615,Maytenus cuzcoina,Maytenus,KNApSAcK
+74,C00023788,6610-55-5,Glochidone,C30H46O,422.35486609,Maytenus cuzcoina,Maytenus,KNApSAcK
+75,C00023788,6610-55-5,Glochidone,C30H46O,422.35486609,Maytenus chiapensis,Maytenus,KNApSAcK
+76,C00023789,23963-54-4,Glochidonol,C30H48O2,440.36543078,Maytenus cuzcoina,Maytenus,KNApSAcK
+77,C00023789,23963-54-4,Glochidonol,C30H48O2,440.36543078,Maytenus chiapensis,Maytenus,KNApSAcK
+78,C00027887,210166-82-8,Aquifoliunine E-I,C43H49NO18,867.29496377,Maytenus aquifolium,Maytenus,KNApSAcK
+79,C00027888,210166-84-0,Aquifoliunine E-II,C34H43NO16,721.25818434,Maytenus aquifolium,Maytenus,KNApSAcK
+80,C00027889,220751-20-2,Aquifoliunine E-III,C36H45NO17,763.26874902,Maytenus aquifolium,Maytenus,KNApSAcK
+81,C00027890,220751-22-4,Aquifoliunine E-IV,C42H48N2O18,868.29021275,Maytenus aquifolium,Maytenus,KNApSAcK
+82,C00028240,156280-96-5,Emarginatine C,C41H48N2O18,856.29021275,Maytenus emarginata,Maytenus,KNApSAcK
+83,C00028241,156280-97-6,Emarginatine D,C41H48N2O18,856.29021275,Maytenus emarginata,Maytenus,KNApSAcK
+84,C00028242,156280-98-7,Emarginatine E,C39H46N2O17,814.27964806,Maytenus emarginata,Maytenus,KNApSAcK
+85,C00028243,156280-99-8,Emarginatinine,C43H50N2O20,914.29569206,Maytenus emarginata,Maytenus,KNApSAcK
+86,C00028443,220383-11-9,Laevisine A,C41H51NO18,845.31061384,Maytenus laevis,Maytenus,KNApSAcK
+87,C00028444,220383-13-1,Laevisine B,C42H48N2O18,868.29021275,Maytenus laevis,Maytenus,KNApSAcK
+88,C00029821,1058-61-3,Sitostenone,C29H48O,412.37051615,Maytenus guianensis,Maytenus,KNApSAcK
+89,C00029898,132059-99-5,Cangorosin B,C58H74O8,898.53836934,Maytenus illicifolia Mart ex Reiss.,Maytenus,KNApSAcK
+90,C00029898,132059-99-5,Cangorosin B,C58H74O8,898.53836934,Maytenus chuchuhuasca,Maytenus,KNApSAcK
+91,C00029900,14440-41-6,Canophyllol,C30H50O2,442.38108084,Maytenus loevis,Maytenus,KNApSAcK
+92,C00029900,14440-41-6,Canophyllol,C30H50O2,442.38108084,Maytenus macrocarpa,Maytenus,KNApSAcK
+93,C00030134,132059-98-4,Dihydroisocangorosin A,C60H84O8,932.61661966,Maytenus illicifolia Mart ex Reiss.,Maytenus,KNApSAcK
+94,C00030516,61303-13-7,Isoacteoside,C29H36O15,624.20542048,Maytenus loevis,Maytenus,KNApSAcK
+95,C00030549,52613-30-6,Isotingenone III,C28H36O3,420.26644502,Maytenus illicifolia Mart ex Reiss.,Maytenus,KNApSAcK
+96,C00030622,55051-96-2,Lambertic acid,C20H28O3,316.20384476,Maytenus loevis,Maytenus,KNApSAcK
+97,C00032528,815582-49-1,Xuxuasin A,C56H72O6,840.53289003,Maytenus chuchuhuasca,Maytenus,KNApSAcK
+98,C00032529,815582-50-4,Xuxuasin B,C56H72O7,856.52780465,Maytenus chuchuhuasca,Maytenus,KNApSAcK
+99,C00034197,43043-12-5,Resinone,C30H48O2,440.36543078,Maytenus chiapensis,Maytenus,KNApSAcK
+100,C00034390,38736-77-5,3-epi-Betulinic acid,C30H48O3,456.3603454,Maytenus cuzcoina,Maytenus,KNApSAcK
+101,C00035253,4481-62-3,Betulonic acid,C30H46O3,454.34469533,Maytenus cuzcoina,Maytenus,KNApSAcK
+102,C00036535,379261-34-4,3alpha-Hydroxy-2-oxofriedelane-20alpha-carboxylic acid,C30H48O4,472.35526002,Maytenus hetephylla,Maytenus,KNApSAcK
+103,C00036535,379261-34-4,3alpha-Hydroxy-2-oxofriedelane-20alpha-carboxylic acid,C30H48O4,472.35526002,Maytenus heterophylla,Maytenus,KNApSAcK
+104,C00036675,84104-71-2,Abruslactone A,C30H46O3,454.34469533,Maytenus loevis,Maytenus,KNApSAcK
+105,C00037440,29028-10-2,"Lup-20(29)-ene-1beta,3beta-diol",C30H50O2,442.38108084,Maytenus heterophylla,Maytenus,KNApSAcK
+106,C00037489,84108-17-8,Abrusgenic acid,C30H48O4,472.35526002,Maytenus loevis,Maytenus,KNApSAcK
+107,C00037489,84108-17-8,Abrusgenic acid,C30H48O4,472.35526002,Maytenus diversifolia,Maytenus,KNApSAcK
+108,C00037489,84108-17-8,Abrusgenic acid,C30H48O4,472.35526002,Maytenus heterophylla,Maytenus,KNApSAcK
+109,C00037953,201534-09-0,Triptocallic acid D,C30H48O4,472.35526002,Maytenus loevis,Maytenus,KNApSAcK
+110,C00040072,229181-06-0,Pristimerine,C30H38O6,494.26683895,Maytenus catingarum,Maytenus,KNApSAcK
+111,C00040735,222609-75-8,(-)-4'-Methylepigallocatechin 5-O-beta-glucopyranoside,C22H26O12,482.1424263,Maytenus senegalensis,Maytenus,KNApSAcK
+112,C00040745,222609-77-0,(+)-4'-Methylgallocatechin 3'-O-beta-glucopyranoside,C22H26O12,482.1424263,Maytenus senegalensis,Maytenus,KNApSAcK
+113,C00041212,190906-61-7,Triptocallic acid A,C30H48O4,472.35526002,Maytenus loevis,Maytenus,KNApSAcK
+114,C00042123,35316-99-5,3-epi-Betulin,C30H50O2,442.38108084,Maytenus cuzcoina,Maytenus,KNApSAcK
+115,C00042124,92594-07-5,3-epi-Betulinic aldehyde,C30H48O2,440.36543078,Maytenus cuzcoina,Maytenus,KNApSAcK
+116,C00042283,7020-34-0,Betulone,C30H48O2,440.36543078,Maytenus chiapensis,Maytenus,KNApSAcK
+117,C00042283,7020-34-0,Betulone,C30H48O2,440.36543078,Maytenus cuzcoina,Maytenus,KNApSAcK
+118,C00042563,6610-56-6,Glochidiol,C30H50O2,442.38108084,Maytenus cuzcoina,Maytenus,KNApSAcK
+119,C00042765,79383-36-1,Nepeticin,C30H50O2,442.38108084,Maytenus cuzcoina,Maytenus,KNApSAcK
+120,C00042919,71298-27-6,Rigidenol,C30H48O2,440.36543078,Maytenus cuzcoina,Maytenus,KNApSAcK
+121,C00042919,71298-27-6,Rigidenol,C30H48O2,440.36543078,Maytenus rigida,Maytenus,KNApSAcK
+122,C00043184,128301-32-6,"3beta,22beta-Dihydroxyolean-12-en-29-oic acid",C30H48O4,472.35526002,Maytenus loevis,Maytenus,KNApSAcK
+123,C00043188,158204-43-4,3-Epiabruslactone A,C30H46O3,454.34469533,Maytenus loevis,Maytenus,KNApSAcK
+124,C00043386,654670-28-7,Chiapenine ES-I,C48H51NO19,945.30552846,Maytenus chiapensis,Maytenus,KNApSAcK
+125,C00043387,654670-29-8,Chiapenine ES-II,C46H47NO18,901.27931371,Maytenus chiapensis,Maytenus,KNApSAcK
+126,C00043388,654670-30-1,Chiapenine ES-III,C39H43NO17,797.25309896,Maytenus chiapensis,Maytenus,KNApSAcK
+127,C00043389,654670-31-2,Chiapenine ES-IV,C34H41NO17,735.23744889,Maytenus chiapensis,Maytenus,KNApSAcK
+128,C00043473,143439-10-5,Ebenifoline E-I,C41H47NO17,825.28439909,Maytenus chiapensis,Maytenus,KNApSAcK
+129,C00043474,150375-26-1,Ebenifoline E-III,C48H51NO18,929.31061384,Maytenus loevis,Maytenus,KNApSAcK
+130,C00043492,113493-20-2,Erythrodiol 3-caffeate,C39H56O5,604.4127749,Maytenus ilicifolia,Maytenus,KNApSAcK
+131,C00043510,146439-78-3,Forrestine,C43H49NO18,867.29496377,Maytenus chiapensis,Maytenus,KNApSAcK
+132,C00043696,667866-56-0,Maytefolin A,C30H48O3,456.3603454,Maytenus ilicifolia,Maytenus,KNApSAcK
+133,C00043697,667866-57-1,Maytefolin B,C30H48O3,456.3603454,Maytenus ilicifolia,Maytenus,KNApSAcK
+134,C00043698,667866-58-2,Maytefolin C,C30H50O2,442.38108084,Maytenus ilicifolia,Maytenus,KNApSAcK
+135,C00043738,568-49-0,Moradiol,C30H50O2,442.38108084,Maytenus ilicifolia,Maytenus,KNApSAcK
+136,C00043883,71247-78-4,Salaspermic acid,C30H48O4,472.35526002,Maytenus loevis,Maytenus,KNApSAcK
+137,C00043996,667465-76-1,Uvaol 3-caffeate,C39H56O5,604.4127749,Maytenus ilicifolia,Maytenus,KNApSAcK
+138,C00046065,142905-27-9,Koetjapic acid,C30H46O4,470.33960996,Maytenus undata,Maytenus,KNApSAcK
+139,C00046337,345302-99-0,Putterine A,C42H48N2O18,868.29021275,Maytenus putterlickoides,Maytenus,KNApSAcK
+140,C00046338,345303-00-6,Putterine B,C44H52N2O18,896.32151288,Maytenus putterlickoides,Maytenus,KNApSAcK
+141,C00047369,1159990-78-9,"9,9'-Dibenzoylsecoisolariciresinol",C34H34O8,570.22536806,Maytenus apurimacensis,Maytenus,KNApSAcK
+142,C00048287,76235-99-9,3-Oxofriedelan-25-al,C30H48O2,440.36543078,Maytenus macrocarpa,Maytenus,KNApSAcK
+143,C00049044,128397-43-3,Euojaponine F,C43H49NO18,867.29496377,Maytenus laevis,Maytenus,KNApSAcK
+144,C00049045,133740-17-7,Euojaponine I,C42H48N2O18,868.29021275,Maytenus laevis,Maytenus,KNApSAcK
+145,C00049109,222176-40-1,Amazoquinone,C28H36O4,436.26135964,Maytenus amazonica,Maytenus,KNApSAcK
+146,C00049177,202346-63-2,Ilicifolinoside A,C11H20O7,264.12090299,Maytenus ilicifolia,Maytenus,KNApSAcK
+147,C00049178,202346-64-3,Ilicifolinoside B,C19H32O8,388.209718,Maytenus ilicifolia,Maytenus,KNApSAcK
+148,C00049179,202346-65-4,Ilicifolinoside C,C19H34O9,406.22028269,Maytenus ilicifolia,Maytenus,KNApSAcK
+149,C00049541,247017-66-9,Triscutin A,C90H122O12,1394.89362936,Maytenus scutioides,Maytenus,KNApSAcK
+150,C00049542,247017-67-0,Triscutin B,C90H122O12,1394.89362936,Maytenus scutioides,Maytenus,KNApSAcK
+151,C00050372,184092-58-8,Krukovine A,C30H46O3,454.34469533,Maytenus krukovii,Maytenus,KNApSAcK
+152,C00050373,184092-59-9,Krukovine B,C30H46O3,454.34469533,Maytenus krukovii,Maytenus,KNApSAcK
+153,C00051513,62414-95-3,Maytanbutacine,C34H45ClN2O11,692.27118801,Maytenus serrata,Maytenus,KNApSAcK
+154,C00051514,38997-10-3,Maytanbutine,C36H50ClN3O10,719.31847255,Maytenus serrata,Maytenus,KNApSAcK
+155,C00051514,38997-10-3,Maytanbutine,C36H50ClN3O10,719.31847255,Maytenus buchananii,Maytenus,KNApSAcK
+156,C00051514,38997-10-3,Maytanbutine,C36H50ClN3O10,719.31847255,Maytenus ovatus,Maytenus,KNApSAcK
+157,C00051515,38997-09-0,Maytanprine,C35H48ClN3O10,705.30282249,Maytenus hookeri,Maytenus,KNApSAcK
+158,C00051515,38997-09-0,Maytanprine,C35H48ClN3O10,705.30282249,Maytenus confertiflorus,Maytenus,KNApSAcK
+159,C00051515,38997-09-0,Maytanprine,C35H48ClN3O10,705.30282249,Maytenus buchananii,Maytenus,KNApSAcK
+160,C00051516,52978-27-5,Maytanvaline,C37H52ClN3O10,733.33412261,Maytenus buchananii,Maytenus,KNApSAcK
+161,C00051763,,Wilfordic acid,C11H13NO4,223.08445791,Maytenus ebenifolia,Maytenus,KNApSAcK

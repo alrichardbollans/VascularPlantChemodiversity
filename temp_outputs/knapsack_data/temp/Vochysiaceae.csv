@@ -1,0 +1,43 @@
+,C_ID,CAS ID,example_compound_name,Molecular formula,Mw,Organism,knapsack_search_term,Source
+0,C00003826,21583-32-4,Geraldone,C16H12O5,284.06847349,Vochysia einnamonea,Vochysia,KNApSAcK
+0,C00001840,5140-50-1,Cularidine,C19H21NO4,327.14705817,Dicentra cucullaria,Cucullaria,KNApSAcK
+1,C00001896,4959-88-0,Ochotensine,C21H21NO4,351.14705817,Dicentra cucullaria,Cucullaria,KNApSAcK
+0,C00008315,78417-14-8,"5,7,4'-Trihydroxy-3'-methoxy-6,8-di-C-methylflavanone",C18H18O6,330.11033831,Qualea paraensis,Qualea,KNApSAcK
+1,C00008315,78417-14-8,"5,7,4'-Trihydroxy-3'-methoxy-6,8-di-C-methylflavanone",C18H18O6,330.11033831,Qualea laboriauana,Qualea,KNApSAcK
+2,C00008593,78417-24-0,"3,7,4'-Trihydroxy-5-methoxy-6-methylflavanone",C17H16O6,316.09468824,Qualea laboriauana,Qualea,KNApSAcK
+0,C00003374,25383-30-6,Tetraneurin E,C17H24O6,324.1572885,Parthenium lozanianum,Lozania,KNApSAcK
+1,C00011701,63181-39-5,"[1S-(1R*,4S*,5E,7R*)]-4-Methyl-10-methylene-7-(1-methylethyl)-5-cyclodecene-1,4-diol",C15H26O2,238.19328007,Parthenium lozanianum,Lozania,KNApSAcK
+2,C00021157,28587-45-3,Tetraneurin B,C17H22O6,322.14163844,Parthenium lozanianum,Lozania,KNApSAcK
+3,C00021158,109291-64-7,15-Desacetyltetraneurin C,C17H24O6,324.1572885,Parthenium lozanianum,Lozania,KNApSAcK
+4,C00021159,28587-47-5,Tetraneurin D,C17H24O6,324.1572885,Parthenium lozanianum,Lozania,KNApSAcK
+5,C00021160,28587-46-4,Tetraneurin C,C19H26O7,366.16785319,Parthenium lozanianum,Lozania,KNApSAcK
+6,C00021161,109291-65-8,Desacetyltetraneurin D 15-O-isobutyrate,C19H28O6,352.18858863,Parthenium lozanianum,Lozania,KNApSAcK
+7,C00021162,109314-16-1,Desacetyltetraneurin D 4-O-isobutyrate,C19H28O6,352.18858863,Parthenium lozanianum,Lozania,KNApSAcK
+8,C00021163,109291-66-9,15-Desacetyltetraneurin C isobutyrate,C21H30O7,394.19915331,Parthenium lozanianum,Lozania,KNApSAcK
+0,C00000674,491-70-3,"5,7,3',4'-Tetrahydroxyflavone",C15H10O6,286.04773805,Baptisia nuttalliana,Nuttallia,KNApSAcK
+1,C00001609,65601-04-9,14-Acetylbrowniine,C27H43NO8,509.29886736,Delphinium nuttallianum Pritz.,Nuttallia,KNApSAcK
+2,C00001621,5140-42-1,Browniine,C25H41NO7,467.28830267,Delphinium nuttallianum Pritz.,Nuttallia,KNApSAcK
+3,C00001627,7633-69-4,Condelphine,C25H39NO6,449.27773799,Delphinium nuttallianum Pritz.,Nuttallia,KNApSAcK
+4,C00002207,486-89-5,(-)-Anagyrine,C15H20N2O,244.15756328,Baptisia nuttalliana,Nuttallia,KNApSAcK
+5,C00002216,486-86-2,(-)-N-Methylcytisine,C12H16N2O,204.12626315,Baptisia nuttalliana,Nuttallia,KNApSAcK
+6,C00002219,32101-29-4,"5,6-Dehydrolupanine",C15H22N2O,246.17321334,Baptisia nuttalliana,Nuttallia,KNApSAcK
+7,C00002499,92-61-5,Scopoletin,C10H8O4,192.04225874,Baptisia nuttalliana,Nuttallia,KNApSAcK
+8,C00002500,531-44-2,7-(beta-D-glucopyranosyloxy)-6-methoxycoumarin,C16H18O9,354.09508217,Baptisia nuttalliana,Nuttallia,KNApSAcK
+9,C00002507,550-79-8,Afrormosin,C17H14O5,298.08412356,Baptisia nuttalliana,Nuttallia,KNApSAcK
+10,C00002518,552-66-9,Daidzin,C21H20O9,416.11073224,Baptisia nuttalliana,Nuttallia,KNApSAcK
+11,C00002525,485-72-3,Formononetin,C16H12O4,268.07355887,Baptisia nuttalliana,Nuttallia,KNApSAcK
+12,C00002526,446-72-0,Genistein,C15H10O5,270.05282343,Baptisia nuttalliana,Nuttallia,KNApSAcK
+13,C00002528,529-59-9,Genistein 7-O-glucoside,C21H20O10,432.10564686,Baptisia nuttalliana,Nuttallia,KNApSAcK
+14,C00003800,2196-14-7,"7,4'-Dihydroxyflavone",C15H10O4,254.05790881,Baptisia nuttalliana,Nuttallia,KNApSAcK
+15,C00003825,2150-11-0,"3',4',7-Trihydroxyflavone",C15H10O5,270.05282343,Baptisia nuttalliana,Nuttallia,KNApSAcK
+16,C00005128,16290-10-1,Resokaempferol 7-glucoside,C21H20O10,432.10564686,Baptisia nuttalliana,Nuttallia,KNApSAcK
+17,C00005301,100272-55-7,Fisetin 7-glucoside,C21H20O11,448.10056148,Baptisia nuttalliana,Nuttallia,KNApSAcK
+18,C00024809,103956-38-3,13-Acetylhetisine,C22H29NO4,371.20965842,Delphinium nuttallianum,Nuttallia,KNApSAcK
+19,C00027664,161993-26-6,12beta-Hydroxykarasamine,C23H37NO5,407.2671733,Delphinium nuttallianum Pritz.,Nuttallia,KNApSAcK
+20,C00027684,4829-56-5,14-Dehydrobrowniine,C25H39NO7,465.27265261,Delphinium nuttallianum Pritz.,Nuttallia,KNApSAcK
+21,C00027685,1361-18-8,14-Dehydrodelcosine,C24H37NO7,451.25700254,Delphinium nuttallianum Pritz.,Nuttallia,KNApSAcK
+22,C00028465,145204-93-9,Leroyine 14-O-acetate,C24H37NO6,435.26208792,Delphinium nuttallianum Pritz.,Nuttallia,KNApSAcK
+23,C00046559,253328-43-7,14-Acetylbearline,C39H50N2O12,738.33637508,Delphinium nuttallianum,Nuttallia,KNApSAcK
+24,C00046563,253328-44-8,16-Deacetylgeyerline,C36H48N2O10,668.33089577,Delphinium nuttallianum,Nuttallia,KNApSAcK
+25,C00046629,253337-82-5,Bearline,C37H48N2O11,696.32581039,Delphinium nuttallianum,Nuttallia,KNApSAcK
+0,C00003826,21583-32-4,Geraldone,C16H12O5,284.06847349,Salvertia convallariodora,Salvertia,KNApSAcK

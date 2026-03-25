@@ -1,0 +1,34 @@
+,C_ID,CAS ID,example_compound_name,Molecular formula,Mw,Organism,knapsack_search_term,Source
+0,C00000819,76-22-2,(+)-Camphor,C10H16O,152.12011513,Dryobalanops aromatica,Balanops,KNApSAcK
+1,C00003028,507-70-0,Borneol,C10H18O,154.1357652,Dryobalanops aromatica,Balanops,KNApSAcK
+2,C00011022,10334-13-1,(-)-Isoborneol,C10H18O,154.1357652,Dryobalanops aromatica,Balanops,KNApSAcK
+3,C00019064,508-02-1,Oleanolic acid,C30H48O3,456.3603454,Dryobalanops aromatica,Balanops,KNApSAcK
+4,C00031793,5085-72-3,Friedelanol,C30H52O,428.40181628,Balanops australiana,Balanops,KNApSAcK
+5,C00033565,4339-72-4,3-Acetyl oleanolic acid,C32H50O4,498.37091008,Dryobalanops aromatica,Balanops,KNApSAcK
+6,C00036909,610757-16-9,cis-Diptoindonesin B,C42H32O9,680.20463262,Dryobalanops oblongifolia,Balanops,KNApSAcK
+7,C00037930,610757-17-0,trans-Diptoindonesin B,C42H32O9,680.20463262,Dryobalanops oblongifolia,Balanops,KNApSAcK
+8,C00042799,19942-04-2,Ocotillol II,C30H52O3,460.39164553,Dryobalanops aromatica,Balanops,KNApSAcK
+9,C00051128,19865-92-0,Kapurol,C30H52O3,460.39164553,Dryobalanops aromatica,Balanops,KNApSAcK
+10,C00051129,19865-90-8,Kapurone,C30H50O3,458.37599546,Dryobalanops aromatica,Balanops,KNApSAcK
+11,C00051547,3946-08-5,Methyl 11-eicosenoate,C21H40O2,324.30283052,Dryobalanops aromatica,Balanops,KNApSAcK
+0,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Ternstroemia gymnanthera,Ternstroemia,KNApSAcK
+1,C00003674,83-48-7,beta-Stigmasterol,C29H48O,412.37051615,Ternstroemia gymnanthera,Ternstroemia,KNApSAcK
+2,C00003738,559-70-6,beta-Amyrin,C30H50O,426.38616622,Ternstroemia gymnanthera,Ternstroemia,KNApSAcK
+3,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Ternstroemia gymnanthera,Ternstroemia,KNApSAcK
+4,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Ternstroemia merrilliana,Ternstroemia,KNApSAcK
+5,C00003741,472-15-1,beta-Betulinic acid,C30H48O3,456.3603454,Ternstroemia cherryi,Ternstroemia,KNApSAcK
+6,C00019064,508-02-1,Oleanolic acid,C30H48O3,456.3603454,Ternstroemia gymnanthera,Ternstroemia,KNApSAcK
+7,C00019065,545-48-2,Erythrodiol,C30H50O2,442.38108084,Ternstroemia gymnanthera,Ternstroemia,KNApSAcK
+8,C00019491,53155-25-2,Euscaphic acid,C30H48O5,488.35017464,Ternstroemia gymnanthera,Ternstroemia,KNApSAcK
+9,C00022960,52789-63-6,Ternstroemiaxanthin,C40H54O2,566.41238097,Ternstroemia japonica,Ternstroemia,KNApSAcK
+10,C00029451,4547-24-4,"2alpha,3beta-Dihydroxyurs-12-en-28-oic acid",C30H48O4,472.35526002,Ternstroemia gymnanthera,Ternstroemia,KNApSAcK
+11,C00030742,4373-41-5,"2alpha,3beta-Dihydroxyolean-12-en-28-oic acid",C30H48O4,472.35526002,Ternstroemia gymnanthera,Ternstroemia,KNApSAcK
+12,C00037295,338744-15-3,Ilelatifol D,C30H46O4,470.33960996,Ternstroemia gymnanthera,Ternstroemia,KNApSAcK
+13,C00037978,35959-05-8,"11,12-Dehydroursolic acid lactone",C30H46O3,454.34469533,Ternstroemia gymnanthera,Ternstroemia,KNApSAcK
+14,C00045045,422308-58-5,Robustanic acid,C31H50O4,486.37091008,Ternstroemia gymnanthera,Ternstroemia,KNApSAcK
+15,C00045100,625081-40-5,Ternstroemiaside A,C54H88O24,1120.56655374,Ternstroemia japonica,Ternstroemia,KNApSAcK
+16,C00045101,625081-41-6,Ternstroemiaside B,C56H90O25,1162.57711843,Ternstroemia japonica,Ternstroemia,KNApSAcK
+17,C00045102,625081-42-7,Ternstroemiaside C,C54H88O24,1120.56655374,Ternstroemia japonica,Ternstroemia,KNApSAcK
+18,C00045103,625081-43-8,Ternstroemiaside D,C60H98O29,1282.61937717,Ternstroemia japonica,Ternstroemia,KNApSAcK
+19,C00045104,625081-44-9,Ternstroemiaside E,C62H100O29,1308.63502724,Ternstroemia japonica,Ternstroemia,KNApSAcK
+20,C00045105,625081-45-0,Ternstroemiaside F,C65H106O32,1398.66672129,Ternstroemia japonica,Ternstroemia,KNApSAcK

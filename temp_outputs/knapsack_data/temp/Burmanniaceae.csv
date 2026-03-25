@@ -1,0 +1,566 @@
+,C_ID,CAS ID,example_compound_name,Molecular formula,Mw,Organism,knapsack_search_term,Source
+0,C00048267,19974-12-0,22-Oxo-20-hydroxyecdysone,C27H42O7,478.2930537,Cyanotis arachnoidea,Cyanotis,KNApSAcK
+0,C00000615,501-16-6,Caffeic acid,C9H8O4,180.04225874,Tetrapleura tetraptera,Tetraptera,KNApSAcK
+1,C00000954,68236-11-3,"6,8-Diprenylnaringenin",C25H28O5,408.193674,Sophora tetraptera,Tetraptera,KNApSAcK
+2,C00002212,732-50-3,Baptifoline,C15H20N2O2,260.1524779,Sophora tetraptera,Tetraptera,KNApSAcK
+3,C00002227,519-02-8,(+)-Matrine,C15H24N2O,248.1888634,Sophora tetraptera,Tetraptera,KNApSAcK
+4,C00002546,2035-15-6,(-)-Maackiain,C16H12O5,284.06847349,Sophora tetraptera,Tetraptera,KNApSAcK
+5,C00003498,81053-26-1,Aridanin,C38H61NO8,659.43971793,Tetrapleura tetraptera,Tetraptera,KNApSAcK
+6,C00008262,55890-27-2,Lupinifolin,C25H26O5,406.17802394,Sophora tetraptera,Tetraptera,KNApSAcK
+7,C00009400,37816-20-9,8-O-Methylretusin,C17H14O5,298.08412356,Sophora tetraptera,Tetraptera,KNApSAcK
+8,C00009515,76754-24-0,Lupalbigenin,C25H26O5,406.17802394,Sophora tetraptera,Tetraptera,KNApSAcK
+9,C00009560,63006-48-4,Cajanone,C25H26O6,422.17293856,Sophora tetraptera,Tetraptera,KNApSAcK
+10,C00009561,51581-04-5,Lespedeol B,C25H26O6,422.17293856,Sophora tetraptera,Tetraptera,KNApSAcK
+11,C00009760,1983-72-8,Medicagol,C16H8O6,296.03208799,Sophora tetraptera,Tetraptera,KNApSAcK
+12,C00009802,67121-26-0,"2',4'-Dihydroxy-5,6-methylenedioxy-2-phenylbenzofuran",C15H10O5,270.05282343,Sophora tetraptera,Tetraptera,KNApSAcK
+13,C00010002,998755-24-9,Isoneorautenol,C20H18O4,322.12050906,Sophora tetraptera,Tetraptera,KNApSAcK
+14,C00010010,104700-87-0,Sophoracarpan A,C17H16O5,300.09977362,Sophora tetraptera,Tetraptera,KNApSAcK
+15,C00018973,222610-35-7,Tetrapterol F,C26H28O7,452.18350325,Sophora tetraptera,Tetraptera,KNApSAcK
+16,C00018974,222610-89-1,Tetrapterol G,C25H28O6,424.18858863,Sophora tetraptera,Tetraptera,KNApSAcK
+17,C00018975,222610-99-3,Tetrapterol H,C26H30O6,438.20423869,Sophora tetraptera,Tetraptera,KNApSAcK
+18,C00018976,222611-00-9,Tetrapterol I,C25H28O4,392.19875938,Sophora tetraptera,Tetraptera,KNApSAcK
+19,C00019364,137832-27-0,Kenusanone A,C25H28O6,424.18858863,Sophora tetraptera,Tetraptera,KNApSAcK
+20,C00019519,160098-94-2,Tetrapterol A,C25H22O6,418.14163844,Sophora tetraptera,Tetraptera,KNApSAcK
+21,C00019520,166546-95-8,Tetrapterol C,C26H30O6,438.20423869,Sophora tetraptera,Tetraptera,KNApSAcK
+22,C00019521,166546-97-0,Tetrapterol D,C25H28O5,408.193674,Sophora tetraptera,Tetraptera,KNApSAcK
+23,C00019522,166546-96-9,Tetrapterol E,C25H28O4,392.19875938,Sophora tetraptera,Tetraptera,KNApSAcK
+24,C00035355,137422-98-1,Oenothein A,C102H72O66,2352.22776737,Oenothera tetraptera,Tetraptera,KNApSAcK
+25,C00035356,104987-36-2,Oenothein B,C68H48O44,1568.15184491,Oenothera tetraptera,Tetraptera,KNApSAcK
+26,C00037173,84744-46-7,Gemin D,C27H22O18,634.0806139,Oenothera tetraptera,Tetraptera,KNApSAcK
+27,C00037577,412955-91-0,Oenotherin T1,C102H72O67,2368.22268199,Oenothera tetraptera,Tetraptera,KNApSAcK
+28,C00058749,160098-95-3,Tetrapterol B,C25H22O5,402.14672381,Sophora tetraptera,Tetraptera,KNApSAcK
+0,C00001205,110-15-6,Succinic acid,C4H6O4,118.02660868,Lobelia chinense,Lobelia,KNApSAcK
+1,C00001403,462-94-2,Cadaverine,C5H14N2,102.11569846,Lobelia siphilitica,Lobelia,KNApSAcK
+2,C00001403,462-94-2,Cadaverine,C5H14N2,102.11569846,Lobelia inflata,Lobelia,KNApSAcK
+3,C00001429,50-67-9,5-Hydroxytryptamine,C10H12N2O,176.09496302,Lobelia chinensis,Lobelia,KNApSAcK
+4,C00001434,61-54-1,Tryptamine,C10H12N2,160.1000484,Lobelia chinensis,Lobelia,KNApSAcK
+5,C00001678,483-04-5,Ajmalicine,C21H24N2O3,352.17869265,Veratrum album var.lobelianum,Lobelia,KNApSAcK
+6,C00002048,530-12-1,Isolobinine,C18H25NO2,287.18852905,Lobelia inflata,Lobelia,KNApSAcK
+7,C00002051,552-72-7,Lobelanidine,C22H29NO2,339.21982918,Lobelia urens,Lobelia,KNApSAcK
+8,C00002051,552-72-7,Lobelanidine,C22H29NO2,339.21982918,Lobelia sessilifolia,Lobelia,KNApSAcK
+9,C00002051,552-72-7,Lobelanidine,C22H29NO2,339.21982918,Lobelia inflata,Lobelia,KNApSAcK
+10,C00002051,552-72-7,Lobelanidine,C22H29NO2,339.21982918,Lobelia hassleri,Lobelia,KNApSAcK
+11,C00002051,552-72-7,Lobelanidine,C22H29NO2,339.21982918,Lobelia chinensis,Lobelia,KNApSAcK
+12,C00002052,579-21-5,Lobelanine,C22H25NO2,335.18852905,Lobelia chinensis,Lobelia,KNApSAcK
+13,C00002052,579-21-5,Lobelanine,C22H25NO2,335.18852905,Lobelia inflata,Lobelia,KNApSAcK
+14,C00002052,579-21-5,Lobelanine,C22H25NO2,335.18852905,Lobelia sessilifolia,Lobelia,KNApSAcK
+15,C00002052,579-21-5,Lobelanine,C22H25NO2,335.18852905,Lobelia siphilitica,Lobelia,KNApSAcK
+16,C00002053,90-69-7,(-)-Lobeline,C22H27NO2,337.20417911,Lobelia urens,Lobelia,KNApSAcK
+17,C00002053,90-69-7,(-)-Lobeline,C22H27NO2,337.20417911,Lobelia chinensis,Lobelia,KNApSAcK
+18,C00002053,90-69-7,(-)-Lobeline,C22H27NO2,337.20417911,Lobelia hassleri,Lobelia,KNApSAcK
+19,C00002053,90-69-7,(-)-Lobeline,C22H27NO2,337.20417911,Lobelia inflata,Lobelia,KNApSAcK
+20,C00002053,90-69-7,(-)-Lobeline,C22H27NO2,337.20417911,Lobelia nicotianaefolia,Lobelia,KNApSAcK
+21,C00002053,90-69-7,(-)-Lobeline,C22H27NO2,337.20417911,Lobelia sessilifolia,Lobelia,KNApSAcK
+22,C00002053,90-69-7,(-)-Lobeline,C22H27NO2,337.20417911,Lobelia siphilitica,Lobelia,KNApSAcK
+23,C00002253,469-59-0,Jervine,C27H39NO3,425.29299412,Veratrum lobelianum,Lobelia,KNApSAcK
+24,C00002258,76-45-9,Protoverine,C27H43NO9,525.29378198,Veratrum lobelianum Bernh.,Lobelia,KNApSAcK
+25,C00027693,33352-59-9,15-Veratroylgermine,C36H51NO11,673.34621148,Veratrum album ssp.lobelianum,Lobelia,KNApSAcK
+26,C00027739,33352-58-8,3-Acetyl-15-veratroylgermine,C38H53NO12,715.35677617,Veratrum album ssp.lobelianum,Lobelia,KNApSAcK
+27,C00028175,195244-85-0,Diacetylveralkamine,C31H47NO4,497.350509,Veratrum lobelianum,Lobelia,KNApSAcK
+28,C00028296,426-34-6,Germbudine,C37H59NO12,709.40372636,Veratrum lobelianum,Lobelia,KNApSAcK
+29,C00028297,508-67-8,Germerine,C37H59NO11,693.40881173,Veratrum lobelianum,Lobelia,KNApSAcK
+30,C00028298,465-77-0,Germidine,C34H53NO10,635.36694692,Veratrum lobelianum Bernh.,Lobelia,KNApSAcK
+31,C00028299,23211-84-9,Germinaline,C39H61NO13,751.41429104,Veratrum lobelianum,Lobelia,KNApSAcK
+32,C00028301,175030-77-0,Germinine,C39H61NO11,719.4244618,Veratrum lobelianum,Lobelia,KNApSAcK
+33,C00028302,465-75-8,Germitetrine,C41H63NO14,793.42485573,Veratrum lobelianum,Lobelia,KNApSAcK
+34,C00028401,2303-30-2,Isojervine,C27H39NO3,425.29299412,Veratrum lobelianum,Lobelia,KNApSAcK
+35,C00028412,468-45-1,Isorubijervine,C27H43NO2,413.32937962,Veratrum lobelianum,Lobelia,KNApSAcK
+36,C00028413,468-46-2,Isorubijervosine,C33H53NO7,575.38220305,Veratrum lobelianum,Lobelia,KNApSAcK
+37,C00028870,36069-05-3,Pseudojervine,C33H49NO8,587.34581755,Veratrum lobelianum,Lobelia,KNApSAcK
+38,C00028901,110934-18-4,Rhamnoveracintine,C32H51NO5,529.37672375,Veratrum album ssp.lobelianum,Lobelia,KNApSAcK
+39,C00028946,79-58-3,Rubijervine,C27H43NO2,413.32937962,Veratrum lobelianum,Lobelia,KNApSAcK
+40,C00029095,17155-36-1,Tetrahydroveralkamine,C27H47NO2,417.36067975,Veratrum lobelianum,Lobelia,KNApSAcK
+41,C00029184,33596-06-4,Veracintine,C26H41NO,383.31881494,Veratrum lobelianum,Lobelia,KNApSAcK
+42,C00029185,21233-19-2,Veralinine,C27H43NO,397.334465,Veratrum lobelianum Bernh.,Lobelia,KNApSAcK
+43,C00029185,21233-19-2,Veralinine,C27H43NO,397.334465,Veratrum album ssp.lobelianum,Lobelia,KNApSAcK
+44,C00029186,17155-31-6,Veralkamine,C27H43NO2,413.32937962,Veratrum lobelianum Bernh.,Lobelia,KNApSAcK
+45,C00029186,17155-31-6,Veralkamine,C27H43NO2,413.32937962,Veratrum album ssp.lobelianum,Lobelia,KNApSAcK
+46,C00029187,6242-49-5,Veralobine,C27H41NO2,411.31372956,Veratrum album ssp.lobelianum,Lobelia,KNApSAcK
+47,C00029188,41787-59-1,Veralodine,C27H39NO3,425.29299412,Veratrum lobelianum,Lobelia,KNApSAcK
+48,C00029189,58165-72-3,Veralomidine,C27H43NO,397.334465,Veratrum lobelianum,Lobelia,KNApSAcK
+49,C00029190,58078-63-0,Veralomine,C33H53NO6,559.38728843,Veratrum lobelianum,Lobelia,KNApSAcK
+50,C00029191,30511-97-8,Veralosine,C35H55NO8,617.39276774,Veratrum lobelianum,Lobelia,KNApSAcK
+51,C00029191,30511-97-8,Veralosine,C35H55NO8,617.39276774,Veratrum album L.var.subsp.lobelianum(Bernh.)Suessenguth.,Lobelia,KNApSAcK
+52,C00029193,4565-85-9,Veramarine,C27H43NO3,429.32429425,Veratrum lobelianum Bernh.,Lobelia,KNApSAcK
+53,C00029193,4565-85-9,Veramarine,C27H43NO3,429.32429425,Veratrum album ssp.lobelianum,Lobelia,KNApSAcK
+54,C00029196,21059-48-3,Veramine,C27H41NO2,411.31372956,Veratrum album ssp.lobelianum,Lobelia,KNApSAcK
+55,C00029200,6684-78-2,Verarine,C27H39NO,393.30316487,Veratrum album ssp.lobelianum,Lobelia,KNApSAcK
+56,C00029202,71-62-5,Veratrine,C36H51NO11,673.34621148,Veratrum lobelianum,Lobelia,KNApSAcK
+57,C00029204,31329-58-5,Veratroylzygadenine,C36H51NO10,657.35129686,Veratrum lobelianum,Lobelia,KNApSAcK
+58,C00029205,14320-81-1,Verazine,C27H43NO,397.334465,Veratrum lobelianum,Lobelia,KNApSAcK
+59,C00029205,14320-81-1,Verazine,C27H43NO,397.334465,Veratrum album ssp.lobelianum,Lobelia,KNApSAcK
+60,C00029209,73667-53-5,Verdine,C27H41NO5,459.29847343,Veratrum lobelianum,Lobelia,KNApSAcK
+61,C00029210,175097-28-6,Verdinine,C29H41NO4,467.3035588,Veratrum lobelianum,Lobelia,KNApSAcK
+62,C00031122,431981-74-7,Radicamine A,C12H17NO5,255.11067266,Lobelia chinensis,Lobelia,KNApSAcK
+63,C00033338,431981-75-8,Radicamine B,C11H15NO4,225.10010798,Lobelia chinensis LOUR.,Lobelia,KNApSAcK
+64,C00050946,6035-31-0,Isolobelanine,C21H23NO2,321.17287899,Lobelia chinensis,Lobelia,KNApSAcK
+65,C00051306,127201-68-7,Lobelinin A,C75H81O42,1653.42024172,Lobelia chinensis,Lobelia,KNApSAcK
+66,C00051882,,5-Aminopentanal,C5H11NO,101.08406398,Lobelia siphilitica,Lobelia,KNApSAcK
+67,C00051882,,5-Aminopentanal,C5H11NO,101.08406398,Lobelia inflata,Lobelia,KNApSAcK
+68,C00051883,,delta1-Piperideine,C5H9N,83.07349929,Lobelia inflata,Lobelia,KNApSAcK
+69,C00051883,,delta1-Piperideine,C5H9N,83.07349929,Lobelia siphilitica,Lobelia,KNApSAcK
+70,C00051891,,2-Piperidyl-acetophenone,C13H17NO,203.13101417,Lobelia inflata,Lobelia,KNApSAcK
+71,C00051891,,2-Piperidyl-acetophenone,C13H17NO,203.13101417,Lobelia siphilitica,Lobelia,KNApSAcK
+72,C00051985,608-07-1,5-Methoxytryptamine,C11H14N2O,190.11061308,Lobelia chinensis,Lobelia,KNApSAcK
+73,C00051995,,cis-Norlobelanine,C21H23NO2,321.17287899,Lobelia siphilitica,Lobelia,KNApSAcK
+74,C00051995,,cis-Norlobelanine,C21H23NO2,321.17287899,Lobelia inflata,Lobelia,KNApSAcK
+75,C00052006,73-31-4,Melatonin,C13H16N2O2,232.12117777,Lobelia chinensis,Lobelia,KNApSAcK
+0,C00000001,545-97-1,Gibberellin A1,C19H24O6,348.1572885,Gentiana triflora,Gentiana,KNApSAcK
+1,C00000019,6980-44-5,Gibberellin A19,C20H26O6,362.17293856,Gentiana triflora,Gentiana,KNApSAcK
+2,C00000020,19143-87-4,Gibberellin A20,C19H24O5,332.16237388,Gentiana triflora,Gentiana,KNApSAcK
+3,C00000044,36434-15-8,Gibberellin A44,C20H26O5,346.17802394,Gentiana triflora,Gentiana,KNApSAcK
+4,C00000053,51576-08-0,Gibberellin A53,C20H28O5,348.193674,Gentiana triflora,Gentiana,KNApSAcK
+5,C00000156,499-75-2,Carvacrol,C10H14O,150.10446507,Gentiana lutea,Gentiana,KNApSAcK
+6,C00000674,491-70-3,"5,7,3',4'-Tetrahydroxyflavone",C15H10O6,286.04773805,Gentiana arisanensis,Gentiana,KNApSAcK
+7,C00000677,480-18-2,Dihydroquercetin,C15H12O7,304.05830274,Gentiana lutea L. var. aurantiaca,Gentiana,KNApSAcK
+8,C00000846,763-10-0,Geranyl diphospate,C10H20O7P2,314.06842597,Gentiana straminea,Gentiana,KNApSAcK
+9,C00000907,13058-04-3,Farnesyl pyrophosphate,C15H28O7P2,382.13102623,Gentiana straminea,Gentiana,KNApSAcK
+10,C00000938,27200-12-0,Ampelopsin,C15H12O8,320.05321736,Gentiana lutea L. var. aurantiaca,Gentiana,KNApSAcK
+11,C00000982,480-41-1,Naringenin,C15H12O5,272.06847349,Gentiana lutea L. var. aurantiaca,Gentiana,KNApSAcK
+12,C00000982,480-41-1,Naringenin,C15H12O5,272.06847349,Gentiana triflora,Gentiana,KNApSAcK
+13,C00001017,578-74-5,Apigenin 7-O-beta-D-glucopyranoside,C21H20O10,432.10564686,Gentiana loureirii,Gentiana,KNApSAcK
+14,C00001055,4261-42-1,Isoorientin,C21H20O11,448.10056148,Gentiana crassicaulis,Gentiana,KNApSAcK
+15,C00001055,4261-42-1,Isoorientin,C21H20O11,448.10056148,Gentiana algida,Gentiana,KNApSAcK
+16,C00001055,4261-42-1,Isoorientin,C21H20O11,448.10056148,Gentiana gelida,Gentiana,KNApSAcK
+17,C00001055,4261-42-1,Isoorientin,C21H20O11,448.10056148,Gentiana cruciate,Gentiana,KNApSAcK
+18,C00001055,4261-42-1,Isoorientin,C21H20O11,448.10056148,Gentiana decumbens,Gentiana,KNApSAcK
+19,C00001055,4261-42-1,Isoorientin,C21H20O11,448.10056148,Gentiana triflora,Gentiana,KNApSAcK
+20,C00001055,4261-42-1,Isoorientin,C21H20O11,448.10056148,Gentiana spp.,Gentiana,KNApSAcK
+21,C00001055,4261-42-1,Isoorientin,C21H20O11,448.10056148,Gentiana sikkimensis,Gentiana,KNApSAcK
+22,C00001055,4261-42-1,Isoorientin,C21H20O11,448.10056148,Gentiana rigescens,Gentiana,KNApSAcK
+23,C00001055,4261-42-1,Isoorientin,C21H20O11,448.10056148,Gentiana rhodantha,Gentiana,KNApSAcK
+24,C00001055,4261-42-1,Isoorientin,C21H20O11,448.10056148,Gentiana prolata,Gentiana,KNApSAcK
+25,C00001055,4261-42-1,Isoorientin,C21H20O11,448.10056148,Gentiana pedicellata,Gentiana,KNApSAcK
+26,C00001055,4261-42-1,Isoorientin,C21H20O11,448.10056148,Gentiana officinalis,Gentiana,KNApSAcK
+27,C00001055,4261-42-1,Isoorientin,C21H20O11,448.10056148,Gentiana macrophylla,Gentiana,KNApSAcK
+28,C00001055,4261-42-1,Isoorientin,C21H20O11,448.10056148,Gentiana loureirii,Gentiana,KNApSAcK
+29,C00001055,4261-42-1,Isoorientin,C21H20O11,448.10056148,Gentiana lawrencei,Gentiana,KNApSAcK
+30,C00001055,4261-42-1,Isoorientin,C21H20O11,448.10056148,Gentiana elwesii,Gentiana,KNApSAcK
+31,C00001055,4261-42-1,Isoorientin,C21H20O11,448.10056148,Gentiana depressa,Gentiana,KNApSAcK
+32,C00001055,4261-42-1,Isoorientin,C21H20O11,448.10056148,Gentiana decumbers,Gentiana,KNApSAcK
+33,C00001055,4261-42-1,Isoorientin,C21H20O11,448.10056148,Gentiana asclepiadea,Gentiana,KNApSAcK
+34,C00001055,4261-42-1,Isoorientin,C21H20O11,448.10056148,Gentiana olivieri,Gentiana,KNApSAcK
+35,C00001055,4261-42-1,Isoorientin,C21H20O11,448.10056148,Gentiana lutea,Gentiana,KNApSAcK
+36,C00001055,4261-42-1,Isoorientin,C21H20O11,448.10056148,Gentiana straminea,Gentiana,KNApSAcK
+37,C00001058,20013-23-4,Isoscoparin,C22H22O11,462.11621155,Gentiana decumbens,Gentiana,KNApSAcK
+38,C00001058,20013-23-4,Isoscoparin,C22H22O11,462.11621155,Gentiana decumbers,Gentiana,KNApSAcK
+39,C00001058,20013-23-4,Isoscoparin,C22H22O11,462.11621155,Gentiana macrophylla,Gentiana,KNApSAcK
+40,C00001058,20013-23-4,Isoscoparin,C22H22O11,462.11621155,Gentiana punctata L.,Gentiana,KNApSAcK
+41,C00001058,20013-23-4,Isoscoparin,C22H22O11,462.11621155,Gentiana sino-ornata,Gentiana,KNApSAcK
+42,C00001058,20013-23-4,Isoscoparin,C22H22O11,462.11621155,Gentiana triflora,Gentiana,KNApSAcK
+43,C00001058,20013-23-4,Isoscoparin,C22H22O11,462.11621155,Gentiana spp.,Gentiana,KNApSAcK
+44,C00001058,20013-23-4,Isoscoparin,C22H22O11,462.11621155,Gentiana farreri,Gentiana,KNApSAcK
+45,C00001059,38953-85-4,Isovitexin,C21H20O10,432.10564686,Gentiana algida,Gentiana,KNApSAcK
+46,C00001059,38953-85-4,Isovitexin,C21H20O10,432.10564686,Gentiana triflora,Gentiana,KNApSAcK
+47,C00001059,38953-85-4,Isovitexin,C21H20O10,432.10564686,Gentiana straminea,Gentiana,KNApSAcK
+48,C00001059,38953-85-4,Isovitexin,C21H20O10,432.10564686,Gentiana sikkimensis,Gentiana,KNApSAcK
+49,C00001059,38953-85-4,Isovitexin,C21H20O10,432.10564686,Gentiana rigescens,Gentiana,KNApSAcK
+50,C00001059,38953-85-4,Isovitexin,C21H20O10,432.10564686,Gentiana prolata,Gentiana,KNApSAcK
+51,C00001059,38953-85-4,Isovitexin,C21H20O10,432.10564686,Gentiana pedicellata,Gentiana,KNApSAcK
+52,C00001059,38953-85-4,Isovitexin,C21H20O10,432.10564686,Gentiana officinalis,Gentiana,KNApSAcK
+53,C00001059,38953-85-4,Isovitexin,C21H20O10,432.10564686,Gentiana macrophylla,Gentiana,KNApSAcK
+54,C00001059,38953-85-4,Isovitexin,C21H20O10,432.10564686,Gentiana lawrencei,Gentiana,KNApSAcK
+55,C00001059,38953-85-4,Isovitexin,C21H20O10,432.10564686,Gentiana elwesii,Gentiana,KNApSAcK
+56,C00001059,38953-85-4,Isovitexin,C21H20O10,432.10564686,Gentiana depressa,Gentiana,KNApSAcK
+57,C00001059,38953-85-4,Isovitexin,C21H20O10,432.10564686,Gentiana decumbers,Gentiana,KNApSAcK
+58,C00001059,38953-85-4,Isovitexin,C21H20O10,432.10564686,Gentiana crassicaulis,Gentiana,KNApSAcK
+59,C00001059,38953-85-4,Isovitexin,C21H20O10,432.10564686,Gentiana arisanensis,Gentiana,KNApSAcK
+60,C00001059,38953-85-4,Isovitexin,C21H20O10,432.10564686,Gentiana argentea,Gentiana,KNApSAcK
+61,C00001059,38953-85-4,Isovitexin,C21H20O10,432.10564686,Gentiana asclepiadea,Gentiana,KNApSAcK
+62,C00001059,38953-85-4,Isovitexin,C21H20O10,432.10564686,Gentiana lutea,Gentiana,KNApSAcK
+63,C00001059,38953-85-4,Isovitexin,C21H20O10,432.10564686,Gentiana decumbens,Gentiana,KNApSAcK
+64,C00001102,6980-25-2,Swertiajaponin,C22H22O11,462.11621155,Gentiana germanica,Gentiana,KNApSAcK
+65,C00001102,6980-25-2,Swertiajaponin,C22H22O11,462.11621155,Gentiana ramosa,Gentiana,KNApSAcK
+66,C00001135,25954-44-3,Gentianose,C18H32O16,504.16903498,Gentiana lutea,Gentiana,KNApSAcK
+67,C00001135,25954-44-3,Gentianose,C18H32O16,504.16903498,Gentiana straminea,Gentiana,KNApSAcK
+68,C00001135,25954-44-3,Gentianose,C18H32O16,504.16903498,Gentiana spp.,Gentiana,KNApSAcK
+69,C00001195,150-97-0,Mevalonic acid,C6H12O4,148.07355887,Gentiana straminea,Gentiana,KNApSAcK
+70,C00001429,50-67-9,5-Hydroxytryptamine,C10H12N2O,176.09496302,Gentiana macrophylla,Gentiana,KNApSAcK
+71,C00001429,50-67-9,5-Hydroxytryptamine,C10H12N2O,176.09496302,Gentiana scabra,Gentiana,KNApSAcK
+72,C00001434,61-54-1,Tryptamine,C10H12N2,160.1000484,Gentiana scabra,Gentiana,KNApSAcK
+73,C00001434,61-54-1,Tryptamine,C10H12N2,160.1000484,Gentiana macrophylla,Gentiana,KNApSAcK
+74,C00001547,24502-76-9,Miserotoxin,C9H17NO8,267.09541653,Gentiana straminea,Gentiana,KNApSAcK
+75,C00001974,6790-32-5,Gentianadine,C8H7NO2,149.04767848,Gentiana olgae,Gentiana,KNApSAcK
+76,C00001974,6790-32-5,Gentianadine,C8H7NO2,149.04767848,Gentiana olivieri,Gentiana,KNApSAcK
+77,C00001974,6790-32-5,Gentianadine,C8H7NO2,149.04767848,Gentiana turkestanorum,Gentiana,KNApSAcK
+78,C00001975,58213-76-6,Gentianaine,C6H7NO3,141.0425931,Gentiana turkestanorum,Gentiana,KNApSAcK
+79,C00001975,58213-76-6,Gentianaine,C6H7NO3,141.0425931,Gentiana olgae,Gentiana,KNApSAcK
+80,C00001975,58213-76-6,Gentianaine,C6H7NO3,141.0425931,Gentiana olivieri,Gentiana,KNApSAcK
+81,C00001975,58213-76-6,Gentianaine,C6H7NO3,141.0425931,Gentiana kaufmanniana,Gentiana,KNApSAcK
+82,C00001975,58213-76-6,Gentianaine,C6H7NO3,141.0425931,Gentiana caucasa,Gentiana,KNApSAcK
+83,C00001976,22952-54-1,Gentianamine,C11H11NO3,205.07389323,Gentiana turkestanorum,Gentiana,KNApSAcK
+84,C00001976,22952-54-1,Gentianamine,C11H11NO3,205.07389323,Gentiana olivieri,Gentiana,KNApSAcK
+85,C00001976,22952-54-1,Gentianamine,C11H11NO3,205.07389323,Gentiana kaufmanniana Rgl.et Schamlh.,Gentiana,KNApSAcK
+86,C00001977,439-89-4,Gentianine,C10H9NO2,175.06332854,Gentiana kaufmanniana Rgl.et Schamlh.,Gentiana,KNApSAcK
+87,C00001977,439-89-4,Gentianine,C10H9NO2,175.06332854,Gentiana caucasica,Gentiana,KNApSAcK
+88,C00001977,439-89-4,Gentianine,C10H9NO2,175.06332854,Gentiana kirilowii,Gentiana,KNApSAcK
+89,C00001977,439-89-4,Gentianine,C10H9NO2,175.06332854,Gentiana kiriowi,Gentiana,KNApSAcK
+90,C00001977,439-89-4,Gentianine,C10H9NO2,175.06332854,Gentiana olivieri Griseb.Rgl.et Schamlh.,Gentiana,KNApSAcK
+91,C00001977,439-89-4,Gentianine,C10H9NO2,175.06332854,Gentiana spp.,Gentiana,KNApSAcK
+92,C00001977,439-89-4,Gentianine,C10H9NO2,175.06332854,Gentiana turkestanorum Gand.,Gentiana,KNApSAcK
+93,C00001978,18058-50-9,Gentiflavine,C10H11NO3,193.07389323,Gentiana asclepiadea,Gentiana,KNApSAcK
+94,C00001978,18058-50-9,Gentiflavine,C10H11NO3,193.07389323,Gentiana spp.,Gentiana,KNApSAcK
+95,C00002374,7084-24-4,Cyanidin 3-O-glucoside,C21H21O11.Cl,484.07723923,Gentiana sp.,Gentiana,KNApSAcK
+96,C00002379,84331-34-0,Gentiodelphin,C51H53O28,1113.27233612,Gentiana makinoi,Gentiana,KNApSAcK
+97,C00002379,84331-34-0,Gentiodelphin,C51H53O28,1113.27233612,Gentiana triflora,Gentiana,KNApSAcK
+98,C00002498,120-08-1,Aesculetin dimethyl ether,C11H10O4,206.05790881,Gentiana kurroo,Gentiana,KNApSAcK
+99,C00002498,120-08-1,Aesculetin dimethyl ether,C11H10O4,206.05790881,Gentiana kuroo,Gentiana,KNApSAcK
+100,C00002648,490-79-9,Gentisic acid,C7H6O4,154.02660868,Gentiana spp.,Gentiana,KNApSAcK
+101,C00002669,303-38-8,Pyrocatechuic acid,C7H6O4,154.02660868,Gentiana lutea,Gentiana,KNApSAcK
+102,C00002727,531-29-3,Coniferin,C16H22O8,342.13146768,Gentiana straminea,Gentiana,KNApSAcK
+103,C00002943,2798-25-6,Bellidifolin,C14H10O6,274.04773805,Gentiana algida,Gentiana,KNApSAcK
+104,C00002943,2798-25-6,Bellidifolin,C14H10O6,274.04773805,Gentiana lactea,Gentiana,KNApSAcK
+105,C00002943,2798-25-6,Bellidifolin,C14H10O6,274.04773805,Gentiana campestris,Gentiana,KNApSAcK
+106,C00002943,2798-25-6,Bellidifolin,C14H10O6,274.04773805,Gentiana bellidifolia,Gentiana,KNApSAcK
+107,C00002946,2980-32-7,Demethylbellidifolin,C13H8O6,260.03208799,Gentiana strictiflora,Gentiana,KNApSAcK
+108,C00002946,2980-32-7,Demethylbellidifolin,C13H8O6,260.03208799,Gentiana lactea,Gentiana,KNApSAcK
+109,C00002946,2980-32-7,Demethylbellidifolin,C13H8O6,260.03208799,Gentiana ramosa,Gentiana,KNApSAcK
+110,C00002946,2980-32-7,Demethylbellidifolin,C13H8O6,260.03208799,Gentiana bellidifolia,Gentiana,KNApSAcK
+111,C00002952,15402-27-4,Gentiacaulein,C15H12O6,288.06338812,Gentiana barbata,Gentiana,KNApSAcK
+112,C00002952,15402-27-4,Gentiacaulein,C15H12O6,288.06338812,Gentiana detonsa,Gentiana,KNApSAcK
+113,C00002952,15402-27-4,Gentiacaulein,C15H12O6,288.06338812,Gentiana ciliata,Gentiana,KNApSAcK
+114,C00002952,15402-27-4,Gentiacaulein,C15H12O6,288.06338812,Gentiana brachyphylla,Gentiana,KNApSAcK
+115,C00002952,15402-27-4,Gentiacaulein,C15H12O6,288.06338812,Gentiana bavarica,Gentiana,KNApSAcK
+116,C00002952,15402-27-4,Gentiacaulein,C15H12O6,288.06338812,Gentiana favrati,Gentiana,KNApSAcK
+117,C00002952,15402-27-4,Gentiacaulein,C15H12O6,288.06338812,Gentiana verna,Gentiana,KNApSAcK
+118,C00002952,15402-27-4,Gentiacaulein,C15H12O6,288.06338812,Gentiana utriculosa,Gentiana,KNApSAcK
+119,C00002952,15402-27-4,Gentiacaulein,C15H12O6,288.06338812,Gentiana schleicheri,Gentiana,KNApSAcK
+120,C00002952,15402-27-4,Gentiacaulein,C15H12O6,288.06338812,Gentiana rostanii,Gentiana,KNApSAcK
+121,C00002952,15402-27-4,Gentiacaulein,C15H12O6,288.06338812,Gentiana nivalis,Gentiana,KNApSAcK
+122,C00002952,15402-27-4,Gentiacaulein,C15H12O6,288.06338812,Gentiana kochiana,Gentiana,KNApSAcK
+123,C00002952,15402-27-4,Gentiacaulein,C15H12O6,288.06338812,Gentiana karelinii,Gentiana,KNApSAcK
+124,C00002953,529-49-7,Gentisein,C13H8O5,244.03717337,Gentiana lutea,Gentiana,KNApSAcK
+125,C00002954,437-50-3,Gentisin,C14H10O5,258.05282343,Gentiana lutea,Gentiana,KNApSAcK
+126,C00002957,491-64-5,Isogentisin,C14H10O5,258.05282343,Gentiana lutea,Gentiana,KNApSAcK
+127,C00002962,4773-96-0,Aphloiol,C19H18O11,422.08491142,Gentiana rhodantha,Gentiana,KNApSAcK
+128,C00002962,4773-96-0,Aphloiol,C19H18O11,422.08491142,Gentiana lutea,Gentiana,KNApSAcK
+129,C00002962,4773-96-0,Aphloiol,C19H18O11,422.08491142,Gentiana algida,Gentiana,KNApSAcK
+130,C00002962,4773-96-0,Aphloiol,C19H18O11,422.08491142,Gentiana campestris,Gentiana,KNApSAcK
+131,C00002962,4773-96-0,Aphloiol,C19H18O11,422.08491142,Gentiana triflora,Gentiana,KNApSAcK
+132,C00002966,22172-17-4,Methylswertianin,C15H12O6,288.06338812,Gentiana karelinii,Gentiana,KNApSAcK
+133,C00002966,22172-17-4,Methylswertianin,C15H12O6,288.06338812,Gentiana cliata,Gentiana,KNApSAcK
+134,C00002966,22172-17-4,Methylswertianin,C15H12O6,288.06338812,Gentiana tenella,Gentiana,KNApSAcK
+135,C00002970,22172-15-2,Norswertianin,C13H8O6,260.03208799,Gentiana bavarica,Gentiana,KNApSAcK
+136,C00002971,54954-12-0,Norswertianolin,C19H18O11,422.08491142,Gentiana campestris,Gentiana,KNApSAcK
+137,C00002973,521-65-3,Methylbellidifolin,C15H12O6,288.06338812,Gentiana algida,Gentiana,KNApSAcK
+138,C00002973,521-65-3,Methylbellidifolin,C15H12O6,288.06338812,Gentiana bellidifolia,Gentiana,KNApSAcK
+139,C00002973,521-65-3,Methylbellidifolin,C15H12O6,288.06338812,Gentiana karelinii,Gentiana,KNApSAcK
+140,C00002973,521-65-3,Methylbellidifolin,C15H12O6,288.06338812,Gentiana lactea,Gentiana,KNApSAcK
+141,C00002974,20882-75-1,Gentiakochianin,C14H10O6,274.04773805,Gentiana lactea,Gentiana,KNApSAcK
+142,C00002974,20882-75-1,Gentiakochianin,C14H10O6,274.04773805,Gentiana kochiana,Gentiana,KNApSAcK
+143,C00002974,20882-75-1,Gentiakochianin,C14H10O6,274.04773805,Gentiana japonica,Gentiana,KNApSAcK
+144,C00002974,20882-75-1,Gentiakochianin,C14H10O6,274.04773805,Gentiana strictiflora,Gentiana,KNApSAcK
+145,C00002974,20882-75-1,Gentiakochianin,C14H10O6,274.04773805,Gentiana bavarica,Gentiana,KNApSAcK
+146,C00002974,20882-75-1,Gentiakochianin,C14H10O6,274.04773805,Gentiana brachyphalla,Gentiana,KNApSAcK
+147,C00002974,20882-75-1,Gentiakochianin,C14H10O6,274.04773805,Gentiana ramosa,Gentiana,KNApSAcK
+148,C00002974,20882-75-1,Gentiakochianin,C14H10O6,274.04773805,Gentiana nivalis,Gentiana,KNApSAcK
+149,C00002974,20882-75-1,Gentiakochianin,C14H10O6,274.04773805,Gentiana brachyphylla,Gentiana,KNApSAcK
+150,C00002975,23445-00-3,Swertianolin,C20H20O11,436.10056148,Gentiana campestris,Gentiana,KNApSAcK
+151,C00002975,23445-00-3,Swertianolin,C20H20O11,436.10056148,Gentiana germanica,Gentiana,KNApSAcK
+152,C00002975,23445-00-3,Swertianolin,C20H20O11,436.10056148,Gentiana ramosa,Gentiana,KNApSAcK
+153,C00003047,78-70-6,(+-)-Linalool,C10H18O,154.1357652,Gentiana lutea,Gentiana,KNApSAcK
+154,C00003070,21018-84-8,Amarogentin,C29H30O13,586.16864105,Gentiana lutea,Gentiana,KNApSAcK
+155,C00003070,21018-84-8,Amarogentin,C29H30O13,586.16864105,Gentiana sp.,Gentiana,KNApSAcK
+156,C00003082,20831-76-9,Gentiopicroside,C16H20O9,356.11073224,Gentiana lutea,Gentiana,KNApSAcK
+157,C00003082,20831-76-9,Gentiopicroside,C16H20O9,356.11073224,Gentiana manshurica,Gentiana,KNApSAcK
+158,C00003082,20831-76-9,Gentiopicroside,C16H20O9,356.11073224,Gentiana officinalis,Gentiana,KNApSAcK
+159,C00003082,20831-76-9,Gentiopicroside,C16H20O9,356.11073224,Gentiana rhodantha,Gentiana,KNApSAcK
+160,C00003082,20831-76-9,Gentiopicroside,C16H20O9,356.11073224,Gentiana lawrencei,Gentiana,KNApSAcK
+161,C00003082,20831-76-9,Gentiopicroside,C16H20O9,356.11073224,Gentiana kurroo,Gentiana,KNApSAcK
+162,C00003082,20831-76-9,Gentiopicroside,C16H20O9,356.11073224,Gentiana cruciata,Gentiana,KNApSAcK
+163,C00003082,20831-76-9,Gentiopicroside,C16H20O9,356.11073224,Gentiana macrophylla,Gentiana,KNApSAcK
+164,C00003082,20831-76-9,Gentiopicroside,C16H20O9,356.11073224,Radix gentianae,Gentiana,KNApSAcK
+165,C00003082,20831-76-9,Gentiopicroside,C16H20O9,356.11073224,Gentiana triflora,Gentiana,KNApSAcK
+166,C00003082,20831-76-9,Gentiopicroside,C16H20O9,356.11073224,Gentiana straminea,Gentiana,KNApSAcK
+167,C00003082,20831-76-9,Gentiopicroside,C16H20O9,356.11073224,Gentiana scabra,Gentiana,KNApSAcK
+168,C00003082,20831-76-9,Gentiopicroside,C16H20O9,356.11073224,Gentiana rigescens,Gentiana,KNApSAcK
+169,C00003082,20831-76-9,Gentiopicroside,C16H20O9,356.11073224,Gentiana algida,Gentiana,KNApSAcK
+170,C00003082,20831-76-9,Gentiopicroside,C16H20O9,356.11073224,Gentiana crassicaulis,Gentiana,KNApSAcK
+171,C00003088,18524-94-2,Loganin,C17H26O10,390.15259705,Gentiana pedicellata,Gentiana,KNApSAcK
+172,C00003088,18524-94-2,Loganin,C17H26O10,390.15259705,Gentiana loureirii,Gentiana,KNApSAcK
+173,C00003088,18524-94-2,Loganin,C17H26O10,390.15259705,Gentiana verna,Gentiana,KNApSAcK
+174,C00003088,18524-94-2,Loganin,C17H26O10,390.15259705,Gentiana straminea,Gentiana,KNApSAcK
+175,C00003098,19351-63-4,Secologanin,C17H24O10,388.13694699,Gentiana verna,Gentiana,KNApSAcK
+176,C00003100,17388-39-5,Swertiamarin,C16H22O10,374.12129692,Gentiana decumbers,Gentiana,KNApSAcK
+177,C00003100,17388-39-5,Swertiamarin,C16H22O10,374.12129692,Gentiana lawrencei,Gentiana,KNApSAcK
+178,C00003100,17388-39-5,Swertiamarin,C16H22O10,374.12129692,Gentiana lutea,Gentiana,KNApSAcK
+179,C00003100,17388-39-5,Swertiamarin,C16H22O10,374.12129692,Gentiana macrophylla,Gentiana,KNApSAcK
+180,C00003100,17388-39-5,Swertiamarin,C16H22O10,374.12129692,Gentiana scabra,Gentiana,KNApSAcK
+181,C00003100,17388-39-5,Swertiamarin,C16H22O10,374.12129692,Gentiana rigescens,Gentiana,KNApSAcK
+182,C00003100,17388-39-5,Swertiamarin,C16H22O10,374.12129692,Gentiana straminea,Gentiana,KNApSAcK
+183,C00003100,17388-39-5,Swertiamarin,C16H22O10,374.12129692,Gentiana robusta,Gentiana,KNApSAcK
+184,C00003100,17388-39-5,Swertiamarin,C16H22O10,374.12129692,Radix gentianae,Gentiana,KNApSAcK
+185,C00003100,17388-39-5,Swertiamarin,C16H22O10,374.12129692,Gentiana cruciata,Gentiana,KNApSAcK
+186,C00003100,17388-39-5,Swertiamarin,C16H22O10,374.12129692,Gentiana algida,Gentiana,KNApSAcK
+187,C00003100,17388-39-5,Swertiamarin,C16H22O10,374.12129692,Gentiana officinalis,Gentiana,KNApSAcK
+188,C00003100,17388-39-5,Swertiamarin,C16H22O10,374.12129692,Gentiana rhodantha,Gentiana,KNApSAcK
+189,C00003100,17388-39-5,Swertiamarin,C16H22O10,374.12129692,Gentiana kurroo,Gentiana,KNApSAcK
+190,C00003100,17388-39-5,Swertiamarin,C16H22O10,374.12129692,Gentiana crassicaulis,Gentiana,KNApSAcK
+191,C00003100,17388-39-5,Swertiamarin,C16H22O10,374.12129692,Gentiana triflora,Gentiana,KNApSAcK
+192,C00003100,17388-39-5,Swertiamarin,C16H22O10,374.12129692,Gentiana manshurica,Gentiana,KNApSAcK
+193,C00003100,17388-39-5,Swertiamarin,C16H22O10,374.12129692,Gentiana cephalantha,Gentiana,KNApSAcK
+194,C00003647,474-62-4,Campesterol,C28H48O,400.37051615,Gentiana lutea L.,Gentiana,KNApSAcK
+195,C00003650,469-38-5,Cycloartenol,C30H50O,426.38616622,Gentiana straminea,Gentiana,KNApSAcK
+196,C00003672,83-46-5,(-)-beta-Sitosterol,C29H50O,414.38616622,Gentiana lutea L.,Gentiana,KNApSAcK
+197,C00003674,83-48-7,beta-Stigmasterol,C29H48O,412.37051615,Gentiana lutea L.,Gentiana,KNApSAcK
+198,C00003737,638-95-9,alpha-Amyrin,C30H50O,426.38616622,Gentiana straminea,Gentiana,KNApSAcK
+199,C00003737,638-95-9,alpha-Amyrin,C30H50O,426.38616622,Gentiana scabra,Gentiana,KNApSAcK
+200,C00003737,638-95-9,alpha-Amyrin,C30H50O,426.38616622,Gentiana lutea,Gentiana,KNApSAcK
+201,C00003738,559-70-6,beta-Amyrin,C30H50O,426.38616622,Gentiana lutea,Gentiana,KNApSAcK
+202,C00003738,559-70-6,beta-Amyrin,C30H50O,426.38616622,Gentiana straminea,Gentiana,KNApSAcK
+203,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Gentiana scabra,Gentiana,KNApSAcK
+204,C00003749,545-47-1,Lupeol,C30H50O,426.38616622,Gentiana lutea,Gentiana,KNApSAcK
+205,C00003755,111-02-4,All-trans-squalene,C30H50,410.39125159,Gentiana lutea L.,Gentiana,KNApSAcK
+206,C00003755,111-02-4,All-trans-squalene,C30H50,410.39125159,Gentiana straminea,Gentiana,KNApSAcK
+207,C00003817,520-36-5,Apigenin,C15H10O5,270.05282343,Gentiana triflora,Gentiana,KNApSAcK
+208,C00004266,5373-11-5,Cinaroside,C21H20O11,448.10056148,Gentiana elwesii,Gentiana,KNApSAcK
+209,C00004266,5373-11-5,Cinaroside,C21H20O11,448.10056148,Gentiana sikkimensis,Gentiana,KNApSAcK
+210,C00004266,5373-11-5,Cinaroside,C21H20O11,448.10056148,Gentiana prolata,Gentiana,KNApSAcK
+211,C00004266,5373-11-5,Cinaroside,C21H20O11,448.10056148,Gentiana argentea,Gentiana,KNApSAcK
+212,C00004266,5373-11-5,Cinaroside,C21H20O11,448.10056148,Gentiana depressa,Gentiana,KNApSAcK
+213,C00004266,5373-11-5,Cinaroside,C21H20O11,448.10056148,Gentiana pedicellata,Gentiana,KNApSAcK
+214,C00005373,482-35-9,Hirsutrin,C21H20O12,464.09547611,Gentiana pyrenaica L.,Gentiana,KNApSAcK
+215,C00005374,522-12-3,Quercetin 3-O-alpha-L-rhamnoside,C21H20O11,448.10056148,Gentiana arisanensis,Gentiana,KNApSAcK
+216,C00006125,6991-10-2,Swertisin,C22H22O10,446.12129692,Gentiana campestris,Gentiana,KNApSAcK
+217,C00006151,61252-85-5,Isopyrenin,C23H24O12,492.12677623,Gentiana argentea,Gentiana,KNApSAcK
+218,C00006151,61252-85-5,Isopyrenin,C23H24O12,492.12677623,Gentiana pyrenaica,Gentiana,KNApSAcK
+219,C00006205,38950-96-8,Isoorientin 4'-O-glucoside,C27H30O16,610.15338491,Gentiana spp.,Gentiana,KNApSAcK
+220,C00006206,35450-86-3,Lutonarin,C27H30O16,610.15338491,Gentiana piasezkii,Gentiana,KNApSAcK
+221,C00006206,35450-86-3,Lutonarin,C27H30O16,610.15338491,Gentiana decumbens,Gentiana,KNApSAcK
+222,C00006206,35450-86-3,Lutonarin,C27H30O16,610.15338491,Gentiana triflora,Gentiana,KNApSAcK
+223,C00006206,35450-86-3,Lutonarin,C27H30O16,610.15338491,Gentiana macrophylla,Gentiana,KNApSAcK
+224,C00006206,35450-86-3,Lutonarin,C27H30O16,610.15338491,Gentiana decumbers,Gentiana,KNApSAcK
+225,C00006206,35450-86-3,Lutonarin,C27H30O16,610.15338491,Gentiana algida,Gentiana,KNApSAcK
+226,C00006207,53098-95-6,Isoorientin 3'-O-glucoside,C27H30O16,610.15338491,Gentiana pedicellata,Gentiana,KNApSAcK
+227,C00006207,53098-95-6,Isoorientin 3'-O-glucoside,C27H30O16,610.15338491,Gentiana nivalis,Gentiana,KNApSAcK
+228,C00006210,55196-48-0,Isoorientin 2''-O-glucopyranoside,C27H30O16,610.15338491,Gentiana verna,Gentiana,KNApSAcK
+229,C00006211,98568-80-0,Isoorientin 6''-O-glucoside,C27H30O16,610.15338491,Gentiana pedicellata,Gentiana,KNApSAcK
+230,C00006224,20310-89-8,Saponarin,C27H30O15,594.15847029,Gentiana triflora,Gentiana,KNApSAcK
+231,C00006224,20310-89-8,Saponarin,C27H30O15,594.15847029,Gentiana macrophylla,Gentiana,KNApSAcK
+232,C00006224,20310-89-8,Saponarin,C27H30O15,594.15847029,Gentiana decumbers,Gentiana,KNApSAcK
+233,C00006224,20310-89-8,Saponarin,C27H30O15,594.15847029,Gentiana piasezkii,Gentiana,KNApSAcK
+234,C00006224,20310-89-8,Saponarin,C27H30O15,594.15847029,Gentiana algida,Gentiana,KNApSAcK
+235,C00006224,20310-89-8,Saponarin,C27H30O15,594.15847029,Gentiana decumbens,Gentiana,KNApSAcK
+236,C00006257,67308-38-7,2''-(4'''-Hydroxybenzoyl)-isoorientin,C28H24O13,568.12169086,Gentiana asclepiadea,Gentiana,KNApSAcK
+237,C00006270,61252-87-7,Isocytisoside 7-O-glucoside,C28H32O15,608.17412036,Gentiana pyrenaica,Gentiana,KNApSAcK
+238,C00006273,50307-26-1,Isoscoparin 7-O-glucoside,C28H32O16,624.16903498,Gentiana pyrenaica,Gentiana,KNApSAcK
+239,C00006297,61252-86-6,Isopyrenin 7-O-glucoside,C29H34O17,654.17959966,Gentiana pyrenaica,Gentiana,KNApSAcK
+240,C00006298,73328-49-1,Isoorientin 2''-O-(E)-p-coumarate,C30H26O13,594.13734092,Gentiana sp.,Gentiana,KNApSAcK
+241,C00006299,57186-26-2,Isoorientin 2''-O-(E)-caffeate,C30H26O14,610.13225554,Gentiana burseri,Gentiana,KNApSAcK
+242,C00006302,60077-49-8,Isoorientin 2''-O-(E)-ferulate,C31H28O14,624.14790561,Gentiana punctata,Gentiana,KNApSAcK
+243,C00006302,60077-49-8,Isoorientin 2''-O-(E)-ferulate,C31H28O14,624.14790561,Gentiana burseri,Gentiana,KNApSAcK
+244,C00006303,64763-03-7,Vitexin 2''-O-(E)-ferulate,C31H28O13,608.15299098,Gentiana punctata,Gentiana,KNApSAcK
+245,C00006313,63316-26-7,"Isoorientin 4',2''-di-O-glucoside",C33H40O21,772.20620834,Gentiana asclepiadea,Gentiana,KNApSAcK
+246,C00006314,98568-81-1,"Isoorientin 3',6''-di-O-glucoside",C33H40O21,772.20620834,Gentiana pedicellata,Gentiana,KNApSAcK
+247,C00006323,67308-39-8,Isorientin 4'-O-glucoside 2''-O-p-hydroxybenzoate,C34H34O18,730.17451429,Gentiana asclepiadea,Gentiana,KNApSAcK
+248,C00006330,64763-01-5,Isoorientin 4'-O-glucoside-2''-O-(E)-caffeate,C36H36O19,772.18507897,Gentiana punctata,Gentiana,KNApSAcK
+249,C00006331,60077-50-1,Isoorientin 4'-O-glucoside 2''-O-(E)-ferulate,C37H38O19,786.20072904,Gentiana burseri,Gentiana,KNApSAcK
+250,C00006332,64763-02-6,Isovitexin 4'-O-glucoside 2''-O-(E)-ferulate,C37H38O18,770.20581441,Gentiana punctata,Gentiana,KNApSAcK
+251,C00006338,57186-28-4,Isoorientin 4'-O-glucoside-2''-(4-glucosylcaffeate),C42H46O24,934.2379024,Gentiana burseri,Gentiana,KNApSAcK
+252,C00006341,80749-68-4,"Isoorientin 4'-O-glucoside-2''-(4-glucosyloxy-2,5-dihydroxycinnamante)",C42H46O25,950.23281702,Gentiana punctata,Gentiana,KNApSAcK
+253,C00006393,19416-87-6,Isosaponarin,C27H30O15,594.15847029,Gentiana decumbens,Gentiana,KNApSAcK
+254,C00006393,19416-87-6,Isosaponarin,C27H30O15,594.15847029,Gentiana triflora,Gentiana,KNApSAcK
+255,C00006393,19416-87-6,Isosaponarin,C27H30O15,594.15847029,Gentiana spp.,Gentiana,KNApSAcK
+256,C00006393,19416-87-6,Isosaponarin,C27H30O15,594.15847029,Gentiana decumbers,Gentiana,KNApSAcK
+257,C00006393,19416-87-6,Isosaponarin,C27H30O15,594.15847029,Gentiana linearis,Gentiana,KNApSAcK
+258,C00006407,63316-27-8,"Isovitexin 4',2''-di-O-glucoside",C33H40O20,756.21129372,Gentiana asclepiadea,Gentiana,KNApSAcK
+259,C00006820,170900-28-4,Gentiocyanin C,C36H37O18,757.19798938,Gentiana sp.,Gentiana,KNApSAcK
+260,C00006822,170663-59-9,Gentiocyanin A,C36H37O19,773.192904,Gentiana sp.,Gentiana,KNApSAcK
+261,C00006857,170663-60-2,Gentiocyanin B,C51H53O27,1097.27742149,Gentiana sp.,Gentiana,KNApSAcK
+262,C00006986,518-58-1,Pedicellin,C20H22O6,358.14163844,Gentiana pedicellata,Gentiana,KNApSAcK
+263,C00007232,134-04-3,Pelargonidin,C15H11O5.Cl,306.02950117,Gentiana lutea L. var. aurantiaca,Gentiana,KNApSAcK
+264,C00007233,25515-46-2,Naringenin chalcone,C15H12O5,272.06847349,Gentiana lutea L. var. aurantiaca,Gentiana,KNApSAcK
+265,C00007234,480-20-6,(+)-Dihydrokaempferol,C15H12O6,288.06338812,Gentiana lutea L. var. aurantiaca,Gentiana,KNApSAcK
+266,C00007235,480-17-1,Leucocyanidin,C15H14O7,306.0739528,Gentiana lutea L. var. aurantiaca,Gentiana,KNApSAcK
+267,C00007259,72-89-9,Acetyl-CoA,C23H38N7O17P3S,809.12577304,Gentiana straminea,Gentiana,KNApSAcK
+268,C00007260,524-14-1,Malonyl-CoA,C24H38N7O19P3S,853.11560229,Gentiana lutea L. var. aurantiaca,Gentiana,KNApSAcK
+269,C00007270,1553-55-5,HMG-CoA,C27H44N7O20P3S,911.1574671,Gentiana straminea,Gentiana,KNApSAcK
+270,C00007280,30802-00-7,p-Coumaroyl CoA,C30H42N7O18P3S,913.15198779,Gentiana lutea L. var. aurantiaca,Gentiana,KNApSAcK
+271,C00007282,7200-26-2,"(S)-2,3-Epoxysqualene",C30H50O,426.38616622,Gentiana straminea,Gentiana,KNApSAcK
+272,C00008650,99119-69-4,Kushenol I,C26H30O7,454.19915331,Gentiana straminea,Gentiana,KNApSAcK
+273,C00010604,22255-40-9,Loganate,C16H24O10,376.13694699,Gentiana scabra,Gentiana,KNApSAcK
+274,C00010604,22255-40-9,Loganate,C16H24O10,376.13694699,Gentiana straminea,Gentiana,KNApSAcK
+275,C00010604,22255-40-9,Loganate,C16H24O10,376.13694699,Gentiana loureirii,Gentiana,KNApSAcK
+276,C00010604,22255-40-9,Loganate,C16H24O10,376.13694699,Gentiana lutea,Gentiana,KNApSAcK
+277,C00010604,22255-40-9,Loganate,C16H24O10,376.13694699,Gentiana triflora,Gentiana,KNApSAcK
+278,C00010604,22255-40-9,Loganate,C16H24O10,376.13694699,Gentiana rigescens,Gentiana,KNApSAcK
+279,C00010604,22255-40-9,Loganate,C16H24O10,376.13694699,Gentiana macrophylla,Gentiana,KNApSAcK
+280,C00010604,22255-40-9,Loganate,C16H24O10,376.13694699,Radix gentianae,Gentiana,KNApSAcK
+281,C00010604,22255-40-9,Loganate,C16H24O10,376.13694699,Gentiana decumbers,Gentiana,KNApSAcK
+282,C00010604,22255-40-9,Loganate,C16H24O10,376.13694699,Gentiana lawrencei,Gentiana,KNApSAcK
+283,C00010604,22255-40-9,Loganate,C16H24O10,376.13694699,Gentiana crassicaulis,Gentiana,KNApSAcK
+284,C00010604,22255-40-9,Loganate,C16H24O10,376.13694699,Gentiana algida,Gentiana,KNApSAcK
+285,C00010604,22255-40-9,Loganate,C16H24O10,376.13694699,Gentiana rhodantha,Gentiana,KNApSAcK
+286,C00010604,22255-40-9,Loganate,C16H24O10,376.13694699,Gentiana manshurica,Gentiana,KNApSAcK
+287,C00010604,22255-40-9,Loganate,C16H24O10,376.13694699,Gentiana officinalis,Gentiana,KNApSAcK
+288,C00010608,96935-16-9,Depressoside,C35H42O20,782.22694379,Gentiana depressa,Gentiana,KNApSAcK
+289,C00010677,51848-03-4,Scabroside,C15H22O10,362.12129692,Gentiana scabra,Gentiana,KNApSAcK
+290,C00010746,74213-77-7,Eustomorusside,C16H24O12,408.12677623,Gentiana campestris,Gentiana,KNApSAcK
+291,C00010746,74213-77-7,Eustomorusside,C16H24O12,408.12677623,Gentiana straminea,Gentiana,KNApSAcK
+292,C00010747,74213-75-5,Eustomoside,C16H22O11,390.11621155,Gentiana campestris,Gentiana,KNApSAcK
+293,C00010748,,5-Deoxyeustomoside,C16H22O10,374.12129692,Gentiana campestris,Gentiana,KNApSAcK
+294,C00010749,74213-76-6,Eustoside,C16H23ClO11,426.09288929,Gentiana campestris,Gentiana,KNApSAcK
+295,C00010753,34239-17-3,Gentioflavoside,C16H22O10,374.12129692,Gentiana punctata,Gentiana,KNApSAcK
+296,C00010754,65853-15-8,(+)-Gentiolactone,C10H12O5,212.06847349,Gentiana lutea,Gentiana,KNApSAcK
+297,C00010754,65853-15-8,(+)-Gentiolactone,C10H12O5,212.06847349,Gentiana purpurea,Gentiana,KNApSAcK
+298,C00010792,72463-81-1,Secologanol,C17H26O10,390.15259705,Gentiana straminea,Gentiana,KNApSAcK
+299,C00010792,72463-81-1,Secologanol,C17H26O10,390.15259705,Gentiana verna,Gentiana,KNApSAcK
+300,C00010794,14215-86-2,Sweroside,C16H22O9,358.1263823,Gentiana manshurica,Gentiana,KNApSAcK
+301,C00010794,14215-86-2,Sweroside,C16H22O9,358.1263823,Gentiana macrophylla,Gentiana,KNApSAcK
+302,C00010794,14215-86-2,Sweroside,C16H22O9,358.1263823,Gentiana loureirii,Gentiana,KNApSAcK
+303,C00010794,14215-86-2,Sweroside,C16H22O9,358.1263823,Gentiana crassicaulis,Gentiana,KNApSAcK
+304,C00010794,14215-86-2,Sweroside,C16H22O9,358.1263823,Gentiana verna,Gentiana,KNApSAcK
+305,C00010794,14215-86-2,Sweroside,C16H22O9,358.1263823,Gentiana lawrencei,Gentiana,KNApSAcK
+306,C00010794,14215-86-2,Sweroside,C16H22O9,358.1263823,Radix gentianae,Gentiana,KNApSAcK
+307,C00010794,14215-86-2,Sweroside,C16H22O9,358.1263823,Gentiana algida,Gentiana,KNApSAcK
+308,C00010794,14215-86-2,Sweroside,C16H22O9,358.1263823,Gentiana straminea,Gentiana,KNApSAcK
+309,C00010794,14215-86-2,Sweroside,C16H22O9,358.1263823,Gentiana scabra,Gentiana,KNApSAcK
+310,C00010794,14215-86-2,Sweroside,C16H22O9,358.1263823,Gentiana rigescens,Gentiana,KNApSAcK
+311,C00010794,14215-86-2,Sweroside,C16H22O9,358.1263823,Gentiana lutea,Gentiana,KNApSAcK
+312,C00010794,14215-86-2,Sweroside,C16H22O9,358.1263823,Gentiana kurroo,Gentiana,KNApSAcK
+313,C00010794,14215-86-2,Sweroside,C16H22O9,358.1263823,Gentiana rhodantha,Gentiana,KNApSAcK
+314,C00010794,14215-86-2,Sweroside,C16H22O9,358.1263823,Gentiana officinalis,Gentiana,KNApSAcK
+315,C00010795,52811-25-3,Amaropanin,C29H30O12,570.17372642,Gentiana panonica,Gentiana,KNApSAcK
+316,C00010795,52811-25-3,Amaropanin,C29H30O12,570.17372642,Gentiana pannonica,Gentiana,KNApSAcK
+317,C00010795,52811-25-3,Amaropanin,C29H30O12,570.17372642,Gentiana purpurea,Gentiana,KNApSAcK
+318,C00010795,52811-25-3,Amaropanin,C29H30O12,570.17372642,Gentiana punctata,Gentiana,KNApSAcK
+319,C00010796,53823-10-2,Trifloroside,C35H42O20,782.22694379,Gentiana triflora,Gentiana,KNApSAcK
+320,C00010796,53823-10-2,Trifloroside,C35H42O20,782.22694379,Gentiana scabra,Gentiana,KNApSAcK
+321,C00010796,53823-10-2,Trifloroside,C35H42O20,782.22694379,Gentiana trifolia,Gentiana,KNApSAcK
+322,C00010798,21233-18-1,Amaroswerin,C29H30O14,602.16355567,Gentiana sp.,Gentiana,KNApSAcK
+323,C00010798,21233-18-1,Amaroswerin,C29H30O14,602.16355567,Gentiana panonica,Gentiana,KNApSAcK
+324,C00010798,21233-18-1,Amaroswerin,C29H30O14,602.16355567,Gentiana lutea L.,Gentiana,KNApSAcK
+325,C00014040,191615-66-4,Isovitexin 6''-O-glucoside,C27H30O15,594.15847029,Gentiana arisanensis,Gentiana,KNApSAcK
+326,C00014100,172377-88-7,Isoorientin 6''-O-caffeate,C30H26O14,610.13225554,Gentiana arisanensis,Gentiana,KNApSAcK
+327,C00014195,34981-26-5,Kurarinone,C26H30O6,438.20423869,Gentiana macrophylla,Gentiana,KNApSAcK
+328,C00014781,198645-07-7,"Delphinidin 3,3'-di-glucoside-5-(6-caffeoylglucoside)",C42H47O25,951.24064206,Gentiana spp.,Gentiana,KNApSAcK
+329,C00014782,190511-78-5,"Delphinidin 3,3'-di-glucoside-5-(6-p-coumarylglucoside)",C42H47O24,935.24572743,Gentiana spp.,Gentiana,KNApSAcK
+330,C00014819,198645-14-6,Delphinidin 3-glucoside-5-(6-caffeoylglucoside)-3'-(6-(E)-p-coumaroylglucoside),C51H53O27,1097.27742149,Gentiana spp.,Gentiana,KNApSAcK
+331,C00014820,178737-74-1,Delphinidin 3-glucoside-5-(6-(E)-p-coumaroylglucoside),C36H37O19,773.192904,Gentiana spp.,Gentiana,KNApSAcK
+332,C00014835,448963-05-1,Pelargonidin 3-O-[2-O-(6-(E)-feruloyl-beta-D-glucopyranosyl)-6-O-(E)-caffeoyl-beta-D-glucopyranoside]-5-O-(beta-D-glucopyranoside),C52H55O26,1095.29815693,Gentiana lutea L. var. aurantiaca,Gentiana,KNApSAcK
+333,C00014840,448963-08-4,Pelargonidin 3-O-[2-O-(6-(E)-feruloyl-beta-D-glucopyranosyl)-6-O-(E)-p-coumaroyl-beta-D-glucopyranoside]-5-O-(beta-D-glucopyranoside),C52H55O25,1079.30324231,Gentiana lutea L. var. aurantiaca,Gentiana,KNApSAcK
+334,C00015806,113270-95-4,Macrophylloside A,C24H28O11,492.16316174,Gentiana tibetica,Gentiana,KNApSAcK
+335,C00015806,113270-95-4,Macrophylloside A,C24H28O11,492.16316174,Gentiana straminea,Gentiana,KNApSAcK
+336,C00019064,508-02-1,Oleanolic acid,C30H48O3,456.3603454,Gentiana loureirii,Gentiana,KNApSAcK
+337,C00019308,474-58-8,3-O-beta-D-Glucopyranosyl sitosterol,C35H60O6,576.43898965,Gentiana lutea L.,Gentiana,KNApSAcK
+338,C00020637,491-52-1,Leucodelphinidin,C15H14O8,322.06886743,Gentiana lutea L. var. aurantiaca,Gentiana,KNApSAcK
+339,C00020638,520-17-2,Leucopelargonidin,C15H14O6,290.07903818,Gentiana lutea L. var. aurantiaca,Gentiana,KNApSAcK
+340,C00027157,53602-03-2,Oliverine,C20H21NO4,339.14705817,Gentiana olivieri Griseb.Rgl.et Schamlh.,Gentiana,KNApSAcK
+341,C00029431,26271-33-0,"2,3',4,6-Tetrahydroxybenzophenone",C13H10O5,246.05282343,Gentiana lutea,Gentiana,KNApSAcK
+342,C00029665,638-96-0,alpha-Amyrenone,C30H48O,424.37051615,Gentiana lutea,Gentiana,KNApSAcK
+343,C00029674,98-55-5,alpha-Terpineol,C10H18O,154.1357652,Gentiana lutea,Gentiana,KNApSAcK
+344,C00029675,72657-56-8,alpha-Tocopherolquinone,C29H50O3,446.37599546,Gentiana lutea,Gentiana,KNApSAcK
+345,C00029692,34818-56-9,Anofinic acid,C12H12O3,204.07864425,Gentiana algida,Gentiana,KNApSAcK
+346,C00029823,582315-55-7,Betulin 3-O-palmitate,C46H80O3,680.61074642,Gentiana lutea,Gentiana,KNApSAcK
+347,C00029961,621-82-9,Cinnamic acid,C9H8O2,148.0524295,Gentiana lutea L. var. aurantiaca,Gentiana,KNApSAcK
+348,C00030150,57402-36-5,Docosanal,C22H44O,324.33921603,Gentiana lutea,Gentiana,KNApSAcK
+349,C00030213,19833-13-7,Erythrodiol 3-O-palmitate,C46H80O3,680.61074642,Gentiana lutea,Gentiana,KNApSAcK
+350,C00030375,529-48-6,Gentioside,C25H28O14,552.14790561,Gentiana lutea,Gentiana,KNApSAcK
+351,C00030375,529-48-6,Gentioside,C25H28O14,552.14790561,Gentiana cruciata,Gentiana,KNApSAcK
+352,C00030375,529-48-6,Gentioside,C25H28O14,552.14790561,Gentiana dinarica,Gentiana,KNApSAcK
+353,C00030477,26627-85-0,Hexacosanal,C26H52O,380.40181628,Gentiana lutea,Gentiana,KNApSAcK
+354,C00030706,179457-69-3,Macrophylloside D,C25H34O14,558.1948558,Gentiana macrophylla,Gentiana,KNApSAcK
+355,C00031311,857665-60-2,Scabran G3,C28H40O19,680.2163791,Gentiana lutea,Gentiana,KNApSAcK
+356,C00031346,58822-47-2,Secoxyloganin,C17H24O11,404.13186161,Gentiana rhodantha,Gentiana,KNApSAcK
+357,C00031399,853023-30-0,Swertiajaposide A,C17H24O10,388.13694699,Gentiana scabra,Gentiana,KNApSAcK
+358,C00032306,57866-08-7,Tetracosanal,C24H48O,352.37051615,Gentiana lutea,Gentiana,KNApSAcK
+359,C00032468,116310-00-0,Uvaol 3-O-palmitate,C46H80O3,680.61074642,Gentiana lutea,Gentiana,KNApSAcK
+360,C00033360,471283-27-9,Saprosmoside H,C34H42O21S,818.19392914,Gentiana straminea,Gentiana,KNApSAcK
+361,C00035722,769953-68-6,Paederotoside,C28H34O15,610.18977042,Gentiana straminea,Gentiana,KNApSAcK
+362,C00035829,873079-01-7,Gentiotrifloroside,C29H36O17,656.19524973,Gentiana scabra,Gentiana,KNApSAcK
+363,C00035829,873079-01-7,Gentiotrifloroside,C29H36O17,656.19524973,Gentiana triflora,Gentiana,KNApSAcK
+364,C00035965,115713-06-9,6'-O-beta-D-glucopyranosyl gentiopicroside,C22H30O14,518.16355567,Gentiana straminea,Gentiana,KNApSAcK
+365,C00035965,115713-06-9,6'-O-beta-D-glucopyranosyl gentiopicroside,C22H30O14,518.16355567,Gentiana scabra,Gentiana,KNApSAcK
+366,C00035965,115713-06-9,6'-O-beta-D-glucopyranosyl gentiopicroside,C22H30O14,518.16355567,Gentiana manshurica,Gentiana,KNApSAcK
+367,C00035965,115713-06-9,6'-O-beta-D-glucopyranosyl gentiopicroside,C22H30O14,518.16355567,Gentiana rigescens,Gentiana,KNApSAcK
+368,C00035965,115713-06-9,6'-O-beta-D-glucopyranosyl gentiopicroside,C22H30O14,518.16355567,Gentiana crassicaulis,Gentiana,KNApSAcK
+369,C00035965,115713-06-9,6'-O-beta-D-glucopyranosyl gentiopicroside,C22H30O14,518.16355567,Gentiana macrophylla,Gentiana,KNApSAcK
+370,C00036132,29748-10-5,Loganetin,C11H16O5,228.09977362,Gentiana verna,Gentiana,KNApSAcK
+371,C00036339,138590-98-4,"(20S)-Dammara-13(17),24-dien-3-one",C30H48O,424.37051615,Gentiana scabra,Gentiana,KNApSAcK
+372,C00036455,5563-17-7,"2,4,5-Trihydroxy-1-methoxyxanthone",C14H10O6,274.04773805,Gentiana karelinii,Gentiana,KNApSAcK
+373,C00036455,5563-17-7,"2,4,5-Trihydroxy-1-methoxyxanthone",C14H10O6,274.04773805,Gentiana bavarica,Gentiana,KNApSAcK
+374,C00036455,5563-17-7,"2,4,5-Trihydroxy-1-methoxyxanthone",C14H10O6,274.04773805,Gentiana brachyphylla,Gentiana,KNApSAcK
+375,C00036455,5563-17-7,"2,4,5-Trihydroxy-1-methoxyxanthone",C14H10O6,274.04773805,Gentiana ciliata,Gentiana,KNApSAcK
+376,C00036455,5563-17-7,"2,4,5-Trihydroxy-1-methoxyxanthone",C14H10O6,274.04773805,Gentiana favrati,Gentiana,KNApSAcK
+377,C00036455,5563-17-7,"2,4,5-Trihydroxy-1-methoxyxanthone",C14H10O6,274.04773805,Gentiana verna,Gentiana,KNApSAcK
+378,C00036455,5563-17-7,"2,4,5-Trihydroxy-1-methoxyxanthone",C14H10O6,274.04773805,Gentiana rostanii,Gentiana,KNApSAcK
+379,C00036455,5563-17-7,"2,4,5-Trihydroxy-1-methoxyxanthone",C14H10O6,274.04773805,Gentiana nivalis,Gentiana,KNApSAcK
+380,C00036455,5563-17-7,"2,4,5-Trihydroxy-1-methoxyxanthone",C14H10O6,274.04773805,Gentiana kochiana,Gentiana,KNApSAcK
+381,C00036897,132865-97-5,Chiratenol,C30H50O,426.38616622,Gentiana scabra,Gentiana,KNApSAcK
+382,C00037010,20882-69-3,Decussatin,C16H14O6,302.07903818,Gentiana verna,Gentiana,KNApSAcK
+383,C00037010,20882-69-3,Decussatin,C16H14O6,302.07903818,Gentiana utriculosa,Gentiana,KNApSAcK
+384,C00037010,20882-69-3,Decussatin,C16H14O6,302.07903818,Gentiana tenella,Gentiana,KNApSAcK
+385,C00037010,20882-69-3,Decussatin,C16H14O6,302.07903818,Gentiana schleicheri,Gentiana,KNApSAcK
+386,C00037010,20882-69-3,Decussatin,C16H14O6,302.07903818,Gentiana rostanii,Gentiana,KNApSAcK
+387,C00037010,20882-69-3,Decussatin,C16H14O6,302.07903818,Gentiana ramosa,Gentiana,KNApSAcK
+388,C00037010,20882-69-3,Decussatin,C16H14O6,302.07903818,Gentiana nivalis,Gentiana,KNApSAcK
+389,C00037010,20882-69-3,Decussatin,C16H14O6,302.07903818,Gentiana brachyphylla,Gentiana,KNApSAcK
+390,C00037010,20882-69-3,Decussatin,C16H14O6,302.07903818,Gentiana barbata,Gentiana,KNApSAcK
+391,C00037010,20882-69-3,Decussatin,C16H14O6,302.07903818,Gentiana kochiana,Gentiana,KNApSAcK
+392,C00037010,20882-69-3,Decussatin,C16H14O6,302.07903818,Gentiana favrati,Gentiana,KNApSAcK
+393,C00037010,20882-69-3,Decussatin,C16H14O6,302.07903818,Gentiana detonsa,Gentiana,KNApSAcK
+394,C00037010,20882-69-3,Decussatin,C16H14O6,302.07903818,Gentiana ciliata,Gentiana,KNApSAcK
+395,C00037010,20882-69-3,Decussatin,C16H14O6,302.07903818,Gentiana campestris,Gentiana,KNApSAcK
+396,C00037275,564-14-7,Hop-17(21)-en-3beta-ol,C30H50O,426.38616622,Gentiana scabra,Gentiana,KNApSAcK
+397,C00037276,471-61-4,Hop-17(21)-en-3-one,C30H48O,424.37051615,Gentiana scabra,Gentiana,KNApSAcK
+398,C00037320,552-00-1,"1,3,8-Trihydroxy-5-methoxyxanthone",C14H10O6,274.04773805,Gentiana ramosa,Gentiana,KNApSAcK
+399,C00037320,552-00-1,"1,3,8-Trihydroxy-5-methoxyxanthone",C14H10O6,274.04773805,Gentiana tenella,Gentiana,KNApSAcK
+400,C00037320,552-00-1,"1,3,8-Trihydroxy-5-methoxyxanthone",C14H10O6,274.04773805,Gentiana karelinii,Gentiana,KNApSAcK
+401,C00037320,552-00-1,"1,3,8-Trihydroxy-5-methoxyxanthone",C14H10O6,274.04773805,Gentiana germanica,Gentiana,KNApSAcK
+402,C00037320,552-00-1,"1,3,8-Trihydroxy-5-methoxyxanthone",C14H10O6,274.04773805,Gentiana campestris,Gentiana,KNApSAcK
+403,C00037320,552-00-1,"1,3,8-Trihydroxy-5-methoxyxanthone",C14H10O6,274.04773805,Gentiana bellidifolia,Gentiana,KNApSAcK
+404,C00037320,552-00-1,"1,3,8-Trihydroxy-5-methoxyxanthone",C14H10O6,274.04773805,Gentiana algida,Gentiana,KNApSAcK
+405,C00037328,20882-77-3,Isogentiacaulein,C15H12O6,288.06338812,Gentiana kochiana,Gentiana,KNApSAcK
+406,C00037329,5042-15-9,Isogentiakochianin,C14H10O6,274.04773805,Gentiana germanica,Gentiana,KNApSAcK
+407,C00037329,5042-15-9,Isogentiakochianin,C14H10O6,274.04773805,Gentiana cerastoides,Gentiana,KNApSAcK
+408,C00037513,25406-64-8,Morroniside,C17H26O11,406.14751167,Gentiana straminea,Gentiana,KNApSAcK
+409,C00037513,25406-64-8,Morroniside,C17H26O11,406.14751167,Gentiana thunbergii,Gentiana,KNApSAcK
+410,C00037800,59472-23-0,Secologanoside,C16H22O11,390.11621155,Gentiana rhodantha,Gentiana,KNApSAcK
+411,C00037871,25991-81-5,Swertinin,C15H12O6,288.06338812,Gentiana kochiana,Gentiana,KNApSAcK
+412,C00038403,239791-88-9,Alboside III,C26H32O12,536.18937649,Gentiana straminea,Gentiana,KNApSAcK
+413,C00039260,939791-45-4,Gentirigenic acid,C30H50O7,522.35565395,Gentiana rigescens,Gentiana,KNApSAcK
+414,C00042064,857665-59-9,1-O-beta-D-Glucopyranosyl-4-epiamplexine,C16H26O9,362.15768243,Gentiana scabra,Gentiana,KNApSAcK
+415,C00042555,857665-56-6,Gentiascabraside A,C17H24O11,404.13186161,Gentiana scabra,Gentiana,KNApSAcK
+416,C00042963,857665-61-3,Scabrans G4,C34H50O24,842.26920253,Gentiana scabra,Gentiana,KNApSAcK
+417,C00042964,857665-63-5,Scabrans G5,C40H60O29,1004.32202596,Gentiana scabra,Gentiana,KNApSAcK
+418,C00045572,386235-48-9,4'-O-beta-D-glucopyranosylgentiopicroside,C22H30O14,518.16355567,Gentiana scabra,Gentiana,KNApSAcK
+419,C00049070,209343-87-3,"1alpha,2alpha,3beta,30-Tetrahydroxyurs-12-ene",C30H50O4,474.37091008,Gentiana neurotheca,Gentiana,KNApSAcK
+420,C00049086,209343-88-4,"3beta,24,30-Trihydroxyurs-12-ene",C30H50O3,458.37599546,Gentiana neurotheca,Gentiana,KNApSAcK
+421,C00050934,55399-77-4,Isogentialutine,C9H11NO,149.08406398,Gentiana tibetica,Gentiana,KNApSAcK
+422,C00051571,55682-92-3,Methyl montanate,C29H58O2,438.44368109,Gentiana macrophylla,Gentiana,KNApSAcK
+423,C00051985,608-07-1,5-Methoxytryptamine,C11H14N2O,190.11061308,Gentiana scabra,Gentiana,KNApSAcK
+424,C00051985,608-07-1,5-Methoxytryptamine,C11H14N2O,190.11061308,Gentiana macrophylla,Gentiana,KNApSAcK
+425,C00052006,73-31-4,Melatonin,C13H16N2O2,232.12117777,Gentiana macrophylla,Gentiana,KNApSAcK
+426,C00052006,73-31-4,Melatonin,C13H16N2O2,232.12117777,Gentiana scabra,Gentiana,KNApSAcK
+427,C00052035,,DMAPP,C5H12O7P2,246.00582572,Gentiana straminea,Gentiana,KNApSAcK
+428,C00052039,,IPP,C5H12O7P2,246.00582572,Gentiana straminea,Gentiana,KNApSAcK
+429,C00052568,1264481-99-3,"1beta,2alpha,3alpha,24-tetrahydroxyursa-12,20(30)-dien-28-oic acid",C30H46O6,502.3294392,Gentiana straminea,Gentiana,KNApSAcK
+430,C00052773,934767-98-3,7-O-feruloylorientin,C31H28O14,624.14790561,Gentiana straminea,Gentiana,KNApSAcK
+431,C00053051,25429-38-3,Coumaric acid,C9H8O3,164.04734412,Gentiana lutea L. var. aurantiaca,Gentiana,KNApSAcK
+432,C00053253,554-91-6,Gentiobiose,C12H22O11,342.11621155,Gentiana straminea,Gentiana,KNApSAcK
+433,C00053607,41645-64-1,Oliveramine,C20H20N2O4,352.14230714,Gentiana straminea,Gentiana,KNApSAcK
+434,C00053609,249294-77-7,Olivieroside A,C25H26O11,502.14751167,Gentiana straminea,Gentiana,KNApSAcK
+435,C00053695,110064-61-4,Pneumonanthoside,C24H38O11,502.24141206,Gentiana straminea,Gentiana,KNApSAcK
+436,C00053737,157536-50-0,Qinjiaoside A,C17H24O11,404.13186161,Gentiana straminea,Gentiana,KNApSAcK
+437,C00053742,1346648-38-1,Rhodanthenone B,C19H20O11,424.10056148,Gentiana rhodantha,Gentiana,KNApSAcK
+438,C00053743,158848-18-1,Rhodenthoside A,C42H58O22,914.34197354,Gentiana rhodantha,Gentiana,KNApSAcK
+439,C00053751,128420-44-0,Rindoside,C35H42O21,798.22185841,Gentiana straminea,Gentiana,KNApSAcK
+440,C00053751,128420-44-0,Rindoside,C35H42O21,798.22185841,Gentiana scabra,Gentiana,KNApSAcK
+441,C00054105,271-89-6,Coumarone,C8H6O,118.04186481,Gentiana lutea,Gentiana,KNApSAcK
+442,C00054142,17948-42-4,Alkaloid RW47,C9H11NO,149.08406398,Gentiana lutea,Gentiana,KNApSAcK
+443,C00056312,1002101-83-8,Gentiolutelin,C10H16O4,200.104859,Gentiana lutea,Gentiana,KNApSAcK
+444,C00059511,126223-63-0,"[2S-(2alpha,3beta,4beta)]-4-[2-(Acetyloxy)ethyl]-3-ethenyl-2-(beta-D-glucopyranosyloxy)-3,4-dihydro-2H-pyran-5-carboxylic acid, methyl ester",C19H28O11,432.16316174,Gentiana verna,Gentiana,KNApSAcK
+445,C00059512,126223-64-1,"[2S-(2alpha,3beta,4beta)]-4-[2-[(2,5-Dihydroxybenzoyl)oxy]ethyl]-3-ethenyl-2-(beta-D-glucopyranosyloxy)-3,4-dihydro-2H-pyran-5-carboxylic acid, methyl ester",C24H30O13,526.16864105,Gentiana verna,Gentiana,KNApSAcK
+446,C00059525,126431-36-5,"[1S-(1alpha,4aalpha,6alpha,7alpha,7aalpha)]-1,4a,5,6,7,7a-Hexahydro-6-hydroxy-1-[[4-O-(3-hydroxybenzoyl)-beta-D-glucopyranosyl]oxy]-7-methyl-cyclopenta[c]pyran-4-carboxylic acid, methyl ester",C24H30O12,510.17372642,Gentiana verna,Gentiana,KNApSAcK
+447,C00059536,126767-89-3,"[1S-(1alpha,4aalpha,6alpha,7alpha,7aalpha)]-1-[[4-O-Acetyl-2-O-(3-hydroxybenzoyl)-beta-D-glucopyranosyl]oxy]-1,4a,5,6,7,7a-hexahydro-6-hydroxy-7-methyl-cyclopenta[c]pyran-4-carboxylic acid, methyl ester",C26H32O13,552.18429111,Gentiana verna,Gentiana,KNApSAcK
+448,C00059540,126794-20-5,"[1S-(1alpha,4aalpha.6alpha,7alpha,7aalpha)]-1-[[6-O-Acetyl-2-O-(3-hydroxybenzoyl)-beta-D-glucopyranosyl]oxy]-1,4a,5,6,7,7a-hexahydro-6-hydroxy-7-methyl-cyclopenta[c]pyran-4-carboxylic acid, methyl ester",C26H32O13,552.18429111,Gentiana verna,Gentiana,KNApSAcK
+449,C00063025,79409-45-3,"(2S,3R,4S)-4-(1,3-Dioxolan-2-ylmethyl)-3-ethenyl-2-(beta-D-glucopyranosyloxy)-3,4-dihydro-2H-pyran-5-carboxylic acid, methyl ester",C19H28O11,432.16316174,Gentiana verna,Gentiana,KNApSAcK
+450,C00063720,1225022-66-1,Gentiside A,C29H50O4,462.37091008,Gentiana rigescens,Gentiana,KNApSAcK
+451,C00063721,1225022-67-2,Gentiside B,C30H52O4,476.38656015,Gentiana rigescens,Gentiana,KNApSAcK
+452,C00063729,1238837-50-7,Gentiside K,C29H50O4,462.37091008,Gentiana rigescens,Gentiana,KNApSAcK
+453,C00063730,1239178-28-9,Gentiside J,C28H48O4,448.35526002,Gentiana rigescens,Gentiana,KNApSAcK
+454,C00063748,1264482-00-9,6'-O-Acetyl gentiopicroside,C18H22O10,398.12129692,Gentiana straminea,Gentiana,KNApSAcK
+455,C00063748,1264482-00-9,6'-O-Acetyl gentiopicroside,C18H22O10,398.12129692,Gentiana dahurica,Gentiana,KNApSAcK
+456,C00063748,1264482-00-9,6'-O-Acetyl gentiopicroside,C18H22O10,398.12129692,Gentiana macrophylla,Gentiana,KNApSAcK
+457,C00063748,1264482-00-9,6'-O-Acetyl gentiopicroside,C18H22O10,398.12129692,Gentiana crassicaulis,Gentiana,KNApSAcK
+458,C00063853,1415805-65-0,Deglucoserrulatoside,C21H32O9,428.20463262,Gentiana macrophylla,Gentiana,KNApSAcK
